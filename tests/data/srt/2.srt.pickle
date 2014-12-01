@@ -1,0 +1,13450 @@
+(S'windows-1250'
+p0
+(lp1
+(dp2
+S'line_number'
+p3
+I234
+sS'line'
+p4
+V
+p5
+sS'warning'
+p6
+S'Empty line'
+p7
+sS'col'
+p8
+I1
+sa(dp9
+g3
+I3509
+sg4
+g5
+sg6
+g7
+sg8
+I1
+saccopy_reg
+_reconstructor
+p10
+(cpysubtools.subtitle
+Subtitle
+p11
+c__builtin__
+object
+p12
+Ntp13
+Rp14
+(dp15
+S'_units'
+p16
+(lp17
+g10
+(cpysubtools.subtitle
+SubtitleUnit
+p18
+g12
+Ntp19
+Rp20
+(dp21
+S'start'
+p22
+F202.302
+sS'end'
+p23
+F204.497
+sS'text'
+p24
+(lp25
+V<i>Ó, Bo\u017ee.</i>
+p26
+asbag10
+(g18
+g12
+Ntp27
+Rp28
+(dp29
+g22
+F387.053
+sg23
+F389.112
+sg24
+(lp30
+VKdo jsi?
+p31
+asbag10
+(g18
+g12
+Ntp32
+Rp33
+(dp34
+g22
+F398.564
+sg23
+F401.26
+sg24
+(lp35
+VKdo kurva se\u0161?
+p36
+asbag10
+(g18
+g12
+Ntp37
+Rp38
+(dp39
+g22
+F441.407
+sg23
+F443.398
+sg24
+(lp40
+VHaló?
+p41
+asbag10
+(g18
+g12
+Ntp42
+Rp43
+(dp44
+g22
+F443.476
+sg23
+F447.31
+sg24
+(lp45
+V\u010cau, chlape. Wozi?
+p46
+asbag10
+(g18
+g12
+Ntp47
+Rp48
+(dp49
+g22
+F447.38
+sg23
+F449.439
+sg24
+(lp50
+VWozi?
+p51
+asbag10
+(g18
+g12
+Ntp52
+Rp53
+(dp54
+g22
+F449.515
+sg23
+F451.676
+sg24
+(lp55
+V- Ten je na hajzlu.
+p56
+aV- Co\u017ee?
+p57
+asbag10
+(g18
+g12
+Ntp58
+Rp59
+(dp60
+g22
+F451.751
+sg23
+F455.517
+sg24
+(lp61
+VBrockmane?
+p62
+aVBrockmane, jsi to-
+p63
+asbag10
+(g18
+g12
+Ntp64
+Rp65
+(dp66
+g22
+F455.588
+sg23
+F458.079
+sg24
+(lp67
+VPro\u010d nezvedá\u0161 mobil?
+p68
+aVJe tam v\u0161echno v pohod\u011b?
+p69
+asbag10
+(g18
+g12
+Ntp70
+Rp71
+(dp72
+g22
+F458.157
+sg23
+F461.058
+sg24
+(lp73
+VJo, je to, no-
+p74
+asbag10
+(g18
+g12
+Ntp75
+Rp76
+(dp77
+g22
+F461.127
+sg23
+F463.22
+sg24
+(lp78
+Vrozbitý.
+p79
+aVUh, jsme v pohod\u011b.
+p80
+asbag10
+(g18
+g12
+Ntp81
+Rp82
+(dp83
+g22
+F463.296
+sg23
+F466.163
+sg24
+(lp84
+VCo\u017ee?
+p85
+aVNesly\u0161ím t\u011b!
+p86
+asbag10
+(g18
+g12
+Ntp87
+Rp88
+(dp89
+g22
+F466.23199999999997
+sg23
+F468.496
+sg24
+(lp90
+V- \u0158ekl jsem, \u017ee jsme v pohod\u011b.
+p91
+aV- Dobrá.
+p92
+asbag10
+(g18
+g12
+Ntp93
+Rp94
+(dp95
+g22
+F468.568
+sg23
+F471.503
+sg24
+(lp96
+V<i>Snakeskin chce v\u011bd\u011bt,</i>
+p97
+aV<i>jestli tam n\u011bco nezapomn\u011bl.</i>
+p98
+asbag10
+(g18
+g12
+Ntp99
+Rp100
+(dp101
+g22
+F471.571
+sg23
+F474.131
+sg24
+(lp102
+V- Glocka!
+p103
+aV- Kde?
+p104
+asbag10
+(g18
+g12
+Ntp105
+Rp106
+(dp107
+g22
+F474.207
+sg23
+F476.60699999999997
+sg24
+(lp108
+VNevím.
+p109
+aVVe stole.
+p110
+asbag10
+(g18
+g12
+Ntp111
+Rp112
+(dp113
+g22
+F476.676
+sg23
+F478.61
+sg24
+(lp114
+VMoment.
+p115
+asbag10
+(g18
+g12
+Ntp116
+Rp117
+(dp118
+g22
+F500.9
+sg23
+F504.996
+sg24
+(lp119
+V- Jo, je tady.
+p120
+aV- M\u016f\u017ee\u0161 mluvit nahlas? Nesly\u0161ím t\u011b!
+p121
+asbag10
+(g18
+g12
+Ntp122
+Rp123
+(dp124
+g22
+F505.071
+sg23
+F507.005
+sg24
+(lp125
+V\u0158ekl jsem, \u017ee je tady.
+p126
+asbag10
+(g18
+g12
+Ntp127
+Rp128
+(dp129
+g22
+F507.073
+sg23
+F509.94
+sg24
+(lp130
+VJasn\u011b, v\u011bd\u011bl jsem to.
+p131
+aV\u0158íkal jsem tomu srá\u010dovi, \u017ee tam je.
+p132
+asbag10
+(g18
+g12
+Ntp133
+Rp134
+(dp135
+g22
+F510.009
+sg23
+F512.034
+sg24
+(lp136
+VNechápu, co je
+p137
+aVjeho problém.
+p138
+asbag10
+(g18
+g12
+Ntp139
+Rp140
+(dp141
+g22
+F512.111
+sg23
+F514.102
+sg24
+(lp142
+VJak je na tom Coles?
+p143
+asbag10
+(g18
+g12
+Ntp144
+Rp145
+(dp146
+g22
+F515.581
+sg23
+F517.572
+sg24
+(lp147
+VJe v pohod\u011b.
+p148
+asbag10
+(g18
+g12
+Ntp149
+Rp150
+(dp151
+g22
+F517.65
+sg23
+F520.141
+sg24
+(lp152
+VTak\u017ee, za jak
+p153
+aVdlouho se vrátíte?
+p154
+asbag10
+(g18
+g12
+Ntp155
+Rp156
+(dp157
+g22
+F520.219
+sg23
+F522.153
+sg24
+(lp158
+VNejsi trochu nedo\u010dkavej?
+p159
+asbag10
+(g18
+g12
+Ntp160
+Rp161
+(dp162
+g22
+F522.221
+sg23
+F526.282
+sg24
+(lp163
+VKdo ví? Mo\u017ená- no nevím.
+p164
+aVAsi za pár hodin.
+p165
+asbag10
+(g18
+g12
+Ntp166
+Rp167
+(dp168
+g22
+F526.359
+sg23
+F528.486
+sg24
+(lp169
+VZavoláme ti, a\u017e se to rozjede.
+p170
+aVA Brockmane...
+p171
+asbag10
+(g18
+g12
+Ntp172
+Rp173
+(dp174
+g22
+F528.561
+sg23
+F532.258
+sg24
+(lp175
+Vnedokon\u010duj to tam,
+p176
+aVdokud my to nedokon\u010díme tady.
+p177
+asbag10
+(g18
+g12
+Ntp178
+Rp179
+(dp180
+g22
+F532.331
+sg23
+F534.299
+sg24
+(lp181
+V- Jo.
+p182
+aV- Dob\u0159e. Já padám.
+p183
+asbag10
+(g18
+g12
+Ntp184
+Rp185
+(dp186
+g22
+F534.367
+sg23
+F536.927
+sg24
+(lp187
+VJsou tu v\u0161ude poldové.
+p188
+asbag10
+(g18
+g12
+Ntp189
+Rp190
+(dp191
+g22
+F578.945
+sg23
+F580.81
+sg24
+(lp192
+V<i>Co to vyvádí?</i>
+p193
+asbag10
+(g18
+g12
+Ntp194
+Rp195
+(dp196
+g22
+F581.981
+sg23
+F584.279
+sg24
+(lp197
+V<i>Molino, máme problém.</i>
+p198
+asbag10
+(g18
+g12
+Ntp199
+Rp200
+(dp201
+g22
+F587.553
+sg23
+F589.248
+sg24
+(lp202
+V- Paní Colesová...
+p203
+aV- Já vím.
+p204
+asbag10
+(g18
+g12
+Ntp205
+Rp206
+(dp207
+g22
+F589.322
+sg23
+F592.348
+sg24
+(lp208
+V- M\u011bla jste sem p\u0159ijít, jen kdyby se n\u011bco zvrtlo.
+p209
+aV- Nemohla jsem. Prost\u011b jsem-
+p210
+asbag10
+(g18
+g12
+Ntp211
+Rp212
+(dp213
+g22
+F592.425
+sg23
+F594.359
+sg24
+(lp214
+V- <i>Molino?</i>
+p215
+aV- Je v po\u0159ádku, kapitáne.
+p216
+asbag10
+(g18
+g12
+Ntp217
+Rp218
+(dp219
+g22
+F594.427
+sg23
+F596.554
+sg24
+(lp220
+VMusíte ji tam dostat!
+p221
+aVRozumíte?
+p222
+asbag10
+(g18
+g12
+Ntp223
+Rp224
+(dp225
+g22
+F599.298
+sg23
+F601.232
+sg24
+(lp226
+VPlný signál.
+p227
+asbag10
+(g18
+g12
+Ntp228
+Rp229
+(dp230
+g22
+F601.3
+sg23
+F604.827
+sg24
+(lp231
+V- <i>Curtisi, máte dobrý signál?</i>
+p232
+aV- Tady je to v pohod\u011b.
+p233
+asbag10
+(g18
+g12
+Ntp234
+Rp235
+(dp236
+g22
+F605.905
+sg23
+F608.465
+sg24
+(lp237
+VV po\u0159ádku, paní Colesová.
+p238
+aVJe na \u010dase.
+p239
+asbag10
+(g18
+g12
+Ntp240
+Rp241
+(dp242
+g22
+F609.475
+sg23
+F611.568
+sg24
+(lp243
+V\u010císlo 52.
+p244
+asbag10
+(g18
+g12
+Ntp245
+Rp246
+(dp247
+g22
+F611.644
+sg23
+F615.546
+sg24
+(lp248
+VV\u0161e co musíte ud\u011blat, je dát to tam a odejít.
+p249
+aVTo je v\u0161echno.
+p250
+asbag10
+(g18
+g12
+Ntp251
+Rp252
+(dp253
+g22
+F615.615
+sg23
+F618.641
+sg24
+(lp254
+VOni unesli mého man\u017eela
+p255
+aVz jeho vlastní budovy.
+p256
+asbag10
+(g18
+g12
+Ntp257
+Rp258
+(dp259
+g22
+F620.7860000000001
+sg23
+F623.016
+sg24
+(lp260
+VNedoká\u017eu si p\u0159edstavit,
+p261
+aV\u010deho dal\u0161ího jsou schopni...
+p262
+asbag10
+(g18
+g12
+Ntp263
+Rp264
+(dp265
+g22
+F623.0889999999999
+sg23
+F626.889
+sg24
+(lp266
+VCo jiného
+p267
+aVmo\u017ená ud\u011blají, kdy\u017e-
+p268
+asbag10
+(g18
+g12
+Ntp269
+Rp270
+(dp271
+g22
+F626.959
+sg23
+F631.02
+sg24
+(lp272
+VPaní Colesová, kdy\u017e se k vám p\u0159íblí\u017eí,
+p273
+aVvlítnem na n\u011b.
+p274
+asbag10
+(g18
+g12
+Ntp275
+Rp276
+(dp277
+g22
+F631.097
+sg23
+F635.591
+sg24
+(lp278
+VNed\u011bsí m\u011b dát jim ty peníze.
+p279
+aVD\u011bsí m\u011b co bude potom.
+p280
+asbag10
+(g18
+g12
+Ntp281
+Rp282
+(dp283
+g22
+F636.602
+sg23
+F638.5360000000001
+sg24
+(lp284
+VCo pak bude s Billem?
+p285
+asbag10
+(g18
+g12
+Ntp286
+Rp287
+(dp288
+g22
+F641.841
+sg23
+F643.832
+sg24
+(lp289
+VNedovolíme jim utéct.
+p290
+asbag10
+(g18
+g12
+Ntp291
+Rp292
+(dp293
+g22
+F645.444
+sg23
+F648.936
+sg24
+(lp294
+VP\u0159ive\u010fte mého man\u017eela,
+p295
+aVdetektive.
+p296
+asbag10
+(g18
+g12
+Ntp297
+Rp298
+(dp299
+g22
+F649.015
+sg23
+F651.506
+sg24
+(lp300
+VJe v\u0161e co mám.
+p301
+asbag10
+(g18
+g12
+Ntp302
+Rp303
+(dp304
+g22
+F666.132
+sg23
+F668.123
+sg24
+(lp305
+VHej, hej, hej.
+p306
+aV
+p307
+asbag10
+(g18
+g12
+Ntp308
+Rp309
+(dp310
+g22
+F668.2
+sg23
+F671.431
+sg24
+(lp311
+V- Co je?
+p312
+aV- Mluv se mnou, sakra! Hej.
+p313
+asbag10
+(g18
+g12
+Ntp314
+Rp315
+(dp316
+g22
+F671.504
+sg23
+F673.768
+sg24
+(lp317
+V- \u0158ekni mi, co se stalo!
+p318
+aV- Nevím co se stalo.
+p319
+asbag10
+(g18
+g12
+Ntp320
+Rp321
+(dp322
+g22
+F673.839
+sg23
+F675.773
+sg24
+(lp323
+V- \u0158ekni mi, co se stalo!
+p324
+aV- Nepamatuji se.
+p325
+asbag10
+(g18
+g12
+Ntp326
+Rp327
+(dp328
+g22
+F675.841
+sg23
+F678.071
+sg24
+(lp329
+V- \u0158ekni mi, co ví\u0161!
+p330
+aV- Tos mi ud\u011blal ty?
+p331
+asbag10
+(g18
+g12
+Ntp332
+Rp333
+(dp334
+g22
+F678.144
+sg23
+F681.807
+sg24
+(lp335
+V- \u0158ekni mi, co se sakra stalo!
+p336
+aV- U\u017e m\u011b nemla\u0165!
+p337
+asbag10
+(g18
+g12
+Ntp338
+Rp339
+(dp340
+g22
+F689.355
+sg23
+F691.619
+sg24
+(lp341
+VNa jakou poslední v\u011bc
+p342
+aVsi vzpomíná\u0161?
+p343
+asbag10
+(g18
+g12
+Ntp344
+Rp345
+(dp346
+g22
+F691.691
+sg23
+F695.218
+sg24
+(lp347
+VJak se probouzím.
+p348
+aVTy jak m\u011b fackuje\u0161.
+p349
+asbag10
+(g18
+g12
+Ntp350
+Rp351
+(dp352
+g22
+F696.295
+sg23
+F698.2860000000001
+sg24
+(lp353
+VProsím, rozva\u017e m\u011b.
+p354
+asbag10
+(g18
+g12
+Ntp355
+Rp356
+(dp357
+g22
+F700.733
+sg23
+F704.328
+sg24
+(lp358
+VKde to jsme?
+p359
+aVCo je to za místo?
+p360
+asbag10
+(g18
+g12
+Ntp361
+Rp362
+(dp363
+g22
+F704.403
+sg23
+F707.304
+sg24
+(lp364
+V- Pustina.
+p365
+aV- Pustina?
+p366
+asbag10
+(g18
+g12
+Ntp367
+Rp368
+(dp369
+g22
+F709.308
+sg23
+F711.606
+sg24
+(lp370
+VTo je v\u0161echno co vím.
+p371
+asbag10
+(g18
+g12
+Ntp372
+Rp373
+(dp374
+g22
+F720.82
+sg23
+F723.584
+sg24
+(lp375
+V- Oni jsou mrtví?
+p376
+aV- Ne.
+p377
+asbag10
+(g18
+g12
+Ntp378
+Rp379
+(dp380
+g22
+F723.656
+sg23
+F727.683
+sg24
+(lp381
+VBude mazec a\u017e se proberou.
+p382
+aVRad\u0161i m\u011b rozva\u017e.
+p383
+asbag10
+(g18
+g12
+Ntp384
+Rp385
+(dp386
+g22
+F728.894
+sg23
+F733.49
+sg24
+(lp387
+V<i>Být tebou, ned\u011blal bych to.</i>
+p388
+asbag10
+(g18
+g12
+Ntp389
+Rp390
+(dp391
+g22
+F733.566
+sg23
+F735.796
+sg24
+(lp392
+VOdkud se kurva vzal tenhle chlap?
+p393
+asbag10
+(g18
+g12
+Ntp394
+Rp395
+(dp396
+g22
+F735.868
+sg23
+F740.4639999999999
+sg24
+(lp397
+VNeposlouchej ho. Vodprejskni!
+p398
+aVHle\u010f si svýho!
+p399
+asbag10
+(g18
+g12
+Ntp400
+Rp401
+(dp402
+g22
+F740.539
+sg23
+F744.1
+sg24
+(lp403
+V<i>My máme jasno.</i>
+p404
+aV<i>Nepot\u0159ebujeme tvou pomoc.</i>
+p405
+asbag10
+(g18
+g12
+Ntp406
+Rp407
+(dp408
+g22
+F746.946
+sg23
+F749.54
+sg24
+(lp409
+V<i>Vá\u017en\u011b.</i>
+p410
+aV<i>Nerozvazuj ho, kámo!</i>
+p411
+asbag10
+(g18
+g12
+Ntp412
+Rp413
+(dp414
+g22
+F749.615
+sg23
+F753.779
+sg24
+(lp415
+V<i>A pro\u010d ne?</i>
+p416
+aV<i>Co ty sakra ví\u0161?</i>
+p417
+asbag10
+(g18
+g12
+Ntp418
+Rp419
+(dp420
+g22
+F753.853
+sg23
+F756.788
+sg24
+(lp421
+VOn je svázanej, my ne.
+p422
+aVMám pravdu?
+p423
+asbag10
+(g18
+g12
+Ntp424
+Rp425
+(dp426
+g22
+F756.856
+sg23
+F759.95
+sg24
+(lp427
+V<i>No to je výborný. Tenhle chlápek</i>
+p428
+aV<i>neví v\u016fbec nic.</i>
+p429
+asbag10
+(g18
+g12
+Ntp430
+Rp431
+(dp432
+g22
+F760.025
+sg23
+F764.689
+sg24
+(lp433
+V<i>Zamysli se chvíli, prosím t\u011b.</i>
+p434
+aV<i>N\u011bkdo tohle ud\u011blal.</i>
+p435
+asbag10
+(g18
+g12
+Ntp436
+Rp437
+(dp438
+g22
+F764.764
+sg23
+F768.325
+sg24
+(lp439
+VChápe\u0161?
+p440
+aVA ud\u011blal to z n\u011bjakého d\u016fvodu, ne?
+p441
+asbag10
+(g18
+g12
+Ntp442
+Rp443
+(dp444
+g22
+F768.4
+sg23
+F771.563
+sg24
+(lp445
+VJo.
+p446
+aVA jakej to je d\u016fvod?
+p447
+asbag10
+(g18
+g12
+Ntp448
+Rp449
+(dp450
+g22
+F771.637
+sg23
+F776.37
+sg24
+(lp451
+VTo je jasný. A\u0165 jsme na jakékoli
+p452
+aVstran\u011b, je jasné, \u017ee ne na jeho.
+p453
+asbag10
+(g18
+g12
+Ntp454
+Rp455
+(dp456
+g22
+F776.442
+sg23
+F778.569
+sg24
+(lp457
+VJaké stran\u011b?
+p458
+aVO \u010dem to mluví\u0161?
+p459
+asbag10
+(g18
+g12
+Ntp460
+Rp461
+(dp462
+g22
+F778.644
+sg23
+F781.807
+sg24
+(lp463
+VNejsme na \u017eádných stranách.
+p464
+aVTady nejsou \u017eádný týmy!
+p465
+asbag10
+(g18
+g12
+Ntp466
+Rp467
+(dp468
+g22
+F781.881
+sg23
+F785.476
+sg24
+(lp469
+V<i>Jsme v tom v\u0161ichni dohromady!</i>
+p470
+aV<i>\u0160mitec!</i>
+p471
+asbag10
+(g18
+g12
+Ntp472
+Rp473
+(dp474
+g22
+F785.551
+sg23
+F788.85
+sg24
+(lp475
+VO.K. Má\u0161 m\u011b!
+p476
+asbag10
+(g18
+g12
+Ntp477
+Rp478
+(dp479
+g22
+F788.921
+sg23
+F791.412
+sg24
+(lp480
+VTak\u017ee, jak jsme se
+p481
+aVsem kurva dostali?
+p482
+asbag10
+(g18
+g12
+Ntp483
+Rp484
+(dp485
+g22
+F792.925
+sg23
+F794.916
+sg24
+(lp486
+VTo nevím.
+p487
+asbag10
+(g18
+g12
+Ntp488
+Rp489
+(dp490
+g22
+F797.363
+sg23
+F801.823
+sg24
+(lp491
+V- McGahey, Andersone,
+p492
+aVp\u0159ipravte se! Vychází.
+p493
+asbag10
+(g18
+g12
+Ntp494
+Rp495
+(dp496
+g22
+F823.422
+sg23
+F827.222
+sg24
+(lp497
+V<i>Zaujm\u011bte pozice!</i>
+p498
+aV<i>Curtisi, \u0159ekni mi, a\u017e se ta v\u011bc pohne.</i>
+p499
+asbag10
+(g18
+g12
+Ntp500
+Rp501
+(dp502
+g22
+F840.973
+sg23
+F844.431
+sg24
+(lp503
+VDo prdele! Co se mu
+p504
+aVsakra stalo?
+p505
+asbag10
+(g18
+g12
+Ntp506
+Rp507
+(dp508
+g22
+F844.51
+sg23
+F848.037
+sg24
+(lp509
+VByl post\u0159elenej. Ztratil
+p510
+aVtaky hodn\u011b krve. Vezmi si to.
+p511
+asbag10
+(g18
+g12
+Ntp512
+Rp513
+(dp514
+g22
+F848.113
+sg23
+F851.139
+sg24
+(lp515
+VB\u011b\u017e se podívat nahoru,
+p516
+aVjestli ho m\u016f\u017ee\u0161 odemknout.
+p517
+asbag10
+(g18
+g12
+Ntp518
+Rp519
+(dp520
+g22
+F851.217
+sg23
+F853.242
+sg24
+(lp521
+VNe. Jsou velký.Jsou
+p522
+aVto klí\u010de od auta.
+p523
+asbag10
+(g18
+g12
+Ntp524
+Rp525
+(dp526
+g22
+F853.319
+sg23
+F856.311
+sg24
+(lp527
+V- Kurva.
+p528
+aV- Jeho pustí\u0161 a m\u011b ne?
+p529
+asbag10
+(g18
+g12
+Ntp530
+Rp531
+(dp532
+g22
+F856.388
+sg23
+F858.481
+sg24
+(lp533
+VKlídek, on byl post\u0159elenej,
+p534
+aVtak sklapni!
+p535
+asbag10
+(g18
+g12
+Ntp536
+Rp537
+(dp538
+g22
+F858.557
+sg23
+F861.958
+sg24
+(lp539
+VCo kdy\u017e jsem doktor?
+p540
+aVTaky jsem zran\u011bnej.
+p541
+asbag10
+(g18
+g12
+Ntp542
+Rp543
+(dp544
+g22
+F866.265
+sg23
+F868.825
+sg24
+(lp545
+V- Je tady koupelna?
+p546
+aV- Támhle.
+p547
+asbag10
+(g18
+g12
+Ntp548
+Rp549
+(dp550
+g22
+F880.012
+sg23
+F885.575
+sg24
+(lp551
+V- Jak se jmenuje\u0161?
+p552
+aV- Nevím- já nevím.
+p553
+asbag10
+(g18
+g12
+Ntp554
+Rp555
+(dp556
+g22
+F885.651
+sg23
+F888.279
+sg24
+(lp557
+VNic si nepamatuje\u0161?
+p558
+asbag10
+(g18
+g12
+Ntp559
+Rp560
+(dp561
+g22
+F888.354
+sg23
+F891.187
+sg24
+(lp562
+VJá um\u0159u, \u017ee jo?
+p563
+asbag10
+(g18
+g12
+Ntp564
+Rp565
+(dp566
+g22
+F893.359
+sg23
+F895.259
+sg24
+(lp567
+VJá um\u0159u!
+p568
+asbag10
+(g18
+g12
+Ntp569
+Rp570
+(dp571
+g22
+F906.405
+sg23
+F908.6
+sg24
+(lp572
+V<i>Co se tady d\u011bje?</i>
+p573
+asbag10
+(g18
+g12
+Ntp574
+Rp575
+(dp576
+g22
+F926.458
+sg23
+F928.949
+sg24
+(lp577
+V<i>Je v po\u0159ádku?</i>
+p578
+asbag10
+(g18
+g12
+Ntp579
+Rp580
+(dp581
+g22
+F929.028
+sg23
+F932.225
+sg24
+(lp582
+VNem\u016f\u017eu mu pomoct, dokud nemám klí\u010d.
+p583
+aVProhlídnu toho chlápka.
+p584
+asbag10
+(g18
+g12
+Ntp585
+Rp586
+(dp587
+g22
+F938.437
+sg23
+F941.736
+sg24
+(lp588
+V- Nech m\u011b! Nech m\u011b!
+p589
+aV- Hej, hej, hej! Bacha!
+p590
+asbag10
+(g18
+g12
+Ntp591
+Rp592
+(dp593
+g22
+F942.808
+sg23
+F944.901
+sg24
+(lp594
+VDob\u0159e! Dob\u0159e!
+p595
+asbag10
+(g18
+g12
+Ntp596
+Rp597
+(dp598
+g22
+F949.581
+sg23
+F951.708
+sg24
+(lp599
+VPro\u010d si to ud\u011blal?
+p600
+asbag10
+(g18
+g12
+Ntp601
+Rp602
+(dp603
+g22
+F951.784
+sg23
+F957.381
+sg24
+(lp604
+V- Napadl jsi m\u011b. Jen jsem ti cht\u011bl pomoct.
+p605
+aV- Pomoct, jo?
+p606
+asbag10
+(g18
+g12
+Ntp607
+Rp608
+(dp609
+g22
+F957.456
+sg23
+F961.256
+sg24
+(lp610
+V- Kdo se t\u011b prosil?
+p611
+aV- Ty ne, debile. On!
+p612
+asbag10
+(g18
+g12
+Ntp613
+Rp614
+(dp615
+g22
+F961.327
+sg23
+F963.852
+sg24
+(lp616
+VMysleli jsme, \u017ee má\u0161
+p617
+aVklí\u010de k jeho pout\u016fm.
+p618
+asbag10
+(g18
+g12
+Ntp619
+Rp620
+(dp621
+g22
+F969.468
+sg23
+F972.733
+sg24
+(lp622
+V<i>Posly\u0161! Posly\u0161!</i>
+p623
+aV<i>Hej. Po\u010dkej- Po\u010dkej.</i>
+p624
+asbag10
+(g18
+g12
+Ntp625
+Rp626
+(dp627
+g22
+F972.805
+sg23
+F975.069
+sg24
+(lp628
+VJe d\u016fle\u017eitý, abys nám
+p629
+aV\u0159ekl co ví\u0161.
+p630
+asbag10
+(g18
+g12
+Ntp631
+Rp632
+(dp633
+g22
+F975.14
+sg23
+F978.439
+sg24
+(lp634
+V- Nemusím ti \u0159íct ani hovno.
+p635
+aV- Pamatuje\u0161 si n\u011bco?
+p636
+asbag10
+(g18
+g12
+Ntp637
+Rp638
+(dp639
+g22
+F978.51
+sg23
+F981.968
+sg24
+(lp640
+V<i>Pamatuje\u0161</i>
+p641
+aV<i>kdo kurva jsi? \u0158ekni n\u011bco!</i>
+p642
+asbag10
+(g18
+g12
+Ntp643
+Rp644
+(dp645
+g22
+F982.047
+sg23
+F984.277
+sg24
+(lp646
+V- Jasn\u011b, \u017ee pamatuju.
+p647
+aV- Co si pamatuje\u0161?
+p648
+asbag10
+(g18
+g12
+Ntp649
+Rp650
+(dp651
+g22
+F984.35
+sg23
+F987.285
+sg24
+(lp652
+VTenhle chlap nám to ud\u011blal!
+p653
+aVTo si pamatuju! To on!
+p654
+asbag10
+(g18
+g12
+Ntp655
+Rp656
+(dp657
+g22
+F987.353
+sg23
+F989.218
+sg24
+(lp658
+VHej, klídek! Nikomu
+p659
+aVjsem nic neud\u011blal.
+p660
+asbag10
+(g18
+g12
+Ntp661
+Rp662
+(dp663
+g22
+F989.288
+sg23
+F991.518
+sg24
+(lp664
+VZlomil si mi posranej nos.
+p665
+aVTos ud\u011blal.
+p666
+asbag10
+(g18
+g12
+Ntp667
+Rp668
+(dp669
+g22
+F991.59
+sg23
+F993.581
+sg24
+(lp670
+VAha, to si pamatuje\u0161?
+p671
+aVTak to si pamatuje\u0161?
+p672
+asbag10
+(g18
+g12
+Ntp673
+Rp674
+(dp675
+g22
+F993.659
+sg23
+F997.06
+sg24
+(lp676
+V- Jo. Jo, pamatuju.
+p677
+aV- Dob\u0159e. A jak se jmenuje\u0161?
+p678
+asbag10
+(g18
+g12
+Ntp679
+Rp680
+(dp681
+g22
+F997.129
+sg23
+F1001.395
+sg24
+(lp682
+VJmenuju? Mrdám-Tvou-Mámu.
+p683
+aVTak se jmenuju.
+p684
+asbag10
+(g18
+g12
+Ntp685
+Rp686
+(dp687
+g22
+F1001.467
+sg23
+F1004.402
+sg24
+(lp688
+VUmej se.
+p689
+aVNepamatuje\u0161 si ani hovno.
+p690
+asbag10
+(g18
+g12
+Ntp691
+Rp692
+(dp693
+g22
+F1004.47
+sg23
+F1006.802
+sg24
+(lp694
+VPamatuj si, \u017ee t\u011b nakopu
+p695
+aVdo prdele!
+p696
+asbag10
+(g18
+g12
+Ntp697
+Rp698
+(dp699
+g22
+F1006.872
+sg23
+F1011.434
+sg24
+(lp700
+VCo je to kurva za místo?
+p701
+aVKde to sakra jsme?
+p702
+asbag10
+(g18
+g12
+Ntp703
+Rp704
+(dp705
+g22
+F1011.51
+sg23
+F1015.446
+sg24
+(lp706
+VMo\u017ená si budete pamatovat,
+p707
+aV\u017ee m\u011b máte zvednout, zmrdi!
+p708
+asbag10
+(g18
+g12
+Ntp709
+Rp710
+(dp711
+g22
+F1015.514
+sg23
+F1019.5409999999999
+sg24
+(lp712
+VChlapi! Hej?
+p713
+aVHej!
+p714
+asbag10
+(g18
+g12
+Ntp715
+Rp716
+(dp717
+g22
+F1042.941
+sg23
+F1048.675
+sg24
+(lp718
+VSakra. Ta láhev je otev\u0159ená.
+p719
+aVMyslím, \u017ee to spadlo tam zeshora.
+p720
+asbag10
+(g18
+g12
+Ntp721
+Rp722
+(dp723
+g22
+F1048.747
+sg23
+F1051.307
+sg24
+(lp724
+VMyslí\u0161, \u017ee to zp\u016fsobilo,
+p725
+aVto jak nám je?
+p726
+asbag10
+(g18
+g12
+Ntp727
+Rp728
+(dp729
+g22
+F1051.383
+sg23
+F1053.408
+sg24
+(lp730
+VMo\u017ená.
+p731
+asbag10
+(g18
+g12
+Ntp732
+Rp733
+(dp734
+g22
+F1055.854
+sg23
+F1059.915
+sg24
+(lp735
+VHej, p\u0159esta\u0148te fetovat
+p736
+aVty sra\u010dky a rozva\u017ete m\u011b!
+p737
+asbag10
+(g18
+g12
+Ntp738
+Rp739
+(dp740
+g22
+F1059.992
+sg23
+F1064.258
+sg24
+(lp741
+VV\u0161ichni jsme vdechli víc
+p742
+aVne\u017e ty te\u010f. Te\u010f se zeptám:
+p743
+asbag10
+(g18
+g12
+Ntp744
+Rp745
+(dp746
+g22
+F1064.329
+sg23
+F1066.456
+sg24
+(lp747
+V<i>Pro\u010d by n\u011bkdo sem dával m\u0159í\u017ee</i>
+p748
+aV<i>na v\u0161echna ta okna</i>
+p749
+asbag10
+(g18
+g12
+Ntp750
+Rp751
+(dp752
+g22
+F1066.532
+sg23
+F1069.33
+sg24
+(lp753
+Va dal bezpe\u010dnostní dve\u0159e
+p754
+aVdo díry jako je tahle?
+p755
+asbag10
+(g18
+g12
+Ntp756
+Rp757
+(dp758
+g22
+F1069.401
+sg23
+F1073.064
+sg24
+(lp759
+VN\u011bkdo se hodn\u011b sna\u017eil
+p760
+aVzabezpe\u010dit tohle místo!
+p761
+asbag10
+(g18
+g12
+Ntp762
+Rp763
+(dp764
+g22
+F1073.138
+sg23
+F1077.837
+sg24
+(lp765
+VN\u011bco bu\u010f velmi nebezpe\u010dného,
+p766
+aVnebo velmi cenného.
+p767
+asbag10
+(g18
+g12
+Ntp768
+Rp769
+(dp770
+g22
+F1081.213
+sg23
+F1084.478
+sg24
+(lp771
+VTen s tím ko\u0161em.
+p772
+aVTen pat\u0159í k nám?
+p773
+asbag10
+(g18
+g12
+Ntp774
+Rp775
+(dp776
+g22
+F1084.55
+sg23
+F1087.383
+sg24
+(lp777
+V- Nevím jist\u011b. Stáhli jsme zam\u011bstnance.
+p778
+aV- Zjist\u011bte to!
+p779
+asbag10
+(g18
+g12
+Ntp780
+Rp781
+(dp782
+g22
+F1090.722
+sg23
+F1094.385
+sg24
+(lp783
+VCo to sakra-
+p784
+aVTak poj\u010f, zlato! Poj\u010f!
+p785
+asbag10
+(g18
+g12
+Ntp786
+Rp787
+(dp788
+g22
+F1094.46
+sg23
+F1097.691
+sg24
+(lp789
+VJe pry\u010d, kapitáne. Signál je pry\u010d.
+p790
+asbag10
+(g18
+g12
+Ntp791
+Rp792
+(dp793
+g22
+F1097.763
+sg23
+F1099.958
+sg24
+(lp794
+V<i>Co tím myslí\u0161?</i>
+p795
+aV<i>Nic to neud\u011blalo.</i>
+p796
+asbag10
+(g18
+g12
+Ntp797
+Rp798
+(dp799
+g22
+F1100.032
+sg23
+F1104.059
+sg24
+(lp800
+VAndersone, co se tam d\u011bje?
+p801
+aVNeml\u010dte. Mluvte!
+p802
+asbag10
+(g18
+g12
+Ntp803
+Rp804
+(dp805
+g22
+F1108.34
+sg23
+F1110.331
+sg24
+(lp806
+VTady nic, kapitáne.
+p807
+asbag10
+(g18
+g12
+Ntp808
+Rp809
+(dp810
+g22
+F1110.409
+sg23
+F1112.741
+sg24
+(lp811
+V- McGahey, co \u0159íkáte?
+p812
+aV- Nic, kapitáne.
+p813
+asbag10
+(g18
+g12
+Ntp814
+Rp815
+(dp816
+g22
+F1112.811
+sg23
+F1116.1779999999999
+sg24
+(lp817
+VDob\u0159e. Hýbe se to.
+p818
+aVZastavte to!
+p819
+asbag10
+(g18
+g12
+Ntp820
+Rp821
+(dp822
+g22
+F1128.16
+sg23
+F1129.65
+sg24
+(lp823
+V- Má\u0161 n\u011bco?
+p824
+aV- Nic.
+p825
+asbag10
+(g18
+g12
+Ntp826
+Rp827
+(dp828
+g22
+F1129.728
+sg23
+F1132.094
+sg24
+(lp829
+V- Klí\u010de.
+p830
+aV- <i>Kapitáne, co se d\u011bje?</i>
+p831
+asbag10
+(g18
+g12
+Ntp832
+Rp833
+(dp834
+g22
+F1132.164
+sg23
+F1136.1
+sg24
+(lp835
+VJe to jeden z na\u0161ich.
+p836
+aVJmenuje se Frank Gilroy. Nem\u011bl tu být.
+p837
+asbag10
+(g18
+g12
+Ntp838
+Rp839
+(dp840
+g22
+F1136.168
+sg23
+F1138.728
+sg24
+(lp841
+V<i>Andersone, v po\u0159ádku. Pracuje tu.</i>
+p842
+asbag10
+(g18
+g12
+Ntp843
+Rp844
+(dp845
+g22
+F1138.804
+sg23
+F1142.501
+sg24
+(lp846
+V- Potvrzuji.
+p847
+aV- Tak jdem. Jedem. Kurva!
+p848
+asbag10
+(g18
+g12
+Ntp849
+Rp850
+(dp851
+g22
+F1142.574
+sg23
+F1145.907
+sg24
+(lp852
+VKapitáne, má to fale\u0161né dno.
+p853
+aVMuselo se to otev\u0159ít ze suterénu.
+p854
+asbag10
+(g18
+g12
+Ntp855
+Rp856
+(dp857
+g22
+F1145.978
+sg23
+F1149.709
+sg24
+(lp858
+V- Ze suterénu?
+p859
+aV- Jdem na to. Jdem, jdem!
+p860
+asbag10
+(g18
+g12
+Ntp861
+Rp862
+(dp863
+g22
+F1149.781
+sg23
+F1152.909
+sg24
+(lp864
+VKoukn\u011bte se na m\u011b!
+p865
+aVKoukn\u011bte se!
+p866
+asbag10
+(g18
+g12
+Ntp867
+Rp868
+(dp869
+g22
+F1152.985
+sg23
+F1155.283
+sg24
+(lp870
+VPro\u010d jste stál
+p871
+aVp\u0159ed tou sk\u0159í\u0148kou?
+p872
+asbag10
+(g18
+g12
+Ntp873
+Rp874
+(dp875
+g22
+F1159.691
+sg23
+F1165.129
+sg24
+(lp876
+VVysokej chlap, Frank
+p877
+aVmi \u0159ekl, \u017ee mi dá 20 dolar\u016f.
+p878
+asbag10
+(g18
+g12
+Ntp879
+Rp880
+(dp881
+g22
+F1169.201
+sg23
+F1171.135
+sg24
+(lp882
+VKapitáne,
+p883
+aVna\u0161li jsme ten pytel.
+p884
+asbag10
+(g18
+g12
+Ntp885
+Rp886
+(dp887
+g22
+F1171.203
+sg23
+F1173.603
+sg24
+(lp888
+VProhlédn\u011bte tu chodbu.
+p889
+aVProhlédn\u011bte to!
+p890
+asbag10
+(g18
+g12
+Ntp891
+Rp892
+(dp893
+g22
+F1175.607
+sg23
+F1178.474
+sg24
+(lp894
+VKapitáne, pytel je prázdný.
+p895
+asbag10
+(g18
+g12
+Ntp896
+Rp897
+(dp898
+g22
+F1178.544
+sg23
+F1181.479
+sg24
+(lp899
+VProhlédn\u011bte tu posranou chodbu!
+p900
+aVZajist\u011bte schody!
+p901
+asbag10
+(g18
+g12
+Ntp902
+Rp903
+(dp904
+g22
+F1185.984
+sg23
+F1189.613
+sg24
+(lp905
+VZkusils v\u0161echny okna?
+p906
+asbag10
+(g18
+g12
+Ntp907
+Rp908
+(dp909
+g22
+F1189.688
+sg23
+F1191.622
+sg24
+(lp910
+VV\u0161echna jsou zam\u0159í\u017eovaná.
+p911
+asbag10
+(g18
+g12
+Ntp912
+Rp913
+(dp914
+g22
+F1191.69
+sg23
+F1193.624
+sg24
+(lp915
+V- Úpln\u011b v\u0161echna?
+p916
+aV- Jo.
+p917
+asbag10
+(g18
+g12
+Ntp918
+Rp919
+(dp920
+g22
+F1193.692
+sg23
+F1195.683
+sg24
+(lp921
+VTo jsou jediné dve\u0159e.
+p922
+asbag10
+(g18
+g12
+Ntp923
+Rp924
+(dp925
+g22
+F1237.402
+sg23
+F1239.336
+sg24
+(lp926
+VPromi\u0148te.
+p927
+asbag10
+(g18
+g12
+Ntp928
+Rp929
+(dp930
+g22
+F1239.404
+sg23
+F1241.395
+sg24
+(lp931
+VV po\u0159ádku.
+p932
+asbag10
+(g18
+g12
+Ntp933
+Rp934
+(dp935
+g22
+F1244.176
+sg23
+F1246.007
+sg24
+(lp936
+V- Promi\u0148te.
+p937
+aV- <i>O.K.</i>
+p938
+asbag10
+(g18
+g12
+Ntp939
+Rp940
+(dp941
+g22
+F1272.638
+sg23
+F1274.663
+sg24
+(lp942
+VDo hajzlu!
+p943
+asbag10
+(g18
+g12
+Ntp944
+Rp945
+(dp946
+g22
+F1281.446
+sg23
+F1284.54
+sg24
+(lp947
+VSakra.
+p948
+asbag10
+(g18
+g12
+Ntp949
+Rp950
+(dp951
+g22
+F1289.288
+sg23
+F1291.279
+sg24
+(lp952
+VVelký zklamání, co?
+p953
+asbag10
+(g18
+g12
+Ntp954
+Rp955
+(dp956
+g22
+F1296.094
+sg23
+F1298.028
+sg24
+(lp957
+VVodpal!
+p958
+asbag10
+(g18
+g12
+Ntp959
+Rp960
+(dp961
+g22
+F1298.096
+sg23
+F1300.587
+sg24
+(lp962
+V\u0158íká ti n\u011bco
+p963
+aVjméno Coles?
+p964
+asbag10
+(g18
+g12
+Ntp965
+Rp966
+(dp967
+g22
+F1301.667
+sg23
+F1304.795
+sg24
+(lp968
+V- Ne.
+p969
+aV- A co Woz?
+p970
+asbag10
+(g18
+g12
+Ntp971
+Rp972
+(dp973
+g22
+F1309.941
+sg23
+F1312.501
+sg24
+(lp974
+VHele, m\u011b te\u010f nic nedává smysl.
+p975
+aVJasný?
+p976
+asbag10
+(g18
+g12
+Ntp977
+Rp978
+(dp979
+g22
+F1315.18
+sg23
+F1317.171
+sg24
+(lp980
+VPamatuju si,
+p981
+aV\u017ee jsem byl v té místnosti.
+p982
+asbag10
+(g18
+g12
+Ntp983
+Rp984
+(dp985
+g22
+F1319.184
+sg23
+F1322.95
+sg24
+(lp986
+VTaky vím, \u017ee jsem sem p\u0159i\u0161el.
+p987
+aVNe zrovna takhle...
+p988
+asbag10
+(g18
+g12
+Ntp989
+Rp990
+(dp991
+g22
+F1323.021
+sg23
+F1325.717
+sg24
+(lp992
+VJako bych najednou m\u011bl Alzheimera.
+p993
+asbag10
+(g18
+g12
+Ntp994
+Rp995
+(dp996
+g22
+F1325.791
+sg23
+F1329.727
+sg24
+(lp997
+V<i>A ty?</i>
+p998
+aV<i>Co?</i>
+p999
+asbag10
+(g18
+g12
+Ntp1000
+Rp1001
+(dp1002
+g22
+F1329.795
+sg23
+F1331.763
+sg24
+(lp1003
+VMáme to v\u0161ichni.
+p1004
+asbag10
+(g18
+g12
+Ntp1005
+Rp1006
+(dp1007
+g22
+F1331.83
+sg23
+F1333.821
+sg24
+(lp1008
+VTak to je blbý.
+p1009
+asbag10
+(g18
+g12
+Ntp1010
+Rp1011
+(dp1012
+g22
+F1343.875
+sg23
+F1345.809
+sg24
+(lp1013
+VUmyju ti ruce.
+p1014
+asbag10
+(g18
+g12
+Ntp1015
+Rp1016
+(dp1017
+g22
+F1356.722
+sg23
+F1360.055
+sg24
+(lp1018
+VNedají se otev\u0159ít, zkou\u0161el jsem to.
+p1019
+asbag10
+(g18
+g12
+Ntp1020
+Rp1021
+(dp1022
+g22
+F1364.029
+sg23
+F1366.395
+sg24
+(lp1023
+VDob\u0159e. Projd\u011bme si to celé znovu.
+p1024
+aVProbudil ses-
+p1025
+asbag10
+(g18
+g12
+Ntp1026
+Rp1027
+(dp1028
+g22
+F1366.465
+sg23
+F1371.3
+sg24
+(lp1029
+V<i>vid\u011bl jsem vás. Na lopat\u011b byla krev.</i>
+p1030
+aV<i>Krev byla v\u0161ude.</i>
+p1031
+asbag10
+(g18
+g12
+Ntp1032
+Rp1033
+(dp1034
+g22
+F1371.37
+sg23
+F1374.339
+sg24
+(lp1035
+V<i>Rozbitej mobil. Za\u010dal jsem \u0161ílet</i>
+p1036
+aV<i>a zamí\u0159il ke dve\u0159ím.</i>
+p1037
+asbag10
+(g18
+g12
+Ntp1038
+Rp1039
+(dp1040
+g22
+F1374.406
+sg23
+F1377.273
+sg24
+(lp1041
+V- Na nic si nasahal, nic nevid\u011bl?
+p1042
+aV- Ne.
+p1043
+asbag10
+(g18
+g12
+Ntp1044
+Rp1045
+(dp1046
+g22
+F1377.342
+sg23
+F1379.071
+sg24
+(lp1047
+VNic podez\u0159elého?
+p1048
+asbag10
+(g18
+g12
+Ntp1049
+Rp1050
+(dp1051
+g22
+F1379.144
+sg23
+F1382.58
+sg24
+(lp1052
+VVid\u011bl jsem ve sklep\u011b dv\u011b \u017eidle
+p1053
+aVoto\u010dené zády zavázané provazem.
+p1054
+asbag10
+(g18
+g12
+Ntp1055
+Rp1056
+(dp1057
+g22
+F1382.647
+sg23
+F1384.638
+sg24
+(lp1058
+V<i>Hmm, to je zajímavý.</i>
+p1059
+asbag10
+(g18
+g12
+Ntp1060
+Rp1061
+(dp1062
+g22
+F1384.716
+sg23
+F1389.676
+sg24
+(lp1063
+VCo se tady stalo,
+p1064
+aVne\u0161lo úpln\u011b podle plánu, vi\u010f?
+p1065
+asbag10
+(g18
+g12
+Ntp1066
+Rp1067
+(dp1068
+g22
+F1389.755
+sg23
+F1392.986
+sg24
+(lp1069
+V- Uv\u011bzn\u011bný jako zasraný krysy.
+p1070
+aV- <i>Tak\u017ee to je v\u0161echno?</i>
+p1071
+asbag10
+(g18
+g12
+Ntp1072
+Rp1073
+(dp1074
+g22
+F1393.058
+sg23
+F1395.322
+sg24
+(lp1075
+VJo. Tém\u011b\u0159 jo.
+p1076
+asbag10
+(g18
+g12
+Ntp1077
+Rp1078
+(dp1079
+g22
+F1395.394
+sg23
+F1398.124
+sg24
+(lp1080
+VZeptejte se ho
+p1081
+aVna telefonát.
+p1082
+asbag10
+(g18
+g12
+Ntp1083
+Rp1084
+(dp1085
+g22
+F1398.196
+sg23
+F1400.187
+sg24
+(lp1086
+VCo\u017ee?
+p1087
+asbag10
+(g18
+g12
+Ntp1088
+Rp1089
+(dp1090
+g22
+F1400.265
+sg23
+F1403.962
+sg24
+(lp1091
+VZeptejte se ho...
+p1092
+aVna telefonát.
+p1093
+asbag10
+(g18
+g12
+Ntp1094
+Rp1095
+(dp1096
+g22
+F1404.035
+sg23
+F1405.832
+sg24
+(lp1097
+V<i>Co\u017ee? Jakej telefonát?</i>
+p1098
+asbag10
+(g18
+g12
+Ntp1099
+Rp1100
+(dp1101
+g22
+F1405.904
+sg23
+F1408.338
+sg24
+(lp1102
+V- Tady je telefon?
+p1103
+aV- No, po\u010dkejte-
+p1104
+asbag10
+(g18
+g12
+Ntp1105
+Rp1106
+(dp1107
+g22
+F1408.407
+sg23
+F1411.376
+sg24
+(lp1108
+V<i>kdy\u017e jste byli</i>
+p1109
+aV<i>je\u0161t\u011b mimo...</i>
+p1110
+asbag10
+(g18
+g12
+Ntp1111
+Rp1112
+(dp1113
+g22
+F1411.443
+sg23
+F1415.004
+sg24
+(lp1114
+V- \u0161el vzít telefon.
+p1115
+aV- Kde je ten telefon?
+p1116
+asbag10
+(g18
+g12
+Ntp1117
+Rp1118
+(dp1119
+g22
+F1415.08
+sg23
+F1418.379
+sg24
+(lp1120
+V- Posly\u0161te, cht\u011bl jsem to \u0159íct-
+p1121
+aV- \u0158ekni s kým si mluvil?
+p1122
+asbag10
+(g18
+g12
+Ntp1123
+Rp1124
+(dp1125
+g22
+F1418.45
+sg23
+F1420.384
+sg24
+(lp1126
+VJá nevím.
+p1127
+aVS n\u011bjakým chlápkem.
+p1128
+asbag10
+(g18
+g12
+Ntp1129
+Rp1130
+(dp1131
+g22
+F1420.452
+sg23
+F1423.387
+sg24
+(lp1132
+V- Vtipný, zapomn\u011bls zmínit takovou mali\u010dkost.
+p1133
+aV- N\u011bjakej chlap. Kdo?
+p1134
+asbag10
+(g18
+g12
+Ntp1135
+Rp1136
+(dp1137
+g22
+F1423.455
+sg23
+F1425.446
+sg24
+(lp1138
+VJá- já nevím.
+p1139
+aVZa\u010dal hned mluvit.
+p1140
+asbag10
+(g18
+g12
+Ntp1141
+Rp1142
+(dp1143
+g22
+F1425.524
+sg23
+F1428.186
+sg24
+(lp1144
+V- <i>Tak\u017ee poznal tv\u016fj hlas?</i>
+p1145
+aV- <i>Ne. To si nemyslím.</i>
+p1146
+asbag10
+(g18
+g12
+Ntp1147
+Rp1148
+(dp1149
+g22
+F1428.26
+sg23
+F1431.559
+sg24
+(lp1150
+VNo na jeho stran\u011b byl hluk.
+p1151
+aVN\u011bjaká stavba nebo co.
+p1152
+asbag10
+(g18
+g12
+Ntp1153
+Rp1154
+(dp1155
+g22
+F1431.63
+sg23
+F1433.655
+sg24
+(lp1156
+VNa jaký jsi v\u016fbec stran\u011b, chlape?
+p1157
+asbag10
+(g18
+g12
+Ntp1158
+Rp1159
+(dp1160
+g22
+F1433.732
+sg23
+F1435.632
+sg24
+(lp1161
+VPo\u010dkejte!
+p1162
+aVNemyslíte si, \u017ee jsem s nima?
+p1163
+asbag10
+(g18
+g12
+Ntp1164
+Rp1165
+(dp1166
+g22
+F1435.7
+sg23
+F1438.134
+sg24
+(lp1167
+VMluvil s tebou.
+p1168
+aVPoznal tv\u016fj hlas, \u017ee jo?
+p1169
+asbag10
+(g18
+g12
+Ntp1170
+Rp1171
+(dp1172
+g22
+F1438.203
+sg23
+F1440.33
+sg24
+(lp1173
+V- Spoutejme tu d\u011bvku!
+p1174
+aV- Jasn\u011b.
+p1175
+asbag10
+(g18
+g12
+Ntp1176
+Rp1177
+(dp1178
+g22
+F1440.405
+sg23
+F1442.498
+sg24
+(lp1179
+VPo\u010dkejte chvíli!
+p1180
+aVZvedl jsem telefon.
+p1181
+asbag10
+(g18
+g12
+Ntp1182
+Rp1183
+(dp1184
+g22
+F1442.574
+sg23
+F1446.203
+sg24
+(lp1185
+V<i>Volající se ptal jestli jsem ten...</i>
+p1186
+aV<i>Já \u0159ekl, "Ne, ten je na hajzlu."</i>
+p1187
+asbag10
+(g18
+g12
+Ntp1188
+Rp1189
+(dp1190
+g22
+F1446.278
+sg23
+F1451.375
+sg24
+(lp1191
+V<i>Tak se m\u011b zeptal, jestli jsem ten druhej. Nev\u011bd\u011bl</i>
+p1192
+aV<i>jsem co \u0159íct, tak jsem zm\u011bnil téma.</i>
+p1193
+asbag10
+(g18
+g12
+Ntp1194
+Rp1195
+(dp1196
+g22
+F1451.45
+sg23
+F1453.816
+sg24
+(lp1197
+V- Hovno!
+p1198
+aV- A co sem m\u011bl \u0159íct?
+p1199
+asbag10
+(g18
+g12
+Ntp1200
+Rp1201
+(dp1202
+g22
+F1453.885
+sg23
+F1457.377
+sg24
+(lp1203
+V"Ahoj kamaráde, pamatuju si úplný hovno.
+p1204
+aVMohl bys mi \u0159íct o co tu jde?
+p1205
+asbag10
+(g18
+g12
+Ntp1206
+Rp1207
+(dp1208
+g22
+F1457.456
+sg23
+F1461.324
+sg24
+(lp1209
+V<i>Vymlátili jsme tady du\u0161i jeden z druhého</i>
+p1210
+aV<i>a mezitím si u\u0161kva\u0159ili mozky."</i>
+p1211
+asbag10
+(g18
+g12
+Ntp1212
+Rp1213
+(dp1214
+g22
+F1461.393
+sg23
+F1463.52
+sg24
+(lp1215
+V- Dává ti to n\u011bjaký smysl?
+p1216
+aV- P\u0159emý\u0161lej.
+p1217
+asbag10
+(g18
+g12
+Ntp1218
+Rp1219
+(dp1220
+g22
+F1463.595
+sg23
+F1466.587
+sg24
+(lp1221
+VMluvil s tebou.
+p1222
+aVPoznal tv\u016fj hlas, kámo.
+p1223
+asbag10
+(g18
+g12
+Ntp1224
+Rp1225
+(dp1226
+g22
+F1466.665
+sg23
+F1469.862
+sg24
+(lp1227
+VNev\u011bd\u011bl kdo jsem.
+p1228
+aVPtal se m\u011b, jestli jsem dv\u011b r\u016fzné osoby.
+p1229
+asbag10
+(g18
+g12
+Ntp1230
+Rp1231
+(dp1232
+g22
+F1469.935
+sg23
+F1473.393
+sg24
+(lp1233
+VOn nev\u011bd\u011bl.
+p1234
+aVNejsem na stran\u011b volajícího.
+p1235
+asbag10
+(g18
+g12
+Ntp1236
+Rp1237
+(dp1238
+g22
+F1473.472
+sg23
+F1475.497
+sg24
+(lp1239
+VTak ale n\u011bkdo z nás
+p1240
+aVto musí být.
+p1241
+asbag10
+(g18
+g12
+Ntp1242
+Rp1243
+(dp1244
+g22
+F1477.108
+sg23
+F1479.941
+sg24
+(lp1245
+VNejsem na ni\u010dí stran\u011b.
+p1246
+asbag10
+(g18
+g12
+Ntp1247
+Rp1248
+(dp1249
+g22
+F1480.011
+sg23
+F1481.945
+sg24
+(lp1250
+V- <i>Kapitáne, je to zpátky.</i>
+p1251
+aV- Co?
+p1252
+asbag10
+(g18
+g12
+Ntp1253
+Rp1254
+(dp1255
+g22
+F1482.013
+sg23
+F1485.414
+sg24
+(lp1256
+VSledovací signál- je zp\u011bt.
+p1257
+aVJde to od východu.
+p1258
+asbag10
+(g18
+g12
+Ntp1259
+Rp1260
+(dp1261
+g22
+F1485.484
+sg23
+F1487.418
+sg24
+(lp1262
+VJak je ten signál silný?
+p1263
+asbag10
+(g18
+g12
+Ntp1264
+Rp1265
+(dp1266
+g22
+F1487.486
+sg23
+F1491.286
+sg24
+(lp1267
+V- Udr\u017eí se na dv\u011b míle.
+p1268
+aV- Dob\u0159e. Pov\u011bste se mu na ocas.
+p1269
+asbag10
+(g18
+g12
+Ntp1270
+Rp1271
+(dp1272
+g22
+F1492.991
+sg23
+F1495.255
+sg24
+(lp1273
+VKapitáne,
+p1274
+aVvid\u011bl jsem jednoho z t\u011bch chlápk\u016f.
+p1275
+asbag10
+(g18
+g12
+Ntp1276
+Rp1277
+(dp1278
+g22
+F1495.327
+sg23
+F1498.421
+sg24
+(lp1279
+V- Koho?
+p1280
+aV- Jednoho z toho pick-upu. Pro\u0161el kolem.
+p1281
+asbag10
+(g18
+g12
+Ntp1282
+Rp1283
+(dp1284
+g22
+F1498.497
+sg23
+F1501.762
+sg24
+(lp1285
+V- Doká\u017eete ho identifikovat?
+p1286
+aV- Jo. Ano, pane.
+p1287
+asbag10
+(g18
+g12
+Ntp1288
+Rp1289
+(dp1290
+g22
+F1501.833
+sg23
+F1504.324
+sg24
+(lp1291
+V<i>Curtisi, vydr\u017ete.</i>
+p1292
+aV<i>Anderson jede s vámi.</i>
+p1293
+asbag10
+(g18
+g12
+Ntp1294
+Rp1295
+(dp1296
+g22
+F1508.24
+sg23
+F1510.231
+sg24
+(lp1297
+VM\u011bli namí\u0159eno na státní.
+p1298
+asbag10
+(g18
+g12
+Ntp1299
+Rp1300
+(dp1301
+g22
+F1510.308
+sg23
+F1512.868
+sg24
+(lp1302
+V- Jednoho z nich jsem dob\u0159e vid\u011bl.
+p1303
+aV- Vá\u017en\u011b?
+p1304
+asbag10
+(g18
+g12
+Ntp1305
+Rp1306
+(dp1307
+g22
+F1512.944
+sg23
+F1515.105
+sg24
+(lp1308
+VSlib mi, \u017ee p\u0159í\u0161t\u011b
+p1309
+aVud\u011blá\u0161 víc, ne\u017e to.
+p1310
+asbag10
+(g18
+g12
+Ntp1311
+Rp1312
+(dp1313
+g22
+F1530.529
+sg23
+F1533.396
+sg24
+(lp1314
+VPoj\u010fme.
+p1315
+aVJdem si zavolat.
+p1316
+asbag10
+(g18
+g12
+Ntp1317
+Rp1318
+(dp1319
+g22
+F1533.465
+sg23
+F1537.401
+sg24
+(lp1320
+VNe. Dohodli jsme se. A\u017e se vrátí.
+p1321
+aVPak zavoláme v\u0161ichni.
+p1322
+asbag10
+(g18
+g12
+Ntp1323
+Rp1324
+(dp1325
+g22
+F1539.638
+sg23
+F1541.629
+sg24
+(lp1326
+VHej, d\u011blej!
+p1327
+asbag10
+(g18
+g12
+Ntp1328
+Rp1329
+(dp1330
+g22
+F1542.707
+sg23
+F1544.698
+sg24
+(lp1331
+V<i>Hej!</i>
+p1332
+asbag10
+(g18
+g12
+Ntp1333
+Rp1334
+(dp1335
+g22
+F1549.314
+sg23
+F1552.545
+sg24
+(lp1336
+VPodívej.
+p1337
+aVNa\u0161el jsem ty zasraný klí\u010dky.
+p1338
+asbag10
+(g18
+g12
+Ntp1339
+Rp1340
+(dp1341
+g22
+F1552.617
+sg23
+F1554.585
+sg24
+(lp1342
+VSuper, má\u0161 klí\u010dky,
+p1343
+aVale \u017eádný auto.
+p1344
+asbag10
+(g18
+g12
+Ntp1345
+Rp1346
+(dp1347
+g22
+F1554.653
+sg23
+F1558.646
+sg24
+(lp1348
+VMá\u0161 pouzdro a \u017eádnou zbra\u0148.
+p1349
+aVMá\u0161 mobil a je na tisíc kousk\u016f.
+p1350
+asbag10
+(g18
+g12
+Ntp1351
+Rp1352
+(dp1353
+g22
+F1558.723
+sg23
+F1561.089
+sg24
+(lp1354
+V- Dává to smysl, vi\u010f?
+p1355
+aV- Co chce\u0161 sly\u0161et?
+p1356
+asbag10
+(g18
+g12
+Ntp1357
+Rp1358
+(dp1359
+g22
+F1561.159
+sg23
+F1563.286
+sg24
+(lp1360
+VUklidni se, jo?
+p1361
+asbag10
+(g18
+g12
+Ntp1362
+Rp1363
+(dp1364
+g22
+F1564.729
+sg23
+F1567.129
+sg24
+(lp1365
+V- <i>Jedou nás zabít.</i>
+p1366
+aV- To neví\u0161.
+p1367
+asbag10
+(g18
+g12
+Ntp1368
+Rp1369
+(dp1370
+g22
+F1567.198
+sg23
+F1570.326
+sg24
+(lp1371
+VCo myslí\u0161, \u017ee tam kopou?
+p1372
+aVBazén?
+p1373
+asbag10
+(g18
+g12
+Ntp1374
+Rp1375
+(dp1376
+g22
+F1570.402
+sg23
+F1572.529
+sg24
+(lp1377
+V- Co to d\u011blá\u0161?
+p1378
+aV- Objednám pizzu!
+p1379
+asbag10
+(g18
+g12
+Ntp1380
+Rp1381
+(dp1382
+g22
+F1572.604
+sg23
+F1574.299
+sg24
+(lp1383
+V- Dej sem ten telefon!
+p1384
+aV- Ne!
+p1385
+asbag10
+(g18
+g12
+Ntp1386
+Rp1387
+(dp1388
+g22
+F1574.372
+sg23
+F1576.897
+sg24
+(lp1389
+VCo má\u0161 za problém, kámo?
+p1390
+asbag10
+(g18
+g12
+Ntp1391
+Rp1392
+(dp1393
+g22
+F1576.975
+sg23
+F1578.966
+sg24
+(lp1394
+VCejtí\u0161 trochu vinu, vi\u010f?
+p1395
+asbag10
+(g18
+g12
+Ntp1396
+Rp1397
+(dp1398
+g22
+F1579.044
+sg23
+F1582.013
+sg24
+(lp1399
+VCo?
+p1400
+asbag10
+(g18
+g12
+Ntp1401
+Rp1402
+(dp1403
+g22
+F1582.08
+sg23
+F1585.14
+sg24
+(lp1404
+VChce\u0161 si zavolat?
+p1405
+aVDo toho. Vyto\u010d fízly!
+p1406
+asbag10
+(g18
+g12
+Ntp1407
+Rp1408
+(dp1409
+g22
+F1585.216
+sg23
+F1587.65
+sg24
+(lp1410
+V- Do toho. Jo, ty jsi bez viny.
+p1411
+aV- Ano.
+p1412
+asbag10
+(g18
+g12
+Ntp1413
+Rp1414
+(dp1415
+g22
+F1587.719
+sg23
+F1590.984
+sg24
+(lp1416
+V- Proto\u017ee ví\u0161 jak sis rozbil nos?
+p1417
+aV- Vím co vím, jasný?
+p1418
+asbag10
+(g18
+g12
+Ntp1419
+Rp1420
+(dp1421
+g22
+F1596.127
+sg23
+F1597.856
+sg24
+(lp1422
+VCo to d\u011blá\u0161?
+p1423
+asbag10
+(g18
+g12
+Ntp1424
+Rp1425
+(dp1426
+g22
+F1597.929
+sg23
+F1600.193
+sg24
+(lp1427
+VZbláznil ses?
+p1428
+aVTo byl ná\u0161 lístek odsud!
+p1429
+asbag10
+(g18
+g12
+Ntp1430
+Rp1431
+(dp1432
+g22
+F1600.265
+sg23
+F1603.132
+sg24
+(lp1433
+VJasn\u011b, to je ná\u0161 lístek.
+p1434
+asbag10
+(g18
+g12
+Ntp1435
+Rp1436
+(dp1437
+g22
+F1605.87
+sg23
+F1609.67
+sg24
+(lp1438
+VDo hajzlu.
+p1439
+aVPolda. Je to polda.
+p1440
+asbag10
+(g18
+g12
+Ntp1441
+Rp1442
+(dp1443
+g22
+F1609.741
+sg23
+F1611.675
+sg24
+(lp1444
+VNení. Ochranka.
+p1445
+asbag10
+(g18
+g12
+Ntp1446
+Rp1447
+(dp1448
+g22
+F1611.743
+sg23
+F1614.041
+sg24
+(lp1449
+VDo \u010deho jste m\u011b
+p1450
+aVvy dostali, vy zmrdi?
+p1451
+asbag10
+(g18
+g12
+Ntp1452
+Rp1453
+(dp1454
+g22
+F1614.112
+sg23
+F1617.013
+sg24
+(lp1455
+VSotva ses na n\u011bj podíval.
+p1456
+aVJak ví\u0161, \u017ee je ochranka?
+p1457
+asbag10
+(g18
+g12
+Ntp1458
+Rp1459
+(dp1460
+g22
+F1617.082
+sg23
+F1620.245
+sg24
+(lp1461
+VJe to tady.
+p1462
+aV"L.P.W." Liberty Plaza West.
+p1463
+asbag10
+(g18
+g12
+Ntp1464
+Rp1465
+(dp1466
+g22
+F1620.318
+sg23
+F1622.809
+sg24
+(lp1467
+V- Po\u010dkej. Pro\u010d mi to p\u0159ijde tak pov\u011bdomé?
+p1468
+aV- A kurva.
+p1469
+asbag10
+(g18
+g12
+Ntp1470
+Rp1471
+(dp1472
+g22
+F1622.887
+sg23
+F1624.821
+sg24
+(lp1473
+V- Co?
+p1474
+aV- Kurva.
+p1475
+asbag10
+(g18
+g12
+Ntp1476
+Rp1477
+(dp1478
+g22
+F1626.725
+sg23
+F1629.421
+sg24
+(lp1479
+V<i>"Policie vy\u0161et\u0159uje zmizení</i>
+p1480
+aV<i>Williama Colese Jr...</i>
+p1481
+asbag10
+(g18
+g12
+Ntp1482
+Rp1483
+(dp1484
+g22
+F1629.494
+sg23
+F1633.658
+sg24
+(lp1485
+V<i>"z Colesovi Consolidated Equities a</i>
+p1486
+aV<i>finan\u010dního poradce, Richarda McCaina.</i>
+p1487
+asbag10
+(g18
+g12
+Ntp1488
+Rp1489
+(dp1490
+g22
+F1633.732
+sg23
+F1635.927
+sg24
+(lp1491
+V<i>"Jejich auta byla nalezena</i>
+p1492
+aV<i>na parkovi\u0161ti v budov\u011b...</i>
+p1493
+asbag10
+(g18
+g12
+Ntp1494
+Rp1495
+(dp1496
+g22
+F1636.001
+sg23
+F1638.094
+sg24
+(lp1497
+V<i>"firmy v centru m\u011bsta toto</i>
+p1498
+aV<i>pond\u011blí v dopoledních hodinách...</i>
+p1499
+asbag10
+(g18
+g12
+Ntp1500
+Rp1501
+(dp1502
+g22
+F1638.169
+sg23
+F1643.266
+sg24
+(lp1503
+V<i>"nebyli spat\u0159eni \u010dleny rodiny</i>
+p1504
+aV<i>ani spolupracovníky od ned\u011blního rána.</i>
+p1505
+asbag10
+(g18
+g12
+Ntp1506
+Rp1507
+(dp1508
+g22
+F1643.341
+sg23
+F1646.469
+sg24
+(lp1509
+VPolicie p\u0159edpokládá,\u017ee
+p1510
+aVtito mu\u017ei byli uneseni."
+p1511
+asbag10
+(g18
+g12
+Ntp1512
+Rp1513
+(dp1514
+g22
+F1646.544
+sg23
+F1650.036
+sg24
+(lp1515
+VNespat\u0159eni od ned\u011blního rána,
+p1516
+aVa toto jsou noviny z úterý.
+p1517
+asbag10
+(g18
+g12
+Ntp1518
+Rp1519
+(dp1520
+g22
+F1650.115
+sg23
+F1652.777
+sg24
+(lp1521
+V- Správn\u011b.
+p1522
+aV- Tak\u017ee tu jsme tak dva dny.
+p1523
+asbag10
+(g18
+g12
+Ntp1524
+Rp1525
+(dp1526
+g22
+F1655.32
+sg23
+F1657.254
+sg24
+(lp1527
+VColes a McCain.
+p1528
+asbag10
+(g18
+g12
+Ntp1529
+Rp1530
+(dp1531
+g22
+F1657.3220000000001
+sg23
+F1660.223
+sg24
+(lp1532
+V- To m\u016f\u017ee být kdokoliv z nás, správn\u011b?
+p1533
+aV- Co je\u0161t\u011b? P\u0159e\u010dti to!
+p1534
+asbag10
+(g18
+g12
+Ntp1535
+Rp1536
+(dp1537
+g22
+F1660.291
+sg23
+F1664.591
+sg24
+(lp1538
+V<i>"Sv\u011bdci sly\u0161eli výst\u0159eli z brokovnic</i>
+p1539
+aV<i>v tom míst\u011b kolem ned\u011blní p\u016flnoci."</i>
+p1540
+asbag10
+(g18
+g12
+Ntp1541
+Rp1542
+(dp1543
+g22
+F1664.663
+sg23
+F1668.394
+sg24
+(lp1544
+V- N\u011bco dal\u0161ího?
+p1545
+aV- On má \u017eenu. To tu stojí.
+p1546
+asbag10
+(g18
+g12
+Ntp1547
+Rp1548
+(dp1549
+g22
+F1668.466
+sg23
+F1671.06
+sg24
+(lp1550
+VOu, jak tohle vy\u0159e\u0161íme?
+p1551
+asbag10
+(g18
+g12
+Ntp1552
+Rp1553
+(dp1554
+g22
+F1671.136
+sg23
+F1673.934
+sg24
+(lp1555
+VM\u011bl jsem t\u011b za Richarda.
+p1556
+aVAle vypadá\u0161 spí\u0161 jako \u010d\u016frák.
+p1557
+asbag10
+(g18
+g12
+Ntp1558
+Rp1559
+(dp1560
+g22
+F1674.005
+sg23
+F1678.135
+sg24
+(lp1561
+VTak ty musí\u0161 být únosce,
+p1562
+aVproto\u017ee \u010d\u016fráka s koulema mám já.
+p1563
+asbag10
+(g18
+g12
+Ntp1564
+Rp1565
+(dp1566
+g22
+F1678.209
+sg23
+F1681.076
+sg24
+(lp1567
+V- Myslí\u0161?
+p1568
+aV- Co?
+p1569
+asbag10
+(g18
+g12
+Ntp1570
+Rp1571
+(dp1572
+g22
+F1681.146
+sg23
+F1684.638
+sg24
+(lp1573
+V- Dv\u011b jména, správn\u011b? Dva mu\u017ei.
+p1574
+aV- Dva.
+p1575
+asbag10
+(g18
+g12
+Ntp1576
+Rp1577
+(dp1578
+g22
+F1684.716
+sg23
+F1686.877
+sg24
+(lp1579
+VTak\u017ee n\u011bco se tu
+p1580
+aVúpln\u011b pojebalo.
+p1581
+asbag10
+(g18
+g12
+Ntp1582
+Rp1583
+(dp1584
+g22
+F1686.951
+sg23
+F1689.92
+sg24
+(lp1585
+VDOb\u0159e, tak\u017ee tu byl souboj.
+p1586
+aVMcCain a Coles se rozvázali.
+p1587
+asbag10
+(g18
+g12
+Ntp1588
+Rp1589
+(dp1590
+g22
+F1689.988
+sg23
+F1692.286
+sg24
+(lp1591
+VO.K.?
+p1592
+aVTo dává smysl,ne?
+p1593
+asbag10
+(g18
+g12
+Ntp1594
+Rp1595
+(dp1596
+g22
+F1692.357
+sg23
+F1695.417
+sg24
+(lp1597
+VKa\u017edopádn\u011b jsou znovu na nohách,
+p1598
+aVa z t\u0159í jsou únosci-
+p1599
+asbag10
+(g18
+g12
+Ntp1600
+Rp1601
+(dp1602
+g22
+F1695.493
+sg23
+F1698.894
+sg24
+(lp1603
+V- a jeden Coles a dal\u0161í je McCain.
+p1604
+aV- P\u0159esn\u011b tak.
+p1605
+asbag10
+(g18
+g12
+Ntp1606
+Rp1607
+(dp1608
+g22
+F1698.963
+sg23
+F1704.094
+sg24
+(lp1609
+V- A tamten chlápek?
+p1610
+aV- <i>Na tom nesejde. Musíme spolupracovat</i>
+p1611
+aV<i>dohromady, pokud chceme vypadnout.</i>
+p1612
+asbag10
+(g18
+g12
+Ntp1613
+Rp1614
+(dp1615
+g22
+F1704.169
+sg23
+F1706.33
+sg24
+(lp1616
+V- Má pravdu.
+p1617
+aV- A pak p\u016fjdeme ka\u017edý svou cestou.
+p1618
+asbag10
+(g18
+g12
+Ntp1619
+Rp1620
+(dp1621
+g22
+F1706.404
+sg23
+F1709.339
+sg24
+(lp1622
+V- <i>Pravd\u011bpodobn\u011b se tamti vracejí.Zapomn\u011bli jste?</i>
+p1623
+aV- Ned\u011blejte rovnou záv\u011bry!
+p1624
+asbag10
+(g18
+g12
+Ntp1625
+Rp1626
+(dp1627
+g22
+F1709.407
+sg23
+F1711.568
+sg24
+(lp1628
+VDostanou prachy.
+p1629
+aVVrátí se a my budem v pohod\u011b.
+p1630
+asbag10
+(g18
+g12
+Ntp1631
+Rp1632
+(dp1633
+g22
+F1711.643
+sg23
+F1714.407
+sg24
+(lp1634
+VTy myslí\u0161, \u017ee dostanou svý prachy!
+p1635
+aVTy myslí\u0161, \u017ee n\u011bkdo zaplatí !
+p1636
+asbag10
+(g18
+g12
+Ntp1637
+Rp1638
+(dp1639
+g22
+F1714.479
+sg23
+F1716.743
+sg24
+(lp1640
+VMo\u017ená nikdo nezaplatí!
+p1641
+aVJsme mrtví!
+p1642
+asbag10
+(g18
+g12
+Ntp1643
+Rp1644
+(dp1645
+g22
+F1716.815
+sg23
+F1720.046
+sg24
+(lp1646
+V- Co je s tebou?
+p1647
+aV- Plete\u0161 se.
+p1648
+asbag10
+(g18
+g12
+Ntp1649
+Rp1650
+(dp1651
+g22
+F1720.118
+sg23
+F1722.143
+sg24
+(lp1652
+VMají krev na rukách.
+p1653
+asbag10
+(g18
+g12
+Ntp1654
+Rp1655
+(dp1656
+g22
+F1722.22
+sg23
+F1726.782
+sg24
+(lp1657
+VA\u0165 je Coles \u010di McCain kdokoli,
+p1658
+aVjsou mrtví, pokud odsud nevypadnem!
+p1659
+asbag10
+(g18
+g12
+Ntp1660
+Rp1661
+(dp1662
+g22
+F1747.879
+sg23
+F1749.813
+sg24
+(lp1663
+VBo\u017ee!
+p1664
+asbag10
+(g18
+g12
+Ntp1665
+Rp1666
+(dp1667
+g22
+F1749.881
+sg23
+F1754.818
+sg24
+(lp1668
+VTy m\u0159í\u017ee p\u016fjdou odstranit.
+p1669
+aVV\u0161echny jsou rezavé.
+p1670
+asbag10
+(g18
+g12
+Ntp1671
+Rp1672
+(dp1673
+g22
+F1759.29
+sg23
+F1762.657
+sg24
+(lp1674
+VAkorát je zláme\u0161.
+p1675
+aVP\u0159es to se nikdy nedostane\u0161.
+p1676
+asbag10
+(g18
+g12
+Ntp1677
+Rp1678
+(dp1679
+g22
+F1762.727
+sg23
+F1765.525
+sg24
+(lp1680
+VNáhle sis vzpomn\u011bl,
+p1681
+aV\u017ee se\u0161 architekt?
+p1682
+asbag10
+(g18
+g12
+Ntp1683
+Rp1684
+(dp1685
+g22
+F1765.597
+sg23
+F1767.497
+sg24
+(lp1686
+V- Práv\u011b-
+p1687
+aV- Hej, hej!
+p1688
+asbag10
+(g18
+g12
+Ntp1689
+Rp1690
+(dp1691
+g22
+F1767.565
+sg23
+F1770.033
+sg24
+(lp1692
+VDo toho.
+p1693
+asbag10
+(g18
+g12
+Ntp1694
+Rp1695
+(dp1696
+g22
+F1770.101
+sg23
+F1772.626
+sg24
+(lp1697
+V<i>Pusinky, nehádejte se.</i>
+p1698
+aV<i>M\u016f\u017eeme dostat vodu?</i>
+p1699
+asbag10
+(g18
+g12
+Ntp1700
+Rp1701
+(dp1702
+g22
+F1772.704
+sg23
+F1774.729
+sg24
+(lp1703
+VSklapni!
+p1704
+asbag10
+(g18
+g12
+Ntp1705
+Rp1706
+(dp1707
+g22
+F1777.142
+sg23
+F1780.634
+sg24
+(lp1708
+VAle no tak.
+p1709
+aVMu\u017e byl post\u0159elen!
+p1710
+asbag10
+(g18
+g12
+Ntp1711
+Rp1712
+(dp1713
+g22
+F1780.712
+sg23
+F1783.647
+sg24
+(lp1714
+V<i>Jestli chce\u0161, odvázej m\u011b.</i>
+p1715
+aV<i>Napiju se sám.</i>
+p1716
+asbag10
+(g18
+g12
+Ntp1717
+Rp1718
+(dp1719
+g22
+F1785.183
+sg23
+F1787.174
+sg24
+(lp1720
+VHluchej nebo blbej?
+p1721
+asbag10
+(g18
+g12
+Ntp1722
+Rp1723
+(dp1724
+g22
+F1787.252
+sg23
+F1789.243
+sg24
+(lp1725
+VVyku\u0159 m\u011b, vobludo!
+p1726
+asbag10
+(g18
+g12
+Ntp1727
+Rp1728
+(dp1729
+g22
+F1791.256
+sg23
+F1794.054
+sg24
+(lp1730
+VDob\u0159e.
+p1731
+aVDejme tomu \u0161anci.
+p1732
+asbag10
+(g18
+g12
+Ntp1733
+Rp1734
+(dp1735
+g22
+F1797.629
+sg23
+F1800.393
+sg24
+(lp1736
+VPou\u017eijeme lopatu
+p1737
+aVa jen to-
+p1738
+asbag10
+(g18
+g12
+Ntp1739
+Rp1740
+(dp1741
+g22
+F1800.465
+sg23
+F1803.4
+sg24
+(lp1742
+VVypá\u010díme.
+p1743
+aVUd\u011bláme z toho páku.
+p1744
+asbag10
+(g18
+g12
+Ntp1745
+Rp1746
+(dp1747
+g22
+F1816.681
+sg23
+F1819.616
+sg24
+(lp1748
+VNezále\u017eí kdo jsi nebo jak
+p1749
+aVmyslí\u0161, \u017ee jsi tvrdej...
+p1750
+asbag10
+(g18
+g12
+Ntp1751
+Rp1752
+(dp1753
+g22
+F1819.684
+sg23
+F1822.847
+sg24
+(lp1754
+Vv\u017edycky bude\u0161 srá\u010d p\u0159ivázanej
+p1755
+aVke kancelá\u0159skýmu k\u0159eslu!
+p1756
+asbag10
+(g18
+g12
+Ntp1757
+Rp1758
+(dp1759
+g22
+F1822.921
+sg23
+F1825.754
+sg24
+(lp1760
+VJasný?
+p1761
+asbag10
+(g18
+g12
+Ntp1762
+Rp1763
+(dp1764
+g22
+F1855.019
+sg23
+F1857.01
+sg24
+(lp1765
+VNa co \u010dumí\u0161?
+p1766
+asbag10
+(g18
+g12
+Ntp1767
+Rp1768
+(dp1769
+g22
+F1861.359
+sg23
+F1863.987
+sg24
+(lp1770
+VTo, \u017ee jsme oba svázaný
+p1771
+aVneznamená, \u017ee jsme kámo\u0161i.
+p1772
+asbag10
+(g18
+g12
+Ntp1773
+Rp1774
+(dp1775
+g22
+F1872.07
+sg23
+F1874.004
+sg24
+(lp1776
+VCo?
+p1777
+asbag10
+(g18
+g12
+Ntp1778
+Rp1779
+(dp1780
+g22
+F1878.977
+sg23
+F1882.469
+sg24
+(lp1781
+VCo\u017ee?
+p1782
+asbag10
+(g18
+g12
+Ntp1783
+Rp1784
+(dp1785
+g22
+F1889.554
+sg23
+F1891.954
+sg24
+(lp1786
+V- Pro\u010d si to ne\u0159ekl hned?
+p1787
+aV- Jo.
+p1788
+asbag10
+(g18
+g12
+Ntp1789
+Rp1790
+(dp1791
+g22
+F1902.7
+sg23
+F1905.1
+sg24
+(lp1792
+VSuper!
+p1793
+asbag10
+(g18
+g12
+Ntp1794
+Rp1795
+(dp1796
+g22
+F1905.169
+sg23
+F1908.935
+sg24
+(lp1797
+V- Ha ha!
+p1798
+aV- <i>Co vidí\u0161?</i>
+p1799
+asbag10
+(g18
+g12
+Ntp1800
+Rp1801
+(dp1802
+g22
+F1909.007
+sg23
+F1912.943
+sg24
+(lp1803
+V<i>Nic tam není.</i>
+p1804
+asbag10
+(g18
+g12
+Ntp1805
+Rp1806
+(dp1807
+g22
+F1913.011
+sg23
+F1915.343
+sg24
+(lp1808
+VPomoc!
+p1809
+asbag10
+(g18
+g12
+Ntp1810
+Rp1811
+(dp1812
+g22
+F1926.09
+sg23
+F1928.65
+sg24
+(lp1813
+VOpatrn\u011b s tím!
+p1814
+asbag10
+(g18
+g12
+Ntp1815
+Rp1816
+(dp1817
+g22
+F1928.726
+sg23
+F1931.718
+sg24
+(lp1818
+V- Dob\u0159e! Dob\u0159e!
+p1819
+aV- <i>Klid!</i>
+p1820
+asbag10
+(g18
+g12
+Ntp1821
+Rp1822
+(dp1823
+g22
+F1931.796
+sg23
+F1935.459
+sg24
+(lp1824
+V<i>Hej, cht\u011bl jsem jenom pomoct.</i>
+p1825
+aV<i>Necht\u011bl jsem nic provést!</i>
+p1826
+asbag10
+(g18
+g12
+Ntp1827
+Rp1828
+(dp1829
+g22
+F1936.768
+sg23
+F1939.862
+sg24
+(lp1830
+VTo vysv\u011btluje mnohé.
+p1831
+asbag10
+(g18
+g12
+Ntp1832
+Rp1833
+(dp1834
+g22
+F1939.938
+sg23
+F1942.702
+sg24
+(lp1835
+V<i>Necht\u011bl jsem nic provést!</i>
+p1836
+asbag10
+(g18
+g12
+Ntp1837
+Rp1838
+(dp1839
+g22
+F1942.774
+sg23
+F1944.799
+sg24
+(lp1840
+VNecht\u011bl jsem s tím nic d\u011blat,
+p1841
+aVjen jsem myslel-
+p1842
+asbag10
+(g18
+g12
+Ntp1843
+Rp1844
+(dp1845
+g22
+F1944.876
+sg23
+F1946.81
+sg24
+(lp1846
+V- Jist\u011b.
+p1847
+aV- Hej, co d\u011blá\u0161?
+p1848
+asbag10
+(g18
+g12
+Ntp1849
+Rp1850
+(dp1851
+g22
+F1946.878
+sg23
+F1949.21
+sg24
+(lp1852
+VP\u0159esn\u011b tak jsi to myslel, \u0161éfíku.
+p1853
+aVTe\u010f kone\u010dn\u011b mluví\u0161.
+p1854
+asbag10
+(g18
+g12
+Ntp1855
+Rp1856
+(dp1857
+g22
+F1949.28
+sg23
+F1951.475
+sg24
+(lp1858
+V<i>Kriste, vy ho necháte jít?</i>
+p1859
+asbag10
+(g18
+g12
+Ntp1860
+Rp1861
+(dp1862
+g22
+F1951.549
+sg23
+F1953.642
+sg24
+(lp1863
+VCo\u017ee-
+p1864
+aVCo to d\u011blá\u0161?
+p1865
+asbag10
+(g18
+g12
+Ntp1866
+Rp1867
+(dp1868
+g22
+F1953.718
+sg23
+F1957.347
+sg24
+(lp1869
+VZasranej hajzle.
+p1870
+asbag10
+(g18
+g12
+Ntp1871
+Rp1872
+(dp1873
+g22
+F1957.422
+sg23
+F1959.549
+sg24
+(lp1874
+VO jednu starost mí\u0148.
+p1875
+asbag10
+(g18
+g12
+Ntp1876
+Rp1877
+(dp1878
+g22
+F1961.092
+sg23
+F1963.3220000000001
+sg24
+(lp1879
+VTi\u0161e!
+p1880
+asbag10
+(g18
+g12
+Ntp1881
+Rp1882
+(dp1883
+g22
+F1963.394
+sg23
+F1965.362
+sg24
+(lp1884
+VCo to k \u010dertu je?
+p1885
+asbag10
+(g18
+g12
+Ntp1886
+Rp1887
+(dp1888
+g22
+F1973.304
+sg23
+F1975.329
+sg24
+(lp1889
+VPo\u010dkat,po\u010dkat, po\u010dkejte!
+p1890
+asbag10
+(g18
+g12
+Ntp1891
+Rp1892
+(dp1893
+g22
+F1975.406
+sg23
+F1977.897
+sg24
+(lp1894
+V<i>A\u0165 to zvedne on.</i>
+p1895
+aV<i>A\u0165 to zvedne on.</i>
+p1896
+asbag10
+(g18
+g12
+Ntp1897
+Rp1898
+(dp1899
+g22
+F1977.976
+sg23
+F1979.944
+sg24
+(lp1900
+V- <i>Nech jeho.</i>
+p1901
+aV- Zbláznil ses?
+p1902
+asbag10
+(g18
+g12
+Ntp1903
+Rp1904
+(dp1905
+g22
+F1980.011
+sg23
+F1983.447
+sg24
+(lp1906
+VJestli jsou to oni, u\u017e s ním mluvili.
+p1907
+aVUd\u011blají to znovu. Nech jeho.
+p1908
+asbag10
+(g18
+g12
+Ntp1909
+Rp1910
+(dp1911
+g22
+F1989.187
+sg23
+F1992.213
+sg24
+(lp1912
+V- Haló??
+p1913
+aV- <i>To jsem já.</i>
+p1914
+asbag10
+(g18
+g12
+Ntp1915
+Rp1916
+(dp1917
+g22
+F1992.29
+sg23
+F1995.453
+sg24
+(lp1918
+VMáme hotovo. Uvidíme se p\u0159ed setm\u011bním.
+p1919
+asbag10
+(g18
+g12
+Ntp1920
+Rp1921
+(dp1922
+g22
+F1998.262
+sg23
+F2001.254
+sg24
+(lp1923
+VU\u017e jedou.
+p1924
+asbag10
+(g18
+g12
+Ntp1925
+Rp1926
+(dp1927
+g22
+F2001.332
+sg23
+F2003.664
+sg24
+(lp1928
+V<i>P\u0159ed setm\u011bním.</i>
+p1929
+asbag10
+(g18
+g12
+Ntp1930
+Rp1931
+(dp1932
+g22
+F2016.514
+sg23
+F2018.948
+sg24
+(lp1933
+VDo prdele.
+p1934
+asbag10
+(g18
+g12
+Ntp1935
+Rp1936
+(dp1937
+g22
+F2019.017
+sg23
+F2021.315
+sg24
+(lp1938
+VP\u016fl hodiny a sotva jsme ud\u011blali zá\u0159ez.
+p1939
+asbag10
+(g18
+g12
+Ntp1940
+Rp1941
+(dp1942
+g22
+F2021.386
+sg23
+F2023.786
+sg24
+(lp1943
+V<i>No to je nad\u0161ení.</i>
+p1944
+aV<i>Podej mi dal\u0161í kousek.</i>
+p1945
+asbag10
+(g18
+g12
+Ntp1946
+Rp1947
+(dp1948
+g22
+F2023.855
+sg23
+F2027.382
+sg24
+(lp1949
+VMá pravdu. S tímhle
+p1950
+aVse nikam nedostaneme.
+p1951
+asbag10
+(g18
+g12
+Ntp1952
+Rp1953
+(dp1954
+g22
+F2027.458
+sg23
+F2032.088
+sg24
+(lp1955
+VHmm, já nevím. Máme
+p1956
+aVdv\u011b hodiny, \u017ee jo?
+p1957
+asbag10
+(g18
+g12
+Ntp1958
+Rp1959
+(dp1960
+g22
+F2032.163
+sg23
+F2035.257
+sg24
+(lp1961
+VMusíme rozhodnout jak
+p1962
+aVjsme schopni zajít s p\u0159ípravou.
+p1963
+asbag10
+(g18
+g12
+Ntp1964
+Rp1965
+(dp1966
+g22
+F2035.333
+sg23
+F2037.46
+sg24
+(lp1967
+VCo myslí\u0161?
+p1968
+asbag10
+(g18
+g12
+Ntp1969
+Rp1970
+(dp1971
+g22
+F2037.535
+sg23
+F2041.596
+sg24
+(lp1972
+VMyslím tím, zda jsme
+p1973
+aVp\u0159ipraveni ud\u011blat cokoliv bude pot\u0159eba?
+p1974
+asbag10
+(g18
+g12
+Ntp1975
+Rp1976
+(dp1977
+g22
+F2048.546
+sg23
+F2050.48
+sg24
+(lp1978
+VDej mi je\u0161t\u011b jeden.
+p1979
+asbag10
+(g18
+g12
+Ntp1980
+Rp1981
+(dp1982
+g22
+F2051.549
+sg23
+F2053.54
+sg24
+(lp1983
+VTo byl poslední.
+p1984
+asbag10
+(g18
+g12
+Ntp1985
+Rp1986
+(dp1987
+g22
+F2055.987
+sg23
+F2059.15
+sg24
+(lp1988
+V<i>Co jí mám \u0159íct?</i>
+p1989
+asbag10
+(g18
+g12
+Ntp1990
+Rp1991
+(dp1992
+g22
+F2059.223
+sg23
+F2061.589
+sg24
+(lp1993
+VNevím.
+p1994
+asbag10
+(g18
+g12
+Ntp1995
+Rp1996
+(dp1997
+g22
+F2061.659
+sg23
+F2064.89
+sg24
+(lp1998
+VVezmi ji na stanici
+p1999
+aVa udr\u017e ji v klidu.
+p2000
+asbag10
+(g18
+g12
+Ntp2001
+Rp2002
+(dp2003
+g22
+F2104.001
+sg23
+F2106.663
+sg24
+(lp2004
+VSakra, koukni na to.
+p2005
+asbag10
+(g18
+g12
+Ntp2006
+Rp2007
+(dp2008
+g22
+F2106.737
+sg23
+F2109.831
+sg24
+(lp2009
+VNázev chemický látky je stejný
+p2010
+aVjako na tý otev\u0159ený plynový láhvi.
+p2011
+asbag10
+(g18
+g12
+Ntp2012
+Rp2013
+(dp2014
+g22
+F2109.907
+sg23
+F2113.07
+sg24
+(lp2015
+V- Skute\u010dn\u011b?
+p2016
+aV- Poslouchej!
+p2017
+asbag10
+(g18
+g12
+Ntp2018
+Rp2019
+(dp2020
+g22
+F2113.144
+sg23
+F2116.807
+sg24
+(lp2021
+V"Varování. Ú\u010dinek inhalace po
+p2022
+aVvypu\u0161t\u011bní zp\u016fsobuje...
+p2023
+asbag10
+(g18
+g12
+Ntp2024
+Rp2025
+(dp2026
+g22
+F2116.881
+sg23
+F2119.406
+sg24
+(lp2027
+V"du\u0161nost, nevolnost,
+p2028
+aVbezv\u011bdomí...
+p2029
+asbag10
+(g18
+g12
+Ntp2030
+Rp2031
+(dp2032
+g22
+F2119.484
+sg23
+F2122.476
+sg24
+(lp2033
+V"Do\u010dasnou ztrátu pam\u011bti,
+p2034
+aVzáchvaty a/nebo smrt.
+p2035
+asbag10
+(g18
+g12
+Ntp2036
+Rp2037
+(dp2038
+g22
+F2122.553
+sg23
+F2126.649
+sg24
+(lp2039
+V"Nevdechujte.
+p2040
+aVKontaktujte specialistu.
+p2041
+asbag10
+(g18
+g12
+Ntp2042
+Rp2043
+(dp2044
+g22
+F2126.724
+sg23
+F2128.658
+sg24
+(lp2045
+VZvlá\u0161\u0165 pokud unikne z láhví."
+p2046
+asbag10
+(g18
+g12
+Ntp2047
+Rp2048
+(dp2049
+g22
+F2128.726
+sg23
+F2131.32
+sg24
+(lp2050
+VSakra, jak dlouho
+p2051
+aVjsme tu v\u011bc dýchali?
+p2052
+asbag10
+(g18
+g12
+Ntp2053
+Rp2054
+(dp2055
+g22
+F2156.587
+sg23
+F2159.886
+sg24
+(lp2056
+V<i>Kurva st\u016fj, McCaine!</i>
+p2057
+aV<i>Má\u0161 u hlavy boucha\u010dku!</i>
+p2058
+asbag10
+(g18
+g12
+Ntp2059
+Rp2060
+(dp2061
+g22
+F2173.037
+sg23
+F2175.028
+sg24
+(lp2062
+VMcCaine.
+p2063
+asbag10
+(g18
+g12
+Ntp2064
+Rp2065
+(dp2066
+g22
+F2204.635
+sg23
+F2207.035
+sg24
+(lp2067
+VP\u0159emý\u0161lel jsem o
+p2068
+aVcelé té v\u011bci.
+p2069
+asbag10
+(g18
+g12
+Ntp2070
+Rp2071
+(dp2072
+g22
+F2207.104
+sg23
+F2210.073
+sg24
+(lp2073
+VVzbudil ses
+p2074
+aVd\u0159ív ne\u017e my.
+p2075
+asbag10
+(g18
+g12
+Ntp2076
+Rp2077
+(dp2078
+g22
+F2210.141
+sg23
+F2212.234
+sg24
+(lp2079
+V<i>Pak ten telefonát.</i>
+p2080
+asbag10
+(g18
+g12
+Ntp2081
+Rp2082
+(dp2083
+g22
+F2212.31
+sg23
+F2214.71
+sg24
+(lp2084
+VV\u0161echno to zapadá.
+p2085
+asbag10
+(g18
+g12
+Ntp2086
+Rp2087
+(dp2088
+g22
+F2216.18
+sg23
+F2219.24
+sg24
+(lp2089
+VJestli n\u011bco nazna\u010duje\u0161,
+p2090
+aVtak to \u0159ekni.
+p2091
+asbag10
+(g18
+g12
+Ntp2092
+Rp2093
+(dp2094
+g22
+F2219.317
+sg23
+F2222.65
+sg24
+(lp2095
+VMo\u017ená tu jenom \u010deká\u0161
+p2096
+aVa\u017e se uká\u017eou oni, co?
+p2097
+asbag10
+(g18
+g12
+Ntp2098
+Rp2099
+(dp2100
+g22
+F2222.72
+sg23
+F2226.156
+sg24
+(lp2101
+VA co ty? Nejsi náhodou
+p2102
+aVten co vyrval telefonní drát?
+p2103
+asbag10
+(g18
+g12
+Ntp2104
+Rp2105
+(dp2106
+g22
+F2226.224
+sg23
+F2230.49
+sg24
+(lp2107
+VJo, ale nelhal jsem
+p2108
+aVa nesna\u017eil to ututlat, \u017ee jo?
+p2109
+asbag10
+(g18
+g12
+Ntp2110
+Rp2111
+(dp2112
+g22
+F2232.93
+sg23
+F2236.923
+sg24
+(lp2113
+VDob\u0159e. M\u016f\u017ee\u0161 sem p\u0159ijít
+p2114
+aVa pomoct mi?
+p2115
+asbag10
+(g18
+g12
+Ntp2116
+Rp2117
+(dp2118
+g22
+F2248.779
+sg23
+F2251.612
+sg24
+(lp2119
+VTicho! Poslouchej!
+p2120
+aVVrací se mi pam\u011b\u0165.
+p2121
+asbag10
+(g18
+g12
+Ntp2122
+Rp2123
+(dp2124
+g22
+F2251.682
+sg23
+F2253.809
+sg24
+(lp2125
+VN\u011bco z minula si pamatuju.
+p2126
+aVVím kdo jsme.
+p2127
+asbag10
+(g18
+g12
+Ntp2128
+Rp2129
+(dp2130
+g22
+F2253.884
+sg23
+F2255.875
+sg24
+(lp2131
+VAha.
+p2132
+aVPro\u010d ti mám v\u011b\u0159it?
+p2133
+asbag10
+(g18
+g12
+Ntp2134
+Rp2135
+(dp2136
+g22
+F2255.953
+sg23
+F2259.389
+sg24
+(lp2137
+VProto\u017ee, ty jsi druhé rukojmí.
+p2138
+aVJsi William Coles.
+p2139
+asbag10
+(g18
+g12
+Ntp2140
+Rp2141
+(dp2142
+g22
+F2259.457
+sg23
+F2263.45
+sg24
+(lp2143
+VSkute\u010dn\u011b? Zázrak, \u017ee tak
+p2144
+aVnajednou, ne?
+p2145
+asbag10
+(g18
+g12
+Ntp2146
+Rp2147
+(dp2148
+g22
+F2265.029
+sg23
+F2267.759
+sg24
+(lp2149
+VUnesli nás z práce.
+p2150
+aVDokon\u010dovali jsme smlouvu.
+p2151
+asbag10
+(g18
+g12
+Ntp2152
+Rp2153
+(dp2154
+g22
+F2267.832
+sg23
+F2270.357
+sg24
+(lp2155
+VByli jsme na parkovi\u0161ti.
+p2156
+aVPamatuje\u0161 si to?
+p2157
+asbag10
+(g18
+g12
+Ntp2158
+Rp2159
+(dp2160
+g22
+F2270.434
+sg23
+F2273.062
+sg24
+(lp2161
+V- Ne.
+p2162
+aV- Sebrali nás v ned\u011bli. Bylo pozd\u011b odpoledne.
+p2163
+asbag10
+(g18
+g12
+Ntp2164
+Rp2165
+(dp2166
+g22
+F2273.137
+sg23
+F2277.039
+sg24
+(lp2167
+VPo\u010dítali jsme n\u011bjaká \u010dísla.
+p2168
+aVTen srá\u010d nás vid\u011bl vejít. Vid\u011bl nás.
+p2169
+asbag10
+(g18
+g12
+Ntp2170
+Rp2171
+(dp2172
+g22
+F2277.108
+sg23
+F2279.042
+sg24
+(lp2173
+V<i>Hej!</i>
+p2174
+asbag10
+(g18
+g12
+Ntp2175
+Rp2176
+(dp2177
+g22
+F2282.146
+sg23
+F2285.445
+sg24
+(lp2178
+VVím, \u017ee nemá\u0161 d\u016fvod mi v\u011b\u0159it,
+p2179
+aVale on nás chce podrazit.
+p2180
+asbag10
+(g18
+g12
+Ntp2181
+Rp2182
+(dp2183
+g22
+F2285.516
+sg23
+F2289.145
+sg24
+(lp2184
+V- Bo\u017ee. Musíme získat
+p2185
+aV- tu zbra\u0148 ne\u017e si srá\u010d...
+p2186
+asbag10
+(g18
+g12
+Ntp2187
+Rp2188
+(dp2189
+g22
+F2289.22
+sg23
+F2291.415
+sg24
+(lp2190
+Vvzpomene kdo je,
+p2191
+aVa to jsme v hajzlu.
+p2192
+asbag10
+(g18
+g12
+Ntp2193
+Rp2194
+(dp2195
+g22
+F2291.489
+sg23
+F2294.822
+sg24
+(lp2196
+VPamatuju si akorát hovno?
+p2197
+aVNepamatuji si nic.
+p2198
+asbag10
+(g18
+g12
+Ntp2199
+Rp2200
+(dp2201
+g22
+F2294.892
+sg23
+F2299.022
+sg24
+(lp2202
+VPro Kristovy rány,
+p2203
+aVty si nepamatuje\u0161 svoje d\u011bti?
+p2204
+asbag10
+(g18
+g12
+Ntp2205
+Rp2206
+(dp2207
+g22
+F2299.096
+sg23
+F2301.587
+sg24
+(lp2208
+VNa\u0161e d\u011bti spolu hráli ligu,
+p2209
+aVsakra Bille.
+p2210
+asbag10
+(g18
+g12
+Ntp2211
+Rp2212
+(dp2213
+g22
+F2301.666
+sg23
+F2304.1
+sg24
+(lp2214
+V<i>Ty si nepamatuje\u0161</i>
+p2215
+aV<i>své d\u011bti?</i>
+p2216
+asbag10
+(g18
+g12
+Ntp2217
+Rp2218
+(dp2219
+g22
+F2305.903
+sg23
+F2308.201
+sg24
+(lp2220
+VBille?
+p2221
+asbag10
+(g18
+g12
+Ntp2222
+Rp2223
+(dp2224
+g22
+F2312.977
+sg23
+F2315.639
+sg24
+(lp2225
+VCo? Co se d\u011bje?
+p2226
+asbag10
+(g18
+g12
+Ntp2227
+Rp2228
+(dp2229
+g22
+F2316.647
+sg23
+F2318.615
+sg24
+(lp2230
+VMusíme si promluvit.
+p2231
+asbag10
+(g18
+g12
+Ntp2232
+Rp2233
+(dp2234
+g22
+F2321.619
+sg23
+F2324.11
+sg24
+(lp2235
+VCo se d\u011bje?
+p2236
+asbag10
+(g18
+g12
+Ntp2237
+Rp2238
+(dp2239
+g22
+F2330.795
+sg23
+F2332.194
+sg24
+(lp2240
+VZabij ho!
+p2241
+asbag10
+(g18
+g12
+Ntp2242
+Rp2243
+(dp2244
+g22
+F2333.931
+sg23
+F2335.899
+sg24
+(lp2245
+V<i>Sejmi toho hajzla!</i>
+p2246
+asbag10
+(g18
+g12
+Ntp2247
+Rp2248
+(dp2249
+g22
+F2337.268
+sg23
+F2340.032
+sg24
+(lp2250
+V<i>Dejte mu! Dejte mu!</i>
+p2251
+aV<i>Dejte mu!</i>
+p2252
+asbag10
+(g18
+g12
+Ntp2253
+Rp2254
+(dp2255
+g22
+F2341.839
+sg23
+F2344.307
+sg24
+(lp2256
+V<i>Vezm\u011bte tu zbra\u0148!</i>
+p2257
+aV<i>Vezm\u011bte tu zbra\u0148!</i>
+p2258
+asbag10
+(g18
+g12
+Ntp2259
+Rp2260
+(dp2261
+g22
+F2347.812
+sg23
+F2350.144
+sg24
+(lp2262
+V<i>Vezm\u011bte tu zbra\u0148!</i>
+p2263
+asbag10
+(g18
+g12
+Ntp2264
+Rp2265
+(dp2266
+g22
+F2351.949
+sg23
+F2353.61
+sg24
+(lp2267
+VKurva!
+p2268
+asbag10
+(g18
+g12
+Ntp2269
+Rp2270
+(dp2271
+g22
+F2356.62
+sg23
+F2358.554
+sg24
+(lp2272
+VCo to sakra vyvádíte?
+p2273
+asbag10
+(g18
+g12
+Ntp2274
+Rp2275
+(dp2276
+g22
+F2358.622
+sg23
+F2361.147
+sg24
+(lp2277
+VOn \u0159íkal, \u017ee jsem Coles.
+p2278
+aVOn \u0159íkal, \u017ee jsem Coles, kámo.
+p2279
+asbag10
+(g18
+g12
+Ntp2280
+Rp2281
+(dp2282
+g22
+F2361.225
+sg23
+F2363.625
+sg24
+(lp2283
+VCo\u017ee?
+p2284
+aVTys mu v\u011b\u0159il?
+p2285
+asbag10
+(g18
+g12
+Ntp2286
+Rp2287
+(dp2288
+g22
+F2363.694
+sg23
+F2367.425
+sg24
+(lp2289
+V\u0158íkal, \u017ee se mu vrátila pam\u011b\u0165.
+p2290
+aVVí kdo my dva jsme.
+p2291
+asbag10
+(g18
+g12
+Ntp2292
+Rp2293
+(dp2294
+g22
+F2368.366
+sg23
+F2370.334
+sg24
+(lp2295
+V<i>Kecá sra\u010dky!</i>
+p2296
+asbag10
+(g18
+g12
+Ntp2297
+Rp2298
+(dp2299
+g22
+F2370.401
+sg23
+F2373.131
+sg24
+(lp2300
+VPamatoval si mé d\u011bti.
+p2301
+aVMé d\u011bti, kámo.
+p2302
+asbag10
+(g18
+g12
+Ntp2303
+Rp2304
+(dp2305
+g22
+F2373.204
+sg23
+F2375.9
+sg24
+(lp2306
+VTo je le\u017e!
+p2307
+asbag10
+(g18
+g12
+Ntp2308
+Rp2309
+(dp2310
+g22
+F2375.973
+sg23
+F2377.998
+sg24
+(lp2311
+VNemohl jsem to risknout!
+p2312
+aVNemohl jsem to risknout!
+p2313
+asbag10
+(g18
+g12
+Ntp2314
+Rp2315
+(dp2316
+g22
+F2380.811
+sg23
+F2384.44
+sg24
+(lp2317
+VJe to pravda?
+p2318
+aVCo si pamatuje\u0161?
+p2319
+asbag10
+(g18
+g12
+Ntp2320
+Rp2321
+(dp2322
+g22
+F2384.515
+sg23
+F2387.109
+sg24
+(lp2323
+VCo si pamatuje\u0161,
+p2324
+aVdebile?
+p2325
+asbag10
+(g18
+g12
+Ntp2326
+Rp2327
+(dp2328
+g22
+F2387.184
+sg23
+F2389.618
+sg24
+(lp2329
+VOn nás zabije, Bille.
+p2330
+asbag10
+(g18
+g12
+Ntp2331
+Rp2332
+(dp2333
+g22
+F2391.922
+sg23
+F2395.585
+sg24
+(lp2334
+V<i>Jdi do hajzlu!</i>
+p2335
+asbag10
+(g18
+g12
+Ntp2336
+Rp2337
+(dp2338
+g22
+F2395.659
+sg23
+F2398.287
+sg24
+(lp2339
+V- Do hajzlu jdi sám!
+p2340
+aV- Ne!
+p2341
+asbag10
+(g18
+g12
+Ntp2342
+Rp2343
+(dp2344
+g22
+F2400.331
+sg23
+F2402.993
+sg24
+(lp2345
+V- Co je sakra s tebou?
+p2346
+aV- Koho mám zast\u0159elit?
+p2347
+asbag10
+(g18
+g12
+Ntp2348
+Rp2349
+(dp2350
+g22
+F2403.067
+sg23
+F2405.001
+sg24
+(lp2351
+V<i>Co to k \u010dertu</i>
+p2352
+aV<i>d\u011blá\u0161, kámo?</i>
+p2353
+asbag10
+(g18
+g12
+Ntp2354
+Rp2355
+(dp2356
+g22
+F2405.069
+sg23
+F2407.264
+sg24
+(lp2357
+VLhal jsem.
+p2358
+asbag10
+(g18
+g12
+Ntp2359
+Rp2360
+(dp2361
+g22
+F2407.338
+sg23
+F2410.171
+sg24
+(lp2362
+V- Co si pamatuje\u0161?
+p2363
+aV- V\u0161echno jsem si vymyslel.
+p2364
+asbag10
+(g18
+g12
+Ntp2365
+Rp2366
+(dp2367
+g22
+F2410.241
+sg23
+F2412.505
+sg24
+(lp2368
+V- Dost!
+p2369
+aV- Já se jen sna\u017eím dostat odtud, kámo.
+p2370
+asbag10
+(g18
+g12
+Ntp2371
+Rp2372
+(dp2373
+g22
+F2412.576
+sg23
+F2414.601
+sg24
+(lp2374
+V<i>Nech ho být.</i>
+p2375
+aV<i>Nech ho být, kámo.</i>
+p2376
+asbag10
+(g18
+g12
+Ntp2377
+Rp2378
+(dp2379
+g22
+F2414.678
+sg23
+F2417.34
+sg24
+(lp2380
+VNevím co d\u011blám.
+p2381
+aVNevím co d\u011blám.
+p2382
+asbag10
+(g18
+g12
+Ntp2383
+Rp2384
+(dp2385
+g22
+F2417.415
+sg23
+F2419.383
+sg24
+(lp2386
+VTo \u0159íká\u0161 jen
+p2387
+aVabych t\u011b nezabil.
+p2388
+asbag10
+(g18
+g12
+Ntp2389
+Rp2390
+(dp2391
+g22
+F2419.45
+sg23
+F2421.418
+sg24
+(lp2392
+VStejn\u011b m\u011b zabije\u0161.
+p2393
+asbag10
+(g18
+g12
+Ntp2394
+Rp2395
+(dp2396
+g22
+F2421.485
+sg23
+F2423.419
+sg24
+(lp2397
+VCo si pamatuje\u0161?
+p2398
+asbag10
+(g18
+g12
+Ntp2399
+Rp2400
+(dp2401
+g22
+F2424.422
+sg23
+F2427.323
+sg24
+(lp2402
+VJsi to ty!
+p2403
+aVJsi to ty!
+p2404
+asbag10
+(g18
+g12
+Ntp2405
+Rp2406
+(dp2407
+g22
+F2428.993
+sg23
+F2431.291
+sg24
+(lp2408
+VNejsem zlo\u010dinec.
+p2409
+asbag10
+(g18
+g12
+Ntp2410
+Rp2411
+(dp2412
+g22
+F2431.362
+sg23
+F2433.626
+sg24
+(lp2413
+VTak se tak nechovej!
+p2414
+asbag10
+(g18
+g12
+Ntp2415
+Rp2416
+(dp2417
+g22
+F2438.903
+sg23
+F2441.633
+sg24
+(lp2418
+VJsme uprost\u0159ed ni\u010deho.
+p2419
+asbag10
+(g18
+g12
+Ntp2420
+Rp2421
+(dp2422
+g22
+F2443.607
+sg23
+F2446.974
+sg24
+(lp2423
+V- Co\u017ee? Mluv!
+p2424
+aV- Myslím, \u017ee práv\u011b zastavili.
+p2425
+asbag10
+(g18
+g12
+Ntp2426
+Rp2427
+(dp2428
+g22
+F2447.044
+sg23
+F2449.842
+sg24
+(lp2429
+VNemysli, \u010dti.
+p2430
+aVMá\u0161 stopu nebo ne?
+p2431
+asbag10
+(g18
+g12
+Ntp2432
+Rp2433
+(dp2434
+g22
+F2449.914
+sg23
+F2451.711
+sg24
+(lp2435
+VJo. P\u0159ímo tady. Je\u010f.
+p2436
+asbag10
+(g18
+g12
+Ntp2437
+Rp2438
+(dp2439
+g22
+F2467.064
+sg23
+F2470.522
+sg24
+(lp2440
+V<i>To on to ud\u011blal!</i>
+p2441
+asbag10
+(g18
+g12
+Ntp2442
+Rp2443
+(dp2444
+g22
+F2470.601
+sg23
+F2474.503
+sg24
+(lp2445
+V<i>Na jaký jsi</i>
+p2446
+aV<i>jsi v\u016fbec stran\u011b?</i>
+p2447
+asbag10
+(g18
+g12
+Ntp2448
+Rp2449
+(dp2450
+g22
+F2492.79
+sg23
+F2495.054
+sg24
+(lp2451
+V<i>Jak se tam nahoru dostaneme?</i>
+p2452
+asbag10
+(g18
+g12
+Ntp2453
+Rp2454
+(dp2455
+g22
+F2503.3
+sg23
+F2506.701
+sg24
+(lp2456
+V<i>Dosta\u0148 se na tu \u0159ímsu!</i>
+p2457
+aV<i>Rychle na tu \u0159ímsu! Neudr\u017eíme t\u011b!</i>
+p2458
+asbag10
+(g18
+g12
+Ntp2459
+Rp2460
+(dp2461
+g22
+F2506.77
+sg23
+F2508.863
+sg24
+(lp2462
+V- Mám to! Mám to!
+p2463
+aV- Stojí\u0161 na ní?
+p2464
+asbag10
+(g18
+g12
+Ntp2465
+Rp2466
+(dp2467
+g22
+F2518.215
+sg23
+F2520.649
+sg24
+(lp2468
+V- Opatrn\u011b!
+p2469
+aV- A kurva!
+p2470
+asbag10
+(g18
+g12
+Ntp2471
+Rp2472
+(dp2473
+g22
+F2520.718
+sg23
+F2522.686
+sg24
+(lp2474
+V<i>Zkurven\u011b.</i>
+p2475
+asbag10
+(g18
+g12
+Ntp2476
+Rp2477
+(dp2478
+g22
+F2522.753
+sg23
+F2524.721
+sg24
+(lp2479
+VPromi\u0148.
+p2480
+asbag10
+(g18
+g12
+Ntp2481
+Rp2482
+(dp2483
+g22
+F2529.86
+sg23
+F2532.92
+sg24
+(lp2484
+VZatracen\u011b!
+p2485
+aVZatracen\u011b!
+p2486
+asbag10
+(g18
+g12
+Ntp2487
+Rp2488
+(dp2489
+g22
+F2532.997
+sg23
+F2536.694
+sg24
+(lp2490
+V- Kurva.
+p2491
+aV- Zase bezpe\u010dnostní sklo?
+p2492
+asbag10
+(g18
+g12
+Ntp2493
+Rp2494
+(dp2495
+g22
+F2537.868
+sg23
+F2540.462
+sg24
+(lp2496
+VVydr\u017e chvíli.
+p2497
+asbag10
+(g18
+g12
+Ntp2498
+Rp2499
+(dp2500
+g22
+F2540.538
+sg23
+F2543.735
+sg24
+(lp2501
+V- Mo\u017ená do toho m\u016f\u017eu prost\u0159elit díru.
+p2502
+aV- Ne, to ne, kámo.
+p2503
+asbag10
+(g18
+g12
+Ntp2504
+Rp2505
+(dp2506
+g22
+F2543.807
+sg23
+F2545.741
+sg24
+(lp2507
+VZbra\u0148 z\u016fstane u m\u011b.
+p2508
+asbag10
+(g18
+g12
+Ntp2509
+Rp2510
+(dp2511
+g22
+F2545.809
+sg23
+F2548.334
+sg24
+(lp2512
+VNebu\u010f kretén,
+p2513
+aVsna\u017eím se nás odsud dostat.
+p2514
+asbag10
+(g18
+g12
+Ntp2515
+Rp2516
+(dp2517
+g22
+F2548.412
+sg23
+F2550.642
+sg24
+(lp2518
+VM\u016f\u017eu do toho
+p2519
+aVst\u0159elit zblízka, tady.
+p2520
+asbag10
+(g18
+g12
+Ntp2521
+Rp2522
+(dp2523
+g22
+F2550.714
+sg23
+F2553.649
+sg24
+(lp2524
+VPoj\u010f dol\u016f.
+p2525
+aVVy\u0161plhám tam a zkusím to.
+p2526
+asbag10
+(g18
+g12
+Ntp2527
+Rp2528
+(dp2529
+g22
+F2553.717
+sg23
+F2555.981
+sg24
+(lp2530
+VSe\u0161 moc t\u011b\u017ekej,
+p2531
+aVprase tlustý!
+p2532
+asbag10
+(g18
+g12
+Ntp2533
+Rp2534
+(dp2535
+g22
+F2556.053
+sg23
+F2559.022
+sg24
+(lp2536
+VProvaz t\u011b mo\u017ená neudr\u017eí.
+p2537
+aVPoslu\u017e si!
+p2538
+asbag10
+(g18
+g12
+Ntp2539
+Rp2540
+(dp2541
+g22
+F2561.258
+sg23
+F2563.192
+sg24
+(lp2542
+V<i>O.K. Jdeme na to.</i>
+p2543
+asbag10
+(g18
+g12
+Ntp2544
+Rp2545
+(dp2546
+g22
+F2565.229
+sg23
+F2567.823
+sg24
+(lp2547
+VTady se nám hodí tv\u016fj
+p2548
+aVhezkej ksicht.
+p2549
+asbag10
+(g18
+g12
+Ntp2550
+Rp2551
+(dp2552
+g22
+F2571.902
+sg23
+F2574.336
+sg24
+(lp2553
+VTo je on.
+p2554
+aVTo je on v tom obchod\u011b.
+p2555
+asbag10
+(g18
+g12
+Ntp2556
+Rp2557
+(dp2558
+g22
+F2574.405
+sg23
+F2575.929
+sg24
+(lp2559
+V- Jsi si jistý?
+p2560
+aV- Jo.
+p2561
+asbag10
+(g18
+g12
+Ntp2562
+Rp2563
+(dp2564
+g22
+F2578.075
+sg23
+F2580.1
+sg24
+(lp2565
+VVidí\u0161, který je jeho auto?
+p2566
+asbag10
+(g18
+g12
+Ntp2567
+Rp2568
+(dp2569
+g22
+F2581.545
+sg23
+F2584.981
+sg24
+(lp2570
+V<i>T\u011b\u017eko \u0159íct.</i>
+p2571
+asbag10
+(g18
+g12
+Ntp2572
+Rp2573
+(dp2574
+g22
+F2585.049
+sg23
+F2587.847
+sg24
+(lp2575
+VAle ne. Ne, ne.
+p2576
+aVNo tak!
+p2577
+asbag10
+(g18
+g12
+Ntp2578
+Rp2579
+(dp2580
+g22
+F2587.918
+sg23
+F2590.25
+sg24
+(lp2581
+VKurva.
+p2582
+asbag10
+(g18
+g12
+Ntp2583
+Rp2584
+(dp2585
+g22
+F2590.321
+sg23
+F2593.154
+sg24
+(lp2586
+V<i>Kurva! Je pry\u010d.</i>
+p2587
+aV<i>Tak který?</i>
+p2588
+asbag10
+(g18
+g12
+Ntp2589
+Rp2590
+(dp2591
+g22
+F2593.223
+sg23
+F2595.953
+sg24
+(lp2592
+V- Nevím.
+p2593
+aV- No tak! Který?
+p2594
+asbag10
+(g18
+g12
+Ntp2595
+Rp2596
+(dp2597
+g22
+F2596.026
+sg23
+F2598.017
+sg24
+(lp2598
+VNevím!
+p2599
+aVOb\u011b vyjeli ve stejnou dobu!
+p2600
+asbag10
+(g18
+g12
+Ntp2601
+Rp2602
+(dp2603
+g22
+F2598.095
+sg23
+F2601.121
+sg24
+(lp2604
+V<i>Vyber si!</i>
+p2605
+aV<i>Denali nebo ten pick-up?</i>
+p2606
+asbag10
+(g18
+g12
+Ntp2607
+Rp2608
+(dp2609
+g22
+F2601.198
+sg23
+F2603.189
+sg24
+(lp2610
+VTámhle.
+p2611
+aVTen pick-up.
+p2612
+asbag10
+(g18
+g12
+Ntp2613
+Rp2614
+(dp2615
+g22
+F2603.267
+sg23
+F2605.667
+sg24
+(lp2616
+VJe\u010f, je\u010f, je\u010f!
+p2617
+asbag10
+(g18
+g12
+Ntp2618
+Rp2619
+(dp2620
+g22
+F2611.241
+sg23
+F2613.835
+sg24
+(lp2621
+VD\u011blej!
+p2622
+asbag10
+(g18
+g12
+Ntp2623
+Rp2624
+(dp2625
+g22
+F2623.721
+sg23
+F2627.987
+sg24
+(lp2626
+V- Jak víme, \u017ee nás tady nenechá\u0161?
+p2627
+aV- Nevíte.
+p2628
+asbag10
+(g18
+g12
+Ntp2629
+Rp2630
+(dp2631
+g22
+F2630.928
+sg23
+F2633.158
+sg24
+(lp2632
+VP\u0159esta\u0148te s tím!
+p2633
+aVP\u0159esta\u0148te s tím!
+p2634
+asbag10
+(g18
+g12
+Ntp2635
+Rp2636
+(dp2637
+g22
+F2633.23
+sg23
+F2635.198
+sg24
+(lp2638
+VTo je fakt sranda.
+p2639
+asbag10
+(g18
+g12
+Ntp2640
+Rp2641
+(dp2642
+g22
+F2635.265
+sg23
+F2638.598
+sg24
+(lp2643
+V- Hoplá.
+p2644
+aV- Debil.
+p2645
+asbag10
+(g18
+g12
+Ntp2646
+Rp2647
+(dp2648
+g22
+F2662.026
+sg23
+F2665.018
+sg24
+(lp2649
+VDoufám, \u017ee se\u0161 mrtvej,
+p2650
+aVmrdko nemotorná!
+p2651
+asbag10
+(g18
+g12
+Ntp2652
+Rp2653
+(dp2654
+g22
+F2667.698
+sg23
+F2671.759
+sg24
+(lp2655
+V<i>Hej kámo,</i>
+p2656
+aV<i>jsi v po\u0159ádku?</i>
+p2657
+asbag10
+(g18
+g12
+Ntp2658
+Rp2659
+(dp2660
+g22
+F2671.835
+sg23
+F2673.803
+sg24
+(lp2661
+VJsem rád, \u017ee \u017eiju.
+p2662
+asbag10
+(g18
+g12
+Ntp2663
+Rp2664
+(dp2665
+g22
+F2673.871
+sg23
+F2675.805
+sg24
+(lp2666
+VKdy\u017e u\u017e nic jinýho.
+p2667
+asbag10
+(g18
+g12
+Ntp2668
+Rp2669
+(dp2670
+g22
+F2675.873
+sg23
+F2678.774
+sg24
+(lp2671
+VHej. Hej.
+p2672
+aVHej, sly\u0161í\u0161 nás?
+p2673
+asbag10
+(g18
+g12
+Ntp2674
+Rp2675
+(dp2676
+g22
+F2678.842
+sg23
+F2680.776
+sg24
+(lp2677
+V- Jsi v po\u0159ádku?
+p2678
+aV- Erin?
+p2679
+asbag10
+(g18
+g12
+Ntp2680
+Rp2681
+(dp2682
+g22
+F2680.844
+sg23
+F2683.813
+sg24
+(lp2683
+V<i>Myslím, \u017ee te\u010f m\u016f\u017eu</i>
+p2684
+aV<i>\u0159íct, \u017ee se\u0161 moc t\u011b\u017ekej.</i>
+p2685
+asbag10
+(g18
+g12
+Ntp2686
+Rp2687
+(dp2688
+g22
+F2683.881
+sg23
+F2686.315
+sg24
+(lp2689
+VZmizni!
+p2690
+asbag10
+(g18
+g12
+Ntp2691
+Rp2692
+(dp2693
+g22
+F2686.383
+sg23
+F2689.147
+sg24
+(lp2694
+V- Mé rameno.
+p2695
+aV- Hej, hej, hej. Sakra. Po\u010dkejte.
+p2696
+asbag10
+(g18
+g12
+Ntp2697
+Rp2698
+(dp2699
+g22
+F2689.219
+sg23
+F2692.746
+sg24
+(lp2700
+VSakra chlape, má\u0161
+p2701
+aVzáda v háji.
+p2702
+asbag10
+(g18
+g12
+Ntp2703
+Rp2704
+(dp2705
+g22
+F2692.823
+sg23
+F2695.553
+sg24
+(lp2706
+VChápe\u0161 doufám,
+p2707
+aV\u017ee to byla na\u0161e jediná zbra\u0148?
+p2708
+asbag10
+(g18
+g12
+Ntp2709
+Rp2710
+(dp2711
+g22
+F2695.626
+sg23
+F2698.117
+sg24
+(lp2712
+VNevotravuj!
+p2713
+aVByla to nehoda, jasný?
+p2714
+asbag10
+(g18
+g12
+Ntp2715
+Rp2716
+(dp2717
+g22
+F2698.195
+sg23
+F2701.392
+sg24
+(lp2718
+V- Co je sakra s tebou?
+p2719
+aV- Ty mu v\u011b\u0159í\u0161? Co?
+p2720
+asbag10
+(g18
+g12
+Ntp2721
+Rp2722
+(dp2723
+g22
+F2703.0
+sg23
+F2705.73
+sg24
+(lp2724
+VAha, u\u017e vím
+p2725
+aVo co tady jde!
+p2726
+asbag10
+(g18
+g12
+Ntp2727
+Rp2728
+(dp2729
+g22
+F2705.803
+sg23
+F2708.67
+sg24
+(lp2730
+VTak\u017ee vy te\u010f spolupracujete, jo?
+p2731
+asbag10
+(g18
+g12
+Ntp2732
+Rp2733
+(dp2734
+g22
+F2708.739
+sg23
+F2710.673
+sg24
+(lp2735
+VA jakej je v tom rozdíl?
+p2736
+asbag10
+(g18
+g12
+Ntp2737
+Rp2738
+(dp2739
+g22
+F2710.741
+sg23
+F2713.869
+sg24
+(lp2740
+VCopak se odsa\u010f dostaneme rychlejc?
+p2741
+asbag10
+(g18
+g12
+Ntp2742
+Rp2743
+(dp2744
+g22
+F2713.944
+sg23
+F2716.64
+sg24
+(lp2745
+V- To bych ne\u0159ekl.
+p2746
+aV- Co to d\u011blá\u0161?
+p2747
+asbag10
+(g18
+g12
+Ntp2748
+Rp2749
+(dp2750
+g22
+F2716.714
+sg23
+F2719.774
+sg24
+(lp2751
+VNed\u011blej to!
+p2752
+aVNerozvazuj ho!
+p2753
+asbag10
+(g18
+g12
+Ntp2754
+Rp2755
+(dp2756
+g22
+F2719.85
+sg23
+F2722.182
+sg24
+(lp2757
+V- Nemíchej se do toho!
+p2758
+aV- M\u011bli jsme dohodu!
+p2759
+asbag10
+(g18
+g12
+Ntp2760
+Rp2761
+(dp2762
+g22
+F2722.252
+sg23
+F2724.88
+sg24
+(lp2763
+VOdstupuju od ní!
+p2764
+asbag10
+(g18
+g12
+Ntp2765
+Rp2766
+(dp2767
+g22
+F2724.955
+sg23
+F2726.923
+sg24
+(lp2768
+VDíky.
+p2769
+asbag10
+(g18
+g12
+Ntp2770
+Rp2771
+(dp2772
+g22
+F2726.99
+sg23
+F2729.254
+sg24
+(lp2773
+VIdiote!
+p2774
+asbag10
+(g18
+g12
+Ntp2775
+Rp2776
+(dp2777
+g22
+F2729.326
+sg23
+F2731.26
+sg24
+(lp2778
+VJen ty a já.
+p2779
+asbag10
+(g18
+g12
+Ntp2780
+Rp2781
+(dp2782
+g22
+F2731.328
+sg23
+F2733.694
+sg24
+(lp2783
+V<i>Co je s tebou? Kurva!</i>
+p2784
+asbag10
+(g18
+g12
+Ntp2785
+Rp2786
+(dp2787
+g22
+F2733.764
+sg23
+F2736.631
+sg24
+(lp2788
+V<i>Rad\u0161i tam z\u016fsta\u0148,</i>
+p2789
+aV<i>proto\u017ee jsem s tebou neskon\u010dil.</i>
+p2790
+asbag10
+(g18
+g12
+Ntp2791
+Rp2792
+(dp2793
+g22
+F2741.839
+sg23
+F2744.603
+sg24
+(lp2794
+VTe\u010f to \u0161típne.
+p2795
+asbag10
+(g18
+g12
+Ntp2796
+Rp2797
+(dp2798
+g22
+F2744.675
+sg23
+F2747.701
+sg24
+(lp2799
+V- Sakra!
+p2800
+aV- Kdo je Erin?
+p2801
+asbag10
+(g18
+g12
+Ntp2802
+Rp2803
+(dp2804
+g22
+F2747.778
+sg23
+F2750.008
+sg24
+(lp2805
+VTvá \u017eena?
+p2806
+asbag10
+(g18
+g12
+Ntp2807
+Rp2808
+(dp2809
+g22
+F2750.08
+sg23
+F2753.641
+sg24
+(lp2810
+VNebo má dcera.
+p2811
+aVNevím, která z nich.
+p2812
+asbag10
+(g18
+g12
+Ntp2813
+Rp2814
+(dp2815
+g22
+F2754.885
+sg23
+F2757.911
+sg24
+(lp2816
+VAspo\u0148 má\u0161
+p2817
+aVn\u011bkoho tam venku.
+p2818
+asbag10
+(g18
+g12
+Ntp2819
+Rp2820
+(dp2821
+g22
+F2760.19
+sg23
+F2764.354
+sg24
+(lp2822
+VBrzy si vzpomene\u0161.
+p2823
+aVHned jak odsud vypadnem.
+p2824
+asbag10
+(g18
+g12
+Ntp2825
+Rp2826
+(dp2827
+g22
+F2764.428
+sg23
+F2769.388
+sg24
+(lp2828
+VJak si m\u016f\u017ee\u0161 bejt tak jistej,
+p2829
+aV\u017ee se nám bude líbit tam venku?
+p2830
+asbag10
+(g18
+g12
+Ntp2831
+Rp2832
+(dp2833
+g22
+F2769.466
+sg23
+F2772.56
+sg24
+(lp2834
+VMyslím, \u017ee to co nás sem
+p2835
+aVdostalo stojí za to si pamatovat.
+p2836
+asbag10
+(g18
+g12
+Ntp2837
+Rp2838
+(dp2839
+g22
+F2772.636
+sg23
+F2775.036
+sg24
+(lp2840
+VNic. To je ono.
+p2841
+aVNic co si m\u016f\u017eem pamatovat...
+p2842
+asbag10
+(g18
+g12
+Ntp2843
+Rp2844
+(dp2845
+g22
+F2775.105
+sg23
+F2777.471
+sg24
+(lp2846
+Vnemá co do \u010din\u011bní s tím,
+p2847
+aVkdo ve skute\u010dnosti jsme.
+p2848
+asbag10
+(g18
+g12
+Ntp2849
+Rp2850
+(dp2851
+g22
+F2777.541
+sg23
+F2780.704
+sg24
+(lp2852
+VRozhodnutí, která ud\u011bláme
+p2853
+aVv týhle dí\u0159e-
+p2854
+asbag10
+(g18
+g12
+Ntp2855
+Rp2856
+(dp2857
+g22
+F2780.778
+sg23
+F2782.712
+sg24
+(lp2858
+Vje to, co sami jsme.
+p2859
+asbag10
+(g18
+g12
+Ntp2860
+Rp2861
+(dp2862
+g22
+F2782.78
+sg23
+F2785.146
+sg24
+(lp2863
+V- Fakt tomu v\u011b\u0159í\u0161?
+p2864
+aV- Jo, kámo. V\u011b\u0159ím.
+p2865
+asbag10
+(g18
+g12
+Ntp2866
+Rp2867
+(dp2868
+g22
+F2791.922
+sg23
+F2793.856
+sg24
+(lp2869
+VSakra.
+p2870
+asbag10
+(g18
+g12
+Ntp2871
+Rp2872
+(dp2873
+g22
+F2793.924
+sg23
+F2798.156
+sg24
+(lp2874
+VNecht\u011bl jsem p\u0159ed t\u011bma dv\u011bma
+p2875
+aVnic \u0159íkat, ale vím kdo jsme.
+p2876
+asbag10
+(g18
+g12
+Ntp2877
+Rp2878
+(dp2879
+g22
+F2798.228
+sg23
+F2801.22
+sg24
+(lp2880
+V- Pamatuje\u0161 si n\u011bco?
+p2881
+aV- Jo.
+p2882
+asbag10
+(g18
+g12
+Ntp2883
+Rp2884
+(dp2885
+g22
+F2801.298
+sg23
+F2803.266
+sg24
+(lp2886
+VO nás dvou?
+p2887
+asbag10
+(g18
+g12
+Ntp2888
+Rp2889
+(dp2890
+g22
+F2803.333
+sg23
+F2806.359
+sg24
+(lp2891
+VJo. Ta v\u016fn\u011b.
+p2892
+aVTu v\u016fni si pamatuju dlouho...
+p2893
+asbag10
+(g18
+g12
+Ntp2894
+Rp2895
+(dp2896
+g22
+F2806.436
+sg23
+F2808.904
+sg24
+(lp2897
+VTady a taky tam.
+p2898
+asbag10
+(g18
+g12
+Ntp2899
+Rp2900
+(dp2901
+g22
+F2808.972
+sg23
+F2811.27
+sg24
+(lp2902
+VVidí\u0161?
+p2903
+asbag10
+(g18
+g12
+Ntp2904
+Rp2905
+(dp2906
+g22
+F2811.341
+sg23
+F2815.038
+sg24
+(lp2907
+V- Pamatuji si, \u017ee mám pomeran\u010dovníky.
+p2908
+aV- Má\u0161 pomeran\u010dovníky?
+p2909
+asbag10
+(g18
+g12
+Ntp2910
+Rp2911
+(dp2912
+g22
+F2815.112
+sg23
+F2818.081
+sg24
+(lp2913
+V- Jasn\u011b, na mém ran\u010di. Rodinná tradice.
+p2914
+aV- Kurva.
+p2915
+asbag10
+(g18
+g12
+Ntp2916
+Rp2917
+(dp2918
+g22
+F2818.148
+sg23
+F2819.74
+sg24
+(lp2919
+V- Já jsem Coles.
+p2920
+aV- Tak ty se\u0161 Coles teda.
+p2921
+asbag10
+(g18
+g12
+Ntp2922
+Rp2923
+(dp2924
+g22
+F2819.817
+sg23
+F2821.375
+sg24
+(lp2925
+VJsem William Coles.
+p2926
+aVSkute\u010dn\u011b jsem.
+p2927
+asbag10
+(g18
+g12
+Ntp2928
+Rp2929
+(dp2930
+g22
+F2821.451
+sg23
+F2823.248
+sg24
+(lp2931
+V- On m\u011bl pravdu.
+p2932
+aV- Myslím, \u017ee spí\u0161e tipoval.
+p2933
+asbag10
+(g18
+g12
+Ntp2934
+Rp2935
+(dp2936
+g22
+F2823.32
+sg23
+F2825.788
+sg24
+(lp2937
+VNemám \u017eádný d\u011bti.
+p2938
+aVAspo\u0148 myslím, \u017ee ne.
+p2939
+asbag10
+(g18
+g12
+Ntp2940
+Rp2941
+(dp2942
+g22
+F2825.856
+sg23
+F2828.017
+sg24
+(lp2943
+VPo\u010dkat..
+p2944
+aVPro\u010d mi to v\u016fbec \u0159íká\u0161?
+p2945
+asbag10
+(g18
+g12
+Ntp2946
+Rp2947
+(dp2948
+g22
+F2828.091
+sg23
+F2831.083
+sg24
+(lp2949
+V- Nechápe\u0161 to? Ty jsi McCain.
+p2950
+aV- Já, McCain? Ne!
+p2951
+asbag10
+(g18
+g12
+Ntp2952
+Rp2953
+(dp2954
+g22
+F2831.161
+sg23
+F2833.425
+sg24
+(lp2955
+V- Ano.
+p2956
+aV- To si pamatuje\u0161?
+p2957
+asbag10
+(g18
+g12
+Ntp2958
+Rp2959
+(dp2960
+g22
+F2833.497
+sg23
+F2835.761
+sg24
+(lp2961
+VJá...
+p2962
+asbag10
+(g18
+g12
+Ntp2963
+Rp2964
+(dp2965
+g22
+F2835.833
+sg23
+F2838.358
+sg24
+(lp2966
+VP\u016fvodní návrhy, co jsme
+p2967
+aVti dali jsou fér.
+p2968
+asbag10
+(g18
+g12
+Ntp2969
+Rp2970
+(dp2971
+g22
+F2838.435
+sg23
+F2841.233
+sg24
+(lp2972
+VJestli to chce\u0161,
+p2973
+aVtak za hodinu zavolej.
+p2974
+asbag10
+(g18
+g12
+Ntp2975
+Rp2976
+(dp2977
+g22
+F2843.607
+sg23
+F2845.802
+sg24
+(lp2978
+VNe. Ne, ale ty
+p2979
+aVmusí\u0161 být McCain.
+p2980
+asbag10
+(g18
+g12
+Ntp2981
+Rp2982
+(dp2983
+g22
+F2845.876
+sg23
+F2848.367
+sg24
+(lp2984
+V- Musí\u0161 být McCain.
+p2985
+aV- Pro\u010d se\u0161 si tak jistej?
+p2986
+asbag10
+(g18
+g12
+Ntp2987
+Rp2988
+(dp2989
+g22
+F2848.445
+sg23
+F2851.107
+sg24
+(lp2990
+VA\u0165 je to jakkoliv,
+p2991
+aVcítím, \u017ee ti m\u016f\u017eu v\u011b\u0159it...
+p2992
+asbag10
+(g18
+g12
+Ntp2993
+Rp2994
+(dp2995
+g22
+F2851.181
+sg23
+F2854.446
+sg24
+(lp2996
+Va kdy\u017e si pamatuju tohle,
+p2997
+aVtak musíme vypadnout. Budou tady brzy.
+p2998
+asbag10
+(g18
+g12
+Ntp2999
+Rp3000
+(dp3001
+g22
+F2854.518
+sg23
+F2857.078
+sg24
+(lp3002
+V- Co kdy\u017e se plete\u0161?
+p3003
+aV- Nepletu se, jasný? Jsi McCain.
+p3004
+asbag10
+(g18
+g12
+Ntp3005
+Rp3006
+(dp3007
+g22
+F2857.154
+sg23
+F2860.282
+sg24
+(lp3008
+V- Je to jediná v\u011bc, co dává smysl.
+p3009
+aV- Kurva. Já nejsem McCain.
+p3010
+asbag10
+(g18
+g12
+Ntp3011
+Rp3012
+(dp3013
+g22
+F2861.358
+sg23
+F2864.384
+sg24
+(lp3014
+V- Co\u017ee?
+p3015
+aV- Taky si n\u011bco pamatuju.
+p3016
+asbag10
+(g18
+g12
+Ntp3017
+Rp3018
+(dp3019
+g22
+F2864.461
+sg23
+F2866.395
+sg24
+(lp3020
+VA co?
+p3021
+asbag10
+(g18
+g12
+Ntp3022
+Rp3023
+(dp3024
+g22
+F2868.031
+sg23
+F2870.397
+sg24
+(lp3025
+VJak jsi to mohl ud\u011blat?
+p3026
+asbag10
+(g18
+g12
+Ntp3027
+Rp3028
+(dp3029
+g22
+F2870.467
+sg23
+F2873.3
+sg24
+(lp3030
+VJednat se mnou jak s \u010doklem!
+p3031
+asbag10
+(g18
+g12
+Ntp3032
+Rp3033
+(dp3034
+g22
+F2873.37
+sg23
+F2875.77
+sg24
+(lp3035
+VJako se smradlavým \u010doklem!
+p3036
+asbag10
+(g18
+g12
+Ntp3037
+Rp3038
+(dp3039
+g22
+F2875.839
+sg23
+F2879.172
+sg24
+(lp3040
+V- Poni\u017eovals m\u011b! Vidí\u0161?
+p3041
+aV- Vodprejskni!
+p3042
+asbag10
+(g18
+g12
+Ntp3043
+Rp3044
+(dp3045
+g22
+F2879.243
+sg23
+F2881.973
+sg24
+(lp3046
+V- Zmodrali!
+p3047
+aV- Táhni ode m\u011b!
+p3048
+asbag10
+(g18
+g12
+Ntp3049
+Rp3050
+(dp3051
+g22
+F2882.045
+sg23
+F2885.173
+sg24
+(lp3052
+V- Co je s tebou?
+p3053
+aV- Jak jsi to mohl ud\u011blat?
+p3054
+asbag10
+(g18
+g12
+Ntp3055
+Rp3056
+(dp3057
+g22
+F2885.249
+sg23
+F2887.183
+sg24
+(lp3058
+VUd\u011blal bys to samé.
+p3059
+asbag10
+(g18
+g12
+Ntp3060
+Rp3061
+(dp3062
+g22
+F2887.251
+sg23
+F2889.879
+sg24
+(lp3063
+V<i>Tys byl</i>
+p3064
+aV<i>ten kdo m\u011bl zbra\u0148!</i>
+p3065
+asbag10
+(g18
+g12
+Ntp3066
+Rp3067
+(dp3068
+g22
+F2892.356
+sg23
+F2895.291
+sg24
+(lp3069
+VHej.
+p3070
+asbag10
+(g18
+g12
+Ntp3071
+Rp3072
+(dp3073
+g22
+F2895.359
+sg23
+F2897.418
+sg24
+(lp3074
+VVenku n\u011bkdo je.
+p3075
+asbag10
+(g18
+g12
+Ntp3076
+Rp3077
+(dp3078
+g22
+F2898.061
+sg23
+F2899.46
+sg24
+(lp3079
+V<i>A kde?</i>
+p3080
+asbag10
+(g18
+g12
+Ntp3081
+Rp3082
+(dp3083
+g22
+F2899.529
+sg23
+F2902.498
+sg24
+(lp3084
+VP\u0159ímo támhle.
+p3085
+aVVidí\u0161 ho? Za tou branou.
+p3086
+asbag10
+(g18
+g12
+Ntp3087
+Rp3088
+(dp3089
+g22
+F2902.566
+sg23
+F2905.194
+sg24
+(lp3090
+VTo jsou oni?
+p3091
+asbag10
+(g18
+g12
+Ntp3092
+Rp3093
+(dp3094
+g22
+F2905.269
+sg23
+F2907.499
+sg24
+(lp3095
+V<i>Ne, ne\u0159ekl bych.</i>
+p3096
+aV<i>Tihle jsou tu moc brzo.</i>
+p3097
+asbag10
+(g18
+g12
+Ntp3098
+Rp3099
+(dp3100
+g22
+F2907.571
+sg23
+F2910.699
+sg24
+(lp3101
+V- Haló!
+p3102
+aV- <i>Haló!</i>
+p3103
+asbag10
+(g18
+g12
+Ntp3104
+Rp3105
+(dp3106
+g22
+F2910.774
+sg23
+F2914.801
+sg24
+(lp3107
+V<i>Hej! Hej, ty! Tady jsme!</i>
+p3108
+asbag10
+(g18
+g12
+Ntp3109
+Rp3110
+(dp3111
+g22
+F2914.878
+sg23
+F2918.507
+sg24
+(lp3112
+VHej! Hej!
+p3113
+asbag10
+(g18
+g12
+Ntp3114
+Rp3115
+(dp3116
+g22
+F2918.582
+sg23
+F2920.516
+sg24
+(lp3117
+V- <i>Tady jsme!</i>
+p3118
+aV- <i>Hej!</i>
+p3119
+asbag10
+(g18
+g12
+Ntp3120
+Rp3121
+(dp3122
+g22
+F2920.584
+sg23
+F2922.575
+sg24
+(lp3123
+VHej, hej, hej.
+p3124
+asbag10
+(g18
+g12
+Ntp3125
+Rp3126
+(dp3127
+g22
+F2924.087
+sg23
+F2926.18
+sg24
+(lp3128
+VUhni!
+p3129
+aVJá to zkusím.
+p3130
+asbag10
+(g18
+g12
+Ntp3131
+Rp3132
+(dp3133
+g22
+F2928.292
+sg23
+F2931.386
+sg24
+(lp3134
+VVidí\u0161 n\u011bco?
+p3135
+asbag10
+(g18
+g12
+Ntp3136
+Rp3137
+(dp3138
+g22
+F2931.461
+sg23
+F2934.225
+sg24
+(lp3139
+VNato\u010d to trochu. Nato\u010d to trochu.
+p3140
+asbag10
+(g18
+g12
+Ntp3141
+Rp3142
+(dp3143
+g22
+F2934.298
+sg23
+F2938.234
+sg24
+(lp3144
+V- <i>Hele, hele. Co tam je?</i>
+p3145
+aV- Do prdele. Je to kluk.
+p3146
+asbag10
+(g18
+g12
+Ntp3147
+Rp3148
+(dp3149
+g22
+F2938.302
+sg23
+F2940.167
+sg24
+(lp3150
+V<i>Kluku! Hej!</i>
+p3151
+asbag10
+(g18
+g12
+Ntp3152
+Rp3153
+(dp3154
+g22
+F2940.237
+sg23
+F2942.137
+sg24
+(lp3155
+V- <i>Hej!</i>
+p3156
+aV- Nerozumí.
+p3157
+asbag10
+(g18
+g12
+Ntp3158
+Rp3159
+(dp3160
+g22
+F2942.205
+sg23
+F2945.14
+sg24
+(lp3161
+V<i>Nerozumí co \u0159íká\u0161.</i>
+p3162
+aV<i>Nemluví anglicky.</i>
+p3163
+asbag10
+(g18
+g12
+Ntp3164
+Rp3165
+(dp3166
+g22
+F2949.646
+sg23
+F2953.844
+sg24
+(lp3167
+VCo to k \u010dertu?
+p3168
+asbag10
+(g18
+g12
+Ntp3169
+Rp3170
+(dp3171
+g22
+F2957.888
+sg23
+F2960.379
+sg24
+(lp3172
+V<i>Ramone. Jedem.</i>
+p3173
+asbag10
+(g18
+g12
+Ntp3174
+Rp3175
+(dp3176
+g22
+F2960.457
+sg23
+F2963.324
+sg24
+(lp3177
+V<i>Hej! Hej!</i>
+p3178
+asbag10
+(g18
+g12
+Ntp3179
+Rp3180
+(dp3181
+g22
+F2963.393
+sg23
+F2966.26
+sg24
+(lp3182
+V<i>P\u0159ive\u010f rodi\u010de!</i>
+p3183
+asbag10
+(g18
+g12
+Ntp3184
+Rp3185
+(dp3186
+g22
+F2966.33
+sg23
+F2968.696
+sg24
+(lp3187
+VPo\u010dkej, po\u010dkej, dívej!
+p3188
+aVJde zpátky! Jde zpátky!
+p3189
+asbag10
+(g18
+g12
+Ntp3190
+Rp3191
+(dp3192
+g22
+F2968.765
+sg23
+F2971.256
+sg24
+(lp3193
+V- <i>Jsi si jistej?</i>
+p3194
+aV- <i>Jo. \u0160ikovnej kluk. Jde k nim.</i>
+p3195
+asbag10
+(g18
+g12
+Ntp3196
+Rp3197
+(dp3198
+g22
+F2973.67
+sg23
+F2976.833
+sg24
+(lp3199
+V<i>Jo, nastupuje. Koukni na n\u011bj!</i>
+p3200
+asbag10
+(g18
+g12
+Ntp3201
+Rp3202
+(dp3203
+g22
+F2976.907
+sg23
+F2978.841
+sg24
+(lp3204
+V<i>U\u017e jedou! Hurá!</i>
+p3205
+asbag10
+(g18
+g12
+Ntp3206
+Rp3207
+(dp3208
+g22
+F2978.909
+sg23
+F2980.877
+sg24
+(lp3209
+VDokázals to!
+p3210
+asbag10
+(g18
+g12
+Ntp3211
+Rp3212
+(dp3213
+g22
+F2980.944
+sg23
+F2985.904
+sg24
+(lp3214
+V<i>Hurá! Tady jsme!</i>
+p3215
+aV<i>Koukni se sem!</i>
+p3216
+asbag10
+(g18
+g12
+Ntp3217
+Rp3218
+(dp3219
+g22
+F2985.983
+sg23
+F2989.51
+sg24
+(lp3220
+V<i>Ne. Ne!</i>
+p3221
+asbag10
+(g18
+g12
+Ntp3222
+Rp3223
+(dp3224
+g22
+F2989.586
+sg23
+F2994.523
+sg24
+(lp3225
+VNe! Pomóc!
+p3226
+aVHej! Ne. Kurva!
+p3227
+asbag10
+(g18
+g12
+Ntp3228
+Rp3229
+(dp3230
+g22
+F2994.591
+sg23
+F2996.65
+sg24
+(lp3231
+V- <i>Ne!</i>
+p3232
+aV- Ka\u0161li na to.
+p3233
+asbag10
+(g18
+g12
+Ntp3234
+Rp3235
+(dp3236
+g22
+F3001.732
+sg23
+F3003.723
+sg24
+(lp3237
+VSakra.
+p3238
+asbag10
+(g18
+g12
+Ntp3239
+Rp3240
+(dp3241
+g22
+F3059.99
+sg23
+F3062.686
+sg24
+(lp3242
+VHej, m\u016f\u017eete mi pomoct?
+p3243
+asbag10
+(g18
+g12
+Ntp3244
+Rp3245
+(dp3246
+g22
+F3104.134
+sg23
+F3106.125
+sg24
+(lp3247
+VTady.
+p3248
+asbag10
+(g18
+g12
+Ntp3249
+Rp3250
+(dp3251
+g22
+F3111.341
+sg23
+F3113.275
+sg24
+(lp3252
+VDíky.
+p3253
+asbag10
+(g18
+g12
+Ntp3254
+Rp3255
+(dp3256
+g22
+F3113.343
+sg23
+F3116.21
+sg24
+(lp3257
+VAsi ví\u0161, \u017ee to
+p3258
+aVnedoká\u017eu sundat.
+p3259
+asbag10
+(g18
+g12
+Ntp3260
+Rp3261
+(dp3262
+g22
+F3118.515
+sg23
+F3120.54
+sg24
+(lp3263
+VP\u0159esto díky.
+p3264
+asbag10
+(g18
+g12
+Ntp3265
+Rp3266
+(dp3267
+g22
+F3123.12
+sg23
+F3125.418
+sg24
+(lp3268
+VMyslí\u0161, \u017ee se bojím smrti?
+p3269
+asbag10
+(g18
+g12
+Ntp3270
+Rp3271
+(dp3272
+g22
+F3131.361
+sg23
+F3133.454
+sg24
+(lp3273
+VNebojím se smrti.
+p3274
+asbag10
+(g18
+g12
+Ntp3275
+Rp3276
+(dp3277
+g22
+F3134.965
+sg23
+F3137.934
+sg24
+(lp3278
+VNe\u0159íkal jsem ti,
+p3279
+aV\u017ee to má\u0161 vzdát.
+p3280
+asbag10
+(g18
+g12
+Ntp3281
+Rp3282
+(dp3283
+g22
+F3144.274
+sg23
+F3146.936
+sg24
+(lp3284
+VCo \u0159íká E.T.A.
+p3285
+aVna \u017eádost o posilu?
+p3286
+asbag10
+(g18
+g12
+Ntp3287
+Rp3288
+(dp3289
+g22
+F3147.01
+sg23
+F3148.978
+sg24
+(lp3290
+VJsou asi tak dvacet minut odtud.
+p3291
+asbag10
+(g18
+g12
+Ntp3292
+Rp3293
+(dp3294
+g22
+F3151.515
+sg23
+F3155.246
+sg24
+(lp3295
+VSerem na to.
+p3296
+aVVlítnem na n\u011b.
+p3297
+asbag10
+(g18
+g12
+Ntp3298
+Rp3299
+(dp3300
+g22
+F3156.486
+sg23
+F3158.454
+sg24
+(lp3301
+VPolicie! Nikdo se ani nehne.
+p3302
+asbag10
+(g18
+g12
+Ntp3303
+Rp3304
+(dp3305
+g22
+F3158.522
+sg23
+F3160.353
+sg24
+(lp3306
+V- <i>Kde je?</i>
+p3307
+aV- Co je tohle?
+p3308
+asbag10
+(g18
+g12
+Ntp3309
+Rp3310
+(dp3311
+g22
+F3160.423
+sg23
+F3163.187
+sg24
+(lp3312
+V- <i>Tady nic není. Co u tebe?</i>
+p3313
+aV- <i>Nic!</i>
+p3314
+asbag10
+(g18
+g12
+Ntp3315
+Rp3316
+(dp3317
+g22
+F3163.26
+sg23
+F3165.854
+sg24
+(lp3318
+V- Je n\u011bkdo vzadu?
+p3319
+aV- Ne?
+p3320
+asbag10
+(g18
+g12
+Ntp3321
+Rp3322
+(dp3323
+g22
+F3165.929
+sg23
+F3167.692
+sg24
+(lp3324
+V- Vidí\u0161 ho?
+p3325
+aV- <i>Ne.</i>
+p3326
+asbag10
+(g18
+g12
+Ntp3327
+Rp3328
+(dp3329
+g22
+F3170.5
+sg23
+F3173.867
+sg24
+(lp3330
+V<i>Kde je?</i>
+p3331
+aV<i>\u0158ekl jsem, kde je?</i>
+p3332
+asbag10
+(g18
+g12
+Ntp3333
+Rp3334
+(dp3335
+g22
+F3176.072
+sg23
+F3178.006
+sg24
+(lp3336
+V<i>Komu pat\u0159í ten pick-up?</i>
+p3337
+asbag10
+(g18
+g12
+Ntp3338
+Rp3339
+(dp3340
+g22
+F3178.074
+sg23
+F3181.237
+sg24
+(lp3341
+VMyslíte si, \u017ee vám
+p3342
+aVnakonec za\u010dnou t\u0159eba rozum\u011bt?
+p3343
+asbag10
+(g18
+g12
+Ntp3344
+Rp3345
+(dp3346
+g22
+F3192.189
+sg23
+F3196.558
+sg24
+(lp3347
+V- \u017dlutý pick-up!
+p3348
+aV- Ten \u017elutý je m\u016fj.
+p3349
+asbag10
+(g18
+g12
+Ntp3350
+Rp3351
+(dp3352
+g22
+F3197.694
+sg23
+F3199.628
+sg24
+(lp3353
+VA co s ním je?
+p3354
+asbag10
+(g18
+g12
+Ntp3355
+Rp3356
+(dp3357
+g22
+F3209.506
+sg23
+F3212.236
+sg24
+(lp3358
+VZa jaký blbce
+p3359
+aVnás ti chlapi mají?
+p3360
+asbag10
+(g18
+g12
+Ntp3361
+Rp3362
+(dp3363
+g22
+F3212.309
+sg23
+F3215.472
+sg24
+(lp3364
+VMo\u017ená jsme v\u010derej\u0161í,
+p3365
+aVale ne p\u0159edv\u010derej\u0161í.
+p3366
+asbag10
+(g18
+g12
+Ntp3367
+Rp3368
+(dp3369
+g22
+F3217.247
+sg23
+F3219.272
+sg24
+(lp3370
+V\u0160lápni na to sakra!
+p3371
+asbag10
+(g18
+g12
+Ntp3372
+Rp3373
+(dp3374
+g22
+F3219.349
+sg23
+F3222.477
+sg24
+(lp3375
+VVyzvedneme Leona, Raye
+p3376
+aVa skon\u010díme to.
+p3377
+asbag10
+(g18
+g12
+Ntp3378
+Rp3379
+(dp3380
+g22
+F3224.521
+sg23
+F3226.648
+sg24
+(lp3381
+VNejd\u0159ív ta sk\u0159í\u0148ka,
+p3382
+aVte\u010f tohle.
+p3383
+asbag10
+(g18
+g12
+Ntp3384
+Rp3385
+(dp3386
+g22
+F3232.495
+sg23
+F3234.929
+sg24
+(lp3387
+V- Hej.
+p3388
+aV- Posraná \u0161t\u011bnice.
+p3389
+asbag10
+(g18
+g12
+Ntp3390
+Rp3391
+(dp3392
+g22
+F3235.565
+sg23
+F3236.827
+sg24
+(lp3393
+V<i>Musíme se zmocnit té zbran\u011b.</i>
+p3394
+asbag10
+(g18
+g12
+Ntp3395
+Rp3396
+(dp3397
+g22
+F3236.9
+sg23
+F3239.96
+sg24
+(lp3398
+V- U\u017e jsme to zkou\u0161eli.
+p3399
+aV- Spole\u010dn\u011b jsme to nezkou\u0161eli.
+p3400
+asbag10
+(g18
+g12
+Ntp3401
+Rp3402
+(dp3403
+g22
+F3240.036
+sg23
+F3242.504
+sg24
+(lp3404
+V<i>Hele, vezmeme ten provaz.</i>
+p3405
+aV<i>Ud\u011blám to.</i>
+p3406
+asbag10
+(g18
+g12
+Ntp3407
+Rp3408
+(dp3409
+g22
+F3242.572
+sg23
+F3245.803
+sg24
+(lp3410
+VDostali jste \u0161anci a posrali to.
+p3411
+aVM\u011b se to mo\u017ená povede.
+p3412
+asbag10
+(g18
+g12
+Ntp3413
+Rp3414
+(dp3415
+g22
+F3245.875
+sg23
+F3247.809
+sg24
+(lp3416
+VBudou tady ka\u017edým okam\u017eikem, \u017ee jo?
+p3417
+asbag10
+(g18
+g12
+Ntp3418
+Rp3419
+(dp3420
+g22
+F3247.877
+sg23
+F3251.438
+sg24
+(lp3421
+VMá cenu n\u011bco d\u011blat?
+p3422
+aVM\u016f\u017eeme losovat, cokoliv.
+p3423
+asbag10
+(g18
+g12
+Ntp3424
+Rp3425
+(dp3426
+g22
+F3251.514
+sg23
+F3254.779
+sg24
+(lp3427
+VMám po krk \u010dekání na ty zmrdy!
+p3428
+aVP\u0159ísahám, \u017ee se t\u011b\u0161ím, a\u017e tu budou.
+p3429
+asbag10
+(g18
+g12
+Ntp3430
+Rp3431
+(dp3432
+g22
+F3254.851
+sg23
+F3258.446
+sg24
+(lp3433
+VA co jako ud\u011blá\u0161?
+p3434
+aVBude\u0161 f\u0148ukat dokud se neobjeví?
+p3435
+asbag10
+(g18
+g12
+Ntp3436
+Rp3437
+(dp3438
+g22
+F3258.521
+sg23
+F3261.217
+sg24
+(lp3439
+V- Zav\u0159ete oba dr\u017eky!
+p3440
+aV- <i>Naser si!</i>
+p3441
+asbag10
+(g18
+g12
+Ntp3442
+Rp3443
+(dp3444
+g22
+F3261.291
+sg23
+F3265.193
+sg24
+(lp3445
+V- Ty se\u0161 blb co nechal boucha\u010dku naho\u0159e.
+p3446
+aV- Hej!
+p3447
+asbag10
+(g18
+g12
+Ntp3448
+Rp3449
+(dp3450
+g22
+F3266.229
+sg23
+F3268.22
+sg24
+(lp3451
+VPamatuju si.
+p3452
+asbag10
+(g18
+g12
+Ntp3453
+Rp3454
+(dp3455
+g22
+F3272.936
+sg23
+F3274.904
+sg24
+(lp3456
+VPamatuju si.
+p3457
+asbag10
+(g18
+g12
+Ntp3458
+Rp3459
+(dp3460
+g22
+F3274.971
+sg23
+F3277.963
+sg24
+(lp3461
+V<i>Bylo mi sedm</i>
+p3462
+aV<i>a tob\u011b dev\u011bt.</i>
+p3463
+asbag10
+(g18
+g12
+Ntp3464
+Rp3465
+(dp3466
+g22
+F3278.041
+sg23
+F3283.411
+sg24
+(lp3467
+V<i>Cht\u011bli jsme plout tam</i>
+p3468
+aV<i>na to jezero s kámo\u0161ema.</i>
+p3469
+asbag10
+(g18
+g12
+Ntp3470
+Rp3471
+(dp3472
+g22
+F3283.48
+sg23
+F3285.414
+sg24
+(lp3473
+VPamatuje\u0161 si to?
+p3474
+asbag10
+(g18
+g12
+Ntp3475
+Rp3476
+(dp3477
+g22
+F3285.482
+sg23
+F3288.349
+sg24
+(lp3478
+VZná\u0161 m\u011b?
+p3479
+asbag10
+(g18
+g12
+Ntp3480
+Rp3481
+(dp3482
+g22
+F3288.418
+sg23
+F3291.717
+sg24
+(lp3483
+VM\u016fj tátá nám to zakázal...
+p3484
+asbag10
+(g18
+g12
+Ntp3485
+Rp3486
+(dp3487
+g22
+F3292.789
+sg23
+F3294.984
+sg24
+(lp3488
+Vkv\u016fli bou\u0159ce.
+p3489
+asbag10
+(g18
+g12
+Ntp3490
+Rp3491
+(dp3492
+g22
+F3295.058
+sg23
+F3296.992
+sg24
+(lp3493
+V<i>Poslali jsme ho do háje.</i>
+p3494
+asbag10
+(g18
+g12
+Ntp3495
+Rp3496
+(dp3497
+g22
+F3297.06
+sg23
+F3299.654
+sg24
+(lp3498
+V<i>Co ten mohl v\u011bd\u011bt?</i>
+p3499
+asbag10
+(g18
+g12
+Ntp3500
+Rp3501
+(dp3502
+g22
+F3299.729
+sg23
+F3304.063
+sg24
+(lp3503
+V<i>pluli jsme tam tátovým</i>
+p3504
+aV<i>MacGregorem 26...</i>
+p3505
+asbag10
+(g18
+g12
+Ntp3506
+Rp3507
+(dp3508
+g22
+F3304.134
+sg23
+F3307.297
+sg24
+(lp3509
+V<i>a hádali jsme se</i>
+p3510
+aV<i>cestou tam...</i>
+p3511
+asbag10
+(g18
+g12
+Ntp3512
+Rp3513
+(dp3514
+g22
+F3307.37
+sg23
+F3310.362
+sg24
+(lp3515
+Vkdo je nejlep\u0161í nadhazova\u010d,
+p3516
+aVvyhlá\u0161ený neju\u017eite\u010dn\u011bj\u0161ím hrá\u010dem.
+p3517
+asbag10
+(g18
+g12
+Ntp3518
+Rp3519
+(dp3520
+g22
+F3311.474
+sg23
+F3314.409
+sg24
+(lp3521
+VSandy Kaufax.
+p3522
+asbag10
+(g18
+g12
+Ntp3523
+Rp3524
+(dp3525
+g22
+F3314.477
+sg23
+F3318.106
+sg24
+(lp3526
+V<i>Tolik jsme se kv\u016fli</i>
+p3527
+aV<i>tomu hádali...</i>
+p3528
+asbag10
+(g18
+g12
+Ntp3529
+Rp3530
+(dp3531
+g22
+F3318.181
+sg23
+F3323.517
+sg24
+(lp3532
+V\u017ee jsme si ani neuv\u011bdomili,
+p3533
+aVjak se vzdalujeme od pevniny.
+p3534
+asbag10
+(g18
+g12
+Ntp3535
+Rp3536
+(dp3537
+g22
+F3323.586
+sg23
+F3327.522
+sg24
+(lp3538
+V<i>Já jsem byl</i>
+p3539
+aV<i>úpln\u011b posranej strachy.</i>
+p3540
+asbag10
+(g18
+g12
+Ntp3541
+Rp3542
+(dp3543
+g22
+F3328.792
+sg23
+F3332.888
+sg24
+(lp3544
+V<i>Vid\u011bl jsem ale,</i>
+p3545
+aV<i>\u017ee ty taky...</i>
+p3546
+asbag10
+(g18
+g12
+Ntp3547
+Rp3548
+(dp3549
+g22
+F3332.962
+sg23
+F3336.398
+sg24
+(lp3550
+Vi p\u0159esto jsi mluvil jakoby nic.
+p3551
+asbag10
+(g18
+g12
+Ntp3552
+Rp3553
+(dp3554
+g22
+F3337.901
+sg23
+F3343.362
+sg24
+(lp3555
+V<i>Pak p\u0159i\u0161la ta velká vlna</i>
+p3556
+aV<i>a p\u0159evrátila nás.</i>
+p3557
+asbag10
+(g18
+g12
+Ntp3558
+Rp3559
+(dp3560
+g22
+F3343.44
+sg23
+F3347.536
+sg24
+(lp3561
+VPamatuji si,jak jsem \u0161el ke dnu...
+p3562
+asbag10
+(g18
+g12
+Ntp3563
+Rp3564
+(dp3565
+g22
+F3347.61
+sg23
+F3349.669
+sg24
+(lp3566
+Va nev\u011bd\u011bl jsem, kde jsem.
+p3567
+asbag10
+(g18
+g12
+Ntp3568
+Rp3569
+(dp3570
+g22
+F3352.015
+sg23
+F3356.714
+sg24
+(lp3571
+V<i>Myslel jsem, \u017ee kdy\u017e nenajdu</i>
+p3572
+aV<i>cestu nahoru, bude po m\u011b.</i>
+p3573
+asbag10
+(g18
+g12
+Ntp3574
+Rp3575
+(dp3576
+g22
+F3356.786
+sg23
+F3358.913
+sg24
+(lp3577
+VA pak ta ruka-
+p3578
+asbag10
+(g18
+g12
+Ntp3579
+Rp3580
+(dp3581
+g22
+F3361.358
+sg23
+F3364.725
+sg24
+(lp3582
+Vta ruka sáhla dol\u016f...
+p3583
+asbag10
+(g18
+g12
+Ntp3584
+Rp3585
+(dp3586
+g22
+F3364.794
+sg23
+F3366.989
+sg24
+(lp3587
+Va chytla m\u011b...
+p3588
+asbag10
+(g18
+g12
+Ntp3589
+Rp3590
+(dp3591
+g22
+F3367.063
+sg23
+F3369.088
+sg24
+(lp3592
+V<i>a vytáhla nahoru.</i>
+p3593
+asbag10
+(g18
+g12
+Ntp3594
+Rp3595
+(dp3596
+g22
+F3369.165
+sg23
+F3371.827
+sg24
+(lp3597
+V<i>Musel jsi vid\u011bt,</i>
+p3598
+aV<i>jak jsem byl vystra\u0161ený.</i>
+p3599
+asbag10
+(g18
+g12
+Ntp3600
+Rp3601
+(dp3602
+g22
+F3374.337
+sg23
+F3377.465
+sg24
+(lp3603
+VKouknul ses
+p3604
+aVmi do o\u010dí...
+p3605
+asbag10
+(g18
+g12
+Ntp3606
+Rp3607
+(dp3608
+g22
+F3377.54
+sg23
+F3380.668
+sg24
+(lp3609
+Va \u0159ekl jsi mi
+p3610
+aVa\u0165 to nevzdávám.
+p3611
+asbag10
+(g18
+g12
+Ntp3612
+Rp3613
+(dp3614
+g22
+F3381.745
+sg23
+F3384.077
+sg24
+(lp3615
+V<i>\u017de nikdo nebude umírat.</i>
+p3616
+asbag10
+(g18
+g12
+Ntp3617
+Rp3618
+(dp3619
+g22
+F3384.147
+sg23
+F3386.672
+sg24
+(lp3620
+V<i>Museli jsme v\u0161ichni</i>
+p3621
+aV<i>dr\u017eet pohromad\u011b...</i>
+p3622
+asbag10
+(g18
+g12
+Ntp3623
+Rp3624
+(dp3625
+g22
+F3386.75
+sg23
+F3389.81
+sg24
+(lp3626
+V<i>a spole\u010dn\u011b se</i>
+p3627
+aV<i>dr\u017eet na té lodi.</i>
+p3628
+asbag10
+(g18
+g12
+Ntp3629
+Rp3630
+(dp3631
+g22
+F3392.756
+sg23
+F3395.224
+sg24
+(lp3632
+VA to jsme d\u011blali...
+p3633
+asbag10
+(g18
+g12
+Ntp3634
+Rp3635
+(dp3636
+g22
+F3397.36
+sg23
+F3400.329
+sg24
+(lp3637
+VCelý \u010dty\u0159i hodiny...
+p3638
+asbag10
+(g18
+g12
+Ntp3639
+Rp3640
+(dp3641
+g22
+F3400.397
+sg23
+F3402.331
+sg24
+(lp3642
+Vse dr\u017eeli...
+p3643
+asbag10
+(g18
+g12
+Ntp3644
+Rp3645
+(dp3646
+g22
+F3402.399
+sg23
+F3404.458
+sg24
+(lp3647
+V<i>p\u0159esn\u011b jak jsi \u0159ekl.</i>
+p3648
+asbag10
+(g18
+g12
+Ntp3649
+Rp3650
+(dp3651
+g22
+F3416.279
+sg23
+F3419.544
+sg24
+(lp3652
+VJo, to je v\u0161echno moc dojemný.
+p3653
+asbag10
+(g18
+g12
+Ntp3654
+Rp3655
+(dp3656
+g22
+F3419.616
+sg23
+F3421.948
+sg24
+(lp3657
+VAle úpln\u011b na hovno!
+p3658
+asbag10
+(g18
+g12
+Ntp3659
+Rp3660
+(dp3661
+g22
+F3422.018
+sg23
+F3424.987
+sg24
+(lp3662
+VTak u\u017e dost o lodích, chlap\u010de
+p3663
+aVCo jsi za\u010d?
+p3664
+asbag10
+(g18
+g12
+Ntp3665
+Rp3666
+(dp3667
+g22
+F3425.054
+sg23
+F3427.045
+sg24
+(lp3668
+VPoslouchejte
+p3669
+aVco \u0159íká.
+p3670
+asbag10
+(g18
+g12
+Ntp3671
+Rp3672
+(dp3673
+g22
+F3427.123
+sg23
+F3429.216
+sg24
+(lp3674
+VMá pravdu.
+p3675
+aVMusíme táhnout za jeden provaz.
+p3676
+asbag10
+(g18
+g12
+Ntp3677
+Rp3678
+(dp3679
+g22
+F3429.292
+sg23
+F3431.385
+sg24
+(lp3680
+V<i>Ne, poslouchej</i>
+p3681
+aV<i>co \u0159íkám já!</i>
+p3682
+asbag10
+(g18
+g12
+Ntp3683
+Rp3684
+(dp3685
+g22
+F3431.461
+sg23
+F3435.329
+sg24
+(lp3686
+VJestli\u017ee on ví kdo je,
+p3687
+aVtak nám m\u016f\u017ee \u0159íct kdo jsme my.
+p3688
+asbag10
+(g18
+g12
+Ntp3689
+Rp3690
+(dp3691
+g22
+F3435.398
+sg23
+F3438.299
+sg24
+(lp3692
+VJe jedno kdo jsme!
+p3693
+asbag10
+(g18
+g12
+Ntp3694
+Rp3695
+(dp3696
+g22
+F3438.368
+sg23
+F3440.996
+sg24
+(lp3697
+VProto\u017ee oni tady budou ka\u017edou chvíli.
+p3698
+asbag10
+(g18
+g12
+Ntp3699
+Rp3700
+(dp3701
+g22
+F3441.07
+sg23
+F3445.006
+sg24
+(lp3702
+V- Dob\u0159e, máme jen jeden pokus!
+p3703
+aV- Hej, \u0159ekni nám kdo se\u0161!
+p3704
+asbag10
+(g18
+g12
+Ntp3705
+Rp3706
+(dp3707
+g22
+F3445.074
+sg23
+F3448.373
+sg24
+(lp3708
+VKdo jsi, chlap\u010de?
+p3709
+aV\u0158ekni nám to, chlap\u010de!
+p3710
+asbag10
+(g18
+g12
+Ntp3711
+Rp3712
+(dp3713
+g22
+F3463.193
+sg23
+F3465.184
+sg24
+(lp3714
+VPromi\u0148.
+p3715
+asbag10
+(g18
+g12
+Ntp3716
+Rp3717
+(dp3718
+g22
+F3477.207
+sg23
+F3479.801
+sg24
+(lp3719
+VNevím, kdo sakra jsi.
+p3720
+asbag10
+(g18
+g12
+Ntp3721
+Rp3722
+(dp3723
+g22
+F3479.876
+sg23
+F3482.14
+sg24
+(lp3724
+VJe mi to jedno.
+p3725
+asbag10
+(g18
+g12
+Ntp3726
+Rp3727
+(dp3728
+g22
+F3482.212
+sg23
+F3485.181
+sg24
+(lp3729
+VMo\u017ená ty jsi únosce.
+p3730
+aVJá nevím.
+p3731
+asbag10
+(g18
+g12
+Ntp3732
+Rp3733
+(dp3734
+g22
+F3486.182
+sg23
+F3488.116
+sg24
+(lp3735
+VVí\u0161, co si myslím?
+p3736
+asbag10
+(g18
+g12
+Ntp3737
+Rp3738
+(dp3739
+g22
+F3488.184
+sg23
+F3490.914
+sg24
+(lp3740
+VMo\u017ená n\u011bkde v pr\u016fb\u011bhu d\u011bní
+p3741
+aVjsi zapomn\u011bl, kým si býval...
+p3742
+asbag10
+(g18
+g12
+Ntp3743
+Rp3744
+(dp3745
+g22
+F3490.987
+sg23
+F3493.251
+sg24
+(lp3746
+Vne\u017e si se stal jedním z nás.
+p3747
+asbag10
+(g18
+g12
+Ntp3748
+Rp3749
+(dp3750
+g22
+F3493.323
+sg23
+F3497.692
+sg24
+(lp3751
+VBez ohledu na to,
+p3752
+aVbez tebe to nezvládneme.
+p3753
+asbag10
+(g18
+g12
+Ntp3754
+Rp3755
+(dp3756
+g22
+F3500.196
+sg23
+F3503.188
+sg24
+(lp3757
+VTy zna\u010dky nejsou
+p3758
+aVna snímcích vid\u011bt.
+p3759
+asbag10
+(g18
+g12
+Ntp3760
+Rp3761
+(dp3762
+g22
+F3505.535
+sg23
+F3508.527
+sg24
+(lp3763
+V- Po\u010dkej.
+p3764
+aV- <i>Co je?</i>
+p3765
+asbag10
+(g18
+g12
+Ntp3766
+Rp3767
+(dp3768
+g22
+F3508.605
+sg23
+F3511.574
+sg24
+(lp3769
+VTady. V odrazu okna
+p3770
+aVté benzínky.
+p3771
+asbag10
+(g18
+g12
+Ntp3772
+Rp3773
+(dp3774
+g22
+F3511.641
+sg23
+F3515.202
+sg24
+(lp3775
+V- To je jejich p\u0159ední zna\u010dka.
+p3776
+aV- Nahraj to Molinovi. Pot\u0159ebujem lep\u0161í fotku.
+p3777
+asbag10
+(g18
+g12
+Ntp3778
+Rp3779
+(dp3780
+g22
+F3515.278
+sg23
+F3517.61
+sg24
+(lp3781
+VDej v\u011bd\u011bt. Dej v\u011bd\u011bt, a\u017e to p\u0159ijde.
+p3782
+asbag10
+(g18
+g12
+Ntp3783
+Rp3784
+(dp3785
+g22
+F3517.68
+sg23
+F3519.648
+sg24
+(lp3786
+VJe\u0161t\u011b. Je\u0161t\u011b.
+p3787
+asbag10
+(g18
+g12
+Ntp3788
+Rp3789
+(dp3790
+g22
+F3519.716
+sg23
+F3522.651
+sg24
+(lp3791
+VPo\u010dkat. Jen to naklo\u0148.
+p3792
+aVNaklo\u0148 to a zatáhni. Jo!
+p3793
+asbag10
+(g18
+g12
+Ntp3794
+Rp3795
+(dp3796
+g22
+F3522.719
+sg23
+F3524.71
+sg24
+(lp3797
+V- Tady je.
+p3798
+aV- Paráda!
+p3799
+asbag10
+(g18
+g12
+Ntp3800
+Rp3801
+(dp3802
+g22
+F3530.793
+sg23
+F3533.956
+sg24
+(lp3803
+V- Kam \u0161la?
+p3804
+aV- \u0158ekla, \u017ee pot\u0159ebuje na \u010derstvý vzduch.
+p3805
+asbag10
+(g18
+g12
+Ntp3806
+Rp3807
+(dp3808
+g22
+F3541.504
+sg23
+F3544.029
+sg24
+(lp3809
+V- Kávu?
+p3810
+aV- Ne, díky.
+p3811
+asbag10
+(g18
+g12
+Ntp3812
+Rp3813
+(dp3814
+g22
+F3544.107
+sg23
+F3546.632
+sg24
+(lp3815
+VJá u\u017e taky nem\u016f\u017eu.
+p3816
+asbag10
+(g18
+g12
+Ntp3817
+Rp3818
+(dp3819
+g22
+F3546.709
+sg23
+F3548.643
+sg24
+(lp3820
+VMohu?
+p3821
+asbag10
+(g18
+g12
+Ntp3822
+Rp3823
+(dp3824
+g22
+F3565.695
+sg23
+F3568.687
+sg24
+(lp3825
+VBill\u016fv otec se vypracoval sám.
+p3826
+asbag10
+(g18
+g12
+Ntp3827
+Rp3828
+(dp3829
+g22
+F3568.765
+sg23
+F3573.031
+sg24
+(lp3830
+VP\u0159edtím, ne\u017e n\u011bco m\u011bl,
+p3831
+aVpostavil d\u016fm na Eagle Ridge.
+p3832
+asbag10
+(g18
+g12
+Ntp3833
+Rp3834
+(dp3835
+g22
+F3573.102
+sg23
+F3576.833
+sg24
+(lp3836
+V<i>Nádherné místo.</i>
+p3837
+aV<i>Tam v kopcích.</i>
+p3838
+asbag10
+(g18
+g12
+Ntp3839
+Rp3840
+(dp3841
+g22
+F3579.442
+sg23
+F3581.467
+sg24
+(lp3842
+VP\u0159ed n\u011bkolika lety sho\u0159el.
+p3843
+asbag10
+(g18
+g12
+Ntp3844
+Rp3845
+(dp3846
+g22
+F3582.845
+sg23
+F3584.836
+sg24
+(lp3847
+VBill se rozhodl...
+p3848
+asbag10
+(g18
+g12
+Ntp3849
+Rp3850
+(dp3851
+g22
+F3584.914
+sg23
+F3587.712
+sg24
+(lp3852
+Vho znovu postavit vlastníma
+p3853
+aVrukama stejn\u011b jako jeho otec.
+p3854
+asbag10
+(g18
+g12
+Ntp3855
+Rp3856
+(dp3857
+g22
+F3592.989
+sg23
+F3597.653
+sg24
+(lp3858
+VJe jeden z nejbohat\u0161ích mu\u017e\u016f ve stát\u011b,
+p3859
+aVnemá \u010das si kdy vydechnout, ale...
+p3860
+asbag10
+(g18
+g12
+Ntp3861
+Rp3862
+(dp3863
+g22
+F3597.727
+sg23
+F3600.457
+sg24
+(lp3864
+Vmusel to ud\u011blat, víte?
+p3865
+asbag10
+(g18
+g12
+Ntp3866
+Rp3867
+(dp3868
+g22
+F3600.53
+sg23
+F3602.623
+sg24
+(lp3869
+VDokázat si, \u017ee na to má.
+p3870
+asbag10
+(g18
+g12
+Ntp3871
+Rp3872
+(dp3873
+g22
+F3607.203
+sg23
+F3609.398
+sg24
+(lp3874
+VMusí to být krásné
+p3875
+aVpro vás oba.
+p3876
+asbag10
+(g18
+g12
+Ntp3877
+Rp3878
+(dp3879
+g22
+F3609.472
+sg23
+F3611.94
+sg24
+(lp3880
+V<i>Myslím, mít</i>
+p3881
+aV<i>místo kam odjet.</i>
+p3882
+asbag10
+(g18
+g12
+Ntp3883
+Rp3884
+(dp3885
+g22
+F3612.008
+sg23
+F3614.306
+sg24
+(lp3886
+VM\u011bl byste tam vid\u011bt
+p3887
+aVzápad slunce.
+p3888
+asbag10
+(g18
+g12
+Ntp3889
+Rp3890
+(dp3891
+g22
+F3624.621
+sg23
+F3627.454
+sg24
+(lp3892
+VP\u0159í\u0161t\u011b to necháme
+p3893
+aVspadnout odtamtud.
+p3894
+asbag10
+(g18
+g12
+Ntp3895
+Rp3896
+(dp3897
+g22
+F3629.092
+sg23
+F3632.619
+sg24
+(lp3898
+V- Jen si bu\u010f jistej, \u017ee jsou
+p3899
+aVotev\u0159ené dve\u0159e, a\u017e to poletí dol\u016f.
+p3900
+aV- Jasn\u011b.
+p3901
+asbag10
+(g18
+g12
+Ntp3902
+Rp3903
+(dp3904
+g22
+F3632.695
+sg23
+F3634.629
+sg24
+(lp3905
+V- Ví\u0161 jak to pou\u017eít, ne?
+p3906
+aV- Jo.
+p3907
+asbag10
+(g18
+g12
+Ntp3908
+Rp3909
+(dp3910
+g22
+F3634.697
+sg23
+F3636.631
+sg24
+(lp3911
+VTam naho\u0159e, je dobrá pozice.
+p3912
+asbag10
+(g18
+g12
+Ntp3913
+Rp3914
+(dp3915
+g22
+F3636.699
+sg23
+F3641.159
+sg24
+(lp3916
+VTy p\u016fjde\u0161 ven k tomu nákla\u010fáku
+p3917
+aVa nastartuje\u0161 ho, a\u0165 vypadnem.
+p3918
+asbag10
+(g18
+g12
+Ntp3919
+Rp3920
+(dp3921
+g22
+F3659.622
+sg23
+F3661.59
+sg24
+(lp3922
+VCo to je?
+p3923
+asbag10
+(g18
+g12
+Ntp3924
+Rp3925
+(dp3926
+g22
+F3663.726
+sg23
+F3665.751
+sg24
+(lp3927
+VTo je Erin.
+p3928
+asbag10
+(g18
+g12
+Ntp3929
+Rp3930
+(dp3931
+g22
+F3667.096
+sg23
+F3669.155
+sg24
+(lp3932
+VJe to má dcera.
+p3933
+asbag10
+(g18
+g12
+Ntp3934
+Rp3935
+(dp3936
+g22
+F3674.303
+sg23
+F3676.294
+sg24
+(lp3937
+VNádherná.
+p3938
+asbag10
+(g18
+g12
+Ntp3939
+Rp3940
+(dp3941
+g22
+F3680.343
+sg23
+F3682.47
+sg24
+(lp3942
+VTady to má\u0161.
+p3943
+asbag10
+(g18
+g12
+Ntp3944
+Rp3945
+(dp3946
+g22
+F3683.78
+sg23
+F3686.112
+sg24
+(lp3947
+VAspo\u0148 má\u0161 pro co bojovat.
+p3948
+asbag10
+(g18
+g12
+Ntp3949
+Rp3950
+(dp3951
+g22
+F3746.609
+sg23
+F3748.804
+sg24
+(lp3952
+VKurva! Jsou tady!
+p3953
+asbag10
+(g18
+g12
+Ntp3954
+Rp3955
+(dp3956
+g22
+F3764.427
+sg23
+F3766.361
+sg24
+(lp3957
+VVeselé vánoce.
+p3958
+asbag10
+(g18
+g12
+Ntp3959
+Rp3960
+(dp3961
+g22
+F3766.429
+sg23
+F3769.489
+sg24
+(lp3962
+VVykopej jámu velkou
+p3963
+aVpro t\u0159i lidi.
+p3964
+asbag10
+(g18
+g12
+Ntp3965
+Rp3966
+(dp3967
+g22
+F3774.937
+sg23
+F3778.031
+sg24
+(lp3968
+VHned jak p\u0159ijdou,
+p3969
+aVspus\u0165 to na n\u011b.
+p3970
+asbag10
+(g18
+g12
+Ntp3971
+Rp3972
+(dp3973
+g22
+F3778.107
+sg23
+F3782.168
+sg24
+(lp3974
+V- Rozumí\u0161?
+p3975
+aV- Jo, rozumím.
+p3976
+asbag10
+(g18
+g12
+Ntp3977
+Rp3978
+(dp3979
+g22
+F3782.245
+sg23
+F3786.181
+sg24
+(lp3980
+VKapitáne, máme kousek té zna\u010dky,
+p3981
+aVco poslal Anderson.
+p3982
+asbag10
+(g18
+g12
+Ntp3983
+Rp3984
+(dp3985
+g22
+F3786.249
+sg23
+F3788.342
+sg24
+(lp3986
+VDej to do po\u010díta\u010de.
+p3987
+asbag10
+(g18
+g12
+Ntp3988
+Rp3989
+(dp3990
+g22
+F3788.417
+sg23
+F3792.148
+sg24
+(lp3991
+VNemohou být dál ne\u017e 40 mil
+p3992
+aVod té benzínky.
+p3993
+asbag10
+(g18
+g12
+Ntp3994
+Rp3995
+(dp3996
+g22
+F3819.782
+sg23
+F3823.946
+sg24
+(lp3997
+VHej, Rayi. Zavolej Ritterovi
+p3998
+aVa ujisti se, \u017ee letadlo p\u0159istane v\u010das.
+p3999
+asbag10
+(g18
+g12
+Ntp4000
+Rp4001
+(dp4002
+g22
+F3825.721
+sg23
+F3828.451
+sg24
+(lp4003
+V- Rayi?
+p4004
+aV- Vím. Vím. Zpátky k vysíla\u010dce.
+p4005
+asbag10
+(g18
+g12
+Ntp4006
+Rp4007
+(dp4008
+g22
+F3832.562
+sg23
+F3834.553
+sg24
+(lp4009
+VHej!
+p4010
+asbag10
+(g18
+g12
+Ntp4011
+Rp4012
+(dp4013
+g22
+F3834.63
+sg23
+F3836.928
+sg24
+(lp4014
+VRozsvi\u0165 sv\u011btlo!
+p4015
+asbag10
+(g18
+g12
+Ntp4016
+Rp4017
+(dp4018
+g22
+F3847.143
+sg23
+F3848.974
+sg24
+(lp4019
+V- Wozi!
+p4020
+aV- <i>Brockmane?</i>
+p4021
+asbag10
+(g18
+g12
+Ntp4022
+Rp4023
+(dp4024
+g22
+F3849.045
+sg23
+F3851.605
+sg24
+(lp4025
+V- D\u011blej!
+p4026
+aV- <i>Sly\u0161í\u0161!</i>
+p4027
+asbag10
+(g18
+g12
+Ntp4028
+Rp4029
+(dp4030
+g22
+F3851.681
+sg23
+F3853.876
+sg24
+(lp4031
+V- Te\u010f!
+p4032
+aV- <i>Chlapi, nesu vám hamburgery.</i>
+p4033
+asbag10
+(g18
+g12
+Ntp4034
+Rp4035
+(dp4036
+g22
+F3853.95
+sg23
+F3857.113
+sg24
+(lp4037
+V<i>Kurva. Kde kurva jste,</i>
+p4038
+aV<i>vy hovada?</i>
+p4039
+asbag10
+(g18
+g12
+Ntp4040
+Rp4041
+(dp4042
+g22
+F3857.186
+sg23
+F3860.349
+sg24
+(lp4043
+VP\u0159esta\u0148te si honit vocasy a jdem!
+p4044
+asbag10
+(g18
+g12
+Ntp4045
+Rp4046
+(dp4047
+g22
+F3864.36
+sg23
+F3866.157
+sg24
+(lp4048
+VBacha!
+p4049
+asbag10
+(g18
+g12
+Ntp4050
+Rp4051
+(dp4052
+g22
+F3867.363
+sg23
+F3869.16
+sg24
+(lp4053
+VLeone! Leone, to jsem já!
+p4054
+asbag10
+(g18
+g12
+Ntp4055
+Rp4056
+(dp4057
+g22
+F3876.806
+sg23
+F3878.899
+sg24
+(lp4058
+VCo kurva...?
+p4059
+asbag10
+(g18
+g12
+Ntp4060
+Rp4061
+(dp4062
+g22
+F3882.845
+sg23
+F3884.642
+sg24
+(lp4063
+VJsi v po\u0159ádku?
+p4064
+asbag10
+(g18
+g12
+Ntp4065
+Rp4066
+(dp4067
+g22
+F3892.555
+sg23
+F3895.922
+sg24
+(lp4068
+VNikdo se nehne!
+p4069
+aVK zemi!
+p4070
+asbag10
+(g18
+g12
+Ntp4071
+Rp4072
+(dp4073
+g22
+F3895.992
+sg23
+F3897.789
+sg24
+(lp4074
+VColesi, pohni se
+p4075
+aVa jsi mrtvej!
+p4076
+asbag10
+(g18
+g12
+Ntp4077
+Rp4078
+(dp4079
+g22
+F3900.363
+sg23
+F3906.029
+sg24
+(lp4080
+V- Pra\u0161ti m\u011b!
+p4081
+aV- Sejmi ho! Wozy, sejmi ho!
+p4082
+asbag10
+(g18
+g12
+Ntp4083
+Rp4084
+(dp4085
+g22
+F3908.17
+sg23
+F3912.334
+sg24
+(lp4086
+VZasranej bordel.
+p4087
+aVCo se tu kurva stalo?
+p4088
+asbag10
+(g18
+g12
+Ntp4089
+Rp4090
+(dp4091
+g22
+F3920.783
+sg23
+F3923.616
+sg24
+(lp4092
+VVypadá\u0161 jak pytel sra\u010dek, Wozy.
+p4093
+asbag10
+(g18
+g12
+Ntp4094
+Rp4095
+(dp4096
+g22
+F3928.391
+sg23
+F3931.519
+sg24
+(lp4097
+VNemáme \u017eádné otisky na t\u011bch
+p4098
+aVdvaceti, co máme od správce...
+p4099
+asbag10
+(g18
+g12
+Ntp4100
+Rp4101
+(dp4102
+g22
+F3931.594
+sg23
+F3933.96
+sg24
+(lp4103
+V<i>a taky nic od A.P.B.</i>
+p4104
+aV<i>co máme v aut\u011b.</i>
+p4105
+asbag10
+(g18
+g12
+Ntp4106
+Rp4107
+(dp4108
+g22
+F3934.03
+sg23
+F3937.989
+sg24
+(lp4109
+V<i>Pracoval jsem na té zna\u010dce od Moliny.</i>
+p4110
+aV<i>Projel jsem to systémem a je to v suchu.</i>
+p4111
+asbag10
+(g18
+g12
+Ntp4112
+Rp4113
+(dp4114
+g22
+F3938.067
+sg23
+F3941.628
+sg24
+(lp4115
+V<i>Projel jsem to celostátn\u011b</i>
+p4116
+aV<i>a n\u011bco na\u0161el.</i>
+p4117
+asbag10
+(g18
+g12
+Ntp4118
+Rp4119
+(dp4120
+g22
+F3941.704
+sg23
+F3945.401
+sg24
+(lp4121
+V<i>Vypadá to, \u017ee protidrogový v San Diegu</i>
+p4122
+aV<i>pracuje na n\u011bjakém p\u0159ípadu.</i>
+p4123
+asbag10
+(g18
+g12
+Ntp4124
+Rp4125
+(dp4126
+g22
+F3945.474
+sg23
+F3948.671
+sg24
+(lp4127
+V<i>Ti únosci- k\u0161eftují s methanolem.</i>
+p4128
+aV<i>A nemaj zrovna \u010distej rejst\u0159ík...</i>
+p4129
+asbag10
+(g18
+g12
+Ntp4130
+Rp4131
+(dp4132
+g22
+F3948.744
+sg23
+F3951.679
+sg24
+(lp4133
+V<i>...jsou podez\u0159elí z n\u011bkolika</i>
+p4134
+aV<i>vra\u017ed na obou stranách hranice.</i>
+p4135
+asbag10
+(g18
+g12
+Ntp4136
+Rp4137
+(dp4138
+g22
+F3951.747
+sg23
+F3953.305
+sg24
+(lp4139
+VTohle je Stefan Burian,
+p4140
+aV\u0161éf gangu.
+p4141
+asbag10
+(g18
+g12
+Ntp4142
+Rp4143
+(dp4144
+g22
+F3953.382
+sg23
+F3957.751
+sg24
+(lp4145
+V- Zjist\u011bte co o nich mají v San Diegu.
+p4146
+aV- T\u011bm u\u017e jsem volal.
+p4147
+asbag10
+(g18
+g12
+Ntp4148
+Rp4149
+(dp4150
+g22
+F3961.757
+sg23
+F3964.191
+sg24
+(lp4151
+VTo je v\u0161echno?
+p4152
+aVV\u0161echno co mi k tomu \u0159ekne\u0161?
+p4153
+asbag10
+(g18
+g12
+Ntp4154
+Rp4155
+(dp4156
+g22
+F3964.26
+sg23
+F3967.195
+sg24
+(lp4157
+V- Bylo to dost rychlý.
+p4158
+aV- <i>Pracuje\u0161 pro m\u011b...</i>
+p4159
+asbag10
+(g18
+g12
+Ntp4160
+Rp4161
+(dp4162
+g22
+F3967.263
+sg23
+F3970.061
+sg24
+(lp4163
+Vu\u017e n\u011bkolik m\u011bsíc\u016f,
+p4164
+aVzaji\u0161\u0165uje\u0161 k\u0161efty, výb\u011bry...
+p4165
+asbag10
+(g18
+g12
+Ntp4166
+Rp4167
+(dp4168
+g22
+F3970.132
+sg23
+F3972.794
+sg24
+(lp4169
+Va v\u0161echny ty sra\u010dky.
+p4170
+asbag10
+(g18
+g12
+Ntp4171
+Rp4172
+(dp4173
+g22
+F3972.868
+sg23
+F3975.098
+sg24
+(lp4174
+VJak je vid\u011bt hlídání
+p4175
+aVdvou krava\u0165ák\u016f...
+p4176
+asbag10
+(g18
+g12
+Ntp4177
+Rp4178
+(dp4179
+g22
+F3975.171
+sg23
+F3978.231
+sg24
+(lp4180
+V- je na tebe moc.
+p4181
+aV- Ne, Já- já-
+p4182
+asbag10
+(g18
+g12
+Ntp4183
+Rp4184
+(dp4185
+g22
+F3978.307
+sg23
+F3980.571
+sg24
+(lp4186
+VJá to posral.
+p4187
+asbag10
+(g18
+g12
+Ntp4188
+Rp4189
+(dp4190
+g22
+F3980.643
+sg23
+F3983.009
+sg24
+(lp4191
+VKoukej se z t\u011bch sra\u010dek vyhrabat, frajere.
+p4192
+asbag10
+(g18
+g12
+Ntp4193
+Rp4194
+(dp4195
+g22
+F3983.079
+sg23
+F3985.104
+sg24
+(lp4196
+VJe\u0161t\u011b to neskon\u010dilo.
+p4197
+asbag10
+(g18
+g12
+Ntp4198
+Rp4199
+(dp4200
+g22
+F3995.858
+sg23
+F3998.418
+sg24
+(lp4201
+VPro\u010d jsi to ud\u011blal?
+p4202
+asbag10
+(g18
+g12
+Ntp4203
+Rp4204
+(dp4205
+g22
+F4003.332
+sg23
+F4005.266
+sg24
+(lp4206
+VCo-
+p4207
+asbag10
+(g18
+g12
+Ntp4208
+Rp4209
+(dp4210
+g22
+F4010.172
+sg23
+F4012.697
+sg24
+(lp4211
+VHej! Hej! Hej!
+p4212
+asbag10
+(g18
+g12
+Ntp4213
+Rp4214
+(dp4215
+g22
+F4013.976
+sg23
+F4016.467
+sg24
+(lp4216
+VKam chce\u0161 utéct, Colesi?
+p4217
+aVPoj\u010f sem!
+p4218
+asbag10
+(g18
+g12
+Ntp4219
+Rp4220
+(dp4221
+g22
+F4083.946
+sg23
+F4085.937
+sg24
+(lp4222
+VSakra.
+p4223
+asbag10
+(g18
+g12
+Ntp4224
+Rp4225
+(dp4226
+g22
+F4092.788
+sg23
+F4096.315
+sg24
+(lp4227
+VVem jeho a ostatní
+p4228
+aVna\u0161e tam dozadu.
+p4229
+asbag10
+(g18
+g12
+Ntp4230
+Rp4231
+(dp4232
+g22
+F4104.066
+sg23
+F4106.933
+sg24
+(lp4233
+V<i>To chce talent,</i>
+p4234
+aV<i>takhle krásn\u011b to posrat.</i>
+p4235
+asbag10
+(g18
+g12
+Ntp4236
+Rp4237
+(dp4238
+g22
+F4107.002
+sg23
+F4110.494
+sg24
+(lp4239
+VJdi ze sebe smejt ty sra\u010dky.
+p4240
+aVPak odsud vypadnem.
+p4241
+asbag10
+(g18
+g12
+Ntp4242
+Rp4243
+(dp4244
+g22
+F4117.213
+sg23
+F4120.979
+sg24
+(lp4245
+VKdy\u017e je zabijem p\u0159edtím
+p4246
+aVne\u017e vypadnem...
+p4247
+asbag10
+(g18
+g12
+Ntp4248
+Rp4249
+(dp4250
+g22
+F4121.05
+sg23
+F4123.746
+sg24
+(lp4251
+V..bude to v\u0161echno akorát
+p4252
+aVhor\u0161í, ne?
+p4253
+asbag10
+(g18
+g12
+Ntp4254
+Rp4255
+(dp4256
+g22
+F4128.924
+sg23
+F4131.449
+sg24
+(lp4257
+VNemusí\u0161 je zabíjet.
+p4258
+asbag10
+(g18
+g12
+Ntp4259
+Rp4260
+(dp4261
+g22
+F4131.527
+sg23
+F4133.62
+sg24
+(lp4262
+VJá ne.
+p4263
+asbag10
+(g18
+g12
+Ntp4264
+Rp4265
+(dp4266
+g22
+F4133.696
+sg23
+F4135.687
+sg24
+(lp4267
+VDob\u0159e.
+p4268
+asbag10
+(g18
+g12
+Ntp4269
+Rp4270
+(dp4271
+g22
+F4141.07
+sg23
+F4143.129
+sg24
+(lp4272
+VTy jo!
+p4273
+asbag10
+(g18
+g12
+Ntp4274
+Rp4275
+(dp4276
+g22
+F4154.683
+sg23
+F4158.175
+sg24
+(lp4277
+V- <i>Tady, tati.</i>
+p4278
+aV- To je od nás obou.
+p4279
+asbag10
+(g18
+g12
+Ntp4280
+Rp4281
+(dp4282
+g22
+F4158.254
+sg23
+F4161.849
+sg24
+(lp4283
+V- To je Erin.
+p4284
+aV- <i>M\u011bla n\u011bkdy p\u0159edtím reakci na inzulín?</i>
+p4285
+ag307
+asbag10
+(g18
+g12
+Ntp4286
+Rp4287
+(dp4288
+g22
+F4161.924
+sg23
+F4164.893
+sg24
+(lp4289
+V- <i>To nevím.</i>
+p4290
+aV- <i>Je tu její matka?</i>
+p4291
+aV<i>N\u011bkdo, kdo to ví?-</i>
+p4292
+asbag10
+(g18
+g12
+Ntp4293
+Rp4294
+(dp4295
+g22
+F4164.96
+sg23
+F4168.691
+sg24
+(lp4296
+V- Jsem rozvedený. Nevím.
+p4297
+aV- Nedýchá. Musíme ji vzít dovnit\u0159.
+p4298
+asbag10
+(g18
+g12
+Ntp4299
+Rp4300
+(dp4301
+g22
+F4196.458
+sg23
+F4198.756
+sg24
+(lp4302
+VBo\u017ee, zlatí\u010dko.
+p4303
+asbag10
+(g18
+g12
+Ntp4304
+Rp4305
+(dp4306
+g22
+F4206.669
+sg23
+F4208.728
+sg24
+(lp4307
+V<i>Ten posranej</i>
+p4308
+aV<i>zapalova\u010d, Wozy.</i>
+p4309
+asbag10
+(g18
+g12
+Ntp4310
+Rp4311
+(dp4312
+g22
+F4208.804
+sg23
+F4211.534
+sg24
+(lp4313
+VU\u017e jsou mrtvé p\u011bt let.
+p4314
+asbag10
+(g18
+g12
+Ntp4315
+Rp4316
+(dp4317
+g22
+F4211.607
+sg23
+F4213.598
+sg24
+(lp4318
+VP\u0159ekousni to...
+p4319
+asbag10
+(g18
+g12
+Ntp4320
+Rp4321
+(dp4322
+g22
+F4213.676
+sg23
+F4215.94
+sg24
+(lp4323
+Vnebo za\u010dni znovu hulit.
+p4324
+asbag10
+(g18
+g12
+Ntp4325
+Rp4326
+(dp4327
+g22
+F4224.053
+sg23
+F4226.886
+sg24
+(lp4328
+VTe\u010f je jdi vy\u0159ídit!
+p4329
+asbag10
+(g18
+g12
+Ntp4330
+Rp4331
+(dp4332
+g22
+F4226.956
+sg23
+F4230.357
+sg24
+(lp4333
+VA vem i toho nájemnýho poldu.
+p4334
+asbag10
+(g18
+g12
+Ntp4335
+Rp4336
+(dp4337
+g22
+F4230.426
+sg23
+F4233.623
+sg24
+(lp4338
+VA\u017e to vy\u0159ídí\u0161,
+p4339
+aVmá\u0161 tady sv\u016fj podíl.
+p4340
+asbag10
+(g18
+g12
+Ntp4341
+Rp4342
+(dp4343
+g22
+F4233.696
+sg23
+F4235.687
+sg24
+(lp4344
+V- Dobrý den.
+p4345
+aV- Posa\u010fte se.
+p4346
+asbag10
+(g18
+g12
+Ntp4347
+Rp4348
+(dp4349
+g22
+F4237.066
+sg23
+F4239.534
+sg24
+(lp4350
+VMáme nové zprávy.
+p4351
+asbag10
+(g18
+g12
+Ntp4352
+Rp4353
+(dp4354
+g22
+F4241.737
+sg23
+F4245.798
+sg24
+(lp4355
+VJe vám n\u011bkdo z t\u011bchto mu\u017e\u016f pov\u011bdomý?
+p4356
+aVNebo jejich jména?
+p4357
+asbag10
+(g18
+g12
+Ntp4358
+Rp4359
+(dp4360
+g22
+F4247.376
+sg23
+F4250.675
+sg24
+(lp4361
+V<i>Nevid\u011bla jste n\u011bkdy</i>
+p4362
+aV<i>n\u011bkterého z nich...</i>
+p4363
+asbag10
+(g18
+g12
+Ntp4364
+Rp4365
+(dp4366
+g22
+F4250.746
+sg23
+F4253.476
+sg24
+(lp4367
+V- <i>s panem Colesem?</i>
+p4368
+aV- Ne. Co jsou za\u010d?
+p4369
+asbag10
+(g18
+g12
+Ntp4370
+Rp4371
+(dp4372
+g22
+F4254.75
+sg23
+F4257.878
+sg24
+(lp4373
+VTito mu\u017ei mají va\u0161eho man\u017eela.
+p4374
+asbag10
+(g18
+g12
+Ntp4375
+Rp4376
+(dp4377
+g22
+F4263.626
+sg23
+F4267.323
+sg24
+(lp4378
+VPromi\u0148te, kapitáne. Volá poru\u010dík
+p4379
+aVJames z protidrogovýho ze San Diega.
+p4380
+asbag10
+(g18
+g12
+Ntp4381
+Rp4382
+(dp4383
+g22
+F4267.396
+sg23
+F4270.297
+sg24
+(lp4384
+VKdo to sakra je?
+p4385
+asbag10
+(g18
+g12
+Ntp4386
+Rp4387
+(dp4388
+g22
+F4283.846
+sg23
+F4286.644
+sg24
+(lp4389
+VMá\u0161 ty klí\u010dky k nákla\u010fáku?
+p4390
+asbag10
+(g18
+g12
+Ntp4391
+Rp4392
+(dp4393
+g22
+F4286.715
+sg23
+F4288.649
+sg24
+(lp4394
+VNem\u016f\u017eeme jít k nákla\u010fáku.
+p4395
+asbag10
+(g18
+g12
+Ntp4396
+Rp4397
+(dp4398
+g22
+F4288.717
+sg23
+F4291.618
+sg24
+(lp4399
+V- Nemám ty klí\u010dky.
+p4400
+aV- Nevadí, stejn\u011b je\u0161t\u011b máme \u0161anci.
+p4401
+asbag10
+(g18
+g12
+Ntp4402
+Rp4403
+(dp4404
+g22
+F4291.687
+sg23
+F4294.918
+sg24
+(lp4405
+VKdy\u017e se dostanem za ten vrchol,
+p4406
+aVm\u011bli bychom najít silnici.
+p4407
+asbag10
+(g18
+g12
+Ntp4408
+Rp4409
+(dp4410
+g22
+F4294.99
+sg23
+F4298.05
+sg24
+(lp4411
+VAsi má\u0161 pravdu.
+p4412
+aVKolik má\u0161 v tý zbrani je\u0161t\u011b náboj\u016f?
+p4413
+asbag10
+(g18
+g12
+Ntp4414
+Rp4415
+(dp4416
+g22
+F4298.127
+sg23
+F4300.095
+sg24
+(lp4417
+VJd\u011bte tudy.
+p4418
+asbag10
+(g18
+g12
+Ntp4419
+Rp4420
+(dp4421
+g22
+F4302.464
+sg23
+F4305.627
+sg24
+(lp4422
+VKlidn\u011b se tu ra\u010fte celou noc.
+p4423
+aVJa mizím.
+p4424
+asbag10
+(g18
+g12
+Ntp4425
+Rp4426
+(dp4427
+g22
+F4305.701
+sg23
+F4308.169
+sg24
+(lp4428
+V- Co to kurva d\u011blá\u0161?
+p4429
+aV- Hele!
+p4430
+asbag10
+(g18
+g12
+Ntp4431
+Rp4432
+(dp4433
+g22
+F4308.237
+sg23
+F4312.401
+sg24
+(lp4434
+VA do hajzlu. Co se s tebou stalo?
+p4435
+aVDej to dol\u016f.
+p4436
+asbag10
+(g18
+g12
+Ntp4437
+Rp4438
+(dp4439
+g22
+F4312.474
+sg23
+F4317.673
+sg24
+(lp4440
+V- To m\u011b poser!
+p4441
+aV- Cht\u011bj abych to skon\u010dil a pak m\u016f\u017eu jít.
+p4442
+asbag10
+(g18
+g12
+Ntp4443
+Rp4444
+(dp4445
+g22
+F4317.746
+sg23
+F4320.408
+sg24
+(lp4446
+V- Co\u017ee?
+p4447
+aV- Sleduje\u0161 co se d\u011bje?
+p4448
+asbag10
+(g18
+g12
+Ntp4449
+Rp4450
+(dp4451
+g22
+F4320.482
+sg23
+F4324.646
+sg24
+(lp4452
+VTy mizernej hajzle!
+p4453
+aVTak\u017ee pat\u0159í\u0161 k t\u011bm srá\u010d\u016fm, co?
+p4454
+asbag10
+(g18
+g12
+Ntp4455
+Rp4456
+(dp4457
+g22
+F4324.72
+sg23
+F4327.587
+sg24
+(lp4458
+V- Sna\u017eil jsem se vám to \u0159íct!
+p4459
+aV- Aspo\u0148 jednou v \u017eivot\u011b dr\u017e hubu, jo?
+p4460
+asbag10
+(g18
+g12
+Ntp4461
+Rp4462
+(dp4463
+g22
+F4327.656
+sg23
+F4330.784
+sg24
+(lp4464
+V- Kdy\u017e vás nezabiju, zabijou m\u011b.
+p4465
+aV- Po\u010dkej, tohle p\u0159ece neud\u011blá\u0161.
+p4466
+asbag10
+(g18
+g12
+Ntp4467
+Rp4468
+(dp4469
+g22
+F4330.859
+sg23
+F4334.454
+sg24
+(lp4470
+V- Není to tak jednoduchý.
+p4471
+aV- Není to jednoduchý? Jasn\u011b, \u017ee je-
+p4472
+asbag10
+(g18
+g12
+Ntp4473
+Rp4474
+(dp4475
+g22
+F4334.53
+sg23
+F4337.055
+sg24
+(lp4476
+VBylo jednoduchý vyrvat
+p4477
+aVten telefonní drát?
+p4478
+asbag10
+(g18
+g12
+Ntp4479
+Rp4480
+(dp4481
+g22
+F4337.132
+sg23
+F4340.795
+sg24
+(lp4482
+VTam uvnit\u0159 vykrvácel chlap.
+p4483
+aVTos to v\u0161echno d\u011blal kv\u016fli n\u011bmu?
+p4484
+asbag10
+(g18
+g12
+Ntp4485
+Rp4486
+(dp4487
+g22
+F4340.869
+sg23
+F4342.962
+sg24
+(lp4488
+VCo je s tebou, kámo?
+p4489
+aVTohle jsme neud\u011blali!
+p4490
+asbag10
+(g18
+g12
+Ntp4491
+Rp4492
+(dp4493
+g22
+F4343.038
+sg23
+F4344.972
+sg24
+(lp4494
+VMyslí\u0161 jen na to...
+p4495
+asbag10
+(g18
+g12
+Ntp4496
+Rp4497
+(dp4498
+g22
+F4345.04
+sg23
+F4347.008
+sg24
+(lp4499
+Vaby ti nep\u0159i\u0161ili vra\u017edu
+p4500
+aVtoho mrtvýho hlída\u010de...
+p4501
+asbag10
+(g18
+g12
+Ntp4502
+Rp4503
+(dp4504
+g22
+F4347.076
+sg23
+F4350.876
+sg24
+(lp4505
+Vtak\u017ee nemluv o jednoduchosti,
+p4506
+aVproto\u017ee to k tomu má daleko.
+p4507
+asbag10
+(g18
+g12
+Ntp4508
+Rp4509
+(dp4510
+g22
+F4350.946
+sg23
+F4352.914
+sg24
+(lp4511
+VM\u011bli bysme te\u010f utíkat!
+p4512
+aVPry\u010d z týhle smradlavý díry!
+p4513
+asbag10
+(g18
+g12
+Ntp4514
+Rp4515
+(dp4516
+g22
+F4352.981
+sg23
+F4355.415
+sg24
+(lp4517
+V- Ty to stále nechápe\u0161, vi\u010f? Je konec!
+p4518
+aV- Ne, ne, ne.
+p4519
+asbag10
+(g18
+g12
+Ntp4520
+Rp4521
+(dp4522
+g22
+F4355.484
+sg23
+F4357.884
+sg24
+(lp4523
+V- Tohle jsem já.
+p4524
+aV- Hovno! Dej to dol\u016f.
+p4525
+asbag10
+(g18
+g12
+Ntp4526
+Rp4527
+(dp4528
+g22
+F4357.953
+sg23
+F4361.445
+sg24
+(lp4529
+V- Oto\u010d se!
+p4530
+aV- Ne, kámo. St\u0159el m\u011b do ksichtu.
+p4531
+asbag10
+(g18
+g12
+Ntp4532
+Rp4533
+(dp4534
+g22
+F4361.523
+sg23
+F4364.424
+sg24
+(lp4535
+V- D\u011blej!
+p4536
+aV- Ne, ty d\u011blej. Uka\u017e co jsi za\u010d!
+p4537
+asbag10
+(g18
+g12
+Ntp4538
+Rp4539
+(dp4540
+g22
+F4364.493
+sg23
+F4366.324
+sg24
+(lp4541
+V<i>D\u011blej!</i>
+p4542
+asbag10
+(g18
+g12
+Ntp4543
+Rp4544
+(dp4545
+g22
+F4366.395
+sg23
+F4369.387
+sg24
+(lp4546
+VTakhle chce\u0161 aby si t\u011b Erin pamatovala?
+p4547
+asbag10
+(g18
+g12
+Ntp4548
+Rp4549
+(dp4550
+g22
+F4369.465
+sg23
+F4371.66
+sg24
+(lp4551
+V<i>Dám ti v\u0161e</i>
+p4552
+aV<i>co chce\u0161. V\u0161e co chce\u0161.</i>
+p4553
+asbag10
+(g18
+g12
+Ntp4554
+Rp4555
+(dp4556
+g22
+F4371.734
+sg23
+F4374.328
+sg24
+(lp4557
+VJen to kurva ned\u011blej.
+p4558
+aVNed\u011blej to kurva!
+p4559
+asbag10
+(g18
+g12
+Ntp4560
+Rp4561
+(dp4562
+g22
+F4374.403
+sg23
+F4379.102
+sg24
+(lp4563
+V- Má \u017eena a dít\u011b jsou mrtvé.
+p4564
+aV- Ned\u011blej to kurva!
+p4565
+asbag10
+(g18
+g12
+Ntp4566
+Rp4567
+(dp4568
+g22
+F4379.174
+sg23
+F4381.165
+sg24
+(lp4569
+V- Chci aby to skon\u010dilo.
+p4570
+aV- Ne!
+p4571
+asbag10
+(g18
+g12
+Ntp4572
+Rp4573
+(dp4574
+g22
+F4384.813
+sg23
+F4386.94
+sg24
+(lp4575
+V<i>Tady detektiv James Curtis.</i>
+p4576
+asbag10
+(g18
+g12
+Ntp4577
+Rp4578
+(dp4579
+g22
+F4387.015
+sg23
+F4390.815
+sg24
+(lp4580
+V<i>Detektive Curtisi,</i>
+p4581
+aV<i>mám pro vás na lince kapitána Parkera.</i>
+p4582
+asbag10
+(g18
+g12
+Ntp4583
+Rp4584
+(dp4585
+g22
+F4390.886
+sg23
+F4393.582
+sg24
+(lp4586
+VCurtisi, místní d\u011blník a jeho syn
+p4587
+aVnahlásili podez\u0159elou aktivitu...
+p4588
+asbag10
+(g18
+g12
+Ntp4589
+Rp4590
+(dp4591
+g22
+F4393.655
+sg23
+F4398.683
+sg24
+(lp4592
+Vv chemickém skladu u Blythe Road,
+p4593
+aV15 mil západn\u011b od benzínky.
+p4594
+asbag10
+(g18
+g12
+Ntp4595
+Rp4596
+(dp4597
+g22
+F4398.761
+sg23
+F4400.695
+sg24
+(lp4598
+VOv\u011b\u0159oval to n\u011bkdo, kapitáne?
+p4599
+asbag10
+(g18
+g12
+Ntp4600
+Rp4601
+(dp4602
+g22
+F4400.763
+sg23
+F4402.594
+sg24
+(lp4603
+VPoslouchejte. Je mezi nima polda v utajení.
+p4604
+asbag10
+(g18
+g12
+Ntp4605
+Rp4606
+(dp4607
+g22
+F4402.664
+sg23
+F4406.1
+sg24
+(lp4608
+V<i>Nevíme, jestli byl</i>
+p4609
+aV<i>prozrazen, zda je \u017eivý nebo mrtvý.</i>
+p4610
+asbag10
+(g18
+g12
+Ntp4611
+Rp4612
+(dp4613
+g22
+F4406.168
+sg23
+F4410.366
+sg24
+(lp4614
+V<i>Potvrzuji. Budeme tam za p\u011bt minut.</i>
+p4615
+aV<i>Taktický tým za dvacet.</i>
+p4616
+asbag10
+(g18
+g12
+Ntp4617
+Rp4618
+(dp4619
+g22
+F4410.439
+sg23
+F4413.203
+sg24
+(lp4620
+V- 10-4.
+p4621
+aV- Jsi p\u0159ipravenej?
+p4622
+asbag10
+(g18
+g12
+Ntp4623
+Rp4624
+(dp4625
+g22
+F4413.275
+sg23
+F4415.436
+sg24
+(lp4626
+VJo.
+p4627
+asbag10
+(g18
+g12
+Ntp4628
+Rp4629
+(dp4630
+g22
+F4417.913
+sg23
+F4420.541
+sg24
+(lp4631
+V- <i>Hej.</i>
+p4632
+aV- Co je?
+p4633
+asbag10
+(g18
+g12
+Ntp4634
+Rp4635
+(dp4636
+g22
+F4420.616
+sg23
+F4422.709
+sg24
+(lp4637
+VMáme problém.
+p4638
+asbag10
+(g18
+g12
+Ntp4639
+Rp4640
+(dp4641
+g22
+F4426.188
+sg23
+F4429.123
+sg24
+(lp4642
+VJdi do auta.
+p4643
+aVNech b\u011b\u017eet motor.
+p4644
+asbag10
+(g18
+g12
+Ntp4645
+Rp4646
+(dp4647
+g22
+F4432.895
+sg23
+F4434.954
+sg24
+(lp4648
+VHej, ty!
+p4649
+asbag10
+(g18
+g12
+Ntp4650
+Rp4651
+(dp4652
+g22
+F4435.03
+sg23
+F4438.329
+sg24
+(lp4653
+VKoukám na policajta?
+p4654
+asbag10
+(g18
+g12
+Ntp4655
+Rp4656
+(dp4657
+g22
+F4440.669
+sg23
+F4442.603
+sg24
+(lp4658
+VNa policajta?
+p4659
+asbag10
+(g18
+g12
+Ntp4660
+Rp4661
+(dp4662
+g22
+F4448.31
+sg23
+F4452.144
+sg24
+(lp4663
+V- <i>Tolik si d\u0159el na detektiva.</i>
+p4664
+aV- <i>Tady, tati. Koukej!</i>
+p4665
+asbag10
+(g18
+g12
+Ntp4666
+Rp4667
+(dp4668
+g22
+F4460.689
+sg23
+F4464.819
+sg24
+(lp4669
+V\u010cau. Líbí se ti tady?
+p4670
+asbag10
+(g18
+g12
+Ntp4671
+Rp4672
+(dp4673
+g22
+F4464.893
+sg23
+F4468.09
+sg24
+(lp4674
+V<i>Jo. Perou se tu prachy.</i>
+p4675
+aV<i>Se\u0161 p\u0159ipravenej?</i>
+p4676
+asbag10
+(g18
+g12
+Ntp4677
+Rp4678
+(dp4679
+g22
+F4469.765
+sg23
+F4472.666
+sg24
+(lp4680
+V<i>Rád bych ti \u0159ekl, abys</i>
+p4681
+aV<i>neud\u011blal n\u011bco co m\u011b po\u0161piní...</i>
+p4682
+asbag10
+(g18
+g12
+Ntp4683
+Rp4684
+(dp4685
+g22
+F4472.734
+sg23
+F4475.328
+sg24
+(lp4686
+Vpak jsem si uv\u011bdomil, \u017ee bys
+p4687
+aVto ud\u011blal, jen abys m\u011b nasral.
+p4688
+asbag10
+(g18
+g12
+Ntp4689
+Rp4690
+(dp4691
+g22
+F4475.404
+sg23
+F4478.896
+sg24
+(lp4692
+V- Správn\u011b, kdybych nutn\u011b nepot\u0159eboval
+p4693
+aVprachy, tak asi jo.
+p4694
+aV- Jasn\u011b, prachy jsou dobrý.
+p4695
+asbag10
+(g18
+g12
+Ntp4696
+Rp4697
+(dp4698
+g22
+F4478.974
+sg23
+F4483.035
+sg24
+(lp4699
+VJe dob\u0159e, \u017ee jsi zpátky, ví\u0161 to?
+p4700
+asbag10
+(g18
+g12
+Ntp4701
+Rp4702
+(dp4703
+g22
+F4483.111
+sg23
+F4485.579
+sg24
+(lp4704
+VJako za starejch \u010das\u016f.
+p4705
+asbag10
+(g18
+g12
+Ntp4706
+Rp4707
+(dp4708
+g22
+F4485.647
+sg23
+F4488.377
+sg24
+(lp4709
+V<i>Kam \u0161li tvý p\u0159átelé?</i>
+p4710
+asbag10
+(g18
+g12
+Ntp4711
+Rp4712
+(dp4713
+g22
+F4490.118
+sg23
+F4493.451
+sg24
+(lp4714
+VTy podrazáckej zkurvysynu!
+p4715
+asbag10
+(g18
+g12
+Ntp4716
+Rp4717
+(dp4718
+g22
+F4499.528
+sg23
+F4502.019
+sg24
+(lp4719
+VOto\u010d ho rychle! Pohyb!
+p4720
+asbag10
+(g18
+g12
+Ntp4721
+Rp4722
+(dp4723
+g22
+F4530.859
+sg23
+F4532.918
+sg24
+(lp4724
+VPodívej!
+p4725
+aVTady to je.
+p4726
+asbag10
+(g18
+g12
+Ntp4727
+Rp4728
+(dp4729
+g22
+F4545.24
+sg23
+F4547.299
+sg24
+(lp4730
+V- Rychle!
+p4731
+aV- \u010cekej na posily!
+p4732
+asbag10
+(g18
+g12
+Ntp4733
+Rp4734
+(dp4735
+g22
+F4569.064
+sg23
+F4572.033
+sg24
+(lp4736
+VKam jde\u0161?
+p4737
+asbag10
+(g18
+g12
+Ntp4738
+Rp4739
+(dp4740
+g22
+F4573.569
+sg23
+F4576.003
+sg24
+(lp4741
+VJe\u0161t\u011b není konec.
+p4742
+asbag10
+(g18
+g12
+Ntp4743
+Rp4744
+(dp4745
+g22
+F4577.606
+sg23
+F4579.597
+sg24
+(lp4746
+VCo to kurva-
+p4747
+asbag10
+(g18
+g12
+Ntp4748
+Rp4749
+(dp4750
+g22
+F4601.196
+sg23
+F4603.357
+sg24
+(lp4751
+VZachránil mi \u017eivot.
+p4752
+asbag10
+(g18
+g12
+Ntp4753
+Rp4754
+(dp4755
+g22
+F4647.776
+sg23
+F4649.767
+sg24
+(lp4756
+VJsi v pohod\u011b?
+p4757
+asbag10
+(g18
+g12
+Ntp4758
+Rp4759
+(dp4760
+g22
+F4652.481
+sg23
+F4654.472
+sg24
+(lp4761
+VJo.
+p4762
+asbag10
+(g18
+g12
+Ntp4763
+Rp4764
+(dp4765
+g22
+F4657.586
+sg23
+F4661.283
+sg24
+(lp4766
+V- Co ruka?
+p4767
+aV- Dobrý.
+p4768
+asbag10
+(g18
+g12
+Ntp4769
+Rp4770
+(dp4771
+g22
+F4661.356
+sg23
+F4664.792
+sg24
+(lp4772
+VTen chlápek byl v utajení
+p4773
+aVposledních osm m\u011bsíc\u016f.
+p4774
+asbag10
+(g18
+g12
+Ntp4775
+Rp4776
+(dp4777
+g22
+F4664.86
+sg23
+F4667.727
+sg24
+(lp4778
+V<i>Jeho \u0161éfové v San Diegu</i>
+p4779
+aV<i>s ním t\u0159i týdny nemluvili.</i>
+p4780
+asbag10
+(g18
+g12
+Ntp4781
+Rp4782
+(dp4783
+g22
+F4667.796
+sg23
+F4669.787
+sg24
+(lp4784
+VNevím, jestli bych
+p4785
+aVto zvládnul.
+p4786
+asbag10
+(g18
+g12
+Ntp4787
+Rp4788
+(dp4789
+g22
+F4669.865
+sg23
+F4671.799
+sg24
+(lp4790
+VMusí\u0161 mít instinkt.
+p4791
+asbag10
+(g18
+g12
+Ntp4792
+Rp4793
+(dp4794
+g22
+F4671.867
+sg23
+F4674.392
+sg24
+(lp4795
+VNa co? Policejní práci?
+p4796
+asbag10
+(g18
+g12
+Ntp4797
+Rp4798
+(dp4799
+g22
+F4674.469
+sg23
+F4676.733
+sg24
+(lp4800
+VNe. Na p\u0159e\u017eití.
+p4801
+asbag10
+(g18
+g12
+Ntp4802
+Rp4803
+(dp4804
+g22
+F4680.108
+sg23
+F4682.77
+sg24
+(lp4805
+VM\u011bli byste být \u0161\u0165astni, pánové.
+p4806
+asbag10
+(g18
+g12
+Ntp4807
+Rp4808
+(dp4809
+g22
+F4682.844
+sg23
+F4684.778
+sg24
+(lp4810
+VJe\u0161t\u011b pár minut vystaveni
+p4811
+aVt\u011bm chemikáliím...
+p4812
+asbag10
+(g18
+g12
+Ntp4813
+Rp4814
+(dp4815
+g22
+F4684.846
+sg23
+F4688.373
+sg24
+(lp4816
+Va do konce \u017eivota
+p4817
+aVbyste se neprobrali.
+p4818
+asbag10
+(g18
+g12
+Ntp4819
+Rp4820
+(dp4821
+g22
+F4688.45
+sg23
+F4692.079
+sg24
+(lp4822
+VMá pam\u011b\u0165-
+p4823
+aVvrátí se mi n\u011bkdy?
+p4824
+asbag10
+(g18
+g12
+Ntp4825
+Rp4826
+(dp4827
+g22
+F4692.154
+sg23
+F4696.75
+sg24
+(lp4828
+VLidské t\u011blo doká\u017ee
+p4829
+aVp\u0159ekonat velké trauma, detektive.
+p4830
+asbag10
+(g18
+g12
+Ntp4831
+Rp4832
+(dp4833
+g22
+F4696.825
+sg23
+F4700.158
+sg24
+(lp4834
+VD\u0159íve \u010di pozd\u011bji
+p4835
+aVse vám pam\u011b\u0165 vrátí.
+p4836
+asbag10
+(g18
+g12
+Ntp4837
+Rp4838
+(dp4839
+g22
+F4700.228
+sg23
+F4702.219
+sg24
+(lp4840
+V<i>O.K.</i>
+p4841
+asbag10
+(g18
+g12
+Ntp4842
+Rp4843
+(dp4844
+g22
+F4706.101
+sg23
+F4708.194
+sg24
+(lp4845
+VKapitáne.
+p4846
+asbag10
+(g18
+g12
+Ntp4847
+Rp4848
+(dp4849
+g22
+F4721.85
+sg23
+F4724.751
+sg24
+(lp4850
+V<i>Nemusí\u0161 to d\u011blat, pokud nechce\u0161.</i>
+p4851
+asbag10
+(g18
+g12
+Ntp4852
+Rp4853
+(dp4854
+g22
+F4724.82
+sg23
+F4730.281
+sg24
+(lp4855
+VNevidím \u017eádnou mo\u017enost, jak bychom
+p4856
+aVmohli být spolu. Co nás zastaví, detektive?
+p4857
+asbag10
+(g18
+g12
+Ntp4858
+Rp4859
+(dp4860
+g22
+F4730.358
+sg23
+F4734.624
+sg24
+(lp4861
+V<i>Oslava v p\u0159edstihu.</i>
+p4862
+aV<i>Mám toti\u017e plán.</i>
+p4863
+asbag10
+(g18
+g12
+Ntp4864
+Rp4865
+(dp4866
+g22
+F4734.696
+sg23
+F4739.156
+sg24
+(lp4867
+VPlán, kterej nás zabezpe\u010dí
+p4868
+aVnav\u017edy, b\u011bhem pár týdn\u016f.
+p4869
+asbag10
+(g18
+g12
+Ntp4870
+Rp4871
+(dp4872
+g22
+F4741.103
+sg23
+F4744.266
+sg24
+(lp4873
+V- \u0158ekl jsi mu to u\u017e?
+p4874
+aV- Co mi m\u011bl \u0159íct?
+p4875
+asbag10
+(g18
+g12
+Ntp4876
+Rp4877
+(dp4878
+g22
+F4744.339
+sg23
+F4748.298
+sg24
+(lp4879
+V<i>Tahle fu\u0161ka má cenu milion\u016f.</i>
+p4880
+aV<i>\u017dádné ru\u010dení na firemní pojistku.</i>
+p4881
+asbag10
+(g18
+g12
+Ntp4882
+Rp4883
+(dp4884
+g22
+F4748.376
+sg23
+F4751.868
+sg24
+(lp4885
+VTo nám zajistí návrat rychle,
+p4886
+aVa\u0165 je cena jakákoliv.
+p4887
+asbag10
+(g18
+g12
+Ntp4888
+Rp4889
+(dp4890
+g22
+F4754.015
+sg23
+F4756.95
+sg24
+(lp4891
+V<i>S p\u0159edman\u017eelskou smlouvou, kterou</i>
+p4892
+aV<i>mám, není jiného východiska.</i>
+p4893
+asbag10
+(g18
+g12
+Ntp4894
+Rp4895
+(dp4896
+g22
+F4757.018
+sg23
+F4759.714
+sg24
+(lp4897
+VChci je v\u0161echny mrtvé a
+p4898
+aVstopu, která povede k McCaineovi.
+p4899
+asbag10
+(g18
+g12
+Ntp4900
+Rp4901
+(dp4902
+g22
+F4759.788
+sg23
+F4762.188
+sg24
+(lp4903
+V- Co kdy\u017e se n\u011bco zvrtne?
+p4904
+aV- Nezvrtne!
+p4905
+asbag10
+(g18
+g12
+Ntp4906
+Rp4907
+(dp4908
+g22
+F4763.558
+sg23
+F4765.549
+sg24
+(lp4909
+VA co kdy\u017e?
+p4910
+asbag10
+(g18
+g12
+Ntp4911
+Rp4912
+(dp4913
+g22
+F4766.795
+sg23
+F4769.696
+sg24
+(lp4914
+VTak ud\u011bláme to,
+p4915
+aVco bude t\u0159eba.
+p4916
+asbag10
+(g18
+g12
+Ntp4917
+Rp4918
+(dp4919
+g22
+F4777.939
+sg23
+F4780.43
+sg24
+(lp4920
+V- <i>Jste v po\u0159ádku?</i>
+p4921
+aV- Jo.
+p4922
+asbag10
+(g18
+g12
+Ntp4923
+Rp4924
+(dp4925
+g22
+F4783.645
+sg23
+F4785.875
+sg24
+(lp4926
+VJe mi fajn.
+p4927
+asbag10
+(g18
+g12
+Ntp4928
+Rp4929
+(dp4930
+g22
+F4798.56
+sg23
+F4800.528
+sg24
+(lp4931
+VKapitáne!
+p4932
+asbag10
+(g18
+g12
+Ntp4933
+Rp4934
+(dp4935
+g22
+F4804.332
+sg23
+F4807.199
+sg24
+(lp4936
+VMyslím, \u017ee hledáte tohle.
+p4937
+asbag10
+(g18
+g12
+Ntp4938
+Rp4939
+(dp4940
+g22
+F4814.943
+sg23
+F4817.878
+sg24
+(lp4941
+V<i>Cht\u011bl bych t\u011b s n\u011bkým seznámit.</i>
+p4942
+asbag10
+(g18
+g12
+Ntp4943
+Rp4944
+(dp4945
+g22
+F4835.063
+sg23
+F4837.224
+sg24
+(lp4946
+VMohu vás po\u017eádat o cigaretu?
+p4947
+asbag10
+(g18
+g12
+Ntp4948
+Rp4949
+(dp4950
+g22
+F4837.299
+sg23
+F4839.529
+sg24
+(lp4951
+VNekou\u0159ím.
+p4952
+asbag10
+(g18
+g12
+Ntp4953
+Rp4954
+(dp4955
+g22
+F4855.05
+sg23
+F4857.814
+sg24
+(lp4956
+VVy byste mi nelhal, \u017ee ne?
+p4957
+asbag10
+(g18
+g12
+Ntp4958
+Rp4959
+(dp4960
+g22
+F4859.821
+sg23
+F4861.755
+sg24
+(lp4961
+VA kdybych lhal?
+p4962
+asbag10
+(g18
+g12
+Ntp4963
+Rp4964
+(dp4965
+g22
+F4878.821
+sg23
+F4880.755
+sg24
+(lp4966
+VZ angli\u010dtiny p\u0159elo\u017eil LUKE SNAKE
+p4967
+asbasbtp4968
+.
