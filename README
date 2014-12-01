@@ -1,6 +1,7 @@
-A set of parsers and exporters for handling with subtitle files in various subtitles.
-All data is imported into unicode, it uses chardet and some guessing table (language
-to encoding) to identify proper encoding of the file.
+A set of parsers and exporters for handling with subtitle files in various
+subtitles. All data is imported into unicode, it uses chardet and some
+guessing table (language to encoding) to identify proper encoding of the
+file.
 
 Currently only SubRip parser is implemented, other parts are yet to come.
 
