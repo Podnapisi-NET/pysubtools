@@ -1,0 +1,18 @@
+A set of parsers and exporters for handling with subtitle files in various subtitles.
+All data is imported into unicode, it uses chardet and some guessing table (language
+to encoding) to identify proper encoding of the file.
+
+Currently only SubRip parser is implemented, other parts are yet to come.
+
+A quick example:
+import pysubtools
+parser = pysubtools.load(open('sub.srt', 'r'), encoding = 'windows-1250')
+sub = pysubtools.Subtitle(parser)
+
+# Fifth unit
+sub[5]
+
+sub[1].start
+sub[1].end
+# And the lines itself (list of unicode)
+sub[1].text
