@@ -1,12 +1,15 @@
 from __future__ import absolute_import
-from .base import BaseParser, EncodingError, NoParserError, ParserError
 
-# Parsers
+from .base import Parser, EncodingError, NoParserError, ParseError
+from . import encodings
+
+# To load all parser
 from . import subrip
 
 __all__ = [
-  'BaseParser',
+  'Parser',
   'EncodingError',
   'NoParserError',
-  'ParserError'
+  'ParseError',
+  'encoding',
 ]

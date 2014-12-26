@@ -13,27 +13,33 @@ class EncodingError(Exception):
 class NoParserError(Exception):
   pass
 
-class ParserError(Exception):
-  def __init__(self, line_number, column, line, error):
+class ParseError(Exception):
+  def __init__(self, line_number, column, line, description):
     self.line_number = line_number
     self.column = column
     self.line = line
-    self.error = error
-    super(ParserError, self).__init__(self.error)
-
-  def mark_error(self):
-    output = self.line
-    output += u'\n' + u' ' * (self.column - 1) + u'^'
-    return output
+    self.description = description
+    super(ParseError, self).__init__(self.description)
 
   def __str__(self):
-    return "Parse error on line {} at column {} error occurred '{}'".format(
+    return str(unicode(self))
+
+  def __unicode__(self):
+    return u"Parse error on line {} at column {} error occurred '{}'".format(
       self.line_number,
       self.column,
-      self.error
+      self.description
     )
 
-class BaseParser(object):
+class ParseWarning(ParseError):
+  def __unicode__(self):
+    return "Parse warning on line {} at column {} warning occurred '{}'".format(
+      self.line_number,
+      self.column,
+      self.description
+    )
+
+class Parser(object):
   """Abstract class for all parsers.
   """
   _subtitle = None
@@ -45,68 +51,81 @@ class BaseParser(object):
     'ISO-8859-2': 'windows-1250'
   }
 
-  def __init__(self, data, encoding, encoding_confidence = None):
-    self._data = data
-    self.encoding = encoding
-    self.encoding_confidence = encoding_confidence
+  def __init__(self):
     self.warnings = []
-    self._warnings_lines = set([])
 
   def parse(self, **kwargs):
     """Does the actual parsing.
     """
     raise NotImplementedError
 
-  def add_warning(self, warning, exclude = True):
-    return functools.partial(self._add_warning, warning = warning, exclude = exclude)
-
-  def _add_warning(self, s, loc, toks, warning, exclude):
-    from pyparsing import lineno, col, line
-
-    # With backtracking, warnings can multiply
-    key = (lineno(loc, s), col(loc, s), warning)
-    if key in self._warnings_lines:
-      return
-
+  def add_warning(self, e):
     self.warnings.append({
-      'line_number': key[0],
-      'col': key[1],
-      'line': line(loc, s),
-      'warning': key[2]
+      'line_number': int(e.line_number),
+      'col': int(e.column),
+      'line': unicode(e.line),
+      'description': unicode(e.description)
     })
-    self._warnings_lines.add(key)
 
-  def is_it(self):
-    """Needs to be reimplemented to quickly check if file seems the proper format.
-    """
+  @staticmethod
+  def _normalize_data(data):
+    if isinstance(data, str):
+      data = io.BytesIO(data)
+    elif isinstance(data, file):
+      data = io.BufferedReader(io.FileIO(data.fileno(), closefd = False), 1024)
+    elif not isinstance(data, (io.BytesIO, io.BufferedReader)):
+      raise TypeError("Needs to be a file object or raw string.")
+    data.seek(0)
+    return data
+
+  @classmethod
+  def can_parse(cls, data):
+    data = cls._normalize_data(data)
+    return cls._can_decode(data)
+
+  @classmethod
+  def _can_parse(cls, data):
+    """Needs to be reimplemented to quickly check if file seems the proper format."""
     raise NotImplementedError
 
   @staticmethod
   def is_proper(data, encoding):
-    for char in BaseParser._invalid_chars:
-      if char in data:
-        raise EncodingError("Could not decode with '{}'".format(encoding))
+    reader = io.TextIOWrapper(data, encoding, newline = '')
+    proper = True
+    reader.seek(0)
+    # Go through data
+    for line in reader:
+      for char in Parser._invalid_chars:
+        if char in line:
+          proper = False
+          break
+    reader.detach()
+    data.seek(0)
+    return proper
+
+  def _parse(self):
+    """
+    Parses the file, it returns a list of units in specified format. Needs to be
+    implemented by the parser. It can also be a generator (yield)
+    """
+    raise NotImplementedError
 
   @staticmethod
-  def load(data, format = None, encoding = None, **kwargs):
-    """Parses data in raw string.
-    Any additional parameter is passed to the importer.
+  def detect_encoding(data, encoding = None):
+    data = Parser._normalize_data(data)
+    # Read first 5 kiB of subtitle file for chardet
+    test_data = data.read(5 * 1024)
+    data.seek(0)
 
-    Parameters:
-      format - Specify format to use, if set to None it will try all of them.
-      encoding - Specify which encoding to use, defaults to autodetect (None)
-    """
     encoding_confidence = None
     tried_encodings = []
-    if type(data) is not str:
-      raise TypeError("Data needs to be a 'str', not '{}'".format(type(data)))
 
     # Check for BOM
     has_bom = False
-    if data.startswith(codecs.BOM_UTF8):
+    if test_data.startswith(codecs.BOM_UTF8):
       encoding = 'utf-8-sig'
       has_bom = True
-    elif data.startswith(codecs.BOM_UTF16):
+    elif test_data.startswith(codecs.BOM_UTF16):
       encoding = 'utf16'
       has_bom = True
 
@@ -114,51 +133,64 @@ class BaseParser(object):
     if not has_bom and encoding and not isinstance(encoding, list):
       encoding = [encoding]
 
-    # Select proper encoding from a list of encodings
-    if isinstance(encoding, list):
-      encodings = encoding
-      encoding = None
-      for enc in encodings:
-        try:
-          tried_encodings.append(enc)
-          tmp = data.decode(enc)
-          BaseParser.is_proper(tmp, enc)
-          data = tmp
-          encoding = enc
-          break
-        except (UnicodeDecodeError, EncodingError):
-          pass
-
     if encoding is None:
       # Autodetect encoding
-      encoding = chardet.detect(data)
+      encoding = chardet.detect(test_data)
       encoding_confidence = encoding['confidence']
       encoding = encoding['encoding']
       tried_encodings.append(encoding)
     if encoding is None:
       raise EncodingError("Could not detect proper encoding", tried_encodings)
 
-    while not isinstance(data, unicode):
-      try:
-        tmp = data.decode(encoding)
-        BaseParser.is_proper(tmp, encoding)
-        data = tmp
-      except EncodingError, e:
-        tried_encodings.append(encoding)
-        encoding = BaseParser._similar_encodings.get(encoding)
-        if not encoding:
-          # We lost :(
-          e.tried_encodings = tried_encodings
-          raise e
-      except UnicodeDecodeError:
-        tried_encodings.append(encoding)
+    while not Parser.is_proper(data, encoding):
+      tried_encodings.append(encoding)
+      encoding = Parser._similar_encodings.get(encoding)
+      if not encoding:
+        # We lost :(
+        e.tried_encodings = tried_encodings
         raise EncodingError("Could not detect proper encoding", tried_encodings)
 
-    for parser in BaseParser.__subclasses__():
-      if format is None or format and format == parser.FORMAT:
-        parser = parser(data, encoding, encoding_confidence)
-        if not parser.is_it():
-          continue
-        parser.parse(**kwargs)
-        return parser
+    return encoding, encoding_confidence
+
+  def parse(self, data = None, encoding = None):
+    """Parses the file and returns the subtitle. Check warnings after the parse."""
+    if data:
+      # We have new data, discard old and set up for new
+      self._data = self._normalize_data(data)
+      self.encoding, self.encoding_confidence = self.detect_encoding(self._data, encoding)
+      self._data.seek(0)
+      # Wrap it
+      self._data = io.TextIOWrapper(self._data, self.encoding, newline = '')
+
+    # Create subtitle
+    from .. import Subtitle, SubtitleUnit
+    sub = Subtitle()
+    for unit in self._parse():
+      start, end = unit['header']['time']
+      sub.add_unit(SubtitleUnit(start, end, unit['lines']))
+    sub.order()
+    return sub
+
+  @staticmethod
+  def from_data(data, encoding = None):
+    """Returns a parser that can parse 'data' in raw string."""
+    data = Parser._normalize_data(data)
+    encoding, encoding_confidence = Parser.detect_encoding(data, encoding)
+    data.seek(0)
+    for parser in Parser.__subclasses__():
+      if not parser.can_parse(data):
+        continue
+      parser = parser()
+      parser._data = io.TextIOWrapper(data, encoding, newline = '')
+      parser.encoding = encoding
+      parser.encoding_confidence = encoding_confidence
+      return parser
+    raise NoParserError("Could not find parser.")
+
+  @staticmethod
+  def from_format(format):
+    """Returns a parser with 'name'."""
+    for parser in Parser.__subclasses__():
+      if parser.FORMAT == format:
+        return parser()
     raise NoParserError("Could not find parser.")

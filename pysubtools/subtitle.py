@@ -1,7 +1,5 @@
 from __future__ import absolute_import
 
-from .parsers import BaseParser
-
 class SubtitleUnit(object):
   """Class for holding time and text data of a subtitle unit.
   """
@@ -106,6 +104,11 @@ class SubtitleUnit(object):
   def __eq__(self, other):
     if not isinstance(other, SubtitleUnit):
       raise TypeError("Can compare only with other SubtitleUnit, provided with '{}'".format(type(other)))
+    if not (self.text == other.text and self.start == other.start and self.end == other.end):
+      print self.text == other.text, self.text, other.text
+      print self.start == other.start, self.start, other.start
+      print self.end == other.end, self.end, other.end
+
     return self.text == other.text and self.start == other.start and self.end == other.end
 
   def __repr__(self):
@@ -116,16 +119,8 @@ class Subtitle(object):
 
   To load a subtitle, use pysubparsers.load.
   """
-  def __init__(self, parser):
-    if not isinstance(parser, BaseParser):
-      raise TypeError("Need parser not '{}'".format(type(parser)))
-
+  def __init__(self):
     self._units = []
-    for unit in parser.parsed:
-      start, end = unit['header']['time']
-      text = unit['text']
-      self.add_unit(SubtitleUnit(start, end, text))
-    self.order()
 
   def add_unit(self, unit, order = True):
     """Adds a new 'unit'.

@@ -8,7 +8,7 @@ setup (
   test_suite = 'tests',
 
   install_requires = ['chardet',
-                      'pyparsing'],
+                      'state-machine'],
 
   # metadata for upload to PyPI
   author = "Gregor Kališnik, Unimatrix",
