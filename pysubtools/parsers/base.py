@@ -157,8 +157,11 @@ class Parser(object):
     if data:
       # We have new data, discard old and set up for new
       self._data = self._normalize_data(data)
-      self.encoding, self.encoding_confidence = self.detect_encoding(self._data, encoding)
-      self._data.seek(0)
+      if encoding is None:
+        self.encoding, self.encoding_confidence = self.detect_encoding(self._data, encoding)
+        self._data.seek(0)
+      else:
+        self.encoding_confidence = None
       # Wrap it
       self._data = io.TextIOWrapper(self._data, self.encoding, newline = '')
 
@@ -175,8 +178,12 @@ class Parser(object):
   def from_data(data, encoding = None):
     """Returns a parser that can parse 'data' in raw string."""
     data = Parser._normalize_data(data)
-    encoding, encoding_confidence = Parser.detect_encoding(data, encoding)
-    data.seek(0)
+    if encoding is None:
+      encoding, encoding_confidence = Parser.detect_encoding(data, encoding)
+      data.seek(0)
+    else:
+      encoding_confidence = None
+
     for parser in Parser.__subclasses__():
       if not parser.can_parse(data):
         continue
