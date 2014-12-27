@@ -110,11 +110,12 @@ class SubRipStateMachine(object):
       self.current_line = str(self.temp['sequence'] + 1)
       raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Sequence number out of sync")
 
-  @after('found_sequence')
-  def create_unit(self):
     if self.current_state == self.unit_text:
       # We need to remove last empty line
       del self.temp['lines'][-1]
+
+  @after('found_sequence')
+  def create_unit(self):
     self._parsed = self.temp
     self.temp = {
       'sequence': int(self.current_line.strip()),
