@@ -206,7 +206,8 @@ class SubRipParser(Parser):
   def _can_parse(cls, data):
     # Go through first few lines
     can = False
-    for line in data[:10]:
+    for i in range(0, 10):
+      line = data.readline()
       can = bool(cls.FORMAT_RE.search(line))
       if can:
         break
