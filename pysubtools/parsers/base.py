@@ -81,7 +81,7 @@ class Parser(object):
   @classmethod
   def can_parse(cls, data):
     data = cls._normalize_data(data)
-    return cls._can_decode(data)
+    return cls._can_parse(data)
 
   @classmethod
   def _can_parse(cls, data):
