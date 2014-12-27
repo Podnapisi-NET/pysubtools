@@ -104,10 +104,6 @@ class SubtitleUnit(object):
   def __eq__(self, other):
     if not isinstance(other, SubtitleUnit):
       raise TypeError("Can compare only with other SubtitleUnit, provided with '{}'".format(type(other)))
-    if not (self.text == other.text and self.start == other.start and self.end == other.end):
-      print self.text == other.text, self.text, other.text
-      print self.start == other.start, self.start, other.start
-      print self.end == other.end, self.end, other.end
 
     return self.text == other.text and self.start == other.start and self.end == other.end
 
