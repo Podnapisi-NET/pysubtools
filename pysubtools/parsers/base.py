@@ -72,7 +72,7 @@ class Parser(object):
     if isinstance(data, str):
       data = io.BytesIO(data)
     elif isinstance(data, file):
-      data = io.BufferedReader(io.FileIO(data.fileno(), closefd = False), 1024)
+      data = io.BufferedReader(io.FileIO(data.fileno(), closefd = False))
     elif not isinstance(data, (io.BytesIO, io.BufferedReader)):
       raise TypeError("Needs to be a file object or raw string.")
     data.seek(0)
