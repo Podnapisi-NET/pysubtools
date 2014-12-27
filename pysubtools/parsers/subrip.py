@@ -26,7 +26,7 @@ class SubRipStateMachine(object):
 
   # Regular expressions
   # Components
-  _time = re.compile(r'(?:\d{2}:){2}\d{2},\d{3}')
+  _time = re.compile(r'(?:\d{1,2}:){2}\d{1,2},\d{1,3}')
 
   # Parts of unit
   _sequence = re.compile(r'^\s*\d+\s*$')
@@ -146,8 +146,13 @@ class SubRipStateMachine(object):
   @after('found_header')
   def parse_time(self):
     start, end = self.current_line.split('-->')
-    start = self._time.match(start.strip()).group(0).split(':')
-    end = self._time.match(end.strip()).group(0).split(':')
+    start = self._time.match(start.strip())
+    end = self._time.match(end.strip())
+
+    if not start or not end:
+      raise ParseError(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Could not parse timings.")
+
+    start, end = start.group(0).split(':'), end.group(0).split(':')
 
     convert = lambda x: int(x[0]) * 3600 + int(x[1]) * 60 + float(x[2].replace(',', '.'))
     self.temp['header']['time'] = (convert(start), convert(end))
