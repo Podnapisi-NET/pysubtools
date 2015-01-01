@@ -90,18 +90,21 @@ class Parser(object):
 
   @staticmethod
   def is_proper(data, encoding):
-    reader = io.TextIOWrapper(data, encoding, newline = '')
-    proper = True
-    reader.seek(0)
-    # Go through data
-    for line in reader:
-      for char in Parser._invalid_chars:
-        if char in line:
-          proper = False
-          break
-    reader.detach()
-    data.seek(0)
-    return proper
+    try:
+      data.seek(0)
+      reader = io.TextIOWrapper(data, encoding, newline = '')
+      proper = True
+      # Go through data
+      for line in reader:
+        for char in Parser._invalid_chars:
+          if char in line:
+            proper = False
+            break
+      reader.detach()
+      data.seek(0)
+      return proper
+    except UnicodeDecodeError:
+      return False
 
   def _parse(self):
     """
@@ -113,14 +116,13 @@ class Parser(object):
   @staticmethod
   def detect_encoding(data, encoding = None):
     data = Parser._normalize_data(data)
-    # Read first 5 kiB of subtitle file for chardet
-    test_data = data.read(5 * 1024)
-    data.seek(0)
 
     encoding_confidence = None
     tried_encodings = []
 
     # Check for BOM
+    test_data = data.read(8)
+    data.seek(0)
     has_bom = False
     if test_data.startswith(codecs.BOM_UTF8):
       encoding = 'utf-8-sig'
@@ -129,13 +131,10 @@ class Parser(object):
       encoding = 'utf16'
       has_bom = True
 
-    # Test if the encoding is really proper
-    if not has_bom and encoding and not isinstance(encoding, list):
-      encoding = [encoding]
-
     if encoding is None:
       # Autodetect encoding
-      encoding = chardet.detect(test_data)
+      encoding = chardet.detect(data.read())
+      data.seek(0)
       encoding_confidence = encoding['confidence']
       encoding = encoding['encoding']
       tried_encodings.append(encoding)
@@ -147,7 +146,6 @@ class Parser(object):
       encoding = Parser._similar_encodings.get(encoding)
       if not encoding:
         # We lost :(
-        e.tried_encodings = tried_encodings
         raise EncodingError("Could not detect proper encoding", tried_encodings)
 
     return encoding, encoding_confidence
