@@ -86,13 +86,13 @@ class Parser(object):
     """
     raise NotImplementedError
 
-  def parse(self, data = None, encoding = None):
+  def parse(self, data = None, encoding = None, language = None):
     """Parses the file and returns the subtitle. Check warnings after the parse."""
     if data:
       # We have new data, discard old and set up for new
       self._data = self._normalize_data(data)
       if encoding is None:
-        self.encoding, self.encoding_confidence = encodings.detect(self._data, encoding)
+        self.encoding, self.encoding_confidence = encodings.detect(self._data, language = language)
         self._data.seek(0)
       else:
         self.encoding_confidence = None
@@ -109,11 +109,11 @@ class Parser(object):
     return sub
 
   @staticmethod
-  def from_data(data, encoding = None):
+  def from_data(data, encoding = None, language = None):
     """Returns a parser that can parse 'data' in raw string."""
     data = Parser._normalize_data(data)
     if encoding is None:
-      encoding, encoding_confidence = encodings.detect(data, encoding)
+      encoding, encoding_confidence = encodings.detect(data, encoding, language)
       data.seek(0)
     else:
       encoding_confidence = None
