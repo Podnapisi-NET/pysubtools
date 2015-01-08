@@ -1,8 +1,21 @@
 from __future__ import absolute_import
 
+import io
+import codecs
+import chardet
+
+invalid_chars = u'\x9e'
+similar_encodings = {
+  'ISO-8859-2': 'windows-1250'
+}
+
+class EncodingError(Exception):
+  def __init__(self, message, tried_encodings = [], *args, **kwargs):
+    self.tried_encodings = tried_encodings
+    super(EncodingError, self).__init__(message, *args, **kwargs)
+
 def guess_from_lang(lang):
-  """Specify ISO-639-1 language to guess probable encoding.
-  """
+  """Specify ISO-639-1 language to guess probable encoding."""
   guesses = {
     'sl': ['windows-1250'],
     'ko': ['euckr'],
@@ -24,3 +37,69 @@ def guess_from_lang(lang):
 
   # Revert to chardet
   return guesses.get(lang, [])
+
+def can_decode(data, encoding):
+  try:
+    data.seek(0)
+    reader = io.TextIOWrapper(data, encoding, newline = '')
+    proper = True
+    # Go through data
+    for line in reader:
+      for char in invalid_chars:
+        if char in line:
+          proper = False
+          break
+    reader.detach()
+    data.seek(0)
+    return proper
+  except UnicodeDecodeError:
+    return False
+
+def detect(data, encoding = None, language = None):
+  """
+  Tries to detect encoding for specified 'data'. Will return a tuple (encoding, confidence).
+  Confidence may be None, which means the encoding was detected from provided language or
+  encoding hint, or it stumbled over a unicode BOM.
+  """
+  if not isinstance(data, (io.BytesIO, io.BufferedReader)):
+    raise TypeError("Needs to be a buffered file object.")
+
+  tried_encodings = []
+
+  # Check for BOM (100% confidence)
+  test_data = data.read(8)
+  data.seek(0)
+  if test_data.startswith(codecs.BOM_UTF8):
+    return 'utf-8-sig', None
+  elif test_data.startswith(codecs.BOM_UTF16):
+    return 'utf16', None
+
+  encodings = []
+  if language:
+    encodings += guess_from_lang(language)
+  if encoding:
+    encodings.append(encoding)
+
+  # Autodetect encoding
+  detected = chardet.detect(data.read())
+  data.seek(0)
+  encodings.append((detected['encoding'], detected['confidence']))
+  if not encodings:
+    raise EncodingError("Have no cloue where to start.")
+
+  while True:
+    encoding = encodings.pop()
+    if can_decode(data, encoding if not isinstance(encoding, tuple) else encoding[0]):
+      # We've found it!
+      break
+    tried_encodings.append(encoding if not isinstance(encoding, tuple) else encoding[0])
+
+    encodings.insert(0, similar_encodings.get(encoding if not isinstance(encoding, tuple) else encoding[0]))
+    if not encodings:
+      # We lost :(
+      raise EncodingError("Could not detect proper encoding", tried_encodings)
+
+  if not isinstance(encoding, tuple):
+    encoding = (encoding, None)
+
+  return encoding

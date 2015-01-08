@@ -1,6 +1,6 @@
 from __future__ import absolute_import
 
-from .base import Parser, EncodingError, NoParserError, ParseError
+from .base import Parser, NoParserError, ParseError
 from . import encodings
 
 # To load all parser

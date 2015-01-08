@@ -1,0 +1,3229 @@
+---
+units:
+- end: !human_time '00:02:06.000'
+  lines:
+  - Sambata 6 ianuarie 1917
+  start: !human_time '00:02:03.600'
+- end: !human_time '00:02:10.200'
+  lines:
+  - Cinci condamnati la moarte erau
+  - dusi catre sectorul Bullavent,
+  start: !human_time '00:02:06.000'
+- end: !human_time '00:02:12.100'
+  lines:
+  - langa raul Somme.
+  start: !human_time '00:02:10.300'
+- end: !human_time '00:02:42.300'
+  lines:
+  - Primul
+  start: !human_time '00:02:40.900'
+- end: !human_time '00:02:48.000'
+  lines:
+  - fusese candva un aventurier vesel.
+  - Avea la gat numarul 2124
+  start: !human_time '00:02:43.100'
+- end: !human_time '00:02:50.400'
+  lines:
+  - Venea dintr-un centru de
+  - recrutare din La Seine
+  start: !human_time '00:02:48.200'
+- end: !human_time '00:02:52.200'
+  lines:
+  - Purta ghetele
+  start: !human_time '00:02:50.600'
+- end: !human_time '00:02:54.400'
+  lines:
+  - luate de la un soldat german.
+  start: !human_time '00:02:52.300'
+- end: !human_time '00:02:55.700'
+  lines:
+  - Inainte sa fie soldatul numarul 2124,
+  start: !human_time '00:02:54.400'
+- end: !human_time '00:02:57.800'
+  lines:
+  - se numea Bastoche ,
+  start: !human_time '00:02:55.700'
+- end: !human_time '00:03:00.000'
+  lines:
+  - avea o relatie cu o roscata frumoasa
+  - ''
+  start: !human_time '00:02:57.800'
+- end: !human_time '00:03:02.100'
+  lines:
+  - !!python/str "numita V\xE9ronique Passavant."
+  start: !human_time '00:03:00.000'
+- end: !human_time '00:03:08.200'
+  lines:
+  - !!python/str "Era tamplar la \x93La Bastille\x94"
+  start: !human_time '00:03:05.600'
+- end: !human_time '00:03:18.300'
+  lines:
+  - Uneori, intre doua mobile,
+  start: !human_time '00:03:16.200'
+- end: !human_time '00:03:23.200'
+  lines:
+  - bea cate o bere in barul lui
+  - Petit Louis de pe strada "Mana de aur"
+  start: !human_time '00:03:18.300'
+- end: !human_time '00:03:28.600'
+  lines:
+  - A luat ghetele de la un inamic care,
+  - oricum, nu mai avea nevoie de ele
+  start: !human_time '00:03:25.600'
+- end: !human_time '00:03:30.000'
+  lines:
+  - si le-a inlocuit,
+  start: !human_time '00:03:28.700'
+- end: !human_time '00:03:35.300'
+  lines:
+  - cu ghetele lui cele vechi, pe jumatate
+  - infundate cu paie si hartie de ziar
+  start: !human_time '00:03:30.200'
+- end: !human_time '00:03:50.600'
+  lines:
+  - Tribunalul militar l-a acuzat
+  - de mutilare voluntara.
+  start: !human_time '00:03:47.000'
+- end: !human_time '00:03:56.400'
+  lines:
+  - Au gasit urme de praf de pusca in rana
+  - de la mana, si l-au condamnat la moarte.
+  start: !human_time '00:03:50.700'
+- end: !human_time '00:04:20.800'
+  lines:
+  - Urmatorul era numarul 4077, de la un alt centru
+  - de recrutare de pe Sena
+  start: !human_time '00:04:16.000'
+- end: !human_time '00:04:26.500'
+  lines:
+  - Era sudor la caile ferate din Manille
+  start: !human_time '00:04:22.600'
+- end: !human_time '00:04:30.600'
+  lines:
+  - !!python/str "Se numea Francis Gani\u010Dre,"
+  - iar el isi spunea Six Soux .
+  start: !human_time '00:04:26.600'
+- end: !human_time '00:04:34.200'
+  lines:
+  - Stia ca existau oamenii saraci care
+  - faceau tunuri - care aveau sa-i omoare mai apoi,
+  start: !human_time '00:04:31.400'
+- end: !human_time '00:04:36.701'
+  lines:
+  - si erau bogatii - care le vindeau .
+  - ''
+  - ''
+  start: !human_time '00:04:34.401'
+- end: !human_time '00:04:42.300'
+  lines:
+  - A incercat sa le explice cum stau
+  - lucrurile atunci cand era in tabara.
+  start: !human_time '00:04:37.700'
+- end: !human_time '00:04:47.300'
+  lines:
+  - In plus, mai era si vinul ieftin-prietenul nefericirii lor-
+  - care facea ca privirea soldatilor sa para si mai tampa.
+  start: !human_time '00:04:42.600'
+- end: !human_time '00:04:50.700'
+  lines:
+  - incat nici nu stia cum sa-i faca sa inteleaga.
+  start: !human_time '00:04:47.400'
+- end: !human_time '00:05:36.500'
+  lines:
+  - 1818, era - fara indoiala,
+  - cel mai curajos soldat.
+  start: !human_time '00:05:33.300'
+- end: !human_time '00:05:38.200'
+  lines:
+  - Dar si cel mai redutabil.
+  start: !human_time '00:05:36.600'
+- end: !human_time '00:05:41.600'
+  lines:
+  - L-a omorat pe ofiterul companiei sale.
+  start: !human_time '00:05:38.700'
+- end: !human_time '00:05:45.800'
+  lines:
+  - Unul care dadea si-n morti.
+  start: !human_time '00:05:43.500'
+- end: !human_time '00:06:10.799'
+  lines:
+  - Voi... ridicati-va!
+  - Tu, pleaca de aici !
+  start: !human_time '00:05:52.799'
+- end: !human_time '00:06:14.900'
+  lines:
+  - Nimeni n-a aflat.
+  start: !human_time '00:06:12.600'
+- end: !human_time '00:06:42.500'
+  lines:
+  - !!python/str "Beno\xEEt Notre Dame era fermier in Dordo\u0144a."
+  start: !human_time '00:06:39.900'
+- end: !human_time '00:06:47.101'
+  lines:
+  - Au aparut la ferma lui intr-o
+  - dimineata de august
+  start: !human_time '00:06:43.301'
+- end: !human_time '00:06:49.500'
+  lines:
+  - si l-au obligat sa urce intr-un tren.
+  start: !human_time '00:06:47.300'
+- end: !human_time '00:07:03.100'
+  lines:
+  - Aveti grija la fir!
+  start: !human_time '00:07:02.100'
+- end: !human_time '00:07:09.500'
+  lines:
+  - Firul telefonului era singurul
+  - care-i lega de lumea celor vii.
+  start: !human_time '00:07:04.900'
+- end: !human_time '00:07:12.900'
+  lines:
+  - Prin firul acela ar fi putut sa vina gratierea
+  - de la presedintele Raymond Poincare.
+  start: !human_time '00:07:09.600'
+- end: !human_time '00:07:16.400'
+  lines:
+  - Chiar daca era singurul care
+  - nu isi pierduse inca toata speranta
+  start: !human_time '00:07:13.100'
+- end: !human_time '00:07:20.401'
+  lines:
+  - !!python/str "\Nnumarul 7328 fusese recrutat din Corsica."
+  start: !human_time '00:07:16.501'
+- end: !human_time '00:07:23.100'
+  lines:
+  - Angel Bassignano
+  start: !human_time '00:07:20.500'
+- end: !human_time '00:07:29.200'
+  lines:
+  - Dupa cum credeau cei ce-l cunosteau,
+  - numele nu i s-a potrivit niciodata
+  start: !human_time '00:07:24.100'
+- end: !human_time '00:07:33.800'
+  lines:
+  - !!python/str "\x93Ingerul\x94"
+  - era mincinos, sarlatan, laudaros
+  start: !human_time '00:07:29.200'
+- end: !human_time '00:07:35.900'
+  lines:
+  - turnator si agitator.
+  start: !human_time '00:07:34.000'
+- end: !human_time '00:07:51.700'
+  lines:
+  - Inainte era proxenetul curvei Lombardi
+  start: !human_time '00:07:48.900'
+- end: !human_time '00:07:56.200'
+  lines:
+  - Din cauza ei a primit cinci ani de puscarie,
+  - pentru un motiv de onoare... sau de dragoste
+  start: !human_time '00:07:51.900'
+- end: !human_time '00:07:58.500'
+  lines:
+  - in functie de cine asculta povestea -
+  - femeie sau barbat.
+  start: !human_time '00:07:56.201'
+- end: !human_time '00:08:02.500'
+  lines:
+  - de fapt...a fost o reglare de
+  - conturi intre proxenetii orasului .
+  start: !human_time '00:07:58.501'
+- end: !human_time '00:08:11.900'
+  lines:
+  - In vara lui 1916 recrutau delicventi
+  start: !human_time '00:08:08.900'
+- end: !human_time '00:08:15.100'
+  lines:
+  - ca sa poata inlocui pierderile pricinuite
+  - de masacrele din iadul de la Verdun.
+  start: !human_time '00:08:12.000'
+- end: !human_time '00:08:18.101'
+  lines:
+  - Li se dadea sansa sa aleaga.
+  start: !human_time '00:08:15.301'
+- end: !human_time '00:08:23.500'
+  lines:
+  - Ce-i cu mormintele astea ?
+  start: !human_time '00:08:21.600'
+- end: !human_time '00:08:28.300'
+  lines:
+  - Adevarul este ca...de fapt....
+  - maine pornesc la atac...
+  start: !human_time '00:08:23.600'
+- end: !human_time '00:08:32.600'
+  lines:
+  - noi lucram... in avans.
+  start: !human_time '00:08:28.800'
+- end: !human_time '00:08:53.100'
+  lines:
+  - Aveti grija la firul de telefon.
+  start: !human_time '00:08:50.800'
+- end: !human_time '00:09:04.700'
+  lines:
+  - Al cincilea era un pustan care
+  - tinea de regimentul 17
+  start: !human_time '00:09:01.100'
+- end: !human_time '00:09:08.700'
+  lines:
+  - Mai avea 5 luni si implinea 20 de ani.
+  start: !human_time '00:09:05.700'
+- end: !human_time '00:09:13.500'
+  lines:
+  - Acum se temea de orice
+  start: !human_time '00:09:11.300'
+- end: !human_time '00:09:15.599'
+  lines:
+  - de tunurile franceze care
+  - trageau atat de des,
+  start: !human_time '00:09:13.501'
+- end: !human_time '00:09:21.400'
+  lines:
+  - de vantul care imprastia
+  - gazul de asalt, de executii.
+  start: !human_time '00:09:15.600'
+- end: !human_time '00:09:23.400'
+  lines:
+  - Inainte de razboi nu era asa,
+  - ba din contra....
+  start: !human_time '00:09:21.600'
+- end: !human_time '00:09:29.100'
+  lines:
+  - Indraznea sa infrunte furtuna ca sa mentina
+  - farul aprins, atunci cand venea fluxul .
+  start: !human_time '00:09:23.500'
+- end: !human_time '00:09:31.600'
+  lines:
+  - La atac!
+  start: !human_time '00:09:29.300'
+- end: !human_time '00:10:02.800'
+  lines:
+  - Apoi un detaliu a schimbat totul.
+  start: !human_time '00:09:59.000'
+- end: !human_time '00:11:06.100'
+  lines:
+  - Baiete, sa te intorci la logodnica ta,
+  - iti vor da drumul.
+  start: !human_time '00:11:02.800'
+- end: !human_time '00:11:08.000'
+  lines:
+  - Da, iti dau drumul direct la curtea martiala.
+  start: !human_time '00:11:06.200'
+- end: !human_time '00:11:11.100'
+  lines:
+  - Dle sergent, inchideti ochii pentru o clipa,
+  - a suferit destul, nu credeti?
+  start: !human_time '00:11:08.100'
+- end: !human_time '00:11:13.000'
+  lines:
+  - Se poate sa-l condamne la moarte
+  start: !human_time '00:11:11.200'
+- end: !human_time '00:11:14.001'
+  lines:
+  - Fiti intelegator macar o data.
+  start: !human_time '00:11:13.001'
+- end: !human_time '00:11:15.000'
+  lines:
+  - Taca-ti gura !
+  start: !human_time '00:11:14.002'
+- end: !human_time '00:11:16.001'
+  lines:
+  - Haideti, dle sergent, aveti mila
+  start: !human_time '00:11:15.001'
+- end: !human_time '00:11:17.500'
+  lines:
+  - Taci dracului din gura !
+  start: !human_time '00:11:16.002'
+- end: !human_time '00:11:26.600'
+  lines:
+  - Cand Mathilde si Manech au
+  - facut dragoste prima data
+  start: !human_time '00:11:23.500'
+- end: !human_time '00:11:29.700'
+  lines:
+  - Manech a adormit cu mana
+  - stanga pe sanul ei.
+  start: !human_time '00:11:26.700'
+- end: !human_time '00:11:53.200'
+  lines:
+  - De fiecare data cand il durea
+  - rana din mana
+  start: !human_time '00:11:51.700'
+- end: !human_time '00:11:56.301'
+  lines:
+  - isi inchipuia ca sunt bataile
+  - inimii Matildei in palma sa
+  start: !human_time '00:11:53.301'
+- end: !human_time '00:11:59.900'
+  lines:
+  - Si fiecare bataie ii apropia.
+  start: !human_time '00:11:56.500'
+- end: !human_time '00:12:06.500'
+  lines:
+  - Daca Manech ar fi murit,
+  - Mathilde ar fi stiut.
+  start: !human_time '00:12:03.300'
+- end: !human_time '00:12:09.800'
+  lines:
+  - Dupa ce a primit vestea mortii lui,
+  start: !human_time '00:12:07.600'
+- end: !human_time '00:12:14.500'
+  lines:
+  - ea s-a agatat cu incapatanare
+  - de intuitia ei, ca de un fir subtire .
+  start: !human_time '00:12:09.900'
+- end: !human_time '00:12:17.800'
+  lines:
+  - Niciodata n-a renuntat sa spere.
+  start: !human_time '00:12:14.500'
+- end: !human_time '00:12:20.900'
+  lines:
+  - Mathilde are o natura optimista
+  start: !human_time '00:12:18.800'
+- end: !human_time '00:12:23.901'
+  lines:
+  - stie ca daca vreodata firul
+  - n-o va lega de iubitul ei
+  start: !human_time '00:12:20.901'
+- end: !human_time '00:12:29.200'
+  lines:
+  - ea tot o sa se tina de el.
+  start: !human_time '00:12:24.100'
+- end: !human_time '00:12:38.300'
+  lines:
+  - In iunie 1920 Mathilde a primit
+  - o scrisoare de la o calugarita
+  start: !human_time '00:12:33.800'
+- end: !human_time '00:12:42.300'
+  lines:
+  - !!python/str "Un pacient de la \x93Le Reim\x94"
+  - dorea sa o vada.
+  start: !human_time '00:12:38.400'
+- end: !human_time '00:12:47.600'
+  lines:
+  - Fusese cu Manech in ianuarie 1917,
+  - langa raul Somme
+  start: !human_time '00:12:42.900'
+- end: !human_time '00:12:57.400'
+  lines:
+  - In august 1912,
+  - eram un barbat chipes, nu-i asa ?
+  start: !human_time '00:12:53.200'
+- end: !human_time '00:13:01.900'
+  lines:
+  - Aveam masina cu cutie de
+  - viteze directa.
+  start: !human_time '00:12:57.401'
+- end: !human_time '00:13:05.100'
+  lines:
+  - Spuneti-mi, va rog,
+  - ce s-a intamplat cu Manech ?
+  start: !human_time '00:13:02.200'
+- end: !human_time '00:13:09.000'
+  lines:
+  - In ianuarie 1917 mi s-a ordonat
+  start: !human_time '00:13:05.200'
+- end: !human_time '00:13:12.000'
+  lines:
+  - sa escortez cinci soldati condamnati
+  - catre front.
+  start: !human_time '00:13:09.001'
+- end: !human_time '00:13:15.800'
+  lines:
+  - El era unul dintre ei ?
+  start: !human_time '00:13:14.000'
+- end: !human_time '00:13:17.300'
+  lines:
+  - Da.
+  start: !human_time '00:13:15.900'
+- end: !human_time '00:13:21.800'
+  lines:
+  - Trebuia sa ii duc in prima linie
+  start: !human_time '00:13:18.100'
+- end: !human_time '00:13:33.100'
+  lines:
+  - Jandarmii ne-au asteptat cu prizonierii
+  - langa un mic cimitir in ruine .
+  start: !human_time '00:13:27.300'
+- end: !human_time '00:13:43.900'
+  lines:
+  - Ce dracu faci cu ghetele alea nemtesti ?
+  start: !human_time '00:13:40.900'
+- end: !human_time '00:13:44.901'
+  lines:
+  - Astept.
+  start: !human_time '00:13:44.001'
+- end: !human_time '00:13:50.600'
+  lines:
+  - Ce? Gratierea lui Poincare?
+  - Visezi, baiete
+  start: !human_time '00:13:45.900'
+- end: !human_time '00:13:53.800'
+  lines:
+  - A semnat-o deja.
+  - Nu ar trebui sa fiu condamnat.
+  start: !human_time '00:13:50.601'
+- end: !human_time '00:13:56.299'
+  lines:
+  - Eu sunt Corsican, stii? Nu francez !
+  start: !human_time '00:13:53.801'
+- end: !human_time '00:14:07.800'
+  lines:
+  - Lasa-l. Isi pierde mintile.
+  start: !human_time '00:14:04.300'
+- end: !human_time '00:14:10.101'
+  lines:
+  - Mai bine pentru el.
+  start: !human_time '00:14:07.901'
+- end: !human_time '00:14:18.300'
+  lines:
+  - Ai terminat, locotenente ?
+  start: !human_time '00:14:16.200'
+- end: !human_time '00:14:25.100'
+  lines:
+  - Soldatul ala, nu mai are mult,
+  - frigul o sa-l omoare.
+  start: !human_time '00:14:20.300'
+- end: !human_time '00:14:33.700'
+  lines:
+  - Si Manech...
+  - a suferit mult din cauza ranii de la mana ?
+  start: !human_time '00:14:28.800'
+- end: !human_time '00:14:38.100'
+  lines:
+  - I-au amputat doua degete,
+  - dar in rest era bine.
+  start: !human_time '00:14:33.800'
+- end: !human_time '00:14:44.100'
+  lines:
+  - I-au dus intr-un transeu care
+  - se numea "bingo crepuscular"
+  start: !human_time '00:14:39.800'
+- end: !human_time '00:15:04.800'
+  lines:
+  - La dracu!
+  - Nu puteai sa scapi de astia pe drum?
+  start: !human_time '00:14:59.800'
+- end: !human_time '00:15:07.300'
+  lines:
+  - Sa scapi de ei cu suturi in fund ?
+  start: !human_time '00:15:05.000'
+- end: !human_time '00:15:10.400'
+  lines:
+  - Ordinele mele au fost sa va predau
+  - cinci condamnati, restul nu ma priveste .
+  start: !human_time '00:15:07.700'
+- end: !human_time '00:15:13.400'
+  lines:
+  - Iti spun eu care sunt ordinele mele.
+  - Baietii astia vor fi aruncati in transee
+  start: !human_time '00:15:10.600'
+- end: !human_time '00:15:18.000'
+  lines:
+  - si o sa-i lasam sa moara ca niste
+  - caini intre cele doua linii de foc .
+  start: !human_time '00:15:13.500'
+- end: !human_time '00:15:22.500'
+  lines:
+  - Astea sunt ordinele mele de rahat.
+  - Sergent!
+  start: !human_time '00:15:18.000'
+- end: !human_time '00:15:27.600'
+  lines:
+  - Sergent, avem o intelegere
+  - strategica cu nemtii.
+  start: !human_time '00:15:24.100'
+- end: !human_time '00:15:33.801'
+  lines:
+  - Sectorul asta e putin cam adormit, un sut in fund
+  - si ne explodeaza rahatul in fata.
+  start: !human_time '00:15:27.901'
+- end: !human_time '00:15:37.600'
+  lines:
+  - Baiatul cu supa, avem noroc ca e calduta.
+  start: !human_time '00:15:34.200'
+- end: !human_time '00:15:42.500'
+  lines:
+  - Vita si cartofi .
+  start: !human_time '00:15:39.600'
+- end: !human_time '00:15:49.200'
+  lines:
+  - Ia spune-mi, ce ti-ai dori acum ?
+  start: !human_time '00:15:46.500'
+- end: !human_time '00:15:53.001'
+  lines:
+  - O ciocolata fierbinte si
+  - o felie de paine cu miere.
+  - ''
+  - ''
+  start: !human_time '00:15:50.001'
+- end: !human_time '00:15:55.700'
+  lines:
+  - Chiar daca e nevoie sa-mi omor parintii,
+  - o sa fac rost pentru tine.
+  start: !human_time '00:15:53.200'
+- end: !human_time '00:15:58.901'
+  lines:
+  - Imi permiteti, dle locotenent ?
+  start: !human_time '00:15:56.701'
+- end: !human_time '00:16:02.900'
+  lines:
+  - Nut e speria, este orfan ,
+  - dar o sa-ti aduca ce vrei.
+  start: !human_time '00:15:59.700'
+- end: !human_time '00:16:05.201'
+  lines:
+  - El este sef la bucataria de campanie
+  start: !human_time '00:16:03.001'
+- end: !human_time '00:16:11.900'
+  lines:
+  - 15 minute mai tarziu, a aparut cu toate.
+  start: !human_time '00:16:08.800'
+- end: !human_time '00:16:15.500'
+  lines:
+  - Paine cu sare, miere si...
+  start: !human_time '00:16:11.901'
+- end: !human_time '00:16:19.900'
+  lines:
+  - Cacao din Nigeria.
+  start: !human_time '00:16:16.500'
+- end: !human_time '00:16:25.900'
+  lines:
+  - Fericire.
+  start: !human_time '00:16:23.900'
+- end: !human_time '00:16:28.301'
+  lines:
+  - Baiete, ai cui sa-i scrii ?
+  start: !human_time '00:16:26.001'
+- end: !human_time '00:16:30.000'
+  lines:
+  - Ai o prietena?
+  start: !human_time '00:16:28.600'
+- end: !human_time '00:16:32.000'
+  lines:
+  - Mathilde
+  start: !human_time '00:16:30.001'
+- end: !human_time '00:16:34.600'
+  lines:
+  - Pe prietena lui o cheama Mathilde.
+  start: !human_time '00:16:33.000'
+- end: !human_time '00:16:39.700'
+  lines:
+  - Mathilde
+  start: !human_time '00:16:37.600'
+- end: !human_time '00:16:43.400'
+  lines:
+  - Am senzatia ca inima ei bate
+  - in mana mea in codul Morse.
+  start: !human_time '00:16:40.100'
+- end: !human_time '00:16:48.300'
+  lines:
+  - Urma sa ne casatorim.
+  start: !human_time '00:16:45.300'
+- end: !human_time '00:16:54.500'
+  lines:
+  - Ne-au condamnat si nu mai trebuie
+  - sa asteptam sa se sfarseasca razboiul.
+  start: !human_time '00:16:50.000'
+- end: !human_time '00:16:59.400'
+  lines:
+  - Voi putea sa ma intorc acasa
+  - imediat ce ispasesc pedeapsa .
+  start: !human_time '00:16:55.500'
+- end: !human_time '00:17:12.500'
+  lines:
+  - Poate ca e mai bine sa nu iti spun totul.
+  start: !human_time '00:17:08.400'
+- end: !human_time '00:17:15.600'
+  lines:
+  - Sunt infirma, nu idioata.
+  start: !human_time '00:17:13.200'
+- end: !human_time '00:17:18.500'
+  lines:
+  - Spune-mi ce s-a intamplat.
+  start: !human_time '00:17:15.700'
+- end: !human_time '00:17:21.999'
+  lines:
+  - Am facut o bresa in gardul de sarma
+  start: !human_time '00:17:19.199'
+- end: !human_time '00:17:25.500'
+  lines:
+  - si le-am dat haine groase.
+  start: !human_time '00:17:22.100'
+- end: !human_time '00:17:33.000'
+  lines:
+  - !!python/str "C\xE9lestin Poux i-a dat logodnicului tau una din"
+  - manusile lui rosii, asa ca avea mana protejata .
+  start: !human_time '00:17:28.300'
+- end: !human_time '00:17:36.500'
+  lines:
+  - E departe?
+  start: !human_time '00:17:35.000'
+- end: !human_time '00:17:40.201'
+  lines:
+  - La mai putin de 100 m. Departe pentru
+  - grenade si prea aproape pentru artilerie .
+  start: !human_time '00:17:36.601'
+- end: !human_time '00:17:43.200'
+  lines:
+  - Ca sa nu mai vorbim de gaz.
+  start: !human_time '00:17:40.500'
+- end: !human_time '00:17:45.101'
+  lines:
+  - Crezi ca se vor descurca ?
+  start: !human_time '00:17:43.301'
+- end: !human_time '00:17:48.900'
+  lines:
+  - Daca n-or zbura, au toate sansele sa moara,
+  - fie de foame, fie de frig .
+  start: !human_time '00:17:45.200'
+- end: !human_time '00:17:52.300'
+  lines:
+  - In orice caz nemtii o s-o lase mai moale.
+  start: !human_time '00:17:49.000'
+- end: !human_time '00:18:00.400'
+  lines:
+  - Bastoche tamplarul s-a imbratisat
+  - cu caporalul.
+  start: !human_time '00:17:57.000'
+- end: !human_time '00:18:05.100'
+  lines:
+  - Caporalul Gordes.
+  - Era clar ca se cunosc de dinainte de razboi.
+  start: !human_time '00:18:00.600'
+- end: !human_time '00:18:09.200'
+  lines:
+  - Curand... i-am scos din transee .
+  start: !human_time '00:18:06.100'
+- end: !human_time '00:18:14.300'
+  lines:
+  - '- Nenorocitilor.'
+  - !!python/str "- Rahat\Ntaci."
+  start: !human_time '00:18:12.200'
+- end: !human_time '00:18:25.400'
+  lines:
+  - '- Rahat.'
+  - '- Taci!'
+  start: !human_time '00:18:23.300'
+- end: !human_time '00:18:32.000'
+  lines:
+  - Septembrie, anul 1914,
+  - puteam sa ridic usor 70 de kg
+  start: !human_time '00:18:29.000'
+- end: !human_time '00:18:35.499'
+  lines:
+  - desi nu mai eram
+  - in forma ca pe vremuri.
+  start: !human_time '00:18:32.001'
+- end: !human_time '00:18:40.900'
+  lines:
+  - Dar in dimineata aceea,
+  - in 17 ianuarie Manech mai traia?
+  start: !human_time '00:18:35.500'
+- end: !human_time '00:18:45.900'
+  lines:
+  - la rasaritul soarelui,
+  - Favart le-a strigat numele.
+  start: !human_time '00:18:41.100'
+- end: !human_time '00:18:49.700'
+  lines:
+  - Toti, cu exceptia fermierului
+  - !!python/str "din Dordo\u0144a, au raspuns."
+  start: !human_time '00:18:46.300'
+- end: !human_time '00:18:52.100'
+  lines:
+  - '- Bassignano?'
+  - '- Prezent.'
+  start: !human_time '00:18:49.800'
+- end: !human_time '00:18:54.201'
+  lines:
+  - '- Bouquette?'
+  - '- Ce dracu vrei ?'
+  start: !human_time '00:18:52.201'
+- end: !human_time '00:18:57.900'
+  lines:
+  - '- Langonnet?'
+  - '- da, sunt aici'
+  start: !human_time '00:18:55.200'
+- end: !human_time '00:19:00.901'
+  lines:
+  - Baiete, gaseste o ascunzatoare mai buna.
+  start: !human_time '00:18:58.101'
+- end: !human_time '00:19:06.100'
+  lines:
+  - Notre Dame? Notre Dame?
+  start: !human_time '00:19:01.900'
+- end: !human_time '00:19:10.800'
+  lines:
+  - Nu stiu mai mult.
+  start: !human_time '00:19:08.100'
+- end: !human_time '00:19:14.600'
+  lines:
+  - M-am retras sa-mi scriu raportul, domnisoara.
+  start: !human_time '00:19:11.500'
+- end: !human_time '00:19:23.000'
+  lines:
+  - In sfarsit, englezii au venit
+  - sa ne inlocuiasca, acum noi plecam.
+  start: !human_time '00:19:19.300'
+- end: !human_time '00:19:25.001'
+  lines:
+  - !!python/str "Si cei din \x93bingo\N\x94?"
+  start: !human_time '00:19:23.001'
+- end: !human_time '00:19:26.200'
+  lines:
+  - Ce-i asta?
+  start: !human_time '00:19:25.100'
+- end: !human_time '00:19:29.000'
+  lines:
+  - Lista condamnatilor semnata
+  - de capitanul Favourier
+  start: !human_time '00:19:26.201'
+- end: !human_time '00:19:32.201'
+  lines:
+  - '- S-o las aici ?'
+  - '- Nu, da-mi-o mie.'
+  start: !human_time '00:19:29.201'
+- end: !human_time '00:19:45.000'
+  lines:
+  - Nu sta aici ca un idiot,
+  - ce mai astepti?
+  start: !human_time '00:19:42.200'
+- end: !human_time '00:19:48.000'
+  lines:
+  - Maine dimineata la prima ora
+  - esti avansat sergent si pleci la Bosbos.
+  start: !human_time '00:19:45.001'
+- end: !human_time '00:19:52.400'
+  lines:
+  - Chiar si asa, comandante,
+  - misiunea asta imi sta in gat.
+  start: !human_time '00:19:48.300'
+- end: !human_time '00:19:57.100'
+  lines:
+  - Bine, vezi ca exista niste
+  - bomboane balsamice pentru gat.
+  start: !human_time '00:19:52.600'
+- end: !human_time '00:19:59.400'
+  lines:
+  - Bomboanele de la Bosbos. Am terminat.
+  start: !human_time '00:19:57.200'
+- end: !human_time '00:20:03.000'
+  lines:
+  - Cateva luni mai tarziu
+  - am fost ranit pe Somme.
+  start: !human_time '00:19:59.600'
+- end: !human_time '00:20:06.900'
+  lines:
+  - M-am nimerit in aceeasi
+  - ambulanta cu Chardolot
+  start: !human_time '00:20:03.200'
+- end: !human_time '00:20:10.000'
+  lines:
+  - !!python/str "unul din sefii de la \x93bingo crepuscular\x94."
+  start: !human_time '00:20:07.100'
+- end: !human_time '00:20:12.600'
+  lines:
+  - dar mai avea doar cateva zile de trait.
+  start: !human_time '00:20:10.300'
+- end: !human_time '00:20:18.300'
+  lines:
+  - !!python/str "Sunt eu\N Hope..."
+  start: !human_time '00:20:14.900'
+- end: !human_time '00:20:21.700'
+  lines:
+  - !!python/str "Iti amintesti de \x93Bingo crepuscular\x94?"
+  start: !human_time '00:20:19.300'
+- end: !human_time '00:20:24.600'
+  lines:
+  - Scuza-ma, nu te-am recunoscut.
+  start: !human_time '00:20:22.000'
+- end: !human_time '00:20:27.800'
+  lines:
+  - Spune-mi, baiete al nimanui...
+  start: !human_time '00:20:25.500'
+- end: !human_time '00:20:29.700'
+  lines:
+  - '... cum s-a terminat povestea?'
+  start: !human_time '00:20:27.900'
+- end: !human_time '00:20:30.701'
+  lines:
+  - Tu cum crezi?
+  start: !human_time '00:20:29.701'
+- end: !human_time '00:20:33.600'
+  lines:
+  - Nimeni nu a scapat ?
+  start: !human_time '00:20:32.100'
+- end: !human_time '00:20:36.200'
+  lines:
+  - Simti vreo remuscare ?
+  start: !human_time '00:20:33.601'
+- end: !human_time '00:20:39.001'
+  lines:
+  - !!python/str "Ar fi trebuit sa ramani cu noi la \x93Bingo\N\x94"
+  start: !human_time '00:20:36.901'
+- end: !human_time '00:20:44.000'
+  lines:
+  - Am vazut majusculele MM scrise si
+  start: !human_time '00:20:40.400'
+- end: !human_time '00:20:46.400'
+  lines:
+  - '... chiloti, un albatros.'
+  start: !human_time '00:20:44.300'
+- end: !human_time '00:20:50.700'
+  lines:
+  - Delirezi. Ai febra.
+  start: !human_time '00:20:47.400'
+- end: !human_time '00:20:55.300'
+  lines:
+  - ''
+  - ''
+  - Am aruncat cinci baieti vii intre
+  - linii si am luat inapoi cinci cadavre.
+  start: !human_time '00:20:51.100'
+- end: !human_time '00:21:00.100'
+  lines:
+  - asa...
+  start: !human_time '00:20:55.400'
+- end: !human_time '00:21:04.500'
+  lines:
+  - mi-am pierdut vederea, sergent, dar imi inchipui
+  - expresia de pe fata ta. Asta ma face fericit.
+  start: !human_time '00:21:00.100'
+- end: !human_time '00:21:08.600'
+  lines:
+  - Chiar a spus ceva despre
+  - majusculele MM si de un albastros?
+  start: !human_time '00:21:05.500'
+- end: !human_time '00:21:12.100'
+  lines:
+  - da... si de chiloti.
+  start: !human_time '00:21:09.900'
+- end: !human_time '00:21:17.500'
+  lines:
+  - Iata domnisoara, toate lucrurile care au
+  - !!python/str "apartinut celor condamnati la \x93bingo crepuscular\x94"
+  start: !human_time '00:21:13.900'
+- end: !human_time '00:21:20.500'
+  lines:
+  - Mi-au spus sa trimit totul familiilor lor.
+  start: !human_time '00:21:17.501'
+- end: !human_time '00:21:23.400'
+  lines:
+  - Sanatatea nu-mi permite sa fac asta.
+  start: !human_time '00:21:20.600'
+- end: !human_time '00:21:29.000'
+  lines:
+  - Aici ai o copie a scrisorii fermierului
+  - !!python/str "Beno\xEEt Notre Dame catre femeia sa."
+  start: !human_time '00:21:25.400'
+- end: !human_time '00:21:31.700'
+  lines:
+  - I-am trimis originalul cand am
+  - !!python/str "plecat de la \x93Bingo\N\x94"
+  start: !human_time '00:21:29.100'
+- end: !human_time '00:21:35.200'
+  lines:
+  - Starea ta este urmare a gazului
+  - din plamani, nu-i asa?
+  start: !human_time '00:21:32.700'
+- end: !human_time '00:21:39.200'
+  lines:
+  - !!python/str "Nu, nu e din asta\Neste din"
+  - cauza gripei spaniole!
+  start: !human_time '00:21:36.000'
+- end: !human_time '00:21:42.800'
+  lines:
+  - Dupa cum vezi, moartea ne ia
+  - prin surprindere.
+  start: !human_time '00:21:39.400'
+- end: !human_time '00:21:51.700'
+  lines:
+  - Mathilde nu trebuie sa fii suparata,
+  - poti sa vorbesti cu mine!
+  start: !human_time '00:21:46.800'
+- end: !human_time '00:21:56.000'
+  lines:
+  - Si daca nu poti sa vorbesti, taci!
+  start: !human_time '00:21:53.500'
+- end: !human_time '00:22:00.000'
+  lines:
+  - Dar uneori incepem sa vorbim
+  - atunci cand incepem sa plangem.
+  start: !human_time '00:21:57.000'
+- end: !human_time '00:22:03.100'
+  lines:
+  - si cand plangem vorbim lucruri
+  - despre care n-am vrea.
+  start: !human_time '00:22:00.400'
+- end: !human_time '00:22:05.900'
+  lines:
+  - intelegi ce vreau sa spun.
+  start: !human_time '00:22:03.300'
+- end: !human_time '00:22:14.734'
+  lines:
+  - Nu trebuie sa mai suport
+  - fata aia de prost.
+  start: !human_time '00:22:11.481'
+- end: !human_time '00:22:45.400'
+  lines:
+  - Petit Louis ii spune lui Vero
+  - ca se va gandi mereu la ea
+  start: !human_time '00:22:40.500'
+- end: !human_time '00:22:51.000'
+  lines:
+  - L-am intalnit pe Biscotte si ne-am impacat.
+  - La revedere, prietene. Bastoche
+  start: !human_time '00:22:45.600'
+- end: !human_time '00:22:58.900'
+  lines:
+  - !!python/str "Beno\xEEt Notre Dame numarul 1818"
+  - N-o sa mai pot scrie o vreme.
+  start: !human_time '00:22:53.000'
+- end: !human_time '00:23:01.900'
+  lines:
+  - Spune-i lui Berney ca o sa platesc
+  - totul pana in martie,
+  start: !human_time '00:22:58.901'
+- end: !human_time '00:23:03.700'
+  lines:
+  - dobanda este prea mare,
+  start: !human_time '00:23:01.901'
+- end: !human_time '00:23:05.800'
+  lines:
+  - Trebuie sa ai grija.
+  start: !human_time '00:23:03.701'
+- end: !human_time '00:23:10.900'
+  lines:
+  - Spune-i lui Bagtistan ca sper
+  - sa nu i se intample nimic rau.
+  start: !human_time '00:23:05.801'
+- end: !human_time '00:23:14.600'
+  lines:
+  - Niciodata nu am intalnit pe cineva
+  - !!python/str "mai de treaba. Te iubesc. Beno\xEEt"
+  start: !human_time '00:23:10.900'
+- end: !human_time '00:23:19.900'
+  lines:
+  - Pentru Tina Lombardi de la
+  - Angel Bassignano.
+  start: !human_time '00:23:16.600'
+- end: !human_time '00:24:04.700'
+  lines:
+  - Daca o sa intre cainele inainte
+  - sa ma cheme la masa, Manech traieste.
+  start: !human_time '00:23:58.900'
+- end: !human_time '00:24:14.600'
+  lines:
+  - Nu mi-e foame.
+  start: !human_time '00:24:12.700'
+- end: !human_time '00:24:22.800'
+  lines:
+  - Masa este gata.
+  - Vino, Mathilde, sa mancam.
+  start: !human_time '00:24:18.600'
+- end: !human_time '00:24:26.100'
+  lines:
+  - Imediat.
+  start: !human_time '00:24:23.800'
+- end: !human_time '00:24:28.799'
+  lines:
+  - Mathilde s-a nascut pe
+  - 1 ianuarie 1900
+  start: !human_time '00:24:26.599'
+- end: !human_time '00:24:31.400'
+  lines:
+  - E foarte usor sa-i afli varsta.
+  start: !human_time '00:24:29.100'
+- end: !human_time '00:24:35.599'
+  lines:
+  - In 1903 parintii ei au murit amandoi
+  - intr-un accident cu autobuzul 44.
+  start: !human_time '00:24:31.599'
+- end: !human_time '00:24:38.900'
+  lines:
+  - De atunci Mathilde repeta mereu
+  start: !human_time '00:24:35.600'
+- end: !human_time '00:24:45.000'
+  lines:
+  - fostii mei parinti...
+  - fostii mei parinti...
+  start: !human_time '00:24:39.000'
+- end: !human_time '00:24:51.600'
+  lines:
+  - Unchiul Sylvain si matusa Benedicte
+  - au avut grija de ea,
+  start: !human_time '00:24:47.500'
+- end: !human_time '00:24:57.900'
+  lines:
+  - multumita asigurarii de viata administrate
+  - !!python/str "de avocatul parintilor ei: Pierre Marie Rouvi\u010Dres."
+  start: !human_time '00:24:52.200'
+- end: !human_time '00:25:01.700'
+  lines:
+  - la cinci ani Mathilde a facut
+  - poliomielita.
+  start: !human_time '00:24:58.100'
+- end: !human_time '00:25:06.500'
+  lines:
+  - A stat cateva luni la pat,
+  - in ciuda cataplasmelor cu mustar,
+  start: !human_time '00:25:01.800'
+- end: !human_time '00:25:08.100'
+  lines:
+  - a hipnozei cu pendulul
+  start: !human_time '00:25:06.700'
+- end: !human_time '00:25:11.900'
+  lines:
+  - si a infuziilor cu trifoi.
+  start: !human_time '00:25:08.200'
+- end: !human_time '00:25:16.900'
+  lines:
+  - Azi Mathilde are 20 de ani,
+  - canta la tuba,
+  start: !human_time '00:25:12.900'
+- end: !human_time '00:25:21.700'
+  lines:
+  - pentru ca este singurul instrument
+  - care scoate sunetul de primejdie.
+  start: !human_time '00:25:17.200'
+- end: !human_time '00:25:25.900'
+  lines:
+  - Cainele trage vanturi de
+  - fiecare data cand doarme.
+  start: !human_time '00:25:22.500'
+- end: !human_time '00:25:28.500'
+  lines:
+  - !!python/str "De fiecare data cand B\xE9n\xE9dicte"
+  - il aude spune...
+  start: !human_time '00:25:26.500'
+- end: !human_time '00:25:31.100'
+  lines:
+  - cainele s-a tradat.
+  start: !human_time '00:25:29.000'
+- end: !human_time '00:25:34.200'
+  lines:
+  - Mathilde are nevoie de masaje
+  - zilnice la picioare.
+  start: !human_time '00:25:31.101'
+- end: !human_time '00:25:38.901'
+  lines:
+  - Georges Cornu campionul englez
+  - la inot o maseaza.
+  start: !human_time '00:25:34.201'
+- end: !human_time '00:25:41.602'
+  lines:
+  - La inceput s-a simtit rusinata.
+  start: !human_time '00:25:39.102'
+- end: !human_time '00:25:43.600'
+  lines:
+  - dar s-a obisnuit.
+  start: !human_time '00:25:41.700'
+- end: !human_time '00:25:47.200'
+  lines:
+  - Cand Mathilde are chef si-l imagineaza
+  - pe Georges Cornu ca ii admira trupul
+  start: !human_time '00:25:43.700'
+- end: !human_time '00:25:48.901'
+  lines:
+  - si ca nu-si putea reprima dorinta.
+  start: !human_time '00:25:47.301'
+- end: !human_time '00:25:50.900'
+  lines:
+  - De fapt, intr-o zi,
+  - 'el a indraznit sa remarce:'
+  start: !human_time '00:25:49.100'
+- end: !human_time '00:25:56.600'
+  lines:
+  - Ai niste curbe foarte frumoase, domnisoara,
+  - si crede-ma, am atins multe femei.
+  start: !human_time '00:25:51.000'
+- end: !human_time '00:26:01.200'
+  lines:
+  - Asa ca de atunci Mathilde n-a
+  - 'stiut daca ar putea sa-l strige:'
+  start: !human_time '00:25:58.600'
+- end: !human_time '00:26:02.601'
+  lines:
+  - Draga George...
+  start: !human_time '00:26:01.301'
+- end: !human_time '00:26:06.100'
+  lines:
+  - Iubitul meu George...
+  start: !human_time '00:26:04.100'
+- end: !human_time '00:26:08.801'
+  lines:
+  - Geogeo
+  start: !human_time '00:26:07.101'
+- end: !human_time '00:26:14.700'
+  lines:
+  - Uneori, inainte sa adoarma se
+  - imagineaza in situatii fierbinti.
+  start: !human_time '00:26:10.000'
+- end: !human_time '00:26:21.500'
+  lines:
+  - Mathilde nu a trebuit sa-si
+  - foloseasca toate resursele imaginatiei
+  start: !human_time '00:26:19.500'
+- end: !human_time '00:26:24.500'
+  lines:
+  - ca sa simta placerea.
+  start: !human_time '00:26:21.501'
+- end: !human_time '00:26:31.900'
+  lines:
+  - dar de cand el a plecat, nu se poate gandi
+  - la logodnicul ei cand cauta placerea.
+  start: !human_time '00:26:26.800'
+- end: !human_time '00:26:33.701'
+  lines:
+  - Ce o sa facem cu el?
+  start: !human_time '00:26:32.001'
+- end: !human_time '00:26:45.600'
+  lines:
+  - Daca as fi in locul tau, as uita totul Mathilde,
+  - ce rost are sa cauti ce nu exista?
+  start: !human_time '00:26:40.900'
+- end: !human_time '00:26:48.700'
+  lines:
+  - Daca ar trai, de ce n-ar da un semn?
+  start: !human_time '00:26:45.700'
+- end: !human_time '00:26:51.101'
+  lines:
+  - Pentru ca este prizonier.
+  start: !human_time '00:26:48.801'
+- end: !human_time '00:26:54.500'
+  lines:
+  - Si o nemtoaica blonda cu tate mari
+  start: !human_time '00:26:51.500'
+- end: !human_time '00:26:56.001'
+  lines:
+  - are grija de el
+  - ''
+  start: !human_time '00:26:54.501'
+- end: !human_time '00:27:00.300'
+  lines:
+  - Un francez sa manance paine sarata,
+  - in fiecare zi, este imposibil
+  start: !human_time '00:26:56.002'
+- end: !human_time '00:27:02.000'
+  lines:
+  - Esti sigura ca nu vrei sa te ajut?
+  start: !human_time '00:27:00.500'
+- end: !human_time '00:27:04.400'
+  lines:
+  - Nu, prefer sa tii picioarele pe pamant.
+  start: !human_time '00:27:02.001'
+- end: !human_time '00:27:06.000'
+  lines:
+  - Ar trebui sa-mi simt
+  - picioarele pentru asta.
+  start: !human_time '00:27:04.401'
+- end: !human_time '00:27:07.001'
+  lines:
+  - Ce-ai spus?
+  start: !human_time '00:27:06.001'
+- end: !human_time '00:27:07.900'
+  lines:
+  - Nimic
+  start: !human_time '00:27:06.900'
+- end: !human_time '00:27:08.901'
+  lines:
+  - Te-am auzit!
+  start: !human_time '00:27:07.901'
+- end: !human_time '00:27:11.401'
+  lines:
+  - Ce ai spus n-are nici un sens.
+  start: !human_time '00:27:09.301'
+- end: !human_time '00:27:15.500'
+  lines:
+  - Manech nu poate fi prizonier
+  - !!python/str "la \x93Bingo\N\x94,"
+  start: !human_time '00:27:13.300'
+- end: !human_time '00:27:17.600'
+  lines:
+  - pentru ca este in zona
+  - liniilor inamice.
+  start: !human_time '00:27:15.501'
+- end: !human_time '00:27:21.900'
+  lines:
+  - In general invingatorii iau prizonieri.
+  start: !human_time '00:27:18.700'
+- end: !human_time '00:27:26.300'
+  lines:
+  - Poate ca s-a ratacit sau s-a ascuns undeva,
+  - ca sa nu mearga la puscarie
+  start: !human_time '00:27:22.200'
+- end: !human_time '00:27:31.400'
+  lines:
+  - Draga Mathilde citesti prea multe romane.
+  - Intoarce-te la realitate.
+  start: !human_time '00:27:27.300'
+- end: !human_time '00:27:34.400'
+  lines:
+  - Esti tanara si frumoasa.
+  - !!python/str "Ai putea sa-ti gasesti usor un sot in ciuda\N."
+  start: !human_time '00:27:31.500'
+- end: !human_time '00:27:41.000'
+  lines:
+  - In toata povestea asta este
+  - ceva ce nu se potriveste.
+  start: !human_time '00:27:38.900'
+- end: !human_time '00:27:42.001'
+  lines:
+  - Trebuie sa-l gasesc pe...
+  start: !human_time '00:27:41.001'
+- end: !human_time '00:27:45.000'
+  lines:
+  - !!python/str "cel de la bucatarie... C\xE9lestin Poux"
+  start: !human_time '00:27:43.200'
+- end: !human_time '00:27:47.100'
+  lines:
+  - Ce vrei, baiete?
+  start: !human_time '00:27:45.800'
+- end: !human_time '00:27:50.700'
+  lines:
+  - sau poate pe prostituata din Corsica,
+  - poate stie mai multe decat mine.
+  start: !human_time '00:27:47.101'
+- end: !human_time '00:27:52.700'
+  lines:
+  - Maine plec la Paris.
+  start: !human_time '00:27:50.701'
+- end: !human_time '00:27:54.500'
+  lines:
+  - Ce? De ce?
+  start: !human_time '00:27:52.701'
+- end: !human_time '00:27:58.600'
+  lines:
+  - Sa caut un supravietuitor de
+  - !!python/str "la \x93Bingo crepuscular\x94."
+  start: !human_time '00:27:54.700'
+- end: !human_time '00:28:16.500'
+  lines:
+  - '... Am arhive pana sus, la tavan,'
+  start: !human_time '00:28:13.600'
+- end: !human_time '00:28:18.500'
+  lines:
+  - !!python/str "n-ai id\xE9e cate cazuri nici nu"
+  - apuca sa vada lumina zilei
+  start: !human_time '00:28:16.501'
+- end: !human_time '00:28:21.299'
+  lines:
+  - !!python/str "daca Germain Pire nu intervenea\N.."
+  start: !human_time '00:28:19.499'
+- end: !human_time '00:28:24.500'
+  lines:
+  - Uita-te la asta.
+  start: !human_time '00:28:22.400'
+- end: !human_time '00:28:29.800'
+  lines:
+  - Un subiect foarte delicat.
+  - In 1917 un tren cu soldati deraiaza
+  start: !human_time '00:28:24.600'
+- end: !human_time '00:28:31.900'
+  lines:
+  - 427 de morti.
+  start: !human_time '00:28:29.900'
+- end: !human_time '00:28:34.000'
+  lines:
+  - multumita investigatiilor
+  - am aflat ca s-a dat ordin de plecare
+  start: !human_time '00:28:32.001'
+- end: !human_time '00:28:38.600'
+  lines:
+  - desi franele nu functionau.
+  start: !human_time '00:28:34.001'
+- end: !human_time '00:28:41.200'
+  lines:
+  - a fost o manevra ascunsa
+  start: !human_time '00:28:38.601'
+- end: !human_time '00:28:42.201'
+  lines:
+  - a guvernului lui Poincare
+  start: !human_time '00:28:41.201'
+- end: !human_time '00:28:45.200'
+  lines:
+  - Singura posibilitate pentru
+  - membrii familiilor sa-i gaseasca
+  start: !human_time '00:28:42.202'
+- end: !human_time '00:28:48.800'
+  lines:
+  - este.. Germain Pire.
+  start: !human_time '00:28:45.201'
+- end: !human_time '00:28:50.500'
+  lines:
+  - Detectivul care afla tot.
+  start: !human_time '00:28:49.200'
+- end: !human_time '00:28:53.799'
+  lines:
+  - O, da, domnisoara. Si l-am gasit
+  start: !human_time '00:28:50.501'
+- end: !human_time '00:28:57.400'
+  lines:
+  - spre rusinea inaltilor militari.
+  start: !human_time '00:28:53.800'
+- end: !human_time '00:29:00.000'
+  lines:
+  - In cimitirul din Craon.
+  start: !human_time '00:28:57.600'
+- end: !human_time '00:29:06.000'
+  lines:
+  - Imediat mi-am facut valiza si am plecat
+  - !!python/str "catre Poux C\xE9lestin si prostituata din Corsica."
+  start: !human_time '00:29:00.001'
+- end: !human_time '00:29:09.200'
+  lines:
+  - Cum ramane cu taxele?
+  start: !human_time '00:29:06.300'
+- end: !human_time '00:29:14.100'
+  lines:
+  - Domnisoara, detectivul care afla
+  - tot stie unde trebuie sa caute.
+  start: !human_time '00:29:09.300'
+- end: !human_time '00:29:19.000'
+  lines:
+  - Pentru tine - 20 de franci pe zi
+  start: !human_time '00:29:14.100'
+- end: !human_time '00:29:21.700'
+  lines:
+  - fara cheltuieli, bineinteles!
+  start: !human_time '00:29:19.200'
+- end: !human_time '00:29:24.300'
+  lines:
+  - Si de ce mi-ai face aceasta favoare?
+  start: !human_time '00:29:21.800'
+- end: !human_time '00:29:27.800'
+  lines:
+  - !!python/str "H\xE9l\u010Dne vino sa saluti"
+  start: !human_time '00:29:24.500'
+- end: !human_time '00:29:31.500'
+  lines:
+  - In legatura cu cheltuielile lui Germain Pire,
+  - nu-ti face probleme. Mananca putin, nu bea
+  start: !human_time '00:29:27.900'
+- end: !human_time '00:29:34.000'
+  lines:
+  - si ii plac gratuitatile.
+  start: !human_time '00:29:31.600'
+- end: !human_time '00:29:41.500'
+  lines:
+  - '- Buna dimineata'
+  - '- Buna dimineata'
+  start: !human_time '00:29:39.600'
+- end: !human_time '00:29:42.901'
+  lines:
+  - Notre Dame de Paris?
+  start: !human_time '00:29:42.000'
+- end: !human_time '00:29:47.800'
+  lines:
+  - Nu Notre Dame de Paris, eu sun din Paris
+  - !!python/str "in legatura cu Notre Dame Beno\xEEt"
+  start: !human_time '00:29:43.000'
+- end: !human_time '00:29:51.900'
+  lines:
+  - !!python/str "Ah ,Beno\xEEt Notre Dame; un fermier"
+  - puternic, cu inima mare.
+  start: !human_time '00:29:47.900'
+- end: !human_time '00:29:56.300'
+  lines:
+  - A murit pentru tara, patria mama
+  - ne-a luat toti oamenii buni.
+  start: !human_time '00:29:52.100'
+- end: !human_time '00:29:59.300'
+  lines:
+  - Femeia lui si micutul Bagtistan
+  - mai locuiesc aici?
+  start: !human_time '00:29:56.500'
+- end: !human_time '00:30:01.101'
+  lines:
+  - Madam Minne nu pot sa aud nimic !
+  start: !human_time '00:29:59.401'
+- end: !human_time '00:30:06.400'
+  lines:
+  - Nu, intr-o zi a vandut tot si
+  - au plecat fara sa spuna unde.
+  start: !human_time '00:30:01.600'
+- end: !human_time '00:30:08.500'
+  lines:
+  - Este un cor ce se aude
+  - in spatele nostru?
+  start: !human_time '00:30:06.900'
+- end: !human_time '00:30:11.900'
+  lines:
+  - Este un cor, intr-adevar, este
+  - un cor bisericesc.
+  start: !human_time '00:30:08.501'
+- end: !human_time '00:30:15.400'
+  lines:
+  - Oricum, nu este o scuza pentru
+  - faptul ca nu te aud bine.
+  start: !human_time '00:30:11.901'
+- end: !human_time '00:30:19.300'
+  lines:
+  - '- Multumesc, parinte. La revedere.'
+  - '- Pentru putin.'
+  start: !human_time '00:30:16.400'
+- end: !human_time '00:30:22.200'
+  lines:
+  - !!python/str "\x93Bingo crepuscular\x94."
+  start: !human_time '00:30:20.400'
+- end: !human_time '00:30:25.000'
+  lines:
+  - Asta nu are nici cap, nici coada.
+  - Este o varza totala.
+  start: !human_time '00:30:22.400'
+- end: !human_time '00:30:28.300'
+  lines:
+  - Am crezut ca vocatia ta era sa
+  - lupti pentru cauze pierdute.
+  start: !human_time '00:30:25.200'
+- end: !human_time '00:30:31.299'
+  lines:
+  - cand aveai 10 ani, obraznicia era gratioasa,
+  - dar la 20 de ani nu mai este.
+  start: !human_time '00:30:28.699'
+- end: !human_time '00:30:33.700'
+  lines:
+  - Chiar ar fi timpul sa ma iei in serios.
+  start: !human_time '00:30:31.400'
+- end: !human_time '00:30:37.800'
+  lines:
+  - Mathilde, Mathilde, umbli dupa o himera
+  start: !human_time '00:30:33.800'
+- end: !human_time '00:30:41.800'
+  lines:
+  - !!python/str "\x93Bingo crespuscular\x94, de ce nu Yupi Tralala ?"
+  start: !human_time '00:30:38.000'
+- end: !human_time '00:30:44.100'
+  lines:
+  - Vreau sa vad documentele militare.
+  start: !human_time '00:30:41.800'
+- end: !human_time '00:30:48.800'
+  lines:
+  - Mathilde sa presupunem ca
+  - ceva ar fi adevarat
+  start: !human_time '00:30:45.700'
+- end: !human_time '00:30:53.600'
+  lines:
+  - si ca unul ar fi supravietuit,
+  - ar fi fost trimis la munca silnica.
+  start: !human_time '00:30:49.000'
+- end: !human_time '00:30:57.300'
+  lines:
+  - Cercetarile tale i-ar face mult rau.
+  - ''
+  - ''
+  start: !human_time '00:30:53.900'
+- end: !human_time '00:31:01.300'
+  lines:
+  - Fii intelegatoare, ei mi-au incredintat
+  - mie sa am grija de interesele tale...
+  start: !human_time '00:30:57.900'
+- end: !human_time '00:31:02.000'
+  lines:
+  - '... parintii tai'
+  start: !human_time '00:31:01.301'
+- end: !human_time '00:31:03.001'
+  lines:
+  - fostii tai parinti
+  start: !human_time '00:31:02.001'
+- end: !human_time '00:31:08.300'
+  lines:
+  - Intr-adevar, fericirea mea era
+  - unul din interesele lor.
+  start: !human_time '00:31:03.600'
+- end: !human_time '00:31:16.500'
+  lines:
+  - La revedere, si multumesc.
+  start: !human_time '00:31:11.100'
+- end: !human_time '00:31:23.000'
+  lines:
+  - Draga Mathilde, nu fii asa
+  - ''
+  start: !human_time '00:31:19.400'
+- end: !human_time '00:31:29.700'
+  lines:
+  - Ma gandesc la viitorul tau, ma doare sa vad
+  - ca iti merge mai rau, in ciuda masajelor.
+  start: !human_time '00:31:23.300'
+- end: !human_time '00:31:34.700'
+  lines:
+  - Bine, bine, o sa vad ce pot sa fac.
+  start: !human_time '00:31:30.000'
+- end: !human_time '00:31:50.900'
+  lines:
+  - Nu pot sa fac asta la Lourdes.
+  start: !human_time '00:31:48.700'
+- end: !human_time '00:32:19.600'
+  lines:
+  - Buna dimineata, doamna,o caut pe
+  - Tina Lombardi o stiu de cand era copil...
+  start: !human_time '00:32:15.200'
+- end: !human_time '00:32:29.900'
+  lines:
+  - Scuze, doamnelor, eu sunt unchiul
+  - Tinei Lombardi. Si as vrea sa...
+  start: !human_time '00:32:24.500'
+- end: !human_time '00:32:41.700'
+  lines:
+  - va rog, eu reprezint interesele
+  - familiei Lombardi pe continent,
+  start: !human_time '00:32:36.900'
+- end: !human_time '00:32:47.200'
+  lines:
+  - si o caut pe Tina, este vorba
+  - despre o mica mostenire...
+  start: !human_time '00:32:42.100'
+- end: !human_time '00:33:00.000'
+  lines:
+  - Dvs. sunteti barbatul care o
+  - cauta pe Tina Lombardi?
+  start: !human_time '00:32:57.200'
+- end: !human_time '00:33:01.001'
+  lines:
+  - Nu, de fapt, nu
+  start: !human_time '00:33:00.001'
+- end: !human_time '00:33:10.500'
+  lines:
+  - Cunoasteti Corsica?
+  - E un loc foarte frumos
+  start: !human_time '00:33:07.400'
+- end: !human_time '00:33:13.400'
+  lines:
+  - foarte colorat.
+  start: !human_time '00:33:10.500'
+- end: !human_time '00:33:16.500'
+  lines:
+  - Dar Tina a plecat, de cand
+  - afacerile merg prost.
+  start: !human_time '00:33:13.400'
+- end: !human_time '00:33:20.500'
+  lines:
+  - Din fericire, un politai a dat de
+  - ea in imprejurimile Leville-ului.
+  start: !human_time '00:33:16.600'
+- end: !human_time '00:33:25.500'
+  lines:
+  - Valentin Emilia Maria Lombardi,
+  - numita Tina, a fost inregistrata
+  start: !human_time '00:33:22.000'
+- end: !human_time '00:33:32.100'
+  lines:
+  - ''
+  - ''
+  - in 1916 langa regimentul 23 din Marsilia
+  start: !human_time '00:33:25.600'
+- end: !human_time '00:33:35.800'
+  lines:
+  - Dupa aceea a disparut.
+  start: !human_time '00:33:33.100'
+- end: !human_time '00:33:39.800'
+  lines:
+  - I-am pierdut urma la Lyon,
+  - si crede-ma, nu am incetat s-o caut.
+  start: !human_time '00:33:35.900'
+- end: !human_time '00:33:55.000'
+  lines:
+  - A disparut in cartierul Crucii Rosii.
+  start: !human_time '00:33:51.800'
+- end: !human_time '00:33:56.001'
+  lines:
+  - Vrei sa spui ca renunti.
+  start: !human_time '00:33:55.001'
+- end: !human_time '00:33:59.400'
+  lines:
+  - Bineinteles ca nu,
+  - Pire nu renunta niciodata
+  start: !human_time '00:33:56.600'
+- end: !human_time '00:34:03.600'
+  lines:
+  - Pire este incapatanat, nu detectivul
+  - care sa renunte, domnisoara.
+  start: !human_time '00:33:59.500'
+- end: !human_time '00:34:05.101'
+  lines:
+  - Perfect, multumesc.
+  start: !human_time '00:34:03.801'
+- end: !human_time '00:34:46.600'
+  lines:
+  - Nu ochii, nu
+  start: !human_time '00:34:44.500'
+- end: !human_time '00:36:10.000'
+  lines:
+  - Ce bei?
+  start: !human_time '00:36:07.700'
+- end: !human_time '00:36:17.300'
+  lines:
+  - Asta e logodnicul meu,
+  - si acesta este tamplarul
+  start: !human_time '00:36:13.000'
+- end: !human_time '00:36:20.500'
+  lines:
+  - Cred ca-l stii.
+  start: !human_time '00:36:18.000'
+- end: !human_time '00:36:29.200'
+  lines:
+  - Nu. Mi-e sete. Nu vrei un pahar cu vin?
+  start: !human_time '00:36:24.800'
+- end: !human_time '00:36:31.500'
+  lines:
+  - Iti da putere si te bine dispune.
+  start: !human_time '00:36:29.500'
+- end: !human_time '00:36:34.000'
+  lines:
+  - La fel spunea si matusa mea.
+  start: !human_time '00:36:32.400'
+- end: !human_time '00:36:37.000'
+  lines:
+  - !!python/str "A murit in Besan\xE7on"
+  - in 1911 la 99 de ani.
+  start: !human_time '00:36:34.001'
+- end: !human_time '00:36:39.100'
+  lines:
+  - si n-a fost nicodata bolnava.
+  start: !human_time '00:36:37.100'
+- end: !human_time '00:36:43.800'
+  lines:
+  - Noroc.
+  start: !human_time '00:36:42.900'
+- end: !human_time '00:36:44.801'
+  lines:
+  - Bat in lemn.
+  start: !human_time '00:36:43.801'
+- end: !human_time '00:36:49.000'
+  lines:
+  - Razboiul?
+  start: !human_time '00:36:47.500'
+- end: !human_time '00:36:53.900'
+  lines:
+  - Nu, o hiena din Gradina Botanica.
+  start: !human_time '00:36:50.700'
+- end: !human_time '00:37:00.000'
+  lines:
+  - Am vrut sa lovesc, ca sa fac pe desteptul.
+  - Bastoche si prietenul lui au facut-o pentru mine.
+  start: !human_time '00:36:54.600'
+- end: !human_time '00:37:01.500'
+  lines:
+  - Biscotte?
+  start: !human_time '00:37:00.100'
+- end: !human_time '00:37:06.600'
+  lines:
+  - Prietenul lui cel mai bun. S-au intalnit in 1910,
+  - cand au salvat o femeie de la inec la inundatii.
+  start: !human_time '00:37:01.700'
+- end: !human_time '00:37:10.100'
+  lines:
+  - Bastoche era indemantic, dar Biscotte ...
+  start: !human_time '00:37:06.800'
+- end: !human_time '00:37:15.400'
+  lines:
+  - era un artist, un maestru al daltii.
+  start: !human_time '00:37:10.200'
+- end: !human_time '00:37:19.100'
+  lines:
+  - El a facut toate legaturile.
+  start: !human_time '00:37:15.600'
+- end: !human_time '00:37:21.300'
+  lines:
+  - E o minune!
+  start: !human_time '00:37:19.101'
+- end: !human_time '00:37:24.100'
+  lines:
+  - Este pentru tine.
+  start: !human_time '00:37:23.100'
+- end: !human_time '00:37:28.300'
+  lines:
+  - Petit Louis spune-i lui Vero ca ma voi gandi vesnic
+  - la ea si ca e pacat ca nu vrea sa vorbeasca cu mine.
+  start: !human_time '00:37:25.100'
+- end: !human_time '00:37:33.700'
+  lines:
+  - M-am intalnit cu Biscotte si ne-am impacat.
+  - La revedere, prietene.
+  start: !human_time '00:37:29.000'
+- end: !human_time '00:37:34.900'
+  lines:
+  - Bastoche
+  start: !human_time '00:37:33.800'
+- end: !human_time '00:37:41.900'
+  lines:
+  - Daca s-au impacat inseamna ca s-au certat.
+  - Ce motiv sa fi avut?
+  start: !human_time '00:37:37.900'
+- end: !human_time '00:37:43.700'
+  lines:
+  - Un mister.
+  start: !human_time '00:37:42.100'
+- end: !human_time '00:37:46.501'
+  lines:
+  - Dar ca sa spuna adevarul,
+  - au trecut prin multe impreuna.
+  start: !human_time '00:37:43.801'
+- end: !human_time '00:37:54.200'
+  lines:
+  - Si din senin nu mai stiu nimic
+  - unul despre celalalt.
+  start: !human_time '00:37:50.600'
+- end: !human_time '00:37:57.700'
+  lines:
+  - Biscotte a schimbat Compania
+  start: !human_time '00:37:56.000'
+- end: !human_time '00:38:02.000'
+  lines:
+  - Si a murit in bombardamentul
+  - spitalului in care era.
+  start: !human_time '00:37:57.800'
+- end: !human_time '00:38:07.800'
+  lines:
+  - Oricum, imi pare bine ca s-au impacat.
+  start: !human_time '00:38:04.000'
+- end: !human_time '00:38:12.400'
+  lines:
+  - Se pare ca azi n-o sa fie aglomerat, nu?
+  start: !human_time '00:38:09.300'
+- end: !human_time '00:38:14.600'
+  lines:
+  - Dati de baut?
+  start: !human_time '00:38:13.400'
+- end: !human_time '00:38:16.601'
+  lines:
+  - Se pare ca ti-e sete iar, nu?
+  start: !human_time '00:38:14.601'
+- end: !human_time '00:38:22.200'
+  lines:
+  - Poate ca avea el o mana de lemn,
+  - dar avea o inima mare
+  start: !human_time '00:38:19.000'
+- end: !human_time '00:38:24.100'
+  lines:
+  - Sa bem pentru dragoste. Cea adevarata!
+  start: !human_time '00:38:22.201'
+- end: !human_time '00:38:25.701'
+  lines:
+  - !!python/str "Stii cine e V\xE9ro?"
+  start: !human_time '00:38:24.201'
+- end: !human_time '00:38:28.900'
+  lines:
+  - !!python/str "V\xE9ronique Passavant. Prietena lui,"
+  - iubita lui!
+  start: !human_time '00:38:25.900'
+- end: !human_time '00:38:31.100'
+  lines:
+  - Venea mereu aici cu ea.
+  start: !human_time '00:38:29.200'
+- end: !human_time '00:38:33.500'
+  lines:
+  - Ce s-o fi intamplat,
+  - de n-a mai vrut sa mai vorbeasca cu el?
+  start: !human_time '00:38:31.101'
+- end: !human_time '00:38:37.500'
+  lines:
+  - Cred ca a fost infidel,
+  - iar ea nu l-a putut ierta.
+  start: !human_time '00:38:33.600'
+- end: !human_time '00:38:46.600'
+  lines:
+  - Iata, anul 1917.
+  start: !human_time '00:38:43.500'
+- end: !human_time '00:38:49.700'
+  lines:
+  - Despre ce sunt dosarele rosii?
+  start: !human_time '00:38:47.200'
+- end: !human_time '00:38:51.200'
+  lines:
+  - Secrete militare.
+  start: !human_time '00:38:50.100'
+- end: !human_time '00:38:53.399'
+  lines:
+  - Avem nevoie de o aprobare
+  - speciala pentru acces la ele.
+  start: !human_time '00:38:51.201'
+- end: !human_time '00:38:55.000'
+  lines:
+  - Pe aici, va rog.
+  - ''
+  - ''
+  start: !human_time '00:38:53.400'
+- end: !human_time '00:38:56.001'
+  lines:
+  - Du-te sa-l ajuti.
+  start: !human_time '00:38:55.001'
+- end: !human_time '00:38:58.000'
+  lines:
+  - Bine!
+  start: !human_time '00:38:56.300'
+- end: !human_time '00:39:01.301'
+  lines:
+  - Presupunand ca tu esti cel care
+  - da aprobarea...
+  start: !human_time '00:38:58.301'
+- end: !human_time '00:39:04.300'
+  lines:
+  - !!python/str "... atunci, d-le Rouvi\u010Dres,"
+  - mi-ati da-o, nu?
+  start: !human_time '00:39:02.000'
+- end: !human_time '00:39:06.101'
+  lines:
+  - Daca as gandi asa..
+  start: !human_time '00:39:04.401'
+- end: !human_time '00:39:08.100'
+  lines:
+  - n-as fi serios.
+  start: !human_time '00:39:06.200'
+- end: !human_time '00:39:11.201'
+  lines:
+  - Mathilde, Mathilde considera-te
+  - norocoasa, ca esti aici.
+  start: !human_time '00:39:08.201'
+- end: !human_time '00:39:14.200'
+  lines:
+  - De obicei ia luni intregi.
+  start: !human_time '00:39:11.600'
+- end: !human_time '00:39:19.500'
+  lines:
+  - Cum ti-am spus, ei zic ca totu-i in ordine,
+  - dar e un haos total.
+  start: !human_time '00:39:14.400'
+- end: !human_time '00:39:20.501'
+  lines:
+  - Sa vedem... pe raul Somme
+  start: !human_time '00:39:19.501'
+- end: !human_time '00:39:22.900'
+  lines:
+  - Sectorul Bullavent, transeul 108.
+  start: !human_time '00:39:20.502'
+- end: !human_time '00:39:25.500'
+  lines:
+  - Intelegi ce vreau sa spun.
+  - E un haos!
+  start: !human_time '00:39:24.000'
+- end: !human_time '00:39:27.400'
+  lines:
+  - E o dezordine totala.
+  start: !human_time '00:39:25.501'
+- end: !human_time '00:39:31.600'
+  lines:
+  - pot sa te ajut?
+  start: !human_time '00:39:29.800'
+- end: !human_time '00:39:33.700'
+  lines:
+  - ''
+  - ''
+  - Iti multumesc pentru ce-ai facut...
+  start: !human_time '00:39:31.601'
+- end: !human_time '00:39:34.700'
+  lines:
+  - '... cu Generalul, vreau sa spun.'
+  start: !human_time '00:39:33.701'
+- end: !human_time '00:39:35.701'
+  lines:
+  - Bine, e un bun prieten de-al meu.
+  start: !human_time '00:39:34.701'
+- end: !human_time '00:39:40.000'
+  lines:
+  - Cunosc sectorul foarte bine.
+  - Doi preteni de-ai mei au murit acolo.
+  start: !human_time '00:39:36.500'
+- end: !human_time '00:39:42.499'
+  lines:
+  - A fost un razboi foarte sangeros...
+  start: !human_time '00:39:40.001'
+- end: !human_time '00:39:46.900'
+  lines:
+  - Nu cred ca lucrurile se vor imbunatati.
+  - E foarte greu sa gasasti o menajera in ziua de azi.
+  start: !human_time '00:39:42.500'
+- end: !human_time '00:39:48.000'
+  lines:
+  - Pare o minciuna.
+  start: !human_time '00:39:47.000'
+- end: !human_time '00:39:51.900'
+  lines:
+  - As vrea sa stiu ce s-a intamplat
+  - in acel transeu.
+  start: !human_time '00:39:48.001'
+- end: !human_time '00:39:57.300'
+  lines:
+  - '... 104, transeul 105, 107, lipseste 106'
+  start: !human_time '00:39:52.000'
+- end: !human_time '00:39:58.301'
+  lines:
+  - Ai vazut ? Un haos!
+  start: !human_time '00:39:57.301'
+- end: !human_time '00:40:02.100'
+  lines:
+  - Transeul 108... e un haos sangeros!
+  start: !human_time '00:39:59.000'
+- end: !human_time '00:40:07.400'
+  lines:
+  - Bun 108, aici...
+  start: !human_time '00:40:05.200'
+- end: !human_time '00:40:10.199'
+  lines:
+  - '... suntem in octombrie 1916'
+  start: !human_time '00:40:07.599'
+- end: !human_time '00:40:12.600'
+  lines:
+  - !!python/str "si a fost botezat \x93Bingo Crepuscular\x94."
+  start: !human_time '00:40:10.200'
+- end: !human_time '00:40:15.100'
+  lines:
+  - De ce nu Yupi Tralala?
+  start: !human_time '00:40:12.601'
+- end: !human_time '00:40:16.800'
+  lines:
+  - Pe 6 ianuarie, n-avem nimic
+  start: !human_time '00:40:15.101'
+- end: !human_time '00:40:18.900'
+  lines:
+  - Pe 7, o mare batalie cu
+  - pierderi numeroase...
+  start: !human_time '00:40:16.900'
+- end: !human_time '00:40:21.600'
+  lines:
+  - Capitanul Favourier, profesor de istorie,
+  - moare in lupta...
+  start: !human_time '00:40:18.900'
+- end: !human_time '00:40:24.300'
+  lines:
+  - Locotenentul, consilier de asigurari
+  start: !human_time '00:40:21.700'
+- end: !human_time '00:40:27.100'
+  lines:
+  - Caporalul.... bine dar asta este...
+  start: !human_time '00:40:24.301'
+- end: !human_time '00:40:32.400'
+  lines:
+  - este ciudat, o parte din pierderi,
+  - sunt confidentiale.
+  start: !human_time '00:40:28.600'
+- end: !human_time '00:40:35.100'
+  lines:
+  - Confidentiale? Inseamna ca...
+  start: !human_time '00:40:32.700'
+- end: !human_time '00:40:37.000'
+  lines:
+  - Imi pare rau.
+  start: !human_time '00:40:35.500'
+- end: !human_time '00:40:39.100'
+  lines:
+  - Si nu se poate face nimic?
+  start: !human_time '00:40:37.900'
+- end: !human_time '00:40:40.101'
+  lines:
+  - Nu, nu se poate.
+  start: !human_time '00:40:39.101'
+- end: !human_time '00:40:41.102'
+  lines:
+  - Pana aici putem merge.
+  start: !human_time '00:40:40.102'
+- end: !human_time '00:40:42.103'
+  lines:
+  - Imi pare rau.
+  start: !human_time '00:40:41.103'
+- end: !human_time '00:40:46.100'
+  lines:
+  - Nici macar Generalul insusi,
+  - n-ar putea sa faca ceva.
+  start: !human_time '00:40:42.700'
+- end: !human_time '00:41:00.200'
+  lines:
+  - Chiar si asa,
+  - va multumesc pentru timpul acordat.
+  start: !human_time '00:40:56.100'
+- end: !human_time '00:41:07.200'
+  lines:
+  - Imi pare rau, nu-i nimic
+  - interesant pentru tine, dosare obisnuite
+  start: !human_time '00:41:02.200'
+- end: !human_time '00:41:09.200'
+  lines:
+  - Era o singura varianta.
+  start: !human_time '00:41:07.800'
+- end: !human_time '00:41:11.500'
+  lines:
+  - Totul este un haos!
+  start: !human_time '00:41:09.201'
+- end: !human_time '00:41:17.900'
+  lines:
+  - Esti incorigibila Mathilde...!
+  start: !human_time '00:41:15.500'
+- end: !human_time '00:41:20.800'
+  lines:
+  - '... nu doamna, este imposibil'
+  start: !human_time '00:41:17.901'
+- end: !human_time '00:41:23.500'
+  lines:
+  - Nu, fara semnatura Ministrului,
+  - este imposibil.
+  start: !human_time '00:41:20.801'
+- end: !human_time '00:41:26.700'
+  lines:
+  - Sper ca pagina asta nu este
+  - secret militar.
+  start: !human_time '00:41:23.501'
+- end: !human_time '00:41:35.600'
+  lines:
+  - Pierre Marie, daca este important,
+  - vreau sa-mi spui.
+  start: !human_time '00:41:32.800'
+- end: !human_time '00:41:39.800'
+  lines:
+  - Nu, doar o simpla permisie
+  start: !human_time '00:41:35.700'
+- end: !human_time '00:41:42.100'
+  lines:
+  - De la Presedintele Republicii ?
+  start: !human_time '00:41:39.801'
+- end: !human_time '00:41:47.000'
+  lines:
+  - Si ce daca ? Adesea Presedintele le
+  - dadea soldatilor care le meritau.
+  start: !human_time '00:41:42.900'
+- end: !human_time '00:41:49.600'
+  lines:
+  - Asta e.
+  start: !human_time '00:41:48.000'
+- end: !human_time '00:41:50.601'
+  lines:
+  - Va insotesc.
+  start: !human_time '00:41:49.601'
+- end: !human_time '00:42:17.700'
+  lines:
+  - Caporal Bouquette Clevert si
+  - !!python/str "Gani\u010Dre Francis"
+  start: !human_time '00:42:11.900'
+- end: !human_time '00:42:22.700'
+  lines:
+  - !!python/str "Soldadul Notre Dame Beno\xEEt, soldatul"
+  - Bassignano Angel
+  start: !human_time '00:42:17.900'
+- end: !human_time '00:42:25.400'
+  lines:
+  - Soldatul Langonnet Manech
+  start: !human_time '00:42:22.900'
+- end: !human_time '00:42:29.500'
+  lines:
+  - Prin mutilare voluntara,
+  - condamnat la pedeapsa capitala.
+  start: !human_time '00:42:25.500'
+- end: !human_time '00:42:35.400'
+  lines:
+  - Numar pana la sapte,
+  - si daca trenul nu intra in tunel
+  start: !human_time '00:42:31.500'
+- end: !human_time '00:42:39.900'
+  lines:
+  - Sau daca controlorul nu vine,
+  - Manech e mort
+  start: !human_time '00:42:35.500'
+- end: !human_time '00:42:44.500'
+  lines:
+  - Unu, doi, trei,
+  start: !human_time '00:42:40.100'
+- end: !human_time '00:42:48.700'
+  lines:
+  - partu, cinci, sase
+  start: !human_time '00:42:44.600'
+- end: !human_time '00:42:51.900'
+  lines:
+  - Biletele la control, va rog.
+  start: !human_time '00:42:50.500'
+- end: !human_time '00:42:54.601'
+  lines:
+  - Pacaleala de 1 aprilie !
+  start: !human_time '00:42:52.101'
+- end: !human_time '00:43:14.300'
+  lines:
+  - Imediat ce termin de mancat,
+  - vom face anuntul.
+  start: !human_time '00:43:10.500'
+- end: !human_time '00:43:18.800'
+  lines:
+  - Compenseaza informatiile referitoare
+  - !!python/str "la \x93Bingo Crepuscular\x94. E bine asa?"
+  start: !human_time '00:43:14.600'
+- end: !human_time '00:43:21.800'
+  lines:
+  - Da, incearca s-o incurajezi,
+  - o sa aiba pofta de mancare.
+  start: !human_time '00:43:19.000'
+- end: !human_time '00:43:24.100'
+  lines:
+  - O s-o duci la targ?
+  start: !human_time '00:43:21.900'
+- end: !human_time '00:43:25.200'
+  lines:
+  - Pentru ce ?
+  start: !human_time '00:43:24.200'
+- end: !human_time '00:43:27.000'
+  lines:
+  - Ca sa mai uite putin.
+  - ''
+  - ''
+  start: !human_time '00:43:25.201'
+- end: !human_time '00:43:29.500'
+  lines:
+  - Ca sa nu mai zic ca poate isi
+  - gaseste un prieten dragut
+  start: !human_time '00:43:27.100'
+- end: !human_time '00:43:31.500'
+  lines:
+  - Dar pentru ce?
+  start: !human_time '00:43:29.500'
+- end: !human_time '00:43:32.900'
+  lines:
+  - Apoi sa se marite, si sa aiba o familie
+  start: !human_time '00:43:31.501'
+- end: !human_time '00:43:34.500'
+  lines:
+  - Spune-i tu
+  start: !human_time '00:43:32.901'
+- end: !human_time '00:43:36.200'
+  lines:
+  - Da-mi si mie putin vin?
+  start: !human_time '00:43:34.501'
+- end: !human_time '00:43:37.900'
+  lines:
+  - Acum bei vin?
+  start: !human_time '00:43:36.200'
+- end: !human_time '00:43:40.300'
+  lines:
+  - Un pahar cu vin da putere si inveseleste.
+  start: !human_time '00:43:37.901'
+- end: !human_time '00:43:41.900'
+  lines:
+  - De unde ai scos-o pe-asta?
+  start: !human_time '00:43:40.301'
+- end: !human_time '00:43:45.500'
+  lines:
+  - Pe strada Mana de Aur, de la proprietarul
+  - barului, cel cu o mana de lemn.
+  start: !human_time '00:43:42.001'
+- end: !human_time '00:43:48.100'
+  lines:
+  - Matusa lui spunea asta inainte de a muri
+  - !!python/str "la 99 de ani, in Besan\xE7on, in 1911."
+  start: !human_time '00:43:45.501'
+- end: !human_time '00:43:50.100'
+  lines:
+  - Poti sa repeti?
+  start: !human_time '00:43:48.200'
+- end: !human_time '00:43:52.600'
+  lines:
+  - !!python/str "In Besan\xE7on, 1911"
+  start: !human_time '00:43:50.300'
+- end: !human_time '00:43:56.300'
+  lines:
+  - '... o batrana doamna a trait pana la 99 de ani'
+  - si a lasat in urma ei un nepot cu o mana de lemn
+  - ''
+  - ''
+  start: !human_time '00:43:52.900'
+- end: !human_time '00:43:59.500'
+  lines:
+  - el este proprietarul mainii moarte,
+  - cu un bar de pe strada Mana de Aur.
+  start: !human_time '00:43:56.400'
+- end: !human_time '00:44:02.500'
+  lines:
+  - Care obisnuia sa spuna ceea ce
+  - vroia Sylvain sa auda.
+  start: !human_time '00:43:59.600'
+- end: !human_time '00:44:05.300'
+  lines:
+  - Vezi ? Deja s-a suparat!
+  start: !human_time '00:44:02.700'
+- end: !human_time '00:44:41.300'
+  lines:
+  - Uite!
+  start: !human_time '00:44:39.300'
+- end: !human_time '00:44:45.600'
+  lines:
+  - Asta-i un albatros
+  start: !human_time '00:44:43.300'
+- end: !human_time '00:44:49.500'
+  lines:
+  - Stie sa foloseasca vantul dupa dorinta.
+  start: !human_time '00:44:46.500'
+- end: !human_time '00:45:38.900'
+  lines:
+  - o, cararea mea! Cararea mea!
+  start: !human_time '00:45:36.100'
+- end: !human_time '00:45:44.000'
+  lines:
+  - !!python/str "V\xE9ronique Passavant 17 iulie 1920"
+  start: !human_time '00:45:41.600'
+- end: !human_time '00:45:48.300'
+  lines:
+  - Doamna, va scriu din barul lui
+  - Petit Louis care mi-a vorbit despre dvs.
+  start: !human_time '00:45:44.700'
+- end: !human_time '00:45:52.200'
+  lines:
+  - vreau sa va povestesc despre
+  - o intalnire care m-a tulburat.
+  start: !human_time '00:45:48.400'
+- end: !human_time '00:45:56.300'
+  lines:
+  - Veneam spre fabrica lui Bastoche.
+  start: !human_time '00:45:52.600'
+- end: !human_time '00:45:58.000'
+  lines:
+  - As vrea sa vorbesc cu Bastoche
+  start: !human_time '00:45:56.500'
+- end: !human_time '00:46:01.001'
+  lines:
+  - Bastoche a murit...
+  start: !human_time '00:45:59.001'
+- end: !human_time '00:46:04.100'
+  lines:
+  - '... pe raul Somme, nu stiai ?'
+  start: !human_time '00:46:01.100'
+- end: !human_time '00:46:07.300'
+  lines:
+  - Dar eu caut altceva.
+  start: !human_time '00:46:04.300'
+- end: !human_time '00:46:08.301'
+  lines:
+  - Ce ?
+  start: !human_time '00:46:07.301'
+- end: !human_time '00:46:11.100'
+  lines:
+  - In spitalul unde ajut eu,
+  - sunt sifilitici in stadium final.
+  - ''
+  - ''
+  start: !human_time '00:46:07.700'
+- end: !human_time '00:46:14.100'
+  lines:
+  - Unul dintre ei mi-a dat asta pentru tine.
+  start: !human_time '00:46:11.300'
+- end: !human_time '00:46:19.200'
+  lines:
+  - Daca nu vrei sa mori acoperit de
+  - rani purulente, mai bine mi-ai raspunde
+  - ''
+  - Cel cu care se ascunde Bastoche,
+  - cine e?
+  start: !human_time '00:46:16.100'
+- end: !human_time '00:46:26.000'
+  lines:
+  - Spune-mi, spune-mi, cine e?
+  start: !human_time '00:46:22.900'
+- end: !human_time '00:46:29.500'
+  lines:
+  - N-o sa ma las suparat de o domnisorica
+  start: !human_time '00:46:27.000'
+- end: !human_time '00:46:34.900'
+  lines:
+  - Tina Lombardi stie ceva ce noi nu stim.
+  start: !human_time '00:46:31.600'
+- end: !human_time '00:46:38.300'
+  lines:
+  - Ce-ai spus?
+  start: !human_time '00:46:35.200'
+- end: !human_time '00:46:41.100'
+  lines:
+  - Tina Lombardi, stie ceva ce noi nu stim.
+  start: !human_time '00:46:38.400'
+- end: !human_time '00:46:45.500'
+  lines:
+  - Ceva care arata ca Bastoche traieste !
+  start: !human_time '00:46:42.100'
+- end: !human_time '00:46:47.700'
+  lines:
+  - Si ceilalti condamnati.
+  start: !human_time '00:46:45.800'
+- end: !human_time '00:46:50.801'
+  lines:
+  - E clar ca Tina crede ca Angel
+  - al ei traieste.
+  start: !human_time '00:46:47.801'
+- end: !human_time '00:46:56.500'
+  lines:
+  - Dar daca Bastoche s-a salvat,
+  - sunt sigura ca l-a protejat si pe Manech.
+  start: !human_time '00:46:51.300'
+- end: !human_time '00:46:59.000'
+  lines:
+  - Daca a supravietuit, la urma urmei.
+  - Asteapta !
+  start: !human_time '00:46:56.600'
+- end: !human_time '00:47:03.400'
+  lines:
+  - Daca vacile ar zbura,
+  - laptele l-ar lua norii.
+  start: !human_time '00:46:59.400'
+- end: !human_time '00:47:06.900'
+  lines:
+  - Poate, dar si doar pentru motivul asta,
+  - tot as cauta.
+  start: !human_time '00:47:03.600'
+- end: !human_time '00:47:17.200'
+  lines:
+  - Esti idiot ? De fiecare data cand vii tu
+  - trebuie sa repar cararea.
+  start: !human_time '00:47:13.900'
+- end: !human_time '00:47:21.700'
+  lines:
+  - In ce priveste cararea, este o chestiune de stil.
+  - O scrisoare pentru tanara doamna.
+  start: !human_time '00:47:17.400'
+- end: !human_time '00:47:24.399'
+  lines:
+  - Otelaria R. Leprince, Paris 1920 25 iulie.
+  start: !human_time '00:47:21.800'
+- end: !human_time '00:47:27.500'
+  lines:
+  - Domnisoara, profit de ziua de duminica sa
+  - va scriu in legatura cu anuntul dvs.
+  start: !human_time '00:47:24.400'
+- end: !human_time '00:47:30.000'
+  lines:
+  - in care anuntati ca il cautati pe
+  - !!python/str "C\xE9lestin Poux si alti supravietuitori"
+  start: !human_time '00:47:27.501'
+- end: !human_time '00:47:32.000'
+  lines:
+  - !!python/str "de la \x93Bingo crepuscular\x94."
+  start: !human_time '00:47:30.001'
+- end: !human_time '00:47:35.100'
+  lines:
+  - Il cunoasteam foarte bine, era cel mai bun procurator
+  - de lucruri pe care l-am intalnit vreodata.
+  start: !human_time '00:47:32.001'
+- end: !human_time '00:47:38.000'
+  lines:
+  - Datorita lui n-am murit de foame.
+  start: !human_time '00:47:35.101'
+- end: !human_time '00:47:43.800'
+  lines:
+  - Olivier Nergeton,
+  - producator de papusi mecanice
+  start: !human_time '00:47:41.100'
+- end: !human_time '00:47:49.500'
+  lines:
+  - !!python/str "C\xE9lestin Poux era cel ce ne aproviziona,"
+  - teroarea bucatariilor.
+  start: !human_time '00:47:44.300'
+- end: !human_time '00:47:53.000'
+  lines:
+  - Falsifica numarul celor morti
+  - ca sa obtina mai multi bani,
+  start: !human_time '00:47:49.600'
+- end: !human_time '00:47:55.000'
+  lines:
+  - ca sa ne dubleze ratia de mancare
+  start: !human_time '00:47:53.001'
+- end: !human_time '00:47:58.500'
+  lines:
+  - Daca il intalniti vreodata sa ii spuneti
+  - ca veteranii din Fontenau nu-l vor uita niciodata.
+  start: !human_time '00:47:55.001'
+- end: !human_time '00:48:03.400'
+  lines:
+  - Etienne Mauriaux, profesor, 3 August 1920
+  start: !human_time '00:48:00.500'
+- end: !human_time '00:48:10.100'
+  lines:
+  - Ne facea sa radem, ca sa faca rost de
+  - mancare facea pe mascota companiei.
+  start: !human_time '00:48:03.600'
+- end: !human_time '00:48:15.700'
+  lines:
+  - Buna dimineata, doamna,
+  - Germain Pire, detectiv particular.
+  start: !human_time '00:48:12.600'
+- end: !human_time '00:48:18.500'
+  lines:
+  - Oh da, Mathilde ne-a vorbit despre dvs.
+  start: !human_time '00:48:16.500'
+- end: !human_time '00:48:24.800'
+  lines:
+  - Sylvain spune-i Mathildei sa coboare,
+  - detectivul o asteapta.
+  start: !human_time '00:48:19.500'
+- end: !human_time '00:48:36.000'
+  lines:
+  - ''
+  - ''
+  - Marele Pire se misca rapid, poate sa
+  - petreaca si numai o zi intr-un loc.
+  start: !human_time '00:48:25.400'
+- end: !human_time '00:48:40.900'
+  lines:
+  - Vom avea nevoie de noroc si
+  - rabdare ca sa dam de el.
+  start: !human_time '00:48:37.000'
+- end: !human_time '00:48:43.200'
+  lines:
+  - Pacat
+  start: !human_time '00:48:41.500'
+- end: !human_time '00:48:46.301'
+  lines:
+  - Mathilde ti-am adus niste
+  - prajituri sarate.
+  start: !human_time '00:48:43.501'
+- end: !human_time '00:48:49.500'
+  lines:
+  - Sa-mi spui daca-ti plac
+  start: !human_time '00:48:47.200'
+- end: !human_time '00:48:52.001'
+  lines:
+  - TN - ar fi mai bine in bucatarie ?
+  start: !human_time '00:48:49.901'
+- end: !human_time '00:48:54.500'
+  lines:
+  - !!python/str "Multumesc, B\xE9n\xE9dicte."
+  start: !human_time '00:48:52.300'
+- end: !human_time '00:48:57.700'
+  lines:
+  - Bine, va las singuri.
+  start: !human_time '00:48:54.501'
+- end: !human_time '00:49:03.500'
+  lines:
+  - Poux este un mister, iar
+  - Tina Lombardi e alta poveste
+  start: !human_time '00:49:00.100'
+- end: !human_time '00:49:05.700'
+  lines:
+  - Nu face altceva decat
+  - sa ne zapaceasca.
+  start: !human_time '00:49:03.700'
+- end: !human_time '00:49:08.201'
+  lines:
+  - si ca sa fie si mai rau,
+  - isi tot schimba infatisarea.
+  start: !human_time '00:49:05.801'
+- end: !human_time '00:49:11.200'
+  lines:
+  - Si - ceva noutati despre Biscotte ?
+  start: !human_time '00:49:08.500'
+- end: !human_time '00:49:17.000'
+  lines:
+  - Uite, asta e Gordes
+  start: !human_time '00:49:15.000'
+- end: !human_time '00:49:20.201'
+  lines:
+  - este facuta in ziua in care a
+  - luat premiu pentru tamplarie
+  start: !human_time '00:49:17.201'
+- end: !human_time '00:49:23.500'
+  lines:
+  - pentru al saselea an consecutiv.
+  start: !human_time '00:49:20.400'
+- end: !human_time '00:49:25.201'
+  lines:
+  - Dar!
+  start: !human_time '00:49:23.801'
+- end: !human_time '00:49:28.100'
+  lines:
+  - da, domnisoara.
+  start: !human_time '00:49:26.200'
+- end: !human_time '00:49:34.100'
+  lines:
+  - Biscotte, cel mai bun prieten al lui Bastoche,
+  - nu este altcineva decat Benjamin Gordes.
+  start: !human_time '00:49:29.900'
+- end: !human_time '00:49:39.100'
+  lines:
+  - un soldat din compania lor mi-a spus...
+  start: !human_time '00:49:37.100'
+- end: !human_time '00:49:43.000'
+  lines:
+  - '... ca erau foarte apropiati'
+  - inainte sa se certe.
+  start: !human_time '00:49:39.200'
+- end: !human_time '00:49:46.600'
+  lines:
+  - Lasa-ma!
+  start: !human_time '00:49:44.700'
+- end: !human_time '00:49:49.800'
+  lines:
+  - Nu vreau sa ma bat cu tine.
+  start: !human_time '00:49:46.800'
+- end: !human_time '00:49:52.100'
+  lines:
+  - Lasa-ma. Calmeaza-te.
+  start: !human_time '00:49:50.000'
+- end: !human_time '00:50:00.900'
+  lines:
+  - Cine a avut ideea? Eu?
+  start: !human_time '00:49:55.900'
+- end: !human_time '00:50:03.500'
+  lines:
+  - A fost ideea ta.
+  start: !human_time '00:50:01.700'
+- end: !human_time '00:50:05.499'
+  lines:
+  - Era doar pentru o fusta.
+  start: !human_time '00:50:03.699'
+- end: !human_time '00:50:10.200'
+  lines:
+  - !!python/str "V\xE9ronique Passavant s-a despartit"
+  - de Bastoche in iunie 1916
+  start: !human_time '00:50:06.500'
+- end: !human_time '00:50:13.400'
+  lines:
+  - si, imediat dupa asta, Bastoche
+  - s-a batut cu Benjamin Gordes.
+  start: !human_time '00:50:10.400'
+- end: !human_time '00:50:16.600'
+  lines:
+  - Nu trebuie sa fii un geniu
+  - pentru asta, nu-i asa?
+  start: !human_time '00:50:14.200'
+- end: !human_time '00:50:19.101'
+  lines:
+  - Si nu s-au mai vazut pana
+  - !!python/str "la \x93Bingo Crepuscular\x94 ?"
+  start: !human_time '00:50:16.601'
+- end: !human_time '00:50:21.600'
+  lines:
+  - !!python/str "\x93Bingo crepuscular\x94 este locul"
+  - in care se sfarsesc toate.
+  start: !human_time '00:50:19.200'
+- end: !human_time '00:50:23.500'
+  lines:
+  - '... nu, acolo a inceput totul, dle Pire'
+  start: !human_time '00:50:21.601'
+- end: !human_time '00:50:25.600'
+  lines:
+  - Unde incepe totul.
+  start: !human_time '00:50:23.501'
+- end: !human_time '00:50:28.700'
+  lines:
+  - Tina Lombardi e sigura ca
+  - ''
+  - ''
+  - Bastoche inca traieste.
+  start: !human_time '00:50:25.800'
+- end: !human_time '00:50:33.500'
+  lines:
+  - Ce-l deosebea pe Bastoche de ceilalti
+  - !!python/str "din \x93Bingo crepuscular\x94 ?"
+  start: !human_time '00:50:29.300'
+- end: !human_time '00:50:36.800'
+  lines:
+  - Ca era singurul tamplar, nu ?
+  start: !human_time '00:50:34.500'
+- end: !human_time '00:50:40.600'
+  lines:
+  - Asta e lucrul care il deosebea
+  - pe Bastoche de ceilalti...
+  start: !human_time '00:50:37.800'
+- end: !human_time '00:50:42.400'
+  lines:
+  - '... ghetele nemtesti'
+  start: !human_time '00:50:40.800'
+- end: !human_time '00:50:46.500'
+  lines:
+  - Era singurul care purta ghete nemtesti.
+  start: !human_time '00:50:44.200'
+- end: !human_time '00:50:48.700'
+  lines:
+  - Sigur, ai dreptate
+  start: !human_time '00:50:46.600'
+- end: !human_time '00:50:51.000'
+  lines:
+  - Tina Lombardi stia ca barbatul ei
+  start: !human_time '00:50:48.901'
+- end: !human_time '00:50:52.901'
+  lines:
+  - incaltat cu ghete nemtesti s-a salvat.
+  start: !human_time '00:50:51.001'
+- end: !human_time '00:50:55.900'
+  lines:
+  - Era suficient ca cineva l-a
+  - vazut in compania unor prieteni.
+  start: !human_time '00:50:53.700'
+- end: !human_time '00:50:57.901'
+  lines:
+  - M-am intalnit cu doi francezi
+  start: !human_time '00:50:56.001'
+- end: !human_time '00:50:59.500'
+  lines:
+  - unul arata ca un vagabond...
+  start: !human_time '00:50:58.100'
+- end: !human_time '00:51:01.600'
+  lines:
+  - '... unul avea ghete.'
+  - Le avea de la un soldat neamt.
+  start: !human_time '00:50:59.501'
+- end: !human_time '00:51:03.600'
+  lines:
+  - !!python/str "\Nin plus, stim ca Bastoche se impacase."
+  start: !human_time '00:51:01.601'
+- end: !human_time '00:51:10.100'
+  lines:
+  - cu prietenul lui cel mai bun
+  start: !human_time '00:51:05.500'
+- end: !human_time '00:51:14.200'
+  lines:
+  - Exact ! Cine stie ce schimbari
+  - s-or fi petrecut in noaptea aia
+  start: !human_time '00:51:10.400'
+- end: !human_time '00:51:18.300'
+  lines:
+  - daca pot sa decojesc marul
+  - fara sa rup firul,
+  start: !human_time '00:51:15.800'
+- end: !human_time '00:51:22.700'
+  lines:
+  - atunci Gordes a gasit o cale sa
+  - il salveze pe Bastoche, si pe Manech.
+  start: !human_time '00:51:18.500'
+- end: !human_time '00:51:29.500'
+  lines:
+  - In ritmul asta n-o sa pun prajitura
+  - !!python/str "in cuptor nici la anu\x92."
+  start: !human_time '00:51:26.700'
+- end: !human_time '00:51:31.600'
+  lines:
+  - Trebuie sa ma intorc la Paris
+  start: !human_time '00:51:30.000'
+- end: !human_time '00:51:32.601'
+  lines:
+  - Ce?
+  start: !human_time '00:51:31.601'
+- end: !human_time '00:51:34.401'
+  lines:
+  - Trebuie sa ma intorc la Paris.
+  start: !human_time '00:51:32.401'
+- end: !human_time '00:51:38.400'
+  lines:
+  - Iar ? Mostenirea parintilor tai
+  - se va duce rapid.
+  start: !human_time '00:51:34.900'
+- end: !human_time '00:51:40.700'
+  lines:
+  - Fostilor parinti.
+  start: !human_time '00:51:38.500'
+- end: !human_time '00:52:21.400'
+  lines:
+  - Scuze, unde este Elodie Gordes?
+  start: !human_time '00:52:19.500'
+- end: !human_time '00:52:22.401'
+  lines:
+  - E femeia cu morcovi.
+  start: !human_time '00:52:21.401'
+- end: !human_time '00:52:25.101'
+  lines:
+  - Multumesc, dle.
+  start: !human_time '00:52:22.901'
+- end: !human_time '00:52:33.100'
+  lines:
+  - Elodie Gordes?
+  start: !human_time '00:52:31.100'
+- end: !human_time '00:52:33.800'
+  lines:
+  - Poftim
+  start: !human_time '00:52:33.101'
+- end: !human_time '00:52:36.000'
+  lines:
+  - Nu-l cunosc.
+  start: !human_time '00:52:34.500'
+- end: !human_time '00:52:42.800'
+  lines:
+  - Pe care nu-l cunosti ?
+  start: !human_time '00:52:38.700'
+- end: !human_time '00:52:45.200'
+  lines:
+  - sa fie acesta ? Pentru ca Bastoche
+  - si Biscotte erau certati?
+  start: !human_time '00:52:43.000'
+- end: !human_time '00:52:46.700'
+  lines:
+  - Era din cauza dvs ?
+  start: !human_time '00:52:45.300'
+- end: !human_time '00:52:47.701'
+  lines:
+  - Exagerati, nu am nimic sa-ti spun.
+  start: !human_time '00:52:46.701'
+- end: !human_time '00:52:50.500'
+  lines:
+  - Nu, trebuie sa stiu.
+  - -Lasa-ma in pace !
+  start: !human_time '00:52:47.700'
+- end: !human_time '00:52:56.700'
+  lines:
+  - S-au intalnit pentru ultima data
+  - !!python/str "in \x93Bingo crepuscular\x94."
+  start: !human_time '00:52:53.700'
+- end: !human_time '00:53:01.001'
+  lines:
+  - Logodnicul meu era si el acolo
+  - cu Bastoche
+  start: !human_time '00:52:57.101'
+- end: !human_time '00:53:03.300'
+  lines:
+  - in transeul ala blestemat.
+  start: !human_time '00:53:01.300'
+- end: !human_time '00:53:05.300'
+  lines:
+  - Trebuie sa inteleg.
+  start: !human_time '00:53:03.500'
+- end: !human_time '00:53:09.800'
+  lines:
+  - Trebuie sa inteleg.
+  start: !human_time '00:53:05.400'
+- end: !human_time '00:53:19.500'
+  lines:
+  - Nu este ce crezi tu.
+  - Pot sa iti spun totul.
+  start: !human_time '00:53:14.800'
+- end: !human_time '00:53:23.200'
+  lines:
+  - Da-mi adresa ta
+  start: !human_time '00:53:19.700'
+- end: !human_time '00:53:28.200'
+  lines:
+  - O sa scriu totul intr-o scrisoare.
+  - Promit.
+  start: !human_time '00:53:23.500'
+- end: !human_time '00:53:53.101'
+  lines:
+  - Nici o scrisoare pentru mine ?
+  start: !human_time '00:53:51.301'
+- end: !human_time '00:53:55.300'
+  lines:
+  - Ce-ai spus?
+  start: !human_time '00:53:54.300'
+- end: !human_time '00:53:56.301'
+  lines:
+  - N-ai nimic pentru mine?
+  start: !human_time '00:53:55.301'
+- end: !human_time '00:54:02.000'
+  lines:
+  - Doar ziarul... vorbeste de toata lumea
+  - Dar nu despre Elodie Gordes.
+  start: !human_time '00:53:57.200'
+- end: !human_time '00:54:03.700'
+  lines:
+  - foarte amuzant
+  start: !human_time '00:54:02.200'
+- end: !human_time '00:54:04.701'
+  lines:
+  - Gresesti!
+  start: !human_time '00:54:03.701'
+- end: !human_time '00:54:07.000'
+  lines:
+  - Poti sa inveti o gramada de
+  - lucruri interesante.
+  start: !human_time '00:54:04.800'
+- end: !human_time '00:54:11.101'
+  lines:
+  - Presedintele a deschis o investigatie
+  - !!python/str "asupra condamnatilor de la \x93Bingo crepuscular\x94 ?"
+  start: !human_time '00:54:07.201'
+- end: !human_time '00:54:18.000'
+  lines:
+  - Un om a cazut in miezul noptii din tren
+  start: !human_time '00:54:14.000'
+- end: !human_time '00:54:19.001'
+  lines:
+  - in pijamale
+  start: !human_time '00:54:18.001'
+- end: !human_time '00:54:21.100'
+  lines:
+  - Cel putin el dormea in pijamale.
+  start: !human_time '00:54:19.200'
+- end: !human_time '00:54:22.300'
+  lines:
+  - Ce ?
+  start: !human_time '00:54:21.300'
+- end: !human_time '00:54:23.301'
+  lines:
+  - Cel putin el dormea in pijamale.
+  start: !human_time '00:54:22.301'
+- end: !human_time '00:54:43.000'
+  lines:
+  - '... si am recuperate cinci cadavre'
+  start: !human_time '00:54:38.700'
+- end: !human_time '00:54:57.500'
+  lines:
+  - Pe langa ca esti hot,
+  - mai esti si piroman.
+  start: !human_time '00:54:54.000'
+- end: !human_time '00:55:13.300'
+  lines:
+  - '- Te-ai ranit?'
+  - '- Nu'
+  start: !human_time '00:55:10.500'
+- end: !human_time '00:55:14.080'
+  lines:
+  - Sunt bine.
+  start: !human_time '00:55:13.500'
+- end: !human_time '00:55:17.800'
+  lines:
+  - macar o data nu trebuie sa dreg cararea,
+  - !!python/str "ci postasul\N."
+  start: !human_time '00:55:14.081'
+- end: !human_time '00:55:22.800'
+  lines:
+  - Ai scos gardul ! Bun razboi
+  start: !human_time '00:55:20.400'
+- end: !human_time '00:55:25.000'
+  lines:
+  - Nu exista razboi bun
+  start: !human_time '00:55:23.200'
+- end: !human_time '00:55:26.000'
+  lines:
+  - Vrei sa bei ceva?
+  - Da, te rog.
+  start: !human_time '00:55:25.001'
+- end: !human_time '00:55:31.700'
+  lines:
+  - Domnisoara,
+  - te rog sa pastrezi micul meu secret
+  start: !human_time '00:55:29.100'
+- end: !human_time '00:55:34.900'
+  lines:
+  - Cand mi-am cunoscut barbatul,
+  - avea patru copii din prima casnicie
+  start: !human_time '00:55:31.800'
+- end: !human_time '00:55:36.700'
+  lines:
+  - nici unul din copii nu era al lui.
+  start: !human_time '00:55:35.000'
+- end: !human_time '00:55:39.900'
+  lines:
+  - Din generozitate s-a casatorit cu o
+  - tanara vaduva. Bolnava de tuberculoza
+  start: !human_time '00:55:36.801'
+- end: !human_time '00:55:42.100'
+  lines:
+  - o poloneza, cum eram eu.
+  start: !human_time '00:55:39.901'
+- end: !human_time '00:55:44.500'
+  lines:
+  - El a considerat copii ca si ai lui,
+  - inainte sa moara ea.
+  start: !human_time '00:55:42.101'
+- end: !human_time '00:55:46.400'
+  lines:
+  - Eu insami eram mama nemaritata
+  - a unei fetite de 3 ani.
+  start: !human_time '00:55:44.501'
+- end: !human_time '00:55:49.900'
+  lines:
+  - Ne-am trezit cu o familie
+  - cu cinci copii,
+  start: !human_time '00:55:46.500'
+- end: !human_time '00:55:52.900'
+  lines:
+  - ''
+  start: !human_time '00:55:50.000'
+- end: !human_time '00:56:03.200'
+  lines:
+  - Au urmat patru ani fericiti.
+  start: !human_time '00:56:00.500'
+- end: !human_time '00:56:07.000'
+  lines:
+  - Aveam multe planuri. Visam sa vedem
+  - marea macar o data in viata.
+  start: !human_time '00:56:03.400'
+- end: !human_time '00:56:09.300'
+  lines:
+  - Dar atunci a inceput razboiul.
+  start: !human_time '00:56:07.100'
+- end: !human_time '00:56:13.600'
+  lines:
+  - La inceput am crezut ca prietenul lui Bastoche
+  - va avea grija de el pentru ca erau impreuna,
+  start: !human_time '00:56:09.500'
+- end: !human_time '00:56:17.200'
+  lines:
+  - dar cand a venit inapoi prima oara, in
+  - September 1915
+  start: !human_time '00:56:14.000'
+- end: !human_time '00:56:19.200'
+  lines:
+  - dupa campania de la Artois,
+  start: !human_time '00:56:17.300'
+- end: !human_time '00:56:23.600'
+  lines:
+  - am inteles ca nimic nu mai era ca inainte.
+  start: !human_time '00:56:19.300'
+- end: !human_time '00:56:33.700'
+  lines:
+  - asta ne da puterea sa mergem
+  - inainte in viata.
+  start: !human_time '00:56:30.600'
+- end: !human_time '00:56:53.500'
+  lines:
+  - Intr-o zi pe campul de lupta
+  - am vazut camarazii
+  start: !human_time '00:56:49.700'
+- end: !human_time '00:56:56.500'
+  lines:
+  - explodand de parca erau artificii.
+  start: !human_time '00:56:53.501'
+- end: !human_time '00:57:03.000'
+  lines:
+  - O data chiar am folosit trupul
+  - unuia din camarazii morti
+  start: !human_time '00:56:59.500'
+- end: !human_time '00:57:06.700'
+  lines:
+  - ca pe un scut.
+  start: !human_time '00:57:03.200'
+- end: !human_time '00:57:20.100'
+  lines:
+  - Se gandea la ceva de multa vreme,
+  start: !human_time '00:57:16.700'
+- end: !human_time '00:57:23.600'
+  lines:
+  - s-a intamplat in a doua noapte.
+  start: !human_time '00:57:20.600'
+- end: !human_time '00:57:28.400'
+  lines:
+  - Intelegi ca daca dezertez,
+  - ma vor aresta.
+  start: !human_time '00:57:24.700'
+- end: !human_time '00:57:34.300'
+  lines:
+  - Singurul fel in care pot scapa
+  - este sa fac al saselea copil.
+  start: !human_time '00:57:30.000'
+- end: !human_time '00:57:39.500'
+  lines:
+  - Cand are sase copii,
+  - soldatul este trimis acasa.
+  start: !human_time '00:57:35.700'
+- end: !human_time '00:57:43.300'
+  lines:
+  - Dupa cum stia, el nu putea sa faca copii
+  start: !human_time '00:57:40.400'
+- end: !human_time '00:57:45.600'
+  lines:
+  - Nu stiam ce sa cred.
+  start: !human_time '00:57:43.600'
+- end: !human_time '00:57:48.900'
+  lines:
+  - Dar a revenit la subiect.
+  start: !human_time '00:57:45.700'
+- end: !human_time '00:57:55.100'
+  lines:
+  - daca eu iti cer asta,
+  - Elodie, nu este adulter.
+  start: !human_time '00:57:52.000'
+- end: !human_time '00:57:58.501'
+  lines:
+  - Chiar mai putin,
+  - daca este cu Bastoche.
+  start: !human_time '00:57:55.201'
+- end: !human_time '00:57:59.502'
+  lines:
+  - Nu ma atinge!
+  start: !human_time '00:57:58.502'
+- end: !human_time '00:58:05.300'
+  lines:
+  - Nici unul din copii nu este al meu,
+  - ce mai conteaza unul?
+  start: !human_time '00:58:02.700'
+- end: !human_time '00:58:08.500'
+  lines:
+  - Desi ma jeneaza,
+  - va trebui sa astepti 9 luni...
+  start: !human_time '00:58:05.400'
+- end: !human_time '00:58:10.000'
+  lines:
+  - '... pana atunci poate razboiul se termina.'
+  start: !human_time '00:58:08.501'
+- end: !human_time '00:58:11.501'
+  lines:
+  - Nu se termina niciodata!
+  start: !human_time '00:58:10.001'
+- end: !human_time '00:58:12.700'
+  lines:
+  - Acele 9 luni inseamna speranta pentru mine.
+  - ''
+  - ''
+  start: !human_time '00:58:11.502'
+- end: !human_time '00:58:14.800'
+  lines:
+  - Nu ti-e mila deloc?
+  start: !human_time '00:58:12.701'
+- end: !human_time '00:58:17.301'
+  lines:
+  - Apoi intr-o zi am gasit
+  start: !human_time '00:58:15.501'
+- end: !human_time '00:58:20.200'
+  lines:
+  - o scrisoare de la Clevert Bouquette,
+  - alias Bastoche.
+  start: !human_time '00:58:17.400'
+- end: !human_time '00:58:25.200'
+  lines:
+  - Am pus ceva colorat in fereastra
+  - ca sa stie unde sa vina.
+  start: !human_time '00:58:20.400'
+- end: !human_time '00:58:36.900'
+  lines:
+  - '- Buna dimineata.'
+  - '- Buna dimineata.'
+  start: !human_time '00:58:32.700'
+- end: !human_time '00:58:41.700'
+  lines:
+  - '- Am facut cafea, vrei?'
+  - '- da, multumesc.'
+  start: !human_time '00:58:38.900'
+- end: !human_time '00:58:44.900'
+  lines:
+  - '- Vino.'
+  - '- Nu, tu mai intai.'
+  start: !human_time '00:58:41.900'
+- end: !human_time '00:58:53.600'
+  lines:
+  - Multumesc.
+  start: !human_time '00:58:51.900'
+- end: !human_time '00:58:59.400'
+  lines:
+  - '- Vrei zahar?'
+  - '- No, multumesc.'
+  start: !human_time '00:58:56.600'
+- end: !human_time '00:59:08.600'
+  lines:
+  - '- Este din portelan ?'
+  - '- Da, Benjamin a facut-o.'
+  start: !human_time '00:59:05.100'
+- end: !human_time '00:59:19.000'
+  lines:
+  - '- E curios ca nu ne-am intalnit pana acum....'
+  - da, inainte
+  start: !human_time '00:59:15.600'
+- end: !human_time '00:59:23.500'
+  lines:
+  - '- Copii nu sunt acasa?'
+  start: !human_time '00:59:21.000'
+- end: !human_time '00:59:27.400'
+  lines:
+  - Ba da, se joaca in curte.
+  start: !human_time '00:59:23.800'
+- end: !human_time '00:59:34.900'
+  lines:
+  - '- un digestiv la cafea?'
+  - '- da, te rog'
+  start: !human_time '00:59:32.400'
+- end: !human_time '00:59:40.800'
+  lines:
+  - de fapt, nu... pardon ! Nu am nevoie.
+  start: !human_time '00:59:35.300'
+- end: !human_time '00:59:45.200'
+  lines:
+  - Nici mie nu-mi trebuie.
+  start: !human_time '00:59:41.800'
+- end: !human_time '00:59:49.500'
+  lines:
+  - Asculta, Elodie ii spunem ca am facut-o.
+  start: !human_time '00:59:46.200'
+- end: !human_time '00:59:53.100'
+  lines:
+  - Asa o sa avem liniste un timp.
+  - Asa e cel mai bine.
+  start: !human_time '00:59:49.501'
+- end: !human_time '00:59:56.000'
+  lines:
+  - '... pentru tine, pentru mine, pentru toti.'
+  start: !human_time '00:59:53.101'
+- end: !human_time '01:01:07.800'
+  lines:
+  - Ce ciudat, cand razi arati ca o paranteza
+  start: !human_time '01:01:04.300'
+- end: !human_time '01:01:13.000'
+  lines:
+  - Se va inchide mai tarziu.
+  start: !human_time '01:01:10.100'
+- end: !human_time '01:01:17.000'
+  lines:
+  - Poimaine, in gara.
+  start: !human_time '01:01:13.300'
+- end: !human_time '01:01:39.000'
+  lines:
+  - E timpul sa plec, inca un zambet, da?
+  start: !human_time '01:01:36.200'
+- end: !human_time '01:01:43.400'
+  lines:
+  - Ca sa se inchida paranteza.
+  start: !human_time '01:01:41.000'
+- end: !human_time '01:01:46.201'
+  lines:
+  - N-am ramas niciodata gravida.
+  start: !human_time '01:01:44.301'
+- end: !human_time '01:01:49.500'
+  lines:
+  - dar mai tarziu, nu era teama - care
+  - imi tortura barbatul,
+  start: !human_time '01:01:46.300'
+- end: !human_time '01:01:52.100'
+  lines:
+  - ci gelozia.
+  start: !human_time '01:01:50.500'
+- end: !human_time '01:01:57.200'
+  lines:
+  - Unde ? Cand ? De cate ori ? In ce pozitie ?
+  - Ti-a placut ?
+  start: !human_time '01:01:53.200'
+- end: !human_time '01:02:00.600'
+  lines:
+  - A ajuns sa fie o tortura groaznica
+  - pentru mine si pentru el.
+  start: !human_time '01:01:57.300'
+- end: !human_time '01:02:03.600'
+  lines:
+  - Acum Bastoche a murit !
+  start: !human_time '01:02:00.800'
+- end: !human_time '01:02:07.500'
+  lines:
+  - Si barbatul meu a murit
+  - in spitalul bombardat.
+  start: !human_time '01:02:04.600'
+- end: !human_time '01:02:10.700'
+  lines:
+  - Mi-a facut bine sa fiu cinstita cu tine,
+  - domnisoara.
+  start: !human_time '01:02:08.500'
+- end: !human_time '01:02:13.201'
+  lines:
+  - Uneori mi-e teama sa nu innebunesc.
+  start: !human_time '01:02:10.801'
+- end: !human_time '01:02:14.800'
+  lines:
+  - Elodie Gordes.
+  start: !human_time '01:02:13.300'
+- end: !human_time '01:02:20.101'
+  lines:
+  - !!python/str "Mathilde grabeste-te, dl Rouvi\u010Dres"
+  - te asteapta la telefon.
+  start: !human_time '01:02:15.201'
+- end: !human_time '01:02:24.700'
+  lines:
+  - Misca, misca.
+  start: !human_time '01:02:20.400'
+- end: !human_time '01:02:40.800'
+  lines:
+  - '- Buna.'
+  - '- Mathilde, eu sunt Pierre Marie.'
+  start: !human_time '01:02:36.500'
+- end: !human_time '01:02:44.200'
+  lines:
+  - Am vesti proaste pentru tine.
+  start: !human_time '01:02:41.500'
+- end: !human_time '01:02:48.200'
+  lines:
+  - Bune sau rele, le astepti...
+  start: !human_time '01:02:44.400'
+- end: !human_time '01:02:52.101'
+  lines:
+  - '... si de azi inainte nu le mai poti ignora.'
+  start: !human_time '01:02:48.301'
+- end: !human_time '01:02:56.000'
+  lines:
+  - Pe scurt, ai dreptate intr-o privinta
+  start: !human_time '01:02:53.100'
+- end: !human_time '01:03:01.800'
+  lines:
+  - Manech si cei patru camarazi ai sai
+  - erau intr-adevar in transeu.
+  start: !human_time '01:02:56.100'

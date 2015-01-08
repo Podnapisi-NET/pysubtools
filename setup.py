@@ -8,7 +8,8 @@ setup (
   test_suite = 'tests',
 
   install_requires = ['chardet',
-                      'state-machine'],
+                      'state-machine',
+                      'pyyaml'],
 
   # metadata for upload to PyPI
   author = "Gregor Kališnik, Unimatrix",

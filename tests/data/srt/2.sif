@@ -1,0 +1,4077 @@
+---
+units:
+- end: !human_time '00:03:24.497'
+  lines:
+  - !!python/str "<i>\xD3, Bo\u017Ee.</i>"
+  start: !human_time '00:03:22.302'
+- end: !human_time '00:06:29.112'
+  lines:
+  - Kdo jsi?
+  start: !human_time '00:06:27.053'
+- end: !human_time '00:06:41.260'
+  lines:
+  - !!python/str "Kdo kurva se\u0161?"
+  start: !human_time '00:06:38.564'
+- end: !human_time '00:07:23.398'
+  lines:
+  - !!python/str "Hal\xF3?"
+  start: !human_time '00:07:21.407'
+- end: !human_time '00:07:27.310'
+  lines:
+  - !!python/str "\u010Cau, chlape. Wozi?"
+  start: !human_time '00:07:23.476'
+- end: !human_time '00:07:29.439'
+  lines:
+  - Wozi?
+  start: !human_time '00:07:27.380'
+- end: !human_time '00:07:31.676'
+  lines:
+  - '- Ten je na hajzlu.'
+  - !!python/str "- Co\u017Ee?"
+  start: !human_time '00:07:29.515'
+- end: !human_time '00:07:35.517'
+  lines:
+  - Brockmane?
+  - Brockmane, jsi to-
+  start: !human_time '00:07:31.751'
+- end: !human_time '00:07:38.079'
+  lines:
+  - !!python/str "Pro\u010D nezved\xE1\u0161 mobil?"
+  - !!python/str "Je tam v\u0161echno v pohod\u011B?"
+  start: !human_time '00:07:35.588'
+- end: !human_time '00:07:41.058'
+  lines:
+  - Jo, je to, no-
+  start: !human_time '00:07:38.157'
+- end: !human_time '00:07:43.220'
+  lines:
+  - !!python/str "rozbit\xFD."
+  - !!python/str "Uh, jsme v pohod\u011B."
+  start: !human_time '00:07:41.127'
+- end: !human_time '00:07:46.163'
+  lines:
+  - !!python/str "Co\u017Ee?"
+  - !!python/str "Nesly\u0161\xEDm t\u011B!"
+  start: !human_time '00:07:43.296'
+- end: !human_time '00:07:48.496'
+  lines:
+  - !!python/str "- \u0158ekl jsem, \u017Ee jsme v pohod\u011B."
+  - !!python/str "- Dobr\xE1."
+  start: !human_time '00:07:46.232'
+- end: !human_time '00:07:51.503'
+  lines:
+  - !!python/str "<i>Snakeskin chce v\u011Bd\u011Bt,</i>"
+  - !!python/str "<i>jestli tam n\u011Bco nezapomn\u011Bl.</i>"
+  start: !human_time '00:07:48.568'
+- end: !human_time '00:07:54.131'
+  lines:
+  - '- Glocka!'
+  - '- Kde?'
+  start: !human_time '00:07:51.571'
+- end: !human_time '00:07:56.607'
+  lines:
+  - !!python/str "Nev\xEDm."
+  - Ve stole.
+  start: !human_time '00:07:54.207'
+- end: !human_time '00:07:58.610'
+  lines:
+  - Moment.
+  start: !human_time '00:07:56.676'
+- end: !human_time '00:08:24.996'
+  lines:
+  - '- Jo, je tady.'
+  - !!python/str "- M\u016F\u017Ee\u0161 mluvit nahlas? Nesly\u0161\xEDm t\u011B!"
+  start: !human_time '00:08:20.900'
+- end: !human_time '00:08:27.005'
+  lines:
+  - !!python/str "\u0158ekl jsem, \u017Ee je tady."
+  start: !human_time '00:08:25.071'
+- end: !human_time '00:08:29.940'
+  lines:
+  - !!python/str "Jasn\u011B, v\u011Bd\u011Bl jsem to."
+  - !!python/str "\u0158\xEDkal jsem tomu sr\xE1\u010Dovi, \u017Ee tam je."
+  start: !human_time '00:08:27.073'
+- end: !human_time '00:08:32.034'
+  lines:
+  - !!python/str "Nech\xE1pu, co je"
+  - !!python/str "jeho probl\xE9m."
+  start: !human_time '00:08:30.009'
+- end: !human_time '00:08:34.102'
+  lines:
+  - Jak je na tom Coles?
+  start: !human_time '00:08:32.111'
+- end: !human_time '00:08:37.572'
+  lines:
+  - !!python/str "Je v pohod\u011B."
+  start: !human_time '00:08:35.581'
+- end: !human_time '00:08:40.141'
+  lines:
+  - !!python/str "Tak\u017Ee, za jak"
+  - !!python/str "dlouho se vr\xE1t\xEDte?"
+  start: !human_time '00:08:37.650'
+- end: !human_time '00:08:42.153'
+  lines:
+  - !!python/str "Nejsi trochu nedo\u010Dkavej?"
+  start: !human_time '00:08:40.219'
+- end: !human_time '00:08:46.282'
+  lines:
+  - !!python/str "Kdo v\xED? Mo\u017En\xE1- no nev\xEDm."
+  - !!python/str "Asi za p\xE1r hodin."
+  start: !human_time '00:08:42.221'
+- end: !human_time '00:08:48.486'
+  lines:
+  - !!python/str "Zavol\xE1me ti, a\u017E se to rozjede."
+  - A Brockmane...
+  start: !human_time '00:08:46.359'
+- end: !human_time '00:08:52.258'
+  lines:
+  - !!python/str "nedokon\u010Duj to tam,"
+  - !!python/str "dokud my to nedokon\u010D\xEDme tady."
+  start: !human_time '00:08:48.561'
+- end: !human_time '00:08:54.299'
+  lines:
+  - '- Jo.'
+  - !!python/str "- Dob\u0159e. J\xE1 pad\xE1m."
+  start: !human_time '00:08:52.331'
+- end: !human_time '00:08:56.927'
+  lines:
+  - !!python/str "Jsou tu v\u0161ude poldov\xE9."
+  start: !human_time '00:08:54.367'
+- end: !human_time '00:09:40.810'
+  lines:
+  - !!python/str "<i>Co to vyv\xE1d\xED?</i>"
+  start: !human_time '00:09:38.945'
+- end: !human_time '00:09:44.279'
+  lines:
+  - !!python/str "<i>Molino, m\xE1me probl\xE9m.</i>"
+  start: !human_time '00:09:41.981'
+- end: !human_time '00:09:49.248'
+  lines:
+  - !!python/str "- Pan\xED Colesov\xE1..."
+  - !!python/str "- J\xE1 v\xEDm."
+  start: !human_time '00:09:47.553'
+- end: !human_time '00:09:52.348'
+  lines:
+  - !!python/str "- M\u011Bla jste sem p\u0159ij\xEDt, jen kdyby se n\u011Bco zvrtlo."
+  - !!python/str "- Nemohla jsem. Prost\u011B jsem-"
+  start: !human_time '00:09:49.322'
+- end: !human_time '00:09:54.359'
+  lines:
+  - '- <i>Molino?</i>'
+  - !!python/str "- Je v po\u0159\xE1dku, kapit\xE1ne."
+  start: !human_time '00:09:52.425'
+- end: !human_time '00:09:56.554'
+  lines:
+  - !!python/str "Mus\xEDte ji tam dostat!"
+  - !!python/str "Rozum\xEDte?"
+  start: !human_time '00:09:54.427'
+- end: !human_time '00:10:01.232'
+  lines:
+  - !!python/str "Pln\xFD sign\xE1l."
+  start: !human_time '00:09:59.298'
+- end: !human_time '00:10:04.827'
+  lines:
+  - !!python/str "- <i>Curtisi, m\xE1te dobr\xFD sign\xE1l?</i>"
+  - !!python/str "- Tady je to v pohod\u011B."
+  start: !human_time '00:10:01.300'
+- end: !human_time '00:10:08.465'
+  lines:
+  - !!python/str "V po\u0159\xE1dku, pan\xED Colesov\xE1."
+  - !!python/str "Je na \u010Dase."
+  start: !human_time '00:10:05.905'
+- end: !human_time '00:10:11.568'
+  lines:
+  - !!python/str "\u010C\xEDslo 52."
+  start: !human_time '00:10:09.475'
+- end: !human_time '00:10:15.546'
+  lines:
+  - !!python/str "V\u0161e co mus\xEDte ud\u011Blat, je d\xE1t to tam a odej\xEDt."
+  - !!python/str "To je v\u0161echno."
+  start: !human_time '00:10:11.644'
+- end: !human_time '00:10:18.641'
+  lines:
+  - !!python/str "Oni unesli m\xE9ho man\u017Eela"
+  - !!python/str "z jeho vlastn\xED budovy."
+  start: !human_time '00:10:15.615'
+- end: !human_time '00:10:23.016'
+  lines:
+  - !!python/str "Nedok\xE1\u017Eu si p\u0159edstavit,"
+  - !!python/str "\u010Deho dal\u0161\xEDho jsou schopni..."
+  start: !human_time '00:10:20.786'
+- end: !human_time '00:10:26.889'
+  lines:
+  - !!python/str "Co jin\xE9ho"
+  - !!python/str "mo\u017En\xE1 ud\u011Blaj\xED, kdy\u017E-"
+  start: !human_time '00:10:23.089'
+- end: !human_time '00:10:31.020'
+  lines:
+  - !!python/str "Pan\xED Colesov\xE1, kdy\u017E se k v\xE1m p\u0159\xEDbl\xED\u017E\
+    \xED,"
+  - !!python/str "vl\xEDtnem na n\u011B."
+  start: !human_time '00:10:26.959'
+- end: !human_time '00:10:35.591'
+  lines:
+  - !!python/str "Ned\u011Bs\xED m\u011B d\xE1t jim ty pen\xEDze."
+  - !!python/str "D\u011Bs\xED m\u011B co bude potom."
+  start: !human_time '00:10:31.097'
+- end: !human_time '00:10:38.536'
+  lines:
+  - Co pak bude s Billem?
+  start: !human_time '00:10:36.602'
+- end: !human_time '00:10:43.832'
+  lines:
+  - !!python/str "Nedovol\xEDme jim ut\xE9ct."
+  start: !human_time '00:10:41.841'
+- end: !human_time '00:10:48.936'
+  lines:
+  - !!python/str "P\u0159ive\u010Fte m\xE9ho man\u017Eela,"
+  - detektive.
+  start: !human_time '00:10:45.444'
+- end: !human_time '00:10:51.506'
+  lines:
+  - !!python/str "Je v\u0161e co m\xE1m."
+  start: !human_time '00:10:49.015'
+- end: !human_time '00:11:08.123'
+  lines:
+  - Hej, hej, hej.
+  - ''
+  start: !human_time '00:11:06.132'
+- end: !human_time '00:11:11.431'
+  lines:
+  - '- Co je?'
+  - '- Mluv se mnou, sakra! Hej.'
+  start: !human_time '00:11:08.200'
+- end: !human_time '00:11:13.768'
+  lines:
+  - !!python/str "- \u0158ekni mi, co se stalo!"
+  - !!python/str "- Nev\xEDm co se stalo."
+  start: !human_time '00:11:11.504'
+- end: !human_time '00:11:15.773'
+  lines:
+  - !!python/str "- \u0158ekni mi, co se stalo!"
+  - '- Nepamatuji se.'
+  start: !human_time '00:11:13.839'
+- end: !human_time '00:11:18.071'
+  lines:
+  - !!python/str "- \u0158ekni mi, co v\xED\u0161!"
+  - !!python/str "- Tos mi ud\u011Blal ty?"
+  start: !human_time '00:11:15.841'
+- end: !human_time '00:11:21.807'
+  lines:
+  - !!python/str "- \u0158ekni mi, co se sakra stalo!"
+  - !!python/str "- U\u017E m\u011B nemla\u0165!"
+  start: !human_time '00:11:18.144'
+- end: !human_time '00:11:31.619'
+  lines:
+  - !!python/str "Na jakou posledn\xED v\u011Bc"
+  - !!python/str "si vzpom\xEDn\xE1\u0161?"
+  start: !human_time '00:11:29.355'
+- end: !human_time '00:11:35.218'
+  lines:
+  - !!python/str "Jak se probouz\xEDm."
+  - !!python/str "Ty jak m\u011B fackuje\u0161."
+  start: !human_time '00:11:31.691'
+- end: !human_time '00:11:38.286'
+  lines:
+  - !!python/str "Pros\xEDm, rozva\u017E m\u011B."
+  start: !human_time '00:11:36.295'
+- end: !human_time '00:11:44.328'
+  lines:
+  - Kde to jsme?
+  - !!python/str "Co je to za m\xEDsto?"
+  start: !human_time '00:11:40.733'
+- end: !human_time '00:11:47.304'
+  lines:
+  - '- Pustina.'
+  - '- Pustina?'
+  start: !human_time '00:11:44.403'
+- end: !human_time '00:11:51.606'
+  lines:
+  - !!python/str "To je v\u0161echno co v\xEDm."
+  start: !human_time '00:11:49.308'
+- end: !human_time '00:12:03.584'
+  lines:
+  - !!python/str "- Oni jsou mrtv\xED?"
+  - '- Ne.'
+  start: !human_time '00:12:00.820'
+- end: !human_time '00:12:07.683'
+  lines:
+  - !!python/str "Bude mazec a\u017E se proberou."
+  - !!python/str "Rad\u0161i m\u011B rozva\u017E."
+  start: !human_time '00:12:03.656'
+- end: !human_time '00:12:13.490'
+  lines:
+  - !!python/str "<i>B\xFDt tebou, ned\u011Blal bych to.</i>"
+  start: !human_time '00:12:08.894'
+- end: !human_time '00:12:15.796'
+  lines:
+  - Odkud se kurva vzal tenhle chlap?
+  start: !human_time '00:12:13.566'
+- end: !human_time '00:12:20.464'
+  lines:
+  - Neposlouchej ho. Vodprejskni!
+  - !!python/str "Hle\u010F si sv\xFDho!"
+  start: !human_time '00:12:15.868'
+- end: !human_time '00:12:24.100'
+  lines:
+  - !!python/str "<i>My m\xE1me jasno.</i>"
+  - !!python/str "<i>Nepot\u0159ebujeme tvou pomoc.</i>"
+  start: !human_time '00:12:20.539'
+- end: !human_time '00:12:29.540'
+  lines:
+  - !!python/str "<i>V\xE1\u017En\u011B.</i>"
+  - !!python/str "<i>Nerozvazuj ho, k\xE1mo!</i>"
+  start: !human_time '00:12:26.946'
+- end: !human_time '00:12:33.779'
+  lines:
+  - !!python/str "<i>A pro\u010D ne?</i>"
+  - !!python/str "<i>Co ty sakra v\xED\u0161?</i>"
+  start: !human_time '00:12:29.615'
+- end: !human_time '00:12:36.788'
+  lines:
+  - !!python/str "On je sv\xE1zanej, my ne."
+  - !!python/str "M\xE1m pravdu?"
+  start: !human_time '00:12:33.853'
+- end: !human_time '00:12:39.950'
+  lines:
+  - !!python/str "<i>No to je v\xFDborn\xFD. Tenhle chl\xE1pek</i>"
+  - !!python/str "<i>nev\xED v\u016Fbec nic.</i>"
+  start: !human_time '00:12:36.856'
+- end: !human_time '00:12:44.689'
+  lines:
+  - !!python/str "<i>Zamysli se chv\xEDli, pros\xEDm t\u011B.</i>"
+  - !!python/str "<i>N\u011Bkdo tohle ud\u011Blal.</i>"
+  start: !human_time '00:12:40.025'
+- end: !human_time '00:12:48.325'
+  lines:
+  - !!python/str "Ch\xE1pe\u0161?"
+  - !!python/str "A ud\u011Blal to z n\u011Bjak\xE9ho d\u016Fvodu, ne?"
+  start: !human_time '00:12:44.764'
+- end: !human_time '00:12:51.563'
+  lines:
+  - Jo.
+  - !!python/str "A jakej to je d\u016Fvod?"
+  start: !human_time '00:12:48.400'
+- end: !human_time '00:12:56.370'
+  lines:
+  - !!python/str "To je jasn\xFD. A\u0165 jsme na jak\xE9koli"
+  - !!python/str "stran\u011B, je jasn\xE9, \u017Ee ne na jeho."
+  start: !human_time '00:12:51.637'
+- end: !human_time '00:12:58.569'
+  lines:
+  - !!python/str "Jak\xE9 stran\u011B?"
+  - !!python/str "O \u010Dem to mluv\xED\u0161?"
+  start: !human_time '00:12:56.442'
+- end: !human_time '00:13:01.807'
+  lines:
+  - !!python/str "Nejsme na \u017E\xE1dn\xFDch stran\xE1ch."
+  - !!python/str "Tady nejsou \u017E\xE1dn\xFD t\xFDmy!"
+  start: !human_time '00:12:58.644'
+- end: !human_time '00:13:05.476'
+  lines:
+  - !!python/str "<i>Jsme v tom v\u0161ichni dohromady!</i>"
+  - !!python/str "<i>\u0160mitec!</i>"
+  start: !human_time '00:13:01.881'
+- end: !human_time '00:13:08.850'
+  lines:
+  - !!python/str "O.K. M\xE1\u0161 m\u011B!"
+  start: !human_time '00:13:05.551'
+- end: !human_time '00:13:11.412'
+  lines:
+  - !!python/str "Tak\u017Ee, jak jsme se"
+  - sem kurva dostali?
+  start: !human_time '00:13:08.921'
+- end: !human_time '00:13:14.916'
+  lines:
+  - !!python/str "To nev\xEDm."
+  start: !human_time '00:13:12.925'
+- end: !human_time '00:13:21.823'
+  lines:
+  - '- McGahey, Andersone,'
+  - !!python/str "p\u0159ipravte se! Vych\xE1z\xED."
+  start: !human_time '00:13:17.363'
+- end: !human_time '00:13:47.222'
+  lines:
+  - !!python/str "<i>Zaujm\u011Bte pozice!</i>"
+  - !!python/str "<i>Curtisi, \u0159ekni mi, a\u017E se ta v\u011Bc pohne.</i>"
+  start: !human_time '00:13:43.422'
+- end: !human_time '00:14:04.431'
+  lines:
+  - Do prdele! Co se mu
+  - sakra stalo?
+  start: !human_time '00:14:00.973'
+- end: !human_time '00:14:08.037'
+  lines:
+  - !!python/str "Byl post\u0159elenej. Ztratil"
+  - !!python/str "taky hodn\u011B krve. Vezmi si to."
+  start: !human_time '00:14:04.510'
+- end: !human_time '00:14:11.139'
+  lines:
+  - !!python/str "B\u011B\u017E se pod\xEDvat nahoru,"
+  - !!python/str "jestli ho m\u016F\u017Ee\u0161 odemknout."
+  start: !human_time '00:14:08.113'
+- end: !human_time '00:14:13.242'
+  lines:
+  - !!python/str "Ne. Jsou velk\xFD.Jsou"
+  - !!python/str "to kl\xED\u010De od auta."
+  start: !human_time '00:14:11.217'
+- end: !human_time '00:14:16.311'
+  lines:
+  - '- Kurva.'
+  - !!python/str "- Jeho pust\xED\u0161 a m\u011B ne?"
+  start: !human_time '00:14:13.319'
+- end: !human_time '00:14:18.481'
+  lines:
+  - !!python/str "Kl\xEDdek, on byl post\u0159elenej,"
+  - tak sklapni!
+  start: !human_time '00:14:16.388'
+- end: !human_time '00:14:21.958'
+  lines:
+  - !!python/str "Co kdy\u017E jsem doktor?"
+  - !!python/str "Taky jsem zran\u011Bnej."
+  start: !human_time '00:14:18.557'
+- end: !human_time '00:14:28.825'
+  lines:
+  - '- Je tady koupelna?'
+  - !!python/str "- T\xE1mhle."
+  start: !human_time '00:14:26.265'
+- end: !human_time '00:14:45.575'
+  lines:
+  - !!python/str "- Jak se jmenuje\u0161?"
+  - !!python/str "- Nev\xEDm- j\xE1 nev\xEDm."
+  start: !human_time '00:14:40.012'
+- end: !human_time '00:14:48.279'
+  lines:
+  - !!python/str "Nic si nepamatuje\u0161?"
+  start: !human_time '00:14:45.651'
+- end: !human_time '00:14:51.187'
+  lines:
+  - !!python/str "J\xE1 um\u0159u, \u017Ee jo?"
+  start: !human_time '00:14:48.354'
+- end: !human_time '00:14:55.259'
+  lines:
+  - !!python/str "J\xE1 um\u0159u!"
+  start: !human_time '00:14:53.359'
+- end: !human_time '00:15:08.600'
+  lines:
+  - !!python/str "<i>Co se tady d\u011Bje?</i>"
+  start: !human_time '00:15:06.405'
+- end: !human_time '00:15:28.949'
+  lines:
+  - !!python/str "<i>Je v po\u0159\xE1dku?</i>"
+  start: !human_time '00:15:26.458'
+- end: !human_time '00:15:32.225'
+  lines:
+  - !!python/str "Nem\u016F\u017Eu mu pomoct, dokud nem\xE1m kl\xED\u010D."
+  - !!python/str "Prohl\xEDdnu toho chl\xE1pka."
+  start: !human_time '00:15:29.028'
+- end: !human_time '00:15:41.736'
+  lines:
+  - !!python/str "- Nech m\u011B! Nech m\u011B!"
+  - '- Hej, hej, hej! Bacha!'
+  start: !human_time '00:15:38.437'
+- end: !human_time '00:15:44.901'
+  lines:
+  - !!python/str "Dob\u0159e! Dob\u0159e!"
+  start: !human_time '00:15:42.808'
+- end: !human_time '00:15:51.708'
+  lines:
+  - !!python/str "Pro\u010D si to ud\u011Blal?"
+  start: !human_time '00:15:49.581'
+- end: !human_time '00:15:57.381'
+  lines:
+  - !!python/str "- Napadl jsi m\u011B. Jen jsem ti cht\u011Bl pomoct."
+  - '- Pomoct, jo?'
+  start: !human_time '00:15:51.784'
+- end: !human_time '00:16:01.256'
+  lines:
+  - !!python/str "- Kdo se t\u011B prosil?"
+  - '- Ty ne, debile. On!'
+  start: !human_time '00:15:57.456'
+- end: !human_time '00:16:03.852'
+  lines:
+  - !!python/str "Mysleli jsme, \u017Ee m\xE1\u0161"
+  - !!python/str "kl\xED\u010De k jeho pout\u016Fm."
+  start: !human_time '00:16:01.327'
+- end: !human_time '00:16:12.733'
+  lines:
+  - !!python/str "<i>Posly\u0161! Posly\u0161!</i>"
+  - !!python/str "<i>Hej. Po\u010Dkej- Po\u010Dkej.</i>"
+  start: !human_time '00:16:09.468'
+- end: !human_time '00:16:15.069'
+  lines:
+  - !!python/str "Je d\u016Fle\u017Eit\xFD, abys n\xE1m"
+  - !!python/str "\u0159ekl co v\xED\u0161."
+  start: !human_time '00:16:12.805'
+- end: !human_time '00:16:18.439'
+  lines:
+  - !!python/str "- Nemus\xEDm ti \u0159\xEDct ani hovno."
+  - !!python/str "- Pamatuje\u0161 si n\u011Bco?"
+  start: !human_time '00:16:15.140'
+- end: !human_time '00:16:21.968'
+  lines:
+  - !!python/str "<i>Pamatuje\u0161</i>"
+  - !!python/str "<i>kdo kurva jsi? \u0158ekni n\u011Bco!</i>"
+  start: !human_time '00:16:18.510'
+- end: !human_time '00:16:24.277'
+  lines:
+  - !!python/str "- Jasn\u011B, \u017Ee pamatuju."
+  - !!python/str "- Co si pamatuje\u0161?"
+  start: !human_time '00:16:22.047'
+- end: !human_time '00:16:27.285'
+  lines:
+  - !!python/str "Tenhle chlap n\xE1m to ud\u011Blal!"
+  - To si pamatuju! To on!
+  start: !human_time '00:16:24.350'
+- end: !human_time '00:16:29.218'
+  lines:
+  - !!python/str "Hej, kl\xEDdek! Nikomu"
+  - !!python/str "jsem nic neud\u011Blal."
+  start: !human_time '00:16:27.353'
+- end: !human_time '00:16:31.518'
+  lines:
+  - Zlomil si mi posranej nos.
+  - !!python/str "Tos ud\u011Blal."
+  start: !human_time '00:16:29.288'
+- end: !human_time '00:16:33.581'
+  lines:
+  - !!python/str "Aha, to si pamatuje\u0161?"
+  - !!python/str "Tak to si pamatuje\u0161?"
+  start: !human_time '00:16:31.590'
+- end: !human_time '00:16:37.060'
+  lines:
+  - '- Jo. Jo, pamatuju.'
+  - !!python/str "- Dob\u0159e. A jak se jmenuje\u0161?"
+  start: !human_time '00:16:33.659'
+- end: !human_time '00:16:41.395'
+  lines:
+  - !!python/str "Jmenuju? Mrd\xE1m-Tvou-M\xE1mu."
+  - Tak se jmenuju.
+  start: !human_time '00:16:37.129'
+- end: !human_time '00:16:44.402'
+  lines:
+  - Umej se.
+  - !!python/str "Nepamatuje\u0161 si ani hovno."
+  start: !human_time '00:16:41.467'
+- end: !human_time '00:16:46.802'
+  lines:
+  - !!python/str "Pamatuj si, \u017Ee t\u011B nakopu"
+  - do prdele!
+  start: !human_time '00:16:44.470'
+- end: !human_time '00:16:51.434'
+  lines:
+  - !!python/str "Co je to kurva za m\xEDsto?"
+  - Kde to sakra jsme?
+  start: !human_time '00:16:46.872'
+- end: !human_time '00:16:55.446'
+  lines:
+  - !!python/str "Mo\u017En\xE1 si budete pamatovat,"
+  - !!python/str "\u017Ee m\u011B m\xE1te zvednout, zmrdi!"
+  start: !human_time '00:16:51.510'
+- end: !human_time '00:16:59.541'
+  lines:
+  - Chlapi! Hej?
+  - Hej!
+  start: !human_time '00:16:55.514'
+- end: !human_time '00:17:28.675'
+  lines:
+  - !!python/str "Sakra. Ta l\xE1hev je otev\u0159en\xE1."
+  - !!python/str "Mysl\xEDm, \u017Ee to spadlo tam zeshora."
+  start: !human_time '00:17:22.941'
+- end: !human_time '00:17:31.307'
+  lines:
+  - !!python/str "Mysl\xED\u0161, \u017Ee to zp\u016Fsobilo,"
+  - !!python/str "to jak n\xE1m je?"
+  start: !human_time '00:17:28.747'
+- end: !human_time '00:17:33.408'
+  lines:
+  - !!python/str "Mo\u017En\xE1."
+  start: !human_time '00:17:31.383'
+- end: !human_time '00:17:39.915'
+  lines:
+  - !!python/str "Hej, p\u0159esta\u0148te fetovat"
+  - !!python/str "ty sra\u010Dky a rozva\u017Ete m\u011B!"
+  start: !human_time '00:17:35.854'
+- end: !human_time '00:17:44.258'
+  lines:
+  - !!python/str "V\u0161ichni jsme vdechli v\xEDc"
+  - !!python/str "ne\u017E ty te\u010F. Te\u010F se zept\xE1m:"
+  start: !human_time '00:17:39.992'
+- end: !human_time '00:17:46.456'
+  lines:
+  - !!python/str "<i>Pro\u010D by n\u011Bkdo sem d\xE1val m\u0159\xED\u017Ee</i>"
+  - !!python/str "<i>na v\u0161echna ta okna</i>"
+  start: !human_time '00:17:44.329'
+- end: !human_time '00:17:49.330'
+  lines:
+  - !!python/str "a dal bezpe\u010Dnostn\xED dve\u0159e"
+  - !!python/str "do d\xEDry jako je tahle?"
+  start: !human_time '00:17:46.532'
+- end: !human_time '00:17:53.064'
+  lines:
+  - !!python/str "N\u011Bkdo se hodn\u011B sna\u017Eil"
+  - !!python/str "zabezpe\u010Dit tohle m\xEDsto!"
+  start: !human_time '00:17:49.401'
+- end: !human_time '00:17:57.837'
+  lines:
+  - !!python/str "N\u011Bco bu\u010F velmi nebezpe\u010Dn\xE9ho,"
+  - !!python/str "nebo velmi cenn\xE9ho."
+  start: !human_time '00:17:53.138'
+- end: !human_time '00:18:04.478'
+  lines:
+  - !!python/str "Ten s t\xEDm ko\u0161em."
+  - !!python/str "Ten pat\u0159\xED k n\xE1m?"
+  start: !human_time '00:18:01.213'
+- end: !human_time '00:18:07.383'
+  lines:
+  - !!python/str "- Nev\xEDm jist\u011B. St\xE1hli jsme zam\u011Bstnance."
+  - !!python/str "- Zjist\u011Bte to!"
+  start: !human_time '00:18:04.550'
+- end: !human_time '00:18:14.385'
+  lines:
+  - Co to sakra-
+  - !!python/str "Tak poj\u010F, zlato! Poj\u010F!"
+  start: !human_time '00:18:10.722'
+- end: !human_time '00:18:17.691'
+  lines:
+  - !!python/str "Je pry\u010D, kapit\xE1ne. Sign\xE1l je pry\u010D."
+  start: !human_time '00:18:14.460'
+- end: !human_time '00:18:19.958'
+  lines:
+  - !!python/str "<i>Co t\xEDm mysl\xED\u0161?</i>"
+  - !!python/str "<i>Nic to neud\u011Blalo.</i>"
+  start: !human_time '00:18:17.763'
+- end: !human_time '00:18:24.059'
+  lines:
+  - !!python/str "Andersone, co se tam d\u011Bje?"
+  - !!python/str "Neml\u010Dte. Mluvte!"
+  start: !human_time '00:18:20.032'
+- end: !human_time '00:18:30.331'
+  lines:
+  - !!python/str "Tady nic, kapit\xE1ne."
+  start: !human_time '00:18:28.340'
+- end: !human_time '00:18:32.741'
+  lines:
+  - !!python/str "- McGahey, co \u0159\xEDk\xE1te?"
+  - !!python/str "- Nic, kapit\xE1ne."
+  start: !human_time '00:18:30.409'
+- end: !human_time '00:18:36.178'
+  lines:
+  - !!python/str "Dob\u0159e. H\xFDbe se to."
+  - Zastavte to!
+  start: !human_time '00:18:32.811'
+- end: !human_time '00:18:49.650'
+  lines:
+  - !!python/str "- M\xE1\u0161 n\u011Bco?"
+  - '- Nic.'
+  start: !human_time '00:18:48.160'
+- end: !human_time '00:18:52.094'
+  lines:
+  - !!python/str "- Kl\xED\u010De."
+  - !!python/str "- <i>Kapit\xE1ne, co se d\u011Bje?</i>"
+  start: !human_time '00:18:49.728'
+- end: !human_time '00:18:56.100'
+  lines:
+  - !!python/str "Je to jeden z na\u0161ich."
+  - !!python/str "Jmenuje se Frank Gilroy. Nem\u011Bl tu b\xFDt."
+  start: !human_time '00:18:52.164'
+- end: !human_time '00:18:58.728'
+  lines:
+  - !!python/str "<i>Andersone, v po\u0159\xE1dku. Pracuje tu.</i>"
+  start: !human_time '00:18:56.168'
+- end: !human_time '00:19:02.501'
+  lines:
+  - '- Potvrzuji.'
+  - '- Tak jdem. Jedem. Kurva!'
+  start: !human_time '00:18:58.804'
+- end: !human_time '00:19:05.907'
+  lines:
+  - !!python/str "Kapit\xE1ne, m\xE1 to fale\u0161n\xE9 dno."
+  - !!python/str "Muselo se to otev\u0159\xEDt ze suter\xE9nu."
+  start: !human_time '00:19:02.574'
+- end: !human_time '00:19:09.709'
+  lines:
+  - !!python/str "- Ze suter\xE9nu?"
+  - '- Jdem na to. Jdem, jdem!'
+  start: !human_time '00:19:05.978'
+- end: !human_time '00:19:12.909'
+  lines:
+  - !!python/str "Koukn\u011Bte se na m\u011B!"
+  - !!python/str "Koukn\u011Bte se!"
+  start: !human_time '00:19:09.781'
+- end: !human_time '00:19:15.283'
+  lines:
+  - !!python/str "Pro\u010D jste st\xE1l"
+  - !!python/str "p\u0159ed tou sk\u0159\xED\u0148kou?"
+  start: !human_time '00:19:12.985'
+- end: !human_time '00:19:25.129'
+  lines:
+  - Vysokej chlap, Frank
+  - !!python/str "mi \u0159ekl, \u017Ee mi d\xE1 20 dolar\u016F."
+  start: !human_time '00:19:19.691'
+- end: !human_time '00:19:31.135'
+  lines:
+  - !!python/str "Kapit\xE1ne,"
+  - !!python/str "na\u0161li jsme ten pytel."
+  start: !human_time '00:19:29.201'
+- end: !human_time '00:19:33.603'
+  lines:
+  - !!python/str "Prohl\xE9dn\u011Bte tu chodbu."
+  - !!python/str "Prohl\xE9dn\u011Bte to!"
+  start: !human_time '00:19:31.203'
+- end: !human_time '00:19:38.474'
+  lines:
+  - !!python/str "Kapit\xE1ne, pytel je pr\xE1zdn\xFD."
+  start: !human_time '00:19:35.607'
+- end: !human_time '00:19:41.479'
+  lines:
+  - !!python/str "Prohl\xE9dn\u011Bte tu posranou chodbu!"
+  - !!python/str "Zajist\u011Bte schody!"
+  start: !human_time '00:19:38.544'
+- end: !human_time '00:19:49.613'
+  lines:
+  - !!python/str "Zkusils v\u0161echny okna?"
+  start: !human_time '00:19:45.984'
+- end: !human_time '00:19:51.622'
+  lines:
+  - !!python/str "V\u0161echna jsou zam\u0159\xED\u017Eovan\xE1."
+  start: !human_time '00:19:49.688'
+- end: !human_time '00:19:53.624'
+  lines:
+  - !!python/str "- \xDApln\u011B v\u0161echna?"
+  - '- Jo.'
+  start: !human_time '00:19:51.690'
+- end: !human_time '00:19:55.683'
+  lines:
+  - !!python/str "To jsou jedin\xE9 dve\u0159e."
+  start: !human_time '00:19:53.692'
+- end: !human_time '00:20:39.336'
+  lines:
+  - !!python/str "Promi\u0148te."
+  start: !human_time '00:20:37.402'
+- end: !human_time '00:20:41.395'
+  lines:
+  - !!python/str "V po\u0159\xE1dku."
+  start: !human_time '00:20:39.404'
+- end: !human_time '00:20:46.007'
+  lines:
+  - !!python/str "- Promi\u0148te."
+  - '- <i>O.K.</i>'
+  start: !human_time '00:20:44.176'
+- end: !human_time '00:21:14.663'
+  lines:
+  - Do hajzlu!
+  start: !human_time '00:21:12.638'
+- end: !human_time '00:21:24.540'
+  lines:
+  - Sakra.
+  start: !human_time '00:21:21.446'
+- end: !human_time '00:21:31.279'
+  lines:
+  - !!python/str "Velk\xFD zklam\xE1n\xED, co?"
+  start: !human_time '00:21:29.288'
+- end: !human_time '00:21:38.028'
+  lines:
+  - Vodpal!
+  start: !human_time '00:21:36.094'
+- end: !human_time '00:21:40.587'
+  lines:
+  - !!python/str "\u0158\xEDk\xE1 ti n\u011Bco"
+  - !!python/str "jm\xE9no Coles?"
+  start: !human_time '00:21:38.096'
+- end: !human_time '00:21:44.795'
+  lines:
+  - '- Ne.'
+  - '- A co Woz?'
+  start: !human_time '00:21:41.667'
+- end: !human_time '00:21:52.501'
+  lines:
+  - !!python/str "Hele, m\u011B te\u010F nic ned\xE1v\xE1 smysl."
+  - !!python/str "Jasn\xFD?"
+  start: !human_time '00:21:49.941'
+- end: !human_time '00:21:57.171'
+  lines:
+  - Pamatuju si,
+  - !!python/str "\u017Ee jsem byl v t\xE9 m\xEDstnosti."
+  start: !human_time '00:21:55.180'
+- end: !human_time '00:22:02.950'
+  lines:
+  - !!python/str "Taky v\xEDm, \u017Ee jsem sem p\u0159i\u0161el."
+  - Ne zrovna takhle...
+  start: !human_time '00:21:59.184'
+- end: !human_time '00:22:05.717'
+  lines:
+  - !!python/str "Jako bych najednou m\u011Bl Alzheimera."
+  start: !human_time '00:22:03.021'
+- end: !human_time '00:22:09.727'
+  lines:
+  - <i>A ty?</i>
+  - <i>Co?</i>
+  start: !human_time '00:22:05.791'
+- end: !human_time '00:22:11.763'
+  lines:
+  - !!python/str "M\xE1me to v\u0161ichni."
+  start: !human_time '00:22:09.795'
+- end: !human_time '00:22:13.821'
+  lines:
+  - !!python/str "Tak to je blb\xFD."
+  start: !human_time '00:22:11.830'
+- end: !human_time '00:22:25.809'
+  lines:
+  - Umyju ti ruce.
+  start: !human_time '00:22:23.875'
+- end: !human_time '00:22:40.055'
+  lines:
+  - !!python/str "Nedaj\xED se otev\u0159\xEDt, zkou\u0161el jsem to."
+  start: !human_time '00:22:36.722'
+- end: !human_time '00:22:46.395'
+  lines:
+  - !!python/str "Dob\u0159e. Projd\u011Bme si to cel\xE9 znovu."
+  - Probudil ses-
+  start: !human_time '00:22:44.029'
+- end: !human_time '00:22:51.300'
+  lines:
+  - !!python/str "<i>vid\u011Bl jsem v\xE1s. Na lopat\u011B byla krev.</i>"
+  - !!python/str "<i>Krev byla v\u0161ude.</i>"
+  start: !human_time '00:22:46.465'
+- end: !human_time '00:22:54.339'
+  lines:
+  - !!python/str "<i>Rozbitej mobil. Za\u010Dal jsem \u0161\xEDlet</i>"
+  - !!python/str "<i>a zam\xED\u0159il ke dve\u0159\xEDm.</i>"
+  start: !human_time '00:22:51.370'
+- end: !human_time '00:22:57.273'
+  lines:
+  - !!python/str "- Na nic si nasahal, nic nevid\u011Bl?"
+  - '- Ne.'
+  start: !human_time '00:22:54.406'
+- end: !human_time '00:22:59.071'
+  lines:
+  - !!python/str "Nic podez\u0159el\xE9ho?"
+  start: !human_time '00:22:57.342'
+- end: !human_time '00:23:02.580'
+  lines:
+  - !!python/str "Vid\u011Bl jsem ve sklep\u011B dv\u011B \u017Eidle"
+  - !!python/str "oto\u010Den\xE9 z\xE1dy zav\xE1zan\xE9 provazem."
+  start: !human_time '00:22:59.144'
+- end: !human_time '00:23:04.638'
+  lines:
+  - !!python/str "<i>Hmm, to je zaj\xEDmav\xFD.</i>"
+  start: !human_time '00:23:02.647'
+- end: !human_time '00:23:09.676'
+  lines:
+  - Co se tady stalo,
+  - !!python/str "ne\u0161lo \xFApln\u011B podle pl\xE1nu, vi\u010F?"
+  start: !human_time '00:23:04.716'
+- end: !human_time '00:23:12.986'
+  lines:
+  - !!python/str "- Uv\u011Bzn\u011Bn\xFD jako zasran\xFD krysy."
+  - !!python/str "- <i>Tak\u017Ee to je v\u0161echno?</i>"
+  start: !human_time '00:23:09.755'
+- end: !human_time '00:23:15.322'
+  lines:
+  - !!python/str "Jo. T\xE9m\u011B\u0159 jo."
+  start: !human_time '00:23:13.058'
+- end: !human_time '00:23:18.124'
+  lines:
+  - Zeptejte se ho
+  - !!python/str "na telefon\xE1t."
+  start: !human_time '00:23:15.394'
+- end: !human_time '00:23:20.187'
+  lines:
+  - !!python/str "Co\u017Ee?"
+  start: !human_time '00:23:18.196'
+- end: !human_time '00:23:23.962'
+  lines:
+  - Zeptejte se ho...
+  - !!python/str "na telefon\xE1t."
+  start: !human_time '00:23:20.265'
+- end: !human_time '00:23:25.832'
+  lines:
+  - !!python/str "<i>Co\u017Ee? Jakej telefon\xE1t?</i>"
+  start: !human_time '00:23:24.035'
+- end: !human_time '00:23:28.338'
+  lines:
+  - '- Tady je telefon?'
+  - !!python/str "- No, po\u010Dkejte-"
+  start: !human_time '00:23:25.904'
+- end: !human_time '00:23:31.376'
+  lines:
+  - !!python/str "<i>kdy\u017E jste byli</i>"
+  - !!python/str "<i>je\u0161t\u011B mimo...</i>"
+  start: !human_time '00:23:28.407'
+- end: !human_time '00:23:35.004'
+  lines:
+  - !!python/str "- \u0161el vz\xEDt telefon."
+  - '- Kde je ten telefon?'
+  start: !human_time '00:23:31.443'
+- end: !human_time '00:23:38.379'
+  lines:
+  - !!python/str "- Posly\u0161te, cht\u011Bl jsem to \u0159\xEDct-"
+  - !!python/str "- \u0158ekni s k\xFDm si mluvil?"
+  start: !human_time '00:23:35.080'
+- end: !human_time '00:23:40.384'
+  lines:
+  - !!python/str "J\xE1 nev\xEDm."
+  - !!python/str "S n\u011Bjak\xFDm chl\xE1pkem."
+  start: !human_time '00:23:38.450'
+- end: !human_time '00:23:43.387'
+  lines:
+  - !!python/str "- Vtipn\xFD, zapomn\u011Bls zm\xEDnit takovou mali\u010Dkost."
+  - !!python/str "- N\u011Bjakej chlap. Kdo?"
+  start: !human_time '00:23:40.452'
+- end: !human_time '00:23:45.446'
+  lines:
+  - !!python/str "J\xE1- j\xE1 nev\xEDm."
+  - !!python/str "Za\u010Dal hned mluvit."
+  start: !human_time '00:23:43.455'
+- end: !human_time '00:23:48.186'
+  lines:
+  - !!python/str "- <i>Tak\u017Ee poznal tv\u016Fj hlas?</i>"
+  - !!python/str "- <i>Ne. To si nemysl\xEDm.</i>"
+  start: !human_time '00:23:45.524'
+- end: !human_time '00:23:51.559'
+  lines:
+  - !!python/str "No na jeho stran\u011B byl hluk."
+  - !!python/str "N\u011Bjak\xE1 stavba nebo co."
+  start: !human_time '00:23:48.260'
+- end: !human_time '00:23:53.655'
+  lines:
+  - !!python/str "Na jak\xFD jsi v\u016Fbec stran\u011B, chlape?"
+  start: !human_time '00:23:51.630'
+- end: !human_time '00:23:55.632'
+  lines:
+  - !!python/str "Po\u010Dkejte!"
+  - !!python/str "Nemysl\xEDte si, \u017Ee jsem s nima?"
+  start: !human_time '00:23:53.732'
+- end: !human_time '00:23:58.134'
+  lines:
+  - Mluvil s tebou.
+  - !!python/str "Poznal tv\u016Fj hlas, \u017Ee jo?"
+  start: !human_time '00:23:55.700'
+- end: !human_time '00:24:00.330'
+  lines:
+  - !!python/str "- Spoutejme tu d\u011Bvku!"
+  - !!python/str "- Jasn\u011B."
+  start: !human_time '00:23:58.203'
+- end: !human_time '00:24:02.498'
+  lines:
+  - !!python/str "Po\u010Dkejte chv\xEDli!"
+  - Zvedl jsem telefon.
+  start: !human_time '00:24:00.405'
+- end: !human_time '00:24:06.203'
+  lines:
+  - !!python/str "<i>Volaj\xEDc\xED se ptal jestli jsem ten...</i>"
+  - !!python/str "<i>J\xE1 \u0159ekl, \"Ne, ten je na hajzlu.\"</i>"
+  start: !human_time '00:24:02.574'
+- end: !human_time '00:24:11.375'
+  lines:
+  - !!python/str "<i>Tak se m\u011B zeptal, jestli jsem ten druhej. Nev\u011Bd\u011B\
+    l</i>"
+  - !!python/str "<i>jsem co \u0159\xEDct, tak jsem zm\u011Bnil t\xE9ma.</i>"
+  start: !human_time '00:24:06.278'
+- end: !human_time '00:24:13.816'
+  lines:
+  - '- Hovno!'
+  - !!python/str "- A co sem m\u011Bl \u0159\xEDct?"
+  start: !human_time '00:24:11.450'
+- end: !human_time '00:24:17.377'
+  lines:
+  - !!python/str "\"Ahoj kamar\xE1de, pamatuju si \xFApln\xFD hovno."
+  - !!python/str "Mohl bys mi \u0159\xEDct o co tu jde?"
+  start: !human_time '00:24:13.885'
+- end: !human_time '00:24:21.324'
+  lines:
+  - !!python/str "<i>Vyml\xE1tili jsme tady du\u0161i jeden z druh\xE9ho</i>"
+  - !!python/str "<i>a mezit\xEDm si u\u0161kva\u0159ili mozky.\"</i>"
+  start: !human_time '00:24:17.456'
+- end: !human_time '00:24:23.520'
+  lines:
+  - !!python/str "- D\xE1v\xE1 ti to n\u011Bjak\xFD smysl?"
+  - !!python/str "- P\u0159em\xFD\u0161lej."
+  start: !human_time '00:24:21.393'
+- end: !human_time '00:24:26.587'
+  lines:
+  - Mluvil s tebou.
+  - !!python/str "Poznal tv\u016Fj hlas, k\xE1mo."
+  start: !human_time '00:24:23.595'
+- end: !human_time '00:24:29.862'
+  lines:
+  - !!python/str "Nev\u011Bd\u011Bl kdo jsem."
+  - !!python/str "Ptal se m\u011B, jestli jsem dv\u011B r\u016Fzn\xE9 osoby."
+  start: !human_time '00:24:26.665'
+- end: !human_time '00:24:33.393'
+  lines:
+  - !!python/str "On nev\u011Bd\u011Bl."
+  - !!python/str "Nejsem na stran\u011B volaj\xEDc\xEDho."
+  start: !human_time '00:24:29.935'
+- end: !human_time '00:24:35.497'
+  lines:
+  - !!python/str "Tak ale n\u011Bkdo z n\xE1s"
+  - !!python/str "to mus\xED b\xFDt."
+  start: !human_time '00:24:33.472'
+- end: !human_time '00:24:39.941'
+  lines:
+  - !!python/str "Nejsem na ni\u010D\xED stran\u011B."
+  start: !human_time '00:24:37.108'
+- end: !human_time '00:24:41.945'
+  lines:
+  - !!python/str "- <i>Kapit\xE1ne, je to zp\xE1tky.</i>"
+  - '- Co?'
+  start: !human_time '00:24:40.011'
+- end: !human_time '00:24:45.414'
+  lines:
+  - !!python/str "Sledovac\xED sign\xE1l- je zp\u011Bt."
+  - !!python/str "Jde to od v\xFDchodu."
+  start: !human_time '00:24:42.013'
+- end: !human_time '00:24:47.418'
+  lines:
+  - !!python/str "Jak je ten sign\xE1l siln\xFD?"
+  start: !human_time '00:24:45.484'
+- end: !human_time '00:24:51.286'
+  lines:
+  - !!python/str "- Udr\u017E\xED se na dv\u011B m\xEDle."
+  - !!python/str "- Dob\u0159e. Pov\u011Bste se mu na ocas."
+  start: !human_time '00:24:47.486'
+- end: !human_time '00:24:55.255'
+  lines:
+  - !!python/str "Kapit\xE1ne,"
+  - !!python/str "vid\u011Bl jsem jednoho z t\u011Bch chl\xE1pk\u016F."
+  start: !human_time '00:24:52.991'
+- end: !human_time '00:24:58.421'
+  lines:
+  - '- Koho?'
+  - !!python/str "- Jednoho z toho pick-upu. Pro\u0161el kolem."
+  start: !human_time '00:24:55.327'
+- end: !human_time '00:25:01.762'
+  lines:
+  - !!python/str "- Dok\xE1\u017Eete ho identifikovat?"
+  - '- Jo. Ano, pane.'
+  start: !human_time '00:24:58.497'
+- end: !human_time '00:25:04.324'
+  lines:
+  - !!python/str "<i>Curtisi, vydr\u017Ete.</i>"
+  - !!python/str "<i>Anderson jede s v\xE1mi.</i>"
+  start: !human_time '00:25:01.833'
+- end: !human_time '00:25:10.231'
+  lines:
+  - !!python/str "M\u011Bli nam\xED\u0159eno na st\xE1tn\xED."
+  start: !human_time '00:25:08.240'
+- end: !human_time '00:25:12.868'
+  lines:
+  - !!python/str "- Jednoho z nich jsem dob\u0159e vid\u011Bl."
+  - !!python/str "- V\xE1\u017En\u011B?"
+  start: !human_time '00:25:10.308'
+- end: !human_time '00:25:15.105'
+  lines:
+  - !!python/str "Slib mi, \u017Ee p\u0159\xED\u0161t\u011B"
+  - !!python/str "ud\u011Bl\xE1\u0161 v\xEDc, ne\u017E to."
+  start: !human_time '00:25:12.944'
+- end: !human_time '00:25:33.396'
+  lines:
+  - !!python/str "Poj\u010Fme."
+  - Jdem si zavolat.
+  start: !human_time '00:25:30.529'
+- end: !human_time '00:25:37.401'
+  lines:
+  - !!python/str "Ne. Dohodli jsme se. A\u017E se vr\xE1t\xED."
+  - !!python/str "Pak zavol\xE1me v\u0161ichni."
+  start: !human_time '00:25:33.465'
+- end: !human_time '00:25:41.629'
+  lines:
+  - !!python/str "Hej, d\u011Blej!"
+  start: !human_time '00:25:39.638'
+- end: !human_time '00:25:44.698'
+  lines:
+  - <i>Hej!</i>
+  start: !human_time '00:25:42.707'
+- end: !human_time '00:25:52.545'
+  lines:
+  - !!python/str "Pod\xEDvej."
+  - !!python/str "Na\u0161el jsem ty zasran\xFD kl\xED\u010Dky."
+  start: !human_time '00:25:49.314'
+- end: !human_time '00:25:54.585'
+  lines:
+  - !!python/str "Super, m\xE1\u0161 kl\xED\u010Dky,"
+  - !!python/str "ale \u017E\xE1dn\xFD auto."
+  start: !human_time '00:25:52.617'
+- end: !human_time '00:25:58.646'
+  lines:
+  - !!python/str "M\xE1\u0161 pouzdro a \u017E\xE1dnou zbra\u0148."
+  - !!python/str "M\xE1\u0161 mobil a je na tis\xEDc kousk\u016F."
+  start: !human_time '00:25:54.653'
+- end: !human_time '00:26:01.089'
+  lines:
+  - !!python/str "- D\xE1v\xE1 to smysl, vi\u010F?"
+  - !!python/str "- Co chce\u0161 sly\u0161et?"
+  start: !human_time '00:25:58.723'
+- end: !human_time '00:26:03.286'
+  lines:
+  - Uklidni se, jo?
+  start: !human_time '00:26:01.159'
+- end: !human_time '00:26:07.129'
+  lines:
+  - !!python/str "- <i>Jedou n\xE1s zab\xEDt.</i>"
+  - !!python/str "- To nev\xED\u0161."
+  start: !human_time '00:26:04.729'
+- end: !human_time '00:26:10.326'
+  lines:
+  - !!python/str "Co mysl\xED\u0161, \u017Ee tam kopou?"
+  - !!python/str "Baz\xE9n?"
+  start: !human_time '00:26:07.198'
+- end: !human_time '00:26:12.529'
+  lines:
+  - !!python/str "- Co to d\u011Bl\xE1\u0161?"
+  - !!python/str "- Objedn\xE1m pizzu!"
+  start: !human_time '00:26:10.402'
+- end: !human_time '00:26:14.299'
+  lines:
+  - '- Dej sem ten telefon!'
+  - '- Ne!'
+  start: !human_time '00:26:12.604'
+- end: !human_time '00:26:16.897'
+  lines:
+  - !!python/str "Co m\xE1\u0161 za probl\xE9m, k\xE1mo?"
+  start: !human_time '00:26:14.372'
+- end: !human_time '00:26:18.966'
+  lines:
+  - !!python/str "Cejt\xED\u0161 trochu vinu, vi\u010F?"
+  start: !human_time '00:26:16.975'
+- end: !human_time '00:26:22.013'
+  lines:
+  - Co?
+  start: !human_time '00:26:19.044'
+- end: !human_time '00:26:25.140'
+  lines:
+  - !!python/str "Chce\u0161 si zavolat?"
+  - !!python/str "Do toho. Vyto\u010D f\xEDzly!"
+  start: !human_time '00:26:22.080'
+- end: !human_time '00:26:27.650'
+  lines:
+  - '- Do toho. Jo, ty jsi bez viny.'
+  - '- Ano.'
+  start: !human_time '00:26:25.216'
+- end: !human_time '00:26:30.984'
+  lines:
+  - !!python/str "- Proto\u017Ee v\xED\u0161 jak sis rozbil nos?"
+  - !!python/str "- V\xEDm co v\xEDm, jasn\xFD?"
+  start: !human_time '00:26:27.719'
+- end: !human_time '00:26:37.856'
+  lines:
+  - !!python/str "Co to d\u011Bl\xE1\u0161?"
+  start: !human_time '00:26:36.127'
+- end: !human_time '00:26:40.193'
+  lines:
+  - !!python/str "Zbl\xE1znil ses?"
+  - !!python/str "To byl n\xE1\u0161 l\xEDstek odsud!"
+  start: !human_time '00:26:37.929'
+- end: !human_time '00:26:43.132'
+  lines:
+  - !!python/str "Jasn\u011B, to je n\xE1\u0161 l\xEDstek."
+  start: !human_time '00:26:40.265'
+- end: !human_time '00:26:49.670'
+  lines:
+  - Do hajzlu.
+  - Polda. Je to polda.
+  start: !human_time '00:26:45.870'
+- end: !human_time '00:26:51.675'
+  lines:
+  - !!python/str "Nen\xED. Ochranka."
+  start: !human_time '00:26:49.741'
+- end: !human_time '00:26:54.041'
+  lines:
+  - !!python/str "Do \u010Deho jste m\u011B"
+  - vy dostali, vy zmrdi?
+  start: !human_time '00:26:51.743'
+- end: !human_time '00:26:57.013'
+  lines:
+  - !!python/str "Sotva ses na n\u011Bj pod\xEDval."
+  - !!python/str "Jak v\xED\u0161, \u017Ee je ochranka?"
+  start: !human_time '00:26:54.112'
+- end: !human_time '00:27:00.245'
+  lines:
+  - Je to tady.
+  - '"L.P.W." Liberty Plaza West.'
+  start: !human_time '00:26:57.082'
+- end: !human_time '00:27:02.809'
+  lines:
+  - !!python/str "- Po\u010Dkej. Pro\u010D mi to p\u0159ijde tak pov\u011Bdom\xE9?"
+  - '- A kurva.'
+  start: !human_time '00:27:00.318'
+- end: !human_time '00:27:04.821'
+  lines:
+  - '- Co?'
+  - '- Kurva.'
+  start: !human_time '00:27:02.887'
+- end: !human_time '00:27:09.421'
+  lines:
+  - !!python/str "<i>\"Policie vy\u0161et\u0159uje zmizen\xED</i>"
+  - <i>Williama Colese Jr...</i>
+  start: !human_time '00:27:06.725'
+- end: !human_time '00:27:13.658'
+  lines:
+  - <i>"z Colesovi Consolidated Equities a</i>
+  - !!python/str "<i>finan\u010Dn\xEDho poradce, Richarda McCaina.</i>"
+  start: !human_time '00:27:09.494'
+- end: !human_time '00:27:15.927'
+  lines:
+  - <i>"Jejich auta byla nalezena</i>
+  - !!python/str "<i>na parkovi\u0161ti v budov\u011B...</i>"
+  start: !human_time '00:27:13.732'
+- end: !human_time '00:27:18.094'
+  lines:
+  - !!python/str "<i>\"firmy v centru m\u011Bsta toto</i>"
+  - !!python/str "<i>pond\u011Bl\xED v dopoledn\xEDch hodin\xE1ch...</i>"
+  start: !human_time '00:27:16.001'
+- end: !human_time '00:27:23.266'
+  lines:
+  - !!python/str "<i>\"nebyli spat\u0159eni \u010Dleny rodiny</i>"
+  - !!python/str "<i>ani spolupracovn\xEDky od ned\u011Bln\xEDho r\xE1na.</i>"
+  start: !human_time '00:27:18.169'
+- end: !human_time '00:27:26.469'
+  lines:
+  - !!python/str "Policie p\u0159edpokl\xE1d\xE1,\u017Ee"
+  - !!python/str "tito mu\u017Ei byli uneseni.\""
+  start: !human_time '00:27:23.341'
+- end: !human_time '00:27:30.036'
+  lines:
+  - !!python/str "Nespat\u0159eni od ned\u011Bln\xEDho r\xE1na,"
+  - !!python/str "a toto jsou noviny z \xFAter\xFD."
+  start: !human_time '00:27:26.544'
+- end: !human_time '00:27:32.777'
+  lines:
+  - !!python/str "- Spr\xE1vn\u011B."
+  - !!python/str "- Tak\u017Ee tu jsme tak dva dny."
+  start: !human_time '00:27:30.115'
+- end: !human_time '00:27:37.254'
+  lines:
+  - Coles a McCain.
+  start: !human_time '00:27:35.320'
+- end: !human_time '00:27:40.223'
+  lines:
+  - !!python/str "- To m\u016F\u017Ee b\xFDt kdokoliv z n\xE1s, spr\xE1vn\u011B?"
+  - !!python/str "- Co je\u0161t\u011B? P\u0159e\u010Dti to!"
+  start: !human_time '00:27:37.322'
+- end: !human_time '00:27:44.591'
+  lines:
+  - !!python/str "<i>\"Sv\u011Bdci sly\u0161eli v\xFDst\u0159eli z brokovnic</i>"
+  - !!python/str "<i>v tom m\xEDst\u011B kolem ned\u011Bln\xED p\u016Flnoci.\"</i>"
+  start: !human_time '00:27:40.291'
+- end: !human_time '00:27:48.394'
+  lines:
+  - !!python/str "- N\u011Bco dal\u0161\xEDho?"
+  - !!python/str "- On m\xE1 \u017Eenu. To tu stoj\xED."
+  start: !human_time '00:27:44.663'
+- end: !human_time '00:27:51.060'
+  lines:
+  - !!python/str "Ou, jak tohle vy\u0159e\u0161\xEDme?"
+  start: !human_time '00:27:48.466'
+- end: !human_time '00:27:53.934'
+  lines:
+  - !!python/str "M\u011Bl jsem t\u011B za Richarda."
+  - !!python/str "Ale vypad\xE1\u0161 sp\xED\u0161 jako \u010D\u016Fr\xE1k."
+  start: !human_time '00:27:51.136'
+- end: !human_time '00:27:58.135'
+  lines:
+  - !!python/str "Tak ty mus\xED\u0161 b\xFDt \xFAnosce,"
+  - !!python/str "proto\u017Ee \u010D\u016Fr\xE1ka s koulema m\xE1m j\xE1."
+  start: !human_time '00:27:54.005'
+- end: !human_time '00:28:01.076'
+  lines:
+  - !!python/str "- Mysl\xED\u0161?"
+  - '- Co?'
+  start: !human_time '00:27:58.209'
+- end: !human_time '00:28:04.638'
+  lines:
+  - !!python/str "- Dv\u011B jm\xE9na, spr\xE1vn\u011B? Dva mu\u017Ei."
+  - '- Dva.'
+  start: !human_time '00:28:01.146'
+- end: !human_time '00:28:06.877'
+  lines:
+  - !!python/str "Tak\u017Ee n\u011Bco se tu"
+  - !!python/str "\xFApln\u011B pojebalo."
+  start: !human_time '00:28:04.716'
+- end: !human_time '00:28:09.920'
+  lines:
+  - !!python/str "DOb\u0159e, tak\u017Ee tu byl souboj."
+  - !!python/str "McCain a Coles se rozv\xE1zali."
+  start: !human_time '00:28:06.951'
+- end: !human_time '00:28:12.286'
+  lines:
+  - O.K.?
+  - !!python/str "To d\xE1v\xE1 smysl,ne?"
+  start: !human_time '00:28:09.988'
+- end: !human_time '00:28:15.417'
+  lines:
+  - !!python/str "Ka\u017Edop\xE1dn\u011B jsou znovu na noh\xE1ch,"
+  - !!python/str "a z t\u0159\xED jsou \xFAnosci-"
+  start: !human_time '00:28:12.357'
+- end: !human_time '00:28:18.894'
+  lines:
+  - !!python/str "- a jeden Coles a dal\u0161\xED je McCain."
+  - !!python/str "- P\u0159esn\u011B tak."
+  start: !human_time '00:28:15.493'
+- end: !human_time '00:28:24.094'
+  lines:
+  - !!python/str "- A tamten chl\xE1pek?"
+  - !!python/str "- <i>Na tom nesejde. Mus\xEDme spolupracovat</i>"
+  - <i>dohromady, pokud chceme vypadnout.</i>
+  start: !human_time '00:28:18.963'
+- end: !human_time '00:28:26.330'
+  lines:
+  - !!python/str "- M\xE1 pravdu."
+  - !!python/str "- A pak p\u016Fjdeme ka\u017Ed\xFD svou cestou."
+  start: !human_time '00:28:24.169'
+- end: !human_time '00:28:29.339'
+  lines:
+  - !!python/str "- <i>Pravd\u011Bpodobn\u011B se tamti vracej\xED.Zapomn\u011Bli\
+    \ jste?</i>"
+  - !!python/str "- Ned\u011Blejte rovnou z\xE1v\u011Bry!"
+  start: !human_time '00:28:26.404'
+- end: !human_time '00:28:31.568'
+  lines:
+  - Dostanou prachy.
+  - !!python/str "Vr\xE1t\xED se a my budem v pohod\u011B."
+  start: !human_time '00:28:29.407'
+- end: !human_time '00:28:34.407'
+  lines:
+  - !!python/str "Ty mysl\xED\u0161, \u017Ee dostanou sv\xFD prachy!"
+  - !!python/str "Ty mysl\xED\u0161, \u017Ee n\u011Bkdo zaplat\xED !"
+  start: !human_time '00:28:31.643'
+- end: !human_time '00:28:36.743'
+  lines:
+  - !!python/str "Mo\u017En\xE1 nikdo nezaplat\xED!"
+  - !!python/str "Jsme mrtv\xED!"
+  start: !human_time '00:28:34.479'
+- end: !human_time '00:28:40.046'
+  lines:
+  - '- Co je s tebou?'
+  - !!python/str "- Plete\u0161 se."
+  start: !human_time '00:28:36.815'
+- end: !human_time '00:28:42.143'
+  lines:
+  - !!python/str "Maj\xED krev na ruk\xE1ch."
+  start: !human_time '00:28:40.118'
+- end: !human_time '00:28:46.782'
+  lines:
+  - !!python/str "A\u0165 je Coles \u010Di McCain kdokoli,"
+  - !!python/str "jsou mrtv\xED, pokud odsud nevypadnem!"
+  start: !human_time '00:28:42.220'
+- end: !human_time '00:29:09.813'
+  lines:
+  - !!python/str "Bo\u017Ee!"
+  start: !human_time '00:29:07.879'
+- end: !human_time '00:29:14.818'
+  lines:
+  - !!python/str "Ty m\u0159\xED\u017Ee p\u016Fjdou odstranit."
+  - !!python/str "V\u0161echny jsou rezav\xE9."
+  start: !human_time '00:29:09.881'
+- end: !human_time '00:29:22.657'
+  lines:
+  - !!python/str "Akor\xE1t je zl\xE1me\u0161."
+  - !!python/str "P\u0159es to se nikdy nedostane\u0161."
+  start: !human_time '00:29:19.290'
+- end: !human_time '00:29:25.525'
+  lines:
+  - !!python/str "N\xE1hle sis vzpomn\u011Bl,"
+  - !!python/str "\u017Ee se\u0161 architekt?"
+  start: !human_time '00:29:22.727'
+- end: !human_time '00:29:27.497'
+  lines:
+  - !!python/str "- Pr\xE1v\u011B-"
+  - '- Hej, hej!'
+  start: !human_time '00:29:25.597'
+- end: !human_time '00:29:30.033'
+  lines:
+  - Do toho.
+  start: !human_time '00:29:27.565'
+- end: !human_time '00:29:32.626'
+  lines:
+  - !!python/str "<i>Pusinky, neh\xE1dejte se.</i>"
+  - !!python/str "<i>M\u016F\u017Eeme dostat vodu?</i>"
+  start: !human_time '00:29:30.101'
+- end: !human_time '00:29:34.729'
+  lines:
+  - Sklapni!
+  start: !human_time '00:29:32.704'
+- end: !human_time '00:29:40.634'
+  lines:
+  - Ale no tak.
+  - !!python/str "Mu\u017E byl post\u0159elen!"
+  start: !human_time '00:29:37.142'
+- end: !human_time '00:29:43.647'
+  lines:
+  - !!python/str "<i>Jestli chce\u0161, odv\xE1zej m\u011B.</i>"
+  - !!python/str "<i>Napiju se s\xE1m.</i>"
+  start: !human_time '00:29:40.712'
+- end: !human_time '00:29:47.174'
+  lines:
+  - Hluchej nebo blbej?
+  start: !human_time '00:29:45.183'
+- end: !human_time '00:29:49.243'
+  lines:
+  - !!python/str "Vyku\u0159 m\u011B, vobludo!"
+  start: !human_time '00:29:47.252'
+- end: !human_time '00:29:54.054'
+  lines:
+  - !!python/str "Dob\u0159e."
+  - !!python/str "Dejme tomu \u0161anci."
+  start: !human_time '00:29:51.256'
+- end: !human_time '00:30:00.393'
+  lines:
+  - !!python/str "Pou\u017Eijeme lopatu"
+  - a jen to-
+  start: !human_time '00:29:57.629'
+- end: !human_time '00:30:03.400'
+  lines:
+  - !!python/str "Vyp\xE1\u010D\xEDme."
+  - !!python/str "Ud\u011Bl\xE1me z toho p\xE1ku."
+  start: !human_time '00:30:00.465'
+- end: !human_time '00:30:19.616'
+  lines:
+  - !!python/str "Nez\xE1le\u017E\xED kdo jsi nebo jak"
+  - !!python/str "mysl\xED\u0161, \u017Ee jsi tvrdej..."
+  start: !human_time '00:30:16.681'
+- end: !human_time '00:30:22.847'
+  lines:
+  - !!python/str "v\u017Edycky bude\u0161 sr\xE1\u010D p\u0159iv\xE1zanej"
+  - !!python/str "ke kancel\xE1\u0159sk\xFDmu k\u0159eslu!"
+  start: !human_time '00:30:19.684'
+- end: !human_time '00:30:25.754'
+  lines:
+  - !!python/str "Jasn\xFD?"
+  start: !human_time '00:30:22.921'
+- end: !human_time '00:30:57.010'
+  lines:
+  - !!python/str "Na co \u010Dum\xED\u0161?"
+  start: !human_time '00:30:55.019'
+- end: !human_time '00:31:03.987'
+  lines:
+  - !!python/str "To, \u017Ee jsme oba sv\xE1zan\xFD"
+  - !!python/str "neznamen\xE1, \u017Ee jsme k\xE1mo\u0161i."
+  start: !human_time '00:31:01.359'
+- end: !human_time '00:31:14.004'
+  lines:
+  - Co?
+  start: !human_time '00:31:12.070'
+- end: !human_time '00:31:22.469'
+  lines:
+  - !!python/str "Co\u017Ee?"
+  start: !human_time '00:31:18.977'
+- end: !human_time '00:31:31.954'
+  lines:
+  - !!python/str "- Pro\u010D si to ne\u0159ekl hned?"
+  - '- Jo.'
+  start: !human_time '00:31:29.554'
+- end: !human_time '00:31:45.100'
+  lines:
+  - Super!
+  start: !human_time '00:31:42.700'
+- end: !human_time '00:31:48.935'
+  lines:
+  - '- Ha ha!'
+  - !!python/str "- <i>Co vid\xED\u0161?</i>"
+  start: !human_time '00:31:45.169'
+- end: !human_time '00:31:52.943'
+  lines:
+  - !!python/str "<i>Nic tam nen\xED.</i>"
+  start: !human_time '00:31:49.007'
+- end: !human_time '00:31:55.343'
+  lines:
+  - Pomoc!
+  start: !human_time '00:31:53.011'
+- end: !human_time '00:32:08.650'
+  lines:
+  - !!python/str "Opatrn\u011B s t\xEDm!"
+  start: !human_time '00:32:06.090'
+- end: !human_time '00:32:11.718'
+  lines:
+  - !!python/str "- Dob\u0159e! Dob\u0159e!"
+  - '- <i>Klid!</i>'
+  start: !human_time '00:32:08.726'
+- end: !human_time '00:32:15.459'
+  lines:
+  - !!python/str "<i>Hej, cht\u011Bl jsem jenom pomoct.</i>"
+  - !!python/str "<i>Necht\u011Bl jsem nic prov\xE9st!</i>"
+  start: !human_time '00:32:11.796'
+- end: !human_time '00:32:19.862'
+  lines:
+  - !!python/str "To vysv\u011Btluje mnoh\xE9."
+  start: !human_time '00:32:16.768'
+- end: !human_time '00:32:22.702'
+  lines:
+  - !!python/str "<i>Necht\u011Bl jsem nic prov\xE9st!</i>"
+  start: !human_time '00:32:19.938'
+- end: !human_time '00:32:24.799'
+  lines:
+  - !!python/str "Necht\u011Bl jsem s t\xEDm nic d\u011Blat,"
+  - jen jsem myslel-
+  start: !human_time '00:32:22.774'
+- end: !human_time '00:32:26.810'
+  lines:
+  - !!python/str "- Jist\u011B."
+  - !!python/str "- Hej, co d\u011Bl\xE1\u0161?"
+  start: !human_time '00:32:24.876'
+- end: !human_time '00:32:29.210'
+  lines:
+  - !!python/str "P\u0159esn\u011B tak jsi to myslel, \u0161\xE9f\xEDku."
+  - !!python/str "Te\u010F kone\u010Dn\u011B mluv\xED\u0161."
+  start: !human_time '00:32:26.878'
+- end: !human_time '00:32:31.475'
+  lines:
+  - !!python/str "<i>Kriste, vy ho nech\xE1te j\xEDt?</i>"
+  start: !human_time '00:32:29.280'
+- end: !human_time '00:32:33.642'
+  lines:
+  - !!python/str "Co\u017Ee-"
+  - !!python/str "Co to d\u011Bl\xE1\u0161?"
+  start: !human_time '00:32:31.549'
+- end: !human_time '00:32:37.347'
+  lines:
+  - Zasranej hajzle.
+  start: !human_time '00:32:33.718'
+- end: !human_time '00:32:39.549'
+  lines:
+  - !!python/str "O jednu starost m\xED\u0148."
+  start: !human_time '00:32:37.422'
+- end: !human_time '00:32:43.322'
+  lines:
+  - !!python/str "Ti\u0161e!"
+  start: !human_time '00:32:41.092'
+- end: !human_time '00:32:45.362'
+  lines:
+  - !!python/str "Co to k \u010Dertu je?"
+  start: !human_time '00:32:43.394'
+- end: !human_time '00:32:55.329'
+  lines:
+  - !!python/str "Po\u010Dkat,po\u010Dkat, po\u010Dkejte!"
+  start: !human_time '00:32:53.304'
+- end: !human_time '00:32:57.897'
+  lines:
+  - !!python/str "<i>A\u0165 to zvedne on.</i>"
+  - !!python/str "<i>A\u0165 to zvedne on.</i>"
+  start: !human_time '00:32:55.406'
+- end: !human_time '00:32:59.944'
+  lines:
+  - '- <i>Nech jeho.</i>'
+  - !!python/str "- Zbl\xE1znil ses?"
+  start: !human_time '00:32:57.976'
+- end: !human_time '00:33:03.447'
+  lines:
+  - !!python/str "Jestli jsou to oni, u\u017E s n\xEDm mluvili."
+  - !!python/str "Ud\u011Blaj\xED to znovu. Nech jeho."
+  start: !human_time '00:33:00.011'
+- end: !human_time '00:33:12.213'
+  lines:
+  - !!python/str "- Hal\xF3??"
+  - !!python/str "- <i>To jsem j\xE1.</i>"
+  start: !human_time '00:33:09.187'
+- end: !human_time '00:33:15.453'
+  lines:
+  - !!python/str "M\xE1me hotovo. Uvid\xEDme se p\u0159ed setm\u011Bn\xEDm."
+  start: !human_time '00:33:12.290'
+- end: !human_time '00:33:21.254'
+  lines:
+  - !!python/str "U\u017E jedou."
+  start: !human_time '00:33:18.262'
+- end: !human_time '00:33:23.664'
+  lines:
+  - !!python/str "<i>P\u0159ed setm\u011Bn\xEDm.</i>"
+  start: !human_time '00:33:21.332'
+- end: !human_time '00:33:38.948'
+  lines:
+  - Do prdele.
+  start: !human_time '00:33:36.514'
+- end: !human_time '00:33:41.315'
+  lines:
+  - !!python/str "P\u016Fl hodiny a sotva jsme ud\u011Blali z\xE1\u0159ez."
+  start: !human_time '00:33:39.017'
+- end: !human_time '00:33:43.786'
+  lines:
+  - !!python/str "<i>No to je nad\u0161en\xED.</i>"
+  - !!python/str "<i>Podej mi dal\u0161\xED kousek.</i>"
+  start: !human_time '00:33:41.386'
+- end: !human_time '00:33:47.382'
+  lines:
+  - !!python/str "M\xE1 pravdu. S t\xEDmhle"
+  - se nikam nedostaneme.
+  start: !human_time '00:33:43.855'
+- end: !human_time '00:33:52.088'
+  lines:
+  - !!python/str "Hmm, j\xE1 nev\xEDm. M\xE1me"
+  - !!python/str "dv\u011B hodiny, \u017Ee jo?"
+  start: !human_time '00:33:47.458'
+- end: !human_time '00:33:55.257'
+  lines:
+  - !!python/str "Mus\xEDme rozhodnout jak"
+  - !!python/str "jsme schopni zaj\xEDt s p\u0159\xEDpravou."
+  start: !human_time '00:33:52.163'
+- end: !human_time '00:33:57.460'
+  lines:
+  - !!python/str "Co mysl\xED\u0161?"
+  start: !human_time '00:33:55.333'
+- end: !human_time '00:34:01.596'
+  lines:
+  - !!python/str "Mysl\xEDm t\xEDm, zda jsme"
+  - !!python/str "p\u0159ipraveni ud\u011Blat cokoliv bude pot\u0159eba?"
+  start: !human_time '00:33:57.535'
+- end: !human_time '00:34:10.480'
+  lines:
+  - !!python/str "Dej mi je\u0161t\u011B jeden."
+  start: !human_time '00:34:08.546'
+- end: !human_time '00:34:13.540'
+  lines:
+  - !!python/str "To byl posledn\xED."
+  start: !human_time '00:34:11.549'
+- end: !human_time '00:34:19.150'
+  lines:
+  - !!python/str "<i>Co j\xED m\xE1m \u0159\xEDct?</i>"
+  start: !human_time '00:34:15.987'
+- end: !human_time '00:34:21.589'
+  lines:
+  - !!python/str "Nev\xEDm."
+  start: !human_time '00:34:19.223'
+- end: !human_time '00:34:24.890'
+  lines:
+  - Vezmi ji na stanici
+  - !!python/str "a udr\u017E ji v klidu."
+  start: !human_time '00:34:21.659'
+- end: !human_time '00:35:06.663'
+  lines:
+  - Sakra, koukni na to.
+  start: !human_time '00:35:04.001'
+- end: !human_time '00:35:09.831'
+  lines:
+  - !!python/str "N\xE1zev chemick\xFD l\xE1tky je stejn\xFD"
+  - !!python/str "jako na t\xFD otev\u0159en\xFD plynov\xFD l\xE1hvi."
+  start: !human_time '00:35:06.737'
+- end: !human_time '00:35:13.070'
+  lines:
+  - !!python/str "- Skute\u010Dn\u011B?"
+  - '- Poslouchej!'
+  start: !human_time '00:35:09.907'
+- end: !human_time '00:35:16.807'
+  lines:
+  - !!python/str "\"Varov\xE1n\xED. \xDA\u010Dinek inhalace po"
+  - !!python/str "vypu\u0161t\u011Bn\xED zp\u016Fsobuje..."
+  start: !human_time '00:35:13.144'
+- end: !human_time '00:35:19.406'
+  lines:
+  - !!python/str "\"du\u0161nost, nevolnost,"
+  - !!python/str "bezv\u011Bdom\xED..."
+  start: !human_time '00:35:16.881'
+- end: !human_time '00:35:22.476'
+  lines:
+  - !!python/str "\"Do\u010Dasnou ztr\xE1tu pam\u011Bti,"
+  - !!python/str "z\xE1chvaty a/nebo smrt."
+  start: !human_time '00:35:19.484'
+- end: !human_time '00:35:26.649'
+  lines:
+  - '"Nevdechujte.'
+  - Kontaktujte specialistu.
+  start: !human_time '00:35:22.553'
+- end: !human_time '00:35:28.658'
+  lines:
+  - !!python/str "Zvl\xE1\u0161\u0165 pokud unikne z l\xE1hv\xED.\""
+  start: !human_time '00:35:26.724'
+- end: !human_time '00:35:31.320'
+  lines:
+  - Sakra, jak dlouho
+  - !!python/str "jsme tu v\u011Bc d\xFDchali?"
+  start: !human_time '00:35:28.726'
+- end: !human_time '00:35:59.886'
+  lines:
+  - !!python/str "<i>Kurva st\u016Fj, McCaine!</i>"
+  - !!python/str "<i>M\xE1\u0161 u hlavy boucha\u010Dku!</i>"
+  start: !human_time '00:35:56.587'
+- end: !human_time '00:36:15.028'
+  lines:
+  - McCaine.
+  start: !human_time '00:36:13.037'
+- end: !human_time '00:36:47.035'
+  lines:
+  - !!python/str "P\u0159em\xFD\u0161lel jsem o"
+  - !!python/str "cel\xE9 t\xE9 v\u011Bci."
+  start: !human_time '00:36:44.635'
+- end: !human_time '00:36:50.073'
+  lines:
+  - Vzbudil ses
+  - !!python/str "d\u0159\xEDv ne\u017E my."
+  start: !human_time '00:36:47.104'
+- end: !human_time '00:36:52.234'
+  lines:
+  - !!python/str "<i>Pak ten telefon\xE1t.</i>"
+  start: !human_time '00:36:50.141'
+- end: !human_time '00:36:54.710'
+  lines:
+  - !!python/str "V\u0161echno to zapad\xE1."
+  start: !human_time '00:36:52.310'
+- end: !human_time '00:36:59.240'
+  lines:
+  - !!python/str "Jestli n\u011Bco nazna\u010Duje\u0161,"
+  - !!python/str "tak to \u0159ekni."
+  start: !human_time '00:36:56.180'
+- end: !human_time '00:37:02.650'
+  lines:
+  - !!python/str "Mo\u017En\xE1 tu jenom \u010Dek\xE1\u0161"
+  - !!python/str "a\u017E se uk\xE1\u017Eou oni, co?"
+  start: !human_time '00:36:59.317'
+- end: !human_time '00:37:06.156'
+  lines:
+  - !!python/str "A co ty? Nejsi n\xE1hodou"
+  - !!python/str "ten co vyrval telefonn\xED dr\xE1t?"
+  start: !human_time '00:37:02.720'
+- end: !human_time '00:37:10.490'
+  lines:
+  - Jo, ale nelhal jsem
+  - !!python/str "a nesna\u017Eil to ututlat, \u017Ee jo?"
+  start: !human_time '00:37:06.224'
+- end: !human_time '00:37:16.923'
+  lines:
+  - !!python/str "Dob\u0159e. M\u016F\u017Ee\u0161 sem p\u0159ij\xEDt"
+  - a pomoct mi?
+  start: !human_time '00:37:12.930'
+- end: !human_time '00:37:31.612'
+  lines:
+  - Ticho! Poslouchej!
+  - !!python/str "Vrac\xED se mi pam\u011B\u0165."
+  start: !human_time '00:37:28.779'
+- end: !human_time '00:37:33.809'
+  lines:
+  - !!python/str "N\u011Bco z minula si pamatuju."
+  - !!python/str "V\xEDm kdo jsme."
+  start: !human_time '00:37:31.682'
+- end: !human_time '00:37:35.875'
+  lines:
+  - Aha.
+  - !!python/str "Pro\u010D ti m\xE1m v\u011B\u0159it?"
+  start: !human_time '00:37:33.884'
+- end: !human_time '00:37:39.389'
+  lines:
+  - !!python/str "Proto\u017Ee, ty jsi druh\xE9 rukojm\xED."
+  - Jsi William Coles.
+  start: !human_time '00:37:35.953'
+- end: !human_time '00:37:43.450'
+  lines:
+  - !!python/str "Skute\u010Dn\u011B? Z\xE1zrak, \u017Ee tak"
+  - najednou, ne?
+  start: !human_time '00:37:39.457'
+- end: !human_time '00:37:47.759'
+  lines:
+  - !!python/str "Unesli n\xE1s z pr\xE1ce."
+  - !!python/str "Dokon\u010Dovali jsme smlouvu."
+  start: !human_time '00:37:45.029'
+- end: !human_time '00:37:50.357'
+  lines:
+  - !!python/str "Byli jsme na parkovi\u0161ti."
+  - !!python/str "Pamatuje\u0161 si to?"
+  start: !human_time '00:37:47.832'
+- end: !human_time '00:37:53.062'
+  lines:
+  - '- Ne.'
+  - !!python/str "- Sebrali n\xE1s v ned\u011Bli. Bylo pozd\u011B odpoledne."
+  start: !human_time '00:37:50.434'
+- end: !human_time '00:37:57.039'
+  lines:
+  - !!python/str "Po\u010D\xEDtali jsme n\u011Bjak\xE1 \u010D\xEDsla."
+  - !!python/str "Ten sr\xE1\u010D n\xE1s vid\u011Bl vej\xEDt. Vid\u011Bl n\xE1s."
+  start: !human_time '00:37:53.137'
+- end: !human_time '00:37:59.042'
+  lines:
+  - <i>Hej!</i>
+  start: !human_time '00:37:57.108'
+- end: !human_time '00:38:05.445'
+  lines:
+  - !!python/str "V\xEDm, \u017Ee nem\xE1\u0161 d\u016Fvod mi v\u011B\u0159it,"
+  - !!python/str "ale on n\xE1s chce podrazit."
+  start: !human_time '00:38:02.146'
+- end: !human_time '00:38:09.145'
+  lines:
+  - !!python/str "- Bo\u017Ee. Mus\xEDme z\xEDskat"
+  - !!python/str "- tu zbra\u0148 ne\u017E si sr\xE1\u010D..."
+  start: !human_time '00:38:05.516'
+- end: !human_time '00:38:11.415'
+  lines:
+  - vzpomene kdo je,
+  - a to jsme v hajzlu.
+  start: !human_time '00:38:09.220'
+- end: !human_time '00:38:14.822'
+  lines:
+  - !!python/str "Pamatuju si akor\xE1t hovno?"
+  - Nepamatuji si nic.
+  start: !human_time '00:38:11.489'
+- end: !human_time '00:38:19.022'
+  lines:
+  - !!python/str "Pro Kristovy r\xE1ny,"
+  - !!python/str "ty si nepamatuje\u0161 svoje d\u011Bti?"
+  start: !human_time '00:38:14.892'
+- end: !human_time '00:38:21.587'
+  lines:
+  - !!python/str "Na\u0161e d\u011Bti spolu hr\xE1li ligu,"
+  - sakra Bille.
+  start: !human_time '00:38:19.096'
+- end: !human_time '00:38:24.100'
+  lines:
+  - !!python/str "<i>Ty si nepamatuje\u0161</i>"
+  - !!python/str "<i>sv\xE9 d\u011Bti?</i>"
+  start: !human_time '00:38:21.666'
+- end: !human_time '00:38:28.201'
+  lines:
+  - Bille?
+  start: !human_time '00:38:25.903'
+- end: !human_time '00:38:35.639'
+  lines:
+  - !!python/str "Co? Co se d\u011Bje?"
+  start: !human_time '00:38:32.977'
+- end: !human_time '00:38:38.615'
+  lines:
+  - !!python/str "Mus\xEDme si promluvit."
+  start: !human_time '00:38:36.647'
+- end: !human_time '00:38:44.110'
+  lines:
+  - !!python/str "Co se d\u011Bje?"
+  start: !human_time '00:38:41.619'
+- end: !human_time '00:38:52.194'
+  lines:
+  - Zabij ho!
+  start: !human_time '00:38:50.795'
+- end: !human_time '00:38:55.899'
+  lines:
+  - <i>Sejmi toho hajzla!</i>
+  start: !human_time '00:38:53.931'
+- end: !human_time '00:39:00.032'
+  lines:
+  - <i>Dejte mu! Dejte mu!</i>
+  - <i>Dejte mu!</i>
+  start: !human_time '00:38:57.268'
+- end: !human_time '00:39:04.307'
+  lines:
+  - !!python/str "<i>Vezm\u011Bte tu zbra\u0148!</i>"
+  - !!python/str "<i>Vezm\u011Bte tu zbra\u0148!</i>"
+  start: !human_time '00:39:01.839'
+- end: !human_time '00:39:10.144'
+  lines:
+  - !!python/str "<i>Vezm\u011Bte tu zbra\u0148!</i>"
+  start: !human_time '00:39:07.812'
+- end: !human_time '00:39:13.610'
+  lines:
+  - Kurva!
+  start: !human_time '00:39:11.949'
+- end: !human_time '00:39:18.554'
+  lines:
+  - !!python/str "Co to sakra vyv\xE1d\xEDte?"
+  start: !human_time '00:39:16.620'
+- end: !human_time '00:39:21.147'
+  lines:
+  - !!python/str "On \u0159\xEDkal, \u017Ee jsem Coles."
+  - !!python/str "On \u0159\xEDkal, \u017Ee jsem Coles, k\xE1mo."
+  start: !human_time '00:39:18.622'
+- end: !human_time '00:39:23.625'
+  lines:
+  - !!python/str "Co\u017Ee?"
+  - !!python/str "Tys mu v\u011B\u0159il?"
+  start: !human_time '00:39:21.225'
+- end: !human_time '00:39:27.425'
+  lines:
+  - !!python/str "\u0158\xEDkal, \u017Ee se mu vr\xE1tila pam\u011B\u0165."
+  - !!python/str "V\xED kdo my dva jsme."
+  start: !human_time '00:39:23.694'
+- end: !human_time '00:39:30.334'
+  lines:
+  - !!python/str "<i>Kec\xE1 sra\u010Dky!</i>"
+  start: !human_time '00:39:28.366'
+- end: !human_time '00:39:33.131'
+  lines:
+  - !!python/str "Pamatoval si m\xE9 d\u011Bti."
+  - !!python/str "M\xE9 d\u011Bti, k\xE1mo."
+  start: !human_time '00:39:30.401'
+- end: !human_time '00:39:35.900'
+  lines:
+  - !!python/str "To je le\u017E!"
+  start: !human_time '00:39:33.204'
+- end: !human_time '00:39:37.998'
+  lines:
+  - Nemohl jsem to risknout!
+  - Nemohl jsem to risknout!
+  start: !human_time '00:39:35.973'
+- end: !human_time '00:39:44.440'
+  lines:
+  - Je to pravda?
+  - !!python/str "Co si pamatuje\u0161?"
+  start: !human_time '00:39:40.811'
+- end: !human_time '00:39:47.109'
+  lines:
+  - !!python/str "Co si pamatuje\u0161,"
+  - debile?
+  start: !human_time '00:39:44.515'
+- end: !human_time '00:39:49.618'
+  lines:
+  - !!python/str "On n\xE1s zabije, Bille."
+  start: !human_time '00:39:47.184'
+- end: !human_time '00:39:55.585'
+  lines:
+  - <i>Jdi do hajzlu!</i>
+  start: !human_time '00:39:51.922'
+- end: !human_time '00:39:58.287'
+  lines:
+  - !!python/str "- Do hajzlu jdi s\xE1m!"
+  - '- Ne!'
+  start: !human_time '00:39:55.659'
+- end: !human_time '00:40:02.993'
+  lines:
+  - '- Co je sakra s tebou?'
+  - !!python/str "- Koho m\xE1m zast\u0159elit?"
+  start: !human_time '00:40:00.331'
+- end: !human_time '00:40:05.001'
+  lines:
+  - !!python/str "<i>Co to k \u010Dertu</i>"
+  - !!python/str "<i>d\u011Bl\xE1\u0161, k\xE1mo?</i>"
+  start: !human_time '00:40:03.067'
+- end: !human_time '00:40:07.264'
+  lines:
+  - Lhal jsem.
+  start: !human_time '00:40:05.069'
+- end: !human_time '00:40:10.171'
+  lines:
+  - !!python/str "- Co si pamatuje\u0161?"
+  - !!python/str "- V\u0161echno jsem si vymyslel."
+  start: !human_time '00:40:07.338'
+- end: !human_time '00:40:12.505'
+  lines:
+  - '- Dost!'
+  - !!python/str "- J\xE1 se jen sna\u017E\xEDm dostat odtud, k\xE1mo."
+  start: !human_time '00:40:10.241'
+- end: !human_time '00:40:14.601'
+  lines:
+  - !!python/str "<i>Nech ho b\xFDt.</i>"
+  - !!python/str "<i>Nech ho b\xFDt, k\xE1mo.</i>"
+  start: !human_time '00:40:12.576'
+- end: !human_time '00:40:17.340'
+  lines:
+  - !!python/str "Nev\xEDm co d\u011Bl\xE1m."
+  - !!python/str "Nev\xEDm co d\u011Bl\xE1m."
+  start: !human_time '00:40:14.678'
+- end: !human_time '00:40:19.383'
+  lines:
+  - !!python/str "To \u0159\xEDk\xE1\u0161 jen"
+  - !!python/str "abych t\u011B nezabil."
+  start: !human_time '00:40:17.415'
+- end: !human_time '00:40:21.418'
+  lines:
+  - !!python/str "Stejn\u011B m\u011B zabije\u0161."
+  start: !human_time '00:40:19.450'
+- end: !human_time '00:40:23.419'
+  lines:
+  - !!python/str "Co si pamatuje\u0161?"
+  start: !human_time '00:40:21.485'
+- end: !human_time '00:40:27.323'
+  lines:
+  - Jsi to ty!
+  - Jsi to ty!
+  start: !human_time '00:40:24.422'
+- end: !human_time '00:40:31.291'
+  lines:
+  - !!python/str "Nejsem zlo\u010Dinec."
+  start: !human_time '00:40:28.993'
+- end: !human_time '00:40:33.626'
+  lines:
+  - Tak se tak nechovej!
+  start: !human_time '00:40:31.362'
+- end: !human_time '00:40:41.633'
+  lines:
+  - !!python/str "Jsme uprost\u0159ed ni\u010Deho."
+  start: !human_time '00:40:38.903'
+- end: !human_time '00:40:46.974'
+  lines:
+  - !!python/str "- Co\u017Ee? Mluv!"
+  - !!python/str "- Mysl\xEDm, \u017Ee pr\xE1v\u011B zastavili."
+  start: !human_time '00:40:43.607'
+- end: !human_time '00:40:49.842'
+  lines:
+  - !!python/str "Nemysli, \u010Dti."
+  - !!python/str "M\xE1\u0161 stopu nebo ne?"
+  start: !human_time '00:40:47.044'
+- end: !human_time '00:40:51.711'
+  lines:
+  - !!python/str "Jo. P\u0159\xEDmo tady. Je\u010F."
+  start: !human_time '00:40:49.914'
+- end: !human_time '00:41:10.522'
+  lines:
+  - !!python/str "<i>To on to ud\u011Blal!</i>"
+  start: !human_time '00:41:07.064'
+- end: !human_time '00:41:14.503'
+  lines:
+  - !!python/str "<i>Na jak\xFD jsi</i>"
+  - !!python/str "<i>jsi v\u016Fbec stran\u011B?</i>"
+  start: !human_time '00:41:10.601'
+- end: !human_time '00:41:35.054'
+  lines:
+  - <i>Jak se tam nahoru dostaneme?</i>
+  start: !human_time '00:41:32.790'
+- end: !human_time '00:41:46.701'
+  lines:
+  - !!python/str "<i>Dosta\u0148 se na tu \u0159\xEDmsu!</i>"
+  - !!python/str "<i>Rychle na tu \u0159\xEDmsu! Neudr\u017E\xEDme t\u011B!</i>"
+  start: !human_time '00:41:43.300'
+- end: !human_time '00:41:48.863'
+  lines:
+  - !!python/str "- M\xE1m to! M\xE1m to!"
+  - !!python/str "- Stoj\xED\u0161 na n\xED?"
+  start: !human_time '00:41:46.770'
+- end: !human_time '00:42:00.649'
+  lines:
+  - !!python/str "- Opatrn\u011B!"
+  - '- A kurva!'
+  start: !human_time '00:41:58.215'
+- end: !human_time '00:42:02.686'
+  lines:
+  - !!python/str "<i>Zkurven\u011B.</i>"
+  start: !human_time '00:42:00.718'
+- end: !human_time '00:42:04.721'
+  lines:
+  - !!python/str "Promi\u0148."
+  start: !human_time '00:42:02.753'
+- end: !human_time '00:42:12.920'
+  lines:
+  - !!python/str "Zatracen\u011B!"
+  - !!python/str "Zatracen\u011B!"
+  start: !human_time '00:42:09.860'
+- end: !human_time '00:42:16.694'
+  lines:
+  - '- Kurva.'
+  - !!python/str "- Zase bezpe\u010Dnostn\xED sklo?"
+  start: !human_time '00:42:12.997'
+- end: !human_time '00:42:20.462'
+  lines:
+  - !!python/str "Vydr\u017E chv\xEDli."
+  start: !human_time '00:42:17.868'
+- end: !human_time '00:42:23.735'
+  lines:
+  - !!python/str "- Mo\u017En\xE1 do toho m\u016F\u017Eu prost\u0159elit d\xEDru."
+  - !!python/str "- Ne, to ne, k\xE1mo."
+  start: !human_time '00:42:20.538'
+- end: !human_time '00:42:25.741'
+  lines:
+  - !!python/str "Zbra\u0148 z\u016Fstane u m\u011B."
+  start: !human_time '00:42:23.807'
+- end: !human_time '00:42:28.334'
+  lines:
+  - !!python/str "Nebu\u010F kret\xE9n,"
+  - !!python/str "sna\u017E\xEDm se n\xE1s odsud dostat."
+  start: !human_time '00:42:25.809'
+- end: !human_time '00:42:30.642'
+  lines:
+  - !!python/str "M\u016F\u017Eu do toho"
+  - !!python/str "st\u0159elit zbl\xEDzka, tady."
+  start: !human_time '00:42:28.412'
+- end: !human_time '00:42:33.649'
+  lines:
+  - !!python/str "Poj\u010F dol\u016F."
+  - !!python/str "Vy\u0161plh\xE1m tam a zkus\xEDm to."
+  start: !human_time '00:42:30.714'
+- end: !human_time '00:42:35.981'
+  lines:
+  - !!python/str "Se\u0161 moc t\u011B\u017Ekej,"
+  - !!python/str "prase tlust\xFD!"
+  start: !human_time '00:42:33.717'
+- end: !human_time '00:42:39.022'
+  lines:
+  - !!python/str "Provaz t\u011B mo\u017En\xE1 neudr\u017E\xED."
+  - !!python/str "Poslu\u017E si!"
+  start: !human_time '00:42:36.053'
+- end: !human_time '00:42:43.192'
+  lines:
+  - <i>O.K. Jdeme na to.</i>
+  start: !human_time '00:42:41.258'
+- end: !human_time '00:42:47.823'
+  lines:
+  - !!python/str "Tady se n\xE1m hod\xED tv\u016Fj"
+  - hezkej ksicht.
+  start: !human_time '00:42:45.229'
+- end: !human_time '00:42:54.336'
+  lines:
+  - To je on.
+  - !!python/str "To je on v tom obchod\u011B."
+  start: !human_time '00:42:51.902'
+- end: !human_time '00:42:55.929'
+  lines:
+  - !!python/str "- Jsi si jist\xFD?"
+  - '- Jo.'
+  start: !human_time '00:42:54.405'
+- end: !human_time '00:43:00.100'
+  lines:
+  - !!python/str "Vid\xED\u0161, kter\xFD je jeho auto?"
+  start: !human_time '00:42:58.075'
+- end: !human_time '00:43:04.981'
+  lines:
+  - !!python/str "<i>T\u011B\u017Eko \u0159\xEDct.</i>"
+  start: !human_time '00:43:01.545'
+- end: !human_time '00:43:07.847'
+  lines:
+  - Ale ne. Ne, ne.
+  - No tak!
+  start: !human_time '00:43:05.049'
+- end: !human_time '00:43:10.250'
+  lines:
+  - Kurva.
+  start: !human_time '00:43:07.918'
+- end: !human_time '00:43:13.154'
+  lines:
+  - !!python/str "<i>Kurva! Je pry\u010D.</i>"
+  - !!python/str "<i>Tak kter\xFD?</i>"
+  start: !human_time '00:43:10.321'
+- end: !human_time '00:43:15.953'
+  lines:
+  - !!python/str "- Nev\xEDm."
+  - !!python/str "- No tak! Kter\xFD?"
+  start: !human_time '00:43:13.223'
+- end: !human_time '00:43:18.017'
+  lines:
+  - !!python/str "Nev\xEDm!"
+  - !!python/str "Ob\u011B vyjeli ve stejnou dobu!"
+  start: !human_time '00:43:16.026'
+- end: !human_time '00:43:21.121'
+  lines:
+  - <i>Vyber si!</i>
+  - <i>Denali nebo ten pick-up?</i>
+  start: !human_time '00:43:18.095'
+- end: !human_time '00:43:23.189'
+  lines:
+  - !!python/str "T\xE1mhle."
+  - Ten pick-up.
+  start: !human_time '00:43:21.198'
+- end: !human_time '00:43:25.667'
+  lines:
+  - !!python/str "Je\u010F, je\u010F, je\u010F!"
+  start: !human_time '00:43:23.267'
+- end: !human_time '00:43:33.835'
+  lines:
+  - !!python/str "D\u011Blej!"
+  start: !human_time '00:43:31.241'
+- end: !human_time '00:43:47.987'
+  lines:
+  - !!python/str "- Jak v\xEDme, \u017Ee n\xE1s tady nenech\xE1\u0161?"
+  - !!python/str "- Nev\xEDte."
+  start: !human_time '00:43:43.721'
+- end: !human_time '00:43:53.158'
+  lines:
+  - !!python/str "P\u0159esta\u0148te s t\xEDm!"
+  - !!python/str "P\u0159esta\u0148te s t\xEDm!"
+  start: !human_time '00:43:50.928'
+- end: !human_time '00:43:55.198'
+  lines:
+  - To je fakt sranda.
+  start: !human_time '00:43:53.230'
+- end: !human_time '00:43:58.598'
+  lines:
+  - !!python/str "- Hopl\xE1."
+  - '- Debil.'
+  start: !human_time '00:43:55.265'
+- end: !human_time '00:44:25.018'
+  lines:
+  - !!python/str "Douf\xE1m, \u017Ee se\u0161 mrtvej,"
+  - !!python/str "mrdko nemotorn\xE1!"
+  start: !human_time '00:44:22.026'
+- end: !human_time '00:44:31.759'
+  lines:
+  - !!python/str "<i>Hej k\xE1mo,</i>"
+  - !!python/str "<i>jsi v po\u0159\xE1dku?</i>"
+  start: !human_time '00:44:27.698'
+- end: !human_time '00:44:33.803'
+  lines:
+  - !!python/str "Jsem r\xE1d, \u017Ee \u017Eiju."
+  start: !human_time '00:44:31.835'
+- end: !human_time '00:44:35.805'
+  lines:
+  - !!python/str "Kdy\u017E u\u017E nic jin\xFDho."
+  start: !human_time '00:44:33.871'
+- end: !human_time '00:44:38.774'
+  lines:
+  - Hej. Hej.
+  - !!python/str "Hej, sly\u0161\xED\u0161 n\xE1s?"
+  start: !human_time '00:44:35.873'
+- end: !human_time '00:44:40.776'
+  lines:
+  - !!python/str "- Jsi v po\u0159\xE1dku?"
+  - '- Erin?'
+  start: !human_time '00:44:38.842'
+- end: !human_time '00:44:43.813'
+  lines:
+  - !!python/str "<i>Mysl\xEDm, \u017Ee te\u010F m\u016F\u017Eu</i>"
+  - !!python/str "<i>\u0159\xEDct, \u017Ee se\u0161 moc t\u011B\u017Ekej.</i>"
+  start: !human_time '00:44:40.844'
+- end: !human_time '00:44:46.315'
+  lines:
+  - Zmizni!
+  start: !human_time '00:44:43.881'
+- end: !human_time '00:44:49.147'
+  lines:
+  - !!python/str "- M\xE9 rameno."
+  - !!python/str "- Hej, hej, hej. Sakra. Po\u010Dkejte."
+  start: !human_time '00:44:46.383'
+- end: !human_time '00:44:52.746'
+  lines:
+  - !!python/str "Sakra chlape, m\xE1\u0161"
+  - !!python/str "z\xE1da v h\xE1ji."
+  start: !human_time '00:44:49.219'
+- end: !human_time '00:44:55.553'
+  lines:
+  - !!python/str "Ch\xE1pe\u0161 douf\xE1m,"
+  - !!python/str "\u017Ee to byla na\u0161e jedin\xE1 zbra\u0148?"
+  start: !human_time '00:44:52.823'
+- end: !human_time '00:44:58.117'
+  lines:
+  - Nevotravuj!
+  - !!python/str "Byla to nehoda, jasn\xFD?"
+  start: !human_time '00:44:55.626'
+- end: !human_time '00:45:01.392'
+  lines:
+  - '- Co je sakra s tebou?'
+  - !!python/str "- Ty mu v\u011B\u0159\xED\u0161? Co?"
+  start: !human_time '00:44:58.195'
+- end: !human_time '00:45:05.730'
+  lines:
+  - !!python/str "Aha, u\u017E v\xEDm"
+  - o co tady jde!
+  start: !human_time '00:45:03.000'
+- end: !human_time '00:45:08.670'
+  lines:
+  - !!python/str "Tak\u017Ee vy te\u010F spolupracujete, jo?"
+  start: !human_time '00:45:05.803'
+- end: !human_time '00:45:10.673'
+  lines:
+  - !!python/str "A jakej je v tom rozd\xEDl?"
+  start: !human_time '00:45:08.739'
+- end: !human_time '00:45:13.869'
+  lines:
+  - !!python/str "Copak se odsa\u010F dostaneme rychlejc?"
+  start: !human_time '00:45:10.741'
+- end: !human_time '00:45:16.640'
+  lines:
+  - !!python/str "- To bych ne\u0159ekl."
+  - !!python/str "- Co to d\u011Bl\xE1\u0161?"
+  start: !human_time '00:45:13.944'
+- end: !human_time '00:45:19.774'
+  lines:
+  - !!python/str "Ned\u011Blej to!"
+  - Nerozvazuj ho!
+  start: !human_time '00:45:16.714'
+- end: !human_time '00:45:22.182'
+  lines:
+  - !!python/str "- Nem\xEDchej se do toho!"
+  - !!python/str "- M\u011Bli jsme dohodu!"
+  start: !human_time '00:45:19.850'
+- end: !human_time '00:45:24.880'
+  lines:
+  - !!python/str "Odstupuju od n\xED!"
+  start: !human_time '00:45:22.252'
+- end: !human_time '00:45:26.923'
+  lines:
+  - !!python/str "D\xEDky."
+  start: !human_time '00:45:24.955'
+- end: !human_time '00:45:29.254'
+  lines:
+  - Idiote!
+  start: !human_time '00:45:26.990'
+- end: !human_time '00:45:31.260'
+  lines:
+  - !!python/str "Jen ty a j\xE1."
+  start: !human_time '00:45:29.326'
+- end: !human_time '00:45:33.694'
+  lines:
+  - <i>Co je s tebou? Kurva!</i>
+  start: !human_time '00:45:31.328'
+- end: !human_time '00:45:36.631'
+  lines:
+  - !!python/str "<i>Rad\u0161i tam z\u016Fsta\u0148,</i>"
+  - !!python/str "<i>proto\u017Ee jsem s tebou neskon\u010Dil.</i>"
+  start: !human_time '00:45:33.764'
+- end: !human_time '00:45:44.603'
+  lines:
+  - !!python/str "Te\u010F to \u0161t\xEDpne."
+  start: !human_time '00:45:41.839'
+- end: !human_time '00:45:47.701'
+  lines:
+  - '- Sakra!'
+  - '- Kdo je Erin?'
+  start: !human_time '00:45:44.675'
+- end: !human_time '00:45:50.008'
+  lines:
+  - !!python/str "Tv\xE1 \u017Eena?"
+  start: !human_time '00:45:47.778'
+- end: !human_time '00:45:53.641'
+  lines:
+  - !!python/str "Nebo m\xE1 dcera."
+  - !!python/str "Nev\xEDm, kter\xE1 z nich."
+  start: !human_time '00:45:50.080'
+- end: !human_time '00:45:57.911'
+  lines:
+  - !!python/str "Aspo\u0148 m\xE1\u0161"
+  - !!python/str "n\u011Bkoho tam venku."
+  start: !human_time '00:45:54.885'
+- end: !human_time '00:46:04.354'
+  lines:
+  - !!python/str "Brzy si vzpomene\u0161."
+  - Hned jak odsud vypadnem.
+  start: !human_time '00:46:00.190'
+- end: !human_time '00:46:09.388'
+  lines:
+  - !!python/str "Jak si m\u016F\u017Ee\u0161 bejt tak jistej,"
+  - !!python/str "\u017Ee se n\xE1m bude l\xEDbit tam venku?"
+  start: !human_time '00:46:04.428'
+- end: !human_time '00:46:12.560'
+  lines:
+  - !!python/str "Mysl\xEDm, \u017Ee to co n\xE1s sem"
+  - !!python/str "dostalo stoj\xED za to si pamatovat."
+  start: !human_time '00:46:09.466'
+- end: !human_time '00:46:15.036'
+  lines:
+  - Nic. To je ono.
+  - !!python/str "Nic co si m\u016F\u017Eem pamatovat..."
+  start: !human_time '00:46:12.636'
+- end: !human_time '00:46:17.471'
+  lines:
+  - !!python/str "nem\xE1 co do \u010Din\u011Bn\xED s t\xEDm,"
+  - !!python/str "kdo ve skute\u010Dnosti jsme."
+  start: !human_time '00:46:15.105'
+- end: !human_time '00:46:20.704'
+  lines:
+  - !!python/str "Rozhodnut\xED, kter\xE1 ud\u011Bl\xE1me"
+  - !!python/str "v t\xFDhle d\xED\u0159e-"
+  start: !human_time '00:46:17.541'
+- end: !human_time '00:46:22.712'
+  lines:
+  - je to, co sami jsme.
+  start: !human_time '00:46:20.778'
+- end: !human_time '00:46:25.146'
+  lines:
+  - !!python/str "- Fakt tomu v\u011B\u0159\xED\u0161?"
+  - !!python/str "- Jo, k\xE1mo. V\u011B\u0159\xEDm."
+  start: !human_time '00:46:22.780'
+- end: !human_time '00:46:33.856'
+  lines:
+  - Sakra.
+  start: !human_time '00:46:31.922'
+- end: !human_time '00:46:38.156'
+  lines:
+  - !!python/str "Necht\u011Bl jsem p\u0159ed t\u011Bma dv\u011Bma"
+  - !!python/str "nic \u0159\xEDkat, ale v\xEDm kdo jsme."
+  start: !human_time '00:46:33.924'
+- end: !human_time '00:46:41.220'
+  lines:
+  - !!python/str "- Pamatuje\u0161 si n\u011Bco?"
+  - '- Jo.'
+  start: !human_time '00:46:38.228'
+- end: !human_time '00:46:43.266'
+  lines:
+  - !!python/str "O n\xE1s dvou?"
+  start: !human_time '00:46:41.298'
+- end: !human_time '00:46:46.359'
+  lines:
+  - !!python/str "Jo. Ta v\u016Fn\u011B."
+  - !!python/str "Tu v\u016Fni si pamatuju dlouho..."
+  start: !human_time '00:46:43.333'
+- end: !human_time '00:46:48.904'
+  lines:
+  - Tady a taky tam.
+  start: !human_time '00:46:46.436'
+- end: !human_time '00:46:51.270'
+  lines:
+  - !!python/str "Vid\xED\u0161?"
+  start: !human_time '00:46:48.972'
+- end: !human_time '00:46:55.038'
+  lines:
+  - !!python/str "- Pamatuji si, \u017Ee m\xE1m pomeran\u010Dovn\xEDky."
+  - !!python/str "- M\xE1\u0161 pomeran\u010Dovn\xEDky?"
+  start: !human_time '00:46:51.341'
+- end: !human_time '00:46:58.081'
+  lines:
+  - !!python/str "- Jasn\u011B, na m\xE9m ran\u010Di. Rodinn\xE1 tradice."
+  - '- Kurva.'
+  start: !human_time '00:46:55.112'
+- end: !human_time '00:46:59.740'
+  lines:
+  - !!python/str "- J\xE1 jsem Coles."
+  - !!python/str "- Tak ty se\u0161 Coles teda."
+  start: !human_time '00:46:58.148'
+- end: !human_time '00:47:01.375'
+  lines:
+  - Jsem William Coles.
+  - !!python/str "Skute\u010Dn\u011B jsem."
+  start: !human_time '00:46:59.817'
+- end: !human_time '00:47:03.248'
+  lines:
+  - !!python/str "- On m\u011Bl pravdu."
+  - !!python/str "- Mysl\xEDm, \u017Ee sp\xED\u0161e tipoval."
+  start: !human_time '00:47:01.451'
+- end: !human_time '00:47:05.788'
+  lines:
+  - !!python/str "Nem\xE1m \u017E\xE1dn\xFD d\u011Bti."
+  - !!python/str "Aspo\u0148 mysl\xEDm, \u017Ee ne."
+  start: !human_time '00:47:03.320'
+- end: !human_time '00:47:08.017'
+  lines:
+  - !!python/str "Po\u010Dkat.."
+  - !!python/str "Pro\u010D mi to v\u016Fbec \u0159\xEDk\xE1\u0161?"
+  start: !human_time '00:47:05.856'
+- end: !human_time '00:47:11.083'
+  lines:
+  - !!python/str "- Nech\xE1pe\u0161 to? Ty jsi McCain."
+  - !!python/str "- J\xE1, McCain? Ne!"
+  start: !human_time '00:47:08.091'
+- end: !human_time '00:47:13.425'
+  lines:
+  - '- Ano.'
+  - !!python/str "- To si pamatuje\u0161?"
+  start: !human_time '00:47:11.161'
+- end: !human_time '00:47:15.761'
+  lines:
+  - !!python/str "J\xE1..."
+  start: !human_time '00:47:13.497'
+- end: !human_time '00:47:18.358'
+  lines:
+  - !!python/str "P\u016Fvodn\xED n\xE1vrhy, co jsme"
+  - !!python/str "ti dali jsou f\xE9r."
+  start: !human_time '00:47:15.833'
+- end: !human_time '00:47:21.233'
+  lines:
+  - !!python/str "Jestli to chce\u0161,"
+  - tak za hodinu zavolej.
+  start: !human_time '00:47:18.435'
+- end: !human_time '00:47:25.802'
+  lines:
+  - Ne. Ne, ale ty
+  - !!python/str "mus\xED\u0161 b\xFDt McCain."
+  start: !human_time '00:47:23.607'
+- end: !human_time '00:47:28.367'
+  lines:
+  - !!python/str "- Mus\xED\u0161 b\xFDt McCain."
+  - !!python/str "- Pro\u010D se\u0161 si tak jistej?"
+  start: !human_time '00:47:25.876'
+- end: !human_time '00:47:31.107'
+  lines:
+  - !!python/str "A\u0165 je to jakkoliv,"
+  - !!python/str "c\xEDt\xEDm, \u017Ee ti m\u016F\u017Eu v\u011B\u0159it..."
+  start: !human_time '00:47:28.445'
+- end: !human_time '00:47:34.446'
+  lines:
+  - !!python/str "a kdy\u017E si pamatuju tohle,"
+  - !!python/str "tak mus\xEDme vypadnout. Budou tady brzy."
+  start: !human_time '00:47:31.181'
+- end: !human_time '00:47:37.078'
+  lines:
+  - !!python/str "- Co kdy\u017E se plete\u0161?"
+  - !!python/str "- Nepletu se, jasn\xFD? Jsi McCain."
+  start: !human_time '00:47:34.518'
+- end: !human_time '00:47:40.282'
+  lines:
+  - !!python/str "- Je to jedin\xE1 v\u011Bc, co d\xE1v\xE1 smysl."
+  - !!python/str "- Kurva. J\xE1 nejsem McCain."
+  start: !human_time '00:47:37.154'
+- end: !human_time '00:47:44.384'
+  lines:
+  - !!python/str "- Co\u017Ee?"
+  - !!python/str "- Taky si n\u011Bco pamatuju."
+  start: !human_time '00:47:41.358'
+- end: !human_time '00:47:46.395'
+  lines:
+  - A co?
+  start: !human_time '00:47:44.461'
+- end: !human_time '00:47:50.397'
+  lines:
+  - !!python/str "Jak jsi to mohl ud\u011Blat?"
+  start: !human_time '00:47:48.031'
+- end: !human_time '00:47:53.300'
+  lines:
+  - !!python/str "Jednat se mnou jak s \u010Doklem!"
+  start: !human_time '00:47:50.467'
+- end: !human_time '00:47:55.770'
+  lines:
+  - !!python/str "Jako se smradlav\xFDm \u010Doklem!"
+  start: !human_time '00:47:53.370'
+- end: !human_time '00:47:59.172'
+  lines:
+  - !!python/str "- Poni\u017Eovals m\u011B! Vid\xED\u0161?"
+  - '- Vodprejskni!'
+  start: !human_time '00:47:55.839'
+- end: !human_time '00:48:01.973'
+  lines:
+  - '- Zmodrali!'
+  - !!python/str "- T\xE1hni ode m\u011B!"
+  start: !human_time '00:47:59.243'
+- end: !human_time '00:48:05.173'
+  lines:
+  - '- Co je s tebou?'
+  - !!python/str "- Jak jsi to mohl ud\u011Blat?"
+  start: !human_time '00:48:02.045'
+- end: !human_time '00:48:07.183'
+  lines:
+  - !!python/str "Ud\u011Blal bys to sam\xE9."
+  start: !human_time '00:48:05.249'
+- end: !human_time '00:48:09.879'
+  lines:
+  - <i>Tys byl</i>
+  - !!python/str "<i>ten kdo m\u011Bl zbra\u0148!</i>"
+  start: !human_time '00:48:07.251'
+- end: !human_time '00:48:15.291'
+  lines:
+  - Hej.
+  start: !human_time '00:48:12.356'
+- end: !human_time '00:48:17.418'
+  lines:
+  - !!python/str "Venku n\u011Bkdo je."
+  start: !human_time '00:48:15.359'
+- end: !human_time '00:48:19.460'
+  lines:
+  - <i>A kde?</i>
+  start: !human_time '00:48:18.061'
+- end: !human_time '00:48:22.498'
+  lines:
+  - !!python/str "P\u0159\xEDmo t\xE1mhle."
+  - !!python/str "Vid\xED\u0161 ho? Za tou branou."
+  start: !human_time '00:48:19.529'
+- end: !human_time '00:48:25.194'
+  lines:
+  - To jsou oni?
+  start: !human_time '00:48:22.566'
+- end: !human_time '00:48:27.499'
+  lines:
+  - !!python/str "<i>Ne, ne\u0159ekl bych.</i>"
+  - <i>Tihle jsou tu moc brzo.</i>
+  start: !human_time '00:48:25.269'
+- end: !human_time '00:48:30.699'
+  lines:
+  - !!python/str "- Hal\xF3!"
+  - !!python/str "- <i>Hal\xF3!</i>"
+  start: !human_time '00:48:27.571'
+- end: !human_time '00:48:34.801'
+  lines:
+  - <i>Hej! Hej, ty! Tady jsme!</i>
+  start: !human_time '00:48:30.774'
+- end: !human_time '00:48:38.507'
+  lines:
+  - Hej! Hej!
+  start: !human_time '00:48:34.878'
+- end: !human_time '00:48:40.516'
+  lines:
+  - '- <i>Tady jsme!</i>'
+  - '- <i>Hej!</i>'
+  start: !human_time '00:48:38.582'
+- end: !human_time '00:48:42.575'
+  lines:
+  - Hej, hej, hej.
+  start: !human_time '00:48:40.584'
+- end: !human_time '00:48:46.180'
+  lines:
+  - Uhni!
+  - !!python/str "J\xE1 to zkus\xEDm."
+  start: !human_time '00:48:44.087'
+- end: !human_time '00:48:51.386'
+  lines:
+  - !!python/str "Vid\xED\u0161 n\u011Bco?"
+  start: !human_time '00:48:48.292'
+- end: !human_time '00:48:54.225'
+  lines:
+  - !!python/str "Nato\u010D to trochu. Nato\u010D to trochu."
+  start: !human_time '00:48:51.461'
+- end: !human_time '00:48:58.234'
+  lines:
+  - '- <i>Hele, hele. Co tam je?</i>'
+  - '- Do prdele. Je to kluk.'
+  start: !human_time '00:48:54.298'
+- end: !human_time '00:49:00.167'
+  lines:
+  - <i>Kluku! Hej!</i>
+  start: !human_time '00:48:58.302'
+- end: !human_time '00:49:02.137'
+  lines:
+  - '- <i>Hej!</i>'
+  - !!python/str "- Nerozum\xED."
+  start: !human_time '00:49:00.237'
+- end: !human_time '00:49:05.140'
+  lines:
+  - !!python/str "<i>Nerozum\xED co \u0159\xEDk\xE1\u0161.</i>"
+  - !!python/str "<i>Nemluv\xED anglicky.</i>"
+  start: !human_time '00:49:02.205'
+- end: !human_time '00:49:13.844'
+  lines:
+  - !!python/str "Co to k \u010Dertu?"
+  start: !human_time '00:49:09.646'
+- end: !human_time '00:49:20.379'
+  lines:
+  - <i>Ramone. Jedem.</i>
+  start: !human_time '00:49:17.888'
+- end: !human_time '00:49:23.324'
+  lines:
+  - <i>Hej! Hej!</i>
+  start: !human_time '00:49:20.457'
+- end: !human_time '00:49:26.260'
+  lines:
+  - !!python/str "<i>P\u0159ive\u010F rodi\u010De!</i>"
+  start: !human_time '00:49:23.393'
+- end: !human_time '00:49:28.696'
+  lines:
+  - !!python/str "Po\u010Dkej, po\u010Dkej, d\xEDvej!"
+  - !!python/str "Jde zp\xE1tky! Jde zp\xE1tky!"
+  start: !human_time '00:49:26.330'
+- end: !human_time '00:49:31.256'
+  lines:
+  - '- <i>Jsi si jistej?</i>'
+  - !!python/str "- <i>Jo. \u0160ikovnej kluk. Jde k nim.</i>"
+  start: !human_time '00:49:28.765'
+- end: !human_time '00:49:36.833'
+  lines:
+  - !!python/str "<i>Jo, nastupuje. Koukni na n\u011Bj!</i>"
+  start: !human_time '00:49:33.670'
+- end: !human_time '00:49:38.841'
+  lines:
+  - !!python/str "<i>U\u017E jedou! Hur\xE1!</i>"
+  start: !human_time '00:49:36.907'
+- end: !human_time '00:49:40.877'
+  lines:
+  - !!python/str "Dok\xE1zals to!"
+  start: !human_time '00:49:38.909'
+- end: !human_time '00:49:45.904'
+  lines:
+  - !!python/str "<i>Hur\xE1! Tady jsme!</i>"
+  - <i>Koukni se sem!</i>
+  start: !human_time '00:49:40.944'
+- end: !human_time '00:49:49.510'
+  lines:
+  - <i>Ne. Ne!</i>
+  start: !human_time '00:49:45.983'
+- end: !human_time '00:49:54.523'
+  lines:
+  - !!python/str "Ne! Pom\xF3c!"
+  - Hej! Ne. Kurva!
+  start: !human_time '00:49:49.586'
+- end: !human_time '00:49:56.650'
+  lines:
+  - '- <i>Ne!</i>'
+  - !!python/str "- Ka\u0161li na to."
+  start: !human_time '00:49:54.591'
+- end: !human_time '00:50:03.723'
+  lines:
+  - Sakra.
+  start: !human_time '00:50:01.732'
+- end: !human_time '00:51:02.686'
+  lines:
+  - !!python/str "Hej, m\u016F\u017Eete mi pomoct?"
+  start: !human_time '00:50:59.990'
+- end: !human_time '00:51:46.125'
+  lines:
+  - Tady.
+  start: !human_time '00:51:44.134'
+- end: !human_time '00:51:53.275'
+  lines:
+  - !!python/str "D\xEDky."
+  start: !human_time '00:51:51.341'
+- end: !human_time '00:51:56.210'
+  lines:
+  - !!python/str "Asi v\xED\u0161, \u017Ee to"
+  - !!python/str "nedok\xE1\u017Eu sundat."
+  start: !human_time '00:51:53.343'
+- end: !human_time '00:52:00.540'
+  lines:
+  - !!python/str "P\u0159esto d\xEDky."
+  start: !human_time '00:51:58.515'
+- end: !human_time '00:52:05.418'
+  lines:
+  - !!python/str "Mysl\xED\u0161, \u017Ee se boj\xEDm smrti?"
+  start: !human_time '00:52:03.120'
+- end: !human_time '00:52:13.454'
+  lines:
+  - !!python/str "Neboj\xEDm se smrti."
+  start: !human_time '00:52:11.361'
+- end: !human_time '00:52:17.934'
+  lines:
+  - !!python/str "Ne\u0159\xEDkal jsem ti,"
+  - !!python/str "\u017Ee to m\xE1\u0161 vzd\xE1t."
+  start: !human_time '00:52:14.965'
+- end: !human_time '00:52:26.936'
+  lines:
+  - !!python/str "Co \u0159\xEDk\xE1 E.T.A."
+  - !!python/str "na \u017E\xE1dost o posilu?"
+  start: !human_time '00:52:24.274'
+- end: !human_time '00:52:28.978'
+  lines:
+  - Jsou asi tak dvacet minut odtud.
+  start: !human_time '00:52:27.010'
+- end: !human_time '00:52:35.246'
+  lines:
+  - Serem na to.
+  - !!python/str "Vl\xEDtnem na n\u011B."
+  start: !human_time '00:52:31.515'
+- end: !human_time '00:52:38.454'
+  lines:
+  - Policie! Nikdo se ani nehne.
+  start: !human_time '00:52:36.486'
+- end: !human_time '00:52:40.353'
+  lines:
+  - '- <i>Kde je?</i>'
+  - '- Co je tohle?'
+  start: !human_time '00:52:38.522'
+- end: !human_time '00:52:43.187'
+  lines:
+  - !!python/str "- <i>Tady nic nen\xED. Co u tebe?</i>"
+  - '- <i>Nic!</i>'
+  start: !human_time '00:52:40.423'
+- end: !human_time '00:52:45.854'
+  lines:
+  - !!python/str "- Je n\u011Bkdo vzadu?"
+  - '- Ne?'
+  start: !human_time '00:52:43.260'
+- end: !human_time '00:52:47.692'
+  lines:
+  - !!python/str "- Vid\xED\u0161 ho?"
+  - '- <i>Ne.</i>'
+  start: !human_time '00:52:45.929'
+- end: !human_time '00:52:53.867'
+  lines:
+  - <i>Kde je?</i>
+  - !!python/str "<i>\u0158ekl jsem, kde je?</i>"
+  start: !human_time '00:52:50.500'
+- end: !human_time '00:52:58.006'
+  lines:
+  - !!python/str "<i>Komu pat\u0159\xED ten pick-up?</i>"
+  start: !human_time '00:52:56.072'
+- end: !human_time '00:53:01.237'
+  lines:
+  - !!python/str "Mysl\xEDte si, \u017Ee v\xE1m"
+  - !!python/str "nakonec za\u010Dnou t\u0159eba rozum\u011Bt?"
+  start: !human_time '00:52:58.074'
+- end: !human_time '00:53:16.558'
+  lines:
+  - !!python/str "- \u017Dlut\xFD pick-up!"
+  - !!python/str "- Ten \u017Elut\xFD je m\u016Fj."
+  start: !human_time '00:53:12.189'
+- end: !human_time '00:53:19.628'
+  lines:
+  - !!python/str "A co s n\xEDm je?"
+  start: !human_time '00:53:17.694'
+- end: !human_time '00:53:32.236'
+  lines:
+  - !!python/str "Za jak\xFD blbce"
+  - !!python/str "n\xE1s ti chlapi maj\xED?"
+  start: !human_time '00:53:29.506'
+- end: !human_time '00:53:35.472'
+  lines:
+  - !!python/str "Mo\u017En\xE1 jsme v\u010Derej\u0161\xED,"
+  - !!python/str "ale ne p\u0159edv\u010Derej\u0161\xED."
+  start: !human_time '00:53:32.309'
+- end: !human_time '00:53:39.272'
+  lines:
+  - !!python/str "\u0160l\xE1pni na to sakra!"
+  start: !human_time '00:53:37.247'
+- end: !human_time '00:53:42.477'
+  lines:
+  - Vyzvedneme Leona, Raye
+  - !!python/str "a skon\u010D\xEDme to."
+  start: !human_time '00:53:39.349'
+- end: !human_time '00:53:46.648'
+  lines:
+  - !!python/str "Nejd\u0159\xEDv ta sk\u0159\xED\u0148ka,"
+  - !!python/str "te\u010F tohle."
+  start: !human_time '00:53:44.521'
+- end: !human_time '00:53:54.929'
+  lines:
+  - '- Hej.'
+  - !!python/str "- Posran\xE1 \u0161t\u011Bnice."
+  start: !human_time '00:53:52.495'
+- end: !human_time '00:53:56.827'
+  lines:
+  - !!python/str "<i>Mus\xEDme se zmocnit t\xE9 zbran\u011B.</i>"
+  start: !human_time '00:53:55.565'
+- end: !human_time '00:53:59.960'
+  lines:
+  - !!python/str "- U\u017E jsme to zkou\u0161eli."
+  - !!python/str "- Spole\u010Dn\u011B jsme to nezkou\u0161eli."
+  start: !human_time '00:53:56.900'
+- end: !human_time '00:54:02.504'
+  lines:
+  - <i>Hele, vezmeme ten provaz.</i>
+  - !!python/str "<i>Ud\u011Bl\xE1m to.</i>"
+  start: !human_time '00:54:00.036'
+- end: !human_time '00:54:05.803'
+  lines:
+  - !!python/str "Dostali jste \u0161anci a posrali to."
+  - !!python/str "M\u011B se to mo\u017En\xE1 povede."
+  start: !human_time '00:54:02.572'
+- end: !human_time '00:54:07.809'
+  lines:
+  - !!python/str "Budou tady ka\u017Ed\xFDm okam\u017Eikem, \u017Ee jo?"
+  start: !human_time '00:54:05.875'
+- end: !human_time '00:54:11.438'
+  lines:
+  - !!python/str "M\xE1 cenu n\u011Bco d\u011Blat?"
+  - !!python/str "M\u016F\u017Eeme losovat, cokoliv."
+  start: !human_time '00:54:07.877'
+- end: !human_time '00:54:14.779'
+  lines:
+  - !!python/str "M\xE1m po krk \u010Dek\xE1n\xED na ty zmrdy!"
+  - !!python/str "P\u0159\xEDsah\xE1m, \u017Ee se t\u011B\u0161\xEDm, a\u017E tu budou."
+  start: !human_time '00:54:11.514'
+- end: !human_time '00:54:18.446'
+  lines:
+  - !!python/str "A co jako ud\u011Bl\xE1\u0161?"
+  - !!python/str "Bude\u0161 f\u0148ukat dokud se neobjev\xED?"
+  start: !human_time '00:54:14.851'
+- end: !human_time '00:54:21.217'
+  lines:
+  - !!python/str "- Zav\u0159ete oba dr\u017Eky!"
+  - '- <i>Naser si!</i>'
+  start: !human_time '00:54:18.521'
+- end: !human_time '00:54:25.193'
+  lines:
+  - !!python/str "- Ty se\u0161 blb co nechal boucha\u010Dku naho\u0159e."
+  - '- Hej!'
+  start: !human_time '00:54:21.291'
+- end: !human_time '00:54:28.220'
+  lines:
+  - Pamatuju si.
+  start: !human_time '00:54:26.229'
+- end: !human_time '00:54:34.904'
+  lines:
+  - Pamatuju si.
+  start: !human_time '00:54:32.936'
+- end: !human_time '00:54:37.963'
+  lines:
+  - <i>Bylo mi sedm</i>
+  - !!python/str "<i>a tob\u011B dev\u011Bt.</i>"
+  start: !human_time '00:54:34.971'
+- end: !human_time '00:54:43.411'
+  lines:
+  - !!python/str "<i>Cht\u011Bli jsme plout tam</i>"
+  - !!python/str "<i>na to jezero s k\xE1mo\u0161ema.</i>"
+  start: !human_time '00:54:38.041'
+- end: !human_time '00:54:45.414'
+  lines:
+  - !!python/str "Pamatuje\u0161 si to?"
+  start: !human_time '00:54:43.480'
+- end: !human_time '00:54:48.349'
+  lines:
+  - !!python/str "Zn\xE1\u0161 m\u011B?"
+  start: !human_time '00:54:45.482'
+- end: !human_time '00:54:51.717'
+  lines:
+  - !!python/str "M\u016Fj t\xE1t\xE1 n\xE1m to zak\xE1zal..."
+  start: !human_time '00:54:48.418'
+- end: !human_time '00:54:54.984'
+  lines:
+  - !!python/str "kv\u016Fli bou\u0159ce."
+  start: !human_time '00:54:52.789'
+- end: !human_time '00:54:56.992'
+  lines:
+  - !!python/str "<i>Poslali jsme ho do h\xE1je.</i>"
+  start: !human_time '00:54:55.058'
+- end: !human_time '00:54:59.654'
+  lines:
+  - !!python/str "<i>Co ten mohl v\u011Bd\u011Bt?</i>"
+  start: !human_time '00:54:57.060'
+- end: !human_time '00:55:04.063'
+  lines:
+  - !!python/str "<i>pluli jsme tam t\xE1tov\xFDm</i>"
+  - <i>MacGregorem 26...</i>
+  start: !human_time '00:54:59.729'
+- end: !human_time '00:55:07.297'
+  lines:
+  - !!python/str "<i>a h\xE1dali jsme se</i>"
+  - <i>cestou tam...</i>
+  start: !human_time '00:55:04.134'
+- end: !human_time '00:55:10.362'
+  lines:
+  - !!python/str "kdo je nejlep\u0161\xED nadhazova\u010D,"
+  - !!python/str "vyhl\xE1\u0161en\xFD neju\u017Eite\u010Dn\u011Bj\u0161\xEDm hr\xE1\
+    \u010Dem."
+  start: !human_time '00:55:07.370'
+- end: !human_time '00:55:14.409'
+  lines:
+  - Sandy Kaufax.
+  start: !human_time '00:55:11.474'
+- end: !human_time '00:55:18.106'
+  lines:
+  - !!python/str "<i>Tolik jsme se kv\u016Fli</i>"
+  - !!python/str "<i>tomu h\xE1dali...</i>"
+  start: !human_time '00:55:14.477'
+- end: !human_time '00:55:23.517'
+  lines:
+  - !!python/str "\u017Ee jsme si ani neuv\u011Bdomili,"
+  - jak se vzdalujeme od pevniny.
+  start: !human_time '00:55:18.181'
+- end: !human_time '00:55:27.522'
+  lines:
+  - !!python/str "<i>J\xE1 jsem byl</i>"
+  - !!python/str "<i>\xFApln\u011B posranej strachy.</i>"
+  start: !human_time '00:55:23.586'
+- end: !human_time '00:55:32.888'
+  lines:
+  - !!python/str "<i>Vid\u011Bl jsem ale,</i>"
+  - !!python/str "<i>\u017Ee ty taky...</i>"
+  start: !human_time '00:55:28.792'
+- end: !human_time '00:55:36.398'
+  lines:
+  - !!python/str "i p\u0159esto jsi mluvil jakoby nic."
+  start: !human_time '00:55:32.962'
+- end: !human_time '00:55:43.362'
+  lines:
+  - !!python/str "<i>Pak p\u0159i\u0161la ta velk\xE1 vlna</i>"
+  - !!python/str "<i>a p\u0159evr\xE1tila n\xE1s.</i>"
+  start: !human_time '00:55:37.901'
+- end: !human_time '00:55:47.536'
+  lines:
+  - !!python/str "Pamatuji si,jak jsem \u0161el ke dnu..."
+  start: !human_time '00:55:43.440'
+- end: !human_time '00:55:49.669'
+  lines:
+  - !!python/str "a nev\u011Bd\u011Bl jsem, kde jsem."
+  start: !human_time '00:55:47.610'
+- end: !human_time '00:55:56.714'
+  lines:
+  - !!python/str "<i>Myslel jsem, \u017Ee kdy\u017E nenajdu</i>"
+  - !!python/str "<i>cestu nahoru, bude po m\u011B.</i>"
+  start: !human_time '00:55:52.015'
+- end: !human_time '00:55:58.913'
+  lines:
+  - A pak ta ruka-
+  start: !human_time '00:55:56.786'
+- end: !human_time '00:56:04.725'
+  lines:
+  - !!python/str "ta ruka s\xE1hla dol\u016F..."
+  start: !human_time '00:56:01.358'
+- end: !human_time '00:56:06.989'
+  lines:
+  - !!python/str "a chytla m\u011B..."
+  start: !human_time '00:56:04.794'
+- end: !human_time '00:56:09.088'
+  lines:
+  - !!python/str "<i>a vyt\xE1hla nahoru.</i>"
+  start: !human_time '00:56:07.063'
+- end: !human_time '00:56:11.827'
+  lines:
+  - !!python/str "<i>Musel jsi vid\u011Bt,</i>"
+  - !!python/str "<i>jak jsem byl vystra\u0161en\xFD.</i>"
+  start: !human_time '00:56:09.165'
+- end: !human_time '00:56:17.465'
+  lines:
+  - Kouknul ses
+  - !!python/str "mi do o\u010D\xED..."
+  start: !human_time '00:56:14.337'
+- end: !human_time '00:56:20.668'
+  lines:
+  - !!python/str "a \u0159ekl jsi mi"
+  - !!python/str "a\u0165 to nevzd\xE1v\xE1m."
+  start: !human_time '00:56:17.540'
+- end: !human_time '00:56:24.077'
+  lines:
+  - !!python/str "<i>\u017De nikdo nebude um\xEDrat.</i>"
+  start: !human_time '00:56:21.745'
+- end: !human_time '00:56:26.672'
+  lines:
+  - !!python/str "<i>Museli jsme v\u0161ichni</i>"
+  - !!python/str "<i>dr\u017Eet pohromad\u011B...</i>"
+  start: !human_time '00:56:24.147'
+- end: !human_time '00:56:29.810'
+  lines:
+  - !!python/str "<i>a spole\u010Dn\u011B se</i>"
+  - !!python/str "<i>dr\u017Eet na t\xE9 lodi.</i>"
+  start: !human_time '00:56:26.750'
+- end: !human_time '00:56:35.224'
+  lines:
+  - !!python/str "A to jsme d\u011Blali..."
+  start: !human_time '00:56:32.756'
+- end: !human_time '00:56:40.329'
+  lines:
+  - !!python/str "Cel\xFD \u010Dty\u0159i hodiny..."
+  start: !human_time '00:56:37.360'
+- end: !human_time '00:56:42.331'
+  lines:
+  - !!python/str "se dr\u017Eeli..."
+  start: !human_time '00:56:40.397'
+- end: !human_time '00:56:44.458'
+  lines:
+  - !!python/str "<i>p\u0159esn\u011B jak jsi \u0159ekl.</i>"
+  start: !human_time '00:56:42.399'
+- end: !human_time '00:56:59.544'
+  lines:
+  - !!python/str "Jo, to je v\u0161echno moc dojemn\xFD."
+  start: !human_time '00:56:56.279'
+- end: !human_time '00:57:01.948'
+  lines:
+  - !!python/str "Ale \xFApln\u011B na hovno!"
+  start: !human_time '00:56:59.616'
+- end: !human_time '00:57:04.987'
+  lines:
+  - !!python/str "Tak u\u017E dost o lod\xEDch, chlap\u010De"
+  - !!python/str "Co jsi za\u010D?"
+  start: !human_time '00:57:02.018'
+- end: !human_time '00:57:07.045'
+  lines:
+  - Poslouchejte
+  - !!python/str "co \u0159\xEDk\xE1."
+  start: !human_time '00:57:05.054'
+- end: !human_time '00:57:09.216'
+  lines:
+  - !!python/str "M\xE1 pravdu."
+  - !!python/str "Mus\xEDme t\xE1hnout za jeden provaz."
+  start: !human_time '00:57:07.123'
+- end: !human_time '00:57:11.385'
+  lines:
+  - <i>Ne, poslouchej</i>
+  - !!python/str "<i>co \u0159\xEDk\xE1m j\xE1!</i>"
+  start: !human_time '00:57:09.292'
+- end: !human_time '00:57:15.329'
+  lines:
+  - !!python/str "Jestli\u017Ee on v\xED kdo je,"
+  - !!python/str "tak n\xE1m m\u016F\u017Ee \u0159\xEDct kdo jsme my."
+  start: !human_time '00:57:11.461'
+- end: !human_time '00:57:18.299'
+  lines:
+  - Je jedno kdo jsme!
+  start: !human_time '00:57:15.398'
+- end: !human_time '00:57:20.996'
+  lines:
+  - !!python/str "Proto\u017Ee oni tady budou ka\u017Edou chv\xEDli."
+  start: !human_time '00:57:18.368'
+- end: !human_time '00:57:25.006'
+  lines:
+  - !!python/str "- Dob\u0159e, m\xE1me jen jeden pokus!"
+  - !!python/str "- Hej, \u0159ekni n\xE1m kdo se\u0161!"
+  start: !human_time '00:57:21.070'
+- end: !human_time '00:57:28.373'
+  lines:
+  - !!python/str "Kdo jsi, chlap\u010De?"
+  - !!python/str "\u0158ekni n\xE1m to, chlap\u010De!"
+  start: !human_time '00:57:25.074'
+- end: !human_time '00:57:45.184'
+  lines:
+  - !!python/str "Promi\u0148."
+  start: !human_time '00:57:43.193'
+- end: !human_time '00:57:59.801'
+  lines:
+  - !!python/str "Nev\xEDm, kdo sakra jsi."
+  start: !human_time '00:57:57.207'
+- end: !human_time '00:58:02.140'
+  lines:
+  - Je mi to jedno.
+  start: !human_time '00:57:59.876'
+- end: !human_time '00:58:05.181'
+  lines:
+  - !!python/str "Mo\u017En\xE1 ty jsi \xFAnosce."
+  - !!python/str "J\xE1 nev\xEDm."
+  start: !human_time '00:58:02.212'
+- end: !human_time '00:58:08.116'
+  lines:
+  - !!python/str "V\xED\u0161, co si mysl\xEDm?"
+  start: !human_time '00:58:06.182'
+- end: !human_time '00:58:10.914'
+  lines:
+  - !!python/str "Mo\u017En\xE1 n\u011Bkde v pr\u016Fb\u011Bhu d\u011Bn\xED"
+  - !!python/str "jsi zapomn\u011Bl, k\xFDm si b\xFDval..."
+  start: !human_time '00:58:08.184'
+- end: !human_time '00:58:13.251'
+  lines:
+  - !!python/str "ne\u017E si se stal jedn\xEDm z n\xE1s."
+  start: !human_time '00:58:10.987'
+- end: !human_time '00:58:17.692'
+  lines:
+  - Bez ohledu na to,
+  - !!python/str "bez tebe to nezvl\xE1dneme."
+  start: !human_time '00:58:13.323'
+- end: !human_time '00:58:23.188'
+  lines:
+  - !!python/str "Ty zna\u010Dky nejsou"
+  - !!python/str "na sn\xEDmc\xEDch vid\u011Bt."
+  start: !human_time '00:58:20.196'
+- end: !human_time '00:58:28.527'
+  lines:
+  - !!python/str "- Po\u010Dkej."
+  - '- <i>Co je?</i>'
+  start: !human_time '00:58:25.535'
+- end: !human_time '00:58:31.574'
+  lines:
+  - Tady. V odrazu okna
+  - !!python/str "t\xE9 benz\xEDnky."
+  start: !human_time '00:58:28.605'
+- end: !human_time '00:58:35.202'
+  lines:
+  - !!python/str "- To je jejich p\u0159edn\xED zna\u010Dka."
+  - !!python/str "- Nahraj to Molinovi. Pot\u0159ebujem lep\u0161\xED fotku."
+  start: !human_time '00:58:31.641'
+- end: !human_time '00:58:37.610'
+  lines:
+  - !!python/str "Dej v\u011Bd\u011Bt. Dej v\u011Bd\u011Bt, a\u017E to p\u0159ijde."
+  start: !human_time '00:58:35.278'
+- end: !human_time '00:58:39.648'
+  lines:
+  - !!python/str "Je\u0161t\u011B. Je\u0161t\u011B."
+  start: !human_time '00:58:37.680'
+- end: !human_time '00:58:42.651'
+  lines:
+  - !!python/str "Po\u010Dkat. Jen to naklo\u0148."
+  - !!python/str "Naklo\u0148 to a zat\xE1hni. Jo!"
+  start: !human_time '00:58:39.716'
+- end: !human_time '00:58:44.710'
+  lines:
+  - '- Tady je.'
+  - !!python/str "- Par\xE1da!"
+  start: !human_time '00:58:42.719'
+- end: !human_time '00:58:53.956'
+  lines:
+  - !!python/str "- Kam \u0161la?"
+  - !!python/str "- \u0158ekla, \u017Ee pot\u0159ebuje na \u010Derstv\xFD vzduch."
+  start: !human_time '00:58:50.793'
+- end: !human_time '00:59:04.029'
+  lines:
+  - !!python/str "- K\xE1vu?"
+  - !!python/str "- Ne, d\xEDky."
+  start: !human_time '00:59:01.504'
+- end: !human_time '00:59:06.632'
+  lines:
+  - !!python/str "J\xE1 u\u017E taky nem\u016F\u017Eu."
+  start: !human_time '00:59:04.107'
+- end: !human_time '00:59:08.643'
+  lines:
+  - Mohu?
+  start: !human_time '00:59:06.709'
+- end: !human_time '00:59:28.687'
+  lines:
+  - !!python/str "Bill\u016Fv otec se vypracoval s\xE1m."
+  start: !human_time '00:59:25.695'
+- end: !human_time '00:59:33.031'
+  lines:
+  - !!python/str "P\u0159edt\xEDm, ne\u017E n\u011Bco m\u011Bl,"
+  - !!python/str "postavil d\u016Fm na Eagle Ridge."
+  start: !human_time '00:59:28.765'
+- end: !human_time '00:59:36.833'
+  lines:
+  - !!python/str "<i>N\xE1dhern\xE9 m\xEDsto.</i>"
+  - !!python/str "<i>Tam v kopc\xEDch.</i>"
+  start: !human_time '00:59:33.102'
+- end: !human_time '00:59:41.467'
+  lines:
+  - !!python/str "P\u0159ed n\u011Bkolika lety sho\u0159el."
+  start: !human_time '00:59:39.442'
+- end: !human_time '00:59:44.836'
+  lines:
+  - Bill se rozhodl...
+  start: !human_time '00:59:42.845'
+- end: !human_time '00:59:47.712'
+  lines:
+  - !!python/str "ho znovu postavit vlastn\xEDma"
+  - !!python/str "rukama stejn\u011B jako jeho otec."
+  start: !human_time '00:59:44.914'
+- end: !human_time '00:59:57.653'
+  lines:
+  - !!python/str "Je jeden z nejbohat\u0161\xEDch mu\u017E\u016F ve st\xE1t\u011B,"
+  - !!python/str "nem\xE1 \u010Das si kdy vydechnout, ale..."
+  start: !human_time '00:59:52.989'
+- end: !human_time '01:00:00.457'
+  lines:
+  - !!python/str "musel to ud\u011Blat, v\xEDte?"
+  start: !human_time '00:59:57.727'
+- end: !human_time '01:00:02.623'
+  lines:
+  - !!python/str "Dok\xE1zat si, \u017Ee na to m\xE1."
+  start: !human_time '01:00:00.530'
+- end: !human_time '01:00:09.398'
+  lines:
+  - !!python/str "Mus\xED to b\xFDt kr\xE1sn\xE9"
+  - !!python/str "pro v\xE1s oba."
+  start: !human_time '01:00:07.203'
+- end: !human_time '01:00:11.940'
+  lines:
+  - !!python/str "<i>Mysl\xEDm, m\xEDt</i>"
+  - !!python/str "<i>m\xEDsto kam odjet.</i>"
+  start: !human_time '01:00:09.472'
+- end: !human_time '01:00:14.306'
+  lines:
+  - !!python/str "M\u011Bl byste tam vid\u011Bt"
+  - !!python/str "z\xE1pad slunce."
+  start: !human_time '01:00:12.008'
+- end: !human_time '01:00:27.454'
+  lines:
+  - !!python/str "P\u0159\xED\u0161t\u011B to nech\xE1me"
+  - spadnout odtamtud.
+  start: !human_time '01:00:24.621'
+- end: !human_time '01:00:32.619'
+  lines:
+  - !!python/str "- Jen si bu\u010F jistej, \u017Ee jsou"
+  - !!python/str "otev\u0159en\xE9 dve\u0159e, a\u017E to polet\xED dol\u016F."
+  - !!python/str "- Jasn\u011B."
+  start: !human_time '01:00:29.092'
+- end: !human_time '01:00:34.629'
+  lines:
+  - !!python/str "- V\xED\u0161 jak to pou\u017E\xEDt, ne?"
+  - '- Jo.'
+  start: !human_time '01:00:32.695'
+- end: !human_time '01:00:36.631'
+  lines:
+  - !!python/str "Tam naho\u0159e, je dobr\xE1 pozice."
+  start: !human_time '01:00:34.697'
+- end: !human_time '01:00:41.159'
+  lines:
+  - !!python/str "Ty p\u016Fjde\u0161 ven k tomu n\xE1kla\u010F\xE1ku"
+  - !!python/str "a nastartuje\u0161 ho, a\u0165 vypadnem."
+  start: !human_time '01:00:36.699'
+- end: !human_time '01:01:01.590'
+  lines:
+  - Co to je?
+  start: !human_time '01:00:59.622'
+- end: !human_time '01:01:05.751'
+  lines:
+  - To je Erin.
+  start: !human_time '01:01:03.726'
+- end: !human_time '01:01:09.155'
+  lines:
+  - !!python/str "Je to m\xE1 dcera."
+  start: !human_time '01:01:07.096'
+- end: !human_time '01:01:16.294'
+  lines:
+  - !!python/str "N\xE1dhern\xE1."
+  start: !human_time '01:01:14.303'
+- end: !human_time '01:01:22.470'
+  lines:
+  - !!python/str "Tady to m\xE1\u0161."
+  start: !human_time '01:01:20.343'
+- end: !human_time '01:01:26.112'
+  lines:
+  - !!python/str "Aspo\u0148 m\xE1\u0161 pro co bojovat."
+  start: !human_time '01:01:23.780'
+- end: !human_time '01:02:28.804'
+  lines:
+  - Kurva! Jsou tady!
+  start: !human_time '01:02:26.609'
+- end: !human_time '01:02:46.361'
+  lines:
+  - !!python/str "Vesel\xE9 v\xE1noce."
+  start: !human_time '01:02:44.427'
+- end: !human_time '01:02:49.489'
+  lines:
+  - !!python/str "Vykopej j\xE1mu velkou"
+  - !!python/str "pro t\u0159i lidi."
+  start: !human_time '01:02:46.429'
+- end: !human_time '01:02:58.031'
+  lines:
+  - !!python/str "Hned jak p\u0159ijdou,"
+  - !!python/str "spus\u0165 to na n\u011B."
+  start: !human_time '01:02:54.937'
+- end: !human_time '01:03:02.168'
+  lines:
+  - !!python/str "- Rozum\xED\u0161?"
+  - !!python/str "- Jo, rozum\xEDm."
+  start: !human_time '01:02:58.107'
+- end: !human_time '01:03:06.181'
+  lines:
+  - !!python/str "Kapit\xE1ne, m\xE1me kousek t\xE9 zna\u010Dky,"
+  - co poslal Anderson.
+  start: !human_time '01:03:02.245'
+- end: !human_time '01:03:08.342'
+  lines:
+  - !!python/str "Dej to do po\u010D\xEDta\u010De."
+  start: !human_time '01:03:06.249'
+- end: !human_time '01:03:12.148'
+  lines:
+  - !!python/str "Nemohou b\xFDt d\xE1l ne\u017E 40 mil"
+  - !!python/str "od t\xE9 benz\xEDnky."
+  start: !human_time '01:03:08.417'
+- end: !human_time '01:03:43.946'
+  lines:
+  - Hej, Rayi. Zavolej Ritterovi
+  - !!python/str "a ujisti se, \u017Ee letadlo p\u0159istane v\u010Das."
+  start: !human_time '01:03:39.782'
+- end: !human_time '01:03:48.451'
+  lines:
+  - '- Rayi?'
+  - !!python/str "- V\xEDm. V\xEDm. Zp\xE1tky k vys\xEDla\u010Dce."
+  start: !human_time '01:03:45.721'
+- end: !human_time '01:03:54.553'
+  lines:
+  - Hej!
+  start: !human_time '01:03:52.562'
+- end: !human_time '01:03:56.928'
+  lines:
+  - !!python/str "Rozsvi\u0165 sv\u011Btlo!"
+  start: !human_time '01:03:54.630'
+- end: !human_time '01:04:08.974'
+  lines:
+  - '- Wozi!'
+  - '- <i>Brockmane?</i>'
+  start: !human_time '01:04:07.143'
+- end: !human_time '01:04:11.605'
+  lines:
+  - !!python/str "- D\u011Blej!"
+  - !!python/str "- <i>Sly\u0161\xED\u0161!</i>"
+  start: !human_time '01:04:09.045'
+- end: !human_time '01:04:13.876'
+  lines:
+  - !!python/str "- Te\u010F!"
+  - !!python/str "- <i>Chlapi, nesu v\xE1m hamburgery.</i>"
+  start: !human_time '01:04:11.681'
+- end: !human_time '01:04:17.113'
+  lines:
+  - <i>Kurva. Kde kurva jste,</i>
+  - <i>vy hovada?</i>
+  start: !human_time '01:04:13.950'
+- end: !human_time '01:04:20.349'
+  lines:
+  - !!python/str "P\u0159esta\u0148te si honit vocasy a jdem!"
+  start: !human_time '01:04:17.186'
+- end: !human_time '01:04:26.157'
+  lines:
+  - Bacha!
+  start: !human_time '01:04:24.360'
+- end: !human_time '01:04:29.160'
+  lines:
+  - !!python/str "Leone! Leone, to jsem j\xE1!"
+  start: !human_time '01:04:27.363'
+- end: !human_time '01:04:38.899'
+  lines:
+  - Co kurva...?
+  start: !human_time '01:04:36.806'
+- end: !human_time '01:04:44.642'
+  lines:
+  - !!python/str "Jsi v po\u0159\xE1dku?"
+  start: !human_time '01:04:42.845'
+- end: !human_time '01:04:55.922'
+  lines:
+  - Nikdo se nehne!
+  - K zemi!
+  start: !human_time '01:04:52.555'
+- end: !human_time '01:04:57.789'
+  lines:
+  - Colesi, pohni se
+  - a jsi mrtvej!
+  start: !human_time '01:04:55.992'
+- end: !human_time '01:05:06.029'
+  lines:
+  - !!python/str "- Pra\u0161ti m\u011B!"
+  - '- Sejmi ho! Wozy, sejmi ho!'
+  start: !human_time '01:05:00.363'
+- end: !human_time '01:05:12.334'
+  lines:
+  - Zasranej bordel.
+  - Co se tu kurva stalo?
+  start: !human_time '01:05:08.170'
+- end: !human_time '01:05:23.616'
+  lines:
+  - !!python/str "Vypad\xE1\u0161 jak pytel sra\u010Dek, Wozy."
+  start: !human_time '01:05:20.783'
+- end: !human_time '01:05:31.519'
+  lines:
+  - !!python/str "Nem\xE1me \u017E\xE1dn\xE9 otisky na t\u011Bch"
+  - !!python/str "dvaceti, co m\xE1me od spr\xE1vce..."
+  start: !human_time '01:05:28.391'
+- end: !human_time '01:05:33.960'
+  lines:
+  - <i>a taky nic od A.P.B.</i>
+  - !!python/str "<i>co m\xE1me v aut\u011B.</i>"
+  start: !human_time '01:05:31.594'
+- end: !human_time '01:05:37.989'
+  lines:
+  - !!python/str "<i>Pracoval jsem na t\xE9 zna\u010Dce od Moliny.</i>"
+  - !!python/str "<i>Projel jsem to syst\xE9mem a je to v suchu.</i>"
+  start: !human_time '01:05:34.030'
+- end: !human_time '01:05:41.628'
+  lines:
+  - !!python/str "<i>Projel jsem to celost\xE1tn\u011B</i>"
+  - !!python/str "<i>a n\u011Bco na\u0161el.</i>"
+  start: !human_time '01:05:38.067'
+- end: !human_time '01:05:45.401'
+  lines:
+  - !!python/str "<i>Vypad\xE1 to, \u017Ee protidrogov\xFD v San Diegu</i>"
+  - !!python/str "<i>pracuje na n\u011Bjak\xE9m p\u0159\xEDpadu.</i>"
+  start: !human_time '01:05:41.704'
+- end: !human_time '01:05:48.671'
+  lines:
+  - !!python/str "<i>Ti \xFAnosci- k\u0161eftuj\xED s methanolem.</i>"
+  - !!python/str "<i>A nemaj zrovna \u010Distej rejst\u0159\xEDk...</i>"
+  start: !human_time '01:05:45.474'
+- end: !human_time '01:05:51.679'
+  lines:
+  - !!python/str "<i>...jsou podez\u0159el\xED z n\u011Bkolika</i>"
+  - !!python/str "<i>vra\u017Ed na obou stran\xE1ch hranice.</i>"
+  start: !human_time '01:05:48.744'
+- end: !human_time '01:05:53.305'
+  lines:
+  - Tohle je Stefan Burian,
+  - !!python/str "\u0161\xE9f gangu."
+  start: !human_time '01:05:51.747'
+- end: !human_time '01:05:57.751'
+  lines:
+  - !!python/str "- Zjist\u011Bte co o nich maj\xED v San Diegu."
+  - !!python/str "- T\u011Bm u\u017E jsem volal."
+  start: !human_time '01:05:53.382'
+- end: !human_time '01:06:04.191'
+  lines:
+  - !!python/str "To je v\u0161echno?"
+  - !!python/str "V\u0161echno co mi k tomu \u0159ekne\u0161?"
+  start: !human_time '01:06:01.757'
+- end: !human_time '01:06:07.195'
+  lines:
+  - !!python/str "- Bylo to dost rychl\xFD."
+  - !!python/str "- <i>Pracuje\u0161 pro m\u011B...</i>"
+  start: !human_time '01:06:04.260'
+- end: !human_time '01:06:10.061'
+  lines:
+  - !!python/str "u\u017E n\u011Bkolik m\u011Bs\xEDc\u016F,"
+  - !!python/str "zaji\u0161\u0165uje\u0161 k\u0161efty, v\xFDb\u011Bry..."
+  start: !human_time '01:06:07.263'
+- end: !human_time '01:06:12.794'
+  lines:
+  - !!python/str "a v\u0161echny ty sra\u010Dky."
+  start: !human_time '01:06:10.132'
+- end: !human_time '01:06:15.098'
+  lines:
+  - !!python/str "Jak je vid\u011Bt hl\xEDd\xE1n\xED"
+  - !!python/str "dvou krava\u0165\xE1k\u016F..."
+  start: !human_time '01:06:12.868'
+- end: !human_time '01:06:18.231'
+  lines:
+  - '- je na tebe moc.'
+  - !!python/str "- Ne, J\xE1- j\xE1-"
+  start: !human_time '01:06:15.171'
+- end: !human_time '01:06:20.571'
+  lines:
+  - !!python/str "J\xE1 to posral."
+  start: !human_time '01:06:18.307'
+- end: !human_time '01:06:23.009'
+  lines:
+  - !!python/str "Koukej se z t\u011Bch sra\u010Dek vyhrabat, frajere."
+  start: !human_time '01:06:20.643'
+- end: !human_time '01:06:25.104'
+  lines:
+  - !!python/str "Je\u0161t\u011B to neskon\u010Dilo."
+  start: !human_time '01:06:23.079'
+- end: !human_time '01:06:38.418'
+  lines:
+  - !!python/str "Pro\u010D jsi to ud\u011Blal?"
+  start: !human_time '01:06:35.858'
+- end: !human_time '01:06:45.266'
+  lines:
+  - Co-
+  start: !human_time '01:06:43.332'
+- end: !human_time '01:06:52.697'
+  lines:
+  - Hej! Hej! Hej!
+  start: !human_time '01:06:50.172'
+- end: !human_time '01:06:56.467'
+  lines:
+  - !!python/str "Kam chce\u0161 ut\xE9ct, Colesi?"
+  - !!python/str "Poj\u010F sem!"
+  start: !human_time '01:06:53.976'
+- end: !human_time '01:08:05.937'
+  lines:
+  - Sakra.
+  start: !human_time '01:08:03.946'
+- end: !human_time '01:08:16.315'
+  lines:
+  - !!python/str "Vem jeho a ostatn\xED"
+  - !!python/str "na\u0161e tam dozadu."
+  start: !human_time '01:08:12.788'
+- end: !human_time '01:08:26.933'
+  lines:
+  - <i>To chce talent,</i>
+  - !!python/str "<i>takhle kr\xE1sn\u011B to posrat.</i>"
+  start: !human_time '01:08:24.066'
+- end: !human_time '01:08:30.494'
+  lines:
+  - !!python/str "Jdi ze sebe smejt ty sra\u010Dky."
+  - Pak odsud vypadnem.
+  start: !human_time '01:08:27.002'
+- end: !human_time '01:08:40.979'
+  lines:
+  - !!python/str "Kdy\u017E je zabijem p\u0159edt\xEDm"
+  - !!python/str "ne\u017E vypadnem..."
+  start: !human_time '01:08:37.213'
+- end: !human_time '01:08:43.746'
+  lines:
+  - !!python/str "..bude to v\u0161echno akor\xE1t"
+  - !!python/str "hor\u0161\xED, ne?"
+  start: !human_time '01:08:41.050'
+- end: !human_time '01:08:51.449'
+  lines:
+  - !!python/str "Nemus\xED\u0161 je zab\xEDjet."
+  start: !human_time '01:08:48.924'
+- end: !human_time '01:08:53.620'
+  lines:
+  - !!python/str "J\xE1 ne."
+  start: !human_time '01:08:51.527'
+- end: !human_time '01:08:55.687'
+  lines:
+  - !!python/str "Dob\u0159e."
+  start: !human_time '01:08:53.696'
+- end: !human_time '01:09:03.129'
+  lines:
+  - Ty jo!
+  start: !human_time '01:09:01.070'
+- end: !human_time '01:09:18.175'
+  lines:
+  - '- <i>Tady, tati.</i>'
+  - !!python/str "- To je od n\xE1s obou."
+  start: !human_time '01:09:14.683'
+- end: !human_time '01:09:21.849'
+  lines:
+  - '- To je Erin.'
+  - !!python/str "- <i>M\u011Bla n\u011Bkdy p\u0159edt\xEDm reakci na inzul\xEDn?</i>"
+  - ''
+  start: !human_time '01:09:18.254'
+- end: !human_time '01:09:24.893'
+  lines:
+  - !!python/str "- <i>To nev\xEDm.</i>"
+  - !!python/str "- <i>Je tu jej\xED matka?</i>"
+  - !!python/str "<i>N\u011Bkdo, kdo to v\xED?-</i>"
+  start: !human_time '01:09:21.924'
+- end: !human_time '01:09:28.691'
+  lines:
+  - !!python/str "- Jsem rozveden\xFD. Nev\xEDm."
+  - !!python/str "- Ned\xFDch\xE1. Mus\xEDme ji vz\xEDt dovnit\u0159."
+  start: !human_time '01:09:24.960'
+- end: !human_time '01:09:58.756'
+  lines:
+  - !!python/str "Bo\u017Ee, zlat\xED\u010Dko."
+  start: !human_time '01:09:56.458'
+- end: !human_time '01:10:08.728'
+  lines:
+  - <i>Ten posranej</i>
+  - !!python/str "<i>zapalova\u010D, Wozy.</i>"
+  start: !human_time '01:10:06.669'
+- end: !human_time '01:10:11.534'
+  lines:
+  - !!python/str "U\u017E jsou mrtv\xE9 p\u011Bt let."
+  start: !human_time '01:10:08.804'
+- end: !human_time '01:10:13.598'
+  lines:
+  - !!python/str "P\u0159ekousni to..."
+  start: !human_time '01:10:11.607'
+- end: !human_time '01:10:15.940'
+  lines:
+  - !!python/str "nebo za\u010Dni znovu hulit."
+  start: !human_time '01:10:13.676'
+- end: !human_time '01:10:26.886'
+  lines:
+  - !!python/str "Te\u010F je jdi vy\u0159\xEDdit!"
+  start: !human_time '01:10:24.053'
+- end: !human_time '01:10:30.357'
+  lines:
+  - !!python/str "A vem i toho n\xE1jemn\xFDho poldu."
+  start: !human_time '01:10:26.956'
+- end: !human_time '01:10:33.623'
+  lines:
+  - !!python/str "A\u017E to vy\u0159\xEDd\xED\u0161,"
+  - !!python/str "m\xE1\u0161 tady sv\u016Fj pod\xEDl."
+  start: !human_time '01:10:30.426'
+- end: !human_time '01:10:35.687'
+  lines:
+  - !!python/str "- Dobr\xFD den."
+  - !!python/str "- Posa\u010Fte se."
+  start: !human_time '01:10:33.696'
+- end: !human_time '01:10:39.534'
+  lines:
+  - !!python/str "M\xE1me nov\xE9 zpr\xE1vy."
+  start: !human_time '01:10:37.066'
+- end: !human_time '01:10:45.798'
+  lines:
+  - !!python/str "Je v\xE1m n\u011Bkdo z t\u011Bchto mu\u017E\u016F pov\u011Bdom\xFD\
+    ?"
+  - !!python/str "Nebo jejich jm\xE9na?"
+  start: !human_time '01:10:41.737'
+- end: !human_time '01:10:50.675'
+  lines:
+  - !!python/str "<i>Nevid\u011Bla jste n\u011Bkdy</i>"
+  - !!python/str "<i>n\u011Bkter\xE9ho z nich...</i>"
+  start: !human_time '01:10:47.376'
+- end: !human_time '01:10:53.476'
+  lines:
+  - '- <i>s panem Colesem?</i>'
+  - !!python/str "- Ne. Co jsou za\u010D?"
+  start: !human_time '01:10:50.746'
+- end: !human_time '01:10:57.878'
+  lines:
+  - !!python/str "Tito mu\u017Ei maj\xED va\u0161eho man\u017Eela."
+  start: !human_time '01:10:54.750'
+- end: !human_time '01:11:07.323'
+  lines:
+  - !!python/str "Promi\u0148te, kapit\xE1ne. Vol\xE1 poru\u010D\xEDk"
+  - !!python/str "James z protidrogov\xFDho ze San Diega."
+  start: !human_time '01:11:03.626'
+- end: !human_time '01:11:10.297'
+  lines:
+  - Kdo to sakra je?
+  start: !human_time '01:11:07.396'
+- end: !human_time '01:11:26.644'
+  lines:
+  - !!python/str "M\xE1\u0161 ty kl\xED\u010Dky k n\xE1kla\u010F\xE1ku?"
+  start: !human_time '01:11:23.846'
+- end: !human_time '01:11:28.649'
+  lines:
+  - !!python/str "Nem\u016F\u017Eeme j\xEDt k n\xE1kla\u010F\xE1ku."
+  start: !human_time '01:11:26.715'
+- end: !human_time '01:11:31.618'
+  lines:
+  - !!python/str "- Nem\xE1m ty kl\xED\u010Dky."
+  - !!python/str "- Nevad\xED, stejn\u011B je\u0161t\u011B m\xE1me \u0161anci."
+  start: !human_time '01:11:28.717'
+- end: !human_time '01:11:34.918'
+  lines:
+  - !!python/str "Kdy\u017E se dostanem za ten vrchol,"
+  - !!python/str "m\u011Bli bychom naj\xEDt silnici."
+  start: !human_time '01:11:31.687'
+- end: !human_time '01:11:38.050'
+  lines:
+  - !!python/str "Asi m\xE1\u0161 pravdu."
+  - !!python/str "Kolik m\xE1\u0161 v t\xFD zbrani je\u0161t\u011B n\xE1boj\u016F?"
+  start: !human_time '01:11:34.990'
+- end: !human_time '01:11:40.095'
+  lines:
+  - !!python/str "Jd\u011Bte tudy."
+  start: !human_time '01:11:38.127'
+- end: !human_time '01:11:45.627'
+  lines:
+  - !!python/str "Klidn\u011B se tu ra\u010Fte celou noc."
+  - !!python/str "Ja miz\xEDm."
+  start: !human_time '01:11:42.464'
+- end: !human_time '01:11:48.169'
+  lines:
+  - !!python/str "- Co to kurva d\u011Bl\xE1\u0161?"
+  - '- Hele!'
+  start: !human_time '01:11:45.701'
+- end: !human_time '01:11:52.401'
+  lines:
+  - A do hajzlu. Co se s tebou stalo?
+  - !!python/str "Dej to dol\u016F."
+  start: !human_time '01:11:48.237'
+- end: !human_time '01:11:57.673'
+  lines:
+  - !!python/str "- To m\u011B poser!"
+  - !!python/str "- Cht\u011Bj abych to skon\u010Dil a pak m\u016F\u017Eu j\xEDt."
+  start: !human_time '01:11:52.474'
+- end: !human_time '01:12:00.408'
+  lines:
+  - !!python/str "- Co\u017Ee?"
+  - !!python/str "- Sleduje\u0161 co se d\u011Bje?"
+  start: !human_time '01:11:57.746'
+- end: !human_time '01:12:04.646'
+  lines:
+  - Ty mizernej hajzle!
+  - !!python/str "Tak\u017Ee pat\u0159\xED\u0161 k t\u011Bm sr\xE1\u010D\u016Fm, co?"
+  start: !human_time '01:12:00.482'
+- end: !human_time '01:12:07.587'
+  lines:
+  - !!python/str "- Sna\u017Eil jsem se v\xE1m to \u0159\xEDct!"
+  - !!python/str "- Aspo\u0148 jednou v \u017Eivot\u011B dr\u017E hubu, jo?"
+  start: !human_time '01:12:04.720'
+- end: !human_time '01:12:10.784'
+  lines:
+  - !!python/str "- Kdy\u017E v\xE1s nezabiju, zabijou m\u011B."
+  - !!python/str "- Po\u010Dkej, tohle p\u0159ece neud\u011Bl\xE1\u0161."
+  start: !human_time '01:12:07.656'
+- end: !human_time '01:12:14.454'
+  lines:
+  - !!python/str "- Nen\xED to tak jednoduch\xFD."
+  - !!python/str "- Nen\xED to jednoduch\xFD? Jasn\u011B, \u017Ee je-"
+  start: !human_time '01:12:10.859'
+- end: !human_time '01:12:17.055'
+  lines:
+  - !!python/str "Bylo jednoduch\xFD vyrvat"
+  - !!python/str "ten telefonn\xED dr\xE1t?"
+  start: !human_time '01:12:14.530'
+- end: !human_time '01:12:20.795'
+  lines:
+  - !!python/str "Tam uvnit\u0159 vykrv\xE1cel chlap."
+  - !!python/str "Tos to v\u0161echno d\u011Blal kv\u016Fli n\u011Bmu?"
+  start: !human_time '01:12:17.132'
+- end: !human_time '01:12:22.962'
+  lines:
+  - !!python/str "Co je s tebou, k\xE1mo?"
+  - !!python/str "Tohle jsme neud\u011Blali!"
+  start: !human_time '01:12:20.869'
+- end: !human_time '01:12:24.972'
+  lines:
+  - !!python/str "Mysl\xED\u0161 jen na to..."
+  start: !human_time '01:12:23.038'
+- end: !human_time '01:12:27.008'
+  lines:
+  - !!python/str "aby ti nep\u0159i\u0161ili vra\u017Edu"
+  - !!python/str "toho mrtv\xFDho hl\xEDda\u010De..."
+  start: !human_time '01:12:25.040'
+- end: !human_time '01:12:30.876'
+  lines:
+  - !!python/str "tak\u017Ee nemluv o jednoduchosti,"
+  - !!python/str "proto\u017Ee to k tomu m\xE1 daleko."
+  start: !human_time '01:12:27.076'
+- end: !human_time '01:12:32.914'
+  lines:
+  - !!python/str "M\u011Bli bysme te\u010F ut\xEDkat!"
+  - !!python/str "Pry\u010D z t\xFDhle smradlav\xFD d\xEDry!"
+  start: !human_time '01:12:30.946'
+- end: !human_time '01:12:35.415'
+  lines:
+  - !!python/str "- Ty to st\xE1le nech\xE1pe\u0161, vi\u010F? Je konec!"
+  - '- Ne, ne, ne.'
+  start: !human_time '01:12:32.981'
+- end: !human_time '01:12:37.884'
+  lines:
+  - !!python/str "- Tohle jsem j\xE1."
+  - !!python/str "- Hovno! Dej to dol\u016F."
+  start: !human_time '01:12:35.484'
+- end: !human_time '01:12:41.445'
+  lines:
+  - !!python/str "- Oto\u010D se!"
+  - !!python/str "- Ne, k\xE1mo. St\u0159el m\u011B do ksichtu."
+  start: !human_time '01:12:37.953'
+- end: !human_time '01:12:44.424'
+  lines:
+  - !!python/str "- D\u011Blej!"
+  - !!python/str "- Ne, ty d\u011Blej. Uka\u017E co jsi za\u010D!"
+  start: !human_time '01:12:41.523'
+- end: !human_time '01:12:46.324'
+  lines:
+  - !!python/str "<i>D\u011Blej!</i>"
+  start: !human_time '01:12:44.493'
+- end: !human_time '01:12:49.387'
+  lines:
+  - !!python/str "Takhle chce\u0161 aby si t\u011B Erin pamatovala?"
+  start: !human_time '01:12:46.395'
+- end: !human_time '01:12:51.660'
+  lines:
+  - !!python/str "<i>D\xE1m ti v\u0161e</i>"
+  - !!python/str "<i>co chce\u0161. V\u0161e co chce\u0161.</i>"
+  start: !human_time '01:12:49.465'
+- end: !human_time '01:12:54.328'
+  lines:
+  - !!python/str "Jen to kurva ned\u011Blej."
+  - !!python/str "Ned\u011Blej to kurva!"
+  start: !human_time '01:12:51.734'
+- end: !human_time '01:12:59.102'
+  lines:
+  - !!python/str "- M\xE1 \u017Eena a d\xEDt\u011B jsou mrtv\xE9."
+  - !!python/str "- Ned\u011Blej to kurva!"
+  start: !human_time '01:12:54.403'
+- end: !human_time '01:13:01.165'
+  lines:
+  - !!python/str "- Chci aby to skon\u010Dilo."
+  - '- Ne!'
+  start: !human_time '01:12:59.174'
+- end: !human_time '01:13:06.940'
+  lines:
+  - <i>Tady detektiv James Curtis.</i>
+  start: !human_time '01:13:04.813'
+- end: !human_time '01:13:10.815'
+  lines:
+  - <i>Detektive Curtisi,</i>
+  - !!python/str "<i>m\xE1m pro v\xE1s na lince kapit\xE1na Parkera.</i>"
+  start: !human_time '01:13:07.015'
+- end: !human_time '01:13:13.582'
+  lines:
+  - !!python/str "Curtisi, m\xEDstn\xED d\u011Bln\xEDk a jeho syn"
+  - !!python/str "nahl\xE1sili podez\u0159elou aktivitu..."
+  start: !human_time '01:13:10.886'
+- end: !human_time '01:13:18.683'
+  lines:
+  - !!python/str "v chemick\xE9m skladu u Blythe Road,"
+  - !!python/str "15 mil z\xE1padn\u011B od benz\xEDnky."
+  start: !human_time '01:13:13.655'
+- end: !human_time '01:13:20.695'
+  lines:
+  - !!python/str "Ov\u011B\u0159oval to n\u011Bkdo, kapit\xE1ne?"
+  start: !human_time '01:13:18.761'
+- end: !human_time '01:13:22.594'
+  lines:
+  - !!python/str "Poslouchejte. Je mezi nima polda v utajen\xED."
+  start: !human_time '01:13:20.763'
+- end: !human_time '01:13:26.100'
+  lines:
+  - !!python/str "<i>Nev\xEDme, jestli byl</i>"
+  - !!python/str "<i>prozrazen, zda je \u017Eiv\xFD nebo mrtv\xFD.</i>"
+  start: !human_time '01:13:22.664'
+- end: !human_time '01:13:30.366'
+  lines:
+  - !!python/str "<i>Potvrzuji. Budeme tam za p\u011Bt minut.</i>"
+  - !!python/str "<i>Taktick\xFD t\xFDm za dvacet.</i>"
+  start: !human_time '01:13:26.168'
+- end: !human_time '01:13:33.203'
+  lines:
+  - '- 10-4.'
+  - !!python/str "- Jsi p\u0159ipravenej?"
+  start: !human_time '01:13:30.439'
+- end: !human_time '01:13:35.436'
+  lines:
+  - Jo.
+  start: !human_time '01:13:33.275'
+- end: !human_time '01:13:40.541'
+  lines:
+  - '- <i>Hej.</i>'
+  - '- Co je?'
+  start: !human_time '01:13:37.913'
+- end: !human_time '01:13:42.709'
+  lines:
+  - !!python/str "M\xE1me probl\xE9m."
+  start: !human_time '01:13:40.616'
+- end: !human_time '01:13:49.123'
+  lines:
+  - Jdi do auta.
+  - !!python/str "Nech b\u011B\u017Eet motor."
+  start: !human_time '01:13:46.188'
+- end: !human_time '01:13:54.954'
+  lines:
+  - Hej, ty!
+  start: !human_time '01:13:52.895'
+- end: !human_time '01:13:58.329'
+  lines:
+  - !!python/str "Kouk\xE1m na policajta?"
+  start: !human_time '01:13:55.030'
+- end: !human_time '01:14:02.603'
+  lines:
+  - Na policajta?
+  start: !human_time '01:14:00.669'
+- end: !human_time '01:14:12.144'
+  lines:
+  - !!python/str "- <i>Tolik si d\u0159el na detektiva.</i>"
+  - '- <i>Tady, tati. Koukej!</i>'
+  start: !human_time '01:14:08.310'
+- end: !human_time '01:14:24.819'
+  lines:
+  - !!python/str "\u010Cau. L\xEDb\xED se ti tady?"
+  start: !human_time '01:14:20.689'
+- end: !human_time '01:14:28.090'
+  lines:
+  - <i>Jo. Perou se tu prachy.</i>
+  - !!python/str "<i>Se\u0161 p\u0159ipravenej?</i>"
+  start: !human_time '01:14:24.893'
+- end: !human_time '01:14:32.666'
+  lines:
+  - !!python/str "<i>R\xE1d bych ti \u0159ekl, abys</i>"
+  - !!python/str "<i>neud\u011Blal n\u011Bco co m\u011B po\u0161pin\xED...</i>"
+  start: !human_time '01:14:29.765'
+- end: !human_time '01:14:35.328'
+  lines:
+  - !!python/str "pak jsem si uv\u011Bdomil, \u017Ee bys"
+  - !!python/str "to ud\u011Blal, jen abys m\u011B nasral."
+  start: !human_time '01:14:32.734'
+- end: !human_time '01:14:38.896'
+  lines:
+  - !!python/str "- Spr\xE1vn\u011B, kdybych nutn\u011B nepot\u0159eboval"
+  - prachy, tak asi jo.
+  - !!python/str "- Jasn\u011B, prachy jsou dobr\xFD."
+  start: !human_time '01:14:35.404'
+- end: !human_time '01:14:43.035'
+  lines:
+  - !!python/str "Je dob\u0159e, \u017Ee jsi zp\xE1tky, v\xED\u0161 to?"
+  start: !human_time '01:14:38.974'
+- end: !human_time '01:14:45.579'
+  lines:
+  - !!python/str "Jako za starejch \u010Das\u016F."
+  start: !human_time '01:14:43.111'
+- end: !human_time '01:14:48.377'
+  lines:
+  - !!python/str "<i>Kam \u0161li tv\xFD p\u0159\xE1tel\xE9?</i>"
+  start: !human_time '01:14:45.647'
+- end: !human_time '01:14:53.451'
+  lines:
+  - !!python/str "Ty podraz\xE1ckej zkurvysynu!"
+  start: !human_time '01:14:50.118'
+- end: !human_time '01:15:02.019'
+  lines:
+  - !!python/str "Oto\u010D ho rychle! Pohyb!"
+  start: !human_time '01:14:59.528'
+- end: !human_time '01:15:32.918'
+  lines:
+  - !!python/str "Pod\xEDvej!"
+  - Tady to je.
+  start: !human_time '01:15:30.859'
+- end: !human_time '01:15:47.299'
+  lines:
+  - '- Rychle!'
+  - !!python/str "- \u010Cekej na posily!"
+  start: !human_time '01:15:45.240'
+- end: !human_time '01:16:12.033'
+  lines:
+  - !!python/str "Kam jde\u0161?"
+  start: !human_time '01:16:09.064'
+- end: !human_time '01:16:16.003'
+  lines:
+  - !!python/str "Je\u0161t\u011B nen\xED konec."
+  start: !human_time '01:16:13.569'
+- end: !human_time '01:16:19.597'
+  lines:
+  - Co to kurva-
+  start: !human_time '01:16:17.606'
+- end: !human_time '01:16:43.357'
+  lines:
+  - !!python/str "Zachr\xE1nil mi \u017Eivot."
+  start: !human_time '01:16:41.196'
+- end: !human_time '01:17:29.767'
+  lines:
+  - !!python/str "Jsi v pohod\u011B?"
+  start: !human_time '01:17:27.776'
+- end: !human_time '01:17:34.472'
+  lines:
+  - Jo.
+  start: !human_time '01:17:32.481'
+- end: !human_time '01:17:41.283'
+  lines:
+  - '- Co ruka?'
+  - !!python/str "- Dobr\xFD."
+  start: !human_time '01:17:37.586'
+- end: !human_time '01:17:44.792'
+  lines:
+  - !!python/str "Ten chl\xE1pek byl v utajen\xED"
+  - !!python/str "posledn\xEDch osm m\u011Bs\xEDc\u016F."
+  start: !human_time '01:17:41.356'
+- end: !human_time '01:17:47.727'
+  lines:
+  - !!python/str "<i>Jeho \u0161\xE9fov\xE9 v San Diegu</i>"
+  - !!python/str "<i>s n\xEDm t\u0159i t\xFDdny nemluvili.</i>"
+  start: !human_time '01:17:44.860'
+- end: !human_time '01:17:49.787'
+  lines:
+  - !!python/str "Nev\xEDm, jestli bych"
+  - !!python/str "to zvl\xE1dnul."
+  start: !human_time '01:17:47.796'
+- end: !human_time '01:17:51.799'
+  lines:
+  - !!python/str "Mus\xED\u0161 m\xEDt instinkt."
+  start: !human_time '01:17:49.865'
+- end: !human_time '01:17:54.392'
+  lines:
+  - !!python/str "Na co? Policejn\xED pr\xE1ci?"
+  start: !human_time '01:17:51.867'
+- end: !human_time '01:17:56.733'
+  lines:
+  - !!python/str "Ne. Na p\u0159e\u017Eit\xED."
+  start: !human_time '01:17:54.469'
+- end: !human_time '01:18:02.770'
+  lines:
+  - !!python/str "M\u011Bli byste b\xFDt \u0161\u0165astni, p\xE1nov\xE9."
+  start: !human_time '01:18:00.108'
+- end: !human_time '01:18:04.778'
+  lines:
+  - !!python/str "Je\u0161t\u011B p\xE1r minut vystaveni"
+  - !!python/str "t\u011Bm chemik\xE1li\xEDm..."
+  start: !human_time '01:18:02.844'
+- end: !human_time '01:18:08.373'
+  lines:
+  - !!python/str "a do konce \u017Eivota"
+  - byste se neprobrali.
+  start: !human_time '01:18:04.846'
+- end: !human_time '01:18:12.079'
+  lines:
+  - !!python/str "M\xE1 pam\u011B\u0165-"
+  - !!python/str "vr\xE1t\xED se mi n\u011Bkdy?"
+  start: !human_time '01:18:08.450'
+- end: !human_time '01:18:16.750'
+  lines:
+  - !!python/str "Lidsk\xE9 t\u011Blo dok\xE1\u017Ee"
+  - !!python/str "p\u0159ekonat velk\xE9 trauma, detektive."
+  start: !human_time '01:18:12.154'
+- end: !human_time '01:18:20.158'
+  lines:
+  - !!python/str "D\u0159\xEDve \u010Di pozd\u011Bji"
+  - !!python/str "se v\xE1m pam\u011B\u0165 vr\xE1t\xED."
+  start: !human_time '01:18:16.825'
+- end: !human_time '01:18:22.219'
+  lines:
+  - <i>O.K.</i>
+  start: !human_time '01:18:20.228'
+- end: !human_time '01:18:28.194'
+  lines:
+  - !!python/str "Kapit\xE1ne."
+  start: !human_time '01:18:26.101'
+- end: !human_time '01:18:44.751'
+  lines:
+  - !!python/str "<i>Nemus\xED\u0161 to d\u011Blat, pokud nechce\u0161.</i>"
+  start: !human_time '01:18:41.850'
+- end: !human_time '01:18:50.281'
+  lines:
+  - !!python/str "Nevid\xEDm \u017E\xE1dnou mo\u017Enost, jak bychom"
+  - !!python/str "mohli b\xFDt spolu. Co n\xE1s zastav\xED, detektive?"
+  start: !human_time '01:18:44.820'
+- end: !human_time '01:18:54.624'
+  lines:
+  - !!python/str "<i>Oslava v p\u0159edstihu.</i>"
+  - !!python/str "<i>M\xE1m toti\u017E pl\xE1n.</i>"
+  start: !human_time '01:18:50.358'
+- end: !human_time '01:18:59.156'
+  lines:
+  - !!python/str "Pl\xE1n, kterej n\xE1s zabezpe\u010D\xED"
+  - !!python/str "nav\u017Edy, b\u011Bhem p\xE1r t\xFDdn\u016F."
+  start: !human_time '01:18:54.696'
+- end: !human_time '01:19:04.266'
+  lines:
+  - !!python/str "- \u0158ekl jsi mu to u\u017E?"
+  - !!python/str "- Co mi m\u011Bl \u0159\xEDct?"
+  start: !human_time '01:19:01.103'
+- end: !human_time '01:19:08.298'
+  lines:
+  - !!python/str "<i>Tahle fu\u0161ka m\xE1 cenu milion\u016F.</i>"
+  - !!python/str "<i>\u017D\xE1dn\xE9 ru\u010Den\xED na firemn\xED pojistku.</i>"
+  start: !human_time '01:19:04.339'
+- end: !human_time '01:19:11.868'
+  lines:
+  - !!python/str "To n\xE1m zajist\xED n\xE1vrat rychle,"
+  - !!python/str "a\u0165 je cena jak\xE1koliv."
+  start: !human_time '01:19:08.376'
+- end: !human_time '01:19:16.950'
+  lines:
+  - !!python/str "<i>S p\u0159edman\u017Eelskou smlouvou, kterou</i>"
+  - !!python/str "<i>m\xE1m, nen\xED jin\xE9ho v\xFDchodiska.</i>"
+  start: !human_time '01:19:14.015'
+- end: !human_time '01:19:19.714'
+  lines:
+  - !!python/str "Chci je v\u0161echny mrtv\xE9 a"
+  - !!python/str "stopu, kter\xE1 povede k McCaineovi."
+  start: !human_time '01:19:17.018'
+- end: !human_time '01:19:22.188'
+  lines:
+  - !!python/str "- Co kdy\u017E se n\u011Bco zvrtne?"
+  - '- Nezvrtne!'
+  start: !human_time '01:19:19.788'
+- end: !human_time '01:19:25.549'
+  lines:
+  - !!python/str "A co kdy\u017E?"
+  start: !human_time '01:19:23.558'
+- end: !human_time '01:19:29.696'
+  lines:
+  - !!python/str "Tak ud\u011Bl\xE1me to,"
+  - !!python/str "co bude t\u0159eba."
+  start: !human_time '01:19:26.795'
+- end: !human_time '01:19:40.430'
+  lines:
+  - !!python/str "- <i>Jste v po\u0159\xE1dku?</i>"
+  - '- Jo.'
+  start: !human_time '01:19:37.939'
+- end: !human_time '01:19:45.875'
+  lines:
+  - Je mi fajn.
+  start: !human_time '01:19:43.645'
+- end: !human_time '01:20:00.528'
+  lines:
+  - !!python/str "Kapit\xE1ne!"
+  start: !human_time '01:19:58.560'
+- end: !human_time '01:20:07.199'
+  lines:
+  - !!python/str "Mysl\xEDm, \u017Ee hled\xE1te tohle."
+  start: !human_time '01:20:04.332'
+- end: !human_time '01:20:17.878'
+  lines:
+  - !!python/str "<i>Cht\u011Bl bych t\u011B s n\u011Bk\xFDm sezn\xE1mit.</i>"
+  start: !human_time '01:20:14.943'
+- end: !human_time '01:20:37.224'
+  lines:
+  - !!python/str "Mohu v\xE1s po\u017E\xE1dat o cigaretu?"
+  start: !human_time '01:20:35.063'
+- end: !human_time '01:20:39.529'
+  lines:
+  - !!python/str "Nekou\u0159\xEDm."
+  start: !human_time '01:20:37.299'
+- end: !human_time '01:20:57.814'
+  lines:
+  - !!python/str "Vy byste mi nelhal, \u017Ee ne?"
+  start: !human_time '01:20:55.050'
+- end: !human_time '01:21:01.755'
+  lines:
+  - A kdybych lhal?
+  start: !human_time '01:20:59.821'
+- end: !human_time '01:21:20.755'
+  lines:
+  - !!python/str "Z angli\u010Dtiny p\u0159elo\u017Eil LUKE SNAKE"
+  start: !human_time '01:21:18.821'

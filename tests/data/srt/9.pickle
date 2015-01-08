@@ -1,0 +1,31 @@
+(S'windows-1255'
+p0
+(lp1
+(dp2
+S'line_number'
+p3
+I6
+sS'line'
+p4
+V00:00:04,000 --> 00:00:08,000\u000a
+p5
+sS'col'
+p6
+I1
+sS'description'
+p7
+VDuplicated time information, ignoring.
+p8
+sa(dp9
+g3
+I51
+sg4
+V00:03:41,080 --> 00:03:42,000\u000a
+p10
+sg6
+I1
+sg7
+VDuplicated time information, ignoring.
+p11
+satp12
+.

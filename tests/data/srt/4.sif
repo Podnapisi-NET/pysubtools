@@ -1,0 +1,2066 @@
+---
+units:
+- end: !human_time '00:00:35.665'
+  lines:
+  - !!python/str "Mo\u017Eete li mi razmjeniti?"
+  start: !human_time '00:00:33.800'
+- end: !human_time '00:00:48.036'
+  lines:
+  - Hvala.
+  start: !human_time '00:00:47.047'
+- end: !human_time '00:02:09.784'
+  lines:
+  - !!python/str "Nije lo\u0161e za 30 Ringgita za no\u0107."
+  start: !human_time '00:02:06.326'
+- end: !human_time '00:02:19.070'
+  lines:
+  - !!python/str "Tung, ve\u010Deras sam zauzet..."
+  start: !human_time '00:02:13.666'
+- end: !human_time '00:02:21.300'
+  lines:
+  - Idem igrati badminton.
+  start: !human_time '00:02:19.139'
+- end: !human_time '00:02:24.709'
+  lines:
+  - Dobro?
+  start: !human_time '00:02:23.276'
+- end: !human_time '00:02:29.473'
+  lines:
+  - Sigurno?
+  start: !human_time '00:02:26.913'
+- end: !human_time '00:02:32.308'
+  lines:
+  - Onda idem.
+  start: !human_time '00:02:30.283'
+- end: !human_time '00:03:26.969'
+  lines:
+  - Jesi li sam?
+  start: !human_time '00:03:22.635'
+- end: !human_time '00:03:43.514'
+  lines:
+  - !!python/str "Srame\u017Eljiv si? Ne boj se."
+  start: !human_time '00:03:40.420'
+- end: !human_time '00:03:45.319'
+  lines:
+  - Molim te, idi.
+  start: !human_time '00:03:43.590'
+- end: !human_time '00:03:48.093'
+  lines:
+  - Idi.
+  start: !human_time '00:03:46.626'
+- end: !human_time '00:03:54.794'
+  lines:
+  - !!python/str "Molim te, ho\u0107e\u0161 li oti\u0107i?"
+  start: !human_time '00:03:53.099'
+- end: !human_time '00:04:03.441'
+  lines:
+  - U redu.
+  start: !human_time '00:04:02.008'
+- end: !human_time '00:04:51.349'
+  lines:
+  - Kako je bilo?
+  start: !human_time '00:04:49.722'
+- end: !human_time '00:04:54.983'
+  lines:
+  - !!python/str "Ne mislim na tu\u0161iranje."
+  start: !human_time '00:04:51.991'
+- end: !human_time '00:05:24.280'
+  lines:
+  - !!python/str "Zna\u0161 da \u0107e\u0161 morati platiti?"
+  start: !human_time '00:05:19.752'
+- end: !human_time '00:06:33.787'
+  lines:
+  - Halo. Zar bih ti lagao?
+  start: !human_time '00:06:29.555'
+- end: !human_time '00:06:38.495'
+  lines:
+  - !!python/str "Nazvat \u0107u te kada ga vidim."
+  start: !human_time '00:06:35.628'
+- end: !human_time '00:06:44.300'
+  lines:
+  - Stvarno?
+  start: !human_time '00:06:42.969'
+- end: !human_time '00:06:49.132'
+  lines:
+  - Da li je on dobro?
+  start: !human_time '00:06:47.540'
+- end: !human_time '00:07:06.157'
+  lines:
+  - To je bila Ting na telefonu.
+  start: !human_time '00:07:04.257'
+- end: !human_time '00:07:08.520'
+  lines:
+  - Da?
+  start: !human_time '00:07:07.326'
+- end: !human_time '00:07:12.589'
+  lines:
+  - Tvoje.
+  start: !human_time '00:07:10.997'
+- end: !human_time '00:07:14.189'
+  lines:
+  - Hvala ti.
+  start: !human_time '00:07:12.665'
+- end: !human_time '00:07:19.631'
+  lines:
+  - !!python/str "Igramo dalje dok ne pobijedi\u0161?"
+  start: !human_time '00:07:16.969'
+- end: !human_time '00:07:22.808'
+  lines:
+  - !!python/str "\u0160to je Ting htjela?"
+  start: !human_time '00:07:20.840'
+- end: !human_time '00:07:25.270'
+  lines:
+  - !!python/str "Tra\u017Eila me je tvoj novi broj."
+  start: !human_time '00:07:23.109'
+- end: !human_time '00:07:29.643'
+  lines:
+  - I rekla je da je tvoj mali braco
+  - sada u KL-u.
+  start: !human_time '00:07:25.912'
+- end: !human_time '00:07:31.148'
+  lines:
+  - !!python/str "Oplja\u010Dkali su ga."
+  start: !human_time '00:07:29.715'
+- end: !human_time '00:07:33.081'
+  lines:
+  - !!python/str "Za\u0161to mi to nisi rekao?"
+  start: !human_time '00:07:31.784'
+- end: !human_time '00:07:36.679'
+  lines:
+  - Sve je u redu, on je kod Ting.
+  start: !human_time '00:07:33.152'
+- end: !human_time '00:07:40.623'
+  lines:
+  - !!python/str "Nisam te \u017Eelio izbaciti"
+  - iz igre.
+  start: !human_time '00:07:37.290'
+- end: !human_time '00:07:59.344'
+  lines:
+  - !!python/str "Ne\u0107ako? Ovdje Hong."
+  start: !human_time '00:07:55.408'
+- end: !human_time '00:08:01.812'
+  lines:
+  - U koji hotel si smjestila Tunga?
+  start: !human_time '00:07:59.412'
+- end: !human_time '00:08:04.213'
+  lines:
+  - !!python/str "Zna\u0161 da su ga tamo oplja\u010Dkali?"
+  start: !human_time '00:08:01.881'
+- end: !human_time '00:08:09.721'
+  lines:
+  - !!python/str "Oplja\u010Dkali su ga!"
+  start: !human_time '00:08:04.283'
+- end: !human_time '00:08:14.158'
+  lines:
+  - Halo? Jesi li tu?
+  start: !human_time '00:08:09.789'
+- end: !human_time '00:08:25.904'
+  lines:
+  - !!python/str "Dakle, kada kre\u0107e\u0161 na faks?"
+  start: !human_time '00:08:23.970'
+- end: !human_time '00:08:28.930'
+  lines:
+  - !!python/str "U sije\u010Dnju."
+  start: !human_time '00:08:26.939'
+- end: !human_time '00:08:32.142'
+  lines:
+  - !!python/str "Dosta vremena...\u0160to \u0107e\u0161"
+  - raditi do tada?
+  start: !human_time '00:08:29.275'
+- end: !human_time '00:08:34.076'
+  lines:
+  - Ne znam.
+  start: !human_time '00:08:32.211'
+- end: !human_time '00:08:38.679'
+  lines:
+  - Koliki je najam ovdje?
+  start: !human_time '00:08:36.415'
+- end: !human_time '00:08:42.710'
+  lines:
+  - Ovdje? Nije puno.
+  start: !human_time '00:08:38.751'
+- end: !human_time '00:08:48.725'
+  lines:
+  - Kada si promijenio broj?
+  start: !human_time '00:08:46.325'
+- end: !human_time '00:08:51.160'
+  lines:
+  - !!python/str "Za\u0161to nam nisi rekao?"
+  start: !human_time '00:08:48.794'
+- end: !human_time '00:08:54.264'
+  lines:
+  - Izgubio sam ga, pa sam uzeo drugi.
+  start: !human_time '00:08:51.864'
+- end: !human_time '00:08:55.698'
+  lines:
+  - A tvoj telefon?
+  start: !human_time '00:08:54.333'
+- end: !human_time '00:08:59.466'
+  lines:
+  - !!python/str "Kada sam pro\u0161li tjedan i\u0161ao"
+  - na pecanje, pao mi je u jezero.
+  start: !human_time '00:08:56.235'
+- end: !human_time '00:09:02.974'
+  lines:
+  - !!python/str "\u0160to \u0107e\u0161 raditi za vrijeme"
+  - dok si ovdje?
+  start: !human_time '00:09:00.506'
+- end: !human_time '00:09:05.676'
+  lines:
+  - Prekosutra odlazim.
+  start: !human_time '00:09:03.242'
+- end: !human_time '00:09:07.337'
+  lines:
+  - Tako rano?
+  start: !human_time '00:09:05.745'
+- end: !human_time '00:09:11.641'
+  lines:
+  - !!python/str "Ho\u0107u i\u0107i na pecanje."
+  start: !human_time '00:09:09.582'
+- end: !human_time '00:09:13.742'
+  lines:
+  - !!python/str "To je sve \u0161to radi\u0161!"
+  start: !human_time '00:09:11.717'
+- end: !human_time '00:09:16.045'
+  lines:
+  - !!python/str "Ho\u0107e\u0161 malo tjestenine?"
+  start: !human_time '00:09:14.453'
+- end: !human_time '00:09:19.614'
+  lines:
+  - Ting mi je malo prije donijela
+  - !!python/str "klopu. Jo\u0161 sam sit."
+  start: !human_time '00:09:16.122'
+- end: !human_time '00:09:36.802'
+  lines:
+  - Mama ti je ovo poslala.
+  start: !human_time '00:09:35.141'
+- end: !human_time '00:09:42.380'
+  lines:
+  - !!python/str "Vi\u0161e nije ljuta?"
+  start: !human_time '00:09:40.913'
+- end: !human_time '00:09:45.309'
+  lines:
+  - !!python/str "Potro\u0161ila je cijeli pro\u0161li tjedan"
+  - !!python/str "da ti isplete ovaj prekriva\u010D."
+  start: !human_time '00:09:42.715'
+- end: !human_time '00:09:58.721'
+  lines:
+  - Kako god, ja sam ispunio
+  - !!python/str "svoje obe\u0107anje,"
+  start: !human_time '00:09:56.696'
+- end: !human_time '00:10:00.561'
+  lines:
+  - !!python/str "a ti radi \u0161to ho\u0107e\u0161."
+  start: !human_time '00:09:58.798'
+- end: !human_time '00:11:34.384'
+  lines:
+  - Brate?
+  start: !human_time '00:11:33.292'
+- end: !human_time '00:11:37.887'
+  lines:
+  - !!python/str "Mra\u010Dno je!"
+  start: !human_time '00:11:36.295'
+- end: !human_time '00:11:44.926'
+  lines:
+  - !!python/str "Gdje je prekida\u010D za svjetlo?"
+  start: !human_time '00:11:42.935'
+- end: !human_time '00:11:48.939'
+  lines:
+  - Hokkiensko tijesto? Dobro.
+  start: !human_time '00:11:46.539'
+- end: !human_time '00:11:51.738'
+  lines:
+  - !!python/str "Tjesto od ri\u017Ee je bolje."
+  start: !human_time '00:11:49.008'
+- end: !human_time '00:11:55.642'
+  lines:
+  - Koliko je sati?
+  start: !human_time '00:11:53.879'
+- end: !human_time '00:12:28.274'
+  lines:
+  - Preko i ispod koliko? Dva gola?
+  start: !human_time '00:12:25.578'
+- end: !human_time '00:12:33.616'
+  lines:
+  - Dobro, sve preko...3000 preko,
+  - dobitak 88?
+  start: !human_time '00:12:28.781'
+- end: !human_time '00:12:39.982'
+  lines:
+  - Newcastle i Manchester City...
+  - Newcastle handikepiran za pola, dobitak 88?
+  start: !human_time '00:12:34.954'
+- end: !human_time '00:12:44.519'
+  lines:
+  - Hendikepiran u ovoj igri...
+  - Uzmi Manchester City, 2000.
+  start: !human_time '00:12:40.059'
+- end: !human_time '00:12:46.831'
+  lines:
+  - Bolje ispod 1000, u redu.
+  start: !human_time '00:12:44.897'
+- end: !human_time '00:12:51.734'
+  lines:
+  - AC Milan, lnter Milan...
+  start: !human_time '00:12:48.901'
+- end: !human_time '00:13:19.487'
+  lines:
+  - !!python/str "Ting je imala mjese\u0107nicu."
+  start: !human_time '00:13:15.995'
+- end: !human_time '00:13:21.362'
+  lines:
+  - !!python/str "Nije se osje\u0107ala dobro."
+  start: !human_time '00:13:19.565'
+- end: !human_time '00:13:23.367'
+  lines:
+  - !!python/str "Menad\u017Eer ju je pozvao k sebi.."
+  start: !human_time '00:13:21.433'
+- end: !human_time '00:13:25.835'
+  lines:
+  - !!python/str "\u017Delio je da doka\u017Ee da"
+  - joj je potrebno bolovanje.
+  start: !human_time '00:13:23.435'
+- end: !human_time '00:13:28.100'
+  lines:
+  - !!python/str "Zna\u0161 li \u0161to to zna\u010Di?"
+  start: !human_time '00:13:25.905'
+- end: !human_time '00:13:34.113'
+  lines:
+  - Trebala mu je pokazati
+  - !!python/str "svoj ulo\u017Eak."
+  start: !human_time '00:13:28.174'
+- end: !human_time '00:13:38.416'
+  lines:
+  - !!python/str "Na isti na\u010Din se ophodi prema"
+  - lndonezijskim radinicima.
+  start: !human_time '00:13:34.480'
+- end: !human_time '00:13:40.645'
+  lines:
+  - Ting mi je to rekla.
+  start: !human_time '00:13:38.484'
+- end: !human_time '00:13:44.883'
+  lines:
+  - I tako sam odalamio tog tipa.
+  - Slomio sam mu nos.
+  start: !human_time '00:13:40.719'
+- end: !human_time '00:13:50.354'
+  lines:
+  - Ljudi poput nas uvijek nastradaju
+  - !!python/str "kada se ne\u0161to dogodi."
+  start: !human_time '00:13:45.724'
+- end: !human_time '00:13:53.421'
+  lines:
+  - !!python/str "\u0160efovi se uvijek izvuku."
+  start: !human_time '00:13:50.429'
+- end: !human_time '00:13:54.761'
+  lines:
+  - !!python/str "Za\u0161to nam to nisi rekao?"
+  start: !human_time '00:13:53.499'
+- end: !human_time '00:13:57.428'
+  lines:
+  - !!python/str "Nije to bilo ni\u0161ta."
+  - !!python/str "\u0160to se imalo za re\u0107i?"
+  start: !human_time '00:13:54.834'
+- end: !human_time '00:14:01.039'
+  lines:
+  - !!python/str "Dakle, \u0161to se dogodilo"
+  - !!python/str "izme\u0111u tebe i Ting?"
+  start: !human_time '00:13:58.070'
+- end: !human_time '00:14:05.042'
+  lines:
+  - !!python/str "Obi\u010Dne de\u010Dko-cura stvari,"
+  - !!python/str "ni\u0161ta ozbiljno."
+  start: !human_time '00:14:01.106'
+- end: !human_time '00:14:13.808'
+  lines:
+  - Brate...
+  start: !human_time '00:14:12.284'
+- end: !human_time '00:14:17.018'
+  lines:
+  - !!python/str "Mama se vi\u0111a sa nekim tipom."
+  start: !human_time '00:14:14.720'
+- end: !human_time '00:14:18.716'
+  lines:
+  - Tko je on?
+  start: !human_time '00:14:17.089'
+- end: !human_time '00:14:20.582'
+  lines:
+  - Nije rekla.
+  start: !human_time '00:14:19.058'
+- end: !human_time '00:14:23.423'
+  lines:
+  - Ali znam da uzima lovu od nje.
+  start: !human_time '00:14:20.659'
+- end: !human_time '00:14:31.400'
+  lines:
+  - !!python/str "Brate, vrati se ku\u0107i."
+  start: !human_time '00:14:29.068'
+- end: !human_time '00:14:34.166'
+  lines:
+  - Moglo bi biti nevolja
+  - ako se vratim.
+  start: !human_time '00:14:31.470'
+- end: !human_time '00:14:37.203'
+  lines:
+  - !!python/str "Vidjet \u0107emo."
+  start: !human_time '00:14:35.474'
+- end: !human_time '00:14:40.842'
+  lines:
+  - !!python/str "Mo\u017Eda za tjedan ili dva."
+  start: !human_time '00:14:38.544'
+- end: !human_time '00:14:50.884'
+  lines:
+  - To je mirno naselje,
+  - !!python/str "ve\u010Dinom obitelji."
+  start: !human_time '00:14:43.682'
+- end: !human_time '00:14:57.554'
+  lines:
+  - !!python/str "Koja je veli\u010Dina stana?"
+  start: !human_time '00:14:56.428'
+- end: !human_time '00:14:59.029'
+  lines:
+  - Oko 90 kvadrata.
+  start: !human_time '00:14:57.630'
+- end: !human_time '00:15:00.827'
+  lines:
+  - !!python/str "Kuhinja je prili\u010Dno mala."
+  start: !human_time '00:14:59.098'
+- end: !human_time '00:15:04.063'
+  lines:
+  - !!python/str "Dana\u0161nje \u017Eene ba\u0161"
+  - ne vole kuhati.
+  start: !human_time '00:15:00.900'
+- end: !human_time '00:15:09.369'
+  lines:
+  - Tako da su ga dizajnirali
+  - !!python/str "sa ve\u0107im dnevnim boravkom."
+  start: !human_time '00:15:04.136'
+- end: !human_time '00:15:15.709'
+  lines:
+  - Kupujem stan za moju mamu.
+  - Ona voli kuhati.
+  start: !human_time '00:15:12.478'
+- end: !human_time '00:15:17.510'
+  lines:
+  - Vjerujem vam to.
+  start: !human_time '00:15:15.781'
+- end: !human_time '00:15:28.289'
+  lines:
+  - Tung!
+  start: !human_time '00:15:26.992'
+- end: !human_time '00:15:32.094'
+  lines:
+  - !!python/str "\u0160to ti misli\u0161?"
+  start: !human_time '00:15:30.763'
+- end: !human_time '00:15:35.532'
+  lines:
+  - !!python/str "Nije lo\u0161e."
+  start: !human_time '00:15:33.632'
+- end: !human_time '00:15:39.002'
+  lines:
+  - !!python/str "Dosta stanova je ve\u0107 razgrabljeno."
+  start: !human_time '00:15:35.601'
+- end: !human_time '00:15:42.302'
+  lines:
+  - !!python/str "Cijena je ve\u0107 porasla za"
+  - !!python/str "vi\u0161e od 20,000."
+  start: !human_time '00:15:39.071'
+- end: !human_time '00:15:45.571'
+  lines:
+  - !!python/str "Ali, ako ga ho\u0107ete kupiti,"
+  - dajte mi 'za kavu'...
+  start: !human_time '00:15:42.374'
+- end: !human_time '00:15:48.636'
+  lines:
+  - !!python/str "...i pomo\u0107i \u0107u vam da ga"
+  - !!python/str "dobijete po po\u010Detnoj cijeni."
+  start: !human_time '00:15:45.644'
+- end: !human_time '00:15:51.477'
+  lines:
+  - !!python/str "Zvu\u010Di dobro."
+  start: !human_time '00:15:48.747'
+- end: !human_time '00:16:06.827'
+  lines:
+  - Ovdje je 1000 za mamu.
+  start: !human_time '00:16:03.562'
+- end: !human_time '00:16:08.594'
+  lines:
+  - Pazi na to.
+  start: !human_time '00:16:06.899'
+- end: !human_time '00:16:19.405'
+  lines:
+  - !!python/str "\u0160to je bilo?"
+  start: !human_time '00:16:18.177'
+- end: !human_time '00:16:22.541'
+  lines:
+  - Gdje je WC?
+  start: !human_time '00:16:19.845'
+- end: !human_time '00:16:29.952'
+  lines:
+  - WC? Tamo.
+  start: !human_time '00:16:22.614'
+- end: !human_time '00:16:35.652'
+  lines:
+  - !!python/str "Hej, ima\u0161 li kovanica?"
+  - To je 30 centi.
+  start: !human_time '00:16:31.056'
+- end: !human_time '00:16:59.312'
+  lines:
+  - Ovaj?
+  start: !human_time '00:16:58.584'
+- end: !human_time '00:17:00.352'
+  lines:
+  - Ne.
+  start: !human_time '00:16:59.385'
+- end: !human_time '00:17:01.283'
+  lines:
+  - Onaj?
+  start: !human_time '00:17:00.419'
+- end: !human_time '00:17:02.513'
+  lines:
+  - Taj ide u Singapore.
+  start: !human_time '00:17:01.353'
+- end: !human_time '00:17:05.716'
+  lines:
+  - !!python/str "Onaj na kraju. Po\u017Euri!"
+  start: !human_time '00:17:02.588'
+- end: !human_time '00:18:39.050'
+  lines:
+  - !!python/str "Kada se Tung vra\u0107a?"
+  start: !human_time '00:18:37.082'
+- end: !human_time '00:18:43.680'
+  lines:
+  - Ne ovako rano, sada
+  - je u autobusu.
+  start: !human_time '00:18:39.118'
+- end: !human_time '00:18:49.894'
+  lines:
+  - !!python/str "Ti \u0107e\u0161 biti u restoranu"
+  - kada on stigne ovamo..
+  start: !human_time '00:18:46.925'
+- end: !human_time '00:18:53.364'
+  lines:
+  - Jesi li mi pripremila
+  - crvenu kovertu?
+  start: !human_time '00:18:51.396'
+- end: !human_time '00:19:09.642'
+  lines:
+  - !!python/str "To nije dovoljno, mlado\u017Eenja"
+  - je najbolji prijatelj moga sina.
+  start: !human_time '00:19:04.409'
+- end: !human_time '00:19:10.943'
+  lines:
+  - Koliko onda?
+  start: !human_time '00:19:09.715'
+- end: !human_time '00:19:12.381'
+  lines:
+  - !!python/str "Malo vi\u0161e."
+  start: !human_time '00:19:11.016'
+- end: !human_time '00:19:33.736'
+  lines:
+  - Dobro, bilo bi sramota dati samo 30.
+  start: !human_time '00:19:28.901'
+- end: !human_time '00:19:37.231'
+  lines:
+  - Da li je to novi parfem?
+  start: !human_time '00:19:35.707'
+- end: !human_time '00:19:50.146'
+  lines:
+  - !!python/str "Sigurno se \u0161ali\u0161!"
+  - Bilo je 1000, a ne 100!
+  start: !human_time '00:19:45.584'
+- end: !human_time '00:19:51.885'
+  lines:
+  - !!python/str "Sve si pretra\u017Eio?"
+  start: !human_time '00:19:50.489'
+- end: !human_time '00:19:55.417'
+  lines:
+  - !!python/str "D\u017Eepove? Torbu?"
+  start: !human_time '00:19:52.056'
+- end: !human_time '00:20:00.126'
+  lines:
+  - !!python/str "Sada ni\u0161ta ne mogu u\u010Diniti."
+  start: !human_time '00:19:58.397'
+- end: !human_time '00:20:02.762'
+  lines:
+  - !!python/str "Nazvat \u0107u te."
+  start: !human_time '00:20:00.999'
+- end: !human_time '00:20:27.091'
+  lines:
+  - Ti si na redu.
+  start: !human_time '00:20:25.624'
+- end: !human_time '00:20:41.338'
+  lines:
+  - !!python/str "U \u0161to bleji\u0161?"
+  start: !human_time '00:20:39.905'
+- end: !human_time '00:20:51.640'
+  lines:
+  - !!python/str "Dakle, \u0161to?"
+  start: !human_time '00:20:50.082'
+- end: !human_time '00:20:55.013'
+  lines:
+  - Sve je u redu, smiri se.
+  start: !human_time '00:20:52.351'
+- end: !human_time '00:20:56.281'
+  lines:
+  - Koji kurac?
+  start: !human_time '00:20:55.087'
+- end: !human_time '00:20:57.344'
+  lines:
+  - Ne izazivaj, molim te.
+  start: !human_time '00:20:56.355'
+- end: !human_time '00:20:58.650'
+  lines:
+  - !!python/str "Ne smijem pri\u010Dati?"
+  start: !human_time '00:20:57.422'
+- end: !human_time '00:21:01.090'
+  lines:
+  - Vrati se svojoj igri, u redu?
+  start: !human_time '00:20:58.724'
+- end: !human_time '00:21:07.388'
+  lines:
+  - Jesi li ti lud?
+  start: !human_time '00:21:05.864'
+- end: !human_time '00:21:22.574'
+  lines:
+  - Nemoj se zajebavati.
+  start: !human_time '00:21:20.379'
+- end: !human_time '00:22:18.529'
+  lines:
+  - !!python/str "Nemoj toliko razmi\u0161ljati"
+  - !!python/str "dok jede\u0161."
+  start: !human_time '00:22:16.368'
+- end: !human_time '00:22:30.414'
+  lines:
+  - Brat ti je poslao ovo.
+  start: !human_time '00:22:28.480'
+- end: !human_time '00:22:34.143'
+  lines:
+  - Kako je on?
+  start: !human_time '00:22:32.050'
+- end: !human_time '00:22:36.344'
+  lines:
+  - Vodio me da vidim
+  - jedan novi apartman.
+  start: !human_time '00:22:34.786'
+- end: !human_time '00:22:39.982'
+  lines:
+  - !!python/str "\u0160esti kat, lijepo naselje."
+  start: !human_time '00:22:36.421'
+- end: !human_time '00:22:44.025'
+  lines:
+  - !!python/str "\u017Delio bi da \u017Eivimo tamo."
+  start: !human_time '00:22:42.194'
+- end: !human_time '00:22:47.895'
+  lines:
+  - Dobro nam je ovdje,
+  - !!python/str "za\u0161to da se selimo?"
+  start: !human_time '00:22:44.596'
+- end: !human_time '00:22:49.593'
+  lines:
+  - !!python/str "\u0160to je ovdje dobro?"
+  start: !human_time '00:22:47.966'
+- end: !human_time '00:22:56.339'
+  lines:
+  - G. Lam sa benzinske postaje
+  - treba nekoga.
+  start: !human_time '00:22:53.472'
+- end: !human_time '00:22:57.773'
+  lines:
+  - !!python/str "Mo\u017Eda je to posao za tebe."
+  start: !human_time '00:22:56.408'
+- end: !human_time '00:22:59.674'
+  lines:
+  - Bolje nego da po cijele
+  - !!python/str "dane ne radi\u0161 ni\u0161ta."
+  start: !human_time '00:22:57.843'
+- end: !human_time '00:23:01.076'
+  lines:
+  - Tko je g. Lam?
+  start: !human_time '00:22:59.745'
+- end: !human_time '00:23:05.080'
+  lines:
+  - !!python/str "Imao je mo\u017Edani udar"
+  - !!python/str "pro\u0161le godine."
+  start: !human_time '00:23:01.713'
+- end: !human_time '00:23:07.118'
+  lines:
+  - Nisi ga upoznao.
+  start: !human_time '00:23:05.150'
+- end: !human_time '00:23:09.320'
+  lines:
+  - !!python/str "Odkuda ga ti poznaje\u0161?"
+  start: !human_time '00:23:07.853'
+- end: !human_time '00:23:11.788'
+  lines:
+  - Preko jednog prijatelja.
+  start: !human_time '00:23:09.888'
+- end: !human_time '00:23:13.119'
+  lines:
+  - Kojeg prijatelja?
+  start: !human_time '00:23:11.857'
+- end: !human_time '00:23:15.084'
+  lines:
+  - Onog tipa koji dolazi ovamo?
+  start: !human_time '00:23:13.492'
+- end: !human_time '00:24:07.910'
+  lines:
+  - Tung.
+  start: !human_time '00:24:06.978'
+- end: !human_time '00:24:11.107'
+  lines:
+  - !!python/str "Riba koju smo ulovili pro\u0161li"
+  - tjedan bila je neukusna.
+  start: !human_time '00:24:07.979'
+- end: !human_time '00:24:14.050'
+  lines:
+  - !!python/str "Poku\u0161ajmo na Yangovom"
+  - !!python/str "pje\u0161\u0107anom ribnjaku."
+  start: !human_time '00:24:11.183'
+- end: !human_time '00:24:15.416'
+  lines:
+  - !!python/str "Mo\u017Eda je tamo bolja riba."
+  start: !human_time '00:24:14.119'
+- end: !human_time '00:24:16.454'
+  lines:
+  - Sutra?
+  start: !human_time '00:24:15.487'
+- end: !human_time '00:24:19.456'
+  lines:
+  - Ne mogu.
+  start: !human_time '00:24:16.521'
+- end: !human_time '00:24:21.788'
+  lines:
+  - !!python/str "Sutra moram ne\u0161to"
+  - napraviti za hram.
+  start: !human_time '00:24:19.524'
+- end: !human_time '00:24:22.918'
+  lines:
+  - !!python/str "Onda sljede\u0107i tjedan?"
+  start: !human_time '00:24:21.860'
+- end: !human_time '00:24:25.656'
+  lines:
+  - !!python/str "U redu, sljede\u0107i tjedan."
+  start: !human_time '00:24:22.994'
+- end: !human_time '00:24:30.560'
+  lines:
+  - !!python/str "Popodne \u0107u ti donijeti gliste."
+  start: !human_time '00:24:27.966'
+- end: !human_time '00:25:45.001'
+  lines:
+  - Da li si donio liker?
+  start: !human_time '00:25:43.875'
+- end: !human_time '00:25:46.304'
+  lines:
+  - Jesam.
+  start: !human_time '00:25:45.076'
+- end: !human_time '00:25:50.238'
+  lines:
+  - !!python/str "On pobolj\u0161ava okus."
+  start: !human_time '00:25:47.178'
+- end: !human_time '00:26:08.362'
+  lines:
+  - !!python/str "SNA\u017DNA SNJE\u017DNA OLUJA JE"
+  - ZAUSTAVILA PROMET...
+  start: !human_time '00:26:06.565'
+- end: !human_time '00:26:10.867'
+  lines:
+  - '...I PRIZEMLJILA'
+  - ZRAKOPLOVE.
+  start: !human_time '00:26:08.433'
+- end: !human_time '00:26:14.337'
+  lines:
+  - 23 LETA IZ PARISA JE
+  - OTKAZANO.
+  start: !human_time '00:26:10.936'
+- end: !human_time '00:26:18.137'
+  lines:
+  - U NIZOZEMSKOJ SU NEKA VOZILA
+  - BILA ZAGLAVLJENA 10 SATI.
+  start: !human_time '00:26:14.406'
+- end: !human_time '00:26:20.541'
+  lines:
+  - STOTINE LJUDI JE MORALO PROVESTI
+  - !!python/str "NO\u0106 U SVOJIM VOZILIMA."
+  start: !human_time '00:26:18.209'
+- end: !human_time '00:26:22.273'
+  lines:
+  - 20 CM SNIJEGA PALO JE
+  - !!python/str "U NJEMA\u010CKOJ"
+  start: !human_time '00:26:20.612'
+- end: !human_time '00:26:25.282'
+  lines:
+  - !!python/str "\u0160TO JE PROUZRO\u010CILO"
+  - VELIKE ZASTOJE.
+  start: !human_time '00:26:22.347'
+- end: !human_time '00:26:27.349'
+  lines:
+  - !!python/str "ZAHVALJUJU\u0106I O\u0160TROM PADU"
+  - U PRODAJI AUTOMOBILA...
+  start: !human_time '00:26:25.317'
+- end: !human_time '00:26:30.952'
+  lines:
+  - '...I SMANJENJU PROIZVODNJE'
+  - !!python/str "CEMENTA ZBOG SEZONE KI\u0160A..."
+  start: !human_time '00:26:27.418'
+- end: !human_time '00:26:33.047'
+  lines:
+  - !!python/str "...INDIJA PREDVI\u0110A"
+  - 7.5%-tni PAD...
+  start: !human_time '00:26:31.022'
+- end: !human_time '00:26:36.389'
+  lines:
+  - '...GDP-a U OVOM KVARTALU.'
+  start: !human_time '00:26:33.124'
+- end: !human_time '00:26:41.364'
+  lines:
+  - OD OSTALIH VIJESTI. TAJFUN
+  - PRIJETI NA PRIOBALNOM...
+  start: !human_time '00:26:36.461'
+- end: !human_time '00:27:55.137'
+  lines:
+  - !!python/str "To je sve \u0161to ti mogu re\u0107i."
+  start: !human_time '00:27:51.269'
+- end: !human_time '00:27:58.767'
+  lines:
+  - !!python/str "Siguran sam da je policija ve\u0107"
+  - !!python/str "razjasnila \u0161to se dogodilo."
+  start: !human_time '00:27:55.206'
+- end: !human_time '00:28:03.037'
+  lines:
+  - Kada je tvoj brat dovezen
+  - ovamo...
+  start: !human_time '00:27:59.044'
+- end: !human_time '00:28:05.639'
+  lines:
+  - !!python/str "...ve\u0107 je bilo malo prekasno."
+  start: !human_time '00:28:03.114'
+- end: !human_time '00:28:10.453'
+  lines:
+  - Izgubio je dosta krvi u
+  - biljarskoj sali.
+  start: !human_time '00:28:06.551'
+- end: !human_time '00:28:14.754'
+  lines:
+  - !!python/str "Poku\u0161ali smo sve \u0161to"
+  - !!python/str "je bilo u na\u0161oj mo\u0107i."
+  start: !human_time '00:28:10.522'
+- end: !human_time '00:28:20.354'
+  lines:
+  - !!python/str "\u010Citao sam o tome u novinama."
+  start: !human_time '00:28:18.830'
+- end: !human_time '00:28:23.162'
+  lines:
+  - Takve stvari se stalno
+  - !!python/str "doga\u0111aju."
+  start: !human_time '00:28:20.432'
+- end: !human_time '00:28:34.133'
+  lines:
+  - Te ilegalne biljarske sale su laka meta.
+  - Tvoj brat je bio tamo u krivo vrijeme.
+  start: !human_time '00:28:23.234'
+- end: !human_time '00:28:37.311'
+  lines:
+  - !!python/str "Moram i\u0107i."
+  start: !human_time '00:28:35.013'
+- end: !human_time '00:28:48.885'
+  lines:
+  - !!python/str "Vidimo se sutra. A \u017Eeli\u0161 o ne\u0107em"
+  - razgovarati, slobodno me nazovi.
+  start: !human_time '00:28:40.819'
+- end: !human_time '00:28:54.795'
+  lines:
+  - Mislim da bi se sada trebao odmoriti.
+  - Imao si dug put. U redu?
+  start: !human_time '00:28:50.495'
+- end: !human_time '00:28:58.130'
+  lines:
+  - Vidimo se sutra.
+  start: !human_time '00:28:55.400'
+- end: !human_time '00:31:44.729'
+  lines:
+  - !!python/str "Taj apartman koji je Hong \u017Eelio"
+  - kupiti, da li je tamo bilo komaraca?
+  start: !human_time '00:31:42.033'
+- end: !human_time '00:31:47.100'
+  lines:
+  - Ne znam, bilo je dosta visoko.
+  start: !human_time '00:31:44.802'
+- end: !human_time '00:31:48.195'
+  lines:
+  - Kako visoko?
+  start: !human_time '00:31:47.171'
+- end: !human_time '00:31:51.606'
+  lines:
+  - !!python/str "\u0160esti kat..."
+  - !!python/str "\u0160to je vi\u0161e, to je skuplje."
+  start: !human_time '00:31:48.273'
+- end: !human_time '00:31:54.372'
+  lines:
+  - !!python/str "Na\u0161 stan sada vjerojatno"
+  - vrijedi 70,000 do 80,000.
+  start: !human_time '00:31:51.676'
+- end: !human_time '00:31:56.504'
+  lines:
+  - Prije 20 godina bilo
+  - je to oko 10.000.
+  start: !human_time '00:31:54.445'
+- end: !human_time '00:31:58.640'
+  lines:
+  - !!python/str "Tada se ti jo\u0161 nisi ni rodio."
+  start: !human_time '00:31:56.581'
+- end: !human_time '00:32:03.647'
+  lines:
+  - !!python/str "Kada ovako sjedi\u0161, zna\u0161"
+  - !!python/str "na koga me podsje\u0107a\u0161?"
+  start: !human_time '00:32:01.019'
+- end: !human_time '00:32:06.647'
+  lines:
+  - Na svog tatu!
+  start: !human_time '00:32:05.089'
+- end: !human_time '00:32:11.219'
+  lines:
+  - Moji roditelji nisu odobravali
+  - !!python/str "da se vi\u0111am sa njim."
+  start: !human_time '00:32:07.692'
+- end: !human_time '00:32:13.890'
+  lines:
+  - Jenog dana me je pokupio...
+  start: !human_time '00:32:11.296'
+- end: !human_time '00:32:18.197'
+  lines:
+  - i odveo u jedan motel
+  - !!python/str "ba\u0161 kao \u0161to je ovaj."
+  start: !human_time '00:32:13.965'
+- end: !human_time '00:32:20.396'
+  lines:
+  - !!python/str "Le\u017Eala sam,"
+  start: !human_time '00:32:18.269'
+- end: !human_time '00:32:23.668'
+  lines:
+  - !!python/str "a on je sjeo ba\u0161 ovako"
+  - kao ti sada.
+  start: !human_time '00:32:20.471'
+- end: !human_time '00:32:25.470'
+  lines:
+  - Bila sam dosta pod stresom...
+  start: !human_time '00:32:23.741'
+- end: !human_time '00:32:28.137'
+  lines:
+  - !!python/str "...a on me je poku\u0161ao"
+  - razvedriti sa vicevima.
+  start: !human_time '00:32:25.543'
+- end: !human_time '00:32:29.804'
+  lines:
+  - Kakvim vicevima?
+  start: !human_time '00:32:28.212'
+- end: !human_time '00:32:35.251'
+  lines:
+  - !!python/str "Zaboravila sam. Nisu ba\u0161"
+  - !!python/str "bili jako smije\u0161ni."
+  start: !human_time '00:32:29.881'
+- end: !human_time '00:32:50.661'
+  lines:
+  - Zdravo, teta.
+  start: !human_time '00:32:49.467'
+- end: !human_time '00:32:54.103'
+  lines:
+  - !!python/str "Tung, Fook \u017Eeli da do\u0111e\u0161"
+  - !!python/str "van na pi\u0107e."
+  start: !human_time '00:32:51.202'
+- end: !human_time '00:32:58.003'
+  lines:
+  - !!python/str "Ti uzmi klju\u010D, ja \u0107u se"
+  - malo odmoriti.
+  start: !human_time '00:32:55.239'
+- end: !human_time '00:33:16.223'
+  lines:
+  - Fook.
+  start: !human_time '00:33:14.926'
+- end: !human_time '00:33:22.759'
+  lines:
+  - Motor tvog brata.
+  start: !human_time '00:33:20.598'
+- end: !human_time '00:33:31.874'
+  lines:
+  - !!python/str "\u017Deli\u0161 li znati \u0161to se"
+  - dogodilo s njim?
+  start: !human_time '00:33:29.974'
+- end: !human_time '00:33:35.343'
+  lines:
+  - Slijedi me.
+  start: !human_time '00:33:34.012'
+- end: !human_time '00:33:45.219'
+  lines:
+  - !!python/str "U\u0111i!"
+  start: !human_time '00:33:42.887'
+- end: !human_time '00:34:36.506'
+  lines:
+  - Onog dana u biljarskoj sali,
+  start: !human_time '00:34:35.073'
+- end: !human_time '00:34:39.008'
+  lines:
+  - pojavila su se ova dvojica
+  - !!python/str "sa no\u017Eevima."
+  start: !human_time '00:34:36.574'
+- end: !human_time '00:34:41.011'
+  lines:
+  - !!python/str "Nisu mogli na\u010Di tipa"
+  - !!python/str "kojeg su tra\u017Eili."
+  start: !human_time '00:34:39.077'
+- end: !human_time '00:34:46.173'
+  lines:
+  - !!python/str "Po\u010Dela je tu\u010Dnjava,"
+  - a Hong je bio uboden.
+  start: !human_time '00:34:43.181'
+- end: !human_time '00:34:53.823'
+  lines:
+  - Uhvatili smo jednoga,
+  - a drugi je pobjegao.
+  start: !human_time '00:34:48.886'
+- end: !human_time '00:34:56.725'
+  lines:
+  - Ali ovaj kojeg smo imali
+  - je progovorio,
+  start: !human_time '00:34:55.326'
+- end: !human_time '00:34:59.422'
+  lines:
+  - !!python/str "tako da smo prona\u0161li i drugog."
+  start: !human_time '00:34:56.794'
+- end: !human_time '00:35:04.825'
+  lines:
+  - !!python/str "Murija ka\u017Ee da je to bila \"plja\u010Dka\"."
+  start: !human_time '00:35:02.300'
+- end: !human_time '00:35:12.208'
+  lines:
+  - Sranje!
+  start: !human_time '00:35:05.837'
+- end: !human_time '00:35:22.041'
+  lines:
+  - Svuda je bilo krvi. Trebalo je dosta
+  - !!python/str "vremena da se to po\u010Disti."
+  start: !human_time '00:35:15.613'
+- end: !human_time '00:35:46.601'
+  lines:
+  - !!python/str "Ispri\u010Dajte mu se!"
+  start: !human_time '00:35:44.041'
+- end: !human_time '00:39:21.884'
+  lines:
+  - !!python/str "Ve\u010Deras ne\u0107u kuhati,"
+  - !!python/str "idi i kupi si ne\u0161to vani."
+  start: !human_time '00:39:19.757'
+- end: !human_time '00:39:26.718'
+  lines:
+  - Vidio sam Chat Suka vani...
+  - !!python/str "\u0160to je on radio ovdje?"
+  start: !human_time '00:39:23.260'
+- end: !human_time '00:39:36.770'
+  lines:
+  - !!python/str "Ide\u0161 li ili ne?"
+  start: !human_time '00:39:34.472'
+- end: !human_time '00:44:07.576'
+  lines:
+  - Gdje je bratov motor?
+  start: !human_time '00:44:06.143'
+- end: !human_time '00:44:09.875'
+  lines:
+  - !!python/str "Za\u0161to misli\u0161 da on to zna?"
+  start: !human_time '00:44:07.645'
+- end: !human_time '00:44:11.414'
+  lines:
+  - Zna on.
+  start: !human_time '00:44:09.947'
+- end: !human_time '00:44:13.315'
+  lines:
+  - !!python/str "Ho\u0107e\u0161 li ga vratiti?"
+  start: !human_time '00:44:11.882'
+- end: !human_time '00:44:16.245'
+  lines:
+  - Rekao je da ga on nema.
+  - !!python/str "\u0160to jo\u0161 ho\u0107e\u0161?"
+  start: !human_time '00:44:13.617'
+- end: !human_time '00:44:20.549'
+  lines:
+  - !!python/str "Hej! \u0160upak!"
+  start: !human_time '00:44:17.921'
+- end: !human_time '00:45:41.736'
+  lines:
+  - Obuci se, nemoj ometati
+  - !!python/str "svog brati\u0107a."
+  start: !human_time '00:45:36.867'
+- end: !human_time '00:45:44.000'
+  lines:
+  - !!python/str "Kada je on do\u0161ao?"
+  start: !human_time '00:45:41.805'
+- end: !human_time '00:45:45.132'
+  lines:
+  - Upravo sada.
+  start: !human_time '00:45:44.074'
+- end: !human_time '00:45:46.540'
+  lines:
+  - !!python/str "Po\u017Euri!"
+  start: !human_time '00:45:45.209'
+- end: !human_time '00:46:01.247'
+  lines:
+  - Zar teta nije ovdje?
+  - !!python/str "Nije poslala kola\u010De?"
+  start: !human_time '00:45:57.755'
+- end: !human_time '00:46:03.423'
+  lines:
+  - !!python/str "Ti ne jede\u0161 ni moje kola\u010De."
+  start: !human_time '00:46:01.592'
+- end: !human_time '00:46:05.621'
+  lines:
+  - Njeni su bolji od tvojih.
+  start: !human_time '00:46:03.494'
+- end: !human_time '00:46:26.415'
+  lines:
+  - !!python/str "Mo\u017Ee kod nas pri\u010Dekati"
+  - !!python/str "na rezultate iz \u0161kole."
+  start: !human_time '00:46:22.012'
+- end: !human_time '00:46:30.849'
+  lines:
+  - !!python/str "\u0160to se dogodilo?"
+  start: !human_time '00:46:28.585'
+- end: !human_time '00:46:36.249'
+  lines:
+  - !!python/str "Jede. Ho\u017Ee\u0161 li razgovarati s njim?"
+  start: !human_time '00:46:31.789'
+- end: !human_time '00:46:39.022'
+  lines:
+  - !!python/str "Ne\u0107e ni on."
+  start: !human_time '00:46:37.361'
+- end: !human_time '00:46:45.294'
+  lines:
+  - !!python/str "Ispri\u010Dao mi je sve o Hongu."
+  start: !human_time '00:46:41.665'
+- end: !human_time '00:46:50.062'
+  lines:
+  - !!python/str "Mogla si re\u0107i Min!"
+  start: !human_time '00:46:46.069'
+- end: !human_time '00:46:52.973'
+  lines:
+  - Bio sam na moru dva tjedna.
+  start: !human_time '00:46:50.607'
+- end: !human_time '00:46:56.171'
+  lines:
+  - !!python/str "Ina\u010De bih te odvezao"
+  - u Kuala Lumpur.
+  start: !human_time '00:46:53.043'
+- end: !human_time '00:46:59.112'
+  lines:
+  - !!python/str "U redu, pripazit \u0107u na njega."
+  start: !human_time '00:46:56.780'
+- end: !human_time '00:47:04.381'
+  lines:
+  - !!python/str "\u010Cekaj, Min ho\u0107e"
+  - razgovarati s tobom.
+  start: !human_time '00:47:00.217'
+- end: !human_time '00:47:18.491'
+  lines:
+  - !!python/str "Halo? Tre\u0107a sestro,"
+  - !!python/str "ne znam \u0161to da ka\u017Eem."
+  start: !human_time '00:47:11.995'
+- end: !human_time '00:47:20.961'
+  lines:
+  - Kako si ti?
+  start: !human_time '00:47:19.403'
+- end: !human_time '00:47:33.977'
+  lines:
+  - !!python/str "I mi smo jako tu\u017Eni."
+  start: !human_time '00:47:31.315'
+- end: !human_time '00:47:49.025'
+  lines:
+  - !!python/str "Za\u0161to ure\u0111uje\u0161 svoje"
+  - obrvice tako kasno?
+  start: !human_time '00:47:46.830'
+- end: !human_time '00:47:52.598'
+  lines:
+  - Za tebe!
+  start: !human_time '00:47:50.801'
+- end: !human_time '00:47:58.032'
+  lines:
+  - Roba od Ah Chua opet kasni?
+  start: !human_time '00:47:55.973'
+- end: !human_time '00:48:02.506'
+  lines:
+  - Od one bombe na granici,
+  - posvuda su vojnici.
+  start: !human_time '00:47:59.343'
+- end: !human_time '00:48:05.944'
+  lines:
+  - !!python/str "To utje\u0107e i na isporuke."
+  start: !human_time '00:48:03.180'
+- end: !human_time '00:48:09.317'
+  lines:
+  - !!python/str "Mo\u017Eda idu\u0107i mjesec opet"
+  - !!python/str "moram i\u0107i na more."
+  start: !human_time '00:48:06.416'
+- end: !human_time '00:48:13.049'
+  lines:
+  - Bomba tu, bomba tamo...
+  start: !human_time '00:48:09.386'
+- end: !human_time '00:48:16.890'
+  lines:
+  - !!python/str "\u0160to si oni misle da rade?"
+  start: !human_time '00:48:14.524'
+- end: !human_time '00:48:22.629'
+  lines:
+  - !!python/str "Kada \u0107e\u0161 biti slobodan?"
+  start: !human_time '00:48:19.796'
+- end: !human_time '00:48:26.092'
+  lines:
+  - Trebali bi odvesti Tunga na
+  - '''Ositboi'' (vrsta ribe).'
+  start: !human_time '00:48:23.100'
+- end: !human_time '00:48:27.926'
+  lines:
+  - !!python/str "Ti ga mo\u017Ee\u0161 povesti!"
+  start: !human_time '00:48:26.436'
+- end: !human_time '00:48:29.996'
+  lines:
+  - Yuk je tako i tako uvijek
+  - sa njim.
+  start: !human_time '00:48:28.005'
+- end: !human_time '00:48:34.167'
+  lines:
+  - !!python/str "Mo\u017Eda bi ga Yuk trebao"
+  - !!python/str "odvesti ku\u0107i."
+  start: !human_time '00:48:31.141'
+- end: !human_time '00:48:44.784'
+  lines:
+  - !!python/str "Od kada ti ima\u0161 tako o\u0161tar jezik?"
+  start: !human_time '00:48:41.485'
+- end: !human_time '00:48:47.247'
+  lines:
+  - Tung nikada nije vidio
+  - svog tatu.
+  start: !human_time '00:48:45.222'
+- end: !human_time '00:48:50.088'
+  lines:
+  - Kakvo je djetinjstvo on imao?
+  start: !human_time '00:48:47.324'
+- end: !human_time '00:48:54.659'
+  lines:
+  - !!python/str "Isto kao i moje, pa \u0161to?"
+  start: !human_time '00:48:51.428'
+- end: !human_time '00:48:58.001'
+  lines:
+  - !!python/str "Ne pri\u010Dam o tvom ocu."
+  start: !human_time '00:48:55.032'
+- end: !human_time '00:49:11.540'
+  lines:
+  - Mojem ocu se definitivno ne bi
+  - !!python/str "svidjela \u017Eena kakva si ti."
+  start: !human_time '00:49:07.911'
+- end: !human_time '00:49:13.679'
+  lines:
+  - !!python/str "A kakva sam ja to \u017Eena?"
+  start: !human_time '00:49:11.848'
+- end: !human_time '00:49:29.154'
+  lines:
+  - !!python/str "\u017Dena koja kuha bez soli."
+  start: !human_time '00:49:25.696'
+- end: !human_time '00:49:37.271'
+  lines:
+  - Prijevoz na drugu stranu
+  - !!python/str "do\u0111e samo 10 centa."
+  start: !human_time '00:49:34.438'
+- end: !human_time '00:49:40.868'
+  lines:
+  - Stvarno? Koliko oni zarade dnevno?
+  start: !human_time '00:49:37.341'
+- end: !human_time '00:49:44.345'
+  lines:
+  - Sigurno manje nego moj tata.
+  start: !human_time '00:49:40.944'
+- end: !human_time '00:50:15.068'
+  lines:
+  - Gdje ste tako dugo?
+  start: !human_time '00:50:10.040'
+- end: !human_time '00:50:17.979'
+  lines:
+  - !!python/str "Hui \u010Deka ve\u0107 dulje vrijeme."
+  start: !human_time '00:50:15.545'
+- end: !human_time '00:50:34.356'
+  lines:
+  - !!python/str "Tung je Yukov brati\u0107."
+  start: !human_time '00:50:32.229'
+- end: !human_time '00:50:40.395'
+  lines:
+  - Ovo je Hui, ona je jako pametna.
+  start: !human_time '00:50:36.299'
+- end: !human_time '00:50:47.037'
+  lines:
+  - !!python/str "Ovo smo pro\u0161li tri puta,"
+  - a ti si dobio samo tri boda?
+  start: !human_time '00:50:43.340'
+- end: !human_time '00:50:51.137'
+  lines:
+  - !!python/str "U\u010Diteljica je promijenila"
+  - sva pitanja bez najave.
+  start: !human_time '00:50:47.110'
+- end: !human_time '00:50:54.344'
+  lines:
+  - Do kuda smo stigli?
+  start: !human_time '00:50:52.649'
+- end: !human_time '00:51:05.317'
+  lines:
+  - !!python/str "Zna\u0161 li ovo napisati?"
+  start: !human_time '00:51:03.326'
+- end: !human_time '00:51:09.726'
+  lines:
+  - !!python/str "Pokazat \u0107u ti."
+  start: !human_time '00:51:06.563'
+- end: !human_time '00:51:36.256'
+  lines:
+  - !!python/str "Ujak je sredio ku\u0107u,"
+  - !!python/str "na kuhinjskom podu su plo\u010Dice."
+  start: !human_time '00:51:31.922'
+- end: !human_time '00:51:39.892'
+  lines:
+  - Nije velika promjena.
+  start: !human_time '00:51:38.095'
+- end: !human_time '00:51:43.865'
+  lines:
+  - Nema prozora na sobi
+  - u kojoj spavam.
+  start: !human_time '00:51:41.465'
+- end: !human_time '00:51:50.069'
+  lines:
+  - !!python/str "Ve\u010Dinom vremena ga nema."
+  start: !human_time '00:51:46.736'
+- end: !human_time '00:51:54.672'
+  lines:
+  - Yuk i teta su preko
+  - kod nekih prijatelja.
+  start: !human_time '00:51:51.908'
+- end: !human_time '00:51:58.270'
+  lines:
+  - !!python/str "Mislim da ih u\u010Di pe\u0107i kola\u010De."
+  start: !human_time '00:51:55.779'
+- end: !human_time '00:52:15.120'
+  lines:
+  - !!python/str "Mama, za\u0161to pla\u0107e\u0161?"
+  start: !human_time '00:52:12.629'
+- end: !human_time '00:52:44.354'
+  lines:
+  - !!python/str "\u010Ceka\u0161 nekoga?"
+  start: !human_time '00:52:42.659'
+- end: !human_time '00:52:45.724'
+  lines:
+  - Ne.
+  start: !human_time '00:52:44.427'
+- end: !human_time '00:52:48.660'
+  lines:
+  - Moja sestra, Cui.
+  start: !human_time '00:52:46.396'
+- end: !human_time '00:52:56.470'
+  lines:
+  - !!python/str "Padat \u0107e ki\u0161a."
+  start: !human_time '00:52:51.635'
+- end: !human_time '00:54:16.050'
+  lines:
+  - Osam boca vina, molim te!
+  start: !human_time '00:54:13.183'
+- end: !human_time '00:54:17.518'
+  lines:
+  - !!python/str "Ho\u0107e li osam biti dovoljno?"
+  start: !human_time '00:54:16.119'
+- end: !human_time '00:54:21.249'
+  lines:
+  - !!python/str "Stavi na moj ra\u010Dun."
+  start: !human_time '00:54:20.123'
+- end: !human_time '00:54:23.789'
+  lines:
+  - Dobro.
+  start: !human_time '00:54:22.492'
+- end: !human_time '00:55:30.620'
+  lines:
+  - !!python/str "Poku\u0161aj."
+  start: !human_time '00:55:29.426'
+- end: !human_time '00:56:04.356'
+  lines:
+  - !!python/str "Hajde, poku\u0161aj."
+  start: !human_time '00:56:02.525'
+- end: !human_time '00:56:13.025'
+  lines:
+  - !!python/str "Malo \u010Dvr\u0161\u0107e."
+  start: !human_time '00:56:11.501'
+- end: !human_time '00:56:29.677'
+  lines:
+  - Reci.
+  start: !human_time '00:56:26.082'
+- end: !human_time '00:56:31.687'
+  lines:
+  - !!python/str "Pod tu\u0161em."
+  start: !human_time '00:56:29.753'
+- end: !human_time '00:56:33.950'
+  lines:
+  - Reci mu da me nazove.
+  start: !human_time '00:56:32.255'
+- end: !human_time '00:56:51.101'
+  lines:
+  - !!python/str "Mora\u0161 znati kako se"
+  - !!python/str "treba\u0161 za\u0161tititi."
+  start: !human_time '00:56:42.932'
+- end: !human_time '00:56:56.470'
+  lines:
+  - !!python/str "Kada \u0107e\u0161 i\u0107i ku\u0107i?"
+  start: !human_time '00:56:54.377'
+- end: !human_time '00:57:04.511'
+  lines:
+  - Tvoja mama je sigurno usamljena.
+  start: !human_time '00:57:02.452'
+- end: !human_time '00:57:07.083'
+  lines:
+  - !!python/str "Ne ba\u0161."
+  start: !human_time '00:57:05.422'
+- end: !human_time '00:57:17.466'
+  lines:
+  - Nisi primjetio kako je usamljena?
+  start: !human_time '00:57:15.532'
+- end: !human_time '00:57:25.001'
+  lines:
+  - !!python/str "Zna\u0161, tvoj djed..."
+  - moj prokleti otac...
+  start: !human_time '00:57:22.305'
+- end: !human_time '00:57:29.602'
+  lines:
+  - '...htio je da tvoja mama abortira'
+  - s tobom, ali ona je odbila.
+  start: !human_time '00:57:25.074'
+- end: !human_time '00:57:38.853'
+  lines:
+  - Trebao bi se ljutiti na njega,
+  start: !human_time '00:57:30.980'
+- end: !human_time '00:57:40.822'
+  lines:
+  - a ne na svoju mamu.
+  start: !human_time '00:57:38.922'
+- end: !human_time '00:58:01.667'
+  lines:
+  - Tung!
+  start: !human_time '00:58:00.643'
+- end: !human_time '00:58:04.044'
+  lines:
+  - !!python/str "Kuda ide\u0161?"
+  start: !human_time '00:58:02.679'
+- end: !human_time '00:58:05.808'
+  lines:
+  - !!python/str "Yuk jo\u0161 nije do\u0161ao ku\u0107i."
+  - !!python/str "Idem ga tra\u017Eiti."
+  start: !human_time '00:58:04.113'
+- end: !human_time '00:58:07.372'
+  lines:
+  - !!python/str "Mogu li ga tra\u017Eiti s tobom?"
+  start: !human_time '00:58:05.882'
+- end: !human_time '00:58:08.439'
+  lines:
+  - Naravno.
+  start: !human_time '00:58:07.450'
+- end: !human_time '01:00:02.459'
+  lines:
+  - !!python/str "Da zna\u0161 da se de\u010Dko od tvoje"
+  - !!python/str "sestre vi\u0111a sa drugom curom..."
+  start: !human_time '00:59:57.760'
+- end: !human_time '01:00:04.466'
+  lines:
+  - '...bi li joj to rekao?'
+  start: !human_time '01:00:02.532'
+- end: !human_time '01:00:06.161'
+  lines:
+  - Ja nemam sestru.
+  start: !human_time '01:00:04.534'
+- end: !human_time '01:00:08.198'
+  lines:
+  - !!python/str "Ali, samo ka\u017Ei..."
+  start: !human_time '01:00:06.469'
+- end: !human_time '01:00:09.867'
+  lines:
+  - Nemam pojma.
+  start: !human_time '01:00:08.605'
+- end: !human_time '01:00:16.309'
+  lines:
+  - !!python/str "Nema\u0161 ni bra\u0107e ni sestara?"
+  start: !human_time '01:00:13.943'
+- end: !human_time '01:00:21.547'
+  lines:
+  - Imao sam brata,
+  - nedavno je umro.
+  start: !human_time '01:00:17.213'
+- end: !human_time '01:01:19.507'
+  lines:
+  - !!python/str "Zar ne ide\u0161 na \u010Daj sa Hui?"
+  start: !human_time '01:01:16.606'
+- end: !human_time '01:01:21.772'
+  lines:
+  - Da? Idemo.
+  start: !human_time '01:01:20.009'
+- end: !human_time '01:01:28.173'
+  lines:
+  - Ignoriraj ga.
+  start: !human_time '01:01:24.681'
+- end: !human_time '01:01:56.708'
+  lines:
+  - Onaj tip je popizdio.
+  start: !human_time '01:01:54.444'
+- end: !human_time '01:01:58.337'
+  lines:
+  - To je u redu, samo ga ignoriraj.
+  start: !human_time '01:01:56.779'
+- end: !human_time '01:02:00.511'
+  lines:
+  - !!python/str "Zar se ne\u0107e vratiti do tebe?"
+  start: !human_time '01:01:58.748'
+- end: !human_time '01:02:03.711'
+  lines:
+  - Ne bi se usudio, ignoriraj ga.
+  start: !human_time '01:02:00.583'
+- end: !human_time '01:02:08.653'
+  lines:
+  - !!python/str "Izgleda\u0161 jako umorno."
+  start: !human_time '01:02:06.389'
+- end: !human_time '01:02:12.183'
+  lines:
+  - Spavam po cijele dane, ali
+  - !!python/str "osje\u0107am se kao da nisam spavao."
+  start: !human_time '01:02:08.725'
+- end: !human_time '01:02:21.902'
+  lines:
+  - Ovo su tvoji praznici?
+  start: !human_time '01:02:20.002'
+- end: !human_time '01:02:23.529'
+  lines:
+  - Pretpostavljam.
+  start: !human_time '01:02:21.971'
+- end: !human_time '01:02:27.573'
+  lines:
+  - !!python/str "Ima\u0161 li kakav hobi?"
+  start: !human_time '01:02:25.241'
+- end: !human_time '01:02:30.544'
+  lines:
+  - Idem na pecanje sa
+  - prijateljima...A ti?
+  start: !human_time '01:02:27.643'
+- end: !human_time '01:02:35.710'
+  lines:
+  - !!python/str "\u010Citam. U blizini frizerskog salona"
+  - !!python/str "nalazi se knji\u017Enica."
+  start: !human_time '01:02:30.613'
+- end: !human_time '01:02:38.913'
+  lines:
+  - Hui je sada sigurno tamo.
+  start: !human_time '01:02:35.785'
+- end: !human_time '01:02:42.924'
+  lines:
+  - !!python/str "Ja sada moram i\u0107i na posao."
+  start: !human_time '01:02:38.988'
+- end: !human_time '01:02:46.428'
+  lines:
+  - Navrati ako ti treba oprati kosu.
+  start: !human_time '01:02:42.992'
+- end: !human_time '01:02:56.365'
+  lines:
+  - !!python/str "Ganja\u0161 cure?"
+  start: !human_time '01:02:55.171'
+- end: !human_time '01:03:03.944'
+  lines:
+  - !!python/str "Gdje si bio? Mama me ve\u0107 pitala."
+  start: !human_time '01:02:59.575'
+- end: !human_time '01:03:06.345'
+  lines:
+  - !!python/str "I\u0161ao sam pogledati \u010Damce."
+  start: !human_time '01:03:04.013'
+- end: !human_time '01:03:08.849'
+  lines:
+  - !!python/str "Uskoro \u0107e Hui imati ro\u0111endan,"
+  start: !human_time '01:03:06.415'
+- end: !human_time '01:03:11.113'
+  lines:
+  - !!python/str "\u0161to \u0107e\u0161 joj kupiti?"
+  start: !human_time '01:03:08.918'
+- end: !human_time '01:03:13.855'
+  lines:
+  - Nije te briga!
+  start: !human_time '01:03:12.388'
+- end: !human_time '01:03:20.755'
+  lines:
+  - !!python/str "Hej, \u0161to si me htjela pitati?"
+  start: !human_time '01:03:18.628'
+- end: !human_time '01:03:22.556'
+  lines:
+  - !!python/str "Ni\u0161ta."
+  start: !human_time '01:03:21.430'
+- end: !human_time '01:03:27.069'
+  lines:
+  - !!python/str "Ma daj, o\u010Digledno je da ho\u0107e\u0161."
+  start: !human_time '01:03:22.632'
+- end: !human_time '01:03:39.647'
+  lines:
+  - !!python/str "\u0160to te dovodi ovamo?"
+  start: !human_time '01:03:32.809'
+- end: !human_time '01:03:41.545'
+  lines:
+  - !!python/str "Sretan ro\u0111endan."
+  start: !human_time '01:03:40.283'
+- end: !human_time '01:03:49.985'
+  lines:
+  - !!python/str "Moj ro\u0111endan je 29. velja\u010De,"
+  - !!python/str "jednom u svake \u010Detiri godine."
+  start: !human_time '01:03:44.854'
+- end: !human_time '01:03:52.122'
+  lines:
+  - !!python/str "Dakle danas nije tvoj ro\u0111endan?"
+  start: !human_time '01:03:50.359'
+- end: !human_time '01:03:54.891'
+  lines:
+  - A tko je rekao da je?
+  start: !human_time '01:03:53.196'
+- end: !human_time '01:03:57.393'
+  lines:
+  - Yuk mi je rekao.
+  start: !human_time '01:03:55.698'
+- end: !human_time '01:04:02.328'
+  lines:
+  - Slatko!
+  start: !human_time '01:04:01.270'
+- end: !human_time '01:04:04.571'
+  lines:
+  - Da li je bila skupa?
+  start: !human_time '01:04:03.172'
+- end: !human_time '01:04:06.699'
+  lines:
+  - !!python/str "Ne ba\u0161."
+  start: !human_time '01:04:04.640'
+- end: !human_time '01:04:09.801'
+  lines:
+  - !!python/str "Ali ti \u0107e\u0161 ju pozlatiti!"
+  start: !human_time '01:04:07.276'
+- end: !human_time '01:04:16.881'
+  lines:
+  - !!python/str "Yukove ocjene na dvomjese\u010Dnim"
+  - !!python/str "testovima su prili\u010Dno lo\u0161e."
+  start: !human_time '01:04:11.147'
+- end: !human_time '01:04:19.319'
+  lines:
+  - On je predzadnji u svom razredu.
+  start: !human_time '01:04:16.953'
+- end: !human_time '01:04:21.652'
+  lines:
+  - !!python/str "Ima instrukcije kod ku\u0107e..."
+  start: !human_time '01:04:19.388'
+- end: !human_time '01:04:23.555'
+  lines:
+  - !!python/str "Ima jo\u0161 ne\u0161to drugo."
+  start: !human_time '01:04:21.724'
+- end: !human_time '01:04:26.060'
+  lines:
+  - Pogledajte ove potpise.
+  start: !human_time '01:04:23.626'
+- end: !human_time '01:04:28.862'
+  lines:
+  - Ne izgledaju mi ispravno,
+  start: !human_time '01:04:27.463'
+- end: !human_time '01:04:31.764'
+  lines:
+  - zato vas molim da ih provjerite.
+  start: !human_time '01:04:28.931'
+- end: !human_time '01:04:36.771'
+  lines:
+  - Boji se pokazati vam svoju
+  - !!python/str "u\u010Deni\u010Dku knji\u017Eicu."
+  start: !human_time '01:04:34.337'
+- end: !human_time '01:04:38.864'
+  lines:
+  - !!python/str "Zar ga niste tra\u017Eili da ju vidite?"
+  start: !human_time '01:04:36.839'
+- end: !human_time '01:04:42.609'
+  lines:
+  - Ja sam uvijek na moru, njegova
+  - majka se brine o takvim stvarima.
+  start: !human_time '01:04:39.208'
+- end: !human_time '01:04:46.177'
+  lines:
+  - !!python/str "Da li Yuk ima bra\u010De ili sestara?"
+  start: !human_time '01:04:44.380'
+- end: !human_time '01:04:47.273'
+  lines:
+  - Ne.
+  start: !human_time '01:04:46.249'
+- end: !human_time '01:04:50.818'
+  lines:
+  - Molim vas pregledavajte
+  - !!python/str "njegove doma\u0107e zada\u0107e,"
+  start: !human_time '01:04:47.917'
+- end: !human_time '01:04:52.878'
+  lines:
+  - !!python/str "zavr\u0161ni ispit samo \u0161to nije."
+  start: !human_time '01:04:50.887'
+- end: !human_time '01:04:56.616'
+  lines:
+  - !!python/str "Hvala vam, u\u010Diteljice."
+  start: !human_time '01:04:55.024'
+- end: !human_time '01:05:12.535'
+  lines:
+  - !!python/str "Kako se usu\u0111uje\u0161 krivotvoriti"
+  - moj potpis!
+  start: !human_time '01:05:08.838'
+- end: !human_time '01:05:17.108'
+  lines:
+  - !!python/str "Za\u0161to pla\u0107am sve te instrukcije?"
+  start: !human_time '01:05:13.342'
+- end: !human_time '01:05:21.340'
+  lines:
+  - Tako je, izgrdi ga!
+  start: !human_time '01:05:19.315'
+- end: !human_time '01:05:23.748'
+  lines:
+  - !!python/str "A \u0161to je s tobom?"
+  start: !human_time '01:05:21.951'
+- end: !human_time '01:05:26.748'
+  lines:
+  - !!python/str "Kako \u010Desto si ti kod ku\u0107e?"
+  start: !human_time '01:05:24.086'
+- end: !human_time '01:05:30.021'
+  lines:
+  - !!python/str "Kvari\u0161 ga."
+  start: !human_time '01:05:27.723'
+- end: !human_time '01:05:35.353'
+  lines:
+  - Da, nekoliko puta sam se
+  - !!python/str "potpisala! Pa \u0161to?"
+  start: !human_time '01:05:31.394'
+- end: !human_time '01:05:40.566'
+  lines:
+  - !!python/str "To mu je lo\u0161 primjer!"
+  start: !human_time '01:05:38.234'
+- end: !human_time '01:05:44.536'
+  lines:
+  - Idi u svoju sobu!
+  start: !human_time '01:05:43.239'
+- end: !human_time '01:05:59.849'
+  lines:
+  - Jesi li bio blizak sa svojim bratom?
+  start: !human_time '01:05:56.686'
+- end: !human_time '01:06:02.482'
+  lines:
+  - Da...on je bio spretan!
+  start: !human_time '01:05:59.922'
+- end: !human_time '01:06:06.024'
+  lines:
+  - !!python/str "U mojim godinama ve\u0107 je"
+  - radio u Kuala Lumpuru.
+  start: !human_time '01:06:02.725'
+- end: !human_time '01:06:11.299'
+  lines:
+  - Ja bih bila izgubljena da moje
+  - sestre odjednom nema.
+  start: !human_time '01:06:06.862'
+- end: !human_time '01:06:12.862'
+  lines:
+  - !!python/str "Nemoj razmi\u0161ljati o lo\u0161im stvarima."
+  start: !human_time '01:06:11.600'
+- end: !human_time '01:06:18.864'
+  lines:
+  - !!python/str "Zar ona nije kod ku\u0107e?"
+  start: !human_time '01:06:16.339'
+- end: !human_time '01:06:21.739'
+  lines:
+  - !!python/str "Iza\u0161la je s njim."
+  start: !human_time '01:06:18.941'
+- end: !human_time '01:06:23.506'
+  lines:
+  - !!python/str "Svojim de\u010Dkom?"
+  start: !human_time '01:06:21.811'
+- end: !human_time '01:07:00.312'
+  lines:
+  - !!python/str "\u0160to ho\u0107e\u0161?"
+  start: !human_time '01:06:59.015'
+- end: !human_time '01:07:02.943'
+  lines:
+  - !!python/str "\u0160to ti ho\u0107e\u0161?"
+  start: !human_time '01:07:00.850'
+- end: !human_time '01:07:11.986'
+  lines:
+  - !!python/str "Do\u0111i ovamo."
+  start: !human_time '01:07:10.826'
+- end: !human_time '01:07:15.296'
+  lines:
+  - !!python/str "Za\u0161to da te slu\u0161am?"
+  start: !human_time '01:07:12.828'
+- end: !human_time '01:07:19.190'
+  lines:
+  - !!python/str "Hajde, ovo ho\u0107e\u0161 \u010Duti."
+  start: !human_time '01:07:15.698'
+- end: !human_time '01:07:21.628'
+  lines:
+  - !!python/str "Ne\u0107u te pojesti!"
+  start: !human_time '01:07:19.535'
+- end: !human_time '01:07:44.057'
+  lines:
+  - !!python/str "Hui, do\u0111i unutra!"
+  start: !human_time '01:07:41.190'
+- end: !human_time '01:08:38.304'
+  lines:
+  - Tvoja mama...upravo te je zvala.
+  start: !human_time '01:08:31.774'
+- end: !human_time '01:11:45.990'
+  lines:
+  - Ovo je diesel.
+  start: !human_time '01:11:44.500'
+- end: !human_time '01:12:57.436'
+  lines:
+  - A slike?
+  start: !human_time '01:12:56.105'
+- end: !human_time '01:13:00.332'
+  lines:
+  - Kakve slike?
+  start: !human_time '01:12:58.307'
+- end: !human_time '01:13:02.504'
+  lines:
+  - Spali ih!
+  start: !human_time '01:13:00.843'
+- end: !human_time '01:13:04.045'
+  lines:
+  - Kakve slike?
+  start: !human_time '01:13:02.578'
+- end: !human_time '01:13:05.842'
+  lines:
+  - Slike od Cui!
+  start: !human_time '01:13:04.113'
+- end: !human_time '01:13:09.479'
+  lines:
+  - !!python/str "Posudit \u0107u ti ih ako ho\u0107e\u0161."
+  start: !human_time '01:13:07.249'
+- end: !human_time '01:13:23.123'
+  lines:
+  - Nemam ih!
+  start: !human_time '01:13:20.996'
+- end: !human_time '01:13:39.913'
+  lines:
+  - Rekao sam ti da ih nemam!
+  start: !human_time '01:13:37.479'
+- end: !human_time '01:13:46.477'
+  lines:
+  - !!python/str "To je bila \u0161ala!"
+  start: !human_time '01:13:43.986'
+- end: !human_time '01:14:23.582'
+  lines:
+  - Tung!
+  start: !human_time '01:14:22.524'
+- end: !human_time '01:14:26.326'
+  lines:
+  - !!python/str "Gdje je pi\u0161tolj?"
+  start: !human_time '01:14:24.893'
+- end: !human_time '01:14:45.209'
+  lines:
+  - Gdje je?
+  start: !human_time '01:14:43.412'
+- end: !human_time '01:15:09.862'
+  lines:
+  - Gdje je?
+  start: !human_time '01:15:07.769'
+- end: !human_time '01:15:36.123'
+  lines:
+  - Gdje je?
+  start: !human_time '01:15:34.496'
+- end: !human_time '01:15:39.767'
+  lines:
+  - !!python/str "Ka\u017Ei ne\u0161to!"
+  start: !human_time '01:15:37.833'
+- end: !human_time '01:15:41.700'
+  lines:
+  - Jesi li ti poptuno glup?
+  start: !human_time '01:15:39.835'
+- end: !human_time '01:15:52.775'
+  lines:
+  - !!python/str "Ne vra\u0107aj se ku\u0107i dok"
+  - !!python/str "ga ne na\u0111e\u0161!"
+  start: !human_time '01:15:50.045'
+- end: !human_time '01:18:07.515'
+  lines:
+  - Tung!
+  start: !human_time '01:18:06.048'
+- end: !human_time '01:18:15.212'
+  lines:
+  - !!python/str "\u0160to se dogodilo?"
+  start: !human_time '01:18:13.221'
+- end: !human_time '01:18:36.303'
+  lines:
+  - !!python/str "Tvoj ujak se jo\u0161 nije vratio."
+  start: !human_time '01:18:34.142'
+- end: !human_time '01:18:38.441'
+  lines:
+  - !!python/str "On spava na kau\u010Du."
+  start: !human_time '01:18:36.678'
+- end: !human_time '01:18:43.779'
+  lines:
+  - Zvala je tvoja majka.
+  start: !human_time '01:18:41.083'
+- end: !human_time '01:18:51.390'
+  lines:
+  - Dobio si pismo sa fakulteta,
+  - na Malayskom.
+  start: !human_time '01:18:47.522'
+- end: !human_time '01:18:56.730'
+  lines:
+  - !!python/str "Pro\u010Ditala mi ga je,"
+  - !!python/str "ali ni\u0161ta nisam razumjela."
+  start: !human_time '01:18:52.327'
+- end: !human_time '01:19:03.802'
+  lines:
+  - !!python/str "Da li je istina da ponekad po no\u0107i..."
+  start: !human_time '01:18:59.468'
+- end: !human_time '01:19:04.839'
+  lines:
+  - !!python/str "Mjese\u010Darim."
+  start: !human_time '01:19:03.872'
+- end: !human_time '01:19:11.869'
+  lines:
+  - !!python/str "Da, mjese\u010Dari\u0161... Tvoja mama"
+  - !!python/str "je pitala da li nas to pla\u0161i."
+  start: !human_time '01:19:04.906'
+- end: !human_time '01:19:18.284'
+  lines:
+  - !!python/str "Zna\u0161 li kako je izgledao tvoj otac?"
+  start: !human_time '01:19:15.884'
+- end: !human_time '01:19:21.918'
+  lines:
+  - !!python/str "Umro je prije nego \u0161to"
+  - sam se ja rodio.
+  start: !human_time '01:19:19.154'
+- end: !human_time '01:19:25.953'
+  lines:
+  - Da li si ikada vidio njegovu sliku?
+  start: !human_time '01:19:24.326'
+- end: !human_time '01:19:28.728'
+  lines:
+  - Ne.
+  start: !human_time '01:19:26.828'
+- end: !human_time '01:19:37.900'
+  lines:
+  - !!python/str "Zna\u0161 li tko ti je dao ime?"
+  start: !human_time '01:19:34.703'
+- end: !human_time '01:19:42.239'
+  lines:
+  - Moj suprug.
+  start: !human_time '01:19:40.408'
+- end: !human_time '01:19:47.907'
+  lines:
+  - Kwan Wai-Tung.
+  start: !human_time '01:19:44.813'
+- end: !human_time '01:20:53.605'
+  lines:
+  - Lagao si, nema nikakvih slika.
+  start: !human_time '01:20:50.545'
+- end: !human_time '01:21:04.414'
+  lines:
+  - !!python/str "Moja sestra se smijala kad je \u010Dula."
+  - !!python/str "Ka\u017Ee da si ti idiot."
+  start: !human_time '01:20:59.454'
+- end: !human_time '01:21:16.364'
+  lines:
+  - !!python/str "\u0160to ti se dogodilo?"
+  - Da li te je napao neki pas?
+  start: !human_time '01:21:13.201'
+- end: !human_time '01:21:22.743'
+  lines:
+  - !!python/str "Tvoj prijatelj je to u\u010Dinio."
+  start: !human_time '01:21:19.774'
+- end: !human_time '01:21:25.307'
+  lines:
+  - !!python/str "Sam si to tra\u017Eio."
+  start: !human_time '01:21:23.578'
+- end: !human_time '01:21:33.853'
+  lines:
+  - Da li je on zaljubljen u tvoju sestru?
+  start: !human_time '01:21:30.986'
+- end: !human_time '01:22:56.397'
+  lines:
+  - !!python/str "Tra\u017Eio si da do\u0111em,"
+  - !!python/str "za\u0161to sada ni\u0161ta ne govori\u0161?"
+  start: !human_time '01:22:53.234'
+- end: !human_time '01:23:09.845'
+  lines:
+  - Dobro mi je sada samoj.
+  - !!python/str "Zna\u0161?"
+  start: !human_time '01:23:05.647'
+- end: !human_time '01:23:19.159'
+  lines:
+  - Stvarno sam voljela nekog.
+  start: !human_time '01:23:16.224'
+- end: !human_time '01:23:22.592'
+  lines:
+  - !!python/str "I jo\u0161 uvijek stalno mislim na njega."
+  start: !human_time '01:23:19.361'
+- end: !human_time '01:23:29.067'
+  lines:
+  - !!python/str "Da li to zvu\u010Di smije\u0161no?"
+  start: !human_time '01:23:26.701'
+- end: !human_time '01:23:44.875'
+  lines:
+  - !!python/str "Hui zna da odlazi\u0161."
+  - Dosta je uzrujana zbog toga.
+  start: !human_time '01:23:39.881'
+- end: !human_time '01:25:05.560'
+  lines:
+  - Mama...
+  start: !human_time '01:25:03.865'
+- end: !human_time '01:25:10.331'
+  lines:
+  - !!python/str "Kada \u0107e\u0161 imati vremena"
+  - !!python/str "da posjeti\u0161 ujaka?"
+  start: !human_time '01:25:08.136'
+- end: !human_time '01:25:12.932'
+  lines:
+  - !!python/str "Ima puno posla u tvorinici odje\u0107e."
+  - !!python/str "Ne mogu samo tako uzeti godi\u0161nji."
+  start: !human_time '01:25:10.839'
+- end: !human_time '01:25:14.304'
+  lines:
+  - !!python/str "\u0160to?"
+  start: !human_time '01:25:13.007'
+- end: !human_time '01:25:17.543'
+  lines:
+  - Imam puno posla,
+  - !!python/str "ne mogu uzeti godi\u0161nji."
+  start: !human_time '01:25:14.642'
+- end: !human_time '01:25:20.311'
+  lines:
+  - !!python/str "Kada je \u017Earulja crkla?"
+  start: !human_time '01:25:18.480'
+- end: !human_time '01:25:27.652'
+  lines:
+  - !!python/str "U redu, mo\u017Ee\u0161 li upaliti svjetlo?"
+  start: !human_time '01:25:25.286'
+- end: !human_time '01:25:39.329'
+  lines:
+  - !!python/str "Nitko drugi ti ne mo\u017Ee pomo\u0107i?"
+  start: !human_time '01:25:37.532'
+- end: !human_time '01:25:45.734'
+  lines:
+  - Odnesi ljestve natrag susjedi.
+  start: !human_time '01:25:42.537'
+- end: !human_time '01:25:59.983'
+  lines:
+  - !!python/str "On se vi\u0161e nikada ne\u0107e"
+  - vratiti ovamo.
+  start: !human_time '01:25:57.185'
+- end: !human_time '01:26:18.671'
+  lines:
+  - Tamo je zmija!
+  start: !human_time '01:26:17.238'
+- end: !human_time '01:26:21.569'
+  lines:
+  - Gdje?
+  start: !human_time '01:26:20.875'
+- end: !human_time '01:26:22.940'
+  lines:
+  - Ovdje!
+  start: !human_time '01:26:21.643'
+- end: !human_time '01:31:17.596'
+  lines:
+  - 'Preveo i prilagodio:'
+  - A d r e b
+  start: !human_time '01:31:00.096'

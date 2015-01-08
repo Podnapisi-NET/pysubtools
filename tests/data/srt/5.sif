@@ -1,0 +1,5692 @@
+---
+units:
+- end: !human_time '00:00:09.000'
+  lines:
+  - I can't believe we've never
+  - done this. It's so good!
+  start: !human_time '00:00:05.000'
+- end: !human_time '00:00:11.000'
+  lines:
+  - It's so good for Monica.
+  start: !human_time '00:00:09.000'
+- end: !human_time '00:00:16.000'
+  lines:
+  - Time's up! My turn.
+  start: !human_time '00:00:14.000'
+- end: !human_time '00:00:20.000'
+  lines:
+  - -That was half an hour?
+  - -It's your timer.
+  start: !human_time '00:00:18.000'
+- end: !human_time '00:00:28.000'
+  lines:
+  - I don't like to brag about it,
+  - but I give the best massages.
+  start: !human_time '00:00:23.000'
+- end: !human_time '00:00:31.000'
+  lines:
+  - All right, then massage me up
+  - right nice!
+  start: !human_time '00:00:28.000'
+- end: !human_time '00:00:37.000'
+  lines:
+  - It's so good, isn't it?
+  start: !human_time '00:00:36.000'
+- end: !human_time '00:00:39.000'
+  lines:
+  - I don't know what
+  - I did to deserve it.
+  start: !human_time '00:00:37.000'
+- end: !human_time '00:00:43.000'
+  lines:
+  - Say goodbye to sore muscles!
+  start: !human_time '00:00:41.000'
+- end: !human_time '00:00:45.000'
+  lines:
+  - Goodbye, muscles!
+  start: !human_time '00:00:43.000'
+- end: !human_time '00:00:49.000'
+  lines:
+  - The One with Joey's Bag
+  start: !human_time '00:00:46.000'
+- end: !human_time '00:00:51.000'
+  lines:
+  - English Subtitles by
+  - GELULA & CO., INC.
+  start: !human_time '00:00:50.000'
+- end: !human_time '00:01:36.000'
+  lines:
+  - She gives the worst massages ever!
+  start: !human_time '00:01:34.000'
+- end: !human_time '00:01:40.000'
+  lines:
+  - It was like she was torturing me
+  - for information.
+  start: !human_time '00:01:37.000'
+- end: !human_time '00:01:44.000'
+  lines:
+  - I wanted to give it up.
+  - I just didn't know what it was!
+  start: !human_time '00:01:41.000'
+- end: !human_time '00:01:48.000'
+  lines:
+  - If it hurts that bad,
+  - you should tell her.
+  start: !human_time '00:01:45.000'
+- end: !human_time '00:01:50.000'
+  lines:
+  - For the first time,
+  - I'm in a real relationship.
+  start: !human_time '00:01:48.000'
+- end: !human_time '00:01:54.000'
+  lines:
+  - I won't screw that up
+  - by telling the truth.
+  start: !human_time '00:01:51.000'
+- end: !human_time '00:01:57.000'
+  lines:
+  - Dude, look out!
+  start: !human_time '00:01:56.000'
+- end: !human_time '00:01:59.000'
+  lines:
+  - You almost crushed my hat.
+  start: !human_time '00:01:57.000'
+- end: !human_time '00:02:01.000'
+  lines:
+  - Sorry.
+  start: !human_time '00:02:00.000'
+- end: !human_time '00:02:04.000'
+  lines:
+  - And the bunny got away.
+  start: !human_time '00:02:02.000'
+- end: !human_time '00:02:15.000'
+  lines:
+  - This would be the place
+  - where you explain the hat.
+  start: !human_time '00:02:12.000'
+- end: !human_time '00:02:18.000'
+  lines:
+  - There's this play, right?
+  start: !human_time '00:02:17.000'
+- end: !human_time '00:02:22.000'
+  lines:
+  - I'm up for the part of this
+  - cool, suave, international guy.
+  start: !human_time '00:02:19.000'
+- end: !human_time '00:02:24.000'
+  lines:
+  - A clothes horse, so I figure. . .
+  start: !human_time '00:02:23.000'
+- end: !human_time '00:02:29.000'
+  lines:
+  - . . .everyone at the audition will
+  - wear ultra-hip, high fashion stuff.
+  start: !human_time '00:02:25.000'
+- end: !human_time '00:02:31.000'
+  lines:
+  - And you'll make them disappear?
+  start: !human_time '00:02:29.000'
+- end: !human_time '00:02:35.000'
+  lines:
+  - Like you could find something
+  - this sophisticated.
+  start: !human_time '00:02:32.000'
+- end: !human_time '00:02:38.000'
+  lines:
+  - Done!
+  start: !human_time '00:02:37.000'
+- end: !human_time '00:02:43.000'
+  lines:
+  - If you want to look good,
+  - come to the store. I'll help you.
+  start: !human_time '00:02:39.000'
+- end: !human_time '00:02:45.000'
+  lines:
+  - -Thanks!
+  - -Sure.
+  start: !human_time '00:02:44.000'
+- end: !human_time '00:02:47.000'
+  lines:
+  - Please, take those off!
+  start: !human_time '00:02:45.000'
+- end: !human_time '00:02:52.000'
+  lines:
+  - Hey, Pheebs. How's it going?
+  start: !human_time '00:02:50.000'
+- end: !human_time '00:02:56.000'
+  lines:
+  - Only okay. Because I just
+  - got back from the hospital.
+  start: !human_time '00:02:52.000'
+- end: !human_time '00:02:58.000'
+  lines:
+  - Are you all right?
+  start: !human_time '00:02:56.000'
+- end: !human_time '00:03:01.000'
+  lines:
+  - I'm fine.
+  - But my grandma sort of died.
+  start: !human_time '00:02:58.000'
+- end: !human_time '00:03:03.000'
+  lines:
+  - Pheebs, sorry.
+  start: !human_time '00:03:02.000'
+- end: !human_time '00:03:04.000'
+  lines:
+  - It's okay.
+  start: !human_time '00:03:03.000'
+- end: !human_time '00:03:06.000'
+  lines:
+  - She had a really incredible life.
+  start: !human_time '00:03:05.000'
+- end: !human_time '00:03:10.000'
+  lines:
+  - It's not like I won't see her again.
+  - She'll visit.
+  start: !human_time '00:03:07.000'
+- end: !human_time '00:03:15.000'
+  lines:
+  - Maybe she's with us right now.
+  start: !human_time '00:03:12.000'
+- end: !human_time '00:03:20.000'
+  lines:
+  - Right. She's on a new spiritual plain
+  - and she'll come to the coffeehouse.
+  start: !human_time '00:03:15.000'
+- end: !human_time '00:03:23.000'
+  lines:
+  - I just saw two people having sex
+  - in a car right outside!
+  start: !human_time '00:03:20.000'
+- end: !human_time '00:03:28.000'
+  lines:
+  - Pheebs' grandmother just died.
+  start: !human_time '00:03:26.000'
+- end: !human_time '00:03:32.000'
+  lines:
+  - Oh, my God! I'm so sorry.
+  start: !human_time '00:03:29.000'
+- end: !human_time '00:03:35.000'
+  lines:
+  - Actually, it's kind of cool.
+  - Because it's like. . .
+  start: !human_time '00:03:32.000'
+- end: !human_time '00:03:38.000'
+  lines:
+  - . . . .you know, one life ends
+  - and another begins.
+  start: !human_time '00:03:35.000'
+- end: !human_time '00:03:42.000'
+  lines:
+  - Not the way they're doing it.
+  start: !human_time '00:03:40.000'
+- end: !human_time '00:03:46.000'
+  lines:
+  - What happened?
+  - How did she die?
+  start: !human_time '00:03:44.000'
+- end: !human_time '00:03:48.000'
+  lines:
+  - We were in the market. . .
+  start: !human_time '00:03:46.000'
+- end: !human_time '00:03:52.000'
+  lines:
+  - . . .and she bent down to get some yogurt
+  - and never came back up again.
+  start: !human_time '00:03:48.000'
+- end: !human_time '00:03:55.000'
+  lines:
+  - I'm so sorry.
+  start: !human_time '00:03:53.000'
+- end: !human_time '00:03:57.000'
+  lines:
+  - 'The last thing she said was:'
+  start: !human_time '00:03:55.000'
+- end: !human_time '00:04:02.000'
+  lines:
+  - '"You get the eggs, I''ll get the yogurt,'
+  - and we'll meet at the checkout counter. "
+  start: !human_time '00:03:57.000'
+- end: !human_time '00:04:03.000'
+  lines:
+  - You know what?
+  start: !human_time '00:04:02.000'
+- end: !human_time '00:04:06.000'
+  lines:
+  - We will meet at the checkout counter.
+  start: !human_time '00:04:04.000'
+- end: !human_time '00:04:16.000'
+  lines:
+  - Since you're returning
+  - all this stuff. . .
+  start: !human_time '00:04:13.000'
+- end: !human_time '00:04:18.000'
+  lines:
+  - . . .you'll have to wear underwear.
+  start: !human_time '00:04:16.000'
+- end: !human_time '00:04:22.000'
+  lines:
+  - All right.
+  - You'd better show me that too.
+  start: !human_time '00:04:20.000'
+- end: !human_time '00:04:26.000'
+  lines:
+  - It's missing something.
+  start: !human_time '00:04:24.000'
+- end: !human_time '00:04:35.000'
+  lines:
+  - Really? A purse?
+  start: !human_time '00:04:33.000'
+- end: !human_time '00:04:38.000'
+  lines:
+  - It's not a purse.
+  - It's a shoulder bag.
+  start: !human_time '00:04:35.000'
+- end: !human_time '00:04:40.000'
+  lines:
+  - It looks like a woman's purse.
+  start: !human_time '00:04:39.000'
+- end: !human_time '00:04:45.000'
+  lines:
+  - Trust me, all the men are carrying
+  - them in the spring catalog.
+  start: !human_time '00:04:41.000'
+- end: !human_time '00:04:48.000'
+  lines:
+  - See, look.
+  - Men carrying the bag.
+  start: !human_time '00:04:45.000'
+- end: !human_time '00:04:51.000'
+  lines:
+  - See, look.
+  - Women carrying the bag.
+  start: !human_time '00:04:49.000'
+- end: !human_time '00:05:03.000'
+  lines:
+  - But it is odd how a woman's purse
+  - looks so good on me, a man.
+  start: !human_time '00:04:58.000'
+- end: !human_time '00:05:07.000'
+  lines:
+  - Exactly. Unisex!
+  start: !human_time '00:05:05.000'
+- end: !human_time '00:05:10.000'
+  lines:
+  - Maybe you need sex.
+  - I had sex a couple days ago.
+  start: !human_time '00:05:07.000'
+- end: !human_time '00:05:15.000'
+  lines:
+  - No, Joey. U-N-l sex.
+  start: !human_time '00:05:11.000'
+- end: !human_time '00:05:19.000'
+  lines:
+  - I ain't going to say no to that!
+  start: !human_time '00:05:16.000'
+- end: !human_time '00:05:28.000'
+  lines:
+  - -Who is it?
+  - -It's Phoebe.
+  start: !human_time '00:05:27.000'
+- end: !human_time '00:05:30.000'
+  lines:
+  - Oh, great!
+  start: !human_time '00:05:29.000'
+- end: !human_time '00:05:33.000'
+  lines:
+  - Oh, you.
+  start: !human_time '00:05:31.000'
+- end: !human_time '00:05:35.000'
+  lines:
+  - What's up?
+  start: !human_time '00:05:33.000'
+- end: !human_time '00:05:40.000'
+  lines:
+  - Well, I sort of have some bad news.
+  - Can I come in?
+  start: !human_time '00:05:36.000'
+- end: !human_time '00:05:42.000'
+  lines:
+  - No, thanks.
+  start: !human_time '00:05:41.000'
+- end: !human_time '00:05:49.000'
+  lines:
+  - Grandma died today.
+  start: !human_time '00:05:48.000'
+- end: !human_time '00:05:53.000'
+  lines:
+  - Didn't she die like five years ago?
+  start: !human_time '00:05:50.000'
+- end: !human_time '00:05:55.000'
+  lines:
+  - No, she just died today.
+  start: !human_time '00:05:53.000'
+- end: !human_time '00:05:59.000'
+  lines:
+  - We're having
+  - a memorial service tomorrow.
+  start: !human_time '00:05:56.000'
+- end: !human_time '00:06:02.000'
+  lines:
+  - Okay, I know I went to that already.
+  start: !human_time '00:05:59.000'
+- end: !human_time '00:06:03.000'
+  lines:
+  - No, you didn't!
+  start: !human_time '00:06:02.000'
+- end: !human_time '00:06:05.000'
+  lines:
+  - Then who's been dead?
+  start: !human_time '00:06:04.000'
+- end: !human_time '00:06:07.000'
+  lines:
+  - Lots of people!
+  start: !human_time '00:06:05.000'
+- end: !human_time '00:06:11.000'
+  lines:
+  - Look, are you coming or not?
+  start: !human_time '00:06:09.000'
+- end: !human_time '00:06:18.000'
+  lines:
+  - I thought she was dead,
+  - so I've made my peace.
+  start: !human_time '00:06:15.000'
+- end: !human_time '00:06:21.000'
+  lines:
+  - Plus I'm going to a concert.
+  start: !human_time '00:06:19.000'
+- end: !human_time '00:06:25.000'
+  lines:
+  - I'd invite you,
+  - but I only have two tickets left.
+  start: !human_time '00:06:21.000'
+- end: !human_time '00:06:30.000'
+  lines:
+  - -Fine. Okay, enjoy your concert.
+  - -Thanks. Enjoy your funeral!
+  start: !human_time '00:06:26.000'
+- end: !human_time '00:06:44.000'
+  lines:
+  - You look just like your son,
+  - Mrs. Tribbiani.
+  start: !human_time '00:06:42.000'
+- end: !human_time '00:06:49.000'
+  lines:
+  - What? Are you referring
+  - to my man's bag?
+  start: !human_time '00:06:46.000'
+- end: !human_time '00:06:53.000'
+  lines:
+  - I thought it just looked good,
+  - but it's practical too.
+  start: !human_time '00:06:50.000'
+- end: !human_time '00:06:58.000'
+  lines:
+  - It's got compartments for your
+  - wallet, keys, address book. . . .
+  start: !human_time '00:06:54.000'
+- end: !human_time '00:06:59.000'
+  lines:
+  - Your makeup.
+  start: !human_time '00:06:58.000'
+- end: !human_time '00:07:03.000'
+  lines:
+  - What are you doing?
+  - The audition's tomorrow.
+  start: !human_time '00:07:01.000'
+- end: !human_time '00:07:06.000'
+  lines:
+  - Yeah, but sandwich time is right now.
+  start: !human_time '00:07:04.000'
+- end: !human_time '00:07:09.000'
+  lines:
+  - You get mustard on that bag,
+  - you can't return it.
+  start: !human_time '00:07:07.000'
+- end: !human_time '00:07:12.000'
+  lines:
+  - Why would I return this?
+  - I love this bag!
+  start: !human_time '00:07:10.000'
+- end: !human_time '00:07:16.000'
+  lines:
+  - -All right, then you owe me $350.
+  - -Fine.
+  start: !human_time '00:07:12.000'
+- end: !human_time '00:07:19.000'
+  lines:
+  - Do you take Vasa or Mooster Card?
+  start: !human_time '00:07:16.000'
+- end: !human_time '00:07:26.000'
+  lines:
+  - Relax, I'll pay you with the money
+  - from the job I'll get. Thanks to you.
+  start: !human_time '00:07:21.000'
+- end: !human_time '00:07:29.000'
+  lines:
+  - What's the part? Auntie Mame?
+  start: !human_time '00:07:26.000'
+- end: !human_time '00:07:32.000'
+  lines:
+  - Don't listen to them.
+  - I think it's sexy.
+  start: !human_time '00:07:29.000'
+- end: !human_time '00:07:34.000'
+  lines:
+  - You-and-l sexy?
+  start: !human_time '00:07:32.000'
+- end: !human_time '00:07:44.000'
+  lines:
+  - Hello, Mrs. Pinilla.
+  - Thank you for coming.
+  start: !human_time '00:07:41.000'
+- end: !human_time '00:07:46.000'
+  lines:
+  - Here's your 3-D glasses.
+  start: !human_time '00:07:44.000'
+- end: !human_time '00:07:51.000'
+  lines:
+  - Reverend Pong will say
+  - when to put them on.
+  start: !human_time '00:07:49.000'
+- end: !human_time '00:07:56.000'
+  lines:
+  - Hi, sweetie.
+  start: !human_time '00:07:55.000'
+- end: !human_time '00:07:58.000'
+  lines:
+  - -How are you holding up?
+  - -Fine.
+  start: !human_time '00:07:56.000'
+- end: !human_time '00:08:01.000'
+  lines:
+  - Hey, Pheebs. I'm so sorry.
+  start: !human_time '00:07:58.000'
+- end: !human_time '00:08:06.000'
+  lines:
+  - You know what?
+  - My grandma had the exact same bag!
+  start: !human_time '00:08:02.000'
+- end: !human_time '00:08:08.000'
+  lines:
+  - I brought you flowers.
+  start: !human_time '00:08:07.000'
+- end: !human_time '00:08:09.000'
+  lines:
+  - Oh, thanks!
+  start: !human_time '00:08:08.000'
+- end: !human_time '00:08:12.000'
+  lines:
+  - Pulling flowers out
+  - makes the bag look masculine.
+  start: !human_time '00:08:10.000'
+- end: !human_time '00:08:18.000'
+  lines:
+  - Excuse me, is this the memorial?
+  start: !human_time '00:08:15.000'
+- end: !human_time '00:08:19.000'
+  lines:
+  - Welcome.
+  start: !human_time '00:08:18.000'
+- end: !human_time '00:08:21.000'
+  lines:
+  - Here's your 3-D glasses.
+  start: !human_time '00:08:20.000'
+- end: !human_time '00:08:23.000'
+  lines:
+  - All right.
+  start: !human_time '00:08:22.000'
+- end: !human_time '00:08:27.000'
+  lines:
+  - So how did you know Frances?
+  start: !human_time '00:08:25.000'
+- end: !human_time '00:08:29.000'
+  lines:
+  - Actually, I hadn't seen her for years.
+  start: !human_time '00:08:27.000'
+- end: !human_time '00:08:34.000'
+  lines:
+  - But I was pretty tight
+  - with her and her daughter.
+  start: !human_time '00:08:30.000'
+- end: !human_time '00:08:35.000'
+  lines:
+  - What's your name?
+  start: !human_time '00:08:34.000'
+- end: !human_time '00:08:37.000'
+  lines:
+  - Frank Buffay.
+  start: !human_time '00:08:36.000'
+- end: !human_time '00:08:43.000'
+  lines:
+  - You know what? Strike that.
+  - My name, actually, is Joe.
+  start: !human_time '00:08:40.000'
+- end: !human_time '00:08:46.000'
+  lines:
+  - Joe Hill.
+  start: !human_time '00:08:45.000'
+- end: !human_time '00:08:47.000'
+  lines:
+  - You're Frank Buf--
+  start: !human_time '00:08:47.000'
+- end: !human_time '00:08:50.000'
+  lines:
+  - No! Joe Hill.
+  start: !human_time '00:08:48.000'
+- end: !human_time '00:08:52.000'
+  lines:
+  - You just said--
+  start: !human_time '00:08:51.000'
+- end: !human_time '00:08:55.000'
+  lines:
+  - I got to go.
+  - Thank you so much for coming.
+  start: !human_time '00:08:52.000'
+- end: !human_time '00:09:00.000'
+  lines:
+  - Oh, my God!
+  start: !human_time '00:08:59.000'
+- end: !human_time '00:09:01.000'
+  lines:
+  - What happened?
+  start: !human_time '00:09:00.000'
+- end: !human_time '00:09:03.000'
+  lines:
+  - That was my dad.
+  start: !human_time '00:09:02.000'
+- end: !human_time '00:09:06.000'
+  lines:
+  - Check it out!
+  start: !human_time '00:09:05.000'
+- end: !human_time '00:09:09.000'
+  lines:
+  - It's like it's coming right at me.
+  start: !human_time '00:09:07.000'
+- end: !human_time '00:09:19.000'
+  lines:
+  - -Did you catch him?
+  - -What did he say?
+  start: !human_time '00:09:16.000'
+- end: !human_time '00:09:22.000'
+  lines:
+  - He said, "Nice to meet you, Glenda. "
+  start: !human_time '00:09:19.000'
+- end: !human_time '00:09:25.000'
+  lines:
+  - I couldn't give him my real name.
+  start: !human_time '00:09:23.000'
+- end: !human_time '00:09:26.000'
+  lines:
+  - Why not?
+  start: !human_time '00:09:25.000'
+- end: !human_time '00:09:28.000'
+  lines:
+  - You saw the way he ran.
+  start: !human_time '00:09:27.000'
+- end: !human_time '00:09:31.000'
+  lines:
+  - You think he'd talk
+  - to the daughter he abandoned?
+  start: !human_time '00:09:28.000'
+- end: !human_time '00:09:33.000'
+  lines:
+  - What did you say to him?
+  start: !human_time '00:09:31.000'
+- end: !human_time '00:09:37.000'
+  lines:
+  - I said I was the executor of the will
+  - and I needed to talk to him.
+  start: !human_time '00:09:33.000'
+- end: !human_time '00:09:40.000'
+  lines:
+  - I'm going to meet him
+  - at the coffeehouse.
+  start: !human_time '00:09:37.000'
+- end: !human_time '00:09:42.000'
+  lines:
+  - Could everyone take their seats?
+  start: !human_time '00:09:40.000'
+- end: !human_time '00:09:45.000'
+  lines:
+  - I just can't think about that now.
+  start: !human_time '00:09:42.000'
+- end: !human_time '00:09:47.000'
+  lines:
+  - I want to say goodbye to my grandma.
+  start: !human_time '00:09:45.000'
+- end: !human_time '00:09:49.000'
+  lines:
+  - Let's go say goodbye.
+  start: !human_time '00:09:48.000'
+- end: !human_time '00:10:04.000'
+  lines:
+  - I'm off to my audition.
+  - How do I look?
+  start: !human_time '00:10:02.000'
+- end: !human_time '00:10:08.000'
+  lines:
+  - Great!
+  - That bag will get you that part.
+  start: !human_time '00:10:06.000'
+- end: !human_time '00:10:10.000'
+  lines:
+  - And a date with a man.
+  start: !human_time '00:10:08.000'
+- end: !human_time '00:10:16.000'
+  lines:
+  - You know what? Make fun all you want.
+  - This is a great bag.
+  start: !human_time '00:10:12.000'
+- end: !human_time '00:10:18.000'
+  lines:
+  - And it's as handy as it is becoming.
+  start: !human_time '00:10:16.000'
+- end: !human_time '00:10:23.000'
+  lines:
+  - Just because you don't understand
+  - something, doesn't make it wrong.
+  start: !human_time '00:10:19.000'
+- end: !human_time '00:10:26.000'
+  lines:
+  - You guys have to get used
+  - to the fact that Joey. . .
+  start: !human_time '00:10:23.000'
+- end: !human_time '00:10:28.000'
+  lines:
+  - . . .comes with a bag!
+  start: !human_time '00:10:27.000'
+- end: !human_time '00:10:32.000'
+  lines:
+  - I've got to meet my dad.
+  start: !human_time '00:10:30.000'
+- end: !human_time '00:10:34.000'
+  lines:
+  - Will you tell him who you are?
+  start: !human_time '00:10:32.000'
+- end: !human_time '00:10:37.000'
+  lines:
+  - Not at first.
+  - I don't want to freak him out.
+  start: !human_time '00:10:34.000'
+- end: !human_time '00:10:39.000'
+  lines:
+  - But aren't you pissed at him?
+  start: !human_time '00:10:37.000'
+- end: !human_time '00:10:41.000'
+  lines:
+  - This guy abandoned you.
+  start: !human_time '00:10:39.000'
+- end: !human_time '00:10:45.000'
+  lines:
+  - If it were me, this guy would be
+  - in some serious physical danger.
+  start: !human_time '00:10:41.000'
+- end: !human_time '00:10:50.000'
+  lines:
+  - I'd walk in there,
+  - I'd be like, "Yo, Dad!
+  start: !human_time '00:10:45.000'
+- end: !human_time '00:10:53.000'
+  lines:
+  - You and me, outside.
+  - Right now! "
+  start: !human_time '00:10:50.000'
+- end: !human_time '00:10:56.000'
+  lines:
+  - I kind of scared myself.
+  start: !human_time '00:10:54.000'
+- end: !human_time '00:10:59.000'
+  lines:
+  - Well, at least you scared someone.
+  start: !human_time '00:10:57.000'
+- end: !human_time '00:11:03.000'
+  lines:
+  - You'd think I'd be angry.
+  start: !human_time '00:11:01.000'
+- end: !human_time '00:11:07.000'
+  lines:
+  - You'd think I'd want to rip
+  - his tiny little head off!
+  start: !human_time '00:11:03.000'
+- end: !human_time '00:11:10.000'
+  lines:
+  - Fortunately, I'm past it.
+  start: !human_time '00:11:08.000'
+- end: !human_time '00:11:14.000'
+  lines:
+  - You do seem a little tense.
+  - Here, let me help you.
+  start: !human_time '00:11:10.000'
+- end: !human_time '00:11:15.000'
+  lines:
+  - Get off!
+  start: !human_time '00:11:14.000'
+- end: !human_time '00:11:19.000'
+  lines:
+  - Stop it!
+  - Why are you doing that to me?
+  start: !human_time '00:11:16.000'
+- end: !human_time '00:11:21.000'
+  lines:
+  - What are you talking about?
+  start: !human_time '00:11:20.000'
+- end: !human_time '00:11:24.000'
+  lines:
+  - As a masseuse and a human. . .
+  start: !human_time '00:11:21.000'
+- end: !human_time '00:11:28.000'
+  lines:
+  - . . .I'm begging you,
+  - never do that to anyone!
+  start: !human_time '00:11:24.000'
+- end: !human_time '00:11:30.000'
+  lines:
+  - I give good massages.
+  start: !human_time '00:11:29.000'
+- end: !human_time '00:11:35.000'
+  lines:
+  - I gave them to Rachel
+  - before she got allergic.
+  start: !human_time '00:11:33.000'
+- end: !human_time '00:11:40.000'
+  lines:
+  - And Chandler, he loves them!
+  - Watch.
+  start: !human_time '00:11:38.000'
+- end: !human_time '00:11:44.000'
+  lines:
+  - He does not like it.
+  - He's in pain!
+  start: !human_time '00:11:42.000'
+- end: !human_time '00:11:47.000'
+  lines:
+  - -No, he's not.
+  - -Yes, he is!
+  start: !human_time '00:11:45.000'
+- end: !human_time '00:11:51.000'
+  lines:
+  - -What?
+  - -I'm sorry but--
+  start: !human_time '00:11:48.000'
+- end: !human_time '00:11:57.000'
+  lines:
+  - You've been lying to me?
+  start: !human_time '00:11:55.000'
+- end: !human_time '00:11:59.000'
+  lines:
+  - I can't believe that.
+  start: !human_time '00:11:57.000'
+- end: !human_time '00:12:01.000'
+  lines:
+  - Maybe he didn't want to hurt you.
+  start: !human_time '00:11:59.000'
+- end: !human_time '00:12:04.000'
+  lines:
+  - But the minute we start
+  - to lie to each other--
+  start: !human_time '00:12:01.000'
+- end: !human_time '00:12:08.000'
+  lines:
+  - And by "we" . . .
+  start: !human_time '00:12:07.000'
+- end: !human_time '00:12:10.000'
+  lines:
+  - . . .I mean society.
+  start: !human_time '00:12:09.000'
+- end: !human_time '00:12:15.000'
+  lines:
+  - Anytime you're ready.
+  start: !human_time '00:12:13.000'
+- end: !human_time '00:12:18.000'
+  lines:
+  - Well, you must be new here.
+  start: !human_time '00:12:16.000'
+- end: !human_time '00:12:21.000'
+  lines:
+  - Maybe we get a table,
+  - I buy you a drink.
+  start: !human_time '00:12:18.000'
+- end: !human_time '00:12:23.000'
+  lines:
+  - Could you try it without the purse?
+  start: !human_time '00:12:21.000'
+- end: !human_time '00:12:26.000'
+  lines:
+  - Yeah, sure.
+  start: !human_time '00:12:25.000'
+- end: !human_time '00:12:34.000'
+  lines:
+  - Well, you must be new here.
+  - Maybe we sit--
+  start: !human_time '00:12:30.000'
+- end: !human_time '00:12:36.000'
+  lines:
+  - Can I ask you something?
+  start: !human_time '00:12:34.000'
+- end: !human_time '00:12:37.000'
+  lines:
+  - Sure. What?
+  start: !human_time '00:12:36.000'
+- end: !human_time '00:12:40.000'
+  lines:
+  - Well, first,
+  - it's not a purse.
+  start: !human_time '00:12:37.000'
+- end: !human_time '00:12:42.000'
+  lines:
+  - Anytime.
+  start: !human_time '00:12:42.000'
+- end: !human_time '00:12:45.000'
+  lines:
+  - If you think
+  - it's a woman's bag, it's not.
+  start: !human_time '00:12:43.000'
+- end: !human_time '00:12:47.000'
+  lines:
+  - It's a man's bag.
+  start: !human_time '00:12:45.000'
+- end: !human_time '00:12:50.000'
+  lines:
+  - Okay. And go!
+  start: !human_time '00:12:48.000'
+- end: !human_time '00:12:54.000'
+  lines:
+  - Let me show you the catalog.
+  start: !human_time '00:12:52.000'
+- end: !human_time '00:12:56.000'
+  lines:
+  - Look. See?
+  start: !human_time '00:12:55.000'
+- end: !human_time '00:12:59.000'
+  lines:
+  - It's the latest thing.
+  start: !human_time '00:12:57.000'
+- end: !human_time '00:13:02.000'
+  lines:
+  - Everyone's got one.
+  - Men, women, children.
+  start: !human_time '00:12:59.000'
+- end: !human_time '00:13:03.000'
+  lines:
+  - Do you sell these?
+  start: !human_time '00:13:02.000'
+- end: !human_time '00:13:08.000'
+  lines:
+  - No, these babies sell themselves.
+  start: !human_time '00:13:06.000'
+- end: !human_time '00:13:11.000'
+  lines:
+  - Thank you.
+  - That was great.
+  start: !human_time '00:13:10.000'
+- end: !human_time '00:13:13.000'
+  lines:
+  - But I didn't read anything.
+  start: !human_time '00:13:12.000'
+- end: !human_time '00:13:15.000'
+  lines:
+  - I think we've seen enough.
+  start: !human_time '00:13:13.000'
+- end: !human_time '00:13:18.000'
+  lines:
+  - All right, I'll see you.
+  start: !human_time '00:13:17.000'
+- end: !human_time '00:13:20.000'
+  lines:
+  - We got it. We got it.
+  start: !human_time '00:13:19.000'
+- end: !human_time '00:13:24.000'
+  lines:
+  - Is Rachel here?
+  start: !human_time '00:13:23.000'
+- end: !human_time '00:13:30.000'
+  lines:
+  - Listen, I just wanted to apologize
+  - about the whole massage thing.
+  start: !human_time '00:13:25.000'
+- end: !human_time '00:13:33.000'
+  lines:
+  - I really like them.
+  start: !human_time '00:13:31.000'
+- end: !human_time '00:13:35.000'
+  lines:
+  - Please stop!
+  start: !human_time '00:13:33.000'
+- end: !human_time '00:13:38.000'
+  lines:
+  - We're supposed to be honest.
+  start: !human_time '00:13:37.000'
+- end: !human_time '00:13:42.000'
+  lines:
+  - I wish you could tell me,
+  - '"I don''t like your massages. "'
+  start: !human_time '00:13:39.000'
+- end: !human_time '00:13:49.000'
+  lines:
+  - I don't like your massages.
+  start: !human_time '00:13:47.000'
+- end: !human_time '00:13:53.000'
+  lines:
+  - See? It's no big deal.
+  start: !human_time '00:13:51.000'
+- end: !human_time '00:13:56.000'
+  lines:
+  - But now you're crying!
+  start: !human_time '00:13:55.000'
+- end: !human_time '00:14:00.000'
+  lines:
+  - I'm not crying about that.
+  - I'm crying about something at work.
+  start: !human_time '00:13:56.000'
+- end: !human_time '00:14:05.000'
+  lines:
+  - My boyfriend said
+  - he didn't like my massages.
+  start: !human_time '00:14:02.000'
+- end: !human_time '00:14:08.000'
+  lines:
+  - You don't have
+  - to be best at everything.
+  start: !human_time '00:14:05.000'
+- end: !human_time '00:14:11.000'
+  lines:
+  - Oh, my God!
+  - You don't know me at all!
+  start: !human_time '00:14:08.000'
+- end: !human_time '00:14:17.000'
+  lines:
+  - You give the worst massages
+  - in the world.
+  start: !human_time '00:14:15.000'
+- end: !human_time '00:14:19.000'
+  lines:
+  - I'm crying here!
+  start: !human_time '00:14:17.000'
+- end: !human_time '00:14:21.000'
+  lines:
+  - Look, hear me out.
+  start: !human_time '00:14:20.000'
+- end: !human_time '00:14:24.000'
+  lines:
+  - You give the best bad massages.
+  start: !human_time '00:14:21.000'
+- end: !human_time '00:14:28.000'
+  lines:
+  - If anybody was looking
+  - for the best bad massage. . .
+  start: !human_time '00:14:25.000'
+- end: !human_time '00:14:31.000'
+  lines:
+  - . . .and they thought,
+  - '"Who''s the best?"'
+  start: !human_time '00:14:28.000'
+- end: !human_time '00:14:32.000'
+  lines:
+  - They'd have to go to you.
+  start: !human_time '00:14:31.000'
+- end: !human_time '00:14:41.000'
+  lines:
+  - So you're saying that
+  - if there was an award. . .
+  start: !human_time '00:14:38.000'
+- end: !human_time '00:14:46.000'
+  lines:
+  - . . .for the best bad massage. . . .
+  - Who would get that?
+  start: !human_time '00:14:41.000'
+- end: !human_time '00:14:48.000'
+  lines:
+  - It would be you!
+  start: !human_time '00:14:46.000'
+- end: !human_time '00:14:51.000'
+  lines:
+  - You, Monica!
+  - And you'd get all the votes.
+  start: !human_time '00:14:48.000'
+- end: !human_time '00:14:54.000'
+  lines:
+  - So they could call the award,
+  - '"The Monica"?'
+  start: !human_time '00:14:52.000'
+- end: !human_time '00:14:58.000'
+  lines:
+  - Absolutely.
+  start: !human_time '00:14:56.000'
+- end: !human_time '00:15:02.000'
+  lines:
+  - I suck!
+  start: !human_time '00:15:01.000'
+- end: !human_time '00:15:10.000'
+  lines:
+  - Thank you for meeting me.
+  start: !human_time '00:15:09.000'
+- end: !human_time '00:15:12.000'
+  lines:
+  - Thank you.
+  start: !human_time '00:15:11.000'
+- end: !human_time '00:15:14.000'
+  lines:
+  - Come sit.
+  start: !human_time '00:15:13.000'
+- end: !human_time '00:15:17.000'
+  lines:
+  - Sit.
+  start: !human_time '00:15:16.000'
+- end: !human_time '00:15:19.000'
+  lines:
+  - Sit!
+  start: !human_time '00:15:18.000'
+- end: !human_time '00:15:24.000'
+  lines:
+  - Alrighty.
+  - Before we get started, I need you. . .
+  start: !human_time '00:15:21.000'
+- end: !human_time '00:15:28.000'
+  lines:
+  - . . .to state for the record
+  - that you are, in fact, Frank Buffay.
+  start: !human_time '00:15:24.000'
+- end: !human_time '00:15:30.000'
+  lines:
+  - Yes, I am.
+  start: !human_time '00:15:28.000'
+- end: !human_time '00:15:35.000'
+  lines:
+  - What did Frances leave me?
+  start: !human_time '00:15:33.000'
+- end: !human_time '00:15:38.000'
+  lines:
+  - That's why you wanted me to come.
+  start: !human_time '00:15:36.000'
+- end: !human_time '00:15:42.000'
+  lines:
+  - Yes, she did. She left you. . .
+  start: !human_time '00:15:39.000'
+- end: !human_time '00:15:45.000'
+  lines:
+  - . . .this lipstick.
+  start: !human_time '00:15:44.000'
+- end: !human_time '00:15:52.000'
+  lines:
+  - It's used.
+  start: !human_time '00:15:50.000'
+- end: !human_time '00:15:56.000'
+  lines:
+  - Cool!
+  start: !human_time '00:15:54.000'
+- end: !human_time '00:16:03.000'
+  lines:
+  - I have just a few questions to ask,
+  - so I'll get out my official forms.
+  start: !human_time '00:15:58.000'
+- end: !human_time '00:16:08.000'
+  lines:
+  - 'So question one:'
+  start: !human_time '00:16:07.000'
+- end: !human_time '00:16:13.000'
+  lines:
+  - You were married to Frances'
+  - daughter, Lilly. Correct?
+  start: !human_time '00:16:09.000'
+- end: !human_time '00:16:15.000'
+  lines:
+  - Yes, I was.
+  start: !human_time '00:16:13.000'
+- end: !human_time '00:16:18.000'
+  lines:
+  - 'Question two:'
+  - Did that marriage end. . .
+  start: !human_time '00:16:16.000'
+- end: !human_time '00:16:20.000'
+  lines:
+  - 'A: Happily?'
+  start: !human_time '00:16:19.000'
+- end: !human_time '00:16:22.000'
+  lines:
+  - 'B: Medium?'
+  start: !human_time '00:16:20.000'
+- end: !human_time '00:16:26.000'
+  lines:
+  - 'Or C: ln the total abandonment. . .'
+  start: !human_time '00:16:23.000'
+- end: !human_time '00:16:28.000'
+  lines:
+  - . . .of her and her two children?
+  start: !human_time '00:16:26.000'
+- end: !human_time '00:16:30.000'
+  lines:
+  - It really says that?
+  start: !human_time '00:16:29.000'
+- end: !human_time '00:16:31.000'
+  lines:
+  - Yeah, see?
+  start: !human_time '00:16:30.000'
+- end: !human_time '00:16:35.000'
+  lines:
+  - I guess then I would have to say C.
+  start: !human_time '00:16:33.000'
+- end: !human_time '00:16:39.000'
+  lines:
+  - Total abandonment.
+  start: !human_time '00:16:37.000'
+- end: !human_time '00:16:42.000'
+  lines:
+  - 'Reasons for abandonment:'
+  start: !human_time '00:16:40.000'
+- end: !human_time '00:16:45.000'
+  lines:
+  - 'A: Top secret government work.'
+  start: !human_time '00:16:42.000'
+- end: !human_time '00:16:47.000'
+  lines:
+  - 'B: Amnesia.'
+  start: !human_time '00:16:46.000'
+- end: !human_time '00:16:50.000'
+  lines:
+  - 'Or C: You''re just a selfish,'
+  - irresponsible. . .
+  start: !human_time '00:16:47.000'
+- end: !human_time '00:16:53.000'
+  lines:
+  - . . .bad, bad man.
+  start: !human_time '00:16:50.000'
+- end: !human_time '00:16:56.000'
+  lines:
+  - I don't want the lipstick that much.
+  start: !human_time '00:16:53.000'
+- end: !human_time '00:17:00.000'
+  lines:
+  - Would you do me a favor?
+  start: !human_time '00:16:57.000'
+- end: !human_time '00:17:02.000'
+  lines:
+  - Would you give Lilly. . .
+  start: !human_time '00:17:01.000'
+- end: !human_time '00:17:04.000'
+  lines:
+  - . . .that, please?
+  start: !human_time '00:17:03.000'
+- end: !human_time '00:17:07.000'
+  lines:
+  - When you see Lilly,
+  - give her that note.
+  start: !human_time '00:17:05.000'
+- end: !human_time '00:17:10.000'
+  lines:
+  - I wanted to talk to her
+  - at the memorial. . .
+  start: !human_time '00:17:08.000'
+- end: !human_time '00:17:15.000'
+  lines:
+  - . . .but I pictured her getting mad
+  - the way you did, and I chickened out.
+  start: !human_time '00:17:10.000'
+- end: !human_time '00:17:18.000'
+  lines:
+  - I wrote her a note.
+  - Give it to her, please?
+  start: !human_time '00:17:16.000'
+- end: !human_time '00:17:21.000'
+  lines:
+  - But you came to see Lilly?
+  start: !human_time '00:17:18.000'
+- end: !human_time '00:17:23.000'
+  lines:
+  - Yeah. Why?
+  start: !human_time '00:17:22.000'
+- end: !human_time '00:17:26.000'
+  lines:
+  - Lilly's dead.
+  start: !human_time '00:17:24.000'
+- end: !human_time '00:17:28.000'
+  lines:
+  - She what?
+  start: !human_time '00:17:27.000'
+- end: !human_time '00:17:30.000'
+  lines:
+  - She's dead.
+  start: !human_time '00:17:29.000'
+- end: !human_time '00:17:31.000'
+  lines:
+  - Are you sure?
+  start: !human_time '00:17:30.000'
+- end: !human_time '00:17:34.000'
+  lines:
+  - If she isn't, cremating her
+  - was a big mistake.
+  start: !human_time '00:17:31.000'
+- end: !human_time '00:17:38.000'
+  lines:
+  - I can't believe this.
+  - I just can't believe--
+  start: !human_time '00:17:36.000'
+- end: !human_time '00:17:41.000'
+  lines:
+  - How?
+  - Oh, my God.
+  start: !human_time '00:17:39.000'
+- end: !human_time '00:17:43.000'
+  lines:
+  - How long ago?
+  start: !human_time '00:17:42.000'
+- end: !human_time '00:17:45.000'
+  lines:
+  - 1 7 years ago.
+  start: !human_time '00:17:43.000'
+- end: !human_time '00:17:49.000'
+  lines:
+  - What about the girls?
+  start: !human_time '00:17:48.000'
+- end: !human_time '00:17:56.000'
+  lines:
+  - Well, Ursula is a waitress
+  - and she lives in Soho.
+  start: !human_time '00:17:52.000'
+- end: !human_time '00:17:59.000'
+  lines:
+  - And Phoebe. . .
+  start: !human_time '00:17:58.000'
+- end: !human_time '00:18:03.000'
+  lines:
+  - . . .is on this couch.
+  start: !human_time '00:18:01.000'
+- end: !human_time '00:18:14.000'
+  lines:
+  - Yep, lipstick and a daughter.
+  - Big day for you!
+  start: !human_time '00:18:10.000'
+- end: !human_time '00:18:18.000'
+  lines:
+  - Phoebe, l. . . .
+  start: !human_time '00:18:15.000'
+- end: !human_time '00:18:23.000'
+  lines:
+  - It's just, I don't know what to say.
+  start: !human_time '00:18:20.000'
+- end: !human_time '00:18:29.000'
+  lines:
+  - I just can't believe that you're
+  - my daughter. You're so pretty.
+  start: !human_time '00:18:25.000'
+- end: !human_time '00:18:33.000'
+  lines:
+  - Yes, well, that's neither
+  - here nor there.
+  start: !human_time '00:18:31.000'
+- end: !human_time '00:18:38.000'
+  lines:
+  - Would it make you feel
+  - better if I said. . .
+  start: !human_time '00:18:35.000'
+- end: !human_time '00:18:42.000'
+  lines:
+  - . . .that I was very, very sorry I left?
+  start: !human_time '00:18:38.000'
+- end: !human_time '00:18:47.000'
+  lines:
+  - It doesn't matter what you say.
+  - It won't make a difference.
+  start: !human_time '00:18:44.000'
+- end: !human_time '00:18:49.000'
+  lines:
+  - So you can just go.
+  start: !human_time '00:18:47.000'
+- end: !human_time '00:18:55.000'
+  lines:
+  - Well, you know, in my defense,
+  - I was a lousy father.
+  start: !human_time '00:18:50.000'
+- end: !human_time '00:18:58.000'
+  lines:
+  - -That's your defense?
+  - -Yes, it is.
+  start: !human_time '00:18:56.000'
+- end: !human_time '00:19:02.000'
+  lines:
+  - I burned the formula,
+  - and I put your diapers on backwards.
+  start: !human_time '00:18:58.000'
+- end: !human_time '00:19:07.000'
+  lines:
+  - I made up a song to sing to you,
+  - but that made you cry even more.
+  start: !human_time '00:19:02.000'
+- end: !human_time '00:19:09.000'
+  lines:
+  - You make up songs?
+  start: !human_time '00:19:08.000'
+- end: !human_time '00:19:12.000'
+  lines:
+  - Well, no, just that one.
+  - But it was stupid.
+  start: !human_time '00:19:09.000'
+- end: !human_time '00:19:15.000'
+  lines:
+  - Let's see, how did it go?
+  start: !human_time '00:19:12.000'
+- end: !human_time '00:19:19.000'
+  lines:
+  - Sleepy girl, sleepy girl
+  start: !human_time '00:19:16.000'
+- end: !human_time '00:19:22.000'
+  lines:
+  - Why won 't you go to sleep?
+  start: !human_time '00:19:20.000'
+- end: !human_time '00:19:25.000'
+  lines:
+  - Sleepy girl, sleepy girl
+  start: !human_time '00:19:23.000'
+- end: !human_time '00:19:28.000'
+  lines:
+  - You're keeping me up
+  start: !human_time '00:19:26.000'
+- end: !human_time '00:19:48.000'
+  lines:
+  - I'm not very good at this.
+  start: !human_time '00:19:46.000'
+- end: !human_time '00:19:52.000'
+  lines:
+  - Well, I am.
+  start: !human_time '00:19:51.000'
+- end: !human_time '00:19:59.000'
+  lines:
+  - Not yet. No.
+  start: !human_time '00:19:58.000'
+- end: !human_time '00:20:07.000'
+  lines:
+  - How'd the audition go?
+  start: !human_time '00:20:06.000'
+- end: !human_time '00:20:08.000'
+  lines:
+  - Estelle said I didn't get it.
+  start: !human_time '00:20:07.000'
+- end: !human_time '00:20:12.000'
+  lines:
+  - What? Why?
+  - Joey, you were so ready for it.
+  start: !human_time '00:20:09.000'
+- end: !human_time '00:20:13.000'
+  lines:
+  - I thought so too. . .
+  start: !human_time '00:20:12.000'
+- end: !human_time '00:20:16.000'
+  lines:
+  - . . .but the casting people
+  - had problems with me.
+  start: !human_time '00:20:14.000'
+- end: !human_time '00:20:17.000'
+  lines:
+  - What kind of problem?
+  start: !human_time '00:20:16.000'
+- end: !human_time '00:20:20.000'
+  lines:
+  - To tell you the truth. . .
+  start: !human_time '00:20:18.000'
+- end: !human_time '00:20:23.000'
+  lines:
+  - . . .they had a problem with the bag!
+  start: !human_time '00:20:21.000'
+- end: !human_time '00:20:27.000'
+  lines:
+  - You know what?
+  - It was a stupid play anyway.
+  start: !human_time '00:20:24.000'
+- end: !human_time '00:20:29.000'
+  lines:
+  - It's time to give up the bag.
+  start: !human_time '00:20:27.000'
+- end: !human_time '00:20:32.000'
+  lines:
+  - I don't want to give up the bag.
+  start: !human_time '00:20:30.000'
+- end: !human_time '00:20:35.000'
+  lines:
+  - I don't have to give it up,
+  - do l, Rach?
+  start: !human_time '00:20:32.000'
+- end: !human_time '00:20:40.000'
+  lines:
+  - You think I should give up the bag!
+  start: !human_time '00:20:38.000'
+- end: !human_time '00:20:45.000'
+  lines:
+  - Joey, I'm sorry. As terrific
+  - as I think you are with it. . .
+  start: !human_time '00:20:41.000'
+- end: !human_time '00:20:51.000'
+  lines:
+  - . . .I just don't know if the world
+  - is ready for you and your bag.
+  start: !human_time '00:20:47.000'
+- end: !human_time '00:20:55.000'
+  lines:
+  - I can't believe this!
+  start: !human_time '00:20:54.000'
+- end: !human_time '00:20:59.000'
+  lines:
+  - Wait, I'm not saying
+  - you shouldn't have a bag.
+  start: !human_time '00:20:56.000'
+- end: !human_time '00:21:04.000'
+  lines:
+  - There are other bags
+  - that are maybe a little less. . .
+  start: !human_time '00:21:00.000'
+- end: !human_time '00:21:06.000'
+  lines:
+  - . . .controversial.
+  start: !human_time '00:21:05.000'
+- end: !human_time '00:21:10.000'
+  lines:
+  - Yeah, they're called wallets.
+  start: !human_time '00:21:07.000'
+- end: !human_time '00:21:28.000'
+  lines:
+  - Guys, look! Ugly Naked Guy's
+  - putting stuff in boxes.
+  start: !human_time '00:21:25.000'
+- end: !human_time '00:21:34.000'
+  lines:
+  - I'd say our naked buddy is moving.
+  start: !human_time '00:21:32.000'
+- end: !human_time '00:21:38.000'
+  lines:
+  - Ironically, most of the boxes
+  - seem to be labeled "Clothes. "
+  start: !human_time '00:21:34.000'
+- end: !human_time '00:21:42.000'
+  lines:
+  - I'm going to miss that big
+  - old squishy butt.
+  start: !human_time '00:21:39.000'
+- end: !human_time '00:21:45.000'
+  lines:
+  - And we're done
+  - with the chicken fried rice.
+  start: !human_time '00:21:42.000'
+- end: !human_time '00:21:49.000'
+  lines:
+  - If he's moving, maybe I should
+  - try to get his place!
+  start: !human_time '00:21:46.000'
+- end: !human_time '00:21:53.000'
+  lines:
+  - It would be so cool
+  - to live across from you guys.
+  start: !human_time '00:21:50.000'
+- end: !human_time '00:21:55.000'
+  lines:
+  - We could do that telephone thing. . .
+  start: !human_time '00:21:53.000'
+- end: !human_time '00:21:58.000'
+  lines:
+  - . . .where you have a can,
+  - we have a can. . .
+  start: !human_time '00:21:55.000'
+- end: !human_time '00:22:00.000'
+  lines:
+  - . . .and it's connected by a string.
+  start: !human_time '00:21:58.000'
+- end: !human_time '00:22:04.000'
+  lines:
+  - Or we could do
+  - the actual telephone thing.
+  start: !human_time '00:22:01.000'
+- end: !human_time '00:22:08.000'
+  lines:
+  - The One Where
+  - Everyone Finds Out
+  start: !human_time '00:22:06.000'
+- end: !human_time '00:22:10.000'
+  lines:
+  - English Subtitles by
+  - GELULA & CO., INC.
+  start: !human_time '00:22:09.000'
+- end: !human_time '00:22:54.000'
+  lines:
+  - Oh, my God. I love this apartment!
+  start: !human_time '00:22:51.000'
+- end: !human_time '00:22:55.000'
+  lines:
+  - Isn't it perfect?
+  start: !human_time '00:22:54.000'
+- end: !human_time '00:22:59.000'
+  lines:
+  - I can't believe I never realized
+  - how great it is!
+  start: !human_time '00:22:56.000'
+- end: !human_time '00:23:02.000'
+  lines:
+  - Because your eye goes
+  - to the big naked man.
+  start: !human_time '00:22:59.000'
+- end: !human_time '00:23:04.000'
+  lines:
+  - It's amazing!
+  start: !human_time '00:23:03.000'
+- end: !human_time '00:23:08.000'
+  lines:
+  - Hurry up with an application,
+  - or I'll beat you to it.
+  start: !human_time '00:23:05.000'
+- end: !human_time '00:23:16.000'
+  lines:
+  - Well, I'm going to use
+  - Ugly Naked Guy's bathroom.
+  start: !human_time '00:23:13.000'
+- end: !human_time '00:23:22.000'
+  lines:
+  - Look! There's Monica and Chandler.
+  start: !human_time '00:23:21.000'
+- end: !human_time '00:23:26.000'
+  lines:
+  - Hey, you guys!
+  start: !human_time '00:23:24.000'
+- end: !human_time '00:23:37.000'
+  lines:
+  - Chandler and Monica!
+  start: !human_time '00:23:36.000'
+- end: !human_time '00:23:40.000'
+  lines:
+  - Oh, my God!
+  start: !human_time '00:23:38.000'
+- end: !human_time '00:23:44.000'
+  lines:
+  - Oh, my eyes!
+  start: !human_time '00:23:43.000'
+- end: !human_time '00:23:45.000'
+  lines:
+  - My eyes!
+  start: !human_time '00:23:44.000'
+- end: !human_time '00:23:48.000'
+  lines:
+  - It's okay!
+  start: !human_time '00:23:47.000'
+- end: !human_time '00:23:50.000'
+  lines:
+  - -They're doing it!
+  - -I know!
+  start: !human_time '00:23:48.000'
+- end: !human_time '00:23:52.000'
+  lines:
+  - -I know!
+  - -You know?
+  start: !human_time '00:23:50.000'
+- end: !human_time '00:23:56.000'
+  lines:
+  - Yes, I know it. Joey knows,
+  - but Ross doesn't, so stop screaming!
+  start: !human_time '00:23:52.000'
+- end: !human_time '00:23:58.000'
+  lines:
+  - What's going on?
+  start: !human_time '00:23:57.000'
+- end: !human_time '00:24:02.000'
+  lines:
+  - -What?
+  - -Nothing!
+  start: !human_time '00:24:01.000'
+- end: !human_time '00:24:05.000'
+  lines:
+  - We are so excited
+  - that you'll get this apartment!
+  start: !human_time '00:24:02.000'
+- end: !human_time '00:24:07.000'
+  lines:
+  - Looks really good.
+  start: !human_time '00:24:06.000'
+- end: !human_time '00:24:09.000'
+  lines:
+  - Looks pretty good!
+  start: !human_time '00:24:07.000'
+- end: !human_time '00:24:11.000'
+  lines:
+  - Get in here!
+  - Come on!
+  start: !human_time '00:24:10.000'
+- end: !human_time '00:24:21.000'
+  lines:
+  - You mean whenever
+  - Monica and Chandler. . .
+  start: !human_time '00:24:18.000'
+- end: !human_time '00:24:24.000'
+  lines:
+  - . . .were doing laundry
+  - or going grocery shopping?
+  start: !human_time '00:24:21.000'
+- end: !human_time '00:24:27.000'
+  lines:
+  - The time Monica spent on the phone
+  - with Linda from camp?
+  start: !human_time '00:24:24.000'
+- end: !human_time '00:24:30.000'
+  lines:
+  - Doing it, doing it, phone, doing it.
+  start: !human_time '00:24:27.000'
+- end: !human_time '00:24:32.000'
+  lines:
+  - I can't believe it!
+  start: !human_time '00:24:31.000'
+- end: !human_time '00:24:35.000'
+  lines:
+  - I think it's great. For him.
+  start: !human_time '00:24:33.000'
+- end: !human_time '00:24:37.000'
+  lines:
+  - She could do better.
+  start: !human_time '00:24:35.000'
+- end: !human_time '00:24:40.000'
+  lines:
+  - Hey, you guys.
+  start: !human_time '00:24:39.000'
+- end: !human_time '00:24:41.000'
+  lines:
+  - Come here!
+  start: !human_time '00:24:40.000'
+- end: !human_time '00:24:43.000'
+  lines:
+  - Phoebe found out
+  - about Monica and Chandler.
+  start: !human_time '00:24:41.000'
+- end: !human_time '00:24:46.000'
+  lines:
+  - You mean how they're friends
+  - and nothing more?
+  start: !human_time '00:24:44.000'
+- end: !human_time '00:24:50.000'
+  lines:
+  - Joey, she knows.
+  start: !human_time '00:24:48.000'
+- end: !human_time '00:24:53.000'
+  lines:
+  - We saw them doing it
+  - through the window.
+  start: !human_time '00:24:50.000'
+- end: !human_time '00:24:57.000'
+  lines:
+  - Actually, we saw them doing it
+  - up against the window.
+  start: !human_time '00:24:54.000'
+- end: !human_time '00:25:02.000'
+  lines:
+  - So they know you know,
+  - and they don't know Rachel knows?
+  start: !human_time '00:24:58.000'
+- end: !human_time '00:25:05.000'
+  lines:
+  - Yes, but it doesn't matter
+  - who knows what.
+  start: !human_time '00:25:02.000'
+- end: !human_time '00:25:08.000'
+  lines:
+  - Now enough of us know
+  - that we could just tell them we know.
+  start: !human_time '00:25:05.000'
+- end: !human_time '00:25:11.000'
+  lines:
+  - All the lying and the secrets
+  - will finally be over.
+  start: !human_time '00:25:08.000'
+- end: !human_time '00:25:15.000'
+  lines:
+  - Or, we could not tell them we know,
+  - and have a little fun.
+  start: !human_time '00:25:11.000'
+- end: !human_time '00:25:18.000'
+  lines:
+  - What do you mean?
+  start: !human_time '00:25:17.000'
+- end: !human_time '00:25:22.000'
+  lines:
+  - If they say they are doing laundry,
+  - we'll give them laundry to do.
+  start: !human_time '00:25:18.000'
+- end: !human_time '00:25:26.000'
+  lines:
+  - I would enjoy that.
+  start: !human_time '00:25:24.000'
+- end: !human_time '00:25:29.000'
+  lines:
+  - You know what would be even more fun?
+  - Telling them.
+  start: !human_time '00:25:26.000'
+- end: !human_time '00:25:32.000'
+  lines:
+  - No, I want to do Phoebe's thing.
+  start: !human_time '00:25:30.000'
+- end: !human_time '00:25:33.000'
+  lines:
+  - I can't take--
+  start: !human_time '00:25:32.000'
+- end: !human_time '00:25:37.000'
+  lines:
+  - You don't have to do anything.
+  - Just don't tell them we know.
+  start: !human_time '00:25:33.000'
+- end: !human_time '00:25:39.000'
+  lines:
+  - I can't take anymore secrets.
+  start: !human_time '00:25:37.000'
+- end: !human_time '00:25:42.000'
+  lines:
+  - I got your secrets, their secrets,
+  - secrets of my own.
+  start: !human_time '00:25:39.000'
+- end: !human_time '00:25:46.000'
+  lines:
+  - You don't have any secrets.
+  start: !human_time '00:25:44.000'
+- end: !human_time '00:25:50.000'
+  lines:
+  - Well, you don't know about Hugsy,
+  - my bedtime penguin pal.
+  start: !human_time '00:25:47.000'
+- end: !human_time '00:25:59.000'
+  lines:
+  - How are we going to mess with them?
+  start: !human_time '00:25:56.000'
+- end: !human_time '00:26:02.000'
+  lines:
+  - You could use your position
+  - as the roommate.
+  start: !human_time '00:25:59.000'
+- end: !human_time '00:26:05.000'
+  lines:
+  - And I would use the strongest tool
+  - at my disposal.
+  start: !human_time '00:26:02.000'
+- end: !human_time '00:26:07.000'
+  lines:
+  - My sexuality.
+  start: !human_time '00:26:05.000'
+- end: !human_time '00:26:10.000'
+  lines:
+  - Hello, children.
+  start: !human_time '00:26:08.000'
+- end: !human_time '00:26:13.000'
+  lines:
+  - Watch. Learn.
+  - And don't eat my cookie.
+  start: !human_time '00:26:11.000'
+- end: !human_time '00:26:20.000'
+  lines:
+  - That jacket looks great on you.
+  start: !human_time '00:26:18.000'
+- end: !human_time '00:26:23.000'
+  lines:
+  - -Really?
+  - -The material is so soft.
+  start: !human_time '00:26:21.000'
+- end: !human_time '00:26:25.000'
+  lines:
+  - Hello, Mr. Bicep.
+  start: !human_time '00:26:23.000'
+- end: !human_time '00:26:28.000'
+  lines:
+  - You're working out?
+  start: !human_time '00:26:27.000'
+- end: !human_time '00:26:31.000'
+  lines:
+  - I try to squeeze things.
+  start: !human_time '00:26:29.000'
+- end: !human_time '00:26:38.000'
+  lines:
+  - Are you okay?
+  start: !human_time '00:26:37.000'
+- end: !human_time '00:26:40.000'
+  lines:
+  - If you really want to know--
+  start: !human_time '00:26:38.000'
+- end: !human_time '00:26:42.000'
+  lines:
+  - I can't tell you this.
+  start: !human_time '00:26:41.000'
+- end: !human_time '00:26:45.000'
+  lines:
+  - You can tell me anything.
+  start: !human_time '00:26:43.000'
+- end: !human_time '00:26:48.000'
+  lines:
+  - Actually, you are the one person
+  - I can't tell this to.
+  start: !human_time '00:26:45.000'
+- end: !human_time '00:26:51.000'
+  lines:
+  - And the one person I want to the most.
+  start: !human_time '00:26:48.000'
+- end: !human_time '00:26:54.000'
+  lines:
+  - What's going on?
+  start: !human_time '00:26:53.000'
+- end: !human_time '00:26:59.000'
+  lines:
+  - I just haven't been
+  - with a guy in so long. . .
+  start: !human_time '00:26:56.000'
+- end: !human_time '00:27:01.000'
+  lines:
+  - . . .and sometimes you're
+  - looking for something. . .
+  start: !human_time '00:26:59.000'
+- end: !human_time '00:27:05.000'
+  lines:
+  - . . .and it's right there
+  - in front of you, sipping coffee. . . .
+  start: !human_time '00:27:02.000'
+- end: !human_time '00:27:07.000'
+  lines:
+  - Oh, no. Have I said too much?
+  start: !human_time '00:27:05.000'
+- end: !human_time '00:27:13.000'
+  lines:
+  - Just something to think about.
+  - I know I will.
+  start: !human_time '00:27:10.000'
+- end: !human_time '00:27:27.000'
+  lines:
+  - You are so cute.
+  start: !human_time '00:27:26.000'
+- end: !human_time '00:27:30.000'
+  lines:
+  - How did you get to be so cute?
+  start: !human_time '00:27:28.000'
+- end: !human_time '00:27:32.000'
+  lines:
+  - My grandfather was Swedish.
+  start: !human_time '00:27:30.000'
+- end: !human_time '00:27:35.000'
+  lines:
+  - And my grandmother was
+  - a tiny little bunny.
+  start: !human_time '00:27:33.000'
+- end: !human_time '00:27:39.000'
+  lines:
+  - Now you're even cuter.
+  start: !human_time '00:27:37.000'
+- end: !human_time '00:27:44.000'
+  lines:
+  - You know, that is a popular
+  - opinion today, I must say.
+  start: !human_time '00:27:40.000'
+- end: !human_time '00:27:47.000'
+  lines:
+  - The weirdest thing happened
+  - at the coffeehouse.
+  start: !human_time '00:27:44.000'
+- end: !human_time '00:27:49.000'
+  lines:
+  - Phoebe was hitting on me.
+  start: !human_time '00:27:47.000'
+- end: !human_time '00:27:52.000'
+  lines:
+  - What are you talking about?
+  start: !human_time '00:27:50.000'
+- end: !human_time '00:27:54.000'
+  lines:
+  - I think Phoebe thinks I'm foxy.
+  start: !human_time '00:27:52.000'
+- end: !human_time '00:27:58.000'
+  lines:
+  - It's not possible.
+  start: !human_time '00:27:57.000'
+- end: !human_time '00:28:06.000'
+  lines:
+  - I'm sorry, Phoebe's just
+  - always thought you were charming. . .
+  start: !human_time '00:28:03.000'
+- end: !human_time '00:28:08.000'
+  lines:
+  - . . .in a sexless kind of way.
+  start: !human_time '00:28:06.000'
+- end: !human_time '00:28:11.000'
+  lines:
+  - You know, I can't hear that enough.
+  start: !human_time '00:28:08.000'
+- end: !human_time '00:28:14.000'
+  lines:
+  - I just think you misunderstood her.
+  start: !human_time '00:28:12.000'
+- end: !human_time '00:28:17.000'
+  lines:
+  - I didn't, okay?
+  - She was all over me.
+  start: !human_time '00:28:15.000'
+- end: !human_time '00:28:20.000'
+  lines:
+  - She touched my bicep,
+  - for crying out loud.
+  start: !human_time '00:28:17.000'
+- end: !human_time '00:28:21.000'
+  lines:
+  - This bicep?
+  start: !human_time '00:28:20.000'
+- end: !human_time '00:28:24.000'
+  lines:
+  - Well, it's not flexed right now.
+  start: !human_time '00:28:22.000'
+- end: !human_time '00:28:33.000'
+  lines:
+  - Mon, you want to come
+  - see a movie with us?
+  start: !human_time '00:28:30.000'
+- end: !human_time '00:28:37.000'
+  lines:
+  - Actually, I was going
+  - to do some laundry.
+  start: !human_time '00:28:34.000'
+- end: !human_time '00:28:40.000'
+  lines:
+  - Want to do it with me?
+  start: !human_time '00:28:39.000'
+- end: !human_time '00:28:43.000'
+  lines:
+  - Sure, I'll do it with you.
+  start: !human_time '00:28:41.000'
+- end: !human_time '00:28:46.000'
+  lines:
+  - Okay, great.
+  - Hold on a second.
+  start: !human_time '00:28:44.000'
+- end: !human_time '00:28:50.000'
+  lines:
+  - Here you go.
+  start: !human_time '00:28:49.000'
+- end: !human_time '00:28:54.000'
+  lines:
+  - That would really help me out a lot.
+  - Thanks.
+  start: !human_time '00:28:51.000'
+- end: !human_time '00:28:58.000'
+  lines:
+  - You know what?
+  - I don't have enough quarters.
+  start: !human_time '00:28:55.000'
+- end: !human_time '00:29:00.000'
+  lines:
+  - I have quarters!
+  start: !human_time '00:28:58.000'
+- end: !human_time '00:29:06.000'
+  lines:
+  - Hey, any word on the apartment yet?
+  start: !human_time '00:29:04.000'
+- end: !human_time '00:29:10.000'
+  lines:
+  - I called there, and it turns out
+  - Naked Guy is subletting it.
+  start: !human_time '00:29:06.000'
+- end: !human_time '00:29:12.000'
+  lines:
+  - He's already had 1 00 applicants.
+  start: !human_time '00:29:10.000'
+- end: !human_time '00:29:14.000'
+  lines:
+  - No, I've got the edge.
+  start: !human_time '00:29:13.000'
+- end: !human_time '00:29:17.000'
+  lines:
+  - It's not exactly ethical,
+  - but I sent him a bribe. . .
+  start: !human_time '00:29:14.000'
+- end: !human_time '00:29:19.000'
+  lines:
+  - . . .to tip the scales in my direction.
+  start: !human_time '00:29:17.000'
+- end: !human_time '00:29:21.000'
+  lines:
+  - You can see it from the window.
+  start: !human_time '00:29:20.000'
+- end: !human_time '00:29:27.000'
+  lines:
+  - Is it that pinball machine
+  - with the big bow on it?
+  start: !human_time '00:29:24.000'
+- end: !human_time '00:29:31.000'
+  lines:
+  - That new mountain bike?
+  start: !human_time '00:29:29.000'
+- end: !human_time '00:29:35.000'
+  lines:
+  - What did you send?
+  start: !human_time '00:29:34.000'
+- end: !human_time '00:29:38.000'
+  lines:
+  - A basket of mini muffins.
+  start: !human_time '00:29:35.000'
+- end: !human_time '00:29:43.000'
+  lines:
+  - There's a whole table of them.
+  - Which one did you send?
+  start: !human_time '00:29:39.000'
+- end: !human_time '00:29:45.000'
+  lines:
+  - The small one.
+  start: !human_time '00:29:43.000'
+- end: !human_time '00:29:51.000'
+  lines:
+  - You actually thought that basket
+  - was going to get you the apartment?
+  start: !human_time '00:29:46.000'
+- end: !human_time '00:29:56.000'
+  lines:
+  - Someone sent us a basket at work, and
+  - people went crazy over those muffins.
+  start: !human_time '00:29:51.000'
+- end: !human_time '00:29:57.000'
+  lines:
+  - It was the best day.
+  start: !human_time '00:29:56.000'
+- end: !human_time '00:30:00.000'
+  lines:
+  - Your work makes me sad.
+  start: !human_time '00:29:58.000'
+- end: !human_time '00:30:04.000'
+  lines:
+  - Oh, man, I want that place so much!
+  start: !human_time '00:30:01.000'
+- end: !human_time '00:30:07.000'
+  lines:
+  - And I was so sure
+  - that was going to work.
+  start: !human_time '00:30:04.000'
+- end: !human_time '00:30:10.000'
+  lines:
+  - There's 1 2 bucks
+  - I'll never see again.
+  start: !human_time '00:30:07.000'
+- end: !human_time '00:30:13.000'
+  lines:
+  - We'd better go if we want
+  - to catch that movie.
+  start: !human_time '00:30:11.000'
+- end: !human_time '00:30:15.000'
+  lines:
+  - Bye.
+  start: !human_time '00:30:14.000'
+- end: !human_time '00:30:18.000'
+  lines:
+  - Bye, Chandler.
+  - I miss you already.
+  start: !human_time '00:30:16.000'
+- end: !human_time '00:30:26.000'
+  lines:
+  - Did you see that? The inappropriate,
+  - and the pinching?
+  start: !human_time '00:30:23.000'
+- end: !human_time '00:30:28.000'
+  lines:
+  - Actually, I did.
+  start: !human_time '00:30:26.000'
+- end: !human_time '00:30:30.000'
+  lines:
+  - So do you believe
+  - that she's attracted to me?
+  start: !human_time '00:30:28.000'
+- end: !human_time '00:30:35.000'
+  lines:
+  - Oh, my God!
+  - She knows about us!
+  start: !human_time '00:30:32.000'
+- end: !human_time '00:30:36.000'
+  lines:
+  - Are you serious?
+  start: !human_time '00:30:35.000'
+- end: !human_time '00:30:39.000'
+  lines:
+  - She knows, and she's trying
+  - to freak us out!
+  start: !human_time '00:30:36.000'
+- end: !human_time '00:30:41.000'
+  lines:
+  - That's the only explanation!
+  start: !human_time '00:30:39.000'
+- end: !human_time '00:30:48.000'
+  lines:
+  - But what about my pinchable butt
+  - and my bulging biceps?
+  start: !human_time '00:30:44.000'
+- end: !human_time '00:30:50.000'
+  lines:
+  - She knows!
+  start: !human_time '00:30:49.000'
+- end: !human_time '00:31:01.000'
+  lines:
+  - Phoebe knows about us.
+  start: !human_time '00:31:00.000'
+- end: !human_time '00:31:03.000'
+  lines:
+  - I didn't tell them!
+  start: !human_time '00:31:02.000'
+- end: !human_time '00:31:05.000'
+  lines:
+  - Them?
+  start: !human_time '00:31:04.000'
+- end: !human_time '00:31:06.000'
+  lines:
+  - Who's "them"?
+  start: !human_time '00:31:05.000'
+- end: !human_time '00:31:10.000'
+  lines:
+  - Phoebe and Joey.
+  start: !human_time '00:31:08.000'
+- end: !human_time '00:31:14.000'
+  lines:
+  - And Rachel.
+  start: !human_time '00:31:13.000'
+- end: !human_time '00:31:18.000'
+  lines:
+  - I would have told you,
+  - but I promised not to tell.
+  start: !human_time '00:31:15.000'
+- end: !human_time '00:31:19.000'
+  lines:
+  - I'm sorry.
+  start: !human_time '00:31:18.000'
+- end: !human_time '00:31:21.000'
+  lines:
+  - But it's over now, right?
+  start: !human_time '00:31:19.000'
+- end: !human_time '00:31:25.000'
+  lines:
+  - You can tell them you know they know,
+  - and I can go back to knowing nothing!
+  start: !human_time '00:31:21.000'
+- end: !human_time '00:31:28.000'
+  lines:
+  - Unless--
+  start: !human_time '00:31:27.000'
+- end: !human_time '00:31:31.000'
+  lines:
+  - Not "unless" !
+  - This must end now!
+  start: !human_time '00:31:29.000'
+- end: !human_time '00:31:35.000'
+  lines:
+  - They think they are so slick
+  - messing with us.
+  start: !human_time '00:31:31.000'
+- end: !human_time '00:31:38.000'
+  lines:
+  - But they don't know
+  - that we know that they know.
+  start: !human_time '00:31:35.000'
+- end: !human_time '00:31:40.000'
+  lines:
+  - So--
+  start: !human_time '00:31:39.000'
+- end: !human_time '00:31:44.000'
+  lines:
+  - The messers become the messees!
+  start: !human_time '00:31:40.000'
+- end: !human_time '00:31:50.000'
+  lines:
+  - Honey, you got to stop
+  - torturing yourself.
+  start: !human_time '00:31:48.000'
+- end: !human_time '00:31:52.000'
+  lines:
+  - Why don't you find another apartment?
+  start: !human_time '00:31:50.000'
+- end: !human_time '00:31:55.000'
+  lines:
+  - I've already looked
+  - at 1 000 apartments this month.
+  start: !human_time '00:31:52.000'
+- end: !human_time '00:31:58.000'
+  lines:
+  - None of them even compares
+  - to that one.
+  start: !human_time '00:31:55.000'
+- end: !human_time '00:31:59.000'
+  lines:
+  - You know what?
+  start: !human_time '00:31:58.000'
+- end: !human_time '00:32:04.000'
+  lines:
+  - You should find out his hobbies
+  - and use that to bond with him.
+  start: !human_time '00:32:00.000'
+- end: !human_time '00:32:06.000'
+  lines:
+  - Like if I wanted something from Joey. . .
+  start: !human_time '00:32:04.000'
+- end: !human_time '00:32:10.000'
+  lines:
+  - . . .I would strike up a conversation
+  - about sandwiches. . .
+  start: !human_time '00:32:06.000'
+- end: !human_time '00:32:14.000'
+  lines:
+  - . . .or my underwear.
+  start: !human_time '00:32:12.000'
+- end: !human_time '00:32:16.000'
+  lines:
+  - I'm listening.
+  start: !human_time '00:32:15.000'
+- end: !human_time '00:32:21.000'
+  lines:
+  - That is a great idea!
+  start: !human_time '00:32:19.000'
+- end: !human_time '00:32:26.000'
+  lines:
+  - And I know Ugly Naked Guy because
+  - we've been watching him for five years.
+  start: !human_time '00:32:21.000'
+- end: !human_time '00:32:29.000'
+  lines:
+  - So that gives me back my edge!
+  start: !human_time '00:32:26.000'
+- end: !human_time '00:32:32.000'
+  lines:
+  - Let's see now.
+  - He had the trampoline.
+  start: !human_time '00:32:30.000'
+- end: !human_time '00:32:33.000'
+  lines:
+  - He broke that.
+  start: !human_time '00:32:32.000'
+- end: !human_time '00:32:37.000'
+  lines:
+  - -He had gravity boots.
+  - -He broke those too.
+  start: !human_time '00:32:34.000'
+- end: !human_time '00:32:40.000'
+  lines:
+  - So he likes to break stuff.
+  start: !human_time '00:32:37.000'
+- end: !human_time '00:32:46.000'
+  lines:
+  - I've got to go pick up Ben.
+  - But I will figure something out.
+  start: !human_time '00:32:43.000'
+- end: !human_time '00:32:48.000'
+  lines:
+  - Didn't he used to have a cat?
+  start: !human_time '00:32:47.000'
+- end: !human_time '00:32:51.000'
+  lines:
+  - I wouldn't bring that up.
+  - It would bum him out.
+  start: !human_time '00:32:49.000'
+- end: !human_time '00:32:54.000'
+  lines:
+  - Poor cat never saw
+  - that big butt coming.
+  start: !human_time '00:32:51.000'
+- end: !human_time '00:33:02.000'
+  lines:
+  - Hold on a second,
+  - she's right here.
+  start: !human_time '00:33:00.000'
+- end: !human_time '00:33:03.000'
+  lines:
+  - It's Chandler.
+  start: !human_time '00:33:02.000'
+- end: !human_time '00:33:08.000'
+  lines:
+  - Hello, you.
+  start: !human_time '00:33:07.000'
+- end: !human_time '00:33:11.000'
+  lines:
+  - Phoebe, I've been thinking
+  - about you all day.
+  start: !human_time '00:33:09.000'
+- end: !human_time '00:33:18.000'
+  lines:
+  - You know that thing you said before?
+  - I was intrigued.
+  start: !human_time '00:33:15.000'
+- end: !human_time '00:33:20.000'
+  lines:
+  - Really?
+  start: !human_time '00:33:19.000'
+- end: !human_time '00:33:21.000'
+  lines:
+  - Joey won't be here tonight.
+  start: !human_time '00:33:20.000'
+- end: !human_time '00:33:25.000'
+  lines:
+  - Why don't you come over?
+  - I'll let you feel my bicep.
+  start: !human_time '00:33:22.000'
+- end: !human_time '00:33:27.000'
+  lines:
+  - Or maybe more.
+  start: !human_time '00:33:26.000'
+- end: !human_time '00:33:32.000'
+  lines:
+  - I'll have to get back to you on that.
+  start: !human_time '00:33:30.000'
+- end: !human_time '00:33:38.000'
+  lines:
+  - He wants me to come over
+  - and feel his bicep and more!
+  start: !human_time '00:33:34.000'
+- end: !human_time '00:33:40.000'
+  lines:
+  - Are you kidding?
+  start: !human_time '00:33:39.000'
+- end: !human_time '00:33:42.000'
+  lines:
+  - I cannot believe
+  - he would do that to Mon--
+  start: !human_time '00:33:40.000'
+- end: !human_time '00:33:53.000'
+  lines:
+  - Joey? Do they know that we know?
+  start: !human_time '00:33:51.000'
+- end: !human_time '00:33:57.000'
+  lines:
+  - They know you know.
+  start: !human_time '00:33:56.000'
+- end: !human_time '00:33:59.000'
+  lines:
+  - I knew it!
+  start: !human_time '00:33:57.000'
+- end: !human_time '00:34:02.000'
+  lines:
+  - I cannot believe those two!
+  start: !human_time '00:34:00.000'
+- end: !human_time '00:34:05.000'
+  lines:
+  - They thought they could mess with us?
+  - Trying to mess with us?
+  start: !human_time '00:34:02.000'
+- end: !human_time '00:34:11.000'
+  lines:
+  - They don't know that we know
+  - they know we know.
+  start: !human_time '00:34:08.000'
+- end: !human_time '00:34:14.000'
+  lines:
+  - Joey, you can't say anything.
+  start: !human_time '00:34:12.000'
+- end: !human_time '00:34:16.000'
+  lines:
+  - Couldn't if I wanted to.
+  start: !human_time '00:34:14.000'
+- end: !human_time '00:34:28.000'
+  lines:
+  - Good evening, sir. I'm Ross Geller.
+  - I'm one of the applicants.
+  start: !human_time '00:34:23.000'
+- end: !human_time '00:34:32.000'
+  lines:
+  - I realize that the competition
+  - is fierce but. . . .
+  start: !human_time '00:34:28.000'
+- end: !human_time '00:34:38.000'
+  lines:
+  - I'm sorry, I can't help but notice
+  - that you're naked.
+  start: !human_time '00:34:33.000'
+- end: !human_time '00:34:43.000'
+  lines:
+  - I applaud you.
+  start: !human_time '00:34:41.000'
+- end: !human_time '00:34:46.000'
+  lines:
+  - Man, I wish I was naked.
+  start: !human_time '00:34:43.000'
+- end: !human_time '00:34:49.000'
+  lines:
+  - I mean, this looks so great.
+  start: !human_time '00:34:46.000'
+- end: !human_time '00:34:52.000'
+  lines:
+  - That is how God intended it.
+  start: !human_time '00:34:50.000'
+- end: !human_time '00:34:56.000'
+  lines:
+  - Look. They're panicked!
+  start: !human_time '00:34:55.000'
+- end: !human_time '00:34:58.000'
+  lines:
+  - They'll totally back down.
+  start: !human_time '00:34:56.000'
+- end: !human_time '00:35:02.000'
+  lines:
+  - If he wants a date,
+  - he's going to get a date.
+  start: !human_time '00:35:00.000'
+- end: !human_time '00:35:04.000'
+  lines:
+  - I'm going to go in.
+  start: !human_time '00:35:03.000'
+- end: !human_time '00:35:06.000'
+  lines:
+  - Be sexy.
+  start: !human_time '00:35:04.000'
+- end: !human_time '00:35:08.000'
+  lines:
+  - Please.
+  start: !human_time '00:35:07.000'
+- end: !human_time '00:35:21.000'
+  lines:
+  - I'd love to come by tonight.
+  start: !human_time '00:35:19.000'
+- end: !human_time '00:35:26.000'
+  lines:
+  - Really?
+  start: !human_time '00:35:25.000'
+- end: !human_time '00:35:28.000'
+  lines:
+  - Absolutely.
+  - Say, around seven?
+  start: !human_time '00:35:26.000'
+- end: !human_time '00:35:36.000'
+  lines:
+  - I'm really looking forward to you
+  - and me having sexual intercourse.
+  start: !human_time '00:35:33.000'
+- end: !human_time '00:35:44.000'
+  lines:
+  - Hey, check it out!
+  start: !human_time '00:35:42.000'
+- end: !human_time '00:35:46.000'
+  lines:
+  - Naked Guy's got a naked friend.
+  start: !human_time '00:35:44.000'
+- end: !human_time '00:35:57.000'
+  lines:
+  - Oh, my God!
+  - That's our friend!
+  start: !human_time '00:35:54.000'
+- end: !human_time '00:36:00.000'
+  lines:
+  - It's Naked Ross!
+  start: !human_time '00:35:58.000'
+- end: !human_time '00:36:07.000'
+  lines:
+  - Showtime!
+  start: !human_time '00:36:06.000'
+- end: !human_time '00:36:09.000'
+  lines:
+  - Rachel, get me perfume.
+  start: !human_time '00:36:08.000'
+- end: !human_time '00:36:12.000'
+  lines:
+  - Joey, can you get me
+  - a bottle of wine and glasses?
+  start: !human_time '00:36:09.000'
+- end: !human_time '00:36:23.000'
+  lines:
+  - Make her think you want to have
+  - sex with her and it will freak her out.
+  start: !human_time '00:36:19.000'
+- end: !human_time '00:36:27.000'
+  lines:
+  - How far would I have to go with her?
+  start: !human_time '00:36:25.000'
+- end: !human_time '00:36:29.000'
+  lines:
+  - She'll give in way before you do.
+  start: !human_time '00:36:27.000'
+- end: !human_time '00:36:30.000'
+  lines:
+  - How do you know?
+  start: !human_time '00:36:29.000'
+- end: !human_time '00:36:34.000'
+  lines:
+  - Because you're on my team.
+  - My team always wins.
+  start: !human_time '00:36:30.000'
+- end: !human_time '00:36:37.000'
+  lines:
+  - At this?
+  start: !human_time '00:36:35.000'
+- end: !human_time '00:36:40.000'
+  lines:
+  - Just go get some! Go!
+  start: !human_time '00:36:37.000'
+- end: !human_time '00:36:44.000'
+  lines:
+  - Now, I'm going to try to listen
+  - from right here.
+  start: !human_time '00:36:42.000'
+- end: !human_time '00:36:46.000'
+  lines:
+  - Oh, wait.
+  start: !human_time '00:36:44.000'
+- end: !human_time '00:36:48.000'
+  lines:
+  - Good idea.
+  start: !human_time '00:36:46.000'
+- end: !human_time '00:36:50.000'
+  lines:
+  - Don't give away the farm.
+  start: !human_time '00:36:48.000'
+- end: !human_time '00:37:01.000'
+  lines:
+  - Come on in.
+  start: !human_time '00:37:00.000'
+- end: !human_time '00:37:03.000'
+  lines:
+  - I was going to.
+  start: !human_time '00:37:02.000'
+- end: !human_time '00:37:08.000'
+  lines:
+  - I brought some wine.
+  - Would you like some?
+  start: !human_time '00:37:06.000'
+- end: !human_time '00:37:10.000'
+  lines:
+  - Sure.
+  start: !human_time '00:37:08.000'
+- end: !human_time '00:37:19.000'
+  lines:
+  - So here we are.
+  start: !human_time '00:37:17.000'
+- end: !human_time '00:37:20.000'
+  lines:
+  - Nervous?
+  start: !human_time '00:37:19.000'
+- end: !human_time '00:37:22.000'
+  lines:
+  - Me? No. You?
+  start: !human_time '00:37:20.000'
+- end: !human_time '00:37:24.000'
+  lines:
+  - I want this to happen.
+  start: !human_time '00:37:22.000'
+- end: !human_time '00:37:27.000'
+  lines:
+  - So do l.
+  start: !human_time '00:37:26.000'
+- end: !human_time '00:37:42.000'
+  lines:
+  - I'm going to put on some music.
+  start: !human_time '00:37:40.000'
+- end: !human_time '00:37:45.000'
+  lines:
+  - Maybe I'll dance for you.
+  start: !human_time '00:37:42.000'
+- end: !human_time '00:38:05.000'
+  lines:
+  - You look good.
+  start: !human_time '00:38:04.000'
+- end: !human_time '00:38:08.000'
+  lines:
+  - Thanks.
+  start: !human_time '00:38:07.000'
+- end: !human_time '00:38:12.000'
+  lines:
+  - You know, when you say
+  - things like that, it makes me. . .
+  start: !human_time '00:38:09.000'
+- end: !human_time '00:38:16.000'
+  lines:
+  - . . .want to rip that
+  - sweater vest right off.
+  start: !human_time '00:38:13.000'
+- end: !human_time '00:38:20.000'
+  lines:
+  - Why don't we move into the bedroom?
+  start: !human_time '00:38:18.000'
+- end: !human_time '00:38:21.000'
+  lines:
+  - Really?
+  start: !human_time '00:38:20.000'
+- end: !human_time '00:38:23.000'
+  lines:
+  - Do you not want to?
+  start: !human_time '00:38:21.000'
+- end: !human_time '00:38:28.000'
+  lines:
+  - First I want to take off
+  - all my clothes. . .
+  start: !human_time '00:38:25.000'
+- end: !human_time '00:38:31.000'
+  lines:
+  - . . .and have you rub lotion on me.
+  start: !human_time '00:38:28.000'
+- end: !human_time '00:38:34.000'
+  lines:
+  - That would be nice.
+  start: !human_time '00:38:32.000'
+- end: !human_time '00:38:38.000'
+  lines:
+  - I'll go get the lotion.
+  start: !human_time '00:38:36.000'
+- end: !human_time '00:38:45.000'
+  lines:
+  - It's way out of hand.
+  - She wants me to put lotion on her!
+  start: !human_time '00:38:42.000'
+- end: !human_time '00:38:48.000'
+  lines:
+  - -She's bluffing!
+  - -She's not backing down.
+  start: !human_time '00:38:45.000'
+- end: !human_time '00:38:50.000'
+  lines:
+  - She went like this--
+  start: !human_time '00:38:48.000'
+- end: !human_time '00:38:55.000'
+  lines:
+  - He's not backing down.
+  - He went to get lotion.
+  start: !human_time '00:38:52.000'
+- end: !human_time '00:38:59.000'
+  lines:
+  - Aren't you guys done yet?
+  start: !human_time '00:38:57.000'
+- end: !human_time '00:39:02.000'
+  lines:
+  - I want to sit in my chair!
+  start: !human_time '00:39:00.000'
+- end: !human_time '00:39:07.000'
+  lines:
+  - The sooner Phoebe breaks him, the sooner
+  - it's over and out in the open.
+  start: !human_time '00:39:02.000'
+- end: !human_time '00:39:09.000'
+  lines:
+  - I like that.
+  start: !human_time '00:39:08.000'
+- end: !human_time '00:39:14.000'
+  lines:
+  - Show him your bra.
+  - He's afraid of bras. Can't work them.
+  start: !human_time '00:39:10.000'
+- end: !human_time '00:39:22.000'
+  lines:
+  - You didn't rip off any buttons.
+  start: !human_time '00:39:21.000'
+- end: !human_time '00:39:25.000'
+  lines:
+  - It's not my first time.
+  start: !human_time '00:39:24.000'
+- end: !human_time '00:39:30.000'
+  lines:
+  - Go back there and seduce her
+  - till she cracks!
+  start: !human_time '00:39:27.000'
+- end: !human_time '00:39:32.000'
+  lines:
+  - Give me a second.
+  start: !human_time '00:39:30.000'
+- end: !human_time '00:39:35.000'
+  lines:
+  - -Did you clean up in here?
+  - -Of course!
+  start: !human_time '00:39:32.000'
+- end: !human_time '00:39:42.000'
+  lines:
+  - You're going?
+  start: !human_time '00:39:41.000'
+- end: !human_time '00:39:44.000'
+  lines:
+  - Not without you, lover.
+  start: !human_time '00:39:43.000'
+- end: !human_time '00:39:52.000'
+  lines:
+  - So, this is my bra.
+  start: !human_time '00:39:49.000'
+- end: !human_time '00:39:58.000'
+  lines:
+  - It's very, very nice.
+  start: !human_time '00:39:56.000'
+- end: !human_time '00:40:02.000'
+  lines:
+  - Well, come here.
+  start: !human_time '00:40:00.000'
+- end: !human_time '00:40:05.000'
+  lines:
+  - I'm very happy we're going
+  - to have all the sex.
+  start: !human_time '00:40:03.000'
+- end: !human_time '00:40:10.000'
+  lines:
+  - You should be.
+  - I'm very bendy.
+  start: !human_time '00:40:07.000'
+- end: !human_time '00:40:16.000'
+  lines:
+  - I'll kiss you now.
+  start: !human_time '00:40:15.000'
+- end: !human_time '00:40:18.000'
+  lines:
+  - Not if I kiss you first.
+  start: !human_time '00:40:16.000'
+- end: !human_time '00:40:40.000'
+  lines:
+  - I guess there's nothing
+  - left for us to do but kiss.
+  start: !human_time '00:40:37.000'
+- end: !human_time '00:40:42.000'
+  lines:
+  - Here it comes.
+  start: !human_time '00:40:41.000'
+- end: !human_time '00:40:45.000'
+  lines:
+  - Our first kiss.
+  start: !human_time '00:40:44.000'
+- end: !human_time '00:40:56.000'
+  lines:
+  - You win!
+  start: !human_time '00:40:55.000'
+- end: !human_time '00:40:58.000'
+  lines:
+  - I can't have sex with you!
+  start: !human_time '00:40:57.000'
+- end: !human_time '00:41:00.000'
+  lines:
+  - -And why not?
+  - -I'm in love with Monica!
+  start: !human_time '00:40:58.000'
+- end: !human_time '00:41:02.000'
+  lines:
+  - You're what?
+  start: !human_time '00:41:01.000'
+- end: !human_time '00:41:05.000'
+  lines:
+  - Love her!
+  start: !human_time '00:41:04.000'
+- end: !human_time '00:41:07.000'
+  lines:
+  - I love her!
+  start: !human_time '00:41:05.000'
+- end: !human_time '00:41:09.000'
+  lines:
+  - I love her!
+  start: !human_time '00:41:07.000'
+- end: !human_time '00:41:15.000'
+  lines:
+  - I love you, Monica.
+  start: !human_time '00:41:14.000'
+- end: !human_time '00:41:18.000'
+  lines:
+  - I love you too, Chandler.
+  start: !human_time '00:41:16.000'
+- end: !human_time '00:41:27.000'
+  lines:
+  - I thought you were doing it.
+  - I didn't know you were in love!
+  start: !human_time '00:41:24.000'
+- end: !human_time '00:41:31.000'
+  lines:
+  - Dude!
+  start: !human_time '00:41:30.000'
+- end: !human_time '00:41:35.000'
+  lines:
+  - Hats off to Phoebe.
+  - Quite a competitor.
+  start: !human_time '00:41:33.000'
+- end: !human_time '00:41:39.000'
+  lines:
+  - May I say your breasts
+  - are still showing?
+  start: !human_time '00:41:37.000'
+- end: !human_time '00:41:40.000'
+  lines:
+  - God.
+  start: !human_time '00:41:39.000'
+- end: !human_time '00:41:43.000'
+  lines:
+  - All right!
+  - So that's it?
+  start: !human_time '00:41:42.000'
+- end: !human_time '00:41:45.000'
+  lines:
+  - It's over.
+  - Everybody knows!
+  start: !human_time '00:41:43.000'
+- end: !human_time '00:41:47.000'
+  lines:
+  - Actually, Ross doesn't.
+  start: !human_time '00:41:45.000'
+- end: !human_time '00:41:49.000'
+  lines:
+  - We'd appreciate it
+  - if no one told him yet.
+  start: !human_time '00:41:47.000'
+- end: !human_time '00:41:59.000'
+  lines:
+  - A new place for a new Ross.
+  start: !human_time '00:41:57.000'
+- end: !human_time '00:42:03.000'
+  lines:
+  - I'll have you and the guys from work
+  - over, once it's furnished.
+  start: !human_time '00:41:59.000'
+- end: !human_time '00:42:05.000'
+  lines:
+  - It's nice to see you
+  - back on your feet.
+  start: !human_time '00:42:03.000'
+- end: !human_time '00:42:09.000'
+  lines:
+  - I am that, and the whole rage thing
+  - is definitely behind me.
+  start: !human_time '00:42:05.000'
+- end: !human_time '00:42:12.000'
+  lines:
+  - I wonder if it's time for you
+  - to rejoin our museum team?
+  start: !human_time '00:42:09.000'
+- end: !human_time '00:42:14.000'
+  lines:
+  - That would be great.
+  start: !human_time '00:42:12.000'
+- end: !human_time '00:42:17.000'
+  lines:
+  - I am totally ready
+  - to come back to work.
+  start: !human_time '00:42:14.000'
+- end: !human_time '00:42:25.000'
+  lines:
+  - What are you doing?
+  start: !human_time '00:42:23.000'
+- end: !human_time '00:42:29.000'
+  lines:
+  - Get off my sister!
+  start: !human_time '00:42:26.000'
+- end: !human_time '00:42:46.000'
+  lines:
+  - Chandler! Chandler!
+  start: !human_time '00:42:44.000'
+- end: !human_time '00:42:52.000'
+  lines:
+  - I saw what you were doing
+  - in the window!
+  start: !human_time '00:42:50.000'
+- end: !human_time '00:42:55.000'
+  lines:
+  - I saw what you're doing to my sister!
+  - Get out here!
+  start: !human_time '00:42:52.000'
+- end: !human_time '00:42:59.000'
+  lines:
+  - Listen, we had a good run.
+  start: !human_time '00:42:57.000'
+- end: !human_time '00:43:01.000'
+  lines:
+  - What was it?
+  - Four, five months?
+  start: !human_time '00:42:59.000'
+- end: !human_time '00:43:04.000'
+  lines:
+  - That's more than most people
+  - have in a lifetime. Goodbye.
+  start: !human_time '00:43:01.000'
+- end: !human_time '00:43:09.000'
+  lines:
+  - -What are you doing?
+  - -I am going on the lam.
+  start: !human_time '00:43:06.000'
+- end: !human_time '00:43:12.000'
+  lines:
+  - Come on, Chandler.
+  - I can handle Ross.
+  start: !human_time '00:43:09.000'
+- end: !human_time '00:43:14.000'
+  lines:
+  - Hold on!
+  start: !human_time '00:43:13.000'
+- end: !human_time '00:43:19.000'
+  lines:
+  - Hey, Ross.
+  - What's up, bro?
+  start: !human_time '00:43:17.000'
+- end: !human_time '00:43:25.000'
+  lines:
+  - What the hell are you doing?
+  start: !human_time '00:43:21.000'
+- end: !human_time '00:43:26.000'
+  lines:
+  - What's going on?
+  start: !human_time '00:43:25.000'
+- end: !human_time '00:43:30.000'
+  lines:
+  - I think Ross knows
+  - about me and Monica.
+  start: !human_time '00:43:26.000'
+- end: !human_time '00:43:33.000'
+  lines:
+  - Dude, he's right there.
+  start: !human_time '00:43:31.000'
+- end: !human_time '00:43:39.000'
+  lines:
+  - I thought you were my best friend!
+  - This is my sister!
+  start: !human_time '00:43:36.000'
+- end: !human_time '00:43:42.000'
+  lines:
+  - My best friend and my sister!
+  - I cannot believe this!
+  start: !human_time '00:43:39.000'
+- end: !human_time '00:43:46.000'
+  lines:
+  - We're not just messing around.
+  - I love her.
+  start: !human_time '00:43:42.000'
+- end: !human_time '00:43:47.000'
+  lines:
+  - I'm in love with her.
+  start: !human_time '00:43:46.000'
+- end: !human_time '00:43:51.000'
+  lines:
+  - I'm so sorry that you
+  - had to find out this way.
+  start: !human_time '00:43:49.000'
+- end: !human_time '00:43:55.000'
+  lines:
+  - I'm sorry, but it's true.
+  - I love him too.
+  start: !human_time '00:43:52.000'
+- end: !human_time '00:44:04.000'
+  lines:
+  - My best friend and my sister!
+  start: !human_time '00:44:02.000'
+- end: !human_time '00:44:09.000'
+  lines:
+  - I cannot believe this!
+  start: !human_time '00:44:07.000'
+- end: !human_time '00:44:15.000'
+  lines:
+  - You guys want to probably
+  - get some hugs in too. Big news!
+  start: !human_time '00:44:11.000'
+- end: !human_time '00:44:18.000'
+  lines:
+  - We've actually known for a while.
+  start: !human_time '00:44:16.000'
+- end: !human_time '00:44:24.000'
+  lines:
+  - What? You guys knew?
+  start: !human_time '00:44:22.000'
+- end: !human_time '00:44:27.000'
+  lines:
+  - You all knew and
+  - you didn't tell me?
+  start: !human_time '00:44:25.000'
+- end: !human_time '00:44:32.000'
+  lines:
+  - We were worried about you. We didn't
+  - know how you were going to react.
+  start: !human_time '00:44:27.000'
+- end: !human_time '00:44:38.000'
+  lines:
+  - You were worried about me?
+  start: !human_time '00:44:35.000'
+- end: !human_time '00:44:40.000'
+  lines:
+  - You didn't know how I'd react?
+  start: !human_time '00:44:39.000'
+- end: !human_time '00:44:46.000'
+  lines:
+  - Okay. All right.
+  start: !human_time '00:44:43.000'
+- end: !human_time '00:44:50.000'
+  lines:
+  - Let's clear out of here and let
+  - these love birds get back to business.
+  start: !human_time '00:44:46.000'
+- end: !human_time '00:44:56.000'
+  lines:
+  - I'm just talking here.
+  - He's the one doing your sister.
+  start: !human_time '00:44:53.000'
+- end: !human_time '00:45:02.000'
+  lines:
+  - The One with the Girl Who Hits Joey
+  start: !human_time '00:44:59.000'
+- end: !human_time '00:45:04.000'
+  lines:
+  - English Subtitles by
+  - GELULA & CO., INC.
+  start: !human_time '00:45:03.000'
+- end: !human_time '00:45:39.000'
+  lines:
+  - You know what I just realized?
+  start: !human_time '00:45:38.000'
+- end: !human_time '00:45:41.000'
+  lines:
+  - If you guys have kids--
+  start: !human_time '00:45:39.000'
+- end: !human_time '00:45:42.000'
+  lines:
+  - We're having kids?
+  start: !human_time '00:45:41.000'
+- end: !human_time '00:45:44.000'
+  lines:
+  - I call godfather!
+  start: !human_time '00:45:42.000'
+- end: !human_time '00:45:48.000'
+  lines:
+  - You can't just call godfather.
+  start: !human_time '00:45:45.000'
+- end: !human_time '00:45:51.000'
+  lines:
+  - Shouldn't her brother be godfather?
+  start: !human_time '00:45:49.000'
+- end: !human_time '00:45:54.000'
+  lines:
+  - Sure. If you cared enough
+  - to call it first.
+  start: !human_time '00:45:52.000'
+- end: !human_time '00:46:00.000'
+  lines:
+  - -You're a few steps ahead of us.
+  - -Big zero gravity moon steps.
+  start: !human_time '00:45:55.000'
+- end: !human_time '00:46:03.000'
+  lines:
+  - I just thought of
+  - the greatest wedding gift.
+  start: !human_time '00:46:00.000'
+- end: !human_time '00:46:05.000'
+  lines:
+  - I'll go in on that with you.
+  - I couldn't decide.
+  start: !human_time '00:46:03.000'
+- end: !human_time '00:46:09.000'
+  lines:
+  - Hey, Katie.
+  start: !human_time '00:46:08.000'
+- end: !human_time '00:46:11.000'
+  lines:
+  - This is Katie.
+  start: !human_time '00:46:10.000'
+- end: !human_time '00:46:12.000'
+  lines:
+  - You ready to go?
+  start: !human_time '00:46:11.000'
+- end: !human_time '00:46:14.000'
+  lines:
+  - I'll run to the bathroom.
+  start: !human_time '00:46:12.000'
+- end: !human_time '00:46:15.000'
+  lines:
+  - Where's lunch?
+  start: !human_time '00:46:15.000'
+- end: !human_time '00:46:17.000'
+  lines:
+  - I was thinking Chinese food.
+  start: !human_time '00:46:16.000'
+- end: !human_time '00:46:19.000'
+  lines:
+  - I love Chinese!
+  start: !human_time '00:46:18.000'
+- end: !human_time '00:46:22.000'
+  lines:
+  - How did you know I love Chinese?
+  start: !human_time '00:46:19.000'
+- end: !human_time '00:46:27.000'
+  lines:
+  - She is so cute.
+  start: !human_time '00:46:25.000'
+- end: !human_time '00:46:29.000'
+  lines:
+  - You could fit her
+  - in your pocket.
+  start: !human_time '00:46:27.000'
+- end: !human_time '00:46:34.000'
+  lines:
+  - I don't know. I like her a lot,
+  - and she's really nice, but. . . .
+  start: !human_time '00:46:30.000'
+- end: !human_time '00:46:36.000'
+  lines:
+  - But what?
+  start: !human_time '00:46:34.000'
+- end: !human_time '00:46:39.000'
+  lines:
+  - She keeps punching me.
+  start: !human_time '00:46:37.000'
+- end: !human_time '00:46:44.000'
+  lines:
+  - In the cute little,
+  - sweet way she just did?
+  start: !human_time '00:46:41.000'
+- end: !human_time '00:46:47.000'
+  lines:
+  - It's a lot harder than it looks.
+  start: !human_time '00:46:44.000'
+- end: !human_time '00:46:50.000'
+  lines:
+  - She's hurting me.
+  start: !human_time '00:46:48.000'
+- end: !human_time '00:46:53.000'
+  lines:
+  - I know what you need.
+  - You need a bodyguard.
+  start: !human_time '00:46:51.000'
+- end: !human_time '00:46:55.000'
+  lines:
+  - What is Ben doing after preschool?
+  start: !human_time '00:46:53.000'
+- end: !human_time '00:47:02.000'
+  lines:
+  - Joey is having a problem.
+  - A little girl is beating him up.
+  start: !human_time '00:46:57.000'
+- end: !human_time '00:47:04.000'
+  lines:
+  - Joey, come here.
+  start: !human_time '00:47:03.000'
+- end: !human_time '00:47:08.000'
+  lines:
+  - Honey, I know. This must be
+  - really difficult for you, and--
+  start: !human_time '00:47:05.000'
+- end: !human_time '00:47:10.000'
+  lines:
+  - I'm sorry, am I hurting you?
+  start: !human_time '00:47:08.000'
+- end: !human_time '00:47:23.000'
+  lines:
+  - I brought you some housewarming gifts.
+  start: !human_time '00:47:21.000'
+- end: !human_time '00:47:26.000'
+  lines:
+  - Salt, so your life always has flavor.
+  start: !human_time '00:47:23.000'
+- end: !human_time '00:47:29.000'
+  lines:
+  - Bread, so you never go hungry.
+  start: !human_time '00:47:26.000'
+- end: !human_time '00:47:32.000'
+  lines:
+  - And a scented candle for the bathroom.
+  start: !human_time '00:47:29.000'
+- end: !human_time '00:47:34.000'
+  lines:
+  - Because, well, you know.
+  start: !human_time '00:47:32.000'
+- end: !human_time '00:47:39.000'
+  lines:
+  - Thanks. Thanks.
+  - And thanks, I guess.
+  start: !human_time '00:47:35.000'
+- end: !human_time '00:47:44.000'
+  lines:
+  - Welcome. I'm Steve Cera,
+  - President of the tenants' committee.
+  start: !human_time '00:47:41.000'
+- end: !human_time '00:47:47.000'
+  lines:
+  - Ross Geller.
+  - And this is my friend Phoebe.
+  start: !human_time '00:47:44.000'
+- end: !human_time '00:47:50.000'
+  lines:
+  - Mr. President.
+  start: !human_time '00:47:48.000'
+- end: !human_time '00:47:53.000'
+  lines:
+  - I came to talk to you
+  - about Howard.
+  start: !human_time '00:47:51.000'
+- end: !human_time '00:47:57.000'
+  lines:
+  - He is the handyman
+  - who's retiring next week.
+  start: !human_time '00:47:55.000'
+- end: !human_time '00:48:02.000'
+  lines:
+  - Everyone who lives here is kicking in
+  - $1 00 as a kind of a thank you.
+  start: !human_time '00:47:57.000'
+- end: !human_time '00:48:03.000'
+  lines:
+  - That's nice.
+  start: !human_time '00:48:02.000'
+- end: !human_time '00:48:05.000'
+  lines:
+  - Want to give me a check?
+  start: !human_time '00:48:04.000'
+- end: !human_time '00:48:12.000'
+  lines:
+  - Not now. You can
+  - slip it under my door.
+  start: !human_time '00:48:09.000'
+- end: !human_time '00:48:14.000'
+  lines:
+  - No, it's not that.
+  start: !human_time '00:48:12.000'
+- end: !human_time '00:48:16.000'
+  lines:
+  - I just moved in.
+  start: !human_time '00:48:14.000'
+- end: !human_time '00:48:20.000'
+  lines:
+  - Well, the guy's worked here
+  - for 25 years.
+  start: !human_time '00:48:17.000'
+- end: !human_time '00:48:23.000'
+  lines:
+  - Yes, but I've lived here
+  - for 25 minutes.
+  start: !human_time '00:48:20.000'
+- end: !human_time '00:48:29.000'
+  lines:
+  - Okay, I get it.
+  start: !human_time '00:48:27.000'
+- end: !human_time '00:48:33.000'
+  lines:
+  - Wait! Look, I'm sorry, it's just
+  - I've never even met Howard.
+  start: !human_time '00:48:29.000'
+- end: !human_time '00:48:36.000'
+  lines:
+  - I mean, I don't know Howard.
+  start: !human_time '00:48:34.000'
+- end: !human_time '00:48:39.000'
+  lines:
+  - Howard's the handyman.
+  start: !human_time '00:48:36.000'
+- end: !human_time '00:48:43.000'
+  lines:
+  - Yes, but to me he's just "man. "
+  start: !human_time '00:48:40.000'
+- end: !human_time '00:48:47.000'
+  lines:
+  - Okay. Fine. Whatever.
+  start: !human_time '00:48:44.000'
+- end: !human_time '00:48:50.000'
+  lines:
+  - Welcome to the building.
+  start: !human_time '00:48:47.000'
+- end: !human_time '00:48:54.000'
+  lines:
+  - Can you believe that guy?
+  start: !human_time '00:48:52.000'
+- end: !human_time '00:48:57.000'
+  lines:
+  - I really like his glasses.
+  start: !human_time '00:48:54.000'
+- end: !human_time '00:49:05.000'
+  lines:
+  - So then President Steve
+  - told everyone I was a cheapskate. . .
+  start: !human_time '00:49:02.000'
+- end: !human_time '00:49:07.000'
+  lines:
+  - . . .and now the whole building hates me.
+  start: !human_time '00:49:05.000'
+- end: !human_time '00:49:10.000'
+  lines:
+  - A little kid spit on my knee.
+  start: !human_time '00:49:07.000'
+- end: !human_time '00:49:12.000'
+  lines:
+  - You know what?
+  start: !human_time '00:49:11.000'
+- end: !human_time '00:49:15.000'
+  lines:
+  - I'll throw a party.
+  - For everyone in the building.
+  start: !human_time '00:49:12.000'
+- end: !human_time '00:49:19.000'
+  lines:
+  - And I'll sit them all down and
+  - explain that I am not a bad guy.
+  start: !human_time '00:49:15.000'
+- end: !human_time '00:49:22.000'
+  lines:
+  - I am not a cheap guy.
+  - I'm just a guy. . .
+  start: !human_time '00:49:19.000'
+- end: !human_time '00:49:24.000'
+  lines:
+  - . . .who stands up
+  - for what he believes in.
+  start: !human_time '00:49:22.000'
+- end: !human_time '00:49:27.000'
+  lines:
+  - A man with principles.
+  start: !human_time '00:49:25.000'
+- end: !human_time '00:49:29.000'
+  lines:
+  - Sounds like a fun party.
+  start: !human_time '00:49:27.000'
+- end: !human_time '00:49:35.000'
+  lines:
+  - If you want them to like you,
+  - why don't you just pay the $1 00?
+  start: !human_time '00:49:31.000'
+- end: !human_time '00:49:37.000'
+  lines:
+  - The party will cost you more.
+  start: !human_time '00:49:35.000'
+- end: !human_time '00:49:38.000'
+  lines:
+  - That doesn't matter!
+  start: !human_time '00:49:37.000'
+- end: !human_time '00:49:42.000'
+  lines:
+  - It's my principles!
+  - We're talking about my principles!
+  start: !human_time '00:49:39.000'
+- end: !human_time '00:49:45.000'
+  lines:
+  - I thought it was about
+  - your neighbors liking you.
+  start: !human_time '00:49:42.000'
+- end: !human_time '00:49:49.000'
+  lines:
+  - They'll like me once
+  - they come to my awesome par-tay.
+  start: !human_time '00:49:46.000'
+- end: !human_time '00:49:53.000'
+  lines:
+  - I gotta get some name tags.
+  start: !human_time '00:49:51.000'
+- end: !human_time '00:50:00.000'
+  lines:
+  - And that crazy party animal
+  - will be your brother-in-law.
+  start: !human_time '00:49:57.000'
+- end: !human_time '00:50:04.000'
+  lines:
+  - Very funny.
+  - But don't say that to Monica.
+  start: !human_time '00:50:01.000'
+- end: !human_time '00:50:06.000'
+  lines:
+  - Don't put any ideas in her head.
+  start: !human_time '00:50:04.000'
+- end: !human_time '00:50:11.000'
+  lines:
+  - You do realize that those ideas
+  - are probably already in Monica's head?
+  start: !human_time '00:50:07.000'
+- end: !human_time '00:50:13.000'
+  lines:
+  - Why?
+  start: !human_time '00:50:12.000'
+- end: !human_time '00:50:18.000'
+  lines:
+  - Well, because she loves you
+  - and because you love her.
+  start: !human_time '00:50:14.000'
+- end: !human_time '00:50:20.000'
+  lines:
+  - Yeah, so? What's
+  - that supposed to mean?
+  start: !human_time '00:50:18.000'
+- end: !human_time '00:50:25.000'
+  lines:
+  - Don't freak out! I'm telling you
+  - something you already know.
+  start: !human_time '00:50:21.000'
+- end: !human_time '00:50:28.000'
+  lines:
+  - She left Richard because
+  - he didn't want to have babies.
+  start: !human_time '00:50:25.000'
+- end: !human_time '00:50:33.000'
+  lines:
+  - And she is a woman. And she's
+  - almost 30. And, you know, it's Monica.
+  start: !human_time '00:50:28.000'
+- end: !human_time '00:50:36.000'
+  lines:
+  - I don't see it that way.
+  - 'I see two Monicas:'
+  start: !human_time '00:50:34.000'
+- end: !human_time '00:50:40.000'
+  lines:
+  - My friend who lives across
+  - the hall and wants a lot of babies.
+  start: !human_time '00:50:36.000'
+- end: !human_time '00:50:43.000'
+  lines:
+  - And the new Monica
+  - who I started to date.
+  start: !human_time '00:50:40.000'
+- end: !human_time '00:50:46.000'
+  lines:
+  - Now, who is to say what she wants?
+  start: !human_time '00:50:43.000'
+- end: !human_time '00:50:48.000'
+  lines:
+  - I'm right.
+  start: !human_time '00:50:47.000'
+- end: !human_time '00:50:50.000'
+  lines:
+  - Am I right?
+  start: !human_time '00:50:49.000'
+- end: !human_time '00:50:53.000'
+  lines:
+  - You're right.
+  start: !human_time '00:50:52.000'
+- end: !human_time '00:50:57.000'
+  lines:
+  - You're absolutely right.
+  - That makes everything different.
+  start: !human_time '00:50:54.000'
+- end: !human_time '00:51:00.000'
+  lines:
+  - It's not different, is it?
+  start: !human_time '00:50:58.000'
+- end: !human_time '00:51:02.000'
+  lines:
+  - Not unless "different"
+  - means the same.
+  start: !human_time '00:51:00.000'
+- end: !human_time '00:51:08.000'
+  lines:
+  - You were so funny with that waiter.
+  - You're such a nut!
+  start: !human_time '00:51:04.000'
+- end: !human_time '00:51:16.000'
+  lines:
+  - You know, breadstick fangs
+  - are always funny.
+  start: !human_time '00:51:14.000'
+- end: !human_time '00:51:20.000'
+  lines:
+  - No, you make them funny.
+  - You're the funny one!
+  start: !human_time '00:51:17.000'
+- end: !human_time '00:51:26.000'
+  lines:
+  - Look, Katie.
+  - Listen, we need to talk, okay?
+  start: !human_time '00:51:23.000'
+- end: !human_time '00:51:30.000'
+  lines:
+  - Look, I like you.
+  - I really do. I like you a lot.
+  start: !human_time '00:51:26.000'
+- end: !human_time '00:51:34.000'
+  lines:
+  - But sometimes when you
+  - playfully punch me like that. . .
+  start: !human_time '00:51:31.000'
+- end: !human_time '00:51:39.000'
+  lines:
+  - . . .it feels like I'm being hit
+  - with a very tiny but a very real bat!
+  start: !human_time '00:51:34.000'
+- end: !human_time '00:51:44.000'
+  lines:
+  - Like I could hurt you.
+  start: !human_time '00:51:42.000'
+- end: !human_time '00:51:46.000'
+  lines:
+  - Are you making fun of my size?
+  start: !human_time '00:51:44.000'
+- end: !human_time '00:51:50.000'
+  lines:
+  - Don't make fun of me
+  - because of my size!
+  start: !human_time '00:51:46.000'
+- end: !human_time '00:51:57.000'
+  lines:
+  - Isn't this great?
+  start: !human_time '00:51:55.000'
+- end: !human_time '00:52:00.000'
+  lines:
+  - Couldn't you just
+  - stay like this forever?
+  start: !human_time '00:51:57.000'
+- end: !human_time '00:52:06.000'
+  lines:
+  - Couldn't you just stay here forever?
+  start: !human_time '00:52:04.000'
+- end: !human_time '00:52:10.000'
+  lines:
+  - Yeah, here, somewhere else.
+  - You know, wherever.
+  start: !human_time '00:52:06.000'
+- end: !human_time '00:52:12.000'
+  lines:
+  - Are you okay?
+  start: !human_time '00:52:11.000'
+- end: !human_time '00:52:14.000'
+  lines:
+  - I'm cool.
+  start: !human_time '00:52:13.000'
+- end: !human_time '00:52:15.000'
+  lines:
+  - Casual.
+  start: !human_time '00:52:14.000'
+- end: !human_time '00:52:18.000'
+  lines:
+  - What are you doing?
+  start: !human_time '00:52:16.000'
+- end: !human_time '00:52:22.000'
+  lines:
+  - Just hanging out. Having fun
+  - with the girl that I'm seeing casually.
+  start: !human_time '00:52:18.000'
+- end: !human_time '00:52:26.000'
+  lines:
+  - Man, I knew it!
+  - I knew you'd do this.
+  start: !human_time '00:52:24.000'
+- end: !human_time '00:52:31.000'
+  lines:
+  - Get all freaked out because
+  - everybody was joking about marriage!
+  start: !human_time '00:52:27.000'
+- end: !human_time '00:52:35.000'
+  lines:
+  - Well, you do want
+  - all that stuff, right?
+  start: !human_time '00:52:32.000'
+- end: !human_time '00:52:36.000'
+  lines:
+  - You know what I want?
+  start: !human_time '00:52:35.000'
+- end: !human_time '00:52:39.000'
+  lines:
+  - Yes! You want babies!
+  - You have baby fever!
+  start: !human_time '00:52:36.000'
+- end: !human_time '00:52:42.000'
+  lines:
+  - I do not have baby fever!
+  start: !human_time '00:52:41.000'
+- end: !human_time '00:52:45.000'
+  lines:
+  - You're obsessed
+  - with babies and marriage. . .
+  start: !human_time '00:52:43.000'
+- end: !human_time '00:52:49.000'
+  lines:
+  - . . .and everything that's
+  - related to babies and marriage.
+  start: !human_time '00:52:46.000'
+- end: !human_time '00:52:54.000'
+  lines:
+  - Why don't we turn the heat
+  - down on this pressure cooker!
+  start: !human_time '00:52:50.000'
+- end: !human_time '00:52:57.000'
+  lines:
+  - Have you lost your mind?
+  start: !human_time '00:52:55.000'
+- end: !human_time '00:53:01.000'
+  lines:
+  - This isn't about me. This is about
+  - you and your weird commitment crap!
+  start: !human_time '00:52:57.000'
+- end: !human_time '00:53:06.000'
+  lines:
+  - I know you. I know the thoughts
+  - that you have in your head.
+  start: !human_time '00:53:01.000'
+- end: !human_time '00:53:08.000'
+  lines:
+  - You don't know everything.
+  start: !human_time '00:53:06.000'
+- end: !human_time '00:53:11.000'
+  lines:
+  - Did you know I'm going out
+  - with Rachel tonight instead of you?
+  start: !human_time '00:53:08.000'
+- end: !human_time '00:53:14.000'
+  lines:
+  - And that the only baby here is you?
+  start: !human_time '00:53:12.000'
+- end: !human_time '00:53:17.000'
+  lines:
+  - Did you know I can't even
+  - look at you now?
+  start: !human_time '00:53:14.000'
+- end: !human_time '00:53:20.000'
+  lines:
+  - I did not know that.
+  start: !human_time '00:53:19.000'
+- end: !human_time '00:53:29.000'
+  lines:
+  - It'll be okay, right?
+  - She won't leave me. This is fixable.
+  start: !human_time '00:53:25.000'
+- end: !human_time '00:53:31.000'
+  lines:
+  - -Yeah, sure.
+  - -Absolutely.
+  start: !human_time '00:53:29.000'
+- end: !human_time '00:53:32.000'
+  lines:
+  - By me?
+  start: !human_time '00:53:31.000'
+- end: !human_time '00:53:38.000'
+  lines:
+  - Unless you make some big gesture.
+  start: !human_time '00:53:36.000'
+- end: !human_time '00:53:39.000'
+  lines:
+  - Big, though.
+  start: !human_time '00:53:38.000'
+- end: !human_time '00:53:42.000'
+  lines:
+  - The missus!
+  start: !human_time '00:53:41.000'
+- end: !human_time '00:53:46.000'
+  lines:
+  - Gunther, can I get a coffee?
+  start: !human_time '00:53:44.000'
+- end: !human_time '00:53:48.000'
+  lines:
+  - To go.
+  start: !human_time '00:53:47.000'
+- end: !human_time '00:53:52.000'
+  lines:
+  - I still don't want to talk to you.
+  start: !human_time '00:53:50.000'
+- end: !human_time '00:53:54.000'
+  lines:
+  - Tell me how to make things right.
+  start: !human_time '00:53:52.000'
+- end: !human_time '00:53:56.000'
+  lines:
+  - That's what we do.
+  start: !human_time '00:53:55.000'
+- end: !human_time '00:53:59.000'
+  lines:
+  - I mess up, you tell me
+  - how to fix it and I do.
+  start: !human_time '00:53:56.000'
+- end: !human_time '00:54:02.000'
+  lines:
+  - And then you think I'm cute again.
+  start: !human_time '00:54:00.000'
+- end: !human_time '00:54:06.000'
+  lines:
+  - I'm really tired of being
+  - your relationship tutor.
+  start: !human_time '00:54:03.000'
+- end: !human_time '00:54:08.000'
+  lines:
+  - Figure this out for yourself.
+  start: !human_time '00:54:07.000'
+- end: !human_time '00:54:12.000'
+  lines:
+  - If you're afraid
+  - of a real relationship. . .
+  start: !human_time '00:54:10.000'
+- end: !human_time '00:54:14.000'
+  lines:
+  - . . .then don't be in one.
+  start: !human_time '00:54:12.000'
+- end: !human_time '00:54:53.000'
+  lines:
+  - Howard! Howard! Howard!
+  start: !human_time '00:54:51.000'
+- end: !human_time '00:55:07.000'
+  lines:
+  - Hi, Ross!
+  start: !human_time '00:55:05.000'
+- end: !human_time '00:55:10.000'
+  lines:
+  - What are you doing here?
+  start: !human_time '00:55:08.000'
+- end: !human_time '00:55:13.000'
+  lines:
+  - I thought this was your party,
+  - and it's a party for Howard.
+  start: !human_time '00:55:10.000'
+- end: !human_time '00:55:15.000'
+  lines:
+  - He's the sweetest little man.
+  start: !human_time '00:55:14.000'
+- end: !human_time '00:55:19.000'
+  lines:
+  - See you, Phoebe.
+  - And thanks for chipping in.
+  start: !human_time '00:55:17.000'
+- end: !human_time '00:55:21.000'
+  lines:
+  - Oh, sure.
+  start: !human_time '00:55:20.000'
+- end: !human_time '00:55:23.000'
+  lines:
+  - You chipped in?
+  start: !human_time '00:55:22.000'
+- end: !human_time '00:55:25.000'
+  lines:
+  - Yeah, $1 00.
+  start: !human_time '00:55:23.000'
+- end: !human_time '00:55:28.000'
+  lines:
+  - I can't believe you gave him money.
+  start: !human_time '00:55:26.000'
+- end: !human_time '00:55:32.000'
+  lines:
+  - I thought you agreed it was unreasonable
+  - that they asked me for that money.
+  start: !human_time '00:55:28.000'
+- end: !human_time '00:55:34.000'
+  lines:
+  - But they didn't ask me.
+  start: !human_time '00:55:32.000'
+- end: !human_time '00:55:38.000'
+  lines:
+  - I'm just the exotic, generous stranger.
+  - That's always fun to be.
+  start: !human_time '00:55:34.000'
+- end: !human_time '00:55:41.000'
+  lines:
+  - But you're making me look bad.
+  start: !human_time '00:55:39.000'
+- end: !human_time '00:55:44.000'
+  lines:
+  - No, I'm not! lf anything,
+  - I'm making you look better.
+  start: !human_time '00:55:41.000'
+- end: !human_time '00:55:48.000'
+  lines:
+  - They'll see you
+  - talking to me. I'm a hit.
+  start: !human_time '00:55:44.000'
+- end: !human_time '00:55:50.000'
+  lines:
+  - Hey, Pheebs!
+  start: !human_time '00:55:48.000'
+- end: !human_time '00:55:52.000'
+  lines:
+  - Hey, Ross.
+  start: !human_time '00:55:51.000'
+- end: !human_time '00:55:55.000'
+  lines:
+  - Maybe you two could
+  - switch apartments.
+  start: !human_time '00:55:52.000'
+- end: !human_time '00:55:57.000'
+  lines:
+  - Because Phoebe is more
+  - our kind of people.
+  start: !human_time '00:55:55.000'
+- end: !human_time '00:55:59.000'
+  lines:
+  - Think about it.
+  start: !human_time '00:55:57.000'
+- end: !human_time '00:56:04.000'
+  lines:
+  - Okay, my bad.
+  start: !human_time '00:56:02.000'
+- end: !human_time '00:56:22.000'
+  lines:
+  - You look big.
+  start: !human_time '00:56:20.000'
+- end: !human_time '00:56:24.000'
+  lines:
+  - Thanks, I've been working out.
+  start: !human_time '00:56:22.000'
+- end: !human_time '00:56:28.000'
+  lines:
+  - Listen, is it obvious
+  - I'm wearing six sweaters?
+  start: !human_time '00:56:25.000'
+- end: !human_time '00:56:32.000'
+  lines:
+  - But it's not obvious why.
+  start: !human_time '00:56:30.000'
+- end: !human_time '00:56:36.000'
+  lines:
+  - I'm breaking up with Katie,
+  - so I put on some extra padding.
+  start: !human_time '00:56:33.000'
+- end: !human_time '00:56:40.000'
+  lines:
+  - If she hits me when she is happy,
+  - can you imagine how hard she'll hit. . .
+  start: !human_time '00:56:36.000'
+- end: !human_time '00:56:43.000'
+  lines:
+  - . . .when I take away the Joey love?
+  start: !human_time '00:56:41.000'
+- end: !human_time '00:56:50.000'
+  lines:
+  - Hey, cute jacket.
+  start: !human_time '00:56:48.000'
+- end: !human_time '00:56:52.000'
+  lines:
+  - Thanks.
+  start: !human_time '00:56:50.000'
+- end: !human_time '00:56:54.000'
+  lines:
+  - -That's so sweet!
+  - -Ouch!
+  start: !human_time '00:56:52.000'
+- end: !human_time '00:57:02.000'
+  lines:
+  - Did Joey tell you to say that?
+  - You guys are too much!
+  start: !human_time '00:56:58.000'
+- end: !human_time '00:57:06.000'
+  lines:
+  - You know what?
+  - I got to tell you. . .
+  start: !human_time '00:57:04.000'
+- end: !human_time '00:57:09.000'
+  lines:
+  - . . .I think you're the one
+  - that is too much.
+  start: !human_time '00:57:07.000'
+- end: !human_time '00:57:13.000'
+  lines:
+  - Joey has the nicest friends.
+  start: !human_time '00:57:11.000'
+- end: !human_time '00:57:16.000'
+  lines:
+  - And the nicest girlfriend.
+  start: !human_time '00:57:14.000'
+- end: !human_time '00:57:20.000'
+  lines:
+  - You're so sweet!
+  start: !human_time '00:57:18.000'
+- end: !human_time '00:57:23.000'
+  lines:
+  - You're so sweet!
+  start: !human_time '00:57:21.000'
+- end: !human_time '00:57:32.000'
+  lines:
+  - She just kicked me.
+  start: !human_time '00:57:30.000'
+- end: !human_time '00:57:39.000'
+  lines:
+  - Aren't you going to do something?
+  start: !human_time '00:57:36.000'
+- end: !human_time '00:57:43.000'
+  lines:
+  - Do something or I'll walk
+  - out that door right now.
+  start: !human_time '00:57:40.000'
+- end: !human_time '00:57:47.000'
+  lines:
+  - Are you going to?
+  start: !human_time '00:57:45.000'
+- end: !human_time '00:58:11.000'
+  lines:
+  - This is a disaster.
+  - Can't I please just go?
+  start: !human_time '00:58:08.000'
+- end: !human_time '00:58:13.000'
+  lines:
+  - I'm talking you up to people.
+  start: !human_time '00:58:11.000'
+- end: !human_time '00:58:16.000'
+  lines:
+  - Give it some time, relax.
+  - Get something to eat.
+  start: !human_time '00:58:13.000'
+- end: !human_time '00:58:22.000'
+  lines:
+  - What did you tell them about me?
+  start: !human_time '00:58:20.000'
+- end: !human_time '00:58:26.000'
+  lines:
+  - I told them about you and Emily.
+  - Trying to get some sympathy.
+  start: !human_time '00:58:22.000'
+- end: !human_time '00:58:28.000'
+  lines:
+  - But you came off as the bad guy.
+  start: !human_time '00:58:26.000'
+- end: !human_time '00:58:31.000'
+  lines:
+  - I told it wrong.
+  start: !human_time '00:58:30.000'
+- end: !human_time '00:58:37.000'
+  lines:
+  - We should talk about that, because
+  - I don't understand what happened there.
+  start: !human_time '00:58:33.000'
+- end: !human_time '00:58:41.000'
+  lines:
+  - This cake is really good!
+  start: !human_time '00:58:39.000'
+- end: !human_time '00:58:43.000'
+  lines:
+  - Things are looking up.
+  start: !human_time '00:58:41.000'
+- end: !human_time '00:58:47.000'
+  lines:
+  - Oh, my God!
+  - Someone cut Howard's cake!
+  start: !human_time '00:58:43.000'
+- end: !human_time '00:58:53.000'
+  lines:
+  - Who would do a thing like that?
+  start: !human_time '00:58:51.000'
+- end: !human_time '00:59:00.000'
+  lines:
+  - 3-B.
+  start: !human_time '00:58:59.000'
+- end: !human_time '00:59:05.000'
+  lines:
+  - You got your free food.
+  - You ruined everyone's fun.
+  start: !human_time '00:59:02.000'
+- end: !human_time '00:59:07.000'
+  lines:
+  - Isn't it time you went home?
+  start: !human_time '00:59:05.000'
+- end: !human_time '00:59:12.000'
+  lines:
+  - Go back to 3-B, 3-B.
+  start: !human_time '00:59:09.000'
+- end: !human_time '00:59:16.000'
+  lines:
+  - Everyone, calm down!
+  - I have something that I'd like to say.
+  start: !human_time '00:59:13.000'
+- end: !human_time '00:59:20.000'
+  lines:
+  - Who here likes Ross?
+  start: !human_time '00:59:19.000'
+- end: !human_time '00:59:27.000'
+  lines:
+  - Of course you don't like him.
+  start: !human_time '00:59:25.000'
+- end: !human_time '00:59:29.000'
+  lines:
+  - He didn't give you any money.
+  start: !human_time '00:59:27.000'
+- end: !human_time '00:59:32.000'
+  lines:
+  - He raised his own hand
+  - when I asked, "Who likes Ross?"
+  start: !human_time '00:59:29.000'
+- end: !human_time '00:59:35.000'
+  lines:
+  - And he's wearing two name tags.
+  start: !human_time '00:59:33.000'
+- end: !human_time '00:59:42.000'
+  lines:
+  - I'll be honest. When I first met Ross,
+  - I didn't like him at all.
+  start: !human_time '00:59:38.000'
+- end: !human_time '00:59:47.000'
+  lines:
+  - Once I got to know him,
+  - I saw that he is really sweet. . .
+  start: !human_time '00:59:44.000'
+- end: !human_time '00:59:50.000'
+  lines:
+  - . . .and caring and very generous.
+  start: !human_time '00:59:47.000'
+- end: !human_time '00:59:54.000'
+  lines:
+  - All I'm saying is don't judge
+  - Ross before you get to know him.
+  start: !human_time '00:59:51.000'
+- end: !human_time '00:59:59.000'
+  lines:
+  - You know, I like all of you guys now.
+  - But when I first met you, you know?
+  start: !human_time '00:59:55.000'
+- end: !human_time '01:00:02.000'
+  lines:
+  - Kurt? I thought, abrasive drunk.
+  start: !human_time '00:59:59.000'
+- end: !human_time '01:00:05.000'
+  lines:
+  - Lola?
+  start: !human_time '01:00:04.000'
+- end: !human_time '01:00:07.000'
+  lines:
+  - Mind-numbingly stupid.
+  start: !human_time '01:00:05.000'
+- end: !human_time '01:00:13.000'
+  lines:
+  - You guys. Gold digger,
+  - cradle-robbing perv.
+  start: !human_time '01:00:10.000'
+- end: !human_time '01:00:18.000'
+  lines:
+  - So I think you all know what I mean.
+  start: !human_time '01:00:15.000'
+- end: !human_time '01:00:27.000'
+  lines:
+  - Obviously, I didn't think
+  - they would throw things.
+  start: !human_time '01:00:25.000'
+- end: !human_time '01:00:32.000'
+  lines:
+  - I thought if I kept insulting them
+  - you'd defend them.
+  start: !human_time '01:00:29.000'
+- end: !human_time '01:00:34.000'
+  lines:
+  - Then you'd look like the hero.
+  start: !human_time '01:00:33.000'
+- end: !human_time '01:00:39.000'
+  lines:
+  - See, I did not get that.
+  start: !human_time '01:00:37.000'
+- end: !human_time '01:00:46.000'
+  lines:
+  - Where's Monica? I need
+  - to talk to her, it's urgent.
+  start: !human_time '01:00:43.000'
+- end: !human_time '01:00:48.000'
+  lines:
+  - I'm Monica.
+  start: !human_time '01:00:47.000'
+- end: !human_time '01:00:50.000'
+  lines:
+  - I need to talk to you. It's urgent.
+  start: !human_time '01:00:48.000'
+- end: !human_time '01:00:53.000'
+  lines:
+  - I've been thinking. . .
+  start: !human_time '01:00:52.000'
+- end: !human_time '01:00:57.000'
+  lines:
+  - . . .about us. A lot of "us" thinking.
+  start: !human_time '01:00:53.000'
+- end: !human_time '01:01:01.000'
+  lines:
+  - I guess there's
+  - only one way to do this.
+  start: !human_time '01:00:58.000'
+- end: !human_time '01:01:07.000'
+  lines:
+  - What are you doing?
+  start: !human_time '01:01:05.000'
+- end: !human_time '01:01:09.000'
+  lines:
+  - Don't do it.
+  start: !human_time '01:01:08.000'
+- end: !human_time '01:01:11.000'
+  lines:
+  - Will you marry me?
+  start: !human_time '01:01:09.000'
+- end: !human_time '01:01:17.000'
+  lines:
+  - What a bad idea.
+  start: !human_time '01:01:14.000'
+- end: !human_time '01:01:19.000'
+  lines:
+  - I can't not look at it.
+  start: !human_time '01:01:17.000'
+- end: !human_time '01:01:23.000'
+  lines:
+  - Why are you doing this?
+  start: !human_time '01:01:21.000'
+- end: !human_time '01:01:24.000'
+  lines:
+  - I don't know.
+  start: !human_time '01:01:23.000'
+- end: !human_time '01:01:27.000'
+  lines:
+  - But I know I'm not afraid to do this.
+  start: !human_time '01:01:25.000'
+- end: !human_time '01:01:32.000'
+  lines:
+  - I'm doing this because I'm sorry?
+  start: !human_time '01:01:29.000'
+- end: !human_time '01:01:38.000'
+  lines:
+  - Do you think the best reason
+  - to get married is because you're sorry?
+  start: !human_time '01:01:34.000'
+- end: !human_time '01:01:40.000'
+  lines:
+  - The best reason is pregnancy.
+  start: !human_time '01:01:38.000'
+- end: !human_time '01:01:49.000'
+  lines:
+  - Sorry is fourth, behind being ready
+  - and actually wanting to get married.
+  start: !human_time '01:01:44.000'
+- end: !human_time '01:01:51.000'
+  lines:
+  - Will you be my wife?
+  start: !human_time '01:01:49.000'
+- end: !human_time '01:01:59.000'
+  lines:
+  - I want you to take a minute and think
+  - about how ridiculous this sounds.
+  start: !human_time '01:01:54.000'
+- end: !human_time '01:02:05.000'
+  lines:
+  - I'm kind of wishing
+  - everyone wasn't here now.
+  start: !human_time '01:02:02.000'
+- end: !human_time '01:02:09.000'
+  lines:
+  - None of that came from me.
+  start: !human_time '01:02:08.000'
+- end: !human_time '01:02:13.000'
+  lines:
+  - I never said I wanted to have babies
+  - and get married!
+  start: !human_time '01:02:10.000'
+- end: !human_time '01:02:16.000'
+  lines:
+  - I was really confused.
+  - Then I talked to these guys.
+  start: !human_time '01:02:13.000'
+- end: !human_time '01:02:19.000'
+  lines:
+  - Who? Two divorces and Joey?
+  start: !human_time '01:02:17.000'
+- end: !human_time '01:02:22.000'
+  lines:
+  - She's right, you know?
+  start: !human_time '01:02:21.000'
+- end: !human_time '01:02:27.000'
+  lines:
+  - Yeah, but still, cheap shot!
+  start: !human_time '01:02:24.000'
+- end: !human_time '01:02:31.000'
+  lines:
+  - You know when I said
+  - that I want you. . .
+  start: !human_time '01:02:28.000'
+- end: !human_time '01:02:34.000'
+  lines:
+  - . . .to deal with relationship stuff
+  - all on your own?
+  start: !human_time '01:02:31.000'
+- end: !human_time '01:02:36.000'
+  lines:
+  - You're not ready.
+  start: !human_time '01:02:34.000'
+- end: !human_time '01:02:38.000'
+  lines:
+  - I didn't think I was!
+  start: !human_time '01:02:36.000'
+- end: !human_time '01:02:44.000'
+  lines:
+  - Oh, my God.
+  start: !human_time '01:02:43.000'
+- end: !human_time '01:02:47.000'
+  lines:
+  - What would you have done
+  - if I had said yes?
+  start: !human_time '01:02:44.000'
+- end: !human_time '01:02:49.000'
+  lines:
+  - I would've been happy because. . .
+  start: !human_time '01:02:47.000'
+- end: !human_time '01:02:53.000'
+  lines:
+  - . . .I would spend the rest of
+  - my life with the woman I love.
+  start: !human_time '01:02:49.000'
+- end: !human_time '01:02:57.000'
+  lines:
+  - Or you would have seen
+  - a Chandler-shaped hole in that door.
+  start: !human_time '01:02:54.000'
+- end: !human_time '01:03:04.000'
+  lines:
+  - Will you pass that knife?
+  start: !human_time '01:03:03.000'
+- end: !human_time '01:03:06.000'
+  lines:
+  - No, I will not.
+  start: !human_time '01:03:05.000'
+- end: !human_time '01:03:09.000'
+  lines:
+  - You don't have to be mean about it.
+  start: !human_time '01:03:06.000'
+- end: !human_time '01:03:12.000'
+  lines:
+  - You're right. I'm sorry.
+  - Will you marry me?
+  start: !human_time '01:03:09.000'
+- end: !human_time '01:03:20.000'
+  lines:
+  - I was going to ask you to marry me
+  - because I didn't say hello to you.
+  start: !human_time '01:03:15.000'
+- end: !human_time '01:03:25.000'
+  lines:
+  - Or ask them to move in with you.
+  - But I'm not sure. Chandler?
+  start: !human_time '01:03:21.000'
+- end: !human_time '01:03:27.000'
+  lines:
+  - How long is this going to go on?
+  start: !human_time '01:03:26.000'
+- end: !human_time '01:03:29.000'
+  lines:
+  - I think the length of teasing. . .
+  start: !human_time '01:03:27.000'
+- end: !human_time '01:03:34.000'
+  lines:
+  - . . .is directly related to how insane
+  - you were. So, a long time.
+  start: !human_time '01:03:30.000'
+- end: !human_time '01:03:35.000'
+  lines:
+  - This is fun!
+  start: !human_time '01:03:34.000'
+- end: !human_time '01:03:38.000'
+  lines:
+  - Remember that
+  - '"we were on a break" thing?'
+  start: !human_time '01:03:36.000'
+- end: !human_time '01:03:40.000'
+  lines:
+  - I'm sorry.
+  - Will you marry me?
+  start: !human_time '01:03:38.000'
+- end: !human_time '01:03:48.000'
+  lines:
+  - That's not funny.
+  start: !human_time '01:03:46.000'
+- end: !human_time '01:04:14.000'
+  lines:
+  - -What are you guys doing up?
+  - -Finishing the crossword.
+  start: !human_time '01:04:11.000'
+- end: !human_time '01:04:18.000'
+  lines:
+  - Do you know a six-letter
+  - word for "red"?
+  start: !human_time '01:04:15.000'
+- end: !human_time '01:04:20.000'
+  lines:
+  - Dark-red.
+  start: !human_time '01:04:19.000'
+- end: !human_time '01:04:26.000'
+  lines:
+  - Wrong, but there's a connect-the-dots
+  - in here for you later.
+  start: !human_time '01:04:22.000'
+- end: !human_time '01:04:29.000'
+  lines:
+  - Hey, how about maroon?
+  start: !human_time '01:04:27.000'
+- end: !human_time '01:04:32.000'
+  lines:
+  - Yes! You are so smart!
+  start: !human_time '01:04:30.000'
+- end: !human_time '01:04:35.000'
+  lines:
+  - You guys are so cute.
+  start: !human_time '01:04:34.000'
+- end: !human_time '01:04:37.000'
+  lines:
+  - I know.
+  start: !human_time '01:04:36.000'
+- end: !human_time '01:04:39.000'
+  lines:
+  - See you in the morning.
+  start: !human_time '01:04:38.000'
+- end: !human_time '01:04:56.000'
+  lines:
+  - I love doing crossword
+  - puzzles with you.
+  start: !human_time '01:04:53.000'
+- end: !human_time '01:04:57.000'
+  lines:
+  - Me too.
+  start: !human_time '01:04:56.000'
+- end: !human_time '01:04:59.000'
+  lines:
+  - Now let's finish this
+  - and go to bed.
+  start: !human_time '01:04:57.000'
+- end: !human_time '01:05:01.000'
+  lines:
+  - Only one left.
+  start: !human_time '01:05:00.000'
+- end: !human_time '01:05:04.000'
+  lines:
+  - Three-letter word.
+  - Not dog, but. . . .
+  start: !human_time '01:05:01.000'
+- end: !human_time '01:05:07.000'
+  lines:
+  - Cat.
+  start: !human_time '01:05:06.000'
+- end: !human_time '01:05:11.000'
+  lines:
+  - You are so smart!
+  start: !human_time '01:05:10.000'
+- end: !human_time '01:05:15.000'
+  lines:
+  - I love you.
+  start: !human_time '01:05:14.000'
+- end: !human_time '01:05:16.000'
+  lines:
+  - I love you too.
+  start: !human_time '01:05:15.000'
+- end: !human_time '01:05:32.000'
+  lines:
+  - The One with a Cop
+  start: !human_time '01:05:30.000'
+- end: !human_time '01:05:35.000'
+  lines:
+  - English Subtitles by
+  - GELULA & CO., INC.
+  start: !human_time '01:05:34.000'
+- end: !human_time '01:06:21.000'
+  lines:
+  - We still need a tip.
+  start: !human_time '01:06:20.000'
+- end: !human_time '01:06:24.000'
+  lines:
+  - All right. Hold on.
+  start: !human_time '01:06:21.000'
+- end: !human_time '01:06:25.000'
+  lines:
+  - I got it.
+  start: !human_time '01:06:24.000'
+- end: !human_time '01:06:27.000'
+  lines:
+  - Nickel.
+  start: !human_time '01:06:26.000'
+- end: !human_time '01:06:30.000'
+  lines:
+  - -How much do we need?
+  - -Couple of bucks.
+  start: !human_time '01:06:28.000'
+- end: !human_time '01:06:32.000'
+  lines:
+  - Okay, dime.
+  start: !human_time '01:06:31.000'
+- end: !human_time '01:06:36.000'
+  lines:
+  - You guys keep talking.
+  - This could take a while.
+  start: !human_time '01:06:33.000'
+- end: !human_time '01:06:38.000'
+  lines:
+  - Wait, look it!
+  start: !human_time '01:06:36.000'
+- end: !human_time '01:06:41.000'
+  lines:
+  - This is a police badge!
+  start: !human_time '01:06:39.000'
+- end: !human_time '01:06:45.000'
+  lines:
+  - Cool. But why would a cop come
+  - in here? They don't serve doughnuts.
+  start: !human_time '01:06:41.000'
+- end: !human_time '01:06:51.000'
+  lines:
+  - Can you discover the badge again?
+  - I can do better than that.
+  start: !human_time '01:06:47.000'
+- end: !human_time '01:06:54.000'
+  lines:
+  - I bet somebody's
+  - missing that badge.
+  start: !human_time '01:06:52.000'
+- end: !human_time '01:06:58.000'
+  lines:
+  - I should take it back.
+  - But at the police station. . .
+  start: !human_time '01:06:54.000'
+- end: !human_time '01:07:00.000'
+  lines:
+  - . . .I'll check their
+  - Ten Most Wanted.
+  start: !human_time '01:06:58.000'
+- end: !human_time '01:07:03.000'
+  lines:
+  - My friend's been Number 1 1 forever.
+  - This could be her year!
+  start: !human_time '01:07:00.000'
+- end: !human_time '01:07:08.000'
+  lines:
+  - -Hey, you guys.
+  - -Hey, Joey.
+  start: !human_time '01:07:06.000'
+- end: !human_time '01:07:13.000'
+  lines:
+  - Is that my sweatshirt?
+  start: !human_time '01:07:11.000'
+- end: !human_time '01:07:16.000'
+  lines:
+  - Yes, it is. I'm sorry.
+  - I was cold. I hope it's okay.
+  start: !human_time '01:07:13.000'
+- end: !human_time '01:07:20.000'
+  lines:
+  - It's just that if you wear
+  - someone's sweatshirt. . .
+  start: !human_time '01:07:17.000'
+- end: !human_time '01:07:22.000'
+  lines:
+  - . . .shouldn't it be your boyfriend's?
+  start: !human_time '01:07:20.000'
+- end: !human_time '01:07:24.000'
+  lines:
+  - And I'm not him.
+  start: !human_time '01:07:23.000'
+- end: !human_time '01:07:27.000'
+  lines:
+  - I'm sorry.
+  - I'll give it back.
+  start: !human_time '01:07:26.000'
+- end: !human_time '01:07:31.000'
+  lines:
+  - It's going to be all
+  - smelling like Monica.
+  start: !human_time '01:07:28.000'
+- end: !human_time '01:07:33.000'
+  lines:
+  - Do I smell bad?
+  start: !human_time '01:07:31.000'
+- end: !human_time '01:07:36.000'
+  lines:
+  - You smell like a meadow.
+  start: !human_time '01:07:34.000'
+- end: !human_time '01:07:39.000'
+  lines:
+  - I'm sorry.
+  start: !human_time '01:07:38.000'
+- end: !human_time '01:07:43.000'
+  lines:
+  - What's with him?
+  start: !human_time '01:07:42.000'
+- end: !human_time '01:07:48.000'
+  lines:
+  - The last time Joey went to a meadow,
+  - his mother was shot by a hunter.
+  start: !human_time '01:07:44.000'
+- end: !human_time '01:08:07.000'
+  lines:
+  - I still don't know.
+  start: !human_time '01:08:04.000'
+- end: !human_time '01:08:11.000'
+  lines:
+  - I want to make sure I bought
+  - the right couch, one that says. . .
+  start: !human_time '01:08:07.000'
+- end: !human_time '01:08:15.000'
+  lines:
+  - . . . "Kids welcome here,"
+  - but that also says. . .
+  start: !human_time '01:08:11.000'
+- end: !human_time '01:08:17.000'
+  lines:
+  - . . . "Come here to me. "
+  start: !human_time '01:08:15.000'
+- end: !human_time '01:08:22.000'
+  lines:
+  - What? You say that to kids?
+  start: !human_time '01:08:19.000'
+- end: !human_time '01:08:29.000'
+  lines:
+  - The "Come here to me" is,
+  - you know, for the ladies.
+  start: !human_time '01:08:24.000'
+- end: !human_time '01:08:32.000'
+  lines:
+  - Honey, it's a nice couch,
+  - not a magic couch.
+  start: !human_time '01:08:29.000'
+- end: !human_time '01:08:37.000'
+  lines:
+  - Well, you picked a great couch.
+  start: !human_time '01:08:34.000'
+- end: !human_time '01:08:38.000'
+  lines:
+  - -Sign here please.
+  - -Sure.
+  start: !human_time '01:08:37.000'
+- end: !human_time '01:08:43.000'
+  lines:
+  - The delivery charge
+  - is almost as much as the couch!
+  start: !human_time '01:08:40.000'
+- end: !human_time '01:08:46.000'
+  lines:
+  - That's ridiculous.
+  - He lives three blocks away.
+  start: !human_time '01:08:44.000'
+- end: !human_time '01:08:49.000'
+  lines:
+  - I'll take it myself.
+  - Thank you.
+  start: !human_time '01:08:47.000'
+- end: !human_time '01:08:53.000'
+  lines:
+  - All right, Rach, come on.
+  - Let's go.
+  start: !human_time '01:08:50.000'
+- end: !human_time '01:09:00.000'
+  lines:
+  - Are you kidding?
+  start: !human_time '01:08:58.000'
+- end: !human_time '01:09:05.000'
+  lines:
+  - Come on. It's only three blocks.
+  - It's not very heavy. Try it.
+  start: !human_time '01:09:01.000'
+- end: !human_time '01:09:12.000'
+  lines:
+  - Oh, I can do it.
+  start: !human_time '01:09:10.000'
+- end: !human_time '01:09:14.000'
+  lines:
+  - You two will really
+  - enjoy that couch.
+  start: !human_time '01:09:12.000'
+- end: !human_time '01:09:17.000'
+  lines:
+  - We're not together.
+  start: !human_time '01:09:15.000'
+- end: !human_time '01:09:21.000'
+  lines:
+  - Something didn't quite add up there.
+  start: !human_time '01:09:19.000'
+- end: !human_time '01:09:30.000'
+  lines:
+  - What's that supposed to mean?
+  start: !human_time '01:09:28.000'
+- end: !human_time '01:09:33.000'
+  lines:
+  - Well, you. Her.
+  start: !human_time '01:09:30.000'
+- end: !human_time '01:09:35.000'
+  lines:
+  - I mean, she's very. . .
+  start: !human_time '01:09:33.000'
+- end: !human_time '01:09:36.000'
+  lines:
+  - . . .you know.
+  start: !human_time '01:09:35.000'
+- end: !human_time '01:09:38.000'
+  lines:
+  - And you're, like. . .
+  start: !human_time '01:09:36.000'
+- end: !human_time '01:09:39.000'
+  lines:
+  - . . .you know?
+  start: !human_time '01:09:38.000'
+- end: !human_time '01:09:46.000'
+  lines:
+  - Not that it's any of your business,
+  - but we did go out.
+  start: !human_time '01:09:42.000'
+- end: !human_time '01:09:48.000'
+  lines:
+  - Really? You two?
+  start: !human_time '01:09:46.000'
+- end: !human_time '01:09:52.000'
+  lines:
+  - I don't want to do this now.
+  - I'm carrying a heavy couch.
+  start: !human_time '01:09:49.000'
+- end: !human_time '01:09:54.000'
+  lines:
+  - Then tell him quickly.
+  start: !human_time '01:09:52.000'
+- end: !human_time '01:09:57.000'
+  lines:
+  - Fine. We went out.
+  start: !human_time '01:09:55.000'
+- end: !human_time '01:09:59.000'
+  lines:
+  - Not only did we go out. . .
+  start: !human_time '01:09:57.000'
+- end: !human_time '01:10:02.000'
+  lines:
+  - . . .we did it 298 times!
+  start: !human_time '01:09:59.000'
+- end: !human_time '01:10:10.000'
+  lines:
+  - You kept count?
+  - You are such a loser!
+  start: !human_time '01:10:06.000'
+- end: !human_time '01:10:14.000'
+  lines:
+  - A loser you did it with 298 times!
+  start: !human_time '01:10:11.000'
+- end: !human_time '01:10:25.000'
+  lines:
+  - Excuse me, ma'am. You can't put
+  - your cigarette out on a tree.
+  start: !human_time '01:10:21.000'
+- end: !human_time '01:10:27.000'
+  lines:
+  - Yeah, I can.
+  - It worked well.
+  start: !human_time '01:10:25.000'
+- end: !human_time '01:10:30.000'
+  lines:
+  - But you shouldn't.
+  - So don't ever do that again.
+  start: !human_time '01:10:27.000'
+- end: !human_time '01:10:33.000'
+  lines:
+  - I won't till I have
+  - my next cigarette.
+  start: !human_time '01:10:31.000'
+- end: !human_time '01:10:35.000'
+  lines:
+  - Hold it!
+  start: !human_time '01:10:34.000'
+- end: !human_time '01:10:37.000'
+  lines:
+  - NYPD. Freeze, punk!
+  start: !human_time '01:10:35.000'
+- end: !human_time '01:10:42.000'
+  lines:
+  - That's right. You are so busted.
+  start: !human_time '01:10:39.000'
+- end: !human_time '01:10:43.000'
+  lines:
+  - Book them.
+  start: !human_time '01:10:42.000'
+- end: !human_time '01:10:48.000'
+  lines:
+  - -Who are you talking to?
+  - -Save it, red!
+  start: !human_time '01:10:45.000'
+- end: !human_time '01:10:52.000'
+  lines:
+  - Apologize to the tree or
+  - spend the night in the slammer.
+  start: !human_time '01:10:48.000'
+- end: !human_time '01:10:55.000'
+  lines:
+  - I am not apologizing to a tree.
+  start: !human_time '01:10:53.000'
+- end: !human_time '01:10:59.000'
+  lines:
+  - Apologize to the tree now,
+  - or I am calling for backup.
+  start: !human_time '01:10:56.000'
+- end: !human_time '01:11:03.000'
+  lines:
+  - Backup! Backup!
+  start: !human_time '01:11:01.000'
+- end: !human_time '01:11:04.000'
+  lines:
+  - I'm sorry! Sorry!
+  start: !human_time '01:11:03.000'
+- end: !human_time '01:11:08.000'
+  lines:
+  - Okay, cancel backup!
+  - Cancel backup!
+  start: !human_time '01:11:05.000'
+- end: !human_time '01:11:13.000'
+  lines:
+  - Didn't you say there was
+  - an elevator in here?
+  start: !human_time '01:11:10.000'
+- end: !human_time '01:11:16.000'
+  lines:
+  - Yes, I did, but there isn't.
+  - Here we go!
+  start: !human_time '01:11:14.000'
+- end: !human_time '01:11:20.000'
+  lines:
+  - Okay, go left.
+  start: !human_time '01:11:18.000'
+- end: !human_time '01:11:22.000'
+  lines:
+  - Left. Left.
+  start: !human_time '01:11:20.000'
+- end: !human_time '01:11:25.000'
+  lines:
+  - Okay, you know what?
+  - There's no more left left.
+  start: !human_time '01:11:22.000'
+- end: !human_time '01:11:28.000'
+  lines:
+  - Lift it straight up over your head.
+  start: !human_time '01:11:26.000'
+- end: !human_time '01:11:31.000'
+  lines:
+  - Straight up. You can do it!
+  start: !human_time '01:11:29.000'
+- end: !human_time '01:11:32.000'
+  lines:
+  - You can do it!
+  start: !human_time '01:11:31.000'
+- end: !human_time '01:11:34.000'
+  lines:
+  - Okay. You got it?
+  start: !human_time '01:11:32.000'
+- end: !human_time '01:11:36.000'
+  lines:
+  - -Go, go.
+  - -Good, good.
+  start: !human_time '01:11:34.000'
+- end: !human_time '01:11:39.000'
+  lines:
+  - You got it, right?
+  - You got it, right? You got--
+  start: !human_time '01:11:36.000'
+- end: !human_time '01:11:46.000'
+  lines:
+  - Any chance you think
+  - it looks good there?
+  start: !human_time '01:11:43.000'
+- end: !human_time '01:11:49.000'
+  lines:
+  - This guy was all. . . .
+  start: !human_time '01:11:48.000'
+- end: !human_time '01:11:52.000'
+  lines:
+  - And I'm all,
+  - '"Buffay! Homicide! "'
+  start: !human_time '01:11:50.000'
+- end: !human_time '01:11:55.000'
+  lines:
+  - It was just so cool!
+  start: !human_time '01:11:54.000'
+- end: !human_time '01:12:01.000'
+  lines:
+  - -You were supposed to take it back.
+  - -I'm having fun doing good deeds.
+  start: !human_time '01:11:56.000'
+- end: !human_time '01:12:04.000'
+  lines:
+  - You can get arrested
+  - for impersonating a police officer.
+  start: !human_time '01:12:01.000'
+- end: !human_time '01:12:07.000'
+  lines:
+  - You could get arrested
+  - right now!
+  start: !human_time '01:12:05.000'
+- end: !human_time '01:12:13.000'
+  lines:
+  - I'd better take it back.
+  - I'm totally drunk with power.
+  start: !human_time '01:12:10.000'
+- end: !human_time '01:12:26.000'
+  lines:
+  - Yeah. I didn't know
+  - you guys would be here.
+  start: !human_time '01:12:23.000'
+- end: !human_time '01:12:29.000'
+  lines:
+  - -Do me a favor. Taste this.
+  - -What? Why?
+  start: !human_time '01:12:26.000'
+- end: !human_time '01:12:32.000'
+  lines:
+  - -What is with you?
+  - -Nothing.
+  start: !human_time '01:12:30.000'
+- end: !human_time '01:12:33.000'
+  lines:
+  - You're acting strange.
+  start: !human_time '01:12:32.000'
+- end: !human_time '01:12:37.000'
+  lines:
+  - All right. There is something.
+  start: !human_time '01:12:34.000'
+- end: !human_time '01:12:40.000'
+  lines:
+  - I kind of had a dream.
+  start: !human_time '01:12:38.000'
+- end: !human_time '01:12:43.000'
+  lines:
+  - But I don't want to talk about it.
+  start: !human_time '01:12:41.000'
+- end: !human_time '01:12:46.000'
+  lines:
+  - What if Martin Luther King
+  - had said that?
+  start: !human_time '01:12:43.000'
+- end: !human_time '01:12:50.000'
+  lines:
+  - I kind of have a dream.
+  start: !human_time '01:12:47.000'
+- end: !human_time '01:12:53.000'
+  lines:
+  - I don't want to talk about it.
+  start: !human_time '01:12:51.000'
+- end: !human_time '01:12:57.000'
+  lines:
+  - Look, it involved Monica.
+  start: !human_time '01:12:55.000'
+- end: !human_time '01:13:00.000'
+  lines:
+  - You dreamt about the girl I'm seeing?
+  - Cool.
+  start: !human_time '01:12:57.000'
+- end: !human_time '01:13:02.000'
+  lines:
+  - I dreamt about the girls he was seeing.
+  start: !human_time '01:13:00.000'
+- end: !human_time '01:13:05.000'
+  lines:
+  - Let's talk about your dream.
+  - I love you. Your dream?
+  start: !human_time '01:13:02.000'
+- end: !human_time '01:13:09.000'
+  lines:
+  - There was no sex.
+  - I haven't dreamt of her like that. . .
+  start: !human_time '01:13:06.000'
+- end: !human_time '01:13:12.000'
+  lines:
+  - . . .since I found out
+  - about you two-ish.
+  start: !human_time '01:13:09.000'
+- end: !human_time '01:13:19.000'
+  lines:
+  - What was the dream about?
+  start: !human_time '01:13:17.000'
+- end: !human_time '01:13:24.000'
+  lines:
+  - You were my girlfriend.
+  - We were doing the crossword puzzle.
+  start: !human_time '01:13:21.000'
+- end: !human_time '01:13:26.000'
+  lines:
+  - Like you did last night.
+  start: !human_time '01:13:25.000'
+- end: !human_time '01:13:29.000'
+  lines:
+  - That's it. I'm in love
+  - with Monica. I'll move out.
+  start: !human_time '01:13:26.000'
+- end: !human_time '01:13:33.000'
+  lines:
+  - Joey, come on. That doesn't mean
+  - you're in love with me.
+  start: !human_time '01:13:30.000'
+- end: !human_time '01:13:35.000'
+  lines:
+  - It doesn't?
+  start: !human_time '01:13:34.000'
+- end: !human_time '01:13:37.000'
+  lines:
+  - It could mean anything.
+  - Like. . .
+  start: !human_time '01:13:35.000'
+- end: !human_time '01:13:40.000'
+  lines:
+  - . . .you're jealous that I've become
+  - the apartment stud.
+  start: !human_time '01:13:37.000'
+- end: !human_time '01:13:43.000'
+  lines:
+  - Sounds like your dream.
+  start: !human_time '01:13:41.000'
+- end: !human_time '01:13:50.000'
+  lines:
+  - Or it could mean you saw Chandler
+  - and me being close and stuff. . .
+  start: !human_time '01:13:46.000'
+- end: !human_time '01:13:52.000'
+  lines:
+  - . . .and you want that too.
+  start: !human_time '01:13:51.000'
+- end: !human_time '01:13:55.000'
+  lines:
+  - In the dream
+  - I did enjoy the closeness.
+  start: !human_time '01:13:53.000'
+- end: !human_time '01:13:57.000'
+  lines:
+  - Are you attracted to Monica?
+  start: !human_time '01:13:56.000'
+- end: !human_time '01:14:01.000'
+  lines:
+  - Right here, right now,
+  - are you attracted to her?
+  start: !human_time '01:13:58.000'
+- end: !human_time '01:14:05.000'
+  lines:
+  - -Not really.
+  - -There you have it!
+  start: !human_time '01:14:03.000'
+- end: !human_time '01:14:09.000'
+  lines:
+  - Well, sure!
+  - I'm just wearing sweats!
+  start: !human_time '01:14:06.000'
+- end: !human_time '01:14:11.000'
+  lines:
+  - But that's good!
+  start: !human_time '01:14:10.000'
+- end: !human_time '01:14:15.000'
+  lines:
+  - You're not in love with me.
+  - You just want a girlfriend.
+  start: !human_time '01:14:12.000'
+- end: !human_time '01:14:17.000'
+  lines:
+  - It's not just about
+  - getting a girlfriend.
+  start: !human_time '01:14:15.000'
+- end: !human_time '01:14:22.000'
+  lines:
+  - I could get a girlfriend.
+  - We could sit and do crossword puzzles.
+  start: !human_time '01:14:17.000'
+- end: !human_time '01:14:25.000'
+  lines:
+  - But could we have
+  - the closeness like you have?
+  start: !human_time '01:14:22.000'
+- end: !human_time '01:14:29.000'
+  lines:
+  - Monica and I were friends
+  - before we dated. Maybe that's it.
+  start: !human_time '01:14:25.000'
+- end: !human_time '01:14:31.000'
+  lines:
+  - Friends first?
+  start: !human_time '01:14:29.000'
+- end: !human_time '01:14:33.000'
+  lines:
+  - That's interesting.
+  start: !human_time '01:14:31.000'
+- end: !human_time '01:14:38.000'
+  lines:
+  - -You become friends after?
+  - -No, never done that either.
+  start: !human_time '01:14:34.000'
+- end: !human_time '01:14:41.000'
+  lines:
+  - Do you guys have the tape measure?
+  start: !human_time '01:14:39.000'
+- end: !human_time '01:14:43.000'
+  lines:
+  - Yeah. It's actually in my bedroom.
+  start: !human_time '01:14:41.000'
+- end: !human_time '01:14:46.000'
+  lines:
+  - That's right.
+  start: !human_time '01:14:45.000'
+- end: !human_time '01:15:00.000'
+  lines:
+  - What's up, Joey?
+  start: !human_time '01:14:59.000'
+- end: !human_time '01:15:04.000'
+  lines:
+  - How you doing?
+  start: !human_time '01:15:03.000'
+- end: !human_time '01:15:16.000'
+  lines:
+  - Excuse me. Is this your car?
+  start: !human_time '01:15:14.000'
+- end: !human_time '01:15:19.000'
+  lines:
+  - Don't park here.
+  - You're blocking the entrance.
+  start: !human_time '01:15:16.000'
+- end: !human_time '01:15:21.000'
+  lines:
+  - Don't worry.
+  - It's not a problem.
+  start: !human_time '01:15:19.000'
+- end: !human_time '01:15:26.000'
+  lines:
+  - It's a problem for me, so it's a
+  - problem for you because I'm a cop.
+  start: !human_time '01:15:22.000'
+- end: !human_time '01:15:30.000'
+  lines:
+  - So am l.
+  start: !human_time '01:15:28.000'
+- end: !human_time '01:15:39.000'
+  lines:
+  - Okay. So you're a cop.
+  - You can park anywhere.
+  start: !human_time '01:15:36.000'
+- end: !human_time '01:15:41.000'
+  lines:
+  - I know because I'm a cop too.
+  start: !human_time '01:15:39.000'
+- end: !human_time '01:15:43.000'
+  lines:
+  - Keep up the good work.
+  - Ten four.
+  start: !human_time '01:15:41.000'
+- end: !human_time '01:15:46.000'
+  lines:
+  - Wait. So what precinct
+  - are you with?
+  start: !human_time '01:15:44.000'
+- end: !human_time '01:15:49.000'
+  lines:
+  - I'm with the 57th.
+  start: !human_time '01:15:47.000'
+- end: !human_time '01:15:52.000'
+  lines:
+  - -I know a guy in Homicide up there.
+  - -I'm in Vice.
+  start: !human_time '01:15:49.000'
+- end: !human_time '01:15:56.000'
+  lines:
+  - In fact, I'm undercover
+  - right now. I'm a whore.
+  start: !human_time '01:15:53.000'
+- end: !human_time '01:16:00.000'
+  lines:
+  - Who else is in Vice there?
+  start: !human_time '01:15:58.000'
+- end: !human_time '01:16:02.000'
+  lines:
+  - Do you know. . .
+  start: !human_time '01:16:00.000'
+- end: !human_time '01:16:03.000'
+  lines:
+  - . . .Sipowitz?
+  start: !human_time '01:16:02.000'
+- end: !human_time '01:16:06.000'
+  lines:
+  - Sipowitz? I don't think so.
+  start: !human_time '01:16:04.000'
+- end: !human_time '01:16:09.000'
+  lines:
+  - Yeah. Sipowitz. Yeah.
+  - Big guy, kind of bald.
+  start: !human_time '01:16:06.000'
+- end: !human_time '01:16:11.000'
+  lines:
+  - I don't know him.
+  start: !human_time '01:16:09.000'
+- end: !human_time '01:16:16.000'
+  lines:
+  - Don't try to call him.
+  - He's not there. He's out.
+  start: !human_time '01:16:12.000'
+- end: !human_time '01:16:18.000'
+  lines:
+  - His partner just died.
+  start: !human_time '01:16:16.000'
+- end: !human_time '01:16:22.000'
+  lines:
+  - Tell Sipowitz I'm real sorry
+  - for his loss.
+  start: !human_time '01:16:19.000'
+- end: !human_time '01:16:25.000'
+  lines:
+  - I sure will. Take care.
+  start: !human_time '01:16:22.000'
+- end: !human_time '01:16:27.000'
+  lines:
+  - By the way, Sipowitz
+  - will be all right.
+  start: !human_time '01:16:25.000'
+- end: !human_time '01:16:30.000'
+  lines:
+  - That kid from Silver Spoons
+  - is really good.
+  start: !human_time '01:16:28.000'
+- end: !human_time '01:16:35.000'
+  lines:
+  - Where'd you find my badge?
+  start: !human_time '01:16:33.000'
+- end: !human_time '01:16:48.000'
+  lines:
+  - Could you give me and Ross
+  - a hand moving his couch?
+  start: !human_time '01:16:45.000'
+- end: !human_time '01:16:52.000'
+  lines:
+  - I'd love to but I got acting class.
+  - But you know what?
+  start: !human_time '01:16:49.000'
+- end: !human_time '01:16:55.000'
+  lines:
+  - I guess I could blow that off. . .
+  - . . .or you.
+  start: !human_time '01:16:52.000'
+- end: !human_time '01:17:04.000'
+  lines:
+  - Let me ask you something.
+  - I was talking with Monica and Chandler.
+  start: !human_time '01:17:00.000'
+- end: !human_time '01:17:06.000'
+  lines:
+  - Boy, they are really tight.
+  start: !human_time '01:17:05.000'
+- end: !human_time '01:17:08.000'
+  lines:
+  - I know.
+  start: !human_time '01:17:07.000'
+- end: !human_time '01:17:11.000'
+  lines:
+  - That's not a bad situation
+  - they got there.
+  start: !human_time '01:17:08.000'
+- end: !human_time '01:17:14.000'
+  lines:
+  - Think I'll get me one of those.
+  start: !human_time '01:17:12.000'
+- end: !human_time '01:17:18.000'
+  lines:
+  - What's up, Joe?
+  start: !human_time '01:17:17.000'
+- end: !human_time '01:17:22.000'
+  lines:
+  - I think Monica and Chandler
+  - are so great. . .
+  start: !human_time '01:17:19.000'
+- end: !human_time '01:17:25.000'
+  lines:
+  - . . .because they were friends first.
+  start: !human_time '01:17:22.000'
+- end: !human_time '01:17:29.000'
+  lines:
+  - So I asked myself, who are my friends?
+  - You and Phoebe.
+  start: !human_time '01:17:25.000'
+- end: !human_time '01:17:32.000'
+  lines:
+  - I saw you first, so. . . .
+  start: !human_time '01:17:29.000'
+- end: !human_time '01:17:39.000'
+  lines:
+  - -What are you saying?
+  - -Maybe you and I crank it up a notch.
+  start: !human_time '01:17:35.000'
+- end: !human_time '01:17:44.000'
+  lines:
+  - You know, honey. . .
+  start: !human_time '01:17:43.000'
+- end: !human_time '01:17:47.000'
+  lines:
+  - . . .as flattered as I am. . .
+  start: !human_time '01:17:44.000'
+- end: !human_time '01:17:49.000'
+  lines:
+  - . . .that you saw me first. . .
+  start: !human_time '01:17:47.000'
+- end: !human_time '01:17:54.000'
+  lines:
+  - . . .I just don't think we should be
+  - cranking anything up.
+  start: !human_time '01:17:50.000'
+- end: !human_time '01:17:57.000'
+  lines:
+  - I'll treat you real nice.
+  start: !human_time '01:17:55.000'
+- end: !human_time '01:18:05.000'
+  lines:
+  - Yeah. Well, you know. . . .
+  start: !human_time '01:18:04.000'
+- end: !human_time '01:18:12.000'
+  lines:
+  - I think it's a great idea to become
+  - friends with someone before you date.
+  start: !human_time '01:18:07.000'
+- end: !human_time '01:18:16.000'
+  lines:
+  - But the way you do it is you
+  - meet someone, become their friend. . .
+  start: !human_time '01:18:12.000'
+- end: !human_time '01:18:20.000'
+  lines:
+  - . . .build a foundation,
+  - then ask them out on a date.
+  start: !human_time '01:18:16.000'
+- end: !human_time '01:18:22.000'
+  lines:
+  - Don't hit on your existing friends.
+  start: !human_time '01:18:20.000'
+- end: !human_time '01:18:26.000'
+  lines:
+  - Won't that take longer?
+  start: !human_time '01:18:24.000'
+- end: !human_time '01:18:31.000'
+  lines:
+  - Oh, but once you find it. . .
+  start: !human_time '01:18:29.000'
+- end: !human_time '01:18:33.000'
+  lines:
+  - . . .it's so worth the wait.
+  start: !human_time '01:18:31.000'
+- end: !human_time '01:18:36.000'
+  lines:
+  - I understand.
+  start: !human_time '01:18:35.000'
+- end: !human_time '01:18:37.000'
+  lines:
+  - Good.
+  start: !human_time '01:18:36.000'
+- end: !human_time '01:18:41.000'
+  lines:
+  - Man, I wish I saw Phoebe first.
+  start: !human_time '01:18:38.000'
+- end: !human_time '01:18:45.000'
+  lines:
+  - Come here to me.
+  start: !human_time '01:18:44.000'
+- end: !human_time '01:18:49.000'
+  lines:
+  - No, no. You come here to me.
+  start: !human_time '01:18:47.000'
+- end: !human_time '01:18:56.000'
+  lines:
+  - -I brought reinforcements.
+  - -Great! You brought Joey?
+  start: !human_time '01:18:52.000'
+- end: !human_time '01:18:57.000'
+  lines:
+  - The next best thing.
+  start: !human_time '01:18:56.000'
+- end: !human_time '01:19:03.000'
+  lines:
+  - You brought Chandler?
+  - The next best thing would be Monica!
+  start: !human_time '01:19:00.000'
+- end: !human_time '01:19:08.000'
+  lines:
+  - I would be offended, but Monica
+  - is freakishly strong, so. . . .
+  start: !human_time '01:19:04.000'
+- end: !human_time '01:19:11.000'
+  lines:
+  - I drew a sketch
+  - of how we'll do it.
+  start: !human_time '01:19:09.000'
+- end: !human_time '01:19:13.000'
+  lines:
+  - Rach, that's you.
+  start: !human_time '01:19:11.000'
+- end: !human_time '01:19:15.000'
+  lines:
+  - That's the couch.
+  start: !human_time '01:19:13.000'
+- end: !human_time '01:19:18.000'
+  lines:
+  - What's that?
+  start: !human_time '01:19:16.000'
+- end: !human_time '01:19:19.000'
+  lines:
+  - That's me.
+  start: !human_time '01:19:18.000'
+- end: !human_time '01:19:26.000'
+  lines:
+  - Certainly think a lot of yourself.
+  start: !human_time '01:19:23.000'
+- end: !human_time '01:19:29.000'
+  lines:
+  - No. That's my arm.
+  start: !human_time '01:19:27.000'
+- end: !human_time '01:19:37.000'
+  lines:
+  - I see. I thought you just really,
+  - really liked your new couch.
+  start: !human_time '01:19:33.000'
+- end: !human_time '01:19:42.000'
+  lines:
+  - Just follow my lead.
+  start: !human_time '01:19:40.000'
+- end: !human_time '01:19:46.000'
+  lines:
+  - Come on, Chandler.
+  start: !human_time '01:19:44.000'
+- end: !human_time '01:19:49.000'
+  lines:
+  - -All right.
+  - -Okay.
+  start: !human_time '01:19:47.000'
+- end: !human_time '01:19:50.000'
+  lines:
+  - Here we go.
+  start: !human_time '01:19:49.000'
+- end: !human_time '01:19:53.000'
+  lines:
+  - All right. Ready?
+  start: !human_time '01:19:51.000'
+- end: !human_time '01:19:55.000'
+  lines:
+  - Turn!
+  start: !human_time '01:19:54.000'
+- end: !human_time '01:19:56.000'
+  lines:
+  - Turn!
+  start: !human_time '01:19:55.000'
+- end: !human_time '01:19:57.000'
+  lines:
+  - Turn!
+  start: !human_time '01:19:56.000'
+- end: !human_time '01:20:02.000'
+  lines:
+  - -I don't think we can turn anymore!
+  - -I don't think it'll fit!
+  start: !human_time '01:19:58.000'
+- end: !human_time '01:20:05.000'
+  lines:
+  - Yeah, it will.
+  - Come on! Up, up, up!
+  start: !human_time '01:20:03.000'
+- end: !human_time '01:20:08.000'
+  lines:
+  - Up! Yes!
+  start: !human_time '01:20:06.000'
+- end: !human_time '01:20:09.000'
+  lines:
+  - Here we go! Pivot!
+  start: !human_time '01:20:08.000'
+- end: !human_time '01:20:12.000'
+  lines:
+  - Pivot!
+  start: !human_time '01:20:11.000'
+- end: !human_time '01:20:14.000'
+  lines:
+  - Pivot!
+  start: !human_time '01:20:13.000'
+- end: !human_time '01:20:16.000'
+  lines:
+  - Pivot!
+  start: !human_time '01:20:15.000'
+- end: !human_time '01:20:19.000'
+  lines:
+  - Pivot!
+  start: !human_time '01:20:18.000'
+- end: !human_time '01:20:21.000'
+  lines:
+  - Pivot!
+  start: !human_time '01:20:21.000'
+- end: !human_time '01:20:24.000'
+  lines:
+  - Shut up! Shut up! Shut up!
+  start: !human_time '01:20:22.000'
+- end: !human_time '01:20:31.000'
+  lines:
+  - I don't think it'll pivot anymore.
+  start: !human_time '01:20:28.000'
+- end: !human_time '01:20:32.000'
+  lines:
+  - You think?
+  start: !human_time '01:20:31.000'
+- end: !human_time '01:20:38.000'
+  lines:
+  - All right, let's bring it
+  - back down and try again.
+  start: !human_time '01:20:35.000'
+- end: !human_time '01:20:48.000'
+  lines:
+  - I think it's really stuck now.
+  start: !human_time '01:20:46.000'
+- end: !human_time '01:20:53.000'
+  lines:
+  - -I can't believe that didn't work.
+  - -I know. Me neither.
+  start: !human_time '01:20:50.000'
+- end: !human_time '01:20:55.000'
+  lines:
+  - I mean, you had a sketch.
+  start: !human_time '01:20:53.000'
+- end: !human_time '01:20:59.000'
+  lines:
+  - What did you mean when
+  - you said "pivot"?
+  start: !human_time '01:20:57.000'
+- end: !human_time '01:21:08.000'
+  lines:
+  - How's it going?
+  - Make any new friends?
+  start: !human_time '01:21:05.000'
+- end: !human_time '01:21:10.000'
+  lines:
+  - Yeah.
+  - I met this woman.
+  start: !human_time '01:21:08.000'
+- end: !human_time '01:21:14.000'
+  lines:
+  - What's she like?
+  start: !human_time '01:21:12.000'
+- end: !human_time '01:21:16.000'
+  lines:
+  - Well, she's. . .
+  start: !human_time '01:21:14.000'
+- end: !human_time '01:21:17.000'
+  lines:
+  - . . .really good in bed.
+  start: !human_time '01:21:16.000'
+- end: !human_time '01:21:23.000'
+  lines:
+  - -You were going to be friends first.
+  - -Hey, it's all your fault.
+  start: !human_time '01:21:19.000'
+- end: !human_time '01:21:24.000'
+  lines:
+  - Why?
+  start: !human_time '01:21:23.000'
+- end: !human_time '01:21:27.000'
+  lines:
+  - You didn't give me advice.
+  - You gave me a pickup line.
+  start: !human_time '01:21:24.000'
+- end: !human_time '01:21:31.000'
+  lines:
+  - I told her I wanted to
+  - '"build a foundation and be friends. "'
+  start: !human_time '01:21:27.000'
+- end: !human_time '01:21:36.000'
+  lines:
+  - Suddenly, through no fault of my own,
+  - I became irresistible to her!
+  start: !human_time '01:21:31.000'
+- end: !human_time '01:21:38.000'
+  lines:
+  - And her roommate!
+  start: !human_time '01:21:37.000'
+- end: !human_time '01:21:42.000'
+  lines:
+  - What about the "closeness"?
+  start: !human_time '01:21:40.000'
+- end: !human_time '01:21:46.000'
+  lines:
+  - Closeness, schmosness! There was
+  - three of us, for crying out loud!
+  start: !human_time '01:21:42.000'
+- end: !human_time '01:21:52.000'
+  lines:
+  - Who wants pizza?
+  start: !human_time '01:21:51.000'
+- end: !human_time '01:21:54.000'
+  lines:
+  - I do! I do! I do!
+  start: !human_time '01:21:53.000'
+- end: !human_time '01:21:58.000'
+  lines:
+  - This is great! Can you believe
+  - I found it on the second floor?
+  start: !human_time '01:21:55.000'
+- end: !human_time '01:22:03.000'
+  lines:
+  - -Who is it?
+  - -NYPD.
+  start: !human_time '01:22:01.000'
+- end: !human_time '01:22:04.000'
+  lines:
+  - Oh, my God!
+  start: !human_time '01:22:03.000'
+- end: !human_time '01:22:07.000'
+  lines:
+  - Just a minute, officer!
+  start: !human_time '01:22:06.000'
+- end: !human_time '01:22:21.000'
+  lines:
+  - -I'm looking for Phoebe Buffay.
+  - -My God, it's him! It's that cop!
+  start: !human_time '01:22:17.000'
+- end: !human_time '01:22:25.000'
+  lines:
+  - -I can't believe he found me!
+  - -Are you going to go to jail?
+  start: !human_time '01:22:21.000'
+- end: !human_time '01:22:28.000'
+  lines:
+  - If I go down,
+  - you guys go down with me.
+  start: !human_time '01:22:25.000'
+- end: !human_time '01:22:33.000'
+  lines:
+  - Harboring a fugitive?
+  - That's one-to-three years minimum.
+  start: !human_time '01:22:30.000'
+- end: !human_time '01:22:36.000'
+  lines:
+  - Good luck, Chandler.
+  start: !human_time '01:22:34.000'
+- end: !human_time '01:22:43.000'
+  lines:
+  - Arrest me, but you'll never
+  - make it stick and you know it.
+  start: !human_time '01:22:39.000'
+- end: !human_time '01:22:46.000'
+  lines:
+  - I have no choice, it's my job.
+  - You understand, right?
+  start: !human_time '01:22:43.000'
+- end: !human_time '01:22:49.000'
+  lines:
+  - And you understand that
+  - I'm calling my lawyer.
+  start: !human_time '01:22:46.000'
+- end: !human_time '01:22:53.000'
+  lines:
+  - And once he puts you on the stand
+  - he'll make you look like a fool!
+  start: !human_time '01:22:49.000'
+- end: !human_time '01:22:56.000'
+  lines:
+  - I don't like looking foolish.
+  start: !human_time '01:22:55.000'
+- end: !human_time '01:23:01.000'
+  lines:
+  - Maybe I don't arrest you today.
+  - Maybe I came by and you weren't here.
+  start: !human_time '01:22:57.000'
+- end: !human_time '01:23:03.000'
+  lines:
+  - I'd love it if I weren't here!
+  start: !human_time '01:23:01.000'
+- end: !human_time '01:23:08.000'
+  lines:
+  - Since you're not going to jail tonight,
+  - I was wondering if you'd. . .
+  start: !human_time '01:23:04.000'
+- end: !human_time '01:23:10.000'
+  lines:
+  - . . .Iike to go to dinner with me?
+  start: !human_time '01:23:08.000'
+- end: !human_time '01:23:12.000'
+  lines:
+  - Me?
+  start: !human_time '01:23:11.000'
+- end: !human_time '01:23:16.000'
+  lines:
+  - Ever since you flashed my badge,
+  - I can't stop thinking about you.
+  start: !human_time '01:23:12.000'
+- end: !human_time '01:23:20.000'
+  lines:
+  - You're the prettiest fake
+  - undercover whore I've ever seen.
+  start: !human_time '01:23:16.000'
+- end: !human_time '01:23:23.000'
+  lines:
+  - Nice.
+  start: !human_time '01:23:21.000'
+- end: !human_time '01:23:29.000'
+  lines:
+  - Wow, I didn't see that coming.
+  - You're asking me out.
+  start: !human_time '01:23:25.000'
+- end: !human_time '01:23:32.000'
+  lines:
+  - I could've done it better,
+  - but they're staring at me.
+  start: !human_time '01:23:29.000'
+- end: !human_time '01:23:36.000'
+  lines:
+  - I'd like to go out
+  - with you, officer.
+  start: !human_time '01:23:33.000'
+- end: !human_time '01:23:39.000'
+  lines:
+  - -Gary.
+  - -Gary.
+  start: !human_time '01:23:37.000'
+- end: !human_time '01:23:41.000'
+  lines:
+  - Okay, so it's a date.
+  start: !human_time '01:23:39.000'
+- end: !human_time '01:23:44.000'
+  lines:
+  - I got to ask you, though.
+  - How'd you find me?
+  start: !human_time '01:23:41.000'
+- end: !human_time '01:23:47.000'
+  lines:
+  - I ran your fingerprints
+  - through the computer.
+  start: !human_time '01:23:44.000'
+- end: !human_time '01:23:49.000'
+  lines:
+  - This was listed
+  - as your last known address.
+  start: !human_time '01:23:47.000'
+- end: !human_time '01:23:51.000'
+  lines:
+  - Impressive.
+  start: !human_time '01:23:50.000'
+- end: !human_time '01:23:55.000'
+  lines:
+  - Not as impressive as you. Your record
+  - shows you've done some weird stuff.
+  start: !human_time '01:23:51.000'
+- end: !human_time '01:23:57.000'
+  lines:
+  - We'll talk at dinner.
+  start: !human_time '01:23:56.000'
+- end: !human_time '01:24:02.000'
+  lines:
+  - -So I'll come by and pick you up?
+  - -I can't wait.
+  start: !human_time '01:23:58.000'
+- end: !human_time '01:24:05.000'
+  lines:
+  - Don't worry, I won't just
+  - take you out for doughnuts.
+  start: !human_time '01:24:02.000'
+- end: !human_time '01:24:09.000'
+  lines:
+  - He has a gun!
+  start: !human_time '01:24:08.000'
+- end: !human_time '01:24:19.000'
+  lines:
+  - I'd like to return this couch.
+  - I'm not satisfied with it.
+  start: !human_time '01:24:16.000'
+- end: !human_time '01:24:26.000'
+  lines:
+  - You want to return this couch?
+  start: !human_time '01:24:24.000'
+- end: !human_time '01:24:29.000'
+  lines:
+  - It's cut in half.
+  start: !human_time '01:24:28.000'
+- end: !human_time '01:24:35.000'
+  lines:
+  - -That's what I'm telling you.
+  - -Did you cut this couch in half?
+  start: !human_time '01:24:31.000'
+- end: !human_time '01:24:40.000'
+  lines:
+  - This couch is cut in half!
+  start: !human_time '01:24:36.000'
+- end: !human_time '01:24:45.000'
+  lines:
+  - I would like to exchange it for one
+  - that is not cut in half.
+  start: !human_time '01:24:41.000'
+- end: !human_time '01:24:49.000'
+  lines:
+  - You're saying this couch was
+  - delivered to you like this?
+  start: !human_time '01:24:46.000'
+- end: !human_time '01:24:51.000'
+  lines:
+  - Look, I'm a reasonable man.
+  start: !human_time '01:24:49.000'
+- end: !human_time '01:24:54.000'
+  lines:
+  - I will accept store credit.
+  start: !human_time '01:24:52.000'
+- end: !human_time '01:24:59.000'
+  lines:
+  - I'll give you store credit
+  - in the amount of four dollars.
+  start: !human_time '01:24:55.000'
+- end: !human_time '01:25:04.000'
+  lines:
+  - I will take it.
+  start: !human_time '01:25:03.000'

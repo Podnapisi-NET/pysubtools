@@ -1,0 +1,3286 @@
+---
+units:
+- end: !human_time '00:01:13.169'
+  lines:
+  - Zeg je naam, alsjeblieft.
+  - -Jack Lucas.
+  start: !human_time '00:01:09.540'
+- end: !human_time '00:01:18.219'
+  lines:
+  - lk ben rechercheur Joseph Dexter,
+  - lnterne Zaken.
+  start: !human_time '00:01:14.180'
+- end: !human_time '00:01:26.219'
+  lines:
+  - Dit verhoor heeft betrekking
+  - op zaak 65-A4569.
+  start: !human_time '00:01:18.380'
+- end: !human_time '00:01:33.893'
+  lines:
+  - Kun je dat laten?
+  start: !human_time '00:01:32.380'
+- end: !human_time '00:01:50.490'
+  lines:
+  - Goed, rechercheur Lucas.
+  - Laten we praten over 23 april 2001 .
+  start: !human_time '00:01:44.620'
+- end: !human_time '00:02:02.176'
+  lines:
+  - M'n collega en ik gingen
+  - naar een informant...
+  start: !human_time '00:01:58.740'
+- end: !human_time '00:02:06.572'
+  lines:
+  - die iets wist over aanslagen
+  - van de Red Dragons.
+  start: !human_time '00:02:02.340'
+- end: !human_time '00:02:11.735'
+  lines:
+  - Hij had het bewijs.
+  start: !human_time '00:02:09.460'
+- end: !human_time '00:02:14.058'
+  lines:
+  - Politie.
+  start: !human_time '00:02:12.500'
+- end: !human_time '00:02:39.969'
+  lines:
+  - Rechercheur Voss en ik
+  - gingen erachteraan.
+  start: !human_time '00:02:36.260'
+- end: !human_time '00:03:04.649'
+  lines:
+  - Wist u dat in de maand
+  - voor dit incident...
+  start: !human_time '00:03:00.940'
+- end: !human_time '00:03:10.497'
+  lines:
+  - uw collega meer dan 25 keer heeft
+  - gebeld met een Red Dragon-leider?
+  start: !human_time '00:03:04.820'
+- end: !human_time '00:03:24.293'
+  lines:
+  - Het laatste telefoontje vond plaats
+  - een uur voordat u en Voss...
+  start: !human_time '00:03:18.900'
+- end: !human_time '00:03:28.169'
+  lines:
+  - gingen observeren bij Kong Loc...
+  - -Huang Loc.
+  start: !human_time '00:03:24.460'
+- end: !human_time '00:03:31.093'
+  lines:
+  - Huang Loc Market.
+  start: !human_time '00:03:28.340'
+- end: !human_time '00:03:40.938'
+  lines:
+  - Hij stapte op 'n zeker moment uit de
+  - auto. lk dacht om z'n vrouw te bellen.
+  start: !human_time '00:03:35.420'
+- end: !human_time '00:03:43.056'
+  lines:
+  - Dat dacht u.
+  start: !human_time '00:03:41.100'
+- end: !human_time '00:03:46.371'
+  lines:
+  - Ja, hij was m'n collega.
+  - lk vertrouwde 'm.
+  start: !human_time '00:03:43.220'
+- end: !human_time '00:04:00.898'
+  lines:
+  - Dus eigenlijk zegt u...
+  start: !human_time '00:03:59.180'
+- end: !human_time '00:04:05.053'
+  lines:
+  - dat u helemaal niets wist...
+  start: !human_time '00:04:02.220'
+- end: !human_time '00:04:09.293'
+  lines:
+  - van de contacten van uw collega
+  - met de Red Dragons.
+  start: !human_time '00:04:05.220'
+- end: !human_time '00:04:13.690'
+  lines:
+  - Niks.
+  - -En dat moet ik geloven?
+  start: !human_time '00:04:11.460'
+- end: !human_time '00:04:18.417'
+  lines:
+  - Dat moet u zelf weten.
+  start: !human_time '00:04:16.540'
+- end: !human_time '00:05:04.412'
+  lines:
+  - Vroeger kwamen ze om snoep bedelen.
+  start: !human_time '00:05:01.500'
+- end: !human_time '00:05:32.808'
+  lines:
+  - Wat ben je toch een toffe vent, Eddie.
+  - -Mij praat je het bed niet in, Jack.
+  start: !human_time '00:05:26.460'
+- end: !human_time '00:05:36.290'
+  lines:
+  - Heb je m'n bloemen gekregen?
+  - -Krijg wat.
+  start: !human_time '00:05:32.980'
+- end: !human_time '00:05:41.773'
+  lines:
+  - Hou op of ik maak bekend dat
+  - de grote Jack Lucas hier stamgast is.
+  start: !human_time '00:05:36.460'
+- end: !human_time '00:05:46.013'
+  lines:
+  - Dan kan ik entree heffen.
+  - -Dat interesseert niemand.
+  start: !human_time '00:05:41.940'
+- end: !human_time '00:05:50.856'
+  lines:
+  - Kastelein, stro voor m'n mannen
+  - en wijn voor m'n paarden.
+  start: !human_time '00:05:46.180'
+- end: !human_time '00:05:55.491'
+  lines:
+  - De stro is op, Mr Lucifer.
+  - Mag het iets anders wezen?
+  start: !human_time '00:05:51.020'
+- end: !human_time '00:05:59.335'
+  lines:
+  - Martini. Zonder ijs, met olijven.
+  start: !human_time '00:05:55.660'
+- end: !human_time '00:06:02.492'
+  lines:
+  - En geef deze man er nog eentje.
+  - Een dubbele.
+  start: !human_time '00:05:59.500'
+- end: !human_time '00:06:06.812'
+  lines:
+  - Dat is wel het minste
+  - nadat ik hem bijna heb overreden.
+  start: !human_time '00:06:02.660'
+- end: !human_time '00:06:09.813'
+  lines:
+  - Zit wel goed.
+  - Laat dat drankje maar...
+  start: !human_time '00:06:06.980'
+- end: !human_time '00:06:14.496'
+  lines:
+  - zitten.
+  - -'n Fait accompli, op z'n Frans gezegd.
+  start: !human_time '00:06:09.980'
+- end: !human_time '00:06:16.412'
+  lines:
+  - Geniet ervan.
+  start: !human_time '00:06:14.660'
+- end: !human_time '00:06:19.732'
+  lines:
+  - lk heet Ollie.
+  start: !human_time '00:06:17.980'
+- end: !human_time '00:06:23.295'
+  lines:
+  - Aangenaam, Jack.
+  start: !human_time '00:06:21.020'
+- end: !human_time '00:06:27.976'
+  lines:
+  - Je komt me bekend voor. Acteur?
+  - -Nee, maar jij vast wel.
+  start: !human_time '00:06:23.460'
+- end: !human_time '00:06:29.812'
+  lines:
+  - Hoe raad je het?
+  start: !human_time '00:06:28.140'
+- end: !human_time '00:06:38.291'
+  lines:
+  - Wat doe je?
+  start: !human_time '00:06:36.460'
+- end: !human_time '00:06:40.849'
+  lines:
+  - lk werk voor de gemeente.
+  start: !human_time '00:06:38.460'
+- end: !human_time '00:06:44.491'
+  lines:
+  - lk kan er niet op komen.
+  start: !human_time '00:06:42.500'
+- end: !human_time '00:06:51.052'
+  lines:
+  - lk weet zeker dat ik je ken. Het schiet
+  - me wel te binnen als ik naar huis rij.
+  start: !human_time '00:06:45.580'
+- end: !human_time '00:06:54.417'
+  lines:
+  - Als je je huis haalt.
+  - -Die zit.
+  start: !human_time '00:06:51.220'
+- end: !human_time '00:06:57.818'
+  lines:
+  - Heerlijk. Bedankt.
+  start: !human_time '00:06:56.180'
+- end: !human_time '00:07:09.210'
+  lines:
+  - !!python/str "Mooie kont, h\u010D?"
+  - -Ja, die kan zo in een museum.
+  start: !human_time '00:07:05.740'
+- end: !human_time '00:07:15.409'
+  lines:
+  - M'n ex had zo'n kont. lk betrapte
+  - haar met een ander. Vreselijk.
+  start: !human_time '00:07:10.540'
+- end: !human_time '00:07:17.969'
+  lines:
+  - Stom ook. Ze hield niet van me.
+  start: !human_time '00:07:15.580'
+- end: !human_time '00:07:20.859'
+  lines:
+  - Nu heeft ze alles van me ingepikt.
+  start: !human_time '00:07:18.140'
+- end: !human_time '00:07:26.094'
+  lines:
+  - Wat doe je eraan. Met ze leven gaat
+  - niet en ze vermoorden kan ook niet.
+  start: !human_time '00:07:21.020'
+- end: !human_time '00:07:32.300'
+  lines:
+  - 'lk zeg je dit, van man tot man:'
+  start: !human_time '00:07:29.740'
+- end: !human_time '00:07:37.056'
+  lines:
+  - Als ik niet zo'n watje was,
+  - wurgde ik haar met m'n blote handen.
+  start: !human_time '00:07:32.460'
+- end: !human_time '00:07:43.372'
+  lines:
+  - Wil je een foto zien?
+  - -Waarom niet.
+  start: !human_time '00:07:40.380'
+- end: !human_time '00:07:47.010'
+  lines:
+  - Ze werkt in de Play Pen,
+  - ken je die tent?
+  start: !human_time '00:07:43.540'
+- end: !human_time '00:07:51.095'
+  lines:
+  - lk ben er wel eens geweest.
+  - -Ja, ja. Wel eens.
+  start: !human_time '00:07:47.500'
+- end: !human_time '00:07:53.091'
+  lines:
+  - Heb je kinderen?
+  start: !human_time '00:07:51.260'
+- end: !human_time '00:07:57.332'
+  lines:
+  - Zou jij willen
+  - dat ze zo'n lerares hadden?
+  start: !human_time '00:07:54.340'
+- end: !human_time '00:08:01.698'
+  lines:
+  - Die slet geeft overdag
+  - balletles aan kinderen...
+  start: !human_time '00:07:57.500'
+- end: !human_time '00:08:05.011'
+  lines:
+  - en 's avonds doet ze live seksshows.
+  start: !human_time '00:08:01.860'
+- end: !human_time '00:08:09.173'
+  lines:
+  - Ze neukt alles wat beweegt.
+  - Mannen, vrouwen, beesten.
+  start: !human_time '00:08:05.180'
+- end: !human_time '00:08:12.173'
+  lines:
+  - Het is daar kennelijk nogal veranderd.
+  start: !human_time '00:08:09.340'
+- end: !human_time '00:08:19.970'
+  lines:
+  - De plicht roept.
+  start: !human_time '00:08:17.740'
+- end: !human_time '00:08:23.337'
+  lines:
+  - Mag ik de rekening?
+  - lk moet iemand bellen.
+  start: !human_time '00:08:20.140'
+- end: !human_time '00:08:28.779'
+  lines:
+  - Het was leuk om met je te praten.
+  start: !human_time '00:08:26.140'
+- end: !human_time '00:08:53.328'
+  lines:
+  - Sorry, is dat...
+  start: !human_time '00:08:49.540'
+- end: !human_time '00:08:56.572'
+  lines:
+  - Ja, hij is een echte held.
+  start: !human_time '00:08:53.500'
+- end: !human_time '00:09:02.098'
+  lines:
+  - Het mobiele nummer dat u belt...
+  start: !human_time '00:08:59.300'
+- end: !human_time '00:09:17.380'
+  lines:
+  - Neem jij deze maar.
+  start: !human_time '00:09:14.820'
+- end: !human_time '00:09:22.409'
+  lines:
+  - Doe me een lol.
+  - Laat iemand je thuisbrengen.
+  start: !human_time '00:09:18.780'
+- end: !human_time '00:09:25.253'
+  lines:
+  - Ho even, ik hoor net wie je bent.
+  start: !human_time '00:09:22.580'
+- end: !human_time '00:09:29.254'
+  lines:
+  - lk ken je van dat artikel.
+  - Was dat vier maanden geleden?
+  start: !human_time '00:09:25.420'
+- end: !human_time '00:09:33.777'
+  lines:
+  - Zoiets.
+  - -lk wil m'n dankbaarheid betuigen.
+  start: !human_time '00:09:29.420'
+- end: !human_time '00:09:36.492'
+  lines:
+  - Een toast.
+  start: !human_time '00:09:34.740'
+- end: !human_time '00:09:42.579'
+  lines:
+  - Op de helden.
+  start: !human_time '00:09:39.860'
+- end: !human_time '00:09:45.459'
+  lines:
+  - De echte helden.
+  start: !human_time '00:09:42.740'
+- end: !human_time '00:09:54.855'
+  lines:
+  - Het spijt me vreselijk.
+  start: !human_time '00:09:52.500'
+- end: !human_time '00:09:56.772'
+  lines:
+  - Geeft niet.
+  start: !human_time '00:09:55.020'
+- end: !human_time '00:09:59.249'
+  lines:
+  - !!python/str "Jezus. Alles ok\xE9, Jack?"
+  start: !human_time '00:09:56.940'
+- end: !human_time '00:10:02.059'
+  lines:
+  - Niks aan de hand, Eddie.
+  start: !human_time '00:09:59.420'
+- end: !human_time '00:10:05.292'
+  lines:
+  - Wat vervelend nou.
+  - Laat mij betalen.
+  start: !human_time '00:10:02.220'
+- end: !human_time '00:10:08.736'
+  lines:
+  - Dank je wel.
+  - -Het was een ongelukje.
+  start: !human_time '00:10:05.460'
+- end: !human_time '00:11:16.891'
+  lines:
+  - Gaat het?
+  start: !human_time '00:11:15.060'
+- end: !human_time '00:11:56.614'
+  lines:
+  - Word wakker. Gaat 't?
+  start: !human_time '00:11:54.020'
+- end: !human_time '00:12:00.816'
+  lines:
+  - Rustig aan.
+  start: !human_time '00:11:58.780'
+- end: !human_time '00:12:06.373'
+  lines:
+  - lk schenk geen slappe drankjes,
+  - maar dit is te gek. Je bent laveloos.
+  start: !human_time '00:12:00.980'
+- end: !human_time '00:12:10.135'
+  lines:
+  - !!python/str "E\xE9n drankje en je gaat plat."
+  - Schaam je.
+  start: !human_time '00:12:06.540'
+- end: !human_time '00:12:13.815'
+  lines:
+  - Je moet naar die hand laten kijken.
+  start: !human_time '00:12:10.300'
+- end: !human_time '00:12:18.135'
+  lines:
+  - lk pak je sigaretten.
+  start: !human_time '00:12:15.940'
+- end: !human_time '00:12:38.014'
+  lines:
+  - Welverdomme...
+  start: !human_time '00:12:35.420'
+- end: !human_time '00:12:39.932'
+  lines:
+  - Wat zoek je?
+  start: !human_time '00:12:38.180'
+- end: !human_time '00:12:42.699'
+  lines:
+  - Niks.
+  start: !human_time '00:12:41.220'
+- end: !human_time '00:12:46.296'
+  lines:
+  - ls die vent met dat duivelsmasker
+  - er nog?
+  start: !human_time '00:12:42.860'
+- end: !human_time '00:12:50.089'
+  lines:
+  - Ze zijn een kwartiertje geleden
+  - vertrokken.
+  start: !human_time '00:12:46.460'
+- end: !human_time '00:12:52.493'
+  lines:
+  - Laat mij betalen.
+  start: !human_time '00:12:50.980'
+- end: !human_time '00:12:57.131'
+  lines:
+  - Heb je z'n creditcardnummer?
+  - -Hij heeft contant betaald.
+  start: !human_time '00:12:52.660'
+- end: !human_time '00:13:04.779'
+  lines:
+  - Luister, je moet iets voor me doen.
+  start: !human_time '00:13:00.900'
+- end: !human_time '00:13:06.737'
+  lines:
+  - Natuurlijk.
+  start: !human_time '00:13:04.940'
+- end: !human_time '00:13:10.609'
+  lines:
+  - Als die vent hier weer is,
+  - moet je me bellen.
+  start: !human_time '00:13:06.900'
+- end: !human_time '00:13:13.817'
+  lines:
+  - Prima, moet ik een taxi voor je bellen?
+  start: !human_time '00:13:10.780'
+- end: !human_time '00:13:21.812'
+  lines:
+  - Van wat frisse lucht knap ik wel op.
+  start: !human_time '00:13:18.900'
+- end: !human_time '00:14:09.854'
+  lines:
+  - Hoi, buurman. Met Caitlin.
+  start: !human_time '00:14:07.260'
+- end: !human_time '00:14:13.535'
+  lines:
+  - Vergeet ik je te vragen
+  - om Rudy een pil te geven.
+  start: !human_time '00:14:10.020'
+- end: !human_time '00:14:15.975'
+  lines:
+  - Z'n eten ligt in de pick-up.
+  start: !human_time '00:14:13.700'
+- end: !human_time '00:14:23.012'
+  lines:
+  - De sleutels liggen op de toonbank.
+  - M'n broer z'n nummer is 41 55556723.
+  start: !human_time '00:14:16.140'
+- end: !human_time '00:14:25.171'
+  lines:
+  - Tot volgende week.
+  start: !human_time '00:14:23.180'
+- end: !human_time '00:14:31.097'
+  lines:
+  - Jack, met pa. lk heb niks gehoord, dus
+  - ik neem aan dat het morgen doorgaat.
+  start: !human_time '00:14:25.340'
+- end: !human_time '00:15:19.979'
+  lines:
+  - Hoi, pap. Sorry dat ik te laat ben.
+  start: !human_time '00:15:17.260'
+- end: !human_time '00:15:26.772'
+  lines:
+  - Die auto was je examencadeau.
+  - Hij hoeft niet mee tot je pensioen.
+  start: !human_time '00:15:21.300'
+- end: !human_time '00:15:29.977'
+  lines:
+  - Je weet hoe ik aan dingen hecht.
+  start: !human_time '00:15:26.940'
+- end: !human_time '00:15:35.531'
+  lines:
+  - lk had het net met je moeder
+  - over toen je nog klein was.
+  start: !human_time '00:15:31.140'
+- end: !human_time '00:15:43.735'
+  lines:
+  - Het is nu twee jaar geleden.
+  start: !human_time '00:15:41.540'
+- end: !human_time '00:15:50.408'
+  lines:
+  - !!python/str "Tegen pati\xEBnten zei je altijd:"
+  - !!python/str "Eens moet je toch d\xF3\xF3r met je leven."
+  start: !human_time '00:15:45.380'
+- end: !human_time '00:15:54.937'
+  lines:
+  - En tegen jou dat psychiaters
+  - geen psychiater willen.
+  start: !human_time '00:15:50.580'
+- end: !human_time '00:15:57.498'
+  lines:
+  - !!python/str "Bel me, ok\xE9?"
+  start: !human_time '00:15:55.860'
+- end: !human_time '00:16:09.933'
+  lines:
+  - Je ziet er bescheten uit.
+  - -Dank je.
+  start: !human_time '00:16:07.180'
+- end: !human_time '00:16:14.139'
+  lines:
+  - !!python/str "Je slaapt nog steeds slecht, h\u010D?"
+  - -Het gaat al beter.
+  start: !human_time '00:16:10.100'
+- end: !human_time '00:16:19.420'
+  lines:
+  - lk zit nu op drie uur per nacht.
+  - -Waar maak ik me zorgen over?
+  start: !human_time '00:16:14.300'
+- end: !human_time '00:16:23.175'
+  lines:
+  - Wil je geen receptje?
+  - -Nee, hou er maar over op.
+  start: !human_time '00:16:19.580'
+- end: !human_time '00:16:27.492'
+  lines:
+  - lk los dit zelf op.
+  - !!python/str "-Nog altijd even koppig, h\u010D?"
+  start: !human_time '00:16:23.340'
+- end: !human_time '00:16:30.811'
+  lines:
+  - De appel valt niet ver van de boom.
+  start: !human_time '00:16:27.660'
+- end: !human_time '00:16:33.289'
+  lines:
+  - lk beken schuld.
+  start: !human_time '00:16:30.980'
+- end: !human_time '00:16:39.012'
+  lines:
+  - lk laat het voor deze keer
+  - bij een waarschuwing.
+  start: !human_time '00:16:34.860'
+- end: !human_time '00:16:44.738'
+  lines:
+  - Kom, er wacht een uitsmijter op je.
+  start: !human_time '00:16:41.860'
+- end: !human_time '00:17:00.779'
+  lines:
+  - Heb je 't nummer?
+  - Van de truck die je heeft aangereden.
+  start: !human_time '00:16:56.820'
+- end: !human_time '00:17:03.613'
+  lines:
+  - Ja, zware nacht gehad.
+  start: !human_time '00:17:00.940'
+- end: !human_time '00:17:06.214'
+  lines:
+  - Je ziet er belazerd uit.
+  start: !human_time '00:17:03.780'
+- end: !human_time '00:17:10.053'
+  lines:
+  - Dat zei m'n vader ook al.
+  start: !human_time '00:17:07.380'
+- end: !human_time '00:17:14.418'
+  lines:
+  - Ook iemand met hersens.
+  - Hoe is het met hem?
+  start: !human_time '00:17:10.220'
+- end: !human_time '00:17:19.169'
+  lines:
+  - Goed. Aardig dat je het vraagt.
+  start: !human_time '00:17:15.620'
+- end: !human_time '00:17:22.575'
+  lines:
+  - Morgenmiddag, drie uur.
+  start: !human_time '00:17:20.380'
+- end: !human_time '00:17:27.018'
+  lines:
+  - Probeer eens niet
+  - in telegramstijl te praten.
+  start: !human_time '00:17:22.740'
+- end: !human_time '00:17:30.889'
+  lines:
+  - ln mijn kamer,
+  - morgenmiddag, drie uur.
+  start: !human_time '00:17:27.180'
+- end: !human_time '00:17:32.937'
+  lines:
+  - Waarvoor?
+  start: !human_time '00:17:31.060'
+- end: !human_time '00:17:36.490'
+  lines:
+  - Dat hoor je dan wel.
+  - -Krijg toch de tering.
+  start: !human_time '00:17:33.100'
+- end: !human_time '00:17:39.652'
+  lines:
+  - Wat zei je?
+  - lk verstond je niet.
+  start: !human_time '00:17:36.660'
+- end: !human_time '00:17:45.931'
+  lines:
+  - Niks.
+  start: !human_time '00:17:44.020'
+- end: !human_time '00:17:48.170'
+  lines:
+  - Morgen.
+  start: !human_time '00:17:46.100'
+- end: !human_time '00:17:54.729'
+  lines:
+  - Pas op je woorden.
+  - Je gooit je eigen glazen in.
+  start: !human_time '00:17:51.100'
+- end: !human_time '00:17:57.892'
+  lines:
+  - lk heb 'm met Pruitt horen praten.
+  start: !human_time '00:17:54.900'
+- end: !human_time '00:18:02.858'
+  lines:
+  - Hij dient morgen z'n rapport in.
+  - -Mooi.
+  start: !human_time '00:17:59.980'
+- end: !human_time '00:18:07.138'
+  lines:
+  - Maak je je geen zorgen?
+  - -Dexter doet gewoon z'n werk.
+  start: !human_time '00:18:03.020'
+- end: !human_time '00:18:11.657'
+  lines:
+  - lk kan dat rapport niet veranderen.
+  - We zullen wel zien.
+  start: !human_time '00:18:07.300'
+- end: !human_time '00:18:16.336'
+  lines:
+  - Ben je boeddhist geworden of zo?
+  - Scheer je kop dan meteen kaal.
+  start: !human_time '00:18:11.820'
+- end: !human_time '00:18:19.458'
+  lines:
+  - Heb ik 's gedaan.
+  - lk was net 'n debiel.
+  start: !human_time '00:18:16.500'
+- end: !human_time '00:18:23.295'
+  lines:
+  - Zo gedraag je je toch al.
+  - Doe 't dan meteen goed.
+  start: !human_time '00:18:19.620'
+- end: !human_time '00:18:30.931'
+  lines:
+  - lk ga even naar de badkamer
+  - om scheerspullen te halen.
+  start: !human_time '00:18:26.540'
+- end: !human_time '00:19:04.811'
+  lines:
+  - Wat een herrie.
+  start: !human_time '00:19:02.980'
+- end: !human_time '00:19:08.539'
+  lines:
+  - Heb je met zout water gegorgeld?
+  start: !human_time '00:19:05.900'
+- end: !human_time '00:19:12.089'
+  lines:
+  - lk weet dat het niet lekker is.
+  start: !human_time '00:19:09.700'
+- end: !human_time '00:19:18.289'
+  lines:
+  - Let op je taal, jongeman.
+  - Anders laat ik je met zeep gorgelen.
+  start: !human_time '00:19:13.420'
+- end: !human_time '00:19:21.852'
+  lines:
+  - lk weet dat je ziek bent. Sorry.
+  start: !human_time '00:19:18.860'
+- end: !human_time '00:19:27.970'
+  lines:
+  - Mama kan nu niet naar huis komen.
+  - Papa is over een paar uur thuis.
+  start: !human_time '00:19:22.020'
+- end: !human_time '00:19:32.332'
+  lines:
+  - Als je weg moet, ga dan.
+  - -Zeker weten?
+  start: !human_time '00:19:29.420'
+- end: !human_time '00:19:35.572'
+  lines:
+  - Geen probleem. lk heb genoeg werk.
+  start: !human_time '00:19:32.500'
+- end: !human_time '00:19:42.019'
+  lines:
+  - lk ben zo thuis. Zet dat water klaar.
+  start: !human_time '00:19:38.140'
+- end: !human_time '00:19:48.180'
+  lines:
+  - lk bel je nog wel.
+  start: !human_time '00:19:45.620'
+- end: !human_time '00:19:55.296'
+  lines:
+  - Ze werkt in de Play Pen.
+  - Ken je die tent?
+  start: !human_time '00:19:51.860'
+- end: !human_time '00:20:04.059'
+  lines:
+  - De Play Pen.
+  start: !human_time '00:20:02.580'
+- end: !human_time '00:20:09.214'
+  lines:
+  - Jack Lucas, Moordzaken. lk wil de
+  - achternaam van een van uw strippers.
+  start: !human_time '00:20:04.220'
+- end: !human_time '00:20:30.058'
+  lines:
+  - Tot kijk.
+  start: !human_time '00:20:28.420'
+- end: !human_time '00:20:52.019'
+  lines:
+  - Pepperspray, donder op.
+  - -Rustig. lk ben Jack Lucas, recherche.
+  start: !human_time '00:20:46.820'
+- end: !human_time '00:20:57.292'
+  lines:
+  - Ben jij Jessica Tarrant?
+  - -Ja, wat wil je?
+  start: !human_time '00:20:54.220'
+- end: !human_time '00:21:01.499'
+  lines:
+  - Doe eerst die pepperspray weg.
+  - lk heb alleen wat vragen.
+  start: !human_time '00:20:57.460'
+- end: !human_time '00:21:04.458'
+  lines:
+  - Snel dan. lk kom te laat op m'n werk.
+  start: !human_time '00:21:01.660'
+- end: !human_time '00:21:08.499'
+  lines:
+  - Het gaat over je ex-man.
+  - -Wat heeft hij gedaan?
+  start: !human_time '00:21:04.620'
+- end: !human_time '00:21:14.739'
+  lines:
+  - Daar kan ik niks over zeggen. lk wil
+  - graag z'n telefoonnummer of adres.
+  start: !human_time '00:21:09.460'
+- end: !human_time '00:21:18.256'
+  lines:
+  - Van mij? lk heb 'm
+  - al twee jaar niet gezien.
+  start: !human_time '00:21:14.900'
+- end: !human_time '00:21:21.730'
+  lines:
+  - Hij schijnt in Engeland te zitten.
+  start: !human_time '00:21:18.420'
+- end: !human_time '00:21:26.215'
+  lines:
+  - Dus ik kan je niet helpen.
+  - Succes.
+  start: !human_time '00:21:22.700'
+- end: !human_time '00:21:31.408'
+  lines:
+  - Als je 'm vindt, zeg dan
+  - alsjeblieft niet waar ik zit.
+  start: !human_time '00:21:26.380'
+- end: !human_time '00:21:51.817'
+  lines:
+  - Lid van de wegenwacht?
+  - -Verlopen.
+  start: !human_time '00:21:48.780'
+- end: !human_time '00:21:55.369'
+  lines:
+  - Startkabels?
+  start: !human_time '00:21:53.060'
+- end: !human_time '00:22:00.859'
+  lines:
+  - Kan het de accu zijn?
+  - lk mag niet te laat komen.
+  start: !human_time '00:21:56.820'
+- end: !human_time '00:22:04.569'
+  lines:
+  - Dat kun je beter niet aan mij vragen.
+  - -Fijn.
+  start: !human_time '00:22:01.020'
+- end: !human_time '00:22:09.778'
+  lines:
+  - Zei je dat je 'm al 'n paar jaar
+  - niet had gezien?
+  start: !human_time '00:22:05.660'
+- end: !human_time '00:22:14.616'
+  lines:
+  - Allemaal roest op de accu.
+  - Hij is gloednieuw.
+  start: !human_time '00:22:11.180'
+- end: !human_time '00:22:20.096'
+  lines:
+  - Neigde hij tot gewelddadig gedrag?
+  start: !human_time '00:22:16.740'
+- end: !human_time '00:22:22.539'
+  lines:
+  - Ja, dus.
+  start: !human_time '00:22:21.060'
+- end: !human_time '00:22:27.694'
+  lines:
+  - Een punker die graag vrouwen sloeg.
+  - Drie maanden getrouwd geweest.
+  start: !human_time '00:22:22.700'
+- end: !human_time '00:22:31.091'
+  lines:
+  - Rick de Hufter. Starten maar?
+  - -Wacht even.
+  start: !human_time '00:22:27.860'
+- end: !human_time '00:22:33.296'
+  lines:
+  - Hoe heet hij?
+  - -Rick.
+  start: !human_time '00:22:31.260'
+- end: !human_time '00:22:40.178'
+  lines:
+  - Rick Oliver? lemand die zei dat hij
+  - je ex was, stelde zich voor als Ollie.
+  start: !human_time '00:22:34.740'
+- end: !human_time '00:22:46.609'
+  lines:
+  - Een valse naam?
+  - ls hij hier misschien illegaal?
+  start: !human_time '00:22:43.060'
+- end: !human_time '00:22:49.089'
+  lines:
+  - Dat is Rick niet.
+  - -Hoe weet je dat?
+  start: !human_time '00:22:46.780'
+- end: !human_time '00:22:53.253'
+  lines:
+  - lk weet het gewoon.
+  - -Maar je kent die Ollie wel?
+  start: !human_time '00:22:49.260'
+- end: !human_time '00:22:57.379'
+  lines:
+  - Ja. Waarom denk je
+  - dat ik pepperspray heb?
+  start: !human_time '00:22:53.420'
+- end: !human_time '00:23:02.136'
+  lines:
+  - Weet je z'n achternaam, z'n adres?
+  - -Nee, en dat wil ik niet weten.
+  start: !human_time '00:22:57.540'
+- end: !human_time '00:23:05.292'
+  lines:
+  - lk wil hem gewoon niet meer zien.
+  start: !human_time '00:23:02.300'
+- end: !human_time '00:23:08.452'
+  lines:
+  - Kan ik nu starten?
+  - -Probeer maar.
+  start: !human_time '00:23:05.460'
+- end: !human_time '00:23:17.255'
+  lines:
+  - Hij kwam bijna elke avond in de club.
+  start: !human_time '00:23:13.740'
+- end: !human_time '00:23:21.379'
+  lines:
+  - Gaf grote tips.
+  - Hij stak vaak honderdjes in m'n beha.
+  start: !human_time '00:23:17.420'
+- end: !human_time '00:23:26.773'
+  lines:
+  - lk deed 'm denken aan een actrice
+  - van vroeger. lk kende haar niet eens.
+  start: !human_time '00:23:21.540'
+- end: !human_time '00:23:32.298'
+  lines:
+  - lk zat er niet mee. Tot ik me een keer
+  - aan het verkleden was...
+  start: !human_time '00:23:26.940'
+- end: !human_time '00:23:36.851'
+  lines:
+  - en hij in de kleedkamer zat
+  - en me begon te betasten.
+  start: !human_time '00:23:32.460'
+- end: !human_time '00:23:42.731'
+  lines:
+  - lk riep de portier. Die gooide 'm eruit
+  - en zei dat hij niet meer welkom was.
+  start: !human_time '00:23:37.020'
+- end: !human_time '00:23:46.495'
+  lines:
+  - Wanneer was dat?
+  - -Twee maanden geleden.
+  start: !human_time '00:23:42.900'
+- end: !human_time '00:23:50.209'
+  lines:
+  - Toen begon de ellende.
+  - -Wat voor ellende?
+  start: !human_time '00:23:46.660'
+- end: !human_time '00:23:54.373'
+  lines:
+  - Hij belde en hing dan op.
+  - Of hij sloeg gore taal uit.
+  start: !human_time '00:23:50.380'
+- end: !human_time '00:23:57.259'
+  lines:
+  - Het is hier aan de rechterkant.
+  start: !human_time '00:23:54.540'
+- end: !human_time '00:24:19.135'
+  lines:
+  - Als je me nodig heb,
+  - bel me dan maar.
+  start: !human_time '00:24:14.380'
+- end: !human_time '00:24:25.335'
+  lines:
+  - Omdat ik niet kan leven van die lessen.
+  - -Pardon?
+  start: !human_time '00:24:21.820'
+- end: !human_time '00:24:28.412'
+  lines:
+  - Dat is 't antwoord.
+  - -Wat is de vraag?
+  start: !human_time '00:24:25.500'
+- end: !human_time '00:24:33.495'
+  lines:
+  - Waarom ik in een tent als deze werk.
+  - Vertel mij wat.
+  start: !human_time '00:24:28.580'
+- end: !human_time '00:24:37.858'
+  lines:
+  - lk heb al een psychiater,
+  - ik hoef er geen twee.
+  start: !human_time '00:24:33.660'
+- end: !human_time '00:24:44.731'
+  lines:
+  - Jack, dit is m'n vriendin Sandy.
+  - Pas op, hij is een smeris.
+  start: !human_time '00:24:40.260'
+- end: !human_time '00:24:48.336'
+  lines:
+  - Kom snel. Sal is goed pissig.
+  - -lk kom eraan.
+  start: !human_time '00:24:44.900'
+- end: !human_time '00:24:53.411'
+  lines:
+  - Bedankt voor de lift.
+  start: !human_time '00:24:51.420'
+- end: !human_time '00:24:58.415'
+  lines:
+  - Heb je de bandjes
+  - met z'n berichten bewaard?
+  start: !human_time '00:24:53.580'
+- end: !human_time '00:25:04.052'
+  lines:
+  - Kan ik die van je krijgen?
+  - -En dan laten verstoffen op je bureau?
+  start: !human_time '00:24:58.580'
+- end: !human_time '00:25:07.370'
+  lines:
+  - Sorry.
+  start: !human_time '00:25:05.300'
+- end: !human_time '00:25:11.658'
+  lines:
+  - Geeft niet. Zo denken mensen
+  - nu eenmaal over smerissen.
+  start: !human_time '00:25:07.540'
+- end: !human_time '00:25:13.572'
+  lines:
+  - Fijne dag nog.
+  start: !human_time '00:25:11.820'
+- end: !human_time '00:25:23.019'
+  lines:
+  - Welkom in de Play Pen heren,
+  - waar 't elk uur happy hour is.
+  start: !human_time '00:25:17.820'
+- end: !human_time '00:25:28.129'
+  lines:
+  - Haal uw handen uit uw zakken en
+  - geef haar een applaus. Hier is Sandy.
+  start: !human_time '00:25:23.180'
+- end: !human_time '00:25:32.452'
+  lines:
+  - ls ze niet beeldschoon?
+  start: !human_time '00:25:29.540'
+- end: !human_time '00:25:36.408'
+  lines:
+  - Zijn die laarzen misschien iets voor u,
+  - dames en heren?
+  start: !human_time '00:25:32.620'
+- end: !human_time '00:25:42.610'
+  lines:
+  - En op podium twee
+  - de beeldschone Jessica.
+  start: !human_time '00:25:37.900'
+- end: !human_time '00:25:45.374'
+  lines:
+  - Een applaus voor Jessica.
+  start: !human_time '00:25:42.780'
+- end: !human_time '00:25:50.170'
+  lines:
+  - ls dat haar eigen haar?
+  - Dat kunt u zo zelf zien.
+  start: !human_time '00:25:45.540'
+- end: !human_time '00:26:25.938'
+  lines:
+  - Hallo Josh, hoe is het met je keel?
+  - Moest je nog met zeep gorgelen?
+  start: !human_time '00:26:20.500'
+- end: !human_time '00:26:28.694'
+  lines:
+  - Ja, geef haar maar.
+  start: !human_time '00:26:26.100'
+- end: !human_time '00:26:31.932'
+  lines:
+  - Hoe gaat het?
+  - Nee, je hebt niks gemist.
+  start: !human_time '00:26:28.860'
+- end: !human_time '00:26:36.013'
+  lines:
+  - lk heb wat dingen nagetrokken,
+  - maar tevergeefs.
+  start: !human_time '00:26:32.100'
+- end: !human_time '00:26:37.852'
+  lines:
+  - !!python/str "Ok\xE9, tot morgen."
+  start: !human_time '00:26:36.180'
+- end: !human_time '00:26:41.296'
+  lines:
+  - Nee, ik ga meteen naar huis, moeder.
+  start: !human_time '00:26:38.020'
+- end: !human_time '00:26:46.537'
+  lines:
+  - !!python/str "H\xE9, Jack. Goed dat ik je zie."
+  start: !human_time '00:26:43.420'
+- end: !human_time '00:26:49.737'
+  lines:
+  - We gaan naar O'Malleys.
+  - Ga je mee?
+  start: !human_time '00:26:46.700'
+- end: !human_time '00:26:51.731'
+  lines:
+  - Kom op.
+  start: !human_time '00:26:49.900'
+- end: !human_time '00:26:53.891'
+  lines:
+  - Waarom ook niet.
+  start: !human_time '00:26:51.900'
+- end: !human_time '00:27:50.050'
+  lines:
+  - Rechercheur Lucas wist niets...
+  start: !human_time '00:27:46.740'
+- end: !human_time '00:27:54.008'
+  lines:
+  - van de contacten van Voss
+  - met de Red Dragons.
+  start: !human_time '00:27:50.220'
+- end: !human_time '00:28:01.018'
+  lines:
+  - verhoorvideo's
+  start: !human_time '00:27:59.380'
+- end: !human_time '00:28:06.732'
+  lines:
+  - Moet je horen. Een indiaanse knul gaat
+  - naar een bordeel voor z'n eerste wip.
+  start: !human_time '00:28:01.180'
+- end: !human_time '00:28:12.418'
+  lines:
+  - Ze zeggen dat ie eerst moet gaan
+  - oefenen op een gat in een boom.
+  start: !human_time '00:28:06.900'
+- end: !human_time '00:28:16.255'
+  lines:
+  - 'Als hij terugkomt, zegt hij:'
+  - lk ben er klaar voor.
+  start: !human_time '00:28:12.580'
+- end: !human_time '00:28:20.618'
+  lines:
+  - Ze sturen 'm met de beste hoer
+  - naar achteren.
+  start: !human_time '00:28:16.420'
+- end: !human_time '00:28:25.615'
+  lines:
+  - Begint ie met een stok in haar
+  - 'te porren. Ze zegt: Wat doe je?'
+  start: !human_time '00:28:20.780'
+- end: !human_time '00:28:29.898'
+  lines:
+  - 'Hij zegt: lk nu slim.'
+  - Eerst op bijen controleren.
+  start: !human_time '00:28:25.780'
+- end: !human_time '00:28:39.935'
+  lines:
+  - Vertelde je die vorige week ook niet?
+  - -Welnee, hij is gloednieuw.
+  start: !human_time '00:28:33.700'
+- end: !human_time '00:28:43.615'
+  lines:
+  - lk ga nokken.
+  - Nee, ik zie jullie morgen.
+  start: !human_time '00:28:40.100'
+- end: !human_time '00:28:46.613'
+  lines:
+  - De nacht is nog jong. Kom op, Jack.
+  start: !human_time '00:28:43.780'
+- end: !human_time '00:28:50.534'
+  lines:
+  - Kom, ik heb nog een heleboel moppen.
+  start: !human_time '00:28:46.780'
+- end: !human_time '00:28:54.693'
+  lines:
+  - !!python/str "Ok\xE9, ik haal nog een rondje."
+  - Martinez, opzij.
+  start: !human_time '00:28:50.700'
+- end: !human_time '00:28:56.612'
+  lines:
+  - Koud graag, Jack.
+  start: !human_time '00:28:54.860'
+- end: !human_time '00:29:21.696'
+  lines:
+  - Jack, fijn je te zien.
+  - -Waar is m'n pistool?
+  start: !human_time '00:29:18.340'
+- end: !human_time '00:29:24.932'
+  lines:
+  - Dat duikt wel ergens op.
+  - -Uitstappen.
+  start: !human_time '00:29:21.860'
+- end: !human_time '00:29:29.457'
+  lines:
+  - Je dossier is niet echt smetteloos.
+  - -Hoe weet jij dat?
+  start: !human_time '00:29:25.100'
+- end: !human_time '00:29:35.968'
+  lines:
+  - Je hebt geen dienst. Relax toch eens.
+  - -Stoppen. Je bent gearresteerd.
+  start: !human_time '00:29:29.620'
+- end: !human_time '00:29:46.212'
+  lines:
+  - Blijf van dat glas af.
+  - Neem me niet kwalijk.
+  start: !human_time '00:29:41.980'
+- end: !human_time '00:29:49.497'
+  lines:
+  - Heb je misschien een zakje voor me?
+  start: !human_time '00:29:46.380'
+- end: !human_time '00:30:56.010'
+  lines:
+  - Joe, wat spijt me dat nou.
+  - Was dat je neus?
+  start: !human_time '00:30:52.700'
+- end: !human_time '00:31:09.730'
+  lines:
+  - Stop.
+  start: !human_time '00:31:07.660'
+- end: !human_time '00:31:13.615'
+  lines:
+  - Leuk huis heb je, Joe.
+  start: !human_time '00:31:11.420'
+- end: !human_time '00:31:23.134'
+  lines:
+  - lk hou erg van 'modern gescheiden'.
+  - lk ga 't bij mij ook opknappen.
+  start: !human_time '00:31:18.140'
+- end: !human_time '00:31:30.260'
+  lines:
+  - Tjonge, midden in de woonkamer.
+  - Dat mocht vast niet van vrouwlief.
+  start: !human_time '00:31:25.140'
+- end: !human_time '00:31:34.379'
+  lines:
+  - Waarom doe je dit?
+  - -De samenleving is verrot, Joe.
+  start: !human_time '00:31:30.420'
+- end: !human_time '00:31:38.579'
+  lines:
+  - De politie krijgt kritiek,
+  - misdadigers gaan vrijuit.
+  start: !human_time '00:31:34.540'
+- end: !human_time '00:31:46.010'
+  lines:
+  - Maar als klootzakken als jij het andere
+  - smerissen nog moeilijker maken...
+  start: !human_time '00:31:38.740'
+- end: !human_time '00:31:50.219'
+  lines:
+  - is voor mij de maat vol.
+  - -Wat wil je van me?
+  start: !human_time '00:31:46.180'
+- end: !human_time '00:31:55.454'
+  lines:
+  - lk wil dat je dit tekent.
+  - lk heb wat wijzigingen aangebracht.
+  start: !human_time '00:31:50.380'
+- end: !human_time '00:31:58.692'
+  lines:
+  - lk heb dit niet geschreven.
+  - Dit is smerig.
+  start: !human_time '00:31:55.620'
+- end: !human_time '00:32:02.899'
+  lines:
+  - Lucas was niet betrokken.
+  - -Tekenen, verdomme.
+  start: !human_time '00:31:58.860'
+- end: !human_time '00:32:12.378'
+  lines:
+  - Dank je wel, Joe.
+  start: !human_time '00:32:10.740'
+- end: !human_time '00:32:17.851'
+  lines:
+  - Je hebt me erg geholpen,
+  - ondanks je moeilijke situatie.
+  start: !human_time '00:32:13.300'
+- end: !human_time '00:32:29.738'
+  lines:
+  - Moordzaken, met Lucas.
+  - -Wat 'n kick om je op je werk te bellen.
+  start: !human_time '00:32:25.460'
+- end: !human_time '00:32:34.610'
+  lines:
+  - Ben je boeven aan 't opsporen?
+  - -Luister, 't moet afgelopen zijn.
+  start: !human_time '00:32:29.900'
+- end: !human_time '00:32:38.739'
+  lines:
+  - Niet zo'n toon, Jack.
+  - Je spreekt met je maatje Ollie.
+  start: !human_time '00:32:34.780'
+- end: !human_time '00:32:42.688'
+  lines:
+  - Je hebt me het verkeerde dossier
+  - gegeven.
+  start: !human_time '00:32:38.900'
+- end: !human_time '00:32:48.093'
+  lines:
+  - Je hebt iets van me en ik wil het terug.
+  - -Wat zei je? Praat wat harder.
+  start: !human_time '00:32:42.860'
+- end: !human_time '00:32:56.099'
+  lines:
+  - Ach, natuurlijk. Dat gaat niet
+  - met al die smerissen om je heen.
+  start: !human_time '00:32:50.820'
+- end: !human_time '00:33:01.892'
+  lines:
+  - !!python/str "Vast g\u0119nant als je pistool is gejat"
+  - en je het niet hebt gemeld.
+  start: !human_time '00:32:56.260'
+- end: !human_time '00:33:07.612'
+  lines:
+  - Er zijn nog geen slachtoffers gevallen.
+  - Maak 't jezelf niet moeilijker.
+  start: !human_time '00:33:02.060'
+- end: !human_time '00:33:12.729'
+  lines:
+  - lk heb 't heel makkelijk. Het verrast me
+  - hoe behulpzaam je bent.
+  start: !human_time '00:33:07.780'
+- end: !human_time '00:33:16.893'
+  lines:
+  - Dat stel ik erg op prijs, hoor.
+  - Echt waar.
+  start: !human_time '00:33:12.900'
+- end: !human_time '00:33:21.451'
+  lines:
+  - En dat er geen slachtoffers zijn,
+  - dat klopt niet helemaal.
+  start: !human_time '00:33:17.060'
+- end: !human_time '00:33:23.178'
+  lines:
+  - Je hoort het goed.
+  start: !human_time '00:33:21.620'
+- end: !human_time '00:33:28.698'
+  lines:
+  - Vervelend dat je je pistool kwijt bent,
+  - maar ik heb 'm te grazen genomen.
+  start: !human_time '00:33:23.340'
+- end: !human_time '00:33:31.857'
+  lines:
+  - Over wie heb je het?
+  start: !human_time '00:33:29.980'
+- end: !human_time '00:33:36.172'
+  lines:
+  - lk zal je een hint geven.
+  - Heb je Dexter al gezien?
+  start: !human_time '00:33:32.020'
+- end: !human_time '00:33:45.457'
+  lines:
+  - !!python/str "Hij is er niet, h\u010D?"
+  start: !human_time '00:33:43.580'
+- end: !human_time '00:33:51.294'
+  lines:
+  - Misschien omdat z'n hersens
+  - over z'n hele huiskamervloer liggen.
+  start: !human_time '00:33:46.300'
+- end: !human_time '00:33:55.372'
+  lines:
+  - Heb ik het je te makkelijk gemaakt?
+  start: !human_time '00:33:52.460'
+- end: !human_time '00:33:57.815'
+  lines:
+  - Jack, ben je daar nog?
+  start: !human_time '00:33:55.540'
+- end: !human_time '00:34:04.418'
+  lines:
+  - Kom op, geef toe dat je je verkneukelt.
+  start: !human_time '00:34:01.460'
+- end: !human_time '00:34:07.333'
+  lines:
+  - ls dit een zieke grap?
+  start: !human_time '00:34:04.580'
+- end: !human_time '00:34:15.418'
+  lines:
+  - Nee, Jack. lk zou nooit met de dood
+  - spotten. Daar is de dood te eng voor.
+  start: !human_time '00:34:09.980'
+- end: !human_time '00:34:19.334'
+  lines:
+  - Met Gifford. Trek Lucas z'n lijn na.
+  - Snel.
+  start: !human_time '00:34:15.580'
+- end: !human_time '00:34:22.378'
+  lines:
+  - Heb je z'n rapport al gezien?
+  start: !human_time '00:34:19.500'
+- end: !human_time '00:34:26.738'
+  lines:
+  - lk kan niet alles voor je oplossen.
+  - Dat rapport is jouw zorg.
+  start: !human_time '00:34:22.540'
+- end: !human_time '00:34:32.179'
+  lines:
+  - Wacht eventjes.
+  - Laten we hier even over praten.
+  start: !human_time '00:34:26.900'
+- end: !human_time '00:34:36.015'
+  lines:
+  - Weet je, ik voel me sterk.
+  start: !human_time '00:34:32.340'
+- end: !human_time '00:34:39.695'
+  lines:
+  - Sterk genoeg
+  - om met die ex van me af te rekenen.
+  start: !human_time '00:34:36.180'
+- end: !human_time '00:34:44.536'
+  lines:
+  - Wat Dexter is overkomen. Kunnen
+  - we 't daar nog even over hebben?
+  start: !human_time '00:34:39.860'
+- end: !human_time '00:34:49.933'
+  lines:
+  - lk haal nog wat kwartjes. Kunnen we
+  - nog even kletsen. De groeten.
+  start: !human_time '00:34:44.700'
+- end: !human_time '00:35:01.218'
+  lines:
+  - Wie was dat?
+  start: !human_time '00:34:59.500'
+- end: !human_time '00:35:05.370'
+  lines:
+  - Anonieme tip.
+  start: !human_time '00:35:03.300'
+- end: !human_time '00:35:07.098'
+  lines:
+  - Waarover?
+  start: !human_time '00:35:05.540'
+- end: !human_time '00:35:45.575'
+  lines:
+  - Sorry, ik geef geen handtekeningen.
+  - -Leuk.
+  start: !human_time '00:35:42.060'
+- end: !human_time '00:35:50.850'
+  lines:
+  - 'Maar ik zal je dit zeggen:'
+  - De dader is een roekeloos type...
+  start: !human_time '00:35:46.220'
+- end: !human_time '00:35:54.615'
+  lines:
+  - of hij wil iemand
+  - ervoor laten opdraaien.
+  start: !human_time '00:35:51.020'
+- end: !human_time '00:35:59.934'
+  lines:
+  - Kijk wat Bressler net heeft gevonden.
+  - -Op straat. Met bloed erop.
+  start: !human_time '00:35:54.780'
+- end: !human_time '00:36:04.616'
+  lines:
+  - Heeft ie vast laten vallen.
+  - lk leg dit even in de wagen.
+  start: !human_time '00:36:00.100'
+- end: !human_time '00:36:10.853'
+  lines:
+  - Kijk 's wie we daar hebben.
+  start: !human_time '00:36:08.180'
+- end: !human_time '00:36:16.488'
+  lines:
+  - Alle lokale tv-stations
+  - staan vast buiten.
+  start: !human_time '00:36:12.700'
+- end: !human_time '00:36:21.812'
+  lines:
+  - Lieve hemel, hij heeft grime op.
+  start: !human_time '00:36:18.820'
+- end: !human_time '00:36:32.015'
+  lines:
+  - Zo te zien is niemand erg verdrietig.
+  - -Hij was nooit de vriendelijkste.
+  start: !human_time '00:36:25.940'
+- end: !human_time '00:36:34.057'
+  lines:
+  - Dat kun je wel zeggen.
+  start: !human_time '00:36:32.180'
+- end: !human_time '00:36:38.532'
+  lines:
+  - Dus jullie waren er 't eerst?
+  - -Lucas kreeg 'n anonieme tip.
+  start: !human_time '00:36:34.220'
+- end: !human_time '00:36:43.410'
+  lines:
+  - Juist. lk weet het een en ander
+  - van de OlS. Wat hebben jullie?
+  start: !human_time '00:36:38.700'
+- end: !human_time '00:36:51.418'
+  lines:
+  - Tijdstip van overlijden tussen drie en
+  - zes 's ochtends. De kogel is een 9 mm.
+  start: !human_time '00:36:44.580'
+- end: !human_time '00:36:56.256'
+  lines:
+  - Het lijkt op een liquidatie.
+  - !!python/str "-Ok\xE9, een beroeps dus."
+  start: !human_time '00:36:51.580'
+- end: !human_time '00:37:03.019'
+  lines:
+  - Of iemand die een wrok tegen 'm had.
+  - Z'n eerste ex wilde alimentatie van 'm.
+  start: !human_time '00:36:56.420'
+- end: !human_time '00:37:07.458'
+  lines:
+  - Z'n tweede ex betrapte 'm
+  - met z'n eerste op de pooltafel.
+  start: !human_time '00:37:03.180'
+- end: !human_time '00:37:10.930'
+  lines:
+  - Dat hoef ik nu
+  - niet allemaal te weten.
+  start: !human_time '00:37:07.620'
+- end: !human_time '00:37:15.696'
+  lines:
+  - Het is niet fraai, maar ze zou 'm
+  - vermoorden als ze hem weer zag.
+  start: !human_time '00:37:11.100'
+- end: !human_time '00:37:18.169'
+  lines:
+  - Misschien is dat gebeurd.
+  start: !human_time '00:37:15.860'
+- end: !human_time '00:37:20.217'
+  lines:
+  - Lucas, wat denk jij?
+  start: !human_time '00:37:18.340'
+- end: !human_time '00:37:24.172'
+  lines:
+  - We kunnen nog niemand uitsluiten.
+  start: !human_time '00:37:21.260'
+- end: !human_time '00:37:31.374'
+  lines:
+  - Er zijn heel wat goeie politiemensen
+  - werkloos dankzij Dexter.
+  start: !human_time '00:37:26.220'
+- end: !human_time '00:37:35.658'
+  lines:
+  - En er lopen nog vijftien onderzoeken
+  - in dit district.
+  start: !human_time '00:37:31.540'
+- end: !human_time '00:37:41.178'
+  lines:
+  - Onder andere tegen jou.
+  - -Dat weet iedereen.
+  start: !human_time '00:37:36.900'
+- end: !human_time '00:37:43.012'
+  lines:
+  - Precies.
+  start: !human_time '00:37:41.340'
+- end: !human_time '00:37:45.774'
+  lines:
+  - Dit is smullen voor de media.
+  start: !human_time '00:37:43.180'
+- end: !human_time '00:37:49.774'
+  lines:
+  - Begrijp je? We mogen geen
+  - misstappen meer maken.
+  start: !human_time '00:37:45.940'
+- end: !human_time '00:37:53.052'
+  lines:
+  - Dus ik zet Bressler en Martinez hierop.
+  start: !human_time '00:37:49.980'
+- end: !human_time '00:37:56.053'
+  lines:
+  - Vat het niet persoonlijk op.
+  start: !human_time '00:37:53.220'
+- end: !human_time '00:38:30.530'
+  lines:
+  - Heb jij aspirine? lk geloof dat
+  - m'n zoon me heeft aangestoken.
+  start: !human_time '00:38:24.500'
+- end: !human_time '00:38:34.056'
+  lines:
+  - Heeft je lunch gesmaakt?
+  - -Prima, hoezo?
+  start: !human_time '00:38:30.700'
+- end: !human_time '00:38:36.734'
+  lines:
+  - Je toetje is er.
+  start: !human_time '00:38:34.220'
+- end: !human_time '00:38:41.451'
+  lines:
+  - Dat schatje daar.
+  - Ze wilde alleen met jou praten.
+  start: !human_time '00:38:36.900'
+- end: !human_time '00:38:45.977'
+  lines:
+  - Geef toe, je doet 't met haar.
+  - -Nee, ze is gewoon...
+  start: !human_time '00:38:41.620'
+- end: !human_time '00:38:50.053'
+  lines:
+  - Je kan het mij heus wel zeggen.
+  - -lk ben zo terug.
+  start: !human_time '00:38:46.140'
+- end: !human_time '00:38:54.778'
+  lines:
+  - Je bent een varken, Bressler.
+  start: !human_time '00:38:51.900'
+- end: !human_time '00:39:01.456'
+  lines:
+  - !!python/str "Heb je die bandjes? ls alles ok\xE9?"
+  - -Hij was vannacht in m'n woning.
+  start: !human_time '00:38:55.620'
+- end: !human_time '00:39:07.092'
+  lines:
+  - Hoe is hij erin gekomen?
+  - -Weet ik niet. Alles was nog op slot.
+  start: !human_time '00:39:01.620'
+- end: !human_time '00:39:10.377'
+  lines:
+  - Heb je hem gezien?
+  - -Nee, ik sliep.
+  start: !human_time '00:39:07.260'
+- end: !human_time '00:39:11.893'
+  lines:
+  - !!python/str "Ok\xE9, kalmeer."
+  start: !human_time '00:39:10.540'
+- end: !human_time '00:39:15.575'
+  lines:
+  - Dat gaat niet.
+  - lk wil dat ie wordt opgepakt.
+  start: !human_time '00:39:12.060'
+- end: !human_time '00:39:20.655'
+  lines:
+  - Dat wil ik net zo graag als jij.
+  - lk sta aan jouw kant.
+  start: !human_time '00:39:15.740'
+- end: !human_time '00:39:24.654'
+  lines:
+  - Maar ik moet de procedures volgen.
+  - Zo gaat dat.
+  start: !human_time '00:39:20.820'
+- end: !human_time '00:39:30.850'
+  lines:
+  - Hij was in m'n woning. Hij kan me zo
+  - in m'n bed vermoorden. Zo gaat dat.
+  start: !human_time '00:39:24.820'
+- end: !human_time '00:39:35.693'
+  lines:
+  - lk wil met een vrouw praten.
+  start: !human_time '00:39:32.940'
+- end: !human_time '00:39:39.819'
+  lines:
+  - !!python/str "Ok\xE9, maar die moet ook"
+  - de procedures volgen.
+  start: !human_time '00:39:35.860'
+- end: !human_time '00:39:45.577'
+  lines:
+  - Als dat betekent dat ik moet wachten
+  - tot die gek m'n keel doorsnijdt...
+  start: !human_time '00:39:39.980'
+- end: !human_time '00:39:50.018'
+  lines:
+  - voordat je wat doet,
+  - kun je die procedure in je reet steken.
+  start: !human_time '00:39:45.740'
+- end: !human_time '00:39:52.375'
+  lines:
+  - Wacht eventjes.
+  start: !human_time '00:39:50.180'
+- end: !human_time '00:39:59.012'
+  lines:
+  - 'Bekijk ''t als een rechter: Er zijn geen'
+  - sporen van braak, er is niks gestolen...
+  start: !human_time '00:39:53.540'
+- end: !human_time '00:40:03.253'
+  lines:
+  - en je hebt 'm niet gezien.
+  - lk kan 'm niet zomaar oppakken.
+  start: !human_time '00:39:59.180'
+- end: !human_time '00:40:07.015'
+  lines:
+  - Wil je een reden? Hier.
+  start: !human_time '00:40:03.420'
+- end: !human_time '00:40:13.016'
+  lines:
+  - Hij heeft me een cadeautje gebracht.
+  - Raad maar wat ie ermee heeft gedaan.
+  start: !human_time '00:40:07.180'
+- end: !human_time '00:40:15.819'
+  lines:
+  - Laat dat de rechter maar zien.
+  start: !human_time '00:40:13.180'
+- end: !human_time '00:40:23.250'
+  lines:
+  - Jessica, alsjeblieft.
+  start: !human_time '00:40:21.180'
+- end: !human_time '00:40:36.893'
+  lines:
+  - Die wallen onder je ogen
+  - heb je toch niet van haar?
+  start: !human_time '00:40:32.900'
+- end: !human_time '00:40:50.373'
+  lines:
+  - Heeft Dexter je z'n rapport laten lezen
+  - voordat hij werd vermoord?
+  start: !human_time '00:40:45.060'
+- end: !human_time '00:40:52.496'
+  lines:
+  - Hoe bedoel je?
+  start: !human_time '00:40:50.540'
+- end: !human_time '00:40:57.253'
+  lines:
+  - lk stel een simpele vraag.
+  - -Natuurlijk niet. Hoezo?
+  start: !human_time '00:40:53.260'
+- end: !human_time '00:41:04.371'
+  lines:
+  - Er liepen 1 5 onderzoeken, maar er
+  - liggen maar 1 4 dossiers in z'n kast.
+  start: !human_time '00:40:57.420'
+- end: !human_time '00:41:06.496'
+  lines:
+  - Het jouwe ontbreekt.
+  start: !human_time '00:41:04.540'
+- end: !human_time '00:41:13.016'
+  lines:
+  - Laat maar.
+  - Hopelijk duikt het weer op.
+  start: !human_time '00:41:09.580'
+- end: !human_time '00:41:48.254'
+  lines:
+  - Hallo, George. Fijn dat je me terugbelt.
+  - Zaten er vingerafdrukken op dat glas?
+  start: !human_time '00:41:41.940'
+- end: !human_time '00:41:53.339'
+  lines:
+  - Nou ja, het was 't proberen waard.
+  start: !human_time '00:41:50.620'
+- end: !human_time '00:42:03.936'
+  lines:
+  - Met Jess, spreek een bericht in.
+  - Als 't over m'n werk gaat...
+  start: !human_time '00:41:59.260'
+- end: !human_time '00:42:24.650'
+  lines:
+  - Je wordt al net zo erg als hij.
+  - -Wacht even.
+  start: !human_time '00:42:21.340'
+- end: !human_time '00:42:28.813'
+  lines:
+  - lk kom weer te laat op m'n werk.
+  - -Wacht nou eventjes.
+  start: !human_time '00:42:24.820'
+- end: !human_time '00:42:31.733'
+  lines:
+  - lk ben 't. Jess.
+  start: !human_time '00:42:28.980'
+- end: !human_time '00:42:34.016'
+  lines:
+  - Het spijt me.
+  start: !human_time '00:42:31.900'
+- end: !human_time '00:42:38.378'
+  lines:
+  - lk was tactloos, maar er is
+  - meer aan de hand met die Ollie.
+  start: !human_time '00:42:34.180'
+- end: !human_time '00:42:41.418'
+  lines:
+  - lk kon er niet over praten...
+  - -Problemen?
+  start: !human_time '00:42:38.540'
+- end: !human_time '00:42:44.333'
+  lines:
+  - !!python/str "Nee, hij is ok\xE9. Dank je."
+  start: !human_time '00:42:41.580'
+- end: !human_time '00:42:47.654'
+  lines:
+  - lk ben om elf uur klaar.
+  start: !human_time '00:42:45.220'
+- end: !human_time '00:42:51.370'
+  lines:
+  - Dan haal ik je op.
+  start: !human_time '00:42:49.140'
+- end: !human_time '00:43:53.815'
+  lines:
+  - Handjes thuis.
+  start: !human_time '00:43:51.460'
+- end: !human_time '00:44:14.133'
+  lines:
+  - Jippie. lk ben hier weg.
+  start: !human_time '00:44:11.460'
+- end: !human_time '00:44:18.930'
+  lines:
+  - Die engerd geeft me genoeg om
+  - m'n huur te betalen. Nee, niet hij.
+  start: !human_time '00:44:14.300'
+- end: !human_time '00:44:23.378'
+  lines:
+  - Hij heeft lang haar en een goor gebit.
+  start: !human_time '00:44:19.100'
+- end: !human_time '00:44:27.579'
+  lines:
+  - Kun je alleen naar huis met de taxi?
+  - -lk krijg een lift.
+  start: !human_time '00:44:23.540'
+- end: !human_time '00:44:30.015'
+  lines:
+  - Nee toch?
+  - Niks zeggen.
+  start: !human_time '00:44:27.740'
+- end: !human_time '00:44:33.495'
+  lines:
+  - Geen beweging. Politie.
+  - -Hou op.
+  start: !human_time '00:44:31.220'
+- end: !human_time '00:44:38.450'
+  lines:
+  - Sorry, maar ik zal u moeten fouilleren.
+  - -Kap ermee.
+  start: !human_time '00:44:33.660'
+- end: !human_time '00:44:41.851'
+  lines:
+  - Het is niet wat je denkt.
+  - -Het zal wel.
+  start: !human_time '00:44:38.620'
+- end: !human_time '00:44:48.776'
+  lines:
+  - Zeg Mike, kun je 'n taxi bellen?
+  - !!python/str "-Ok\xE9. Tingeling."
+  start: !human_time '00:44:44.180'
+- end: !human_time '00:44:55.496'
+  lines:
+  - Hij is best leuk.
+  - !!python/str "-Ok\xE9, maar geef je baan nog niet op."
+  start: !human_time '00:44:50.900'
+- end: !human_time '00:44:57.059'
+  lines:
+  - Wacht even.
+  start: !human_time '00:44:55.660'
+- end: !human_time '00:45:05.257'
+  lines:
+  - Je bent vroeg.
+  - -Echt? Ze zei elf uur.
+  start: !human_time '00:45:02.140'
+- end: !human_time '00:45:08.173'
+  lines:
+  - Ja, maar vorige keer was ze te laat.
+  start: !human_time '00:45:05.420'
+- end: !human_time '00:45:12.492'
+  lines:
+  - lk vraag me af waarom.
+  - Misschien moet ze langer blijven.
+  start: !human_time '00:45:08.340'
+- end: !human_time '00:45:16.938'
+  lines:
+  - Ga naar binnen, ze is te gek.
+  - Mike laat je er wel gratis in.
+  start: !human_time '00:45:12.660'
+- end: !human_time '00:45:20.450'
+  lines:
+  - lk weet 't niet. Nog een uur?
+  start: !human_time '00:45:18.220'
+- end: !human_time '00:45:23.498'
+  lines:
+  - Je bent toch geen homo?
+  start: !human_time '00:45:20.620'
+- end: !human_time '00:45:27.289'
+  lines:
+  - Geintje.
+  - Nou ja, als je geen zin hebt...
+  start: !human_time '00:45:23.660'
+- end: !human_time '00:45:30.293'
+  lines:
+  - Een taxi voor de Play Pen, graag.
+  start: !human_time '00:45:27.460'
+- end: !human_time '00:45:34.248'
+  lines:
+  - Je kunt me een taxi helpen uitsparen.
+  - -Prima.
+  start: !human_time '00:45:30.460'
+- end: !human_time '00:45:37.935'
+  lines:
+  - Dank je.
+  - Mike, bel die taxi maar af. Tot morgen.
+  start: !human_time '00:45:34.420'
+- end: !human_time '00:45:40.136'
+  lines:
+  - Laat maar zitten.
+  start: !human_time '00:45:38.100'
+- end: !human_time '00:45:42.416'
+  lines:
+  - Het zijn altijd de blondjes.
+  start: !human_time '00:45:40.300'
+- end: !human_time '00:45:53.259'
+  lines:
+  - Daar hebben we de beeldschone
+  - Jessica. Een applaus graag.
+  start: !human_time '00:45:46.820'
+- end: !human_time '00:45:58.414'
+  lines:
+  - Wilt u haar veren beter bestuderen?
+  - !!python/str "Neem dan een priv\xE9-cabine..."
+  start: !human_time '00:45:53.420'
+- end: !human_time '00:46:03.449'
+  lines:
+  - of een VlP-lounge, waar ze u
+  - voor een honderdje alles laat zien.
+  start: !human_time '00:45:58.580'
+- end: !human_time '00:46:16.899'
+  lines:
+  - Alsjeblieft.
+  - lk wacht tot je binnen bent.
+  start: !human_time '00:46:12.860'
+- end: !human_time '00:46:20.894'
+  lines:
+  - Doe het licht aan en zwaai even.
+  - Dan ben ik gerust.
+  start: !human_time '00:46:17.060'
+- end: !human_time '00:46:24.450'
+  lines:
+  - Nou, ik zal maar niet
+  - voor jullie opblijven.
+  start: !human_time '00:46:21.060'
+- end: !human_time '00:46:51.051'
+  lines:
+  - !!python/str "Alles ok\xE9."
+  start: !human_time '00:46:49.060'
+- end: !human_time '00:47:20.253'
+  lines:
+  - Wat ga je doen?
+  - -lk mag zolang hier wonen van Sandy.
+  start: !human_time '00:47:16.340'
+- end: !human_time '00:47:23.014'
+  lines:
+  - lk kan nergens anders heen.
+  start: !human_time '00:47:20.420'
+- end: !human_time '00:48:00.618'
+  lines:
+  - lk wil de waarheid weten.
+  - Nu meteen, partner.
+  start: !human_time '00:47:56.420'
+- end: !human_time '00:48:08.129'
+  lines:
+  - Wat speelt er tussen jou en haar?
+  - -lk heb haar ontmoet in de club.
+  start: !human_time '00:48:03.260'
+- end: !human_time '00:48:13.738'
+  lines:
+  - lk wist niet dat je striptenten bezocht,
+  - maar ik ken je nog maar drie maanden.
+  start: !human_time '00:48:08.300'
+- end: !human_time '00:48:17.893'
+  lines:
+  - Je kunt niet alles
+  - !!python/str "in \xE9\xE9n keer vertellen."
+  start: !human_time '00:48:13.900'
+- end: !human_time '00:48:20.938'
+  lines:
+  - Waarom was ze vandaag
+  - op het bureau?
+  start: !human_time '00:48:18.060'
+- end: !human_time '00:48:24.456'
+  lines:
+  - Ze werd bedreigd.
+  - lk zou 't onderzoeken.
+  start: !human_time '00:48:21.100'
+- end: !human_time '00:48:27.214'
+  lines:
+  - Dat doen we nu zeker.
+  start: !human_time '00:48:24.620'
+- end: !human_time '00:48:33.216'
+  lines:
+  - Luister, Jack. lk ben Voss niet.
+  start: !human_time '00:48:29.860'
+- end: !human_time '00:48:39.654'
+  lines:
+  - Je zult me moeten vertrouwen.
+  - Dat had haar leven kunnen redden.
+  start: !human_time '00:48:34.500'
+- end: !human_time '00:48:42.459'
+  lines:
+  - Denk je dat ik dat niet weet?
+  start: !human_time '00:48:39.820'
+- end: !human_time '00:48:49.536'
+  lines:
+  - Ze had dit in haar hand.
+  start: !human_time '00:48:47.420'
+- end: !human_time '00:48:56.208'
+  lines:
+  - We hoeven alleen iemand te zoeken
+  - die geen zakje op z'n shirt heeft.
+  start: !human_time '00:48:51.180'
+- end: !human_time '00:49:00.536'
+  lines:
+  - Zie je dit? Langs de naad?
+  start: !human_time '00:48:57.260'
+- end: !human_time '00:49:04.535'
+  lines:
+  - Dat is tabak.
+  start: !human_time '00:49:02.260'
+- end: !human_time '00:49:07.976'
+  lines:
+  - Een paar korreltjes,
+  - maar hij rookt dus.
+  start: !human_time '00:49:04.700'
+- end: !human_time '00:49:12.736'
+  lines:
+  - Misschien kan het lab uitzoeken
+  - welk merk die schoft rookt.
+  start: !human_time '00:49:08.140'
+- end: !human_time '00:49:19.094'
+  lines:
+  - Zullen we maar
+  - met je vriendin gaan praten?
+  start: !human_time '00:49:15.260'
+- end: !human_time '00:49:35.657'
+  lines:
+  - U kunt hier vannacht niet blijven.
+  - Kunt u ergens anders terecht?
+  start: !human_time '00:49:30.060'
+- end: !human_time '00:49:44.930'
+  lines:
+  - Dan verwijs ik u naar een paar
+  - opvanghuizen waar u heen kunt.
+  start: !human_time '00:49:40.220'
+- end: !human_time '00:49:48.979'
+  lines:
+  - Er zit een goeie in Wiltshire.
+  - lk laat u erheen brengen.
+  start: !human_time '00:49:45.100'
+- end: !human_time '00:49:53.770'
+  lines:
+  - lk wil haar niet als een vreemde
+  - behandelen. lk breng haar wel.
+  start: !human_time '00:49:49.140'
+- end: !human_time '00:49:57.216'
+  lines:
+  - Dat kost me hooguit drie kwartier.
+  start: !human_time '00:49:53.940'
+- end: !human_time '00:50:03.214'
+  lines:
+  - Rechercheur Lucas brengt u erheen.
+  start: !human_time '00:49:59.460'
+- end: !human_time '00:50:15.258'
+  lines:
+  - lk kan ook ergens anders heen.
+  - -Je bent hier veiliger.
+  start: !human_time '00:50:10.980'
+- end: !human_time '00:50:19.857'
+  lines:
+  - lk wil je geen problemen bezorgen.
+  - -lk heb al problemen.
+  start: !human_time '00:50:15.420'
+- end: !human_time '00:50:27.256'
+  lines:
+  - Morgenavond is de DNA-uitslag
+  - van m'n zakdoek er.
+  start: !human_time '00:50:23.820'
+- end: !human_time '00:50:30.093'
+  lines:
+  - Als ik dan nog niks tegen 'm heb...
+  start: !human_time '00:50:27.420'
+- end: !human_time '00:50:43.497'
+  lines:
+  - lk moet terug naar de plaats delict.
+  start: !human_time '00:50:40.300'
+- end: !human_time '00:50:49.050'
+  lines:
+  - Probeer wat te rusten.
+  start: !human_time '00:50:46.900'
+- end: !human_time '00:51:19.130'
+  lines:
+  - Je hoeft niet stil te zijn.
+  start: !human_time '00:51:17.060'
+- end: !human_time '00:51:22.011'
+  lines:
+  - lk ben wakker.
+  start: !human_time '00:51:20.100'
+- end: !human_time '00:51:25.490'
+  lines:
+  - lk zei toch dat je het bed kon nemen?
+  start: !human_time '00:51:22.180'
+- end: !human_time '00:51:29.333'
+  lines:
+  - lk wou je niet tot last zijn.
+  start: !human_time '00:51:26.660'
+- end: !human_time '00:51:34.971'
+  lines:
+  - lk heb wel dit van je geleend.
+  - Het was hier een beetje koud.
+  start: !human_time '00:51:30.420'
+- end: !human_time '00:51:40.298'
+  lines:
+  - Er heeft een vrouw voor je gebeld.
+  start: !human_time '00:51:37.500'
+- end: !human_time '00:51:46.012'
+  lines:
+  - lk heb niet rondgesnuffeld.
+  - lk hoorde je antwoordapparaat.
+  start: !human_time '00:51:40.460'
+- end: !human_time '00:51:48.296'
+  lines:
+  - Sexy stem, hoor.
+  start: !human_time '00:51:46.180'
+- end: !human_time '00:51:52.373'
+  lines:
+  - Dat was Caitlin.
+  - Die wou vast poolshoogte nemen.
+  start: !human_time '00:51:48.460'
+- end: !human_time '00:51:57.453'
+  lines:
+  - Dat is m'n buurvrouw.
+  - lk pas op haar kat.
+  start: !human_time '00:51:54.700'
+- end: !human_time '00:52:00.578'
+  lines:
+  - Daar doet ze nogal neurotisch over.
+  start: !human_time '00:51:57.620'
+- end: !human_time '00:52:03.049'
+  lines:
+  - Wil je koffie?
+  start: !human_time '00:52:00.740'
+- end: !human_time '00:52:04.699'
+  lines:
+  - Graag.
+  start: !human_time '00:52:03.220'
+- end: !human_time '00:52:07.420'
+  lines:
+  - Wel oploskoffie.
+  - -Prima.
+  start: !human_time '00:52:04.860'
+- end: !human_time '00:52:15.416'
+  lines:
+  - Hoe ging het daar,
+  - toen je terugkwam?
+  start: !human_time '00:52:12.140'
+- end: !human_time '00:52:19.379'
+  lines:
+  - Prima.
+  start: !human_time '00:52:17.980'
+- end: !human_time '00:52:25.411'
+  lines:
+  - Heb je je collega verteld
+  - dat ik hier logeer?
+  start: !human_time '00:52:21.020'
+- end: !human_time '00:52:29.693'
+  lines:
+  - Het leek me voorlopig beter van niet.
+  start: !human_time '00:52:26.860'
+- end: !human_time '00:52:38.939'
+  lines:
+  - !!python/str "Ongelooflijk, h\u010D? Hoe \xE9\xE9n mens"
+  - je leven kan verzieken.
+  start: !human_time '00:52:33.660'
+- end: !human_time '00:52:42.820'
+  lines:
+  - Maar als dat twee keer gebeurt...
+  start: !human_time '00:52:40.260'
+- end: !human_time '00:52:45.016'
+  lines:
+  - Nou ja, dat is niet eerlijk.
+  start: !human_time '00:52:42.980'
+- end: !human_time '00:52:49.294'
+  lines:
+  - Wanneer was de eerste keer?
+  start: !human_time '00:52:46.860'
+- end: !human_time '00:52:53.495'
+  lines:
+  - 1 6 september 1 997.
+  start: !human_time '00:52:51.300'
+- end: !human_time '00:52:59.376'
+  lines:
+  - lk was net terug van de workshop
+  - van 't Royal Ballet in Londen.
+  start: !human_time '00:52:54.780'
+- end: !human_time '00:53:04.978'
+  lines:
+  - lk had een auditie voor een grote show
+  - op Broadway en ik was verliefd.
+  start: !human_time '00:52:59.540'
+- end: !human_time '00:53:08.257'
+  lines:
+  - Je weet wat daar is gebeurd.
+  start: !human_time '00:53:05.140'
+- end: !human_time '00:53:13.176'
+  lines:
+  - Je bent niet de eerste
+  - die haar ex verwijten maakt.
+  start: !human_time '00:53:08.500'
+- end: !human_time '00:53:18.209'
+  lines:
+  - Hij heeft me niet zoveel misdaan.
+  - lk heb het over Peter Kiermeier.
+  start: !human_time '00:53:13.340'
+- end: !human_time '00:53:21.130'
+  lines:
+  - Wie is dat?
+  start: !human_time '00:53:18.980'
+- end: !human_time '00:53:23.177'
+  lines:
+  - Een fietskoerier.
+  start: !human_time '00:53:21.300'
+- end: !human_time '00:53:28.815'
+  lines:
+  - Bracht hij slecht nieuws?
+  - -Nee, hij reed me aan.
+  start: !human_time '00:53:24.060'
+- end: !human_time '00:53:36.010'
+  lines:
+  - De dag voor m'n auditie stak ik
+  - 57th Street over. Hij brak m'n enkel.
+  start: !human_time '00:53:29.980'
+- end: !human_time '00:53:38.296'
+  lines:
+  - Dat was dus dat.
+  start: !human_time '00:53:36.180'
+- end: !human_time '00:53:47.412'
+  lines:
+  - Een paard maak je dan af, 'n danseres
+  - kan schoenverkoopster worden.
+  start: !human_time '00:53:40.620'
+- end: !human_time '00:53:58.252'
+  lines:
+  - Je redt je toch aardig?
+  - Je hebt een baan.
+  start: !human_time '00:53:54.100'
+- end: !human_time '00:54:01.297'
+  lines:
+  - Het is ook werk.
+  start: !human_time '00:53:59.420'
+- end: !human_time '00:54:09.451'
+  lines:
+  - Het is nou niet bepaald
+  - m'n jeugddroom.
+  start: !human_time '00:54:06.220'
+- end: !human_time '00:54:15.812'
+  lines:
+  - lk weet wat hij van mij wil.
+  start: !human_time '00:54:12.900'
+- end: !human_time '00:54:18.210'
+  lines:
+  - Maar wat wil hij van jou?
+  start: !human_time '00:54:15.980'
+- end: !human_time '00:54:23.014'
+  lines:
+  - Kon ik daar maar achter komen.
+  start: !human_time '00:54:20.500'
+- end: !human_time '00:54:26.138'
+  lines:
+  - lk heb hem nooit gearresteerd.
+  start: !human_time '00:54:23.180'
+- end: !human_time '00:54:32.535'
+  lines:
+  - Misschien heeft hij jou uitgekozen
+  - omdat hij de politie haat. Willekeurig.
+  start: !human_time '00:54:26.300'
+- end: !human_time '00:54:35.419'
+  lines:
+  - Nee, hij doet niets willekeurig.
+  start: !human_time '00:54:32.700'
+- end: !human_time '00:54:40.210'
+  lines:
+  - Wat er tussen hem en mij is gebeurd,
+  - berust niet op toeval.
+  start: !human_time '00:54:35.580'
+- end: !human_time '00:54:43.571'
+  lines:
+  - Ergens is er een verband.
+  start: !human_time '00:54:40.420'
+- end: !human_time '00:54:52.216'
+  lines:
+  - zie maar dat je me pakt
+  start: !human_time '00:54:47.700'
+- end: !human_time '00:54:56.216'
+  lines:
+  - Dat heb ik eerder gezien. Wat is dat?
+  start: !human_time '00:54:52.940'
+- end: !human_time '00:54:59.854'
+  lines:
+  - lemands leven verzieken, zei je?
+  start: !human_time '00:54:57.340'
+- end: !human_time '00:55:04.377'
+  lines:
+  - lk wil graag iets persoonlijks
+  - met u bespreken.
+  start: !human_time '00:55:00.020'
+- end: !human_time '00:55:06.212'
+  lines:
+  - Prima.
+  start: !human_time '00:55:04.540'
+- end: !human_time '00:55:08.177'
+  lines:
+  - 5 december 1 999.
+  start: !human_time '00:55:06.380'
+- end: !human_time '00:55:14.613'
+  lines:
+  - Op die dag werd uw moeder vermoord
+  - aangetroffen.
+  start: !human_time '00:55:10.700'
+- end: !human_time '00:55:20.374'
+  lines:
+  - Wie heeft dat geschreven?
+  start: !human_time '00:55:17.940'
+- end: !human_time '00:55:24.819'
+  lines:
+  - Degene die m'n moeder heeft vermoord.
+  start: !human_time '00:55:22.100'
+- end: !human_time '00:55:30.615'
+  lines:
+  - Het lag op de plek van het misdrijf.
+  - De zaak is nooit opgelost.
+  start: !human_time '00:55:25.780'
+- end: !human_time '00:55:42.856'
+  lines:
+  - lk ben een betere politieman geworden.
+  - -Hoe dat zo?
+  start: !human_time '00:55:38.340'
+- end: !human_time '00:55:49.209'
+  lines:
+  - lk tref wel eens iemand wiens leven is
+  - verwoest door een of andere schoft...
+  start: !human_time '00:55:43.020'
+- end: !human_time '00:55:52.850'
+  lines:
+  - die zonder scrupules
+  - iemands moeder vermoordt...
+  start: !human_time '00:55:49.380'
+- end: !human_time '00:55:55.409'
+  lines:
+  - of vader of dochter.
+  start: !human_time '00:55:53.020'
+- end: !human_time '00:55:59.971'
+  lines:
+  - Misschien heeft diegene
+  - hem alleen verkeerd aangekeken.
+  start: !human_time '00:55:55.580'
+- end: !human_time '00:56:02.415'
+  lines:
+  - Hij haalt de trekker over...
+  start: !human_time '00:56:00.140'
+- end: !human_time '00:56:06.334'
+  lines:
+  - en dooft voorgoed het licht
+  - in iemands ogen.
+  start: !human_time '00:56:02.580'
+- end: !human_time '00:56:15.455'
+  lines:
+  - lk weet nu
+  - wat zo'n slachtoffer doormaakt.
+  start: !human_time '00:56:11.780'
+- end: !human_time '00:56:19.811'
+  lines:
+  - Kun je dat begrijpen?
+  start: !human_time '00:56:17.820'
+- end: !human_time '00:56:25.210'
+  lines:
+  - lk kan het heel goed begrijpen, Jack.
+  start: !human_time '00:56:21.820'
+- end: !human_time '00:57:03.936'
+  lines:
+  - Wat wil je, klootzak?
+  - -Jezus, Jack. Neem je altijd zo op?
+  start: !human_time '00:56:59.420'
+- end: !human_time '00:57:07.137'
+  lines:
+  - Zo belt er straks niemand meer.
+  start: !human_time '00:57:04.100'
+- end: !human_time '00:57:12.417'
+  lines:
+  - lk moest bellen
+  - als die lui terugkwamen.
+  start: !human_time '00:57:09.220'
+- end: !human_time '00:57:16.459'
+  lines:
+  - Weet je dat dienstertje
+  - met die lekkere kont nog?
+  start: !human_time '00:57:12.580'
+- end: !human_time '00:57:22.297'
+  lines:
+  - Ze heeft betaald met creditcard. Wil je
+  - d'r adres of wil je gore taal uitslaan?
+  start: !human_time '00:57:16.620'
+- end: !human_time '00:57:29.732'
+  lines:
+  - Wat was z'n achternaam?
+  - -lk meen Chadwicke.
+  start: !human_time '00:57:25.420'
+- end: !human_time '00:57:33.813'
+  lines:
+  - lk dacht dat je je auto
+  - kwam laten wassen.
+  start: !human_time '00:57:29.900'
+- end: !human_time '00:57:42.658'
+  lines:
+  - Zat je bij 'm op toneelles?
+  - -Ja. Goeie acteur, maar wel een rare.
+  start: !human_time '00:57:37.300'
+- end: !human_time '00:57:46.415'
+  lines:
+  - lk heb een keer bij hem thuis
+  - !!python/str "een sc\u010Dne geoefend."
+  start: !human_time '00:57:42.820'
+- end: !human_time '00:57:48.730'
+  lines:
+  - Ben je bij hem thuis geweest?
+  start: !human_time '00:57:46.580'
+- end: !human_time '00:58:20.132'
+  lines:
+  - Kijk 's aan. Wat ben jij slim.
+  - -Hallo, Ollie.
+  start: !human_time '00:58:17.140'
+- end: !human_time '00:58:24.532'
+  lines:
+  - Leuk je te zien. Kun je opzij gaan?
+  - -Je bent gearresteerd.
+  start: !human_time '00:58:20.300'
+- end: !human_time '00:58:28.978'
+  lines:
+  - Wegens Dexter? ls ie niet waard.
+  - Die slapjanus smeekte me...
+  start: !human_time '00:58:24.700'
+- end: !human_time '00:58:32.849'
+  lines:
+  - Uitstappen.
+  - -Rustig aan, Jack.
+  start: !human_time '00:58:29.140'
+- end: !human_time '00:58:35.215'
+  lines:
+  - Denk aan de buren.
+  start: !human_time '00:58:33.020'
+- end: !human_time '00:58:38.417'
+  lines:
+  - Ga je me nu neuken?
+  - -Hou je kop.
+  start: !human_time '00:58:35.380'
+- end: !human_time '00:58:45.136'
+  lines:
+  - lk heb niks gedaan.
+  - Bel de politie.
+  start: !human_time '00:58:41.780'
+- end: !human_time '00:58:48.610'
+  lines:
+  - lk ben van de politie.
+  - Alles onder controle.
+  start: !human_time '00:58:45.300'
+- end: !human_time '00:58:50.896'
+  lines:
+  - Hij vermoordt me.
+  start: !human_time '00:58:48.780'
+- end: !human_time '00:58:56.771'
+  lines:
+  - Je hebt 't recht te zwijgen, alles wat
+  - je zegt kan tegen je gebruikt worden.
+  start: !human_time '00:58:51.060'
+- end: !human_time '00:59:01.650'
+  lines:
+  - De staat kan je 'n advocaat toewijzen.
+  - Begrepen, lul?
+  start: !human_time '00:58:56.940'
+- end: !human_time '00:59:07.816'
+  lines:
+  - lnderdaad.
+  - -Even voor de goede orde.
+  start: !human_time '00:59:03.300'
+- end: !human_time '00:59:12.576'
+  lines:
+  - Je maakt geen aanspraak
+  - op je recht op een advocaat?
+  start: !human_time '00:59:07.980'
+- end: !human_time '00:59:16.574'
+  lines:
+  - lk ben onschuldig.
+  - lk heb geen advocaat nodig.
+  start: !human_time '00:59:12.740'
+- end: !human_time '00:59:26.729'
+  lines:
+  - Waarom heb je Joe Dexter vermoord?
+  - -lk ken geen Joe Dexter.
+  start: !human_time '00:59:21.860'
+- end: !human_time '00:59:29.778'
+  lines:
+  - Laat staan dat ik hem heb vermoord.
+  start: !human_time '00:59:26.980'
+- end: !human_time '00:59:45.491'
+  lines:
+  - lk heb 'm nagetrokken, zoals je vroeg.
+  start: !human_time '00:59:42.260'
+- end: !human_time '00:59:48.378'
+  lines:
+  - ls dit alles?
+  start: !human_time '00:59:46.820'
+- end: !human_time '00:59:54.453'
+  lines:
+  - Jack is weg.
+  - Je kunt nu wat meer vrijuit praten.
+  start: !human_time '00:59:50.380'
+- end: !human_time '00:59:59.899'
+  lines:
+  - Geen strafblad. Z'n kenteken levert
+  - ook niks op. Zelfs geen parkeerbon.
+  start: !human_time '00:59:54.620'
+- end: !human_time '01:00:06.135'
+  lines:
+  - Vier jaar geleden overgenomen van
+  - Frank Bigelow. lk begrijp er niks van.
+  start: !human_time '01:00:00.060'
+- end: !human_time '01:00:12.978'
+  lines:
+  - Heeft hij het nu al opgegeven?
+  - -Nee, hij is taai. En vindingrijk.
+  start: !human_time '01:00:06.300'
+- end: !human_time '01:00:16.815'
+  lines:
+  - Laat Dorland met z'n apparaat komen.
+  start: !human_time '01:00:13.140'
+- end: !human_time '01:00:21.053'
+  lines:
+  - Stemt hij in met een leugentest?
+  - -Daar vroeg hij om.
+  start: !human_time '01:00:16.980'
+- end: !human_time '01:00:28.211'
+  lines:
+  - Mr Chadwicke, bezit u een Cadillac?
+  - -Klopt. lk koop graag Amerikaans.
+  start: !human_time '01:00:22.500'
+- end: !human_time '01:00:31.011'
+  lines:
+  - Ja of nee, graag.
+  start: !human_time '01:00:29.180'
+- end: !human_time '01:00:35.493'
+  lines:
+  - Kende u Joe Dexter?
+  start: !human_time '01:00:32.820'
+- end: !human_time '01:00:43.011'
+  lines:
+  - Hebt u Joe Dexter ooit ontmoet?
+  - -Nooit.
+  start: !human_time '01:00:39.780'
+- end: !human_time '01:00:49.174'
+  lines:
+  - Hebt u rechercheur Lucas gisteravond
+  - op het bureau gebeld?
+  start: !human_time '01:00:44.180'
+- end: !human_time '01:00:55.970'
+  lines:
+  - Waarom?
+  - -Hij en z'n vriendin, Jessica Tarrant...
+  start: !human_time '01:00:51.260'
+- end: !human_time '01:00:59.450'
+  lines:
+  - hadden het plan om me chanteren.
+  start: !human_time '01:00:56.140'
+- end: !human_time '01:01:02.578'
+  lines:
+  - Miss Tarrant is een...
+  start: !human_time '01:00:59.620'
+- end: !human_time '01:01:08.337'
+  lines:
+  - Er zijn dames bij, dus laat ik haar
+  - een stripdanseres noemen.
+  start: !human_time '01:01:02.740'
+- end: !human_time '01:01:11.537'
+  lines:
+  - Nu die knullige poging is mislukt...
+  start: !human_time '01:01:08.500'
+- end: !human_time '01:01:16.171'
+  lines:
+  - willen ze me kennelijk laten opdraaien
+  - voor een moord.
+  start: !human_time '01:01:11.700'
+- end: !human_time '01:01:21.130'
+  lines:
+  - Hou toch op.
+  - -Zie je? Hij schudt 't zo uit z'n mouw.
+  start: !human_time '01:01:16.340'
+- end: !human_time '01:01:24.849'
+  lines:
+  - Wat had u voor gesprek
+  - met rechercheur Lucas?
+  start: !human_time '01:01:21.300'
+- end: !human_time '01:01:31.732'
+  lines:
+  - lk moet bekennen dat ik zo nu en dan
+  - de club van Miss Tarrant heb bezocht.
+  start: !human_time '01:01:25.020'
+- end: !human_time '01:01:35.688'
+  lines:
+  - lk geef nogal royale tips.
+  - Dat is een zwak van me.
+  start: !human_time '01:01:31.900'
+- end: !human_time '01:01:41.093'
+  lines:
+  - Miss Tarrant raakte gefixeerd op me,
+  - als je het zo kunt zeggen.
+  start: !human_time '01:01:35.860'
+- end: !human_time '01:01:45.173'
+  lines:
+  - Ze rook geld. M'n familie is rijk
+  - en dan loop je risico.
+  start: !human_time '01:01:41.260'
+- end: !human_time '01:01:49.379'
+  lines:
+  - Laten we bij dat gesprek blijven.
+  - -Natuurlijk.
+  start: !human_time '01:01:45.340'
+- end: !human_time '01:01:53.931'
+  lines:
+  - lk zei dat ik wist waar hij
+  - en Miss Tarrant op uit waren...
+  start: !human_time '01:01:49.540'
+- end: !human_time '01:01:57.979'
+  lines:
+  - en dat hij niet moest denken
+  - dat hij ermee wegkwam.
+  start: !human_time '01:01:54.100'
+- end: !human_time '01:02:01.530'
+  lines:
+  - Het is niet de eerste keer
+  - dat dit gebeurt.
+  start: !human_time '01:01:58.140'
+- end: !human_time '01:02:05.215'
+  lines:
+  - U moest 's weten
+  - tegen wat voor tuig ik aanloop.
+  start: !human_time '01:02:01.700'
+- end: !human_time '01:02:07.450'
+  lines:
+  - Blijf bij het gesprek.
+  start: !human_time '01:02:05.380'
+- end: !human_time '01:02:11.579'
+  lines:
+  - Rechercheur Lucas schold me uit
+  - en ik hing op.
+  start: !human_time '01:02:07.620'
+- end: !human_time '01:02:15.096'
+  lines:
+  - Ongelooflijk.
+  - Wat een smerige leugenaar.
+  start: !human_time '01:02:11.740'
+- end: !human_time '01:02:20.288'
+  lines:
+  - Dit geloof je toch niet, Kev?
+  - Hij werpt een rookgordijn op.
+  start: !human_time '01:02:15.260'
+- end: !human_time '01:02:23.099'
+  lines:
+  - Vraag 'm naar z'n alibi.
+  start: !human_time '01:02:20.460'
+- end: !human_time '01:02:26.730'
+  lines:
+  - Waar was u
+  - toen Dexter werd vermoord?
+  start: !human_time '01:02:23.260'
+- end: !human_time '01:02:28.538'
+  lines:
+  - Thuis.
+  start: !human_time '01:02:26.900'
+- end: !human_time '01:02:34.093'
+  lines:
+  - lk keek naar een oude film van m'n
+  - moeder. lk heb ze allemaal op video.
+  start: !human_time '01:02:28.700'
+- end: !human_time '01:02:37.616'
+  lines:
+  - Dan herinner ik me weer hoe ze was.
+  start: !human_time '01:02:34.260'
+- end: !human_time '01:02:41.375'
+  lines:
+  - Het is alsof ik haar
+  - gisteren ben verloren.
+  start: !human_time '01:02:37.780'
+- end: !human_time '01:02:47.092'
+  lines:
+  - lk lees de krant. lk heb gehoord over
+  - de dubieuze praktijken van dit bureau.
+  start: !human_time '01:02:41.540'
+- end: !human_time '01:02:50.889'
+  lines:
+  - Maar dit... Dit is onaanvaardbaar.
+  start: !human_time '01:02:47.260'
+- end: !human_time '01:02:56.217'
+  lines:
+  - 'Nog een keer, Mr Chadwicke:'
+  - Heeft u Joe Dexter vermoord?
+  start: !human_time '01:02:51.860'
+- end: !human_time '01:02:59.292'
+  lines:
+  - lk heb hem zelfs nooit ontmoet.
+  start: !human_time '01:02:56.380'
+- end: !human_time '01:03:01.018'
+  lines:
+  - Ja of nee.
+  start: !human_time '01:02:59.460'
+- end: !human_time '01:03:21.693'
+  lines:
+  - Dit is vast niet wat je wilt horen.
+  - -Vertel op.
+  start: !human_time '01:03:17.780'
+- end: !human_time '01:03:24.533'
+  lines:
+  - lk denk dat hij de waarheid spreekt.
+  start: !human_time '01:03:21.860'
+- end: !human_time '01:03:29.899'
+  lines:
+  - Hoe kan dat? Jack zegt dat hij
+  - heeft bekend en ik geloof hem.
+  start: !human_time '01:03:24.700'
+- end: !human_time '01:03:32.779'
+  lines:
+  - Er is iets vreemds aan die vent.
+  start: !human_time '01:03:30.060'
+- end: !human_time '01:03:35.898'
+  lines:
+  - Hij bedot je detector.
+  - -Kan zijn.
+  start: !human_time '01:03:32.940'
+- end: !human_time '01:03:42.169'
+  lines:
+  - Of hij is zo gek dat hij gelooft wat hij
+  - zegt of hij spreekt de waarheid. Sorry.
+  start: !human_time '01:03:36.060'
+- end: !human_time '01:03:48.457'
+  lines:
+  - Laat hem gaan.
+  start: !human_time '01:03:46.660'
+- end: !human_time '01:03:58.936'
+  lines:
+  - U kunt gaan.
+  start: !human_time '01:03:56.900'
+- end: !human_time '01:04:04.534'
+  lines:
+  - Zie maar dat je me pakt.
+  start: !human_time '01:04:02.020'
+- end: !human_time '01:04:08.930'
+  lines:
+  - Wat zei je daar?
+  start: !human_time '01:04:06.860'
+- end: !human_time '01:04:11.930'
+  lines:
+  - Vuile moordenaar.
+  start: !human_time '01:04:09.780'
+- end: !human_time '01:04:17.730'
+  lines:
+  - Bressler, hou hem tegen.
+  - -Haal hem hier weg.
+  start: !human_time '01:04:13.100'
+- end: !human_time '01:04:20.494'
+  lines:
+  - lk heb 'm.
+  - -lk weet 't. Hoor je me?
+  start: !human_time '01:04:17.900'
+- end: !human_time '01:04:22.776'
+  lines:
+  - Weg met 'm.
+  start: !human_time '01:04:20.660'
+- end: !human_time '01:04:41.649'
+  lines:
+  - We zijn tot het volgende bereid.
+  - We vergoeden alle ziekenhuiskosten.
+  start: !human_time '01:04:35.460'
+- end: !human_time '01:04:48.373'
+  lines:
+  - Evenals overige kosten. lk hoop
+  - dat u uw aanklachten wilt intrekken.
+  start: !human_time '01:04:41.820'
+- end: !human_time '01:04:52.533'
+  lines:
+  - Hij heeft me verwond
+  - en in het openbaar vernederd.
+  start: !human_time '01:04:48.540'
+- end: !human_time '01:04:54.930'
+  lines:
+  - Dat spijt me heel erg.
+  start: !human_time '01:04:52.700'
+- end: !human_time '01:04:58.331'
+  lines:
+  - Het spijt hem ook.
+  - Hij is opvliegend.
+  start: !human_time '01:04:55.100'
+- end: !human_time '01:05:03.096'
+  lines:
+  - Maar ik denk dat het korps
+  - het beter zelf kan afhandelen.
+  start: !human_time '01:04:58.500'
+- end: !human_time '01:05:07.811'
+  lines:
+  - Het korps is een schande.
+  - lk dien een aanklacht in.
+  start: !human_time '01:05:03.260'
+- end: !human_time '01:05:11.893'
+  lines:
+  - lk heb vrienden bij de media
+  - en de raad van toezicht.
+  start: !human_time '01:05:07.980'
+- end: !human_time '01:05:17.612'
+  lines:
+  - Het is bekend dat u commissaris wilt
+  - worden. Kijk maar niet zo zelfvoldaan.
+  start: !human_time '01:05:12.060'
+- end: !human_time '01:05:22.729'
+  lines:
+  - Arresteer die man onmiddellijk
+  - of ik maak uw leven tot een hel.
+  start: !human_time '01:05:17.780'
+- end: !human_time '01:05:27.975'
+  lines:
+  - !!python/str "Ok\xE9, u heeft m'n woord."
+  - -Mooi.
+  start: !human_time '01:05:24.460'
+- end: !human_time '01:05:47.654'
+  lines:
+  - De deur.
+  start: !human_time '01:05:45.140'
+- end: !human_time '01:06:08.490'
+  lines:
+  - En de DNA-test?
+  - Laat het me onmiddellijk weten.
+  start: !human_time '01:06:03.780'
+- end: !human_time '01:06:18.417'
+  lines:
+  - De portier van de Play Pen heeft het
+  - vermoorde meisje bij je zien instappen.
+  start: !human_time '01:06:12.740'
+- end: !human_time '01:06:23.051'
+  lines:
+  - Jij bent dus de laatste
+  - die haar levend heeft gezien.
+  start: !human_time '01:06:18.580'
+- end: !human_time '01:06:28.769'
+  lines:
+  - Jij bent dus de laatste
+  - die haar levend heeft gezien.
+  start: !human_time '01:06:23.820'
+- end: !human_time '01:06:31.135'
+  lines:
+  - Daar gaat het niet om.
+  start: !human_time '01:06:28.940'
+- end: !human_time '01:06:34.656'
+  lines:
+  - Die vent, die Chadwicke.
+  start: !human_time '01:06:31.300'
+- end: !human_time '01:06:41.933'
+  lines:
+  - Heb je gezien wat je met z'n neus
+  - hebt gedaan? Hij wil je zien hangen.
+  start: !human_time '01:06:36.540'
+- end: !human_time '01:06:43.931'
+  lines:
+  - En niet zo'n beetje.
+  start: !human_time '01:06:42.100'
+- end: !human_time '01:06:48.813'
+  lines:
+  - Wat wil je daarmee zeggen?
+  - -Wat ik bedoel, Jack...
+  start: !human_time '01:06:44.900'
+- end: !human_time '01:06:55.977'
+  lines:
+  - is dat de pers ons toch al afbreekt.
+  - Dit dreigt een mediacircus te worden.
+  start: !human_time '01:06:48.980'
+- end: !human_time '01:07:00.611'
+  lines:
+  - Luister, ik weet dat je veel ellende
+  - hebt doorgemaakt.
+  start: !human_time '01:06:56.140'
+- end: !human_time '01:07:03.173'
+  lines:
+  - lk voel met je mee.
+  start: !human_time '01:07:01.660'
+- end: !human_time '01:07:06.730'
+  lines:
+  - Maar ik moet je om je pistool vragen.
+  start: !human_time '01:07:03.340'
+- end: !human_time '01:07:11.257'
+  lines:
+  - Kom, je kent de regels.
+  start: !human_time '01:07:08.060'
+- end: !human_time '01:07:22.289'
+  lines:
+  - Ook de Beretta.
+  - Waar is die?
+  start: !human_time '01:07:18.580'
+- end: !human_time '01:07:26.978'
+  lines:
+  - Die ligt thuis.
+  - -Waarom?
+  start: !human_time '01:07:24.180'
+- end: !human_time '01:07:33.854'
+  lines:
+  - Er zat een barst in de slede.
+  - lk wilde 'm laten repareren.
+  start: !human_time '01:07:28.780'
+- end: !human_time '01:07:37.808'
+  lines:
+  - lk kan 'm zo halen.
+  - Stuur desnoods Gifford mee.
+  start: !human_time '01:07:34.020'
+- end: !human_time '01:07:39.857'
+  lines:
+  - !!python/str "Je hebt \xE9\xE9n uur."
+  start: !human_time '01:07:37.980'
+- end: !human_time '01:07:46.056'
+  lines:
+  - Laat me niet wachten.
+  start: !human_time '01:07:43.940'
+- end: !human_time '01:08:13.213'
+  lines:
+  - lk ben zo terug.
+  - !!python/str "-Ze is bij jou, h\u010D?"
+  start: !human_time '01:08:10.380'
+- end: !human_time '01:08:19.050'
+  lines:
+  - Dat meisje. Je hebt haar niet
+  - naar het opvanghuis gebracht.
+  start: !human_time '01:08:14.340'
+- end: !human_time '01:08:23.099'
+  lines:
+  - lk wist 't wel.
+  - -Hij had haar daar zo gevonden.
+  start: !human_time '01:08:19.220'
+- end: !human_time '01:08:29.608'
+  lines:
+  - Dit doet je geen goed. Het lijkt wel
+  - of je op je eigen ondergang uit bent.
+  start: !human_time '01:08:23.260'
+- end: !human_time '01:08:33.659'
+  lines:
+  - Luister, ik zal je
+  - zoveel mogelijk helpen.
+  start: !human_time '01:08:29.780'
+- end: !human_time '01:08:37.210'
+  lines:
+  - Maar ik maak mezelf niet kapot.
+  - lk heb een gezin.
+  start: !human_time '01:08:33.820'
+- end: !human_time '01:08:41.293'
+  lines:
+  - Dat zou ik niet willen.
+  - -Als het maar duidelijk is.
+  start: !human_time '01:08:37.380'
+- end: !human_time '01:08:47.409'
+  lines:
+  - Een paar minuutjes.
+  - -lk krijg bijna medelijden met haar.
+  start: !human_time '01:08:42.540'
+- end: !human_time '01:08:52.689'
+  lines:
+  - lk probeer alleen
+  - een beetje luchtig te doen.
+  start: !human_time '01:08:49.140'
+- end: !human_time '01:09:01.973'
+  lines:
+  - Pak snel je spullen en kom mee.
+  start: !human_time '01:08:59.300'
+- end: !human_time '01:09:04.495'
+  lines:
+  - Waarom?
+  - -Doe het nou maar.
+  start: !human_time '01:09:02.140'
+- end: !human_time '01:09:08.013'
+  lines:
+  - Vertel nou wat er aan de hand is.
+  start: !human_time '01:09:05.260'
+- end: !human_time '01:09:12.412'
+  lines:
+  - Hij heeft m'n moeder vermoord.
+  - En Dexter en Sandy.
+  start: !human_time '01:09:08.180'
+- end: !human_time '01:09:16.817'
+  lines:
+  - Hij heeft dit geschreven.
+  start: !human_time '01:09:13.700'
+- end: !human_time '01:09:20.575'
+  lines:
+  - Jij bent de volgende.
+  - Hij weet alles van me.
+  start: !human_time '01:09:16.980'
+- end: !human_time '01:09:26.019'
+  lines:
+  - Hij weet waar ik woon en vermoedt
+  - vast dat je hier bent. Dus schiet op.
+  start: !human_time '01:09:20.740'
+- end: !human_time '01:09:33.056'
+  lines:
+  - lk ben allergisch voor katten.
+  - -Hij zit de hele dag onder 't bed.
+  start: !human_time '01:09:28.540'
+- end: !human_time '01:09:38.613'
+  lines:
+  - Laat niemand binnen behalve mij.
+  - -En als je buurvrouw terugkomt?
+  start: !human_time '01:09:33.220'
+- end: !human_time '01:09:40.418'
+  lines:
+  - Ze is de hele week weg.
+  start: !human_time '01:09:38.780'
+- end: !human_time '01:12:21.576'
+  lines:
+  - lk heb je, etterbak.
+  start: !human_time '01:12:19.620'
+- end: !human_time '01:13:02.258'
+  lines:
+  - FedEx.
+  - -Kun u het niet neerleggen?
+  start: !human_time '01:12:59.460'
+- end: !human_time '01:13:07.414'
+  lines:
+  - U moet tekenen. Sorry.
+  - -Natuurlijk. lk kom eraan.
+  start: !human_time '01:13:02.420'
+- end: !human_time '01:13:45.099'
+  lines:
+  - lk heb je hulp nodig.
+  - -Wat is er?
+  start: !human_time '01:13:42.380'
+- end: !human_time '01:13:47.376'
+  lines:
+  - Stap in. Dan vertel ik het je.
+  start: !human_time '01:13:45.260'
+- end: !human_time '01:13:51.453'
+  lines:
+  - Waar gaan we heen?
+  - -Naar jou. Je moet me iets lenen.
+  start: !human_time '01:13:47.540'
+- end: !human_time '01:13:58.250'
+  lines:
+  - Wat is er in godsnaam aan de hand?
+  start: !human_time '01:13:54.860'
+- end: !human_time '01:14:01.890'
+  lines:
+  - ls deze knul ooit
+  - !!python/str "een pati\xEBnt van je geweest?"
+  start: !human_time '01:13:58.420'
+- end: !human_time '01:14:08.650'
+  lines:
+  - Jezus Christus.
+  - Waar heb je dit vandaan?
+  start: !human_time '01:14:04.020'
+- end: !human_time '01:14:13.814'
+  lines:
+  - Dus je kent hem.
+  - -Richard Bigelow. Briljante jongen.
+  start: !human_time '01:14:08.820'
+- end: !human_time '01:14:19.418'
+  lines:
+  - Ernstig gestoord. Gewelddadige aard.
+  - Dat is z'n moeder, Sharon Kane.
+  start: !human_time '01:14:13.980'
+- end: !human_time '01:14:23.368'
+  lines:
+  - Een actrice toch?
+  - -B-films. Meer een pin-upmodel.
+  start: !human_time '01:14:19.580'
+- end: !human_time '01:14:29.297'
+  lines:
+  - Ze zou zijn misbruikt door haar vader
+  - en zij zou haar zoon hebben misbruikt.
+  start: !human_time '01:14:23.540'
+- end: !human_time '01:14:36.855'
+  lines:
+  - Op 'n middag betrapte Bigelow moeder
+  - en zoon. Hij wilde ze uit elkaar halen.
+  start: !human_time '01:14:29.460'
+- end: !human_time '01:14:41.138'
+  lines:
+  - Richard vermoordde 'm bijna.
+  - -Dus liet hij 'm opnemen.
+  start: !human_time '01:14:37.020'
+- end: !human_time '01:14:44.656'
+  lines:
+  - Drie jaar later
+  - waren beide ouders dood.
+  start: !human_time '01:14:41.300'
+- end: !human_time '01:14:48.130'
+  lines:
+  - De vader wurgde haar
+  - en schoot zichzelf dood.
+  start: !human_time '01:14:44.820'
+- end: !human_time '01:14:51.497'
+  lines:
+  - Richard was de enige erfgenaam.
+  start: !human_time '01:14:48.300'
+- end: !human_time '01:14:55.414'
+  lines:
+  - Ruim 1 00 miljoen,
+  - maar hij mag er niet aan komen.
+  start: !human_time '01:14:51.660'
+- end: !human_time '01:15:01.337'
+  lines:
+  - Hij is ziedend. Hij wendde voor dat hij
+  - genezen was, maar ik wist wel beter.
+  start: !human_time '01:14:55.580'
+- end: !human_time '01:15:05.778'
+  lines:
+  - Wat deed je?
+  - -Hem zo lang mogelijk vasthouden.
+  start: !human_time '01:15:01.500'
+- end: !human_time '01:15:11.253'
+  lines:
+  - lk kreeg de commissie zover om hem
+  - de eerste tien jaar niet te evalueren.
+  start: !human_time '01:15:05.940'
+- end: !human_time '01:15:16.016'
+  lines:
+  - Lieve hemel. Z'n eerste evaluatie
+  - stond gepland voor...
+  start: !human_time '01:15:11.420'
+- end: !human_time '01:15:19.570'
+  lines:
+  - lets meer dan twee jaar geleden.
+  start: !human_time '01:15:16.180'
+- end: !human_time '01:15:23.779'
+  lines:
+  - Hij is het. 'Zie me maar te pakken'
+  - zei hij tegen me.
+  start: !human_time '01:15:19.740'
+- end: !human_time '01:16:22.931'
+  lines:
+  - Wees voorzichtig.
+  start: !human_time '01:16:21.020'
+- end: !human_time '01:17:29.333'
+  lines:
+  - Met Caitlin.
+  start: !human_time '01:17:27.900'
+- end: !human_time '01:17:34.813'
+  lines:
+  - Wil ik net m'n berichten afluisteren,
+  - neemt er 'n griet op. Hoe zit dat?
+  start: !human_time '01:17:29.500'
+- end: !human_time '01:17:38.894'
+  lines:
+  - Nu is het genoeg.
+  start: !human_time '01:17:36.300'
+- end: !human_time '01:18:31.017'
+  lines:
+  - Krijg nou wat.
+  start: !human_time '01:18:29.140'
+- end: !human_time '01:18:45.534'
+  lines:
+  - Jack, laat je handen zien.
+  start: !human_time '01:18:43.020'
+- end: !human_time '01:18:54.049'
+  lines:
+  - ls m'n vertrouwen je niks waard?
+  start: !human_time '01:18:51.660'
+- end: !human_time '01:19:01.130'
+  lines:
+  - Je maakt 't katje bang.
+  start: !human_time '01:18:58.900'
+- end: !human_time '01:19:06.420'
+  lines:
+  - Hij is daar binnen. Als hij
+  - Jessica vindt, vermoordt hij haar.
+  start: !human_time '01:19:01.300'
+- end: !human_time '01:19:10.771'
+  lines:
+  - Waar is Jack?
+  - Waar is je held?
+  start: !human_time '01:19:07.620'
+- end: !human_time '01:19:15.616'
+  lines:
+  - Weet je nog wat je gisteren zei?
+  - Dat ik je moest vertrouwen.
+  start: !human_time '01:19:10.940'
+- end: !human_time '01:19:18.169'
+  lines:
+  - Vertel het me, schatje.
+  start: !human_time '01:19:15.780'
+- end: !human_time '01:19:21.059'
+  lines:
+  - Als ik schuldig was,
+  - kwam ik dan terug?
+  start: !human_time '01:19:18.340'
+- end: !human_time '01:19:28.615'
+  lines:
+  - Carla, alsjeblieft.
+  start: !human_time '01:19:26.420'
+- end: !human_time '01:19:35.172'
+  lines:
+  - lk zweer 't je. Als ik m'n baan
+  - kwijtraak, vermoord ik je.
+  start: !human_time '01:19:31.020'
+- end: !human_time '01:19:38.252'
+  lines:
+  - Roep versterking op.
+  start: !human_time '01:19:36.500'
+- end: !human_time '01:19:54.614'
+  lines:
+  - Verzoek om versterking. Verdachte
+  - van moord op Palmetto 1 307.
+  start: !human_time '01:19:49.540'
+- end: !human_time '01:20:00.490'
+  lines:
+  - lk lijk wel gek.
+  start: !human_time '01:19:58.260'
+- end: !human_time '01:20:32.137'
+  lines:
+  - lk ben bij je.
+  - Rustig maar.
+  start: !human_time '01:20:28.940'
+- end: !human_time '01:20:41.774'
+  lines:
+  - Wat schattig.
+  start: !human_time '01:20:39.340'
+- end: !human_time '01:20:44.534'
+  lines:
+  - Handen omhoog, alsjeblieft.
+  start: !human_time '01:20:41.940'
+- end: !human_time '01:20:47.058'
+  lines:
+  - Vooruit.
+  start: !human_time '01:20:45.340'
+- end: !human_time '01:20:53.013'
+  lines:
+  - !!python/str "Je bent wel een heel foute smeris, h\u010D?"
+  - Je hebt er flink op los gemoord.
+  start: !human_time '01:20:47.700'
+- end: !human_time '01:20:56.650'
+  lines:
+  - Maar aan alles komt een eind.
+  start: !human_time '01:20:53.180'
+- end: !human_time '01:21:00.859'
+  lines:
+  - !!python/str "Op je knie\xEBn, graag."
+  - Je zult er niks van voelen.
+  start: !human_time '01:20:56.820'
+- end: !human_time '01:21:05.218'
+  lines:
+  - Net als m'n moeder?
+  - -Dat was helaas nogal pijnlijk.
+  start: !human_time '01:21:01.020'
+- end: !human_time '01:21:09.658'
+  lines:
+  - Als je vader had meegewerkt,
+  - had dit niet gehoeven.
+  start: !human_time '01:21:05.380'
+- end: !human_time '01:21:14.769'
+  lines:
+  - Maar hij was koppig tot het bittere
+  - eind. Net als mijn vader.
+  start: !human_time '01:21:09.820'
+- end: !human_time '01:21:19.297'
+  lines:
+  - Wat bedoel je?
+  - -Weet je dat niet?
+  start: !human_time '01:21:14.940'
+- end: !human_time '01:21:23.897'
+  lines:
+  - !!python/str "Je kunt veel doen in \xE9\xE9n nacht"
+  - als de verplegers laks zijn.
+  start: !human_time '01:21:19.460'
+- end: !human_time '01:21:27.496'
+  lines:
+  - Je komt hier niet mee weg.
+  - M'n partner is beneden.
+  start: !human_time '01:21:24.060'
+- end: !human_time '01:21:30.538'
+  lines:
+  - Dan voeg ik haar aan je lijstje toe.
+  start: !human_time '01:21:27.660'
+- end: !human_time '01:21:36.218'
+  lines:
+  - Stel je voor. Je gaat de boeken in als
+  - een van de grote seriemoordenaars.
+  start: !human_time '01:21:30.700'
+- end: !human_time '01:21:39.850'
+  lines:
+  - Zeg maar een gebedje.
+  - -Laat vallen.
+  start: !human_time '01:21:36.380'
+- end: !human_time '01:22:07.533'
+  lines:
+  - Zorg voor haar.
+  - lk haal dat wapen.
+  start: !human_time '01:22:03.620'
+- end: !human_time '01:22:13.654'
+  lines:
+  - Alles komt goed, meisje.
+  start: !human_time '01:22:11.140'
+- end: !human_time '01:22:16.459'
+  lines:
+  - Ambulance voor Palmetto 1 307.
+  start: !human_time '01:22:13.820'
+- end: !human_time '01:22:51.252'
+  lines:
+  - Uitstappen, dan gebeurt je niks.
+  start: !human_time '01:22:48.260'
+- end: !human_time '01:23:26.370'
+  lines:
+  - lk dacht dat mijn auto klote was.
+  start: !human_time '01:23:24.140'
+- end: !human_time '01:25:57.776'
+  lines:
+  - Niet schieten.
+  - -Opzij.
+  start: !human_time '01:25:55.660'
+- end: !human_time '01:26:06.259'
+  lines:
+  - Zullen we haar eraan toevoegen?
+  - Dit is jouw pistool.
+  start: !human_time '01:26:02.300'
+- end: !human_time '01:26:10.379'
+  lines:
+  - Waarom zou je? Je hebt al gewonnen.
+  - lk ben de lul.
+  start: !human_time '01:26:06.420'
+- end: !human_time '01:26:12.974'
+  lines:
+  - Als je nu wegloopt, hang ik toch.
+  start: !human_time '01:26:10.540'
+- end: !human_time '01:26:17.975'
+  lines:
+  - lk weet wat je wilt.
+  - Bewonderenswaardig, al is het zielig.
+  start: !human_time '01:26:13.140'
+- end: !human_time '01:26:23.055'
+  lines:
+  - Zielig? Jouw moeder misbruikte je
+  - om je vader terug te pakken.
+  start: !human_time '01:26:18.140'
+- end: !human_time '01:26:27.538'
+  lines:
+  - Dat is niet waar. Dat is een leugen.
+  start: !human_time '01:26:24.660'
+- end: !human_time '01:26:33.172'
+  lines:
+  - Deed het pijn dat ze je alleen neukte
+  - om haar zieke geest te bevredigen?
+  start: !human_time '01:26:27.700'
+- end: !human_time '01:26:36.616'
+  lines:
+  - Dat je een moederneukertje bent?
+  start: !human_time '01:26:33.340'
+- end: !human_time '01:26:44.690'
+  lines:
+  - Kom, laat haar gaan.
+  - Jij hebt gewonnen.
+  start: !human_time '01:26:41.380'
+- end: !human_time '01:26:47.328'
+  lines:
+  - lk zeg je toch dat dit niet werkt?
+  start: !human_time '01:26:44.860'
+- end: !human_time '01:26:56.051'
+  lines:
+  - Wel dus.
+  start: !human_time '01:26:54.060'
+- end: !human_time '01:26:57.151'
+  lines:
+  - Movie & Subs ripped by;
+  - (^8 Booster 8^)
+  - ''
+  start: !human_time '01:26:56.150'

@@ -1,14 +1,9 @@
 from __future__ import absolute_import
 
-import chardet
-import codecs
 import io
 import functools
 
-class EncodingError(Exception):
-  def __init__(self, message, tried_encodings = [], *args, **kwargs):
-    self.tried_encodings = tried_encodings
-    super(EncodingError, self).__init__(message, *args, **kwargs)
+from . import encodings
 
 class NoParserError(Exception):
   pass
@@ -46,10 +41,6 @@ class Parser(object):
   parsed = None
   encoding = None
   encoding_confidence = None
-  _invalid_chars = u'\x9e'
-  _similar_encodings = {
-    'ISO-8859-2': 'windows-1250'
-  }
 
   def __init__(self):
     self.warnings = []
@@ -88,24 +79,6 @@ class Parser(object):
     """Needs to be reimplemented to quickly check if file seems the proper format."""
     raise NotImplementedError
 
-  @staticmethod
-  def is_proper(data, encoding):
-    try:
-      data.seek(0)
-      reader = io.TextIOWrapper(data, encoding, newline = '')
-      proper = True
-      # Go through data
-      for line in reader:
-        for char in Parser._invalid_chars:
-          if char in line:
-            proper = False
-            break
-      reader.detach()
-      data.seek(0)
-      return proper
-    except UnicodeDecodeError:
-      return False
-
   def _parse(self):
     """
     Parses the file, it returns a list of units in specified format. Needs to be
@@ -113,50 +86,13 @@ class Parser(object):
     """
     raise NotImplementedError
 
-  @staticmethod
-  def detect_encoding(data, encoding = None):
-    data = Parser._normalize_data(data)
-
-    encoding_confidence = None
-    tried_encodings = []
-
-    # Check for BOM
-    test_data = data.read(8)
-    data.seek(0)
-    has_bom = False
-    if test_data.startswith(codecs.BOM_UTF8):
-      encoding = 'utf-8-sig'
-      has_bom = True
-    elif test_data.startswith(codecs.BOM_UTF16):
-      encoding = 'utf16'
-      has_bom = True
-
-    if encoding is None:
-      # Autodetect encoding
-      encoding = chardet.detect(data.read())
-      data.seek(0)
-      encoding_confidence = encoding['confidence']
-      encoding = encoding['encoding']
-      tried_encodings.append(encoding)
-    if encoding is None:
-      raise EncodingError("Could not detect proper encoding", tried_encodings)
-
-    while not Parser.is_proper(data, encoding):
-      tried_encodings.append(encoding)
-      encoding = Parser._similar_encodings.get(encoding)
-      if not encoding:
-        # We lost :(
-        raise EncodingError("Could not detect proper encoding", tried_encodings)
-
-    return encoding, encoding_confidence
-
   def parse(self, data = None, encoding = None):
     """Parses the file and returns the subtitle. Check warnings after the parse."""
     if data:
       # We have new data, discard old and set up for new
       self._data = self._normalize_data(data)
       if encoding is None:
-        self.encoding, self.encoding_confidence = self.detect_encoding(self._data, encoding)
+        self.encoding, self.encoding_confidence = encodings.detect(self._data, encoding)
         self._data.seek(0)
       else:
         self.encoding_confidence = None
@@ -168,7 +104,7 @@ class Parser(object):
     sub = Subtitle()
     for unit in self._parse():
       start, end = unit['header']['time']
-      sub.add_unit(SubtitleUnit(start, end, unit['lines']))
+      sub.add_unit(SubtitleUnit(start, end, unit['lines'], unit.get('meta')))
     sub.order()
     return sub
 
@@ -177,7 +113,7 @@ class Parser(object):
     """Returns a parser that can parse 'data' in raw string."""
     data = Parser._normalize_data(data)
     if encoding is None:
-      encoding, encoding_confidence = Parser.detect_encoding(data, encoding)
+      encoding, encoding_confidence = encodings.detect(data, encoding)
       data.seek(0)
     else:
       encoding_confidence = None

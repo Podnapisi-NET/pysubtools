@@ -1,0 +1,2911 @@
+---
+units:
+- end: !human_time '00:00:00.000'
+  lines: []
+  start: !human_time '00:00:00.000'
+- end: !human_time '00:02:42.800'
+  lines:
+  - !!python/str "Ele est\u05D1 morto."
+  start: !human_time '00:02:39.000'
+- end: !human_time '00:02:48.200'
+  lines:
+  - !!python/str "E agora \u05D9 a minha vez."
+  start: !human_time '00:02:43.680'
+- end: !human_time '00:02:54.320'
+  lines:
+  - Estou deixando esse mundo.
+  start: !human_time '00:02:48.800'
+- end: !human_time '00:02:57.120'
+  lines:
+  - Estou deixando...
+  start: !human_time '00:02:55.200'
+- end: !human_time '00:03:01.280'
+  lines:
+  - !!python/str "...as minhas mem\u05E3rias."
+  start: !human_time '00:02:58.800'
+- end: !human_time '00:03:05.920'
+  lines:
+  - Posso ver...
+  start: !human_time '00:03:03.800'
+- end: !human_time '00:03:10.880'
+  lines:
+  - '...Posso ver o garoto...'
+  start: !human_time '00:03:07.600'
+- end: !human_time '00:03:16.200'
+  lines:
+  - '...o garoto que eu fui.'
+  start: !human_time '00:03:12.320'
+- end: !human_time '00:03:21.000'
+  lines:
+  - Posso ver...
+  start: !human_time '00:03:18.600'
+- end: !human_time '00:03:40.040'
+  lines: []
+  start: !human_time '00:03:40.000'
+- end: !human_time '00:03:45.520'
+  lines:
+  - Oh, fui contratado pra escoltar
+  - !!python/str "esse aqui at\u05D9 o tio dele."
+  start: !human_time '00:03:42.080'
+- end: !human_time '00:03:47.600'
+  lines:
+  - !!python/str "Os pais n\u05D3o conseguem"
+  - mais lidar com ele.
+  start: !human_time '00:03:45.600'
+- end: !human_time '00:03:51.080'
+  lines:
+  - Se me perguntar, ele foi deixado
+  - tempo demais mamando na teta de negros.
+  start: !human_time '00:03:47.640'
+- end: !human_time '00:03:54.080'
+  lines:
+  - O tio dele tem um rancho
+  - numa cidade chamada Palomito.
+  start: !human_time '00:03:51.200'
+- end: !human_time '00:03:57.320'
+  lines:
+  - Talvez ele possa colocar
+  - algum respeito no garoto.
+  start: !human_time '00:03:54.240'
+- end: !human_time '00:04:53.520'
+  lines:
+  - Eu sou o tio.
+  - !!python/str "Me d\u05DA o dinheiro, senhor."
+  start: !human_time '00:04:50.320'
+- end: !human_time '00:04:55.400'
+  lines:
+  - O dinheiro.
+  - !!python/str "Aqui est\u05D1 seu maldito dinheiro!"
+  start: !human_time '00:04:53.400'
+- end: !human_time '00:04:58.000'
+  lines:
+  - !!python/str "-\u05B9 todo seu."
+  - !!python/str "-N\u05D3o \u05D9 dinheiro maldito."
+  start: !human_time '00:04:55.520'
+- end: !human_time '00:05:00.720'
+  lines:
+  - !!python/str "-\u05B9 dinheiro aben\u05D7oado por Deus!"
+  - !!python/str "-V\u05D1 pro inferno!"
+  start: !human_time '00:04:58.000'
+- end: !human_time '00:05:01.920'
+  lines:
+  - Verme!
+  start: !human_time '00:05:00.480'
+- end: !human_time '00:05:03.920'
+  lines:
+  - Porco!
+  start: !human_time '00:05:02.720'
+- end: !human_time '00:05:06.320'
+  lines:
+  - Isso porque ele tem
+  - tudo em prata?
+  start: !human_time '00:05:04.000'
+- end: !human_time '00:05:09.680'
+  lines:
+  - Por isso daria pra cuidar
+  - de um cachorro e uma cadela!
+  start: !human_time '00:05:06.320'
+- end: !human_time '00:05:12.480'
+  lines:
+  - !!python/str "O que est\u05D1 olhando?"
+  - Venha comigo.
+  start: !human_time '00:05:10.480'
+- end: !human_time '00:05:15.000'
+  lines:
+  - Venha.
+  - Vamos embora.
+  start: !human_time '00:05:12.480'
+- end: !human_time '00:05:17.000'
+  lines:
+  - !!python/str "Voc\u05DA veio"
+  - para trabalhar!
+  start: !human_time '00:05:15.200'
+- end: !human_time '00:05:19.400'
+  lines:
+  - !!python/str "N\u05D3o pra ficar procurando"
+  - garotas belas assim.
+  start: !human_time '00:05:17.000'
+- end: !human_time '00:05:22.720'
+  lines:
+  - Porco! Verme!
+  start: !human_time '00:05:20.400'
+- end: !human_time '00:05:25.000'
+  lines:
+  - !!python/str "Mas n\u05D3o foi uma sobrinha"
+  - que eu pedi, meu filho!
+  start: !human_time '00:05:22.720'
+- end: !human_time '00:05:26.800'
+  lines:
+  - !!python/str "N\u05D3o encha o meu saco!"
+  - !!python/str "Fa\u05D7a voc\u05DA!"
+  start: !human_time '00:05:24.880'
+- end: !human_time '00:05:27.680'
+  lines:
+  - !!python/str "O qu\u05DA?"
+  start: !human_time '00:05:26.720'
+- end: !human_time '00:05:31.280'
+  lines:
+  - Mas eu vou te arrebentar!
+  - Veio pra trabalhar.
+  start: !human_time '00:05:27.680'
+- end: !human_time '00:05:32.000'
+  lines:
+  - !!python/str "Pregui\u05D7oso!"
+  start: !human_time '00:05:31.200'
+- end: !human_time '00:05:34.200'
+  lines:
+  - -Pare!
+  - -Volte ao trabalho!
+  start: !human_time '00:05:32.080'
+- end: !human_time '00:05:38.480'
+  lines:
+  - Eu vou te quebrar em dois.
+  - Vou te arrebentar, seu estrume!
+  start: !human_time '00:05:34.080'
+- end: !human_time '00:05:44.480'
+  lines:
+  - !!python/str "Vamos l\u05D1, moleque!"
+  - Enterre o mastro! Vamos!
+  start: !human_time '00:05:38.400'
+- end: !human_time '00:07:05.120'
+  lines:
+  - !!python/str "Porque voc\u05DA demorou tanto?"
+  start: !human_time '00:07:02.880'
+- end: !human_time '00:07:09.120'
+  lines:
+  - !!python/str "Bem, estou respons\u05D1vel pelo rancho"
+  - !!python/str "do meu tio. \u05B9 isso."
+  start: !human_time '00:07:06.200'
+- end: !human_time '00:07:10.400'
+  lines:
+  - Qual o seu nome?
+  start: !human_time '00:07:09.000'
+- end: !human_time '00:07:12.400'
+  lines:
+  - !!python/str "Que? Meu nome \u05D9 Mike."
+  start: !human_time '00:07:10.720'
+- end: !human_time '00:07:15.800'
+  lines:
+  - !!python/str "De onde voc\u05DA \u05D9?"
+  start: !human_time '00:07:14.400'
+- end: !human_time '00:07:18.400'
+  lines:
+  - !!python/str "Eu sou franc\u05DAs,"
+  - de Louisiane
+  start: !human_time '00:07:15.800'
+- end: !human_time '00:07:20.800'
+  lines:
+  - Oh, Louisiana!
+  start: !human_time '00:07:18.400'
+- end: !human_time '00:07:27.200'
+  lines:
+  - !!python/str "Essa \u05D9 a sua primeira vez."
+  start: !human_time '00:07:24.880'
+- end: !human_time '00:07:28.800'
+  lines:
+  - !!python/str "N\u05D3o."
+  start: !human_time '00:07:27.400'
+- end: !human_time '00:07:34.880'
+  lines:
+  - !!python/str "Sim, \u05D9 sim!"
+  start: !human_time '00:07:33.200'
+- end: !human_time '00:07:38.880'
+  lines:
+  - !!python/str "Sim, \u05D9 sim!"
+  start: !human_time '00:07:36.880'
+- end: !human_time '00:07:41.280'
+  lines:
+  - !!python/str "N\u05D3o."
+  start: !human_time '00:07:40.000'
+- end: !human_time '00:08:28.080'
+  lines:
+  - !!python/str "Voc\u05DA acredita em Deus?"
+  start: !human_time '00:08:26.320'
+- end: !human_time '00:08:31.800'
+  lines:
+  - !!python/str "Eu n\u05D3o sei."
+  - !!python/str "Voc\u05DA acredita?"
+  start: !human_time '00:08:28.480'
+- end: !human_time '00:08:40.400'
+  lines:
+  - Hoje eu acredito.
+  start: !human_time '00:08:38.600'
+- end: !human_time '00:08:45.920'
+  lines:
+  - !!python/str "Minha m\u05D3e deu isso pra mim."
+  start: !human_time '00:08:43.280'
+- end: !human_time '00:08:53.200'
+  lines:
+  - Madeleine.
+  start: !human_time '00:08:51.400'
+- end: !human_time '00:09:01.680'
+  lines:
+  - !!python/str "Venha c\u05D1."
+  - !!python/str "Venha c\u05D1."
+  start: !human_time '00:08:59.600'
+- end: !human_time '00:09:07.000'
+  lines:
+  - !!python/str "Podemos ir apenas n\u05E3s dois."
+  - !!python/str "Voc\u05DA e eu. Ir pras montanhas."
+  start: !human_time '00:09:02.600'
+- end: !human_time '00:09:20.880'
+  lines:
+  - Desculpe
+  - interromper a festa.
+  start: !human_time '00:09:18.720'
+- end: !human_time '00:09:28.320'
+  lines:
+  - Deixe-me em paz, Wally
+  - !!python/str "N\u05D3o estou trabalhando essa noite."
+  start: !human_time '00:09:24.600'
+- end: !human_time '00:09:32.320'
+  lines:
+  - Transando com virgens
+  - !!python/str "agora, n\u05D3o \u05D9?"
+  start: !human_time '00:09:29.680'
+- end: !human_time '00:09:40.880'
+  lines:
+  - !!python/str "N\u05D3o fa\u05D7a isso."
+  start: !human_time '00:09:39.280'
+- end: !human_time '00:09:44.320'
+  lines:
+  - Estive cavalgando
+  - o dia inteiro, querida...
+  start: !human_time '00:09:41.600'
+- end: !human_time '00:09:46.880'
+  lines:
+  - !!python/str "...s\u05E3 pra chegar aqui e"
+  - !!python/str "me encontrar com voc\u05DA."
+  start: !human_time '00:09:44.320'
+- end: !human_time '00:09:49.600'
+  lines:
+  - Wally, por favor.
+  start: !human_time '00:09:47.920'
+- end: !human_time '00:09:53.680'
+  lines:
+  - !!python/str "V\u05D1! V\u05D1 embora!"
+  start: !human_time '00:09:51.280'
+- end: !human_time '00:10:00.400'
+  lines:
+  - Quer ver como um
+  - homem faz?
+  start: !human_time '00:09:58.880'
+- end: !human_time '00:10:03.000'
+  lines:
+  - !!python/str "V\u05D1! V\u05D1, Mike!"
+  - !!python/str "Ele vai mat\u05D1-lo."
+  start: !human_time '00:10:00.320'
+- end: !human_time '00:10:06.400'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o quer morrer"
+  - por nenhuma puta, Mike?
+  start: !human_time '00:10:03.120'
+- end: !human_time '00:10:09.000'
+  lines:
+  - -Agora, caia fora daqui.
+  - -Vou ficar.
+  start: !human_time '00:10:06.400'
+- end: !human_time '00:10:13.200'
+  lines:
+  - !!python/str "-Por favor, n\u05D3o, pare!"
+  - !!python/str "-\u05B9 hora de ir."
+  start: !human_time '00:10:10.600'
+- end: !human_time '00:13:40.800'
+  lines:
+  - !!python/str "Voc\u05DA acredita em Deus?"
+  start: !human_time '00:13:39.120'
+- end: !human_time '00:13:43.520'
+  lines:
+  - Madeleine
+  - !!python/str "voc\u05DA viria comigo?"
+  start: !human_time '00:13:40.880'
+- end: !human_time '00:13:48.320'
+  lines:
+  - Eu tenho dinheiro.
+  start: !human_time '00:13:46.080'
+- end: !human_time '00:13:57.120'
+  lines:
+  - !!python/str "Voc\u05DA estava certo."
+  start: !human_time '00:13:54.480'
+- end: !human_time '00:14:01.400'
+  lines:
+  - !!python/str "Eu n\u05D3o acho que ele entenda"
+  - o que aconteceu com ele.
+  start: !human_time '00:13:57.120'
+- end: !human_time '00:14:04.320'
+  lines:
+  - !!python/str "Ele est\u05D1 lutando com for\u05D7a"
+  - contra isso.
+  start: !human_time '00:14:01.280'
+- end: !human_time '00:14:16.480'
+  lines:
+  - !!python/str "Ele n\u05D3o est\u05D1 pronto ainda."
+  start: !human_time '00:14:13.920'
+- end: !human_time '00:17:12.720'
+  lines:
+  - !!python/str "O esp\u05DDrito das plantas..."
+  start: !human_time '00:17:09.920'
+- end: !human_time '00:17:15.400'
+  lines:
+  - !!python/str "...pode ensin\u05D1-lo..."
+  start: !human_time '00:17:12.720'
+- end: !human_time '00:17:19.120'
+  lines:
+  - '...os segredos da vida.'
+  start: !human_time '00:17:15.400'
+- end: !human_time '00:19:02.800'
+  lines:
+  - Runi!
+  start: !human_time '00:19:01.120'
+- end: !human_time '00:19:23.000'
+  lines:
+  - '"Nariz Quebrado"...'
+  start: !human_time '00:19:21.000'
+- end: !human_time '00:19:35.120'
+  lines:
+  - !!python/str "...se um dia voc\u05DA"
+  - decidir conhecer a si mesmo...
+  start: !human_time '00:19:32.000'
+- end: !human_time '00:19:39.400'
+  lines:
+  - !!python/str "...ter\u05D1 que escolher"
+  - o caminho dos guerreiros.
+  start: !human_time '00:19:35.280'
+- end: !human_time '00:19:45.280'
+  lines:
+  - !!python/str "Voc\u05DA alcan\u05D7ar\u05D1"
+  - !!python/str "a escurid\u05D3o do seu esp\u05DDrito."
+  start: !human_time '00:19:40.880'
+- end: !human_time '00:19:55.680'
+  lines:
+  - !!python/str "E ent\u05D3o voc\u05DA vai"
+  - superar os seus medos.
+  start: !human_time '00:19:51.120'
+- end: !human_time '00:19:57.600'
+  lines:
+  - !!python/str "Voc\u05DA vai saber quem \u05D9."
+  start: !human_time '00:19:55.600'
+- end: !human_time '00:22:03.200'
+  lines:
+  - Bom dia.
+  start: !human_time '00:22:02.080'
+- end: !human_time '00:22:06.600'
+  lines:
+  - Ei, Rolling Star!
+  start: !human_time '00:22:03.600'
+- end: !human_time '00:22:09.120'
+  lines:
+  - !!python/str "\u05B9 melhor voc\u05DA aliment\u05D1-lo"
+  - de alguma maneira.
+  start: !human_time '00:22:06.720'
+- end: !human_time '00:22:15.800'
+  lines:
+  - -Tem tempo pra um drink?
+  - !!python/str "-Sim, voc\u05DA me conhece."
+  start: !human_time '00:22:12.480'
+- end: !human_time '00:22:18.320'
+  lines:
+  - -Billy!
+  - !!python/str "-N\u05D3o se preocupe, Billy."
+  start: !human_time '00:22:15.800'
+- end: !human_time '00:22:20.600'
+  lines:
+  - Eu cuido dele.
+  start: !human_time '00:22:19.200'
+- end: !human_time '00:22:24.480'
+  lines:
+  - !!python/str "Voc\u05DA se importa de preparar"
+  - um pra mim?
+  start: !human_time '00:22:22.800'
+- end: !human_time '00:22:29.000'
+  lines:
+  - Aqui. Como acha que a sua
+  - conversinha com o Sullivan vai ser?
+  start: !human_time '00:22:24.720'
+- end: !human_time '00:22:30.480'
+  lines:
+  - Bem, veremos.
+  start: !human_time '00:22:29.040'
+- end: !human_time '00:22:32.000'
+  lines:
+  - !!python/str "Voc\u05DA sabe, a cidade"
+  - !!python/str "come\u05D7ou a murmurar."
+  start: !human_time '00:22:30.600'
+- end: !human_time '00:22:36.480'
+  lines:
+  - !!python/str "Dizem que h\u05D1 mais ouro naquelas"
+  - !!python/str "montanhas do que em toda Calif\u05E3rnia."
+  start: !human_time '00:22:32.000'
+- end: !human_time '00:22:38.480'
+  lines:
+  - !!python/str "Sim, \u05D9 disso que tenho medo."
+  start: !human_time '00:22:36.520'
+- end: !human_time '00:22:48.800'
+  lines:
+  - Merda, Jimmy!
+  start: !human_time '00:22:47.920'
+- end: !human_time '00:22:51.120'
+  lines:
+  - !!python/str "-Maldito a\u05D7ougueiro!"
+  - -Socorro!
+  start: !human_time '00:22:48.880'
+- end: !human_time '00:22:53.400'
+  lines:
+  - Merda, Jimmy, o que diabos
+  - !!python/str "pensa que est\u05D1 fazendo?"
+  start: !human_time '00:22:51.120'
+- end: !human_time '00:22:54.880'
+  lines:
+  - !!python/str "Voc\u05DA \u05D9 uma"
+  - autoridade agora.
+  start: !human_time '00:22:53.400'
+- end: !human_time '00:22:56.880'
+  lines:
+  - Esse dentista idiota
+  - tentou me matar!
+  start: !human_time '00:22:54.880'
+- end: !human_time '00:23:00.720'
+  lines:
+  - Solte-o!
+  - Solte-o, eu disse!
+  start: !human_time '00:22:57.000'
+- end: !human_time '00:23:01.920'
+  lines:
+  - Por favor.
+  start: !human_time '00:23:00.720'
+- end: !human_time '00:23:03.680'
+  lines:
+  - Solte-o!
+  start: !human_time '00:23:01.920'
+- end: !human_time '00:23:06.080'
+  lines:
+  - O que acha
+  - !!python/str "que est\u05D1 fazendo?"
+  start: !human_time '00:23:04.880'
+- end: !human_time '00:23:08.880'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o pode ficar jogando"
+  - !!python/str "as pessoas atrav\u05D9s das janelas."
+  start: !human_time '00:23:06.080'
+- end: !human_time '00:23:10.400'
+  lines:
+  - !!python/str "Voc\u05DA \u05D9 a maldita lei."
+  start: !human_time '00:23:08.880'
+- end: !human_time '00:23:13.000'
+  lines:
+  - Eu me demito,
+  - porque ele merece isso.
+  start: !human_time '00:23:10.400'
+- end: !human_time '00:23:15.200'
+  lines:
+  - !!python/str "\u05B9 melhor come\u05D7ar a controlar"
+  - esse seu temperamento.
+  start: !human_time '00:23:13.000'
+- end: !human_time '00:23:16.480'
+  lines:
+  - !!python/str "Onde est\u05D1 o meu dente?"
+  start: !human_time '00:23:15.240'
+- end: !human_time '00:23:20.200'
+  lines:
+  - !!python/str "-Senhor, voc\u05DA est\u05D1 bem, senhor?"
+  - !!python/str "-Estou bem, \u05D9 um milagre."
+  start: !human_time '00:23:17.200'
+- end: !human_time '00:23:22.320'
+  lines:
+  - !!python/str "N\u05D3o se preocupe, voc\u05DA vai ser"
+  - compensado pela janela quebrada.
+  start: !human_time '00:23:20.240'
+- end: !human_time '00:23:23.680'
+  lines:
+  - Certo, obrigado.
+  start: !human_time '00:23:22.360'
+- end: !human_time '00:23:27.680'
+  lines:
+  - Porque vou descontar
+  - !!python/str "isso do seu sal\u05D1rio."
+  start: !human_time '00:23:25.200'
+- end: !human_time '00:23:31.520'
+  lines:
+  - -Bem, agora, que tal aquele drink?
+  - -Sim!
+  start: !human_time '00:23:28.400'
+- end: !human_time '00:23:32.480'
+  lines:
+  - !!python/str "Parece uma boa id\u05D9ia."
+  start: !human_time '00:23:31.560'
+- end: !human_time '00:23:34.800'
+  lines:
+  - !!python/str "N\u05D3o, senhor, voc\u05DA vai"
+  - acalmar-se...
+  start: !human_time '00:23:32.600'
+- end: !human_time '00:23:37.680'
+  lines:
+  - '...e manter a guarda nas'
+  - coisas agora!
+  start: !human_time '00:23:34.840'
+- end: !human_time '00:23:41.680'
+  lines:
+  - !!python/str "-Voc\u05DA pode colocar isso de volta?"
+  - -Sim.
+  start: !human_time '00:23:39.280'
+- end: !human_time '00:23:43.600'
+  lines:
+  - !!python/str "E voc\u05DA n\u05D3o conseguiu"
+  - extrair esse?
+  start: !human_time '00:23:41.720'
+- end: !human_time '00:24:03.000'
+  lines:
+  - Acho que temos que
+  - subir aquela colina.
+  start: !human_time '00:24:00.080'
+- end: !human_time '00:24:09.800'
+  lines:
+  - !!python/str "Voc\u05DA v\u05D1 em frente."
+  - !!python/str "N\u05D3o vou esperar pra sempre."
+  start: !human_time '00:24:06.600'
+- end: !human_time '00:24:31.400'
+  lines:
+  - !!python/str "Prazer em conhec\u05DA-lo."
+  start: !human_time '00:24:29.120'
+- end: !human_time '00:24:37.200'
+  lines:
+  - Procurando por aquelas
+  - malditas Montanhas Sagradas, heim?
+  start: !human_time '00:24:33.280'
+- end: !human_time '00:24:54.400'
+  lines:
+  - !!python/str "Pai Del Rio, que voc\u05DA seja"
+  - !!python/str "aben\u05D7oado por Deus!"
+  start: !human_time '00:24:49.680'
+- end: !human_time '00:25:00.200'
+  lines:
+  - !!python/str "O que voc\u05DA disse?"
+  start: !human_time '00:24:58.200'
+- end: !human_time '00:25:03.120'
+  lines:
+  - Prosit!
+  start: !human_time '00:25:01.200'
+- end: !human_time '00:25:09.520'
+  lines:
+  - !!python/str "O que voc\u05DA disse mesmo?"
+  start: !human_time '00:25:07.520'
+- end: !human_time '00:25:16.200'
+  lines:
+  - Woodhead, eu disse que
+  - !!python/str "voc\u05DA \u05D9 um pessimista e eu um otimista."
+  start: !human_time '00:25:10.600'
+- end: !human_time '00:25:19.400'
+  lines:
+  - !!python/str "Voc\u05DA precisa ter f\u05D9,"
+  - meu amigo.
+  start: !human_time '00:25:16.720'
+- end: !human_time '00:25:22.720'
+  lines:
+  - !!python/str "N\u05D3o tenho f\u05D9"
+  - !!python/str "em ningu\u05D9m al\u05D9m de mim..."
+  start: !human_time '00:25:19.680'
+- end: !human_time '00:25:25.200'
+  lines:
+  - '...de mim e'
+  - da minha velha Betty.
+  start: !human_time '00:25:23.280'
+- end: !human_time '00:25:28.880'
+  lines:
+  - !!python/str "Eu prometo a voc\u05DA ouro."
+  - Vou te dar montanhas de ouro.
+  start: !human_time '00:25:25.680'
+- end: !human_time '00:25:31.680'
+  lines:
+  - !!python/str "Elas est\u05D3o t\u05D3o perto."
+  - Quase posso sentir o cheiro delas.
+  start: !human_time '00:25:29.200'
+- end: !human_time '00:25:35.400'
+  lines:
+  - Bem, vamos em frente.
+  start: !human_time '00:25:32.800'
+- end: !human_time '00:25:38.880'
+  lines:
+  - Sim, bem, talvez
+  - !!python/str "hoje n\u05D3o seja um bom dia."
+  start: !human_time '00:25:35.920'
+- end: !human_time '00:25:40.720'
+  lines:
+  - !!python/str "O que voc\u05DA quer dizer"
+  - !!python/str "com n\u05D3o ser um bom dia?"
+  start: !human_time '00:25:38.920'
+- end: !human_time '00:25:43.600'
+  lines:
+  - !!python/str "Bem, voc\u05DA sabe,"
+  - !!python/str "amanh\u05D3 talvez possamos voltar."
+  start: !human_time '00:25:40.760'
+- end: !human_time '00:25:46.000'
+  lines:
+  - !!python/str "O que voc\u05DA quer dizer"
+  - !!python/str "com amanh\u05D3?"
+  start: !human_time '00:25:43.920'
+- end: !human_time '00:25:49.000'
+  lines:
+  - Eu preciso...
+  start: !human_time '00:25:47.280'
+- end: !human_time '00:25:58.200'
+  lines:
+  - De qualquer modo,
+  - !!python/str "um de n\u05E3s dois precisa sobreviver."
+  start: !human_time '00:25:55.120'
+- end: !human_time '00:26:09.120'
+  lines:
+  - Maldito cavalo!
+  start: !human_time '00:26:07.520'
+- end: !human_time '00:26:15.000'
+  lines:
+  - Mike, o Conquistador!
+  start: !human_time '00:26:12.400'
+- end: !human_time '00:26:20.200'
+  lines:
+  - !!python/str "N\u05D3o disse que aquele cavalo"
+  - !!python/str "n\u05D3o ouviria ningu\u05D9m al\u05D9m de mim?"
+  start: !human_time '00:26:16.720'
+- end: !human_time '00:26:22.080'
+  lines:
+  - Sim.
+  start: !human_time '00:26:20.800'
+- end: !human_time '00:26:31.000'
+  lines:
+  - Calma!
+  start: !human_time '00:26:27.600'
+- end: !human_time '00:26:32.400'
+  lines:
+  - Calma!
+  start: !human_time '00:26:31.040'
+- end: !human_time '00:26:42.600'
+  lines:
+  - !!python/str "Ei! Voc\u05DA n\u05D3o vai doma-lo"
+  - dessa maneira.
+  start: !human_time '00:26:39.920'
+- end: !human_time '00:26:56.880'
+  lines:
+  - !!python/str "- Espere, voc\u05DA est\u05D1 preso."
+  - !!python/str "- O qu\u05DA?"
+  start: !human_time '00:26:54.080'
+- end: !human_time '00:26:59.120'
+  lines:
+  - !!python/str "Voc\u05DA est\u05D1 preso em mim."
+  start: !human_time '00:26:56.920'
+- end: !human_time '00:27:17.600'
+  lines:
+  - !!python/str "Pensei que voc\u05DA faria"
+  - melhor do que isso.
+  start: !human_time '00:27:14.720'
+- end: !human_time '00:27:23.920'
+  lines:
+  - !!python/str "Rapazes, fechem aqueles port\u05E5es!"
+  - Delegado
+  start: !human_time '00:27:20.400'
+- end: !human_time '00:27:26.080'
+  lines:
+  - Sullivan.
+  start: !human_time '00:27:24.600'
+- end: !human_time '00:27:29.400'
+  lines:
+  - !!python/str "\u05B9 uma dura cavalgada."
+  start: !human_time '00:27:27.800'
+- end: !human_time '00:27:33.000'
+  lines:
+  - !!python/str "O que est\u05D1"
+  - fazendo por aqui, Delegado?
+  start: !human_time '00:27:30.200'
+- end: !human_time '00:27:35.000'
+  lines:
+  - Interessado em algum
+  - dos meus cavalos?
+  start: !human_time '00:27:33.040'
+- end: !human_time '00:27:37.920'
+  lines:
+  - Soube na cidade que o seu
+  - homem Woodhead...
+  start: !human_time '00:27:35.040'
+- end: !human_time '00:27:39.280'
+  lines:
+  - '...e aquele prussiano...'
+  start: !human_time '00:27:37.960'
+- end: !human_time '00:27:42.720'
+  lines:
+  - !!python/str "...est\u05D3o atravessando a fronteira"
+  - !!python/str "do territ\u05E3rio Chiricahua."
+  start: !human_time '00:27:39.400'
+- end: !human_time '00:27:47.400'
+  lines:
+  - !!python/str "Eu n\u05D3o sei nada sobre isso."
+  start: !human_time '00:27:45.200'
+- end: !human_time '00:27:51.600'
+  lines:
+  - Digo, no entanto,
+  - que enviei o Woodhead para Riata...
+  start: !human_time '00:27:47.520'
+- end: !human_time '00:27:53.280'
+  lines:
+  - '...pra vender alguns dos'
+  - meus cavalos.
+  start: !human_time '00:27:51.640'
+- end: !human_time '00:27:56.800'
+  lines:
+  - Um par de mulas
+  - carregando ferramentas para cavar?
+  start: !human_time '00:27:53.320'
+- end: !human_time '00:28:00.080'
+  lines:
+  - !!python/str "Est\u05D1 me acusando"
+  - de alguma coisa, Delegado?
+  start: !human_time '00:27:57.400'
+- end: !human_time '00:28:04.720'
+  lines:
+  - Eu sei sobre o mapa de Prosit
+  - para aquelas malditas montanhas.
+  start: !human_time '00:28:01.120'
+- end: !human_time '00:28:09.400'
+  lines:
+  - E acredite em mim,
+  - !!python/str "n\u05D3o \u05D9 nada al\u05D9m de besteiras."
+  start: !human_time '00:28:04.800'
+- end: !human_time '00:28:14.200'
+  lines:
+  - Bem, as pessoas daqui
+  - !!python/str "dizem que voc\u05DA sabe disso."
+  start: !human_time '00:28:10.400'
+- end: !human_time '00:28:18.400'
+  lines:
+  - Eu sei disso.
+  - !!python/str "Mas o que voc\u05DA devia saber..."
+  start: !human_time '00:28:14.320'
+- end: !human_time '00:28:21.120'
+  lines:
+  - !!python/str "...\u05D9 que qualquer um que cruzar a"
+  - !!python/str "fronteira, est\u05D1 violando a lei."
+  start: !human_time '00:28:18.440'
+- end: !human_time '00:28:23.280'
+  lines:
+  - !!python/str "N\u05D3o me digas!"
+  start: !human_time '00:28:21.160'
+- end: !human_time '00:28:30.400'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o deveria ser pego"
+  - nessa loucura, Greg.
+  start: !human_time '00:28:27.200'
+- end: !human_time '00:28:32.000'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o quer perder"
+  - !!python/str "o que voc\u05DA tem."
+  start: !human_time '00:28:30.440'
+- end: !human_time '00:28:35.120'
+  lines:
+  - Pai, a gente devia ir.
+  start: !human_time '00:28:32.040'
+- end: !human_time '00:29:11.600'
+  lines:
+  - !!python/str "O que voc\u05DA quer?"
+  start: !human_time '00:29:10.200'
+- end: !human_time '00:29:15.680'
+  lines:
+  - Bem, agora mesmo,
+  - tudo o que queremos...
+  start: !human_time '00:29:12.720'
+- end: !human_time '00:29:17.600'
+  lines:
+  - !!python/str "...\u05D9 algo pra comer."
+  start: !human_time '00:29:15.720'
+- end: !human_time '00:30:22.800'
+  lines:
+  - !!python/str "Onde est\u05D1 o manuscrito?"
+  start: !human_time '00:30:20.600'
+- end: !human_time '00:30:28.080'
+  lines:
+  - O manuscrito Del Rio?
+  start: !human_time '00:30:25.680'
+- end: !human_time '00:30:28.880'
+  lines:
+  - !!python/str "N\u05D3o o tenho."
+  start: !human_time '00:30:28.120'
+- end: !human_time '00:30:32.080'
+  lines:
+  - !!python/str "N\u05D3o se fa\u05D7a de besta comigo,"
+  - !!python/str "porque conhe\u05D7o a sua m\u05D1gica..."
+  start: !human_time '00:30:29.000'
+- end: !human_time '00:30:33.000'
+  lines:
+  - !!python/str "...bruxa \u05DDndia."
+  start: !human_time '00:30:32.120'
+- end: !human_time '00:30:36.400'
+  lines:
+  - Prosit o pegou.
+  start: !human_time '00:30:34.480'
+- end: !human_time '00:30:39.520'
+  lines:
+  - Prosit o pegou.
+  start: !human_time '00:30:38.000'
+- end: !human_time '00:30:41.280'
+  lines:
+  - !!python/str "N\u05D3o tenha medo."
+  start: !human_time '00:30:39.560'
+- end: !human_time '00:30:44.080'
+  lines:
+  - !!python/str "Eu n\u05D3o mato animais."
+  start: !human_time '00:30:41.680'
+- end: !human_time '00:31:20.480'
+  lines:
+  - !!python/str "Onde voc\u05DA pegou isso?"
+  start: !human_time '00:31:18.800'
+- end: !human_time '00:31:24.720'
+  lines:
+  - !!python/str "Minha m\u05D3e deu pra mim."
+  start: !human_time '00:31:22.200'
+- end: !human_time '00:31:31.600'
+  lines:
+  - E esse outro aqui?
+  start: !human_time '00:31:29.280'
+- end: !human_time '00:31:34.800'
+  lines:
+  - Aposto que uma bela garota
+  - !!python/str "\u05DDndia deu ele pra voc\u05DA."
+  start: !human_time '00:31:31.640'
+- end: !human_time '00:31:41.680'
+  lines:
+  - Como sabe disso?
+  start: !human_time '00:31:39.120'
+- end: !human_time '00:31:44.880'
+  lines:
+  - !!python/str "Por que motivo voc\u05DA ficaria tanto"
+  - tempo nas montanhas?
+  start: !human_time '00:31:41.680'
+- end: !human_time '00:32:33.120'
+  lines:
+  - Nariz Quebrado!
+  start: !human_time '00:32:32.000'
+- end: !human_time '00:32:35.800'
+  lines:
+  - !!python/str "Onde est\u05D1 Runi?"
+  start: !human_time '00:32:33.520'
+- end: !human_time '00:32:37.120'
+  lines:
+  - Logo ali!
+  start: !human_time '00:32:35.840'
+- end: !human_time '00:32:39.000'
+  lines:
+  - Obrigado, minhas belas.
+  start: !human_time '00:32:37.120'
+- end: !human_time '00:32:41.200'
+  lines:
+  - !!python/str "Vejo voc\u05DAs mais tarde."
+  start: !human_time '00:32:39.400'
+- end: !human_time '00:33:07.120'
+  lines:
+  - Nariz Quebrado!
+  start: !human_time '00:33:05.400'
+- end: !human_time '00:33:10.080'
+  lines:
+  - !!python/str "Vai se juntar a n\u05E3s?"
+  start: !human_time '00:33:07.920'
+- end: !human_time '00:33:27.200'
+  lines:
+  - Ela conheceu
+  - um feiticeiro branca.
+  start: !human_time '00:33:21.920'
+- end: !human_time '00:33:29.120'
+  lines:
+  - Ele rouba
+  - as almas das pessoas.
+  start: !human_time '00:33:27.240'
+- end: !human_time '00:33:31.280'
+  lines:
+  - !!python/str "Eu preciso cur\u05D1-la,"
+  - !!python/str "preciso fazer isso r\u05D1pido."
+  start: !human_time '00:33:29.120'
+- end: !human_time '00:33:33.920'
+  lines:
+  - !!python/str "Ent\u05D3o ela vai"
+  - estar livre.
+  start: !human_time '00:33:31.320'
+- end: !human_time '00:33:38.080'
+  lines:
+  - !!python/str "Voc\u05DA nos deixaria agora?"
+  start: !human_time '00:33:34.600'
+- end: !human_time '00:33:45.920'
+  lines:
+  - !!python/str "N\u05E3s nos falamos mais tarde."
+  start: !human_time '00:33:41.920'
+- end: !human_time '00:35:31.680'
+  lines:
+  - !!python/str "Seus dem\u05E4nios est\u05D3o mais"
+  - fortes do que nunca.
+  start: !human_time '00:35:27.400'
+- end: !human_time '00:35:35.680'
+  lines:
+  - !!python/str "Eles v\u05D3o logo reaparecer."
+  start: !human_time '00:35:31.720'
+- end: !human_time '00:35:39.280'
+  lines:
+  - !!python/str "Agora n\u05D3o \u05D9 a hora."
+  start: !human_time '00:35:37.520'
+- end: !human_time '00:35:40.880'
+  lines:
+  - !!python/str "Eu n\u05D3o vim at\u05D9 aqui..."
+  start: !human_time '00:35:39.280'
+- end: !human_time '00:35:43.400'
+  lines:
+  - !!python/str "...pra ouvir os seus serm\u05E5es."
+  start: !human_time '00:35:40.880'
+- end: !human_time '00:35:47.800'
+  lines:
+  - !!python/str "Eu sei o que voc\u05DA quer."
+  start: !human_time '00:35:45.800'
+- end: !human_time '00:35:50.080'
+  lines:
+  - Falar comigo sobre...
+  start: !human_time '00:35:47.800'
+- end: !human_time '00:35:52.720'
+  lines:
+  - '...as Montanhas Sagradas.'
+  start: !human_time '00:35:50.080'
+- end: !human_time '00:35:56.600'
+  lines:
+  - !!python/str "H\u05D1 uma expedi\u05D7\u05D3o."
+  - !!python/str "Est\u05D3o procurando por ouro..."
+  start: !human_time '00:35:53.400'
+- end: !human_time '00:35:58.320'
+  lines:
+  - '...das Montanhas Sagradas.'
+  start: !human_time '00:35:56.600'
+- end: !human_time '00:36:00.200'
+  lines:
+  - !!python/str "Eles t\u05DAm um mapa."
+  start: !human_time '00:35:58.600'
+- end: !human_time '00:36:04.880'
+  lines:
+  - !!python/str "N\u05D3o."
+  start: !human_time '00:36:03.520'
+- end: !human_time '00:36:07.280'
+  lines:
+  - !!python/str "H\u05D1 um outro homem."
+  start: !human_time '00:36:04.880'
+- end: !human_time '00:36:09.200'
+  lines:
+  - O que ela se encontrou.
+  start: !human_time '00:36:07.280'
+- end: !human_time '00:36:11.800'
+  lines:
+  - !!python/str "Ele n\u05D3o es\u05D1"
+  - procurando por ouro.
+  start: !human_time '00:36:09.200'
+- end: !human_time '00:36:13.800'
+  lines:
+  - !!python/str "Com o que voc\u05DA est\u05D1"
+  - preocupado?
+  start: !human_time '00:36:11.800'
+- end: !human_time '00:36:16.320'
+  lines:
+  - !!python/str "O que ele est\u05D1 procurando?"
+  start: !human_time '00:36:14.200'
+- end: !human_time '00:36:19.800'
+  lines:
+  - O poder sagrado.
+  start: !human_time '00:36:16.800'
+- end: !human_time '00:36:40.800'
+  lines:
+  - !!python/str "Nosso segredo est\u05D1 amea\u05D7ado."
+  start: !human_time '00:36:38.600'
+- end: !human_time '00:36:43.680'
+  lines:
+  - Ele sabe.
+  start: !human_time '00:36:41.400'
+- end: !human_time '00:37:19.520'
+  lines:
+  - Ei, Mike!
+  start: !human_time '00:37:18.400'
+- end: !human_time '00:37:21.200'
+  lines:
+  - Oi, Pete!
+  start: !human_time '00:37:19.800'
+- end: !human_time '00:38:30.200'
+  lines:
+  - !!python/str "O que est\u05D1 fazendo aqui?"
+  start: !human_time '00:38:28.720'
+- end: !human_time '00:38:34.200'
+  lines:
+  - O que parece
+  - que estou fazendo?
+  start: !human_time '00:38:32.000'
+- end: !human_time '00:38:39.120'
+  lines:
+  - !!python/str "Agora voc\u05DAs dois est\u05D3o come\u05D7ando"
+  - a parecer marido e mulher.
+  start: !human_time '00:38:36.720'
+- end: !human_time '00:38:40.880'
+  lines:
+  - Sr. e sra. Marechal!
+  start: !human_time '00:38:39.160'
+- end: !human_time '00:38:44.800'
+  lines:
+  - !!python/str "Por que eu n\u05D3o te levo l\u05D1 pra cima"
+  - e mostro que tipo de mulher eu sou?
+  start: !human_time '00:38:40.800'
+- end: !human_time '00:38:47.600'
+  lines:
+  - !!python/str "\u05B9 mulher demais pra mim."
+  start: !human_time '00:38:45.400'
+- end: !human_time '00:38:50.200'
+  lines:
+  - Venha aqui.
+  start: !human_time '00:38:48.600'
+- end: !human_time '00:39:09.000'
+  lines:
+  - !!python/str "Est\u05D3o tocando bem essa"
+  - noite, rapazes?
+  start: !human_time '00:39:06.480'
+- end: !human_time '00:39:11.680'
+  lines:
+  - !!python/str "Que tal uma m\u05EAsica?"
+  start: !human_time '00:39:09.520'
+- end: !human_time '00:40:45.680'
+  lines:
+  - Chiricahuas!
+  start: !human_time '00:40:43.800'
+- end: !human_time '00:40:54.400'
+  lines:
+  - O que aconteceu?
+  start: !human_time '00:40:52.880'
+- end: !human_time '00:40:57.120'
+  lines:
+  - !!python/str "Onde est\u05D1 o Woodhead?"
+  start: !human_time '00:40:55.800'
+- end: !human_time '00:40:59.200'
+  lines:
+  - !!python/str "Est\u05D1 morto."
+  - !!python/str "Ele est\u05D1 morto!"
+  start: !human_time '00:40:57.160'
+- end: !human_time '00:41:01.280'
+  lines:
+  - Veja o que fizeram comigo!
+  start: !human_time '00:40:59.200'
+- end: !human_time '00:41:05.280'
+  lines:
+  - !!python/str "Voc\u05DA foi avisado"
+  - !!python/str "pra n\u05D3o ir no territ\u05E3rio deles."
+  start: !human_time '00:41:02.400'
+- end: !human_time '00:41:07.400'
+  lines:
+  - !!python/str "Est\u05D1vamos na estrada"
+  - para Riata.
+  start: !human_time '00:41:05.400'
+- end: !human_time '00:41:09.600'
+  lines:
+  - Eles nos atacaram.
+  start: !human_time '00:41:07.680'
+- end: !human_time '00:41:12.480'
+  lines:
+  - Bem, eles mataram um
+  - dos nossos.
+  start: !human_time '00:41:09.600'
+- end: !human_time '00:41:15.200'
+  lines:
+  - !!python/str "O que voc\u05DA vai"
+  - fazer sobre isso, Delegado?
+  start: !human_time '00:41:13.000'
+- end: !human_time '00:41:17.920'
+  lines:
+  - !!python/str "N\u05D3o podemos apenas nos sentar aqui"
+  - e colocar o rabo entre as pernas...
+  start: !human_time '00:41:15.280'
+- end: !human_time '00:41:21.600'
+  lines:
+  - '...enquanto eles tentam'
+  - nos cercar por todos os lados!
+  start: !human_time '00:41:17.960'
+- end: !human_time '00:41:32.400'
+  lines:
+  - !!python/str "Voc\u05DA \u05D9 esquerdo, n\u05D3o \u05D9?"
+  start: !human_time '00:41:30.200'
+- end: !human_time '00:41:33.600'
+  lines:
+  - !!python/str "O qu\u05DA?"
+  start: !human_time '00:41:32.400'
+- end: !human_time '00:41:37.200'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o \u05D9 canhoto?"
+  start: !human_time '00:41:35.000'
+- end: !human_time '00:41:40.480'
+  lines:
+  - !!python/str "Est\u05D1 dizendo"
+  - que estou mentindo?
+  start: !human_time '00:41:38.720'
+- end: !human_time '00:41:44.080'
+  lines:
+  - Acha que eu sentei em um cavalo
+  - e fiz isso eu mesmo?
+  start: !human_time '00:41:41.120'
+- end: !human_time '00:41:45.200'
+  lines:
+  - !!python/str "E deve ter do\u05DDdo."
+  start: !human_time '00:41:44.120'
+- end: !human_time '00:41:47.800'
+  lines:
+  - Sou um oficial prussiano!
+  start: !human_time '00:41:45.280'
+- end: !human_time '00:41:52.000'
+  lines:
+  - !!python/str "A fam\u05DDlia Von Luckner \u05D9 bem"
+  - respeitada na Alemanha por muitos anos!
+  start: !human_time '00:41:48.000'
+- end: !human_time '00:41:54.720'
+  lines:
+  - !!python/str "Sou um homem da ci\u05DAncia,"
+  - um geologista.
+  start: !human_time '00:41:52.040'
+- end: !human_time '00:41:56.600'
+  lines:
+  - !!python/str "Eu fa\u05D7o mapas."
+  start: !human_time '00:41:54.720'
+- end: !human_time '00:41:59.120'
+  lines:
+  - Eu nunca
+  - vi nada como isso!
+  start: !human_time '00:41:57.000'
+- end: !human_time '00:42:01.000'
+  lines:
+  - O mundo inteiro
+  - ficou maluco!
+  start: !human_time '00:41:59.200'
+- end: !human_time '00:42:02.880'
+  lines:
+  - !!python/str "\u05B9 possivel!"
+  start: !human_time '00:42:01.520'
+- end: !human_time '00:42:04.880'
+  lines:
+  - Mas vou descobrir o
+  - que aconteceu.
+  start: !human_time '00:42:02.800'
+- end: !human_time '00:42:07.120'
+  lines:
+  - Pode apostar nisso.
+  start: !human_time '00:42:05.120'
+- end: !human_time '00:42:11.800'
+  lines:
+  - !!python/str "Talvez voc\u05DA n\u05D3o seja o homem"
+  - !!python/str "certo pra esse servi\u05D7o, Delegado."
+  start: !human_time '00:42:08.800'
+- end: !human_time '00:42:13.400'
+  lines:
+  - !!python/str "\u05B9 a nossa terra!"
+  start: !human_time '00:42:11.840'
+- end: !human_time '00:42:23.520'
+  lines:
+  - !!python/str "Voc\u05DA arruinou"
+  - !!python/str "a minha m\u05EAsica."
+  start: !human_time '00:42:21.120'
+- end: !human_time '00:42:29.120'
+  lines:
+  - Uma rodada de drinks por conta da casa
+  - !!python/str "em mem\u05E3ria do Woodhead!"
+  start: !human_time '00:42:25.520'
+- end: !human_time '00:42:44.600'
+  lines:
+  - !!python/str "Ela tem culh\u05E5es t\u05D3o grandes"
+  - quanto um touro.
+  start: !human_time '00:42:41.800'
+- end: !human_time '00:42:52.080'
+  lines:
+  - Para Woodhead!
+  - !!python/str "Que Deus garanta a sua vingan\u05D7a!"
+  start: !human_time '00:42:48.480'
+- end: !human_time '00:42:57.600'
+  lines:
+  - Sullivan, eu encontrei as montanhas.
+  - Eu posso...
+  start: !human_time '00:42:54.880'
+- end: !human_time '00:43:00.320'
+  lines:
+  - !!python/str "Sullivan, voc\u05DA"
+  - ainda precisa de mim!
+  start: !human_time '00:42:58.200'
+- end: !human_time '00:43:02.200'
+  lines:
+  - !!python/str "Talvez n\u05D3o."
+  start: !human_time '00:43:00.600'
+- end: !human_time '00:43:25.800'
+  lines:
+  - !!python/str "O que voc\u05DA est\u05D1 olhando?"
+  start: !human_time '00:43:23.800'
+- end: !human_time '00:43:37.920'
+  lines:
+  - Mova-se!
+  start: !human_time '00:43:36.200'
+- end: !human_time '00:44:05.200'
+  lines:
+  - Quem fez isso?
+  start: !human_time '00:44:03.680'
+- end: !human_time '00:44:08.480'
+  lines:
+  - !!python/str "Voc\u05DA, me diga."
+  - O que aconteceu?
+  start: !human_time '00:44:05.200'
+- end: !human_time '00:44:12.720'
+  lines:
+  - -Diga, seu filho da puta!
+  - -Ultimamente, Delegado...
+  start: !human_time '00:44:08.880'
+- end: !human_time '00:44:17.120'
+  lines:
+  - !!python/str "...de que lado voc\u05DA est\u05D1?"
+  start: !human_time '00:44:15.280'
+- end: !human_time '00:44:23.400'
+  lines:
+  - !!python/str "Tem certeza de que n\u05D3o quer"
+  - !!python/str "que eu v\u05D1 com voc\u05DA?"
+  start: !human_time '00:44:20.800'
+- end: !human_time '00:44:26.720'
+  lines:
+  - !!python/str "N\u05D3o."
+  - !!python/str "Preciso de voc\u05DA aqui."
+  start: !human_time '00:44:23.680'
+- end: !human_time '00:44:30.880'
+  lines:
+  - Sabe que se Woodhead e aquele prussiano
+  - !!python/str "entraram no territ\u05E3rio deles..."
+  start: !human_time '00:44:27.280'
+- end: !human_time '00:44:33.520'
+  lines:
+  - !!python/str "...voc\u05DA pode n\u05D3o ter as boas-vindas"
+  - !!python/str "que est\u05D1 acostumado."
+  start: !human_time '00:44:30.880'
+- end: !human_time '00:44:36.800'
+  lines:
+  - Jimmy...
+  start: !human_time '00:44:35.280'
+- end: !human_time '00:44:41.600'
+  lines:
+  - '...estarei de volta em alguns dias.'
+  - E Jimmy...
+  start: !human_time '00:44:38.600'
+- end: !human_time '00:44:45.400'
+  lines:
+  - !!python/str "...\u05D9 melhor manter seus olhos abertos"
+  - !!python/str "at\u05D9 o Rolling Star te render."
+  start: !human_time '00:44:41.600'
+- end: !human_time '00:44:50.080'
+  lines:
+  - Sim, senhor Delegado.
+  start: !human_time '00:44:46.720'
+- end: !human_time '00:44:56.320'
+  lines:
+  - !!python/str "Maldito franc\u05DAs!"
+  start: !human_time '00:44:54.480'
+- end: !human_time '00:44:59.600'
+  lines:
+  - !!python/str "Volte pros seus \u05DDndios, garoto!"
+  start: !human_time '00:44:57.400'
+- end: !human_time '00:45:08.000'
+  lines:
+  - !!python/str "Saia daqui, \u05DDndio!"
+  start: !human_time '00:45:05.600'
+- end: !human_time '00:45:16.480'
+  lines:
+  - !!python/str "Adeus, amante de \u05DDndia!"
+  start: !human_time '00:45:13.920'
+- end: !human_time '00:45:50.600'
+  lines:
+  - !!python/str "Eu n\u05D3o o matei."
+  - !!python/str "Ele foi v\u05DDtima de vingan\u05D7a."
+  start: !human_time '00:45:47.120'
+- end: !human_time '00:45:54.720'
+  lines:
+  - Um homem branco diz
+  - que foi atacado...
+  start: !human_time '00:45:50.600'
+- end: !human_time '00:45:57.400'
+  lines:
+  - '...a caminho de Riata.'
+  start: !human_time '00:45:54.760'
+- end: !human_time '00:46:05.600'
+  lines:
+  - !!python/str "Esse \u05D9 o escalpo do"
+  - homem negro.
+  start: !human_time '00:46:03.120'
+- end: !human_time '00:46:08.800'
+  lines:
+  - Ele estava a caminho
+  - das Montanhas Sagradas.
+  start: !human_time '00:46:05.600'
+- end: !human_time '00:46:11.120'
+  lines:
+  - !!python/str "Vou lev\u05D1-lo para Runi."
+  start: !human_time '00:46:08.800'
+- end: !human_time '00:46:14.720'
+  lines:
+  - !!python/str "Runi n\u05D3o \u05D9 um de n\u05E3s."
+  - !!python/str "O corpo pertence a n\u05E3s."
+  start: !human_time '00:46:11.120'
+- end: !human_time '00:46:17.920'
+  lines:
+  - !!python/str "Vou lev\u05D1-lo para Runi."
+  start: !human_time '00:46:14.760'
+- end: !human_time '00:46:35.200'
+  lines:
+  - !!python/str "N\u05D3o sou seu inimigo."
+  start: !human_time '00:46:33.400'
+- end: !human_time '00:46:37.600'
+  lines:
+  - !!python/str "N\u05D3o sou seu inimigo."
+  start: !human_time '00:46:35.800'
+- end: !human_time '00:46:46.480'
+  lines:
+  - !!python/str "V\u05D1 em frente."
+  start: !human_time '00:46:45.520'
+- end: !human_time '00:46:48.200'
+  lines:
+  - Chiricahua, mate-me!
+  start: !human_time '00:46:46.600'
+- end: !human_time '00:46:50.400'
+  lines:
+  - !!python/str "V\u05D1 em frente!"
+  start: !human_time '00:46:48.200'
+- end: !human_time '00:47:59.000'
+  lines:
+  - !!python/str "Est\u05D1 um dia quente,"
+  - !!python/str "n\u05D3o \u05D9, Xerife?"
+  start: !human_time '00:47:57.000'
+- end: !human_time '00:48:00.480'
+  lines:
+  - Sim.
+  start: !human_time '00:47:59.040'
+- end: !human_time '00:48:08.480'
+  lines:
+  - Estou procurando por
+  - um bom amigo meu.
+  start: !human_time '00:48:06.320'
+- end: !human_time '00:48:11.400'
+  lines:
+  - !!python/str "O nome dele \u05D9 Prosit."
+  start: !human_time '00:48:09.680'
+- end: !human_time '00:48:15.200'
+  lines:
+  - !!python/str "Imagino que v\u05D1 encontr\u05D1-lo"
+  - no Venus Hotel.
+  start: !human_time '00:48:11.400'
+- end: !human_time '00:48:23.280'
+  lines:
+  - Certo.
+  - Muito obrigado.
+  start: !human_time '00:48:19.120'
+- end: !human_time '00:48:31.600'
+  lines:
+  - Prosit, heim?
+  start: !human_time '00:48:29.920'
+- end: !human_time '00:48:35.920'
+  lines:
+  - Vamos, Billy
+  - !!python/str "leve-me pro saloon, r\u05D1pido!"
+  start: !human_time '00:48:33.600'
+- end: !human_time '00:48:38.600'
+  lines:
+  - Ei, Xerife,
+  - temos um ferido!
+  start: !human_time '00:48:35.920'
+- end: !human_time '00:48:47.000'
+  lines:
+  - !!python/str "Com todos os dem\u05E4nios!"
+  - Woodhead?
+  start: !human_time '00:48:41.520'
+- end: !human_time '00:48:48.480'
+  lines:
+  - Prosit.
+  start: !human_time '00:48:47.040'
+- end: !human_time '00:48:52.320'
+  lines:
+  - !!python/str "Onde est\u05D1 o Prosit?"
+  start: !human_time '00:48:50.320'
+- end: !human_time '00:48:54.880'
+  lines:
+  - !!python/str "-O que voc\u05DA disse?"
+  - -Prosit
+  start: !human_time '00:48:52.320'
+- end: !human_time '00:49:02.400'
+  lines:
+  - Eu vi as montanhas.
+  - !!python/str "Voc\u05DA est\u05D1 com o manuscrito."
+  start: !human_time '00:48:59.600'
+- end: !human_time '00:49:04.400'
+  lines:
+  - !!python/str "Sullivan est\u05D1 com ele."
+  start: !human_time '00:49:02.400'
+- end: !human_time '00:49:08.000'
+  lines:
+  - Vou tomar um drink.
+  start: !human_time '00:49:06.800'
+- end: !human_time '00:49:12.800'
+  lines:
+  - Agora Woody, veja, vamos!
+  - !!python/str "N\u05D3o va fazer nada que possa arrepender-se!"
+  start: !human_time '00:49:08.080'
+- end: !human_time '00:49:17.600'
+  lines:
+  - Vamos, leve-me de volta
+  - !!python/str "\u05D0 delegacia."
+  start: !human_time '00:49:15.400'
+- end: !human_time '00:49:21.920'
+  lines:
+  - Vamos, vamos!
+  - Vamos chamar o Jimmy! Vamos!
+  start: !human_time '00:49:19.520'
+- end: !human_time '00:49:23.280'
+  lines:
+  - !!python/str "E v\u05D1 direto!"
+  start: !human_time '00:49:21.960'
+- end: !human_time '00:49:29.120'
+  lines:
+  - !!python/str "Eu estava l\u05D1."
+  - Ele era o meu parceiro.
+  start: !human_time '00:49:25.920'
+- end: !human_time '00:49:30.320'
+  lines:
+  - !!python/str "\u05B9ramos como irm\u05D3os"
+  - de sangue.
+  start: !human_time '00:49:29.120'
+- end: !human_time '00:49:31.680'
+  lines:
+  - Woodhead!
+  start: !human_time '00:49:30.320'
+- end: !human_time '00:49:35.200'
+  lines:
+  - Howdy Pete!
+  start: !human_time '00:49:33.520'
+- end: !human_time '00:49:38.400'
+  lines:
+  - Sim?
+  start: !human_time '00:49:37.200'
+- end: !human_time '00:49:42.000'
+  lines:
+  - Estou procurando por
+  - um homem chamado Prosit.
+  start: !human_time '00:49:39.800'
+- end: !human_time '00:49:45.280'
+  lines:
+  - Woodhead!
+  - !!python/str "\u05B9 um milagre!"
+  start: !human_time '00:49:42.000'
+- end: !human_time '00:49:47.520'
+  lines:
+  - !!python/str "Ent\u05D3o ambos sobrevivemos!"
+  start: !human_time '00:49:45.280'
+- end: !human_time '00:49:52.200'
+  lines:
+  - !!python/str "Sei o que voc\u05DA vai dizer"
+  - mas veja o que fizeram comigo!
+  start: !human_time '00:49:48.800'
+- end: !human_time '00:50:04.320'
+  lines:
+  - Eles me escalpelaram
+  - e me deixaram pra morrer.
+  start: !human_time '00:50:00.000'
+- end: !human_time '00:50:07.920'
+  lines:
+  - Eu implorei.
+  start: !human_time '00:50:06.400'
+- end: !human_time '00:50:13.400'
+  lines:
+  - !!python/str "Rezei a Deus pra me dar for\u05D7as"
+  - pra conseguir retornar...
+  start: !human_time '00:50:08.720'
+- end: !human_time '00:50:17.680'
+  lines:
+  - '...pra que eu'
+  - !!python/str "pudesse mat\u05D1-lo."
+  start: !human_time '00:50:15.120'
+- end: !human_time '00:50:47.520'
+  lines:
+  - Solte a arma!
+  start: !human_time '00:50:45.680'
+- end: !human_time '00:50:55.920'
+  lines:
+  - Eu disse solte a arma!
+  start: !human_time '00:50:52.600'
+- end: !human_time '00:51:01.600'
+  lines:
+  - !!python/str "Voc\u05DA ouviu o homem."
+  start: !human_time '00:50:59.680'
+- end: !human_time '00:51:20.400'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o pode me deixar"
+  - na mesma cela.
+  start: !human_time '00:51:18.320'
+- end: !human_time '00:51:22.200'
+  lines:
+  - !!python/str "Ele \u05D9 um assassino."
+  start: !human_time '00:51:20.400'
+- end: !human_time '00:51:26.880'
+  lines:
+  - !!python/str "Voc\u05DA parte o meu cora\u05D7\u05D3o!"
+  start: !human_time '00:51:25.000'
+- end: !human_time '00:51:32.800'
+  lines:
+  - Pensei que
+  - !!python/str "f\u05E4ssemos parceiros."
+  start: !human_time '00:51:30.200'
+- end: !human_time '00:51:39.120'
+  lines:
+  - Wally, meu amigo!
+  - Pensei que estivesse morto!
+  start: !human_time '00:51:34.400'
+- end: !human_time '00:51:45.280'
+  lines:
+  - !!python/str "Parece que voc\u05DA"
+  - esteve muito ocupado, Prosit.
+  start: !human_time '00:51:40.800'
+- end: !human_time '00:51:48.400'
+  lines:
+  - !!python/str "O que importa \u05D9 que voc\u05DA"
+  - !!python/str "est\u05D1 vivo, parceiro."
+  start: !human_time '00:51:45.320'
+- end: !human_time '00:51:52.200'
+  lines:
+  - !!python/str "Onde est\u05D1 o manuscrito?"
+  start: !human_time '00:51:50.320'
+- end: !human_time '00:51:55.200'
+  lines:
+  - '- Manuscrito?'
+  - '- O manuscrito.'
+  start: !human_time '00:51:52.480'
+- end: !human_time '00:51:59.520'
+  lines:
+  - Ah, aquele manuscrito!
+  - Como o manuscrito Del Rio?
+  start: !human_time '00:51:55.200'
+- end: !human_time '00:52:04.600'
+  lines:
+  - !!python/str "N\u05D3o estou com ele."
+  - !!python/str "Mas eu sei com quem est\u05D1."
+  start: !human_time '00:52:00.480'
+- end: !human_time '00:52:08.000'
+  lines:
+  - !!python/str "Sim, posso lev\u05D1-lo at\u05D9 ele."
+  start: !human_time '00:52:04.640'
+- end: !human_time '00:52:12.600'
+  lines:
+  - !!python/str "Podemos encontr\u05D1-lo agora mesmo."
+  - !!python/str "Bem, n\u05D3o podemos sair, mas..."
+  start: !human_time '00:52:09.000'
+- end: !human_time '00:52:16.480'
+  lines:
+  - Sabe que podemos.
+  - Somos parceiros.
+  start: !human_time '00:52:13.680'
+- end: !human_time '00:52:19.000'
+  lines:
+  - Somos parceiros?
+  start: !human_time '00:52:17.200'
+- end: !human_time '00:52:23.920'
+  lines:
+  - !!python/str "\u05B9 bom v\u05DA-lo, Wally"
+  start: !human_time '00:52:22.000'
+- end: !human_time '00:52:25.920'
+  lines:
+  - Da mesma forma.
+  start: !human_time '00:52:24.200'
+- end: !human_time '00:53:01.680'
+  lines:
+  - !!python/str "O Delegado est\u05D1 aqui."
+  start: !human_time '00:53:00.080'
+- end: !human_time '00:53:12.480'
+  lines:
+  - Sim.
+  start: !human_time '00:53:11.200'
+- end: !human_time '00:53:15.280'
+  lines:
+  - !!python/str "Riata, n\u05D3o foi?"
+  start: !human_time '00:53:13.200'
+- end: !human_time '00:53:23.920'
+  lines:
+  - !!python/str "Sim, Woodhead est\u05D1 morto."
+  start: !human_time '00:53:21.920'
+- end: !human_time '00:53:26.320'
+  lines:
+  - !!python/str "Mas n\u05D3o foram os Chiricahua"
+  - que o mataram.
+  start: !human_time '00:53:24.200'
+- end: !human_time '00:53:29.280'
+  lines:
+  - !!python/str "Um pistoleiro veio \u05D0 cidade hoje"
+  - !!python/str "e terminou o servi\u05D7o."
+  start: !human_time '00:53:26.360'
+- end: !human_time '00:53:32.000'
+  lines:
+  - !!python/str "Ele est\u05D1 sentado l\u05D1,"
+  - !!python/str "na sua pris\u05D3o."
+  start: !human_time '00:53:29.200'
+- end: !human_time '00:53:46.080'
+  lines:
+  - Esse homem
+  - !!python/str "est\u05D1 arrastando os p\u05D9s."
+  start: !human_time '00:53:43.520'
+- end: !human_time '00:54:06.880'
+  lines:
+  - !!python/str "O que h\u05D1 de errado?"
+  start: !human_time '00:54:05.600'
+- end: !human_time '00:54:11.000'
+  lines:
+  - !!python/str "Bem, n\u05D3o h\u05D1 nada errado,"
+  - querida. Nada.
+  start: !human_time '00:54:07.520'
+- end: !human_time '00:54:15.920'
+  lines:
+  - Aqui, eu fico com isso.
+  - Fico com isso.
+  start: !human_time '00:54:12.720'
+- end: !human_time '00:54:25.400'
+  lines:
+  - Sobre o que era tudo aquilo?
+  start: !human_time '00:54:23.680'
+- end: !human_time '00:54:29.280'
+  lines:
+  - !!python/str "Apenas uma conversa amig\u05D1vel"
+  - entre dois homens.
+  start: !human_time '00:54:25.440'
+- end: !human_time '00:54:33.000'
+  lines:
+  - !!python/str "\u05B9 mesmo?"
+  start: !human_time '00:54:31.200'
+- end: !human_time '00:54:38.880'
+  lines:
+  - Bem, certamente ele saiu apressado
+  - !!python/str "para estar sendo t\u05D3o amig\u05D1vel."
+  start: !human_time '00:54:35.000'
+- end: !human_time '00:54:42.000'
+  lines:
+  - !!python/str "Voc\u05DA est\u05D1 apaixonada por ele,"
+  - !!python/str "n\u05D3o est\u05D1?"
+  start: !human_time '00:54:39.600'
+- end: !human_time '00:54:47.680'
+  lines:
+  - De que lado
+  - !!python/str "voc\u05DA est\u05D1, querida?"
+  start: !human_time '00:54:45.920'
+- end: !human_time '00:54:50.320'
+  lines:
+  - !!python/str "Eu n\u05D3o sabia que tinha"
+  - que escolher.
+  start: !human_time '00:54:47.680'
+- end: !human_time '00:54:54.400'
+  lines:
+  - Bem, estou do meu lado.
+  start: !human_time '00:54:52.080'
+- end: !human_time '00:55:20.480'
+  lines:
+  - -Billy!
+  - -Certo.
+  start: !human_time '00:55:18.880'
+- end: !human_time '00:55:35.920'
+  lines:
+  - Ei, homem!
+  - Estive realmente ocupado.
+  start: !human_time '00:55:32.080'
+- end: !human_time '00:55:37.600'
+  lines:
+  - Estamos com a casa cheia.
+  start: !human_time '00:55:35.960'
+- end: !human_time '00:55:39.000'
+  lines:
+  - Eu soube.
+  start: !human_time '00:55:37.800'
+- end: !human_time '00:55:58.400'
+  lines:
+  - !!python/str "Voc\u05DA vai pintar o"
+  - meu retrato?
+  start: !human_time '00:55:55.920'
+- end: !human_time '00:56:01.920'
+  lines:
+  - Ei, qual o seu nome?
+  start: !human_time '00:55:58.440'
+- end: !human_time '00:56:10.000'
+  lines:
+  - Wallace Sebastian Blount.
+  start: !human_time '00:56:05.800'
+- end: !human_time '00:56:17.520'
+  lines:
+  - Ei, Delegado.
+  start: !human_time '00:56:15.000'
+- end: !human_time '00:56:20.000'
+  lines:
+  - !!python/str "Voc\u05DA tem fogo?"
+  start: !human_time '00:56:18.320'
+- end: !human_time '00:56:35.200'
+  lines:
+  - A maioria das pessoas
+  - apenas me chamam de Wally.
+  start: !human_time '00:56:31.920'
+- end: !human_time '00:56:39.600'
+  lines:
+  - Wally.
+  start: !human_time '00:56:38.080'
+- end: !human_time '00:56:50.080'
+  lines:
+  - !!python/str "N\u05D3o, Wally!"
+  - Por favor, pare!
+  start: !human_time '00:56:46.600'
+- end: !human_time '00:57:14.880'
+  lines:
+  - Afaste-se!
+  start: !human_time '00:57:13.800'
+- end: !human_time '00:57:24.320'
+  lines:
+  - Pare!
+  start: !human_time '00:57:22.720'
+- end: !human_time '00:57:39.920'
+  lines:
+  - !!python/str "N\u05D3o ser\u05D1 como da \u05EAltima vez."
+  start: !human_time '00:57:37.520'
+- end: !human_time '00:57:45.600'
+  lines:
+  - !!python/str "Voc\u05DA quer ver"
+  - como um homem faz?
+  start: !human_time '00:57:44.080'
+- end: !human_time '00:57:47.520'
+  lines:
+  - !!python/str "V\u05D1! V\u05D1 embora, Mike!"
+  start: !human_time '00:57:45.640'
+- end: !human_time '00:58:15.800'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o quer morrer por causa"
+  - de um puta, Mike?
+  start: !human_time '00:58:12.320'
+- end: !human_time '00:59:09.280'
+  lines:
+  - Seu filho da puta.
+  - Pensei que estivesse morto.
+  start: !human_time '00:59:06.200'
+- end: !human_time '00:59:15.000'
+  lines:
+  - !!python/str "Vou ser amaldi\u05D7oado."
+  start: !human_time '00:59:13.600'
+- end: !human_time '00:59:17.920'
+  lines:
+  - !!python/str "Est\u05D1 tentando me matar"
+  - !!python/str "com a minha pr\u05E3pria arma!"
+  start: !human_time '00:59:15.000'
+- end: !human_time '00:59:22.400'
+  lines:
+  - !!python/str "Isso n\u05D3o est\u05D1 certo."
+  start: !human_time '00:59:20.880'
+- end: !human_time '00:59:24.880'
+  lines:
+  - !!python/str "Voc\u05DA \u05D9 um filho da puta, Mike."
+  start: !human_time '00:59:22.800'
+- end: !human_time '00:59:26.880'
+  lines:
+  - Acho que talvez...
+  start: !human_time '00:59:24.880'
+- end: !human_time '00:59:29.400'
+  lines:
+  - !!python/str "...voc\u05DA nunca tenha superado..."
+  start: !human_time '00:59:27.400'
+- end: !human_time '00:59:37.120'
+  lines:
+  - '...aquela coisa que eu fiz.'
+  - -Filho da puta!
+  start: !human_time '00:59:32.880'
+- end: !human_time '00:59:42.600'
+  lines:
+  - Na verdade,
+  - !!python/str "voc\u05DA me fez um favor."
+  start: !human_time '00:59:39.000'
+- end: !human_time '00:59:45.680'
+  lines:
+  - Eu morri, mas eu voltei.
+  start: !human_time '00:59:42.600'
+- end: !human_time '00:59:49.280'
+  lines:
+  - E agora, estou a caminho das
+  - Montanhas Sagradas.
+  start: !human_time '00:59:45.720'
+- end: !human_time '00:59:57.000'
+  lines:
+  - Mas primeiro...
+  start: !human_time '00:59:54.080'
+- end: !human_time '00:59:57.920'
+  lines:
+  - '...alguma honestidade.'
+  start: !human_time '00:59:57.000'
+- end: !human_time '01:00:02.000'
+  lines:
+  - Da mesma forma
+  - !!python/str "que voc\u05DA foi comigo."
+  start: !human_time '00:59:59.000'
+- end: !human_time '01:00:17.000'
+  lines:
+  - Certo.
+  start: !human_time '01:00:15.400'
+- end: !human_time '01:00:25.280'
+  lines:
+  - !!python/str "Voc\u05DA quer a verdade?"
+  start: !human_time '01:00:23.280'
+- end: !human_time '01:00:28.200'
+  lines:
+  - !!python/str "Eu n\u05D3o vou decepcion\u05D1-lo."
+  start: !human_time '01:00:25.600'
+- end: !human_time '01:00:47.600'
+  lines:
+  - Quer saber o que eu
+  - vi no fogo?
+  start: !human_time '01:00:44.720'
+- end: !human_time '01:00:57.520'
+  lines:
+  - Eu vi...
+  start: !human_time '01:00:55.920'
+- end: !human_time '01:01:00.880'
+  lines:
+  - '...formas estranhas.'
+  start: !human_time '01:00:59.120'
+- end: !human_time '01:01:09.200'
+  lines:
+  - !!python/str "Estranhas l\u05DDnguas"
+  - negras...
+  start: !human_time '01:01:06.400'
+- end: !human_time '01:01:11.520'
+  lines:
+  - '...lambendo a minha alma.'
+  start: !human_time '01:01:09.400'
+- end: !human_time '01:01:28.800'
+  lines:
+  - Eu vou aprender a matar.
+  start: !human_time '01:01:24.720'
+- end: !human_time '01:01:33.200'
+  lines:
+  - A matar...
+  - !!python/str "com o meu esp\u05DDrito."
+  start: !human_time '01:01:29.000'
+- end: !human_time '01:01:36.880'
+  lines:
+  - !!python/str "Que bom v\u05DA-lo de novo."
+  start: !human_time '01:01:34.600'
+- end: !human_time '01:01:45.120'
+  lines:
+  - Mike, Mike
+  - Vamos, vamos, levante-se!
+  start: !human_time '01:01:41.520'
+- end: !human_time '01:02:09.600'
+  lines:
+  - !!python/str "Acho que \u05D9 melhor voc\u05DA"
+  - !!python/str "correr e encontrar a sua m\u05D3e. Certo?"
+  start: !human_time '01:02:06.080'
+- end: !human_time '01:02:22.600'
+  lines:
+  - Vamos!
+  start: !human_time '01:02:21.600'
+- end: !human_time '01:02:24.880'
+  lines:
+  - !!python/str "Leve-me at\u05D9 o Runi."
+  start: !human_time '01:02:23.200'
+- end: !human_time '01:02:29.200'
+  lines:
+  - Se sairmos dessa, te levo
+  - !!python/str "a qualquer lugar que voc\u05DA quiser."
+  start: !human_time '01:02:25.600'
+- end: !human_time '01:02:30.480'
+  lines:
+  - Sigam-me!
+  start: !human_time '01:02:29.240'
+- end: !human_time '01:02:33.680'
+  lines:
+  - Billy, Billy!
+  start: !human_time '01:02:31.520'
+- end: !human_time '01:02:38.880'
+  lines:
+  - !!python/str "N\u05D3o! N\u05D3o, Billy!"
+  - !!python/str "Billy, n\u05D3o!"
+  start: !human_time '01:02:33.680'
+- end: !human_time '01:02:40.080'
+  lines:
+  - Billy!
+  start: !human_time '01:02:38.920'
+- end: !human_time '01:02:43.280'
+  lines:
+  - !!python/str "N\u05D3o, Billy!"
+  start: !human_time '01:02:41.280'
+- end: !human_time '01:02:46.880'
+  lines:
+  - !!python/str "Billy! N\u05D3o!"
+  start: !human_time '01:02:43.800'
+- end: !human_time '01:02:53.800'
+  lines:
+  - Papai!
+  start: !human_time '01:02:52.320'
+- end: !human_time '01:03:18.000'
+  lines:
+  - !!python/str "N\u05D3o fa\u05D7a isso."
+  start: !human_time '01:03:16.320'
+- end: !human_time '01:03:37.600'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o pode atirar em mim!"
+  - Veja o manuscrito.
+  start: !human_time '01:03:35.000'
+- end: !human_time '01:03:40.200'
+  lines:
+  - !!python/str "-Pra qu\u05DA?"
+  - !!python/str "-As \u05EAltimas p\u05D1ginas."
+  start: !human_time '01:03:37.680'
+- end: !human_time '01:03:49.800'
+  lines:
+  - Eu as comi.
+  start: !human_time '01:03:48.200'
+- end: !human_time '01:04:08.800'
+  lines:
+  - Acho que vou ter que
+  - !!python/str "tir\u05D1-lo de voc\u05DA."
+  start: !human_time '01:04:06.800'
+- end: !human_time '01:04:11.680'
+  lines:
+  - Espere, Wally!
+  - !!python/str "N\u05E3s somos parceiros."
+  start: !human_time '01:04:08.840'
+- end: !human_time '01:04:13.280'
+  lines:
+  - !!python/str "Ei, isso \u05D9 loucura!"
+  start: !human_time '01:04:11.680'
+- end: !human_time '01:04:15.280'
+  lines:
+  - !!python/str "J\u05D1 se desintegrou agora."
+  start: !human_time '01:04:13.280'
+- end: !human_time '01:04:18.600'
+  lines:
+  - !!python/str "Est\u05D1 no meu est\u05E4mago"
+  - !!python/str "desde ter\u05D7a-feira."
+  start: !human_time '01:04:16.800'
+- end: !human_time '01:04:24.000'
+  lines:
+  - Pense! Wally!
+  - !!python/str "N\u05E3s somos parceiros, Wally"
+  start: !human_time '01:04:18.600'
+- end: !human_time '01:04:29.680'
+  lines:
+  - Vamos.
+  start: !human_time '01:04:28.320'
+- end: !human_time '01:04:33.520'
+  lines:
+  - Schnell!
+  start: !human_time '01:04:32.320'
+- end: !human_time '01:04:37.000'
+  lines:
+  - Certo, Schnell.
+  start: !human_time '01:04:35.120'
+- end: !human_time '01:04:39.800'
+  lines:
+  - !!python/str "Voc\u05DA tentou me matar"
+  - !!python/str "mas o mapa est\u05D1 na minha cabe\u05D7a."
+  start: !human_time '01:04:37.000'
+- end: !human_time '01:04:42.600'
+  lines:
+  - Bem, espero que sim,
+  - !!python/str "pela sua seguran\u05D7a, parceiro."
+  start: !human_time '01:04:39.840'
+- end: !human_time '01:04:53.200'
+  lines:
+  - Pai! Pai?
+  start: !human_time '01:04:49.600'
+- end: !human_time '01:05:10.880'
+  lines:
+  - !!python/str "N\u05D3o, n\u05D3o, n\u05D3o."
+  start: !human_time '01:05:06.000'
+- end: !human_time '01:05:16.800'
+  lines:
+  - !!python/str "N\u05D3o, n\u05D3o, n\u05D3o!"
+  start: !human_time '01:05:13.400'
+- end: !human_time '01:05:40.880'
+  lines:
+  - !!python/str "N\u05D3o!"
+  start: !human_time '01:05:37.120'
+- end: !human_time '01:05:44.880'
+  lines:
+  - Meu pai!
+  start: !human_time '01:05:42.080'
+- end: !human_time '01:05:56.200'
+  lines:
+  - Vamos, rapazes!
+  - !!python/str "Joguem \u05D1gua nessa coisa!"
+  start: !human_time '01:05:53.400'
+- end: !human_time '01:06:01.280'
+  lines:
+  - Vamos, joguem pela janela aqui.
+  - Vamos, rapazes!
+  start: !human_time '01:05:56.480'
+- end: !human_time '01:06:03.120'
+  lines:
+  - !!python/str "Vamos, for\u05D7a, rapazes!"
+  start: !human_time '01:06:01.280'
+- end: !human_time '01:06:05.280'
+  lines:
+  - Vamos rapazes!
+  start: !human_time '01:06:03.680'
+- end: !human_time '01:06:07.120'
+  lines:
+  - Apaguem o fogo!
+  start: !human_time '01:06:05.280'
+- end: !human_time '01:06:08.200'
+  lines:
+  - Ei, Jimmy!
+  start: !human_time '01:06:07.120'
+- end: !human_time '01:06:10.480'
+  lines:
+  - !!python/str "Tem certeza de que voc\u05DAs"
+  - !!python/str "n\u05D3o querem esperar o sol subir?"
+  start: !human_time '01:06:08.240'
+- end: !human_time '01:06:11.800'
+  lines:
+  - Ter uma boa noite
+  - de descanso?
+  start: !human_time '01:06:10.480'
+- end: !human_time '01:06:14.480'
+  lines:
+  - Quer dizer a ele que
+  - !!python/str "vamos esperar at\u05D9 de manh\u05D3?"
+  start: !human_time '01:06:11.800'
+- end: !human_time '01:06:16.800'
+  lines:
+  - !!python/str "Eu j\u05D1 estou um trapo."
+  start: !human_time '01:06:14.720'
+- end: !human_time '01:06:20.320'
+  lines:
+  - Certamente eu gostaria
+  - !!python/str "de poder cavalgar com voc\u05DAs."
+  start: !human_time '01:06:17.800'
+- end: !human_time '01:06:24.800'
+  lines:
+  - !!python/str "-Voc\u05DA vai ficar bem?"
+  - -Vamos ficar bem, o Billy e eu.
+  start: !human_time '01:06:20.880'
+- end: !human_time '01:06:28.320'
+  lines:
+  - Sinto muito sobre Billy.
+  start: !human_time '01:06:26.200'
+- end: !human_time '01:06:31.280'
+  lines:
+  - !!python/str "Vejo voc\u05DA na estrada"
+  - daqui a pouco.
+  start: !human_time '01:06:29.400'
+- end: !human_time '01:06:33.600'
+  lines:
+  - Vamos, rapazes!
+  - !!python/str "Bombeiem com for\u05D7a!"
+  start: !human_time '01:06:31.320'
+- end: !human_time '01:06:34.720'
+  lines:
+  - Vamos!
+  start: !human_time '01:06:33.520'
+- end: !human_time '01:06:35.920'
+  lines:
+  - Apaguem tudo!
+  start: !human_time '01:06:34.600'
+- end: !human_time '01:06:52.000'
+  lines:
+  - Os cavalos
+  - !!python/str "est\u05D3o prontos, madame."
+  start: !human_time '01:06:50.080'
+- end: !human_time '01:06:54.400'
+  lines:
+  - Temos armas e suprimentos
+  - pra uma semana.
+  start: !human_time '01:06:52.000'
+- end: !human_time '01:07:00.600'
+  lines:
+  - Vamos.
+  start: !human_time '01:06:59.000'
+- end: !human_time '01:07:39.800'
+  lines:
+  - O que os seus sonhos
+  - nos dizem...
+  start: !human_time '01:07:36.000'
+- end: !human_time '01:07:42.400'
+  lines:
+  - !!python/str "...\u05D9 dif\u05DDcil de interpretar."
+  start: !human_time '01:07:39.840'
+- end: !human_time '01:07:46.880'
+  lines:
+  - !!python/str "\u05B0s vezes somos capazes."
+  - !!python/str "\u05B9 o que voc\u05DA me ensinou."
+  start: !human_time '01:07:42.800'
+- end: !human_time '01:07:54.880'
+  lines:
+  - Runi.
+  start: !human_time '01:07:53.800'
+- end: !human_time '01:07:57.520'
+  lines:
+  - Eu vi o poder dele.
+  start: !human_time '01:07:55.520'
+- end: !human_time '01:07:59.920'
+  lines:
+  - !!python/str "Preciso enfrent\u05D1-lo."
+  start: !human_time '01:07:57.520'
+- end: !human_time '01:08:04.480'
+  lines:
+  - Me ensine os seus segredos.
+  - Eu preciso saber.
+  start: !human_time '01:08:00.400'
+- end: !human_time '01:08:13.280'
+  lines:
+  - !!python/str "Ele n\u05D3o \u05D9 \u05DDndio!"
+  start: !human_time '01:08:11.520'
+- end: !human_time '01:08:43.280'
+  lines:
+  - !!python/str "\u05B9 forte."
+  start: !human_time '01:08:41.000'
+- end: !human_time '01:09:00.400'
+  lines:
+  - !!python/str "Voc\u05DA vai sofrer."
+  start: !human_time '01:08:59.000'
+- end: !human_time '01:09:03.000'
+  lines:
+  - !!python/str "Voc\u05DA vai conhecer o medo."
+  start: !human_time '01:09:00.480'
+- end: !human_time '01:09:09.800'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o vai beber"
+  - isso, vai?
+  start: !human_time '01:09:06.800'
+- end: !human_time '01:09:26.080'
+  lines:
+  - Runi, proteja
+  - o "Nariz Quebrado".
+  start: !human_time '01:09:23.000'
+- end: !human_time '01:09:28.600'
+  lines:
+  - !!python/str "N\u05D3o se preocupe."
+  - !!python/str "Voc\u05DA passou por isso."
+  start: !human_time '01:09:26.120'
+- end: !human_time '01:09:35.280'
+  lines:
+  - !!python/str "Ele vai conseguir tamb\u05D9m."
+  start: !human_time '01:09:29.680'
+- end: !human_time '01:10:06.400'
+  lines:
+  - !!python/str "Voc\u05DA precisa ficar sozinho..."
+  start: !human_time '01:10:04.600'
+- end: !human_time '01:10:08.320'
+  lines:
+  - '...pra ver o que'
+  - !!python/str "h\u05D1 dentro de voc\u05DA."
+  start: !human_time '01:10:06.400'
+- end: !human_time '01:10:10.400'
+  lines:
+  - E o que habita a
+  - !!python/str "todos n\u05E3s."
+  start: !human_time '01:10:08.320'
+- end: !human_time '01:10:29.600'
+  lines:
+  - Runi! Runi!
+  start: !human_time '01:10:25.120'
+- end: !human_time '01:11:05.520'
+  lines:
+  - !!python/str "\u05B9 a bebida."
+  start: !human_time '01:11:03.680'
+- end: !human_time '01:11:10.720'
+  lines:
+  - Tem que ser a bebida.
+  start: !human_time '01:11:09.120'
+- end: !human_time '01:12:08.600'
+  lines:
+  - !!python/str "Voc\u05DA est\u05D1 com medo."
+  start: !human_time '01:12:06.080'
+- end: !human_time '01:12:11.800'
+  lines:
+  - !!python/str "Est\u05D1 deixando"
+  - !!python/str "essas for\u05D7as te possu\u05DDrem."
+  start: !human_time '01:12:08.880'
+- end: !human_time '01:12:14.880'
+  lines:
+  - !!python/str "Voc\u05DA pode ir al\u05D9m..."
+  start: !human_time '01:12:12.320'
+- end: !human_time '01:12:18.000'
+  lines:
+  - !!python/str "...e deixar os esp\u05DDritos..."
+  start: !human_time '01:12:15.800'
+- end: !human_time '01:12:20.320'
+  lines:
+  - '...mostrarem o caminho.'
+  start: !human_time '01:12:18.000'
+- end: !human_time '01:16:01.000'
+  lines:
+  - !!python/str "Agora voc\u05DA conhece"
+  - o tesouro do meu povo.
+  start: !human_time '01:15:56.600'
+- end: !human_time '01:16:03.200'
+  lines:
+  - Esse homem
+  - !!python/str "est\u05D1 tentando roub\u05D1-lo."
+  start: !human_time '01:16:01.040'
+- end: !human_time '01:16:06.480'
+  lines:
+  - Vai depender
+  - !!python/str "de voc\u05DA confront\u05D1-lo."
+  start: !human_time '01:16:03.200'
+- end: !human_time '01:17:47.800'
+  lines:
+  - !!python/str "Eu n\u05D3o sei porque voc\u05DA"
+  - !!python/str "est\u05D1 voltando para mat\u05D1-los."
+  start: !human_time '01:17:45.680'
+- end: !human_time '01:17:49.800'
+  lines:
+  - !!python/str "Dev\u05DDamos deix\u05D1-los para"
+  - os Chiricahua.
+  start: !human_time '01:17:47.800'
+- end: !human_time '01:17:54.200'
+  lines:
+  - !!python/str "N\u05D3o pode ver como ela"
+  - luta para sobreviver aqui?
+  start: !human_time '01:17:50.480'
+- end: !human_time '01:17:58.200'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o tem respeito"
+  - pela vida.
+  start: !human_time '01:17:55.600'
+- end: !human_time '01:18:28.600'
+  lines:
+  - O que foi isso?
+  start: !human_time '01:18:27.120'
+- end: !human_time '01:18:31.280'
+  lines:
+  - Apenas alguns coiotes.
+  start: !human_time '01:18:29.520'
+- end: !human_time '01:18:33.120'
+  lines:
+  - !!python/str "N\u05E3s nunca vamos"
+  - !!python/str "alcan\u05D7\u05D1-los."
+  start: !human_time '01:18:31.280'
+- end: !human_time '01:18:35.120'
+  lines:
+  - !!python/str "N\u05E3s nem sabemos"
+  - onde estamos.
+  start: !human_time '01:18:33.120'
+- end: !human_time '01:18:37.800'
+  lines:
+  - !!python/str "Bem, voc\u05DA pode voltar"
+  - se quiser.
+  start: !human_time '01:18:35.400'
+- end: !human_time '01:18:40.320'
+  lines:
+  - !!python/str "Eles s\u05E3"
+  - mataram o seu tio.
+  start: !human_time '01:18:37.840'
+- end: !human_time '01:18:43.600'
+  lines:
+  - !!python/str "Ent\u05D3o, mais algu\u05D9m"
+  - quer voltar?
+  start: !human_time '01:18:40.480'
+- end: !human_time '01:18:46.720'
+  lines:
+  - !!python/str "Voc\u05DAs est\u05D3o livres pra ir."
+  start: !human_time '01:18:44.600'
+- end: !human_time '01:18:51.400'
+  lines:
+  - !!python/str "Voc\u05DA e o Charlie"
+  - cuidam da primeira guarda.
+  start: !human_time '01:18:48.880'
+- end: !human_time '01:19:28.320'
+  lines:
+  - !!python/str "Eu n\u05D3o estou com medo."
+  start: !human_time '01:19:26.080'
+- end: !human_time '01:19:30.400'
+  lines:
+  - Verdade?
+  start: !human_time '01:19:28.320'
+- end: !human_time '01:19:38.000'
+  lines:
+  - !!python/str "Voc\u05DA est\u05D1 vulner\u05D1vel,"
+  - meu amigo.
+  start: !human_time '01:19:34.400'
+- end: !human_time '01:19:41.680'
+  lines:
+  - !!python/str "Voc\u05DA acordou"
+  - !!python/str "os seus dem\u05E4nios."
+  start: !human_time '01:19:38.000'
+- end: !human_time '01:20:58.200'
+  lines:
+  - Santo Deus!
+  start: !human_time '01:20:56.000'
+- end: !human_time '01:20:59.280'
+  lines:
+  - Maria!
+  start: !human_time '01:20:58.240'
+- end: !human_time '01:21:06.600'
+  lines:
+  - Maria.
+  start: !human_time '01:21:05.200'
+- end: !human_time '01:21:10.480'
+  lines:
+  - Maria.
+  start: !human_time '01:21:09.280'
+- end: !human_time '01:21:17.200'
+  lines:
+  - !!python/str "Eu vou matar o respons\u05D1vel."
+  start: !human_time '01:21:15.400'
+- end: !human_time '01:21:19.920'
+  lines:
+  - Eu te prometo isso.
+  start: !human_time '01:21:17.920'
+- end: !human_time '01:21:26.400'
+  lines:
+  - Tudo bem.
+  - !!python/str "N\u05D3o se preocupe."
+  start: !human_time '01:21:23.120'
+- end: !human_time '01:21:29.520'
+  lines:
+  - !!python/str "Ele \u05D9 um amigo."
+  - !!python/str "Est\u05D1 tudo bem. Tudo bem."
+  start: !human_time '01:21:26.400'
+- end: !human_time '01:21:34.000'
+  lines:
+  - Eu sinto muito.
+  start: !human_time '01:21:32.000'
+- end: !human_time '01:21:45.600'
+  lines:
+  - Bem, eu te prometi
+  - ouro, parceiro.
+  start: !human_time '01:21:42.080'
+- end: !human_time '01:21:47.680'
+  lines:
+  - !!python/str "Vou dar a voc\u05DA"
+  - montanhas de ouro.
+  start: !human_time '01:21:46.000'
+- end: !human_time '01:21:50.400'
+  lines:
+  - Nem pense em tentar algo
+  - !!python/str "engra\u05D7ado, Prosit!"
+  start: !human_time '01:21:47.680'
+- end: !human_time '01:21:52.880'
+  lines:
+  - !!python/str "Sabe qual a diferen\u05D7a"
+  - !!python/str "entre voc\u05DA e eu?"
+  start: !human_time '01:21:50.440'
+- end: !human_time '01:21:56.480'
+  lines:
+  - !!python/str "Voc\u05DA \u05D9 um pessimista."
+  - Eu sou um otimista.
+  start: !human_time '01:21:52.880'
+- end: !human_time '01:22:00.320'
+  lines:
+  - Julio!
+  - Chiricahuas.
+  start: !human_time '01:21:57.600'
+- end: !human_time '01:22:06.320'
+  lines:
+  - Precisamos ir para o desfiladeiro!
+  - !!python/str "N\u05D3o v\u05D3o nos seguir por l\u05D1."
+  start: !human_time '01:22:03.520'
+- end: !human_time '01:22:08.800'
+  lines:
+  - !!python/str "-Em que dire\u05D7\u05D3o est\u05D1?"
+  - !!python/str "-\u05B9 naquela dire\u05D7\u05D3o!"
+  start: !human_time '01:22:06.320'
+- end: !human_time '01:23:20.080'
+  lines:
+  - Deixe-os ir.
+  start: !human_time '01:23:18.600'
+- end: !human_time '01:23:25.200'
+  lines:
+  - Agora eles precisam enfrentar
+  - !!python/str "os esp\u05DDritos das montanhas."
+  start: !human_time '01:23:22.400'
+- end: !human_time '01:24:07.400'
+  lines:
+  - !!python/str "Voc\u05DA vai ficar bem."
+  start: !human_time '01:24:05.600'
+- end: !human_time '01:25:09.120'
+  lines:
+  - Bem, eu estou feliz aqui.
+  start: !human_time '01:25:06.880'
+- end: !human_time '01:25:13.120'
+  lines:
+  - A maioria dos homens
+  - pensam que essa montanha...
+  start: !human_time '01:25:11.000'
+- end: !human_time '01:25:16.600'
+  lines:
+  - !!python/str "...\u05D9 apenas"
+  - cheia de minas de ouro.
+  start: !human_time '01:25:13.920'
+- end: !human_time '01:25:18.400'
+  lines:
+  - !!python/str "Mas eu sei a diferen\u05D7a."
+  start: !human_time '01:25:16.720'
+- end: !human_time '01:25:20.800'
+  lines:
+  - Eu sei a verdade.
+  start: !human_time '01:25:19.120'
+- end: !human_time '01:25:24.480'
+  lines:
+  - Eu queria ser uma aranha.
+  start: !human_time '01:25:22.200'
+- end: !human_time '01:25:27.200'
+  lines:
+  - Eu amo essas criaturas.
+  start: !human_time '01:25:25.120'
+- end: !human_time '01:25:32.880'
+  lines:
+  - !!python/str "Sim, deve ser \u05E3timo"
+  - ser uma aranha.
+  start: !human_time '01:25:30.080'
+- end: !human_time '01:25:48.880'
+  lines:
+  - Se eu fosse uma aranha
+  - !!python/str "voc\u05DA esmagaria a minha cabe\u05D7a."
+  start: !human_time '01:25:44.800'
+- end: !human_time '01:25:50.720'
+  lines:
+  - !!python/str "N\u05D3o \u05D9 o que eu..."
+  start: !human_time '01:25:48.920'
+- end: !human_time '01:25:57.520'
+  lines:
+  - !!python/str "Sim, voc\u05DA esmagaria a"
+  - !!python/str "minha pequena cabe\u05D7a preta, n\u05D3o \u05D9?"
+  start: !human_time '01:25:51.280'
+- end: !human_time '01:26:09.000'
+  lines:
+  - Animais
+  - !!python/str "s\u05D3o feras, mas..."
+  start: !human_time '01:26:04.600'
+- end: !human_time '01:26:12.080'
+  lines:
+  - !!python/str "...os homens s\u05D3o monstros."
+  start: !human_time '01:26:09.280'
+- end: !human_time '01:26:20.600'
+  lines:
+  - !!python/str "Voc\u05DA est\u05D1 certo."
+  - !!python/str "Os homens s\u05D3o..."
+  start: !human_time '01:26:16.600'
+- end: !human_time '01:26:27.120'
+  lines:
+  - '...monstros.'
+  start: !human_time '01:26:25.000'
+- end: !human_time '01:26:34.880'
+  lines:
+  - Pai Del Rio...
+  start: !human_time '01:26:33.200'
+- end: !human_time '01:26:37.800'
+  lines:
+  - !!python/str "...voc\u05DA \u05D9 um santo"
+  - no meio dos pecadores.
+  start: !human_time '01:26:35.000'
+- end: !human_time '01:26:49.920'
+  lines:
+  - Estou tentando salvar o
+  - !!python/str "meu esp\u05DDrito animal."
+  start: !human_time '01:26:46.000'
+- end: !human_time '01:26:55.520'
+  lines:
+  - Porque tenho que estar preso aqui
+  - !!python/str "com um humano pat\u05D9tico como voc\u05DA?"
+  start: !human_time '01:26:51.520'
+- end: !human_time '01:28:14.800'
+  lines:
+  - As Montanhas aqui...
+  start: !human_time '01:28:12.400'
+- end: !human_time '01:28:17.920'
+  lines:
+  - '...estiveram esperando'
+  - !!python/str "por voc\u05DA..."
+  start: !human_time '01:28:15.680'
+- end: !human_time '01:28:21.520'
+  lines:
+  - '...por muito tempo.'
+  start: !human_time '01:28:19.200'
+- end: !human_time '01:28:26.600'
+  lines:
+  - !!python/str "Mas voc\u05DA precisa encontrar"
+  - a entrada sozinho.
+  start: !human_time '01:28:21.920'
+- end: !human_time '01:28:39.400'
+  lines:
+  - !!python/str "Eu devo deix\u05D1-lo agora."
+  start: !human_time '01:28:36.720'
+- end: !human_time '01:29:26.320'
+  lines:
+  - !!python/str "Voc\u05DA sabe, aquele dente ia sair"
+  - de uma maneira ou de outra.
+  start: !human_time '01:29:23.000'
+- end: !human_time '01:29:30.320'
+  lines:
+  - Calma. Calma.
+  start: !human_time '01:29:27.000'
+- end: !human_time '01:29:35.400'
+  lines:
+  - !!python/str "Voc\u05DA devia ter deixado"
+  - o Runi dar uma olhada nisso.
+  start: !human_time '01:29:32.480'
+- end: !human_time '01:29:40.000'
+  lines:
+  - Sem chances no inferno.
+  - !!python/str "N\u05D3o quero nada dessa m\u05D1gica ind\u05DDgena."
+  start: !human_time '01:29:35.400'
+- end: !human_time '01:29:46.000'
+  lines:
+  - Vou acabar
+  - !!python/str "t\u05D3o maluco quanto o Mike."
+  start: !human_time '01:29:43.520'
+- end: !human_time '01:32:33.800'
+  lines:
+  - Minha mina de ouro.
+  start: !human_time '01:32:31.520'
+- end: !human_time '01:32:45.120'
+  lines:
+  - E agora, o ouro.
+  start: !human_time '01:32:41.000'
+- end: !human_time '01:33:38.080'
+  lines:
+  - Levante-se!
+  start: !human_time '01:33:36.600'
+- end: !human_time '01:33:42.800'
+  lines:
+  - Levante-se!
+  start: !human_time '01:33:41.400'
+- end: !human_time '01:33:47.000'
+  lines:
+  - !!python/str "Ele n\u05D3o est\u05D1 mais conosco."
+  start: !human_time '01:33:43.680'
+- end: !human_time '01:33:49.280'
+  lines:
+  - !!python/str "N\u05D3o pode mat\u05D1-lo"
+  - dessa maneira.
+  start: !human_time '01:33:47.040'
+- end: !human_time '01:33:50.600'
+  lines:
+  - !!python/str "Por que n\u05D3o?"
+  start: !human_time '01:33:49.200'
+- end: !human_time '01:33:52.720'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o vai resolver nada."
+  start: !human_time '01:33:50.720'
+- end: !human_time '01:34:01.200'
+  lines:
+  - !!python/str "Posso lev\u05D1-lo at\u05D9 ele."
+  start: !human_time '01:33:56.720'
+- end: !human_time '01:34:27.000'
+  lines:
+  - !!python/str "Voc\u05DA ainda pode se"
+  - recusar a ir.
+  start: !human_time '01:34:24.480'
+- end: !human_time '01:34:29.680'
+  lines:
+  - !!python/str "Se voc\u05DA aceitar..."
+  start: !human_time '01:34:27.600'
+- end: !human_time '01:34:35.000'
+  lines:
+  - !!python/str "...vou deix\u05D1-lo sozinho com ele,"
+  - '"Nariz Quebrado".'
+  start: !human_time '01:34:29.680'
+- end: !human_time '01:34:43.200'
+  lines:
+  - Ambas os seus verdadeiros
+  - !!python/str "\u05DDntimos v\u05D3o se libertar."
+  start: !human_time '01:34:40.800'
+- end: !human_time '01:34:46.480'
+  lines:
+  - !!python/str "N\u05D3o deixe o medo"
+  - !!python/str "ou a raiva violarem voc\u05DA."
+  start: !human_time '01:34:43.120'
+- end: !human_time '01:36:06.800'
+  lines:
+  - !!python/str "Voc\u05DA est\u05D1 onde"
+  - queria estar.
+  start: !human_time '01:36:03.120'
+- end: !human_time '01:36:10.200'
+  lines:
+  - !!python/str "Eu estou com voc\u05DA."
+  start: !human_time '01:36:07.800'
+- end: !human_time '01:36:16.200'
+  lines:
+  - Agora vou deixar
+  - !!python/str "voc\u05DA com ele."
+  start: !human_time '01:36:13.680'
+- end: !human_time '01:36:41.680'
+  lines:
+  - !!python/str "N\u05E3s nos conhecemos"
+  - a muito tempo...
+  start: !human_time '01:36:38.320'
+- end: !human_time '01:36:43.280'
+  lines:
+  - '...poderoso Mike.'
+  start: !human_time '01:36:41.720'
+- end: !human_time '01:37:00.720'
+  lines:
+  - !!python/str "\u05B9 hora de ir!"
+  start: !human_time '01:36:58.800'
+- end: !human_time '01:37:09.920'
+  lines:
+  - Ei, Mike!
+  start: !human_time '01:37:07.800'
+- end: !human_time '01:37:30.000'
+  lines:
+  - !!python/str "Voc\u05DA \u05D9 uma alma morta."
+  start: !human_time '01:37:27.520'
+- end: !human_time '01:37:34.000'
+  lines:
+  - !!python/str "Voc\u05DA n\u05D3o \u05D9"
+  - bem-vindo aqui.
+  start: !human_time '01:37:30.880'
+- end: !human_time '01:37:36.800'
+  lines:
+  - !!python/str "Por que voc\u05DA diz isso?"
+  start: !human_time '01:37:34.800'
+- end: !human_time '01:37:42.720'
+  lines:
+  - !!python/str "Voc\u05DA \u05D9 t\u05D3o sortudo..."
+  start: !human_time '01:37:40.880'
+- end: !human_time '01:37:47.400'
+  lines:
+  - '...por eu dever'
+  - !!python/str "tanto a voc\u05DA, rapazinho."
+  start: !human_time '01:37:43.400'
+- end: !human_time '01:38:05.680'
+  lines:
+  - Estive em muitas formas
+  - antes de ser libertado.
+  start: !human_time '01:37:59.920'
+- end: !human_time '01:38:07.280'
+  lines:
+  - E eu vejo...
+  start: !human_time '01:38:05.720'
+- end: !human_time '01:38:09.680'
+  lines:
+  - '...eu vejo...'
+  start: !human_time '01:38:07.680'
+- end: !human_time '01:38:13.200'
+  lines:
+  - '...eu vejo porque estou'
+  - aqui agora.
+  start: !human_time '01:38:10.400'
+- end: !human_time '01:38:15.800'
+  lines:
+  - !!python/str "Pra trazer voc\u05DA comigo."
+  start: !human_time '01:38:13.600'
+- end: !human_time '01:38:21.000'
+  lines:
+  - Vejo porque nos encontramos
+  - pela primeira vez.
+  start: !human_time '01:38:16.800'
+- end: !human_time '01:38:26.200'
+  lines:
+  - Para vir aqui, nesse mundo...
+  start: !human_time '01:38:21.200'
+- end: !human_time '01:38:29.000'
+  lines:
+  - '...juntos.'
+  start: !human_time '01:38:26.880'
+- end: !human_time '01:38:51.520'
+  lines:
+  - Mike, Mike.
+  start: !human_time '01:38:47.120'
+- end: !human_time '01:38:53.680'
+  lines:
+  - Desperta.
+  start: !human_time '01:38:52.080'
+- end: !human_time '01:39:03.600'
+  lines:
+  - Mike, Mike.
+  start: !human_time '01:38:57.000'
+- end: !human_time '01:39:10.720'
+  lines:
+  - Meu amor.
+  start: !human_time '01:39:08.880'
+- end: !human_time '01:39:13.800'
+  lines:
+  - Ei, como vai indo?
+  start: !human_time '01:39:10.720'
+- end: !human_time '01:39:17.680'
+  lines:
+  - Veja pra onde o amor
+  - nos leva.
+  start: !human_time '01:39:15.000'
+- end: !human_time '01:39:23.400'
+  lines:
+  - !!python/str "\u05B9 hora de ver a verdade."
+  start: !human_time '01:39:21.280'
+- end: !human_time '01:39:29.800'
+  lines:
+  - !!python/str "Venha comigo, irm\u05D3o."
+  - !!python/str "Pegue a minha m\u05D3o."
+  start: !human_time '01:39:25.680'
+- end: !human_time '01:39:32.480'
+  lines:
+  - Fale comigo
+  - !!python/str "em l\u05DDnguas profundas."
+  start: !human_time '01:39:29.840'
+- end: !human_time '01:39:34.720'
+  lines:
+  - !!python/str "A l\u05DDngua dos mortos."
+  start: !human_time '01:39:32.520'
+- end: !human_time '01:39:57.000'
+  lines:
+  - !!python/str "Foi voc\u05DA, Mike,"
+  - quem matou aquela garota.
+  start: !human_time '01:39:54.000'
+- end: !human_time '01:40:02.480'
+  lines:
+  - A doce pequena Madeleine.
+  - !!python/str "Foi voc\u05DA, Mike."
+  start: !human_time '01:39:58.200'
+- end: !human_time '01:40:12.600'
+  lines:
+  - Que os Deuses
+  - !!python/str "estejam com voc\u05DA..."
+  start: !human_time '01:40:09.000'
+- end: !human_time '01:40:14.800'
+  lines:
+  - '...meu amigo.'
+  start: !human_time '01:40:12.600'
+- end: !human_time '01:40:43.920'
+  lines:
+  - !!python/str "\u05B9 voc\u05DA quem precisa ir..."
+  start: !human_time '01:40:38.800'
+- end: !human_time '01:40:46.480'
+  lines:
+  - '...e eu preciso esperar.'
+  start: !human_time '01:40:43.960'
+- end: !human_time '01:41:36.720'
+  lines:
+  - !!python/str "Voc\u05DA est\u05D1 livre agora."
+  start: !human_time '01:41:34.200'
+- end: !human_time '01:41:43.920'
+  lines:
+  - Eu te amo tanto.
+  start: !human_time '01:41:39.520'
+- end: !human_time '01:41:48.480'
+  lines:
+  - Eu te amo tanto.
+  start: !human_time '01:41:43.920'
+- end: !human_time '01:42:04.800'
+  lines:
+  - Eu a sinto...
+  start: !human_time '01:41:59.680'
+- end: !human_time '01:42:10.800'
+  lines:
+  - '...pelo amor.'
+  start: !human_time '01:42:07.800'
+- end: !human_time '01:42:13.920'
+  lines:
+  - Eu sinto.
+  start: !human_time '01:42:11.400'
+- end: !human_time '01:42:28.320'
+  lines:
+  - !!python/str "E voc\u05DA vai se curvar"
+  - e me dizer...
+  start: !human_time '01:42:23.400'
+- end: !human_time '01:42:32.080'
+  lines:
+  - '...que me ama.'
+  start: !human_time '01:42:29.200'
+- end: !human_time '01:43:02.800'
+  lines:
+  - !!python/str "Ele est\u05D1 morto."
+  start: !human_time '01:43:01.200'
+- end: !human_time '01:43:08.400'
+  lines:
+  - !!python/str "E agora \u05D9 a minha vez."
+  start: !human_time '01:43:05.200'
+- end: !human_time '01:43:12.480'
+  lines:
+  - Posso ver...
+  start: !human_time '01:43:09.920'
+- end: !human_time '01:43:17.200'
+  lines:
+  - '...posso ver...'
+  start: !human_time '01:43:13.280'
+- end: !human_time '01:43:22.000'
+  lines:
+  - !!python/str "...minhas lembran\u05D7as..."
+  start: !human_time '01:43:18.200'
+- end: !human_time '01:43:45.280'
+  lines:
+  - !!python/str "Mas eu n\u05D3o quero morrer."
+  - Runi! Me ajude! Runi!
+  start: !human_time '01:43:40.320'
+- end: !human_time '01:46:15.200'
+  lines:
+  - !!python/str "Permane\u05D7a em seu corpo."
+  start: !human_time '01:46:12.480'
+- end: !human_time '01:46:33.200'
+  lines:
+  - !!python/str "Est\u05D1 tudo bem."
+  start: !human_time '01:46:30.720'
+- end: !human_time '01:46:36.480'
+  lines:
+  - Eu...
+  start: !human_time '01:46:34.600'
+- end: !human_time '01:46:39.200'
+  lines:
+  - '...eu te amo.'
+  start: !human_time '01:46:37.120'
+- end: !human_time '01:46:52.080'
+  lines:
+  - !!python/str "Eu te amo tamb\u05D9m,"
+  - querido.
+  start: !human_time '01:46:49.680'
+- end: !human_time '01:46:56.320'
+  lines:
+  - !!python/str "Voc\u05DA foi um pouco"
+  - duro comigo ultimamente.
+  start: !human_time '01:46:53.200'
+- end: !human_time '01:47:02.720'
+  lines:
+  - !!python/str "Voc\u05DA retornou."
+  start: !human_time '01:46:57.680'
+- end: !human_time '01:47:06.200'
+  lines:
+  - Eu estive...
+  start: !human_time '01:47:03.800'
+- end: !human_time '01:47:10.600'
+  lines:
+  - '...em todo o universo pra'
+  - !!python/str "encontrar voc\u05DA."
+  start: !human_time '01:47:06.200'
+- end: !human_time '01:47:15.800'
+  lines:
+  - !!python/str "Voc\u05DA viu, finalmente"
+  - !!python/str "que n\u05D3o tinha nada a temer."
+  start: !human_time '01:47:12.600'
+- end: !human_time '01:47:33.200'
+  lines:
+  - !!python/str "Ela est\u05D1 esperando"
+  - !!python/str "por voc\u05DA."
+  start: !human_time '01:47:31.200'
+- end: !human_time '01:47:50.000'
+  lines:
+  - Cuidado com seus
+  - pensamentos e sentimentos.
+  start: !human_time '01:47:47.280'
+- end: !human_time '01:47:54.800'
+  lines:
+  - !!python/str "Agora voc\u05DA sabe"
+  - !!python/str "o que s\u05D3o, basicamente."
+  start: !human_time '01:47:50.000'
+- end: !human_time '01:48:04.720'
+  lines:
+  - Bem-vindo ao outro mundo,
+  - '"Nariz Quebrado".'
+  start: !human_time '01:47:59.600'
+- end: !human_time '01:48:10.600'
+  lines:
+  - !!python/str "Minha boca est\u05D1"
+  - muito melhor.
+  start: !human_time '01:48:08.320'
+- end: !human_time '01:48:15.520'
+  lines:
+  - !!python/str "\u05B9 um tabaco muito bom esse."
+  start: !human_time '01:48:12.000'
+- end: !human_time '01:50:44.880'
+  lines:
+  - Bem-vindo ao outro mundo.
+  start: !human_time '01:50:41.200'
+- end: !human_time '00:00:00.000'
+  lines:
+  - !!python/str "TRADU\u05B7\u05B3O E SINCRONIZA\u05B7\u05B3O:"
+  - FRANCISCO ROCHA
+  start: !human_time '02:00:00.000'
+- end: !human_time '00:00:00.000'
+  lines:
+  - !!python/str "O que voc\u05DA"
+  - !!python/str "est\u05D1 fazendo aqui fora?"
+  start: !human_time '13:00:00.000'
