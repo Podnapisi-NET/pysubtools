@@ -1,14 +1,17 @@
 A set of parsers and exporters for handling with subtitle files in various
 subtitles. All data is imported into unicode, it uses chardet and some
 guessing table (language to encoding) to identify proper encoding of the
-file.
+file. The Subtitle object also supports save and from_file. It uses it's
+own SIF (Subtitle Intermediate Format) which is just a plain YAML predefined
+structure with some additional constructors.
 
 Currently only SubRip parser is implemented, other parts are yet to come.
 
 A quick example:
 import pysubtools
-parser = pysubtools.load(open('sub.srt', 'r'), encoding = 'windows-1250')
-sub = pysubtools.Subtitle(parser)
+# Let's detect parser from data
+parser = pysubtools.parser.Parser.from_data(open('sub.srt', 'rb'), encoding = 'windows-1250')
+sub = parser.parse()
 
 # Fifth unit
 sub[5]
@@ -17,3 +20,14 @@ sub[1].start
 sub[1].end
 # And the lines itself (list of unicode)
 sub[1].text
+
+# And direct using SubRip parser
+parser = pysubtools.parser.Parser.from_format('SubRip')
+sub = parser.parse(open('sub.srt', 'rb'))
+
+# We can also use GzipFile (if using python 2.x, can use patched GzipFile)
+from pysubtools.utils import PatchedGzipFile as GzipFile
+parser = pysubtools.parser.Parser.from_format('SubRip')
+fileobj = open('sub.srt', 'rb')
+# Can use guess table for specific language
+sub = parser.parse(GzipFile(fileobj = fileobj), language = 'sl')
