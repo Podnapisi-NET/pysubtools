@@ -325,7 +325,7 @@ class Subtitle(object):
 
   @classmethod
   def from_yaml(cls, input):
-    """Loads a subtitle from YAML format, uses yaml.load - some security considerations apply."""
+    """Loads a subtitle from YAML format, uses safe loader."""
     # Construct a python dict
     data = yaml.safe_load(input)
 
@@ -334,7 +334,7 @@ class Subtitle(object):
 
   @classmethod
   def from_multi_yaml(cls, input):
-    """Loads multiple subtitles from YAML format, uses yaml.load_all - some security considerations apply."""
+    """Loads multiple subtitles from YAML format, uses safe loader."""
     output = []
     for data in yaml.safe_load_all(input):
       output.append(cls.from_dict(data))
@@ -343,7 +343,7 @@ class Subtitle(object):
     return output
 
   def dump(self, output = None, human_time = True, allow_unicode = True):
-    """Dumps this subtitle in YAML format."""
+    """Dumps this subtitle in YAML format with safe dumper."""
     # Construct a python dict
     obj = dict()
     obj.update(self.meta)
