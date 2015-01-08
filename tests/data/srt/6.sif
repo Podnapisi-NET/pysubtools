@@ -38,7 +38,7 @@ units:
 - end: !human_time '00:03:52.326'
   lines:
   - Zal ik die hoer het eerste afknallen
-  - !!python/str "of die zoon van die hoer, h\xE9? Hoor je me?"
+  - "of die zoon van die hoer, h\xE9? Hoor je me?"
   start: !human_time '00:03:47.721'
 - end: !human_time '00:03:56.000'
   lines:
@@ -51,7 +51,7 @@ units:
   start: !human_time '00:03:56.001'
 - end: !human_time '00:04:03.360'
   lines:
-  - !!python/str "Ik probeer je al de hele dag te helpen, ok\xE9?"
+  - "Ik probeer je al de hele dag te helpen, ok\xE9?"
   - Als ik je moet helpen, moet jij mij helpen.
   start: !human_time '00:03:58.716'
 - end: !human_time '00:04:05.254'
@@ -107,7 +107,7 @@ units:
   start: !human_time '00:04:31.312'
 - end: !human_time '00:04:36.564'
   lines:
-  - !!python/str "Kom op, ik kom naar je toe, ok\xE9?"
+  - "Kom op, ik kom naar je toe, ok\xE9?"
   start: !human_time '00:04:34.252'
 - end: !human_time '00:04:39.124'
   lines:
@@ -192,12 +192,12 @@ units:
   start: !human_time '00:05:36.408'
 - end: !human_time '00:05:47.662'
   lines:
-  - !!python/str "H\xE9, Joe, ik ben het Jeff."
+  - "H\xE9, Joe, ik ben het Jeff."
   - Ik ben er weer.
   start: !human_time '00:05:45.098'
 - end: !human_time '00:05:51.254'
   lines:
-  - !!python/str "Laat Sean zijn moeder er voor zorgen, ok\xE9."
+  - "Laat Sean zijn moeder er voor zorgen, ok\xE9."
   - '- Kleine bastaard!'
   start: !human_time '00:05:47.762'
 - end: !human_time '00:05:54.449'
@@ -262,7 +262,7 @@ units:
 - end: !human_time '00:06:30.319'
   lines:
   - Jongen, ik wil dat je terug naar
-  - !!python/str "je kamer gaat, ok\xE9?"
+  - "je kamer gaat, ok\xE9?"
   start: !human_time '00:06:27.938'
 - end: !human_time '00:06:31.804'
   lines:
@@ -622,7 +622,7 @@ units:
   start: !human_time '00:13:21.895'
 - end: !human_time '00:13:26.770'
   lines:
-  - !!python/str "Ok\xE9, dag."
+  - "Ok\xE9, dag."
   start: !human_time '00:13:25.268'
 - end: !human_time '00:13:28.309'
   lines:
@@ -887,7 +887,7 @@ units:
   start: !human_time '00:17:39.811'
 - end: !human_time '00:17:45.891'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   start: !human_time '00:17:43.891'
 - end: !human_time '00:17:53.075'
   lines:
@@ -918,7 +918,7 @@ units:
   start: !human_time '00:18:16.233'
 - end: !human_time '00:18:29.383'
   lines:
-  - !!python/str "Blijf in de wagen, ok\xE9?"
+  - "Blijf in de wagen, ok\xE9?"
   start: !human_time '00:18:26.693'
 - end: !human_time '00:18:38.082'
   lines:
@@ -973,7 +973,7 @@ units:
 - end: !human_time '00:19:25.118'
   lines:
   - andere kleren aan trekt dan hebben we
-  - !!python/str "het er daarna wel over, ok\xE9?"
+  - "het er daarna wel over, ok\xE9?"
   start: !human_time '00:19:19.353'
 - end: !human_time '00:19:55.835'
   lines:
@@ -1064,7 +1064,7 @@ units:
   start: !human_time '00:21:32.950'
 - end: !human_time '00:21:36.040'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   - '- Kom op.'
   start: !human_time '00:21:34.993'
 - end: !human_time '00:21:37.978'
@@ -1082,7 +1082,7 @@ units:
   start: !human_time '00:21:42.520'
 - end: !human_time '00:21:51.775'
   lines:
-  - !!python/str "Ok\xE9, stuur iemand."
+  - "Ok\xE9, stuur iemand."
   - Kijk wie er in de buurt is.
   start: !human_time '00:21:47.950'
 - end: !human_time '00:21:55.773'
@@ -1132,11 +1132,11 @@ units:
 - end: !human_time '00:22:20.546'
   lines:
   - Verdomme!
-  - !!python/str "- Nee, het is ok\xE9. Rustig."
+  - "- Nee, het is ok\xE9. Rustig."
   start: !human_time '00:22:18.731'
 - end: !human_time '00:22:22.410'
   lines:
-  - !!python/str "Verdomme! \u0104verdomme! Verdomme!"
+  - "Verdomme! \u0104verdomme! Verdomme!"
   start: !human_time '00:22:20.646'
 - end: !human_time '00:22:24.652'
   lines:
@@ -1145,7 +1145,7 @@ units:
   start: !human_time '00:22:22.510'
 - end: !human_time '00:22:27.025'
   lines:
-  - !!python/str "Rustig, ok\xE9? Ik kan met die"
+  - "Rustig, ok\xE9? Ik kan met die"
   - agent praten...
   start: !human_time '00:22:24.752'
 - end: !human_time '00:22:29.664'
@@ -1297,7 +1297,7 @@ units:
   start: !human_time '00:24:30.991'
 - end: !human_time '00:24:41.822'
   lines:
-  - !!python/str "H\xE9ctor, alles goed?"
+  - "H\xE9ctor, alles goed?"
   start: !human_time '00:24:39.822'
 - end: !human_time '00:24:48.752'
   lines:
@@ -1498,7 +1498,7 @@ units:
 - end: !human_time '00:27:55.539'
   lines:
   - Ik wil van hem horen dat
-  - !!python/str "alles ok\xE9 is daarbinnen."
+  - "alles ok\xE9 is daarbinnen."
   start: !human_time '00:27:52.751'
 - end: !human_time '00:27:56.973'
   lines:
@@ -1557,7 +1557,7 @@ units:
   start: !human_time '00:28:23.100'
 - end: !human_time '00:28:27.277'
   lines:
-  - !!python/str "ok\xE9, dan geloof ik je."
+  - "ok\xE9, dan geloof ik je."
   start: !human_time '00:28:25.125'
 - end: !human_time '00:28:31.336'
   lines:
@@ -1796,7 +1796,7 @@ units:
 - end: !human_time '00:33:37.077'
   lines:
   - Bind hem vast.
-  - !!python/str "- Ok\xE9! Alsjeblieft!"
+  - "- Ok\xE9! Alsjeblieft!"
   start: !human_time '00:33:35.035'
 - end: !human_time '00:33:39.715'
   lines:
@@ -1953,7 +1953,7 @@ units:
   start: !human_time '00:38:05.569'
 - end: !human_time '00:38:11.879'
   lines:
-  - !!python/str "H\xE9! Met mij? Hoe is het."
+  - "H\xE9! Met mij? Hoe is het."
   start: !human_time '00:38:09.727'
 - end: !human_time '00:38:14.230'
   lines:
@@ -2026,7 +2026,7 @@ units:
   start: !human_time '00:38:50.853'
 - end: !human_time '00:38:57.406'
   lines:
-  - !!python/str "Ok\xE9 goed, waar ging de ruzie over?"
+  - "Ok\xE9 goed, waar ging de ruzie over?"
   start: !human_time '00:38:55.887'
 - end: !human_time '00:39:00.611'
   lines:
@@ -2056,7 +2056,7 @@ units:
   start: !human_time '00:39:12.083'
 - end: !human_time '00:39:16.270'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   start: !human_time '00:39:14.813'
 - end: !human_time '00:39:18.303'
   lines:
@@ -2274,7 +2274,7 @@ units:
   start: !human_time '00:45:37.816'
 - end: !human_time '00:45:41.528'
   lines:
-  - !!python/str "Ok\xE9, Louise, geef hem maar."
+  - "Ok\xE9, Louise, geef hem maar."
   start: !human_time '00:45:39.469'
 - end: !human_time '00:45:43.637'
   lines:
@@ -2321,7 +2321,7 @@ units:
 - end: !human_time '00:46:05.611'
   lines:
   - Rustig, ja?
-  - !!python/str "- Ok\xE9."
+  - "- Ok\xE9."
   start: !human_time '00:46:04.048'
 - end: !human_time '00:46:06.682'
   lines:
@@ -2663,7 +2663,7 @@ units:
   start: !human_time '00:50:42.836'
 - end: !human_time '00:51:09.655'
   lines:
-  - !!python/str "H\xE9, Dennis. Met Jeff."
+  - "H\xE9, Dennis. Met Jeff."
   - Iedereen in orde?
   start: !human_time '00:51:07.501'
 - end: !human_time '00:51:11.281'
@@ -2838,7 +2838,7 @@ units:
 - end: !human_time '00:54:16.218'
   lines:
   - Goed, Op 3.
-  - !!python/str "- Ok\xE9."
+  - "- Ok\xE9."
   start: !human_time '00:54:14.593'
 - end: !human_time '00:54:18.318'
   lines:
@@ -2897,7 +2897,7 @@ units:
 - end: !human_time '00:55:19.109'
   lines:
   - Word wakker.
-  - !!python/str "- H\xE9!"
+  - "- H\xE9!"
   start: !human_time '00:55:18.107'
 - end: !human_time '00:55:21.229'
   lines:
@@ -3005,7 +3005,7 @@ units:
 - end: !human_time '00:56:27.567'
   lines:
   - Smith maakt me zorgen.
-  - !!python/str "- Hij weet zijn plaats, hij is ok\xE9."
+  - "- Hij weet zijn plaats, hij is ok\xE9."
   start: !human_time '00:56:24.044'
 - end: !human_time '00:56:28.956'
   lines:
@@ -3361,7 +3361,7 @@ units:
   start: !human_time '01:04:08.761'
 - end: !human_time '01:04:13.326'
   lines:
-  - !!python/str "H\xE9, Tommy!"
+  - "H\xE9, Tommy!"
   - Hoe gaat het, Maatje?
   start: !human_time '01:04:11.042'
 - end: !human_time '01:04:15.192'
@@ -3417,7 +3417,7 @@ units:
   start: !human_time '01:04:40.551'
 - end: !human_time '01:04:46.723'
   lines:
-  - !!python/str "Wat is een Benjam\xEDn?"
+  - "Wat is een Benjam\xEDn?"
   start: !human_time '01:04:44.723'
 - end: !human_time '01:04:50.107'
   lines:
@@ -3452,11 +3452,11 @@ units:
 - end: !human_time '01:05:10.691'
   lines:
   - Tommy, ik wil dat je terug
-  - !!python/str "naar je kamer gaat, ok\xE9?"
+  - "naar je kamer gaat, ok\xE9?"
   start: !human_time '01:05:07.648'
 - end: !human_time '01:05:11.917'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   start: !human_time '01:05:10.791'
 - end: !human_time '01:05:14.682'
   lines:
@@ -3475,7 +3475,7 @@ units:
 - end: !human_time '01:05:21.147'
   lines:
   - Dat is goed.
-  - !!python/str "- Ok\xE9."
+  - "- Ok\xE9."
   start: !human_time '01:05:19.147'
 - end: !human_time '01:05:28.351'
   lines:
@@ -3495,7 +3495,7 @@ units:
 - end: !human_time '01:05:41.045'
   lines:
   - Ik heb hem die spuit gegeven.
-  - !!python/str "- Ok\xE9, Bedankt."
+  - "- Ok\xE9, Bedankt."
   start: !human_time '01:05:37.305'
 - end: !human_time '01:05:48.070'
   lines:
@@ -3559,16 +3559,16 @@ units:
   start: !human_time '01:07:04.141'
 - end: !human_time '01:07:10.092'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   start: !human_time '01:07:08.092'
 - end: !human_time '01:07:14.604'
   lines:
   - Tommy ik moet je een volwassen
-  - !!python/str "vraag stellen. Ok\xE9?"
+  - "vraag stellen. Ok\xE9?"
   start: !human_time '01:07:10.729'
 - end: !human_time '01:07:16.259'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   start: !human_time '01:07:14.704'
 - end: !human_time '01:07:19.741'
   lines:
@@ -3596,7 +3596,7 @@ units:
 - end: !human_time '01:07:36.129'
   lines:
   - Onthouden?
-  - !!python/str "- Ok\xE9."
+  - "- Ok\xE9."
   start: !human_time '01:07:33.747'
 - end: !human_time '01:07:44.045'
   lines:
@@ -3693,7 +3693,7 @@ units:
   start: !human_time '01:08:48.633'
 - end: !human_time '01:08:54.037'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   start: !human_time '01:08:52.498'
 - end: !human_time '01:08:57.682'
   lines:
@@ -3876,7 +3876,7 @@ units:
   start: !human_time '01:11:41.672'
 - end: !human_time '01:11:46.992'
   lines:
-  - !!python/str "Ik geef je de helft, ok\xE9?"
+  - "Ik geef je de helft, ok\xE9?"
   start: !human_time '01:11:44.225'
 - end: !human_time '01:11:50.226'
   lines:
@@ -3935,7 +3935,7 @@ units:
   start: !human_time '01:12:46.947'
 - end: !human_time '01:13:15.768'
   lines:
-  - !!python/str ". Fijn... ok\xE9,"
+  - ". Fijn... ok\xE9,"
   - Ik haal ons weg.
   start: !human_time '01:13:14.029'
 - end: !human_time '01:13:19.418'
@@ -3985,7 +3985,7 @@ units:
   start: !human_time '01:13:41.459'
 - end: !human_time '01:13:48.670'
   lines:
-  - !!python/str "We gaan met de helikopter weg, ok\xE9?"
+  - "We gaan met de helikopter weg, ok\xE9?"
   start: !human_time '01:13:46.152'
 - end: !human_time '01:13:49.893'
   lines:
@@ -4033,7 +4033,7 @@ units:
 - end: !human_time '01:14:54.244'
   lines:
   - Twee miljoen!
-  - !!python/str "- Ok\xE9, we gaan."
+  - "- Ok\xE9, we gaan."
   start: !human_time '01:14:51.674'
 - end: !human_time '01:14:56.245'
   lines:
@@ -4384,8 +4384,8 @@ units:
   start: !human_time '01:21:20.605'
 - end: !human_time '01:21:28.450'
   lines:
-  - !!python/str "dan zijn we weer met zijn twee\xEBn,"
-  - !!python/str "ok\xE9, Kev?"
+  - "dan zijn we weer met zijn twee\xEBn,"
+  - "ok\xE9, Kev?"
   start: !human_time '01:21:23.531'
 - end: !human_time '01:21:33.168'
   lines:
@@ -4433,11 +4433,11 @@ units:
   start: !human_time '01:22:29.973'
 - end: !human_time '01:22:36.081'
   lines:
-  - !!python/str "Ok\xE9."
+  - "Ok\xE9."
   start: !human_time '01:22:34.081'
 - end: !human_time '01:22:38.361'
   lines:
-  - !!python/str "Je moet gaan, h\xE9..."
+  - "Je moet gaan, h\xE9..."
   start: !human_time '01:22:36.361'
 - end: !human_time '01:22:40.759'
   lines:
@@ -4617,7 +4617,7 @@ units:
   start: !human_time '01:26:39.798'
 - end: !human_time '01:26:43.999'
   lines:
-  - !!python/str "\u0104Tommy, antwoord!"
+  - "\u0104Tommy, antwoord!"
   start: !human_time '01:26:41.999'
 - end: !human_time '01:26:52.859'
   lines:
@@ -4654,7 +4654,7 @@ units:
   start: !human_time '01:29:57.973'
 - end: !human_time '01:30:02.845'
   lines:
-  - !!python/str "Ok\xE9. Jennifer..."
+  - "Ok\xE9. Jennifer..."
   start: !human_time '01:30:00.845'
 - end: !human_time '01:30:05.827'
   lines:
@@ -4870,8 +4870,8 @@ units:
   start: !human_time '01:38:13.997'
 - end: !human_time '01:38:18.208'
   lines:
-  - !!python/str "Ok\xE9."
-  - !!python/str "- Kan ik gaan met mijn familie, ok\xE9?"
+  - "Ok\xE9."
+  - "- Kan ik gaan met mijn familie, ok\xE9?"
   start: !human_time '01:38:15.200'
 - end: !human_time '01:38:20.869'
   lines:

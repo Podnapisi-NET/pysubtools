@@ -2,59 +2,59 @@
 units:
 - end: !human_time '00:00:43.520'
   lines:
-  - !!python/str "<i>Cu mul\u0163i ani \xEEn urm\u0103,"
-  - !!python/str "\xEEn ajunul Cr\u0103ciunului,</i>"
+  - "<i>Cu mul\u0163i ani \xEEn urm\u0103,"
+  - "\xEEn ajunul Cr\u0103ciunului,</i>"
   start: !human_time '00:00:41.000'
 - end: !human_time '00:00:46.080'
   lines:
-  - !!python/str "<i>st\u0103team lini\u015Ftit \xEEn patul meu.</i>"
+  - "<i>st\u0103team lini\u015Ftit \xEEn patul meu.</i>"
   start: !human_time '00:00:43.600'
 - end: !human_time '00:00:48.840'
   lines:
-  - !!python/str "<i>A\u015Fternuturile erau netede.</i>"
+  - "<i>A\u015Fternuturile erau netede.</i>"
   start: !human_time '00:00:46.120'
 - end: !human_time '00:00:51.120'
   lines:
-  - !!python/str "<i>Respiram calm \u015Fi \xEEn lini\u015Fte.</i>"
+  - "<i>Respiram calm \u015Fi \xEEn lini\u015Fte.</i>"
   start: !human_time '00:00:48.880'
 - end: !human_time '00:00:55.080'
   lines:
-  - !!python/str "<i>Voiam s\u0103 aud un sunet"
-  - !!python/str "ce-mi era team\u0103</i>"
+  - "<i>Voiam s\u0103 aud un sunet"
+  - "ce-mi era team\u0103</i>"
   start: !human_time '00:00:52.080'
 - end: !human_time '00:00:57.880'
   lines:
-  - !!python/str "<i>c\u0103 nu-l voi auzi vreodat\u0103.</i>"
+  - "<i>c\u0103 nu-l voi auzi vreodat\u0103.</i>"
   start: !human_time '00:00:55.360'
 - end: !human_time '00:01:00.920'
   lines:
-  - !!python/str "<i>Clopo\u0163eii saniei lui Mo\u015F Cr\u0103ciun.</i>"
+  - "<i>Clopo\u0163eii saniei lui Mo\u015F Cr\u0103ciun.</i>"
   start: !human_time '00:00:57.920'
 - end: !human_time '00:02:30.000'
   lines:
-  - !!python/str "\xCEn regul\u0103, Sarah."
+  - "\xCEn regul\u0103, Sarah."
   start: !human_time '00:02:28.240'
 - end: !human_time '00:02:33.120'
   lines:
-  - !!python/str "E timpul s\u0103 te duci sus \xEEn pat."
+  - "E timpul s\u0103 te duci sus \xEEn pat."
   start: !human_time '00:02:31.000'
 - end: !human_time '00:02:35.240'
   lines:
-  - !!python/str "Dar trebuie s\u0103..."
+  - "Dar trebuie s\u0103..."
   start: !human_time '00:02:33.160'
 - end: !human_time '00:02:41.160'
   lines:
-  - !!python/str "A spus c\u0103 Mo\u015Ful ar trebui s\u0103 zboare"
+  - "A spus c\u0103 Mo\u015Ful ar trebui s\u0103 zboare"
   - cu viteza luminii
   start: !human_time '00:02:38.160'
 - end: !human_time '00:02:42.680'
   lines:
   - pentru a ajunge
-  - !!python/str "la fiecare cas\u0103 \xEEntr-o noapte."
+  - "la fiecare cas\u0103 \xEEntr-o noapte."
   start: !human_time '00:02:41.200'
 - end: !human_time '00:02:43.159'
   lines:
-  - !!python/str "\u015Ei?"
+  - "\u015Ei?"
   start: !human_time '00:02:42.681'
 - end: !human_time '00:02:45.300'
   lines:
@@ -62,48 +62,47 @@ units:
   start: !human_time '00:02:43.160'
 - end: !human_time '00:02:47.440'
   lines:
-  - !!python/str "sania sa ar trebui s\u0103 fie"
-  - !!python/str "mai mare dec\xE2t un vapor."
+  - "sania sa ar trebui s\u0103 fie"
+  - "mai mare dec\xE2t un vapor."
   start: !human_time '00:02:45.301'
 - end: !human_time '00:02:48.640'
   lines:
-  - !!python/str "Chiar a\u015Fa a zis?"
+  - "Chiar a\u015Fa a zis?"
   start: !human_time '00:02:47.480'
 - end: !human_time '00:02:51.000'
   lines:
-  - !!python/str "Probabil glumea, \u015Ftie c\u0103 Mo\u015Ful exist\u0103."
+  - "Probabil glumea, \u015Ftie c\u0103 Mo\u015Ful exist\u0103."
   start: !human_time '00:02:48.641'
 - end: !human_time '00:02:54.040'
   lines:
-  - !!python/str "A spus c\u0103 nu e sigur."
-  - !!python/str "Nu e sigur c\u0103 Mo\u015Ful exist\u0103."
+  - "A spus c\u0103 nu e sigur."
+  - "Nu e sigur c\u0103 Mo\u015Ful exist\u0103."
   start: !human_time '00:02:51.040'
 - end: !human_time '00:02:57.560'
   lines:
-  - !!python/str "Sigur c\u0103 exist\u0103."
-  - !!python/str "E la fel de real ca \u015Fi Cr\u0103ciunul."
+  - "Sigur c\u0103 exist\u0103."
+  - "E la fel de real ca \u015Fi Cr\u0103ciunul."
   start: !human_time '00:02:54.560'
 - end: !human_time '00:03:01.000'
   lines:
-  - !!python/str "\xCEns\u0103 nu va veni p\xE2n\u0103 nu dormi, domni\u015Foar\u0103\
-    ."
+  - "\xCEns\u0103 nu va veni p\xE2n\u0103 nu dormi, domni\u015Foar\u0103."
   start: !human_time '00:02:58.040'
 - end: !human_time '00:03:04.080'
   lines:
-  - !!python/str "Vise pl\u0103cute."
+  - "Vise pl\u0103cute."
   start: !human_time '00:03:02.520'
 - end: !human_time '00:03:07.320'
   lines:
-  - !!python/str "Mo\u015F Cr\u0103ciun va veni"
-  - !!python/str "\xEEnainte s\u0103-\u0163i dai seama."
+  - "Mo\u015F Cr\u0103ciun va veni"
+  - "\xEEnainte s\u0103-\u0163i dai seama."
   start: !human_time '00:03:05.320'
 - end: !human_time '00:03:08.680'
   lines:
-  - !!python/str "A\u015Fa c\u0103 ai face bine s\u0103 te culci."
+  - "A\u015Fa c\u0103 ai face bine s\u0103 te culci."
   start: !human_time '00:03:07.360'
 - end: !human_time '00:03:34.700'
   lines:
-  - !!python/str "<i>Mo\u015F Cr\u0103ciun \xEEn grev\u0103!</i>"
+  - "<i>Mo\u015F Cr\u0103ciun \xEEn grev\u0103!</i>"
   start: !human_time '00:03:32.300'
 - end: !human_time '00:03:41.500'
   lines:
@@ -115,52 +114,52 @@ units:
   start: !human_time '00:03:51.150'
 - end: !human_time '00:03:59.100'
   lines:
-  - !!python/str "Lipsit de via\u0163\u0103."
+  - "Lipsit de via\u0163\u0103."
   start: !human_time '00:03:57.300'
 - end: !human_time '00:04:12.440'
   lines:
-  - !!python/str "Trebuie s\u0103 fi adormit p\xE2n\u0103 acum."
+  - "Trebuie s\u0103 fi adormit p\xE2n\u0103 acum."
   start: !human_time '00:04:10.160'
 - end: !human_time '00:04:16.080'
   lines:
-  - !!python/str "Obi\u015Fnuia s\u0103 stea treaz toat\u0103 noaptea"
-  - !!python/str "a\u015Ftept\xE2ndu-l pe Mo\u015F Cr\u0103ciun."
+  - "Obi\u015Fnuia s\u0103 stea treaz toat\u0103 noaptea"
+  - "a\u015Ftept\xE2ndu-l pe Mo\u015F Cr\u0103ciun."
   start: !human_time '00:04:13.080'
 - end: !human_time '00:04:19.250'
   lines:
-  - !!python/str "Acele zile sunt pe sf\xE2r\u015Fite."
+  - "Acele zile sunt pe sf\xE2r\u015Fite."
   start: !human_time '00:04:16.760'
 - end: !human_time '00:04:22.280'
   lines:
-  - !!python/str "Ar fi p\u0103cat s\u0103 se adevereasc\u0103 asta."
+  - "Ar fi p\u0103cat s\u0103 se adevereasc\u0103 asta."
   start: !human_time '00:04:20.240'
 - end: !human_time '00:04:24.650'
   lines:
-  - !!python/str "Da, sf\xE2r\u015Fitul magiei."
+  - "Da, sf\xE2r\u015Fitul magiei."
   start: !human_time '00:04:22.320'
 - end: !human_time '00:04:28.559'
   lines:
-  - !!python/str "Cr\u0103ciun fericit, dragule."
+  - "Cr\u0103ciun fericit, dragule."
   start: !human_time '00:04:27.110'
 - end: !human_time '00:04:38.060'
   lines:
-  - !!python/str "Vezi, doarme bu\u015Ftean."
+  - "Vezi, doarme bu\u015Ftean."
   start: !human_time '00:04:36.850'
 - end: !human_time '00:04:41.640'
   lines:
-  - !!python/str "Nici m\u0103car un tren nu l-ar trezi acum."
+  - "Nici m\u0103car un tren nu l-ar trezi acum."
   start: !human_time '00:04:38.640'
 - end: !human_time '00:04:46.960'
   lines:
-  - !!python/str "<i>Sf\xE2r\u015Fitul magiei?</i>"
+  - "<i>Sf\xE2r\u015Fitul magiei?</i>"
   start: !human_time '00:04:44.640'
 - end: !human_time '00:06:55.400'
   lines:
-  - !!python/str "\xCEmbarcarea!"
+  - "\xCEmbarcarea!"
   start: !human_time '00:06:53.320'
 - end: !human_time '00:07:02.080'
   lines:
-  - !!python/str "\xCEmbarcarea!"
+  - "\xCEmbarcarea!"
   start: !human_time '00:07:00.000'
 - end: !human_time '00:07:32.280'
   lines:
@@ -176,7 +175,7 @@ units:
   start: !human_time '00:07:35.400'
 - end: !human_time '00:07:40.400'
   lines:
-  - !!python/str "Acesta e expresul c\u0103tre Polul Nord!"
+  - "Acesta e expresul c\u0103tre Polul Nord!"
   start: !human_time '00:07:37.400'
 - end: !human_time '00:07:43.720'
   lines:
@@ -184,11 +183,11 @@ units:
   start: !human_time '00:07:41.680'
 - end: !human_time '00:07:46.680'
   lines:
-  - !!python/str "\xCEn\u0163eleg."
+  - "\xCEn\u0163eleg."
   start: !human_time '00:07:44.760'
 - end: !human_time '00:07:48.520'
   lines:
-  - !!python/str "\u0162ine asta te rog."
+  - "\u0162ine asta te rog."
   start: !human_time '00:07:47.040'
 - end: !human_time '00:07:50.320'
   lines:
@@ -196,7 +195,7 @@ units:
   start: !human_time '00:07:48.560'
 - end: !human_time '00:07:52.880'
   lines:
-  - !!python/str "\u0102sta e\u015Fti tu?"
+  - "\u0102sta e\u015Fti tu?"
   start: !human_time '00:07:50.960'
 - end: !human_time '00:07:55.240'
   lines:
@@ -204,27 +203,27 @@ units:
   start: !human_time '00:07:54.120'
 - end: !human_time '00:07:58.280'
   lines:
-  - !!python/str "Scrie aici c\u0103 n-ai f\u0103cut nici o poz\u0103 cu"
-  - !!python/str "Mo\u015F Craciun anul \u0103sta \u015Fi nici nu i-ai scris."
+  - "Scrie aici c\u0103 n-ai f\u0103cut nici o poz\u0103 cu"
+  - "Mo\u015F Craciun anul \u0103sta \u015Fi nici nu i-ai scris."
   start: !human_time '00:07:55.280'
 - end: !human_time '00:08:04.601'
   lines:
-  - !!python/str "Plus c\u0103 ai l\u0103sat-o pe surioara ta"
-  - !!python/str "s\u0103 preg\u0103teasc\u0103 laptele \u015Fi pr\u0103jiturile."
+  - "Plus c\u0103 ai l\u0103sat-o pe surioara ta"
+  - "s\u0103 preg\u0103teasc\u0103 laptele \u015Fi pr\u0103jiturile."
   start: !human_time '00:08:01.601'
 - end: !human_time '00:08:07.160'
   lines:
-  - !!python/str "Pare s\u0103 fie un an crucial pentru tine."
+  - "Pare s\u0103 fie un an crucial pentru tine."
   start: !human_time '00:08:05.360'
 - end: !human_time '00:08:10.200'
   lines:
-  - !!python/str "Dac\u0103 a\u015F fi \xEEn locul t\u0103u,"
-  - !!python/str "m-a\u015F urca la bord imediat."
+  - "Dac\u0103 a\u015F fi \xEEn locul t\u0103u,"
+  - "m-a\u015F urca la bord imediat."
   start: !human_time '00:08:07.200'
 - end: !human_time '00:08:17.280'
   lines:
   - Haide, vino.
-  - !!python/str "Trebuie s\u0103 respect\u0103m un orar."
+  - "Trebuie s\u0103 respect\u0103m un orar."
   start: !human_time '00:08:14.600'
 - end: !human_time '00:08:23.280'
   lines:
@@ -236,11 +235,11 @@ units:
   start: !human_time '00:10:02.880'
 - end: !human_time '00:10:06.200'
   lines:
-  - !!python/str "Ai idee ce tren e \u0103sta?"
+  - "Ai idee ce tren e \u0103sta?"
   start: !human_time '00:10:04.560'
 - end: !human_time '00:10:11.040'
   lines:
-  - !!python/str "\u015Etii ce fel de tren e \u0103sta?"
+  - "\u015Etii ce fel de tren e \u0103sta?"
   start: !human_time '00:10:08.040'
 - end: !human_time '00:10:15.760'
   lines:
@@ -249,7 +248,7 @@ units:
 - end: !human_time '00:10:19.720'
   lines:
   - '- Mergem la Polul Nord.'
-  - !!python/str "- \u015Etiu c\u0103 este un tren magic."
+  - "- \u015Etiu c\u0103 este un tren magic."
   start: !human_time '00:10:16.720'
 - end: !human_time '00:10:22.215'
   lines:
@@ -258,12 +257,12 @@ units:
   start: !human_time '00:10:20.040'
 - end: !human_time '00:10:24.390'
   lines:
-  - !!python/str "construit \xEEn 1931 la"
+  - "construit \xEEn 1931 la"
   - Baldwin Locomotive Works.
   start: !human_time '00:10:22.216'
 - end: !human_time '00:10:26.461'
   lines:
-  - !!python/str "C\xE2nt\u0103re\u015Fte 228 de tone."
+  - "C\xE2nt\u0103re\u015Fte 228 de tone."
   start: !human_time '00:10:24.391'
 - end: !human_time '00:10:30.360'
   lines:
@@ -279,17 +278,17 @@ units:
   start: !human_time '00:10:31.760'
 - end: !human_time '00:10:42.700'
   lines:
-  - !!python/str "Uita\u0163i-v\u0103 c\xE2te cadouri."
+  - "Uita\u0163i-v\u0103 c\xE2te cadouri."
   - Le vreau pe toate.
   start: !human_time '00:10:40.240'
 - end: !human_time '00:10:46.440'
   lines:
-  - !!python/str "Po\u0163i s\u0103 sim\u0163i spiritul Cr\u0103ciunului."
-  - !!python/str "Totul e tihnit \u015Fi frumos!"
+  - "Po\u0163i s\u0103 sim\u0163i spiritul Cr\u0103ciunului."
+  - "Totul e tihnit \u015Fi frumos!"
   start: !human_time '00:10:43.440'
 - end: !human_time '00:10:55.640'
   lines:
-  - !!python/str "Biletele, v\u0103 rog."
+  - "Biletele, v\u0103 rog."
   start: !human_time '00:10:53.040'
 - end: !human_time '00:10:58.040'
   lines:
@@ -301,44 +300,44 @@ units:
   start: !human_time '00:11:00.900'
 - end: !human_time '00:11:04.420'
   lines:
-  - !!python/str "Verific\u0103 \xEEn buzunar!"
+  - "Verific\u0103 \xEEn buzunar!"
   start: !human_time '00:11:02.871'
 - end: !human_time '00:11:13.160'
   lines:
-  - !!python/str "\xCEncearc\u0103 \u015Fi \xEEn cel\u0103lalt buzunar."
+  - "\xCEncearc\u0103 \u015Fi \xEEn cel\u0103lalt buzunar."
   start: !human_time '00:11:10.840'
 - end: !human_time '00:11:31.840'
   lines:
-  - !!python/str "V\u0103 mul\u0163umesc, domnule."
+  - "V\u0103 mul\u0163umesc, domnule."
   start: !human_time '00:11:29.440'
 - end: !human_time '00:11:45.240'
   lines:
-  - !!python/str "Mul\u0163umesc, domnule."
+  - "Mul\u0163umesc, domnule."
   start: !human_time '00:11:42.960'
 - end: !human_time '00:11:48.280'
   lines:
-  - !!python/str "Asta nu e o juc\u0103rie, e un microfon."
+  - "Asta nu e o juc\u0103rie, e un microfon."
   start: !human_time '00:11:45.280'
 - end: !human_time '00:11:50.760'
   lines:
-  - !!python/str "Tipului \u0103la chiar \xEEi place"
-  - !!python/str "s\u0103 se dea \xEEn spectacol."
+  - "Tipului \u0103la chiar \xEEi place"
+  - "s\u0103 se dea \xEEn spectacol."
   start: !human_time '00:11:48.960'
 - end: !human_time '00:11:53.800'
   lines:
-  - !!python/str "Uite ce mi-a scris iste\u0163ul."
+  - "Uite ce mi-a scris iste\u0163ul."
   start: !human_time '00:11:50.800'
 - end: !human_time '00:11:55.800'
   lines:
-  - !!python/str "\"LE\", ce vrea s\u0103 \xEEnsemne asta?"
+  - "\"LE\", ce vrea s\u0103 \xEEnsemne asta?"
   start: !human_time '00:11:53.960'
 - end: !human_time '00:11:58.840'
   lines:
-  - !!python/str "Urm\u0103toarea oprire, 11344 Edbrooke."
+  - "Urm\u0103toarea oprire, 11344 Edbrooke."
   start: !human_time '00:11:55.840'
 - end: !human_time '00:12:03.720'
   lines:
-  - !!python/str "Ne apropiem de cel\u0103lalt cap\u0103t al drumului."
+  - "Ne apropiem de cel\u0103lalt cap\u0103t al drumului."
   start: !human_time '00:12:00.720'
 - end: !human_time '00:12:20.980'
   lines:
@@ -346,26 +345,26 @@ units:
   start: !human_time '00:12:19.320'
 - end: !human_time '00:12:22.640'
   lines:
-  - !!python/str "Alarm\u0103 fals\u0103, trebuie"
-  - !!python/str "s\u0103 mai lu\u0103m pe \xEEnc\u0103 cineva."
+  - "Alarm\u0103 fals\u0103, trebuie"
+  - "s\u0103 mai lu\u0103m pe \xEEnc\u0103 cineva."
   start: !human_time '00:12:20.981'
 - end: !human_time '00:12:25.720'
   lines:
-  - !!python/str "Ciudat, credeam c\u0103"
-  - !!python/str "tu e\u015Fti ultimul pe list\u0103."
+  - "Ciudat, credeam c\u0103"
+  - "tu e\u015Fti ultimul pe list\u0103."
   start: !human_time '00:12:22.720'
 - end: !human_time '00:12:28.920'
   lines:
   - La Polul Nord, desigur!
-  - !!python/str "Acesta e expresul c\u0103tre Polul Nord!"
+  - "Acesta e expresul c\u0103tre Polul Nord!"
   start: !human_time '00:12:25.920'
 - end: !human_time '00:12:36.200'
   lines:
-  - !!python/str "Cum dore\u015Fti."
+  - "Cum dore\u015Fti."
   start: !human_time '00:12:34.080'
 - end: !human_time '00:13:06.880'
   lines:
-  - !!python/str "Copilul \u0103la vrea s\u0103 se suie \xEEn tren."
+  - "Copilul \u0103la vrea s\u0103 se suie \xEEn tren."
   start: !human_time '00:13:03.880'
 - end: !human_time '00:13:09.360'
   lines:
@@ -373,20 +372,20 @@ units:
   start: !human_time '00:13:07.680'
 - end: !human_time '00:13:14.160'
   lines:
-  - !!python/str "Gr\u0103be\u015Fte-te!"
+  - "Gr\u0103be\u015Fte-te!"
   start: !human_time '00:13:12.040'
 - end: !human_time '00:13:22.240'
   lines:
-  - !!python/str "- Trebuie s\u0103 oprim trenul!"
-  - !!python/str "- Nu \u015Ftiu cum s\u0103 fac asta!"
+  - "- Trebuie s\u0103 oprim trenul!"
+  - "- Nu \u015Ftiu cum s\u0103 fac asta!"
   start: !human_time '00:13:20.160'
 - end: !human_time '00:13:24.320'
   lines:
-  - !!python/str "Trage fr\xE2na de urgen\u0163\u0103!"
+  - "Trage fr\xE2na de urgen\u0163\u0103!"
   start: !human_time '00:13:22.280'
 - end: !human_time '00:13:55.120'
   lines:
-  - !!python/str "Cine a tras fr\xE2na de urgen\u0163\u0103?"
+  - "Cine a tras fr\xE2na de urgen\u0163\u0103?"
   start: !human_time '00:13:52.680'
 - end: !human_time '00:13:56.100'
   lines:
@@ -398,24 +397,24 @@ units:
   start: !human_time '00:13:57.101'
 - end: !human_time '00:14:01.240'
   lines:
-  - !!python/str "\xCEn caz c\u0103 nu \u015Ftiai,"
+  - "\xCEn caz c\u0103 nu \u015Ftiai,"
   start: !human_time '00:13:59.240'
 - end: !human_time '00:14:03.240'
   lines:
   - maneta aia e doar pentru
-  - !!python/str "situa\u0163ii de urgen\u0163\u0103!"
+  - "situa\u0163ii de urgen\u0163\u0103!"
   start: !human_time '00:14:01.280'
 - end: !human_time '00:14:05.840'
   lines:
-  - !!python/str "\u015Ei, \xEEn caz c\u0103 nu \u015Ftiai,"
+  - "\u015Ei, \xEEn caz c\u0103 nu \u015Ftiai,"
   start: !human_time '00:14:04.040'
 - end: !human_time '00:14:08.080'
   lines:
-  - !!python/str "azi e ajunul Cr\u0103ciunului."
+  - "azi e ajunul Cr\u0103ciunului."
   start: !human_time '00:14:05.880'
 - end: !human_time '00:14:10.200'
   lines:
-  - !!python/str "\u015Ei, \xEEn caz c\u0103 n-ai observat,"
+  - "\u015Ei, \xEEn caz c\u0103 n-ai observat,"
   start: !human_time '00:14:08.120'
 - end: !human_time '00:14:12.840'
   lines:
@@ -423,13 +422,13 @@ units:
   start: !human_time '00:14:10.240'
 - end: !human_time '00:14:15.880'
   lines:
-  - !!python/str "Cr\u0103ciunul s-ar putea s\u0103 nu fie"
+  - "Cr\u0103ciunul s-ar putea s\u0103 nu fie"
   - prea important pentru unii oameni,
   start: !human_time '00:14:12.880'
 - end: !human_time '00:14:19.680'
   lines:
-  - !!python/str "\xEEns\u0103 e foarte important"
-  - !!python/str "pentru ceilal\u0163i dintre noi!"
+  - "\xEEns\u0103 e foarte important"
+  - "pentru ceilal\u0163i dintre noi!"
   start: !human_time '00:14:16.680'
 - end: !human_time '00:14:21.840'
   lines:
@@ -437,54 +436,54 @@ units:
   start: !human_time '00:14:20.320'
 - end: !human_time '00:14:24.880'
   lines:
-  - !!python/str "\xCEncerca s\u0103 opreasc\u0103 trenul"
-  - !!python/str "ca s\u0103 poat\u0103 s\u0103 urce acel copil."
+  - "\xCEncerca s\u0103 opreasc\u0103 trenul"
+  - "ca s\u0103 poat\u0103 s\u0103 urce acel copil."
   start: !human_time '00:14:21.880'
 - end: !human_time '00:14:29.186'
   lines:
-  - !!python/str "\xCEn\u0163eleg."
+  - "\xCEn\u0163eleg."
   start: !human_time '00:14:27.600'
 - end: !human_time '00:14:32.187'
   lines:
-  - !!python/str "Tinere, a\u015Fa s-a \xEEnt\xE2mplat?"
+  - "Tinere, a\u015Fa s-a \xEEnt\xE2mplat?"
   start: !human_time '00:14:29.187'
 - end: !human_time '00:14:38.920'
   lines:
-  - !!python/str "Trebuie s\u0103-\u0163i reamintesc..."
+  - "Trebuie s\u0103-\u0163i reamintesc..."
   start: !human_time '00:14:36.920'
 - end: !human_time '00:14:40.960'
   lines:
-  - !!python/str "...c\u0103 avem un program bine stabilit."
+  - "...c\u0103 avem un program bine stabilit."
   start: !human_time '00:14:38.960'
 - end: !human_time '00:14:42.880'
   lines:
-  - !!python/str "N-am \xEEnt\xE2rziat niciodat\u0103,"
+  - "N-am \xEEnt\xE2rziat niciodat\u0103,"
   start: !human_time '00:14:41.000'
 - end: !human_time '00:14:45.880'
   lines:
-  - !!python/str "\u015Fi nu voi \xEEnt\xE2rzia nici \xEEn seara asta!"
+  - "\u015Fi nu voi \xEEnt\xE2rzia nici \xEEn seara asta!"
   start: !human_time '00:14:42.920'
 - end: !human_time '00:14:48.920'
   lines:
-  - !!python/str "Toat\u0103 lumea s\u0103-\u015Fi ocupe locurile, v\u0103 rog!"
+  - "Toat\u0103 lumea s\u0103-\u015Fi ocupe locurile, v\u0103 rog!"
   start: !human_time '00:14:45.920'
 - end: !human_time '00:14:54.360'
   lines:
-  - !!python/str "Mul\u0163umesc."
+  - "Mul\u0163umesc."
   start: !human_time '00:14:52.360'
 - end: !human_time '00:15:00.120'
   lines:
-  - !!python/str "Aten\u0163ie, v\u0103 rog."
+  - "Aten\u0163ie, v\u0103 rog."
   start: !human_time '00:14:58.520'
 - end: !human_time '00:15:03.160'
   lines:
   - Avem vreun pasager care
-  - !!python/str "dore\u015Fte ceva de b\u0103ut?"
+  - "dore\u015Fte ceva de b\u0103ut?"
   start: !human_time '00:15:00.160'
 - end: !human_time '00:15:07.280'
   lines:
   - '- Eu! Eu!'
-  - !!python/str "- M\u0103 g\xE2ndeam eu."
+  - "- M\u0103 g\xE2ndeam eu."
   start: !human_time '00:15:04.520'
 - end: !human_time '00:16:42.400'
   lines:
@@ -492,27 +491,27 @@ units:
   start: !human_time '00:16:39.400'
 - end: !human_time '00:16:45.440'
   lines:
-  - !!python/str "obi\u015Fnuia s\u0103 bea 50 de ce\u015Fti"
-  - !!python/str "de ciocolat\u0103 cald\u0103 zilnic."
+  - "obi\u015Fnuia s\u0103 bea 50 de ce\u015Fti"
+  - "de ciocolat\u0103 cald\u0103 zilnic."
   start: !human_time '00:16:42.680'
 - end: !human_time '00:16:47.440'
   lines:
-  - !!python/str "Era la fel de consistent\u0103"
-  - !!python/str "ca noroiul \u015Fi ro\u015Fie."
+  - "Era la fel de consistent\u0103"
+  - "ca noroiul \u015Fi ro\u015Fie."
   start: !human_time '00:16:45.920'
 - end: !human_time '00:16:49.280'
   lines:
-  - !!python/str "Pentru c\u0103 punea ardei"
-  - !!python/str "iute \xEEn loc de zah\u0103r."
+  - "Pentru c\u0103 punea ardei"
+  - "iute \xEEn loc de zah\u0103r."
   start: !human_time '00:16:47.480'
 - end: !human_time '00:16:51.080'
   lines:
-  - !!python/str "V-a\u0163i prins? Ciocolat\u0103 \"cald\u0103\"."
+  - "V-a\u0163i prins? Ciocolat\u0103 \"cald\u0103\"."
   start: !human_time '00:16:49.281'
 - end: !human_time '00:16:53.080'
   lines:
-  - !!python/str "De unde \u015Ftii?"
-  - !!python/str "Nu e adev\u0103rat."
+  - "De unde \u015Ftii?"
+  - "Nu e adev\u0103rat."
   start: !human_time '00:16:52.200'
 - end: !human_time '00:16:55.360'
   lines:
@@ -521,44 +520,44 @@ units:
   start: !human_time '00:16:53.120'
 - end: !human_time '00:16:57.640'
   lines:
-  - !!python/str "Nu cred c\u0103 ar trebui"
-  - !!python/str "s\u0103 ne p\u0103r\u0103sim locurile."
+  - "Nu cred c\u0103 ar trebui"
+  - "s\u0103 ne p\u0103r\u0103sim locurile."
   start: !human_time '00:16:55.400'
 - end: !human_time '00:17:00.000'
   lines:
-  - !!python/str "E o \xEEnc\u0103lcare a regulilor de"
-  - !!python/str "circula\u0163ie"
+  - "E o \xEEnc\u0103lcare a regulilor de"
+  - "circula\u0163ie"
   start: !human_time '00:16:57.680'
 - end: !human_time '00:17:03.040'
   lines:
-  - !!python/str "ca un copil s\u0103 umble ne\xEEnso\u0163it"
-  - !!python/str "\xEEntr-un mijloc de transport."
+  - "ca un copil s\u0103 umble ne\xEEnso\u0163it"
+  - "\xEEntr-un mijloc de transport."
   start: !human_time '00:17:00.040'
 - end: !human_time '00:17:04.680'
   lines:
-  - !!python/str "M\u0103 descurc eu."
+  - "M\u0103 descurc eu."
   start: !human_time '00:17:03.160'
 - end: !human_time '00:17:06.200'
   lines:
-  - !!python/str "E\u015Fti sigur\u0103?"
+  - "E\u015Fti sigur\u0103?"
   start: !human_time '00:17:04.681'
 - end: !human_time '00:17:18.920'
   lines:
   - Copilul din spate a primit
-  - !!python/str "ceva de b\u0103ut?"
+  - "ceva de b\u0103ut?"
   start: !human_time '00:17:15.920'
 - end: !human_time '00:17:24.320'
   lines:
-  - !!python/str "Atunci hai s\u0103-i ducem ceva \u015Fi lui."
+  - "Atunci hai s\u0103-i ducem ceva \u015Fi lui."
   start: !human_time '00:17:21.680'
 - end: !human_time '00:17:30.040'
   lines:
-  - !!python/str "Ai grij\u0103 unde calci."
+  - "Ai grij\u0103 unde calci."
   start: !human_time '00:17:27.040'
 - end: !human_time '00:17:36.360'
   lines:
-  - !!python/str "\u015Ei-a uitat biletul."
-  - !!python/str "\xCEnc\u0103 n-a fost perforat."
+  - "\u015Ei-a uitat biletul."
+  - "\xCEnc\u0103 n-a fost perforat."
   start: !human_time '00:17:33.360'
 - end: !human_time '00:17:39.200'
   lines:
@@ -566,48 +565,48 @@ units:
   start: !human_time '00:17:38.200'
 - end: !human_time '00:17:41.200'
   lines:
-  - !!python/str "O s\u0103 ne bagi pe to\u0163i \xEEn belele!"
+  - "O s\u0103 ne bagi pe to\u0163i \xEEn belele!"
   start: !human_time '00:17:39.201'
 - end: !human_time '00:20:09.240'
   lines:
-  - !!python/str "Scuza\u0163i-m\u0103, domni\u015Foar\u0103."
+  - "Scuza\u0163i-m\u0103, domni\u015Foar\u0103."
   start: !human_time '00:20:06.680'
 - end: !human_time '00:20:12.320'
   lines:
-  - !!python/str "Cred c\u0103 am uitat s\u0103 v\u0103"
+  - "Cred c\u0103 am uitat s\u0103 v\u0103"
   - perforez biletul.
   start: !human_time '00:20:09.320'
 - end: !human_time '00:20:14.240'
   lines:
-  - !!python/str "\xCEmi permite\u0163i?"
+  - "\xCEmi permite\u0163i?"
   start: !human_time '00:20:12.680'
 - end: !human_time '00:20:19.360'
   lines:
-  - !!python/str "Mi-am l\u0103sat biletul chiar aici pe scaun,"
+  - "Mi-am l\u0103sat biletul chiar aici pe scaun,"
   start: !human_time '00:20:16.360'
 - end: !human_time '00:20:21.400'
   lines:
-  - !!python/str "dar a disp\u0103rut."
+  - "dar a disp\u0103rut."
   start: !human_time '00:20:20.000'
 - end: !human_time '00:20:24.320'
   lines:
-  - !!python/str "Vrei s\u0103 spui c\u0103 \u0163i-ai piedut biletul?"
+  - "Vrei s\u0103 spui c\u0103 \u0163i-ai piedut biletul?"
   start: !human_time '00:20:21.440'
 - end: !human_time '00:20:27.360'
   lines:
-  - !!python/str "Nu \u015Fi-a pierdut biletul, eu am f\u0103cut-o."
+  - "Nu \u015Fi-a pierdut biletul, eu am f\u0103cut-o."
   start: !human_time '00:20:24.360'
 - end: !human_time '00:20:32.600'
   lines:
-  - !!python/str "\xCEncercam s\u0103 vi-l \xEEnapoiez,"
+  - "\xCEncercam s\u0103 vi-l \xEEnapoiez,"
   start: !human_time '00:20:29.640'
 - end: !human_time '00:20:35.680'
   lines:
-  - !!python/str "\xEEns\u0103 v\xE2ntul mi l-a zburat din m\xE2n\u0103."
+  - "\xEEns\u0103 v\xE2ntul mi l-a zburat din m\xE2n\u0103."
   start: !human_time '00:20:32.680'
 - end: !human_time '00:20:41.080'
   lines:
-  - !!python/str "Po\u0163i avea biletul meu."
+  - "Po\u0163i avea biletul meu."
   start: !human_time '00:20:39.080'
 - end: !human_time '00:20:44.160'
   lines:
@@ -619,15 +618,15 @@ units:
   start: !human_time '00:20:44.200'
 - end: !human_time '00:20:50.120'
   lines:
-  - !!python/str "Domni\u015Foar\u0103,"
+  - "Domni\u015Foar\u0103,"
   start: !human_time '00:20:48.760'
 - end: !human_time '00:20:52.340'
   lines:
-  - !!python/str "trebuie s\u0103 veni\u0163i cu mine."
+  - "trebuie s\u0103 veni\u0163i cu mine."
   start: !human_time '00:20:50.160'
 - end: !human_time '00:21:03.760'
   lines:
-  - !!python/str "\u015Etii ce se va \xEEnt\xE2mpla acum, nu?"
+  - "\u015Etii ce se va \xEEnt\xE2mpla acum, nu?"
   start: !human_time '00:21:02.560'
 - end: !human_time '00:21:06.080'
   lines:
@@ -636,7 +635,7 @@ units:
 - end: !human_time '00:21:08.440'
   lines:
   - Probabil o va arunca
-  - !!python/str "de pe platforma lateral\u0103."
+  - "de pe platforma lateral\u0103."
   start: !human_time '00:21:06.120'
 - end: !human_time '00:21:10.120'
   lines:
@@ -644,16 +643,16 @@ units:
   start: !human_time '00:21:09.160'
 - end: !human_time '00:21:12.200'
   lines:
-  - !!python/str "\xCEn felul \u0103sta nu va ajunge sub ro\u0163i."
+  - "\xCEn felul \u0103sta nu va ajunge sub ro\u0163i."
   start: !human_time '00:21:10.160'
 - end: !human_time '00:21:15.240'
   lines:
-  - !!python/str "S-ar putea s\u0103 \xEEncetineasc\u0103 pu\u0163in trenul,"
-  - !!python/str "\xEEns\u0103 nu-l vor opri niciodat\u0103."
+  - "S-ar putea s\u0103 \xEEncetineasc\u0103 pu\u0163in trenul,"
+  - "\xEEns\u0103 nu-l vor opri niciodat\u0103."
   start: !human_time '00:21:12.240'
 - end: !human_time '00:21:17.220'
   lines:
-  - !!python/str "S\u0103-l opreasc\u0103?"
+  - "S\u0103-l opreasc\u0103?"
   start: !human_time '00:21:16.080'
 - end: !human_time '00:21:18.360'
   lines:
@@ -661,7 +660,7 @@ units:
   start: !human_time '00:21:17.221'
 - end: !human_time '00:21:20.600'
   lines:
-  - !!python/str "Trebuie s\u0103 opresc trenul din nou!"
+  - "Trebuie s\u0103 opresc trenul din nou!"
   start: !human_time '00:21:18.600'
 - end: !human_time '00:21:22.600'
   lines:
@@ -669,29 +668,29 @@ units:
   start: !human_time '00:21:20.601'
 - end: !human_time '00:21:54.760'
   lines:
-  - !!python/str "\xCEncotro s-au dus?"
+  - "\xCEncotro s-au dus?"
   start: !human_time '00:21:52.760'
 - end: !human_time '00:21:56.560'
   lines:
-  - !!python/str "Ce s-a \xEEnt\xE2mplat cu ei?"
+  - "Ce s-a \xEEnt\xE2mplat cu ei?"
   start: !human_time '00:21:54.800'
 - end: !human_time '00:21:59.600'
   lines:
   - Te rog, are probleme mari!
-  - !!python/str "Trebuie s\u0103 m\u0103 aju\u0163i!"
+  - "Trebuie s\u0103 m\u0103 aju\u0163i!"
   start: !human_time '00:21:56.600'
 - end: !human_time '00:22:41.960'
   lines:
-  - !!python/str "\u0162i-am g\u0103sit biletul!"
+  - "\u0162i-am g\u0103sit biletul!"
   start: !human_time '00:22:39.440'
 - end: !human_time '00:22:46.320'
   lines:
-  - !!python/str "A\u015Fteapt\u0103!"
+  - "A\u015Fteapt\u0103!"
   start: !human_time '00:22:44.400'
 - end: !human_time '00:22:53.200'
   lines:
-  - !!python/str "A\u015Fteapt\u0103!"
-  - !!python/str "\u0162i-am g\u0103sit biletul!"
+  - "A\u015Fteapt\u0103!"
+  - "\u0162i-am g\u0103sit biletul!"
   start: !human_time '00:22:50.440'
 - end: !human_time '00:23:30.560'
   lines:
@@ -699,11 +698,11 @@ units:
   start: !human_time '00:23:29.000'
 - end: !human_time '00:23:32.600'
   lines:
-  - !!python/str "Caut o fat\u0103."
+  - "Caut o fat\u0103."
   start: !human_time '00:23:30.600'
 - end: !human_time '00:23:42.240'
   lines:
-  - !!python/str "Cu to\u0163i o c\u0103ut\u0103m!"
+  - "Cu to\u0163i o c\u0103ut\u0103m!"
   start: !human_time '00:23:39.680'
 - end: !human_time '00:23:44.800'
   lines:
@@ -711,38 +710,38 @@ units:
   start: !human_time '00:23:43.160'
 - end: !human_time '00:23:47.600'
   lines:
-  - !!python/str "Ia s\u0103 vedem noi ce avem aici."
+  - "Ia s\u0103 vedem noi ce avem aici."
   start: !human_time '00:23:44.840'
 - end: !human_time '00:23:51.440'
   lines:
-  - !!python/str "Acesta e un bilet de c\u0103l\u0103torie original."
+  - "Acesta e un bilet de c\u0103l\u0103torie original."
   start: !human_time '00:23:48.440'
 - end: !human_time '00:23:55.920'
   lines:
   - Mai bine l-ai pune
-  - !!python/str "\xEEntr-un loc sigur, tinere."
+  - "\xEEntr-un loc sigur, tinere."
   start: !human_time '00:23:52.920'
 - end: !human_time '00:23:58.600'
   lines:
-  - !!python/str "\xCEn locul t\u0103u,"
+  - "\xCEn locul t\u0103u,"
   start: !human_time '00:23:56.600'
 - end: !human_time '00:24:00.560'
   lines:
-  - !!python/str "mi-a\u015F \u0163ine toate"
+  - "mi-a\u015F \u0163ine toate"
   - lucrurile de valoare aici!
   start: !human_time '00:23:58.640'
 - end: !human_time '00:24:03.000'
   lines:
-  - !!python/str "Chiar aici \xEEn pantoful \u0103sta."
+  - "Chiar aici \xEEn pantoful \u0103sta."
   start: !human_time '00:24:00.960'
 - end: !human_time '00:24:06.040'
   lines:
-  - !!python/str "Din experien\u0163\u0103 \xEE\u0163i spun c\u0103"
+  - "Din experien\u0163\u0103 \xEE\u0163i spun c\u0103"
   - asta e cel mai sigur loc.
   start: !human_time '00:24:03.040'
 - end: !human_time '00:24:09.440'
   lines:
-  - !!python/str "Nu c\u0103 a\u015F avea ce face cu un bilet."
+  - "Nu c\u0103 a\u015F avea ce face cu un bilet."
   start: !human_time '00:24:06.440'
 - end: !human_time '00:24:11.913'
   lines:
@@ -750,12 +749,12 @@ units:
   start: !human_time '00:24:10.040'
 - end: !human_time '00:24:14.914'
   lines:
-  - !!python/str "M\u0103 sui \xEEn trenul \u0103sta de"
-  - !!python/str "fiecare dat\u0103 c\xE2nd am chef."
+  - "M\u0103 sui \xEEn trenul \u0103sta de"
+  - "fiecare dat\u0103 c\xE2nd am chef."
   start: !human_time '00:24:11.914'
 - end: !human_time '00:24:18.480'
   lines:
-  - !!python/str "Trenul \u0103sta e al meu."
+  - "Trenul \u0103sta e al meu."
   start: !human_time '00:24:15.760'
 - end: !human_time '00:24:20.600'
   lines:
@@ -763,7 +762,7 @@ units:
   start: !human_time '00:24:18.720'
 - end: !human_time '00:24:22.880'
   lines:
-  - !!python/str "Regele expresului c\u0103tre Polul Nord,"
+  - "Regele expresului c\u0103tre Polul Nord,"
   start: !human_time '00:24:20.640'
 - end: !human_time '00:24:25.881'
   lines:
@@ -771,7 +770,7 @@ units:
   start: !human_time '00:24:22.881'
 - end: !human_time '00:24:32.600'
   lines:
-  - !!python/str "Scuz\u0103-mi manierele,"
+  - "Scuz\u0103-mi manierele,"
   - te rog, ia loc.
   start: !human_time '00:24:30.400'
 - end: !human_time '00:24:34.360'
@@ -780,24 +779,24 @@ units:
   start: !human_time '00:24:32.640'
 - end: !human_time '00:24:36.080'
   lines:
-  - !!python/str "Vrei ni\u0163ic\u0103 t\u0103rie?"
+  - "Vrei ni\u0163ic\u0103 t\u0103rie?"
   start: !human_time '00:24:34.361'
 - end: !human_time '00:24:39.800'
   lines:
-  - !!python/str "Bun\u0103 \u015Fi cald\u0103, perfect\u0103 pentru"
-  - !!python/str "o noapte friguroas\u0103 de iarn\u0103."
+  - "Bun\u0103 \u015Fi cald\u0103, perfect\u0103 pentru"
+  - "o noapte friguroas\u0103 de iarn\u0103."
   start: !human_time '00:24:36.800'
 - end: !human_time '00:24:54.400'
   lines:
-  - !!python/str "S\u0103-\u0163i fie de bine."
+  - "S\u0103-\u0163i fie de bine."
   start: !human_time '00:24:52.000'
 - end: !human_time '00:24:56.560'
   lines:
-  - !!python/str "Dar Mo\u015F Cr\u0103ciun?"
+  - "Dar Mo\u015F Cr\u0103ciun?"
   start: !human_time '00:24:55.000'
 - end: !human_time '00:24:58.120'
   lines:
-  - !!python/str "Mo\u015F Cr\u0103ciun?"
+  - "Mo\u015F Cr\u0103ciun?"
   start: !human_time '00:24:56.561'
 - end: !human_time '00:25:01.440'
   lines:
@@ -805,19 +804,19 @@ units:
   start: !human_time '00:24:58.560'
 - end: !human_time '00:25:03.800'
   lines:
-  - !!python/str "Vrei s\u0103 zici tipul \u0103sta?"
+  - "Vrei s\u0103 zici tipul \u0103sta?"
   start: !human_time '00:25:01.480'
 - end: !human_time '00:25:22.240'
   lines:
-  - !!python/str "Ce p\u0103rere ai despre el?"
+  - "Ce p\u0103rere ai despre el?"
   start: !human_time '00:25:19.240'
 - end: !human_time '00:25:24.880'
   lines:
-  - !!python/str "C\u0103 tot veni vorba."
+  - "C\u0103 tot veni vorba."
   start: !human_time '00:25:23.550'
 - end: !human_time '00:25:30.240'
   lines:
-  - !!python/str "Vreau s\u0103 cred."
+  - "Vreau s\u0103 cred."
   start: !human_time '00:25:28.540'
 - end: !human_time '00:25:32.786'
   lines:
@@ -825,23 +824,23 @@ units:
   start: !human_time '00:25:31.680'
 - end: !human_time '00:25:35.000'
   lines:
-  - !!python/str "Dar nu vrei s\u0103 fii fraierit."
+  - "Dar nu vrei s\u0103 fii fraierit."
   start: !human_time '00:25:32.787'
 - end: !human_time '00:25:37.520'
   lines:
-  - !!python/str "Nu vrei s\u0103 te la\u015Fi dus de nas!"
+  - "Nu vrei s\u0103 te la\u015Fi dus de nas!"
   start: !human_time '00:25:35.040'
 - end: !human_time '00:25:39.520'
   lines:
-  - !!python/str "Nu vrei s\u0103 fi min\u0163it,"
+  - "Nu vrei s\u0103 fi min\u0163it,"
   start: !human_time '00:25:37.840'
 - end: !human_time '00:25:42.480'
   lines:
-  - !!python/str "sau s\u0103 stai cu ochelarii de cal pe fa\u0163\u0103."
+  - "sau s\u0103 stai cu ochelarii de cal pe fa\u0163\u0103."
   start: !human_time '00:25:39.560'
 - end: !human_time '00:25:45.400'
   lines:
-  - !!python/str "Nu vrei s\u0103 fii luat de p\u0103mp\u0103l\u0103u!"
+  - "Nu vrei s\u0103 fii luat de p\u0103mp\u0103l\u0103u!"
   start: !human_time '00:25:42.520'
 - end: !human_time '00:25:53.000'
   lines:
@@ -853,11 +852,11 @@ units:
   start: !human_time '00:25:53.480'
 - end: !human_time '00:25:58.640'
   lines:
-  - !!python/str "Dar ce e cu trenul \u0103sta?"
+  - "Dar ce e cu trenul \u0103sta?"
   start: !human_time '00:25:56.240'
 - end: !human_time '00:26:01.040'
   lines:
-  - !!python/str "Ce s\u0103 fie cu el?"
+  - "Ce s\u0103 fie cu el?"
   start: !human_time '00:25:59.720'
 - end: !human_time '00:26:03.920'
   lines:
@@ -873,23 +872,23 @@ units:
   start: !human_time '00:26:05.981'
 - end: !human_time '00:26:11.440'
   lines:
-  - !!python/str "Vrei s\u0103 spui c\u0103 \u0103sta e un simplu vis?"
+  - "Vrei s\u0103 spui c\u0103 \u0103sta e un simplu vis?"
   start: !human_time '00:26:08.440'
 - end: !human_time '00:26:16.600'
   lines:
-  - !!python/str "Tu ai spus-o, pu\u015Ftiule, nu eu."
+  - "Tu ai spus-o, pu\u015Ftiule, nu eu."
   start: !human_time '00:26:13.600'
 - end: !human_time '00:26:23.400'
   lines:
-  - !!python/str "Hai s-o g\u0103sim pe fata aia."
+  - "Hai s-o g\u0103sim pe fata aia."
   start: !human_time '00:26:20.400'
 - end: !human_time '00:26:32.480'
   lines:
-  - !!python/str "S\u0103 nu uit."
+  - "S\u0103 nu uit."
   start: !human_time '00:26:30.280'
 - end: !human_time '00:26:35.800'
   lines:
-  - !!python/str "Crezi \xEEn fantome?"
+  - "Crezi \xEEn fantome?"
   start: !human_time '00:26:33.440'
 - end: !human_time '00:26:41.120'
   lines:
@@ -897,72 +896,72 @@ units:
   start: !human_time '00:26:39.080'
 - end: !human_time '00:26:45.640'
   lines:
-  - !!python/str "A\u015Fteapt\u0103."
+  - "A\u015Fteapt\u0103."
   start: !human_time '00:26:43.680'
 - end: !human_time '00:26:48.960'
   lines:
-  - !!python/str "A\u015Fteapt\u0103!"
+  - "A\u015Fteapt\u0103!"
   start: !human_time '00:26:47.040'
 - end: !human_time '00:26:56.880'
   lines:
-  - !!python/str "A\u015Fteapt\u0103!"
+  - "A\u015Fteapt\u0103!"
   start: !human_time '00:26:54.960'
 - end: !human_time '00:27:03.480'
   lines:
-  - !!python/str "Trebuie s\u0103 m\u0103 trezesc."
+  - "Trebuie s\u0103 m\u0103 trezesc."
   start: !human_time '00:27:01.520'
 - end: !human_time '00:27:05.840'
   lines:
-  - !!python/str "Trebuie s\u0103 m\u0103 trezesc!"
+  - "Trebuie s\u0103 m\u0103 trezesc!"
   start: !human_time '00:27:03.560'
 - end: !human_time '00:27:08.160'
   lines:
-  - !!python/str "Treze\u015Fte-te!"
+  - "Treze\u015Fte-te!"
   start: !human_time '00:27:05.920'
 - end: !human_time '00:27:10.840'
   lines:
-  - !!python/str "Treze\u015Fte-te!"
+  - "Treze\u015Fte-te!"
   start: !human_time '00:27:08.760'
 - end: !human_time '00:27:15.080'
   lines:
-  - !!python/str "Treze\u015Fte-te!"
+  - "Treze\u015Fte-te!"
   start: !human_time '00:27:12.960'
 - end: !human_time '00:27:31.080'
   lines:
-  - !!python/str "Pu\u015Ftiule,"
-  - !!python/str "nu mai visa cu ochii deschi\u015Fi!"
+  - "Pu\u015Ftiule,"
+  - "nu mai visa cu ochii deschi\u015Fi!"
   start: !human_time '00:27:29.280'
 - end: !human_time '00:27:33.120'
   lines:
-  - !!python/str "Treze\u015Fte-te!"
+  - "Treze\u015Fte-te!"
   start: !human_time '00:27:31.120'
 - end: !human_time '00:27:36.200'
   lines:
-  - !!python/str "N-ai voie s\u0103 mergi \xEEn somn"
-  - !!python/str "\xEEn expresul c\u0103tre Polul Nord."
+  - "N-ai voie s\u0103 mergi \xEEn somn"
+  - "\xEEn expresul c\u0103tre Polul Nord."
   start: !human_time '00:27:33.200'
 - end: !human_time '00:27:39.560'
   lines:
-  - !!python/str "Trebuie s\u0103 trecem peste troiene."
+  - "Trebuie s\u0103 trecem peste troiene."
   start: !human_time '00:27:37.200'
 - end: !human_time '00:27:43.680'
   lines:
-  - !!python/str "Hai, pu\u015Ftiule."
-  - !!python/str "Urc\u0103-te pe umerii mei."
+  - "Hai, pu\u015Ftiule."
+  - "Urc\u0103-te pe umerii mei."
   start: !human_time '00:27:42.080'
 - end: !human_time '00:27:45.960'
   lines:
-  - !!python/str "Prinde-m\u0103 de m\xE2n\u0103."
+  - "Prinde-m\u0103 de m\xE2n\u0103."
   start: !human_time '00:27:43.720'
 - end: !human_time '00:27:50.800'
   lines:
-  - !!python/str "Fata pe care o cau\u0163i"
-  - !!python/str "probabil a luat-o \xEEnainte."
+  - "Fata pe care o cau\u0163i"
+  - "probabil a luat-o \xEEnainte."
   start: !human_time '00:27:47.800'
 - end: !human_time '00:27:54.000'
   lines:
-  - !!python/str "Trebuie s\u0103 ajungem la \"cuptor\""
-  - !!python/str "c\xE2t mai repede."
+  - "Trebuie s\u0103 ajungem la \"cuptor\""
+  - "c\xE2t mai repede."
   start: !human_time '00:27:51.000'
 - end: !human_time '00:27:55.960'
   lines:
@@ -970,15 +969,15 @@ units:
   start: !human_time '00:27:54.120'
 - end: !human_time '00:27:58.360'
   lines:
-  - !!python/str "La locomotiv\u0103, aiuritule."
+  - "La locomotiv\u0103, aiuritule."
   start: !human_time '00:27:56.000'
 - end: !human_time '00:28:00.760'
   lines:
-  - !!python/str "Trebuie s\u0103 ajungem la locomotiv\u0103..."
+  - "Trebuie s\u0103 ajungem la locomotiv\u0103..."
   start: !human_time '00:27:58.440'
 - end: !human_time '00:28:02.400'
   lines:
-  - !!python/str "...\xEEnainte de-a intra \xEEn tunel."
+  - "...\xEEnainte de-a intra \xEEn tunel."
   start: !human_time '00:28:00.800'
 - end: !human_time '00:28:04.200'
   lines:
@@ -986,44 +985,44 @@ units:
   start: !human_time '00:28:02.440'
 - end: !human_time '00:28:06.600'
   lines:
-  - !!python/str "Pui at\xE2tea \xEEntrb\u0103ri."
+  - "Pui at\xE2tea \xEEntrb\u0103ri."
   start: !human_time '00:28:04.240'
 - end: !human_time '00:28:10.000'
   lines:
-  - !!python/str "Sunt doar 3 cm \xEEntre"
-  - !!python/str "acoperi\u015Ful acestui tren..."
+  - "Sunt doar 3 cm \xEEntre"
+  - "acoperi\u015Ful acestui tren..."
   start: !human_time '00:28:07.000'
 - end: !human_time '00:28:14.020'
   lines:
-  - !!python/str "...\u015Fi tavanul tunelului."
+  - "...\u015Fi tavanul tunelului."
   start: !human_time '00:28:11.681'
 - end: !human_time '00:28:16.440'
   lines:
-  - !!python/str "Ai \xEEn\u0163eles?"
+  - "Ai \xEEn\u0163eles?"
   start: !human_time '00:28:14.440'
 - end: !human_time '00:28:22.000'
   lines:
-  - !!python/str "Nu mai avem mult, pu\u015Ftiule."
+  - "Nu mai avem mult, pu\u015Ftiule."
   start: !human_time '00:28:19.400'
 - end: !human_time '00:28:25.280'
   lines:
-  - !!python/str "O s\u0103 fie interesant."
+  - "O s\u0103 fie interesant."
   start: !human_time '00:28:22.920'
 - end: !human_time '00:28:48.200'
   lines:
-  - !!python/str "\xCEnapoi, pu\u015Ftiule, gr\u0103be\u015Fte-te!"
+  - "\xCEnapoi, pu\u015Ftiule, gr\u0103be\u015Fte-te!"
   start: !human_time '00:28:47.040'
 - end: !human_time '00:28:50.760'
   lines:
-  - !!python/str "Aga\u0163\u0103-te de b\u0103\u0163."
+  - "Aga\u0163\u0103-te de b\u0103\u0163."
   start: !human_time '00:28:48.240'
 - end: !human_time '00:29:28.160'
   lines:
-  - !!python/str "Situa\u0163ia e simpl\u0103, pu\u015Ftiule."
+  - "Situa\u0163ia e simpl\u0103, pu\u015Ftiule."
   start: !human_time '00:29:25.440'
 - end: !human_time '00:29:30.880'
   lines:
-  - !!python/str "C\xE2nd \xEE\u0163i spun s\u0103 sari!"
+  - "C\xE2nd \xEE\u0163i spun s\u0103 sari!"
   start: !human_time '00:29:28.480'
 - end: !human_time '00:29:33.640'
   lines:
@@ -1035,16 +1034,16 @@ units:
   start: !human_time '00:29:58.080'
 - end: !human_time '00:30:01.480'
   lines:
-  - !!python/str "Credeam c\u0103 te-au aruncat din tren."
+  - "Credeam c\u0103 te-au aruncat din tren."
   start: !human_time '00:29:59.440'
 - end: !human_time '00:30:04.520'
   lines:
   - '- Conduci trenul?'
-  - !!python/str "- Pe mine m-au \xEEns\u0103rcinat."
+  - "- Pe mine m-au \xEEns\u0103rcinat."
   start: !human_time '00:30:01.520'
 - end: !human_time '00:30:06.000'
   lines:
-  - !!python/str "Inginerul a trebuit s\u0103 verifice un bec."
+  - "Inginerul a trebuit s\u0103 verifice un bec."
   start: !human_time '00:30:04.600'
 - end: !human_time '00:30:07.301'
   lines:
@@ -1056,16 +1055,16 @@ units:
   start: !human_time '00:30:11.280'
 - end: !human_time '00:30:18.560'
   lines:
-  - !!python/str "- De unde \u015Ftii s\u0103 conduci?"
-  - !!python/str "- Vino s\u0103-\u0163i ar\u0103t, e u\u015For."
+  - "- De unde \u015Ftii s\u0103 conduci?"
+  - "- Vino s\u0103-\u0163i ar\u0103t, e u\u015For."
   start: !human_time '00:30:15.560'
 - end: !human_time '00:30:21.320'
   lines:
-  - !!python/str "Maneta asta mare e accelera\u0163ia."
+  - "Maneta asta mare e accelera\u0163ia."
   start: !human_time '00:30:18.800'
 - end: !human_time '00:30:23.760'
   lines:
-  - !!python/str "Iar aceasta mic\u0103 e fr\xE2na."
+  - "Iar aceasta mic\u0103 e fr\xE2na."
   start: !human_time '00:30:21.360'
 - end: !human_time '00:30:26.160'
   lines:
@@ -1082,28 +1081,28 @@ units:
   start: !human_time '00:30:29.800'
 - end: !human_time '00:30:34.360'
   lines:
-  - !!python/str "Vrei s\u0103 \xEEncerci?"
+  - "Vrei s\u0103 \xEEncerci?"
   start: !human_time '00:30:31.960'
 - end: !human_time '00:30:39.040'
   lines:
-  - !!python/str "Toat\u0103 via\u0163a mi-am dorit s\u0103 fac asta."
+  - "Toat\u0103 via\u0163a mi-am dorit s\u0103 fac asta."
   start: !human_time '00:30:36.040'
 - end: !human_time '00:31:02.920'
   lines:
-  - !!python/str "Opre\u015Fte trenul!"
+  - "Opre\u015Fte trenul!"
   start: !human_time '00:30:59.920'
 - end: !human_time '00:31:06.560'
   lines:
-  - !!python/str "Opre\u015Fte trenul!"
+  - "Opre\u015Fte trenul!"
   start: !human_time '00:31:04.320'
 - end: !human_time '00:31:13.080'
   lines:
-  - !!python/str "Vor s\u0103 oprim trenul."
+  - "Vor s\u0103 oprim trenul."
   start: !human_time '00:31:10.800'
 - end: !human_time '00:31:16.080'
   lines:
-  - !!python/str "- Care dintre astea e fr\xE2na?"
-  - !!python/str "- Mi-a spus c\u0103 asta e."
+  - "- Care dintre astea e fr\xE2na?"
+  - "- Mi-a spus c\u0103 asta e."
   start: !human_time '00:31:13.120'
 - end: !human_time '00:31:17.280'
   lines:
@@ -1117,21 +1116,21 @@ units:
   start: !human_time '00:31:17.320'
 - end: !human_time '00:31:21.400'
   lines:
-  - !!python/str "- Dar asta ro\u015Fie care pare s\u0103 fie fr\xE2na?!"
-  - !!python/str "- Nu, a spus c\u0103 asta e fr\xE2na."
+  - "- Dar asta ro\u015Fie care pare s\u0103 fie fr\xE2na?!"
+  - "- Nu, a spus c\u0103 asta e fr\xE2na."
   start: !human_time '00:31:18.400'
 - end: !human_time '00:31:23.700'
   lines:
-  - !!python/str "E\u015Fti sigur\u0103?"
+  - "E\u015Fti sigur\u0103?"
   start: !human_time '00:31:22.120'
 - end: !human_time '00:31:26.200'
   lines:
-  - !!python/str "E\u015Fti sigur\u0103?"
+  - "E\u015Fti sigur\u0103?"
   start: !human_time '00:31:24.560'
 - end: !human_time '00:31:34.919'
   lines:
-  - !!python/str "Trage\u0163i fr\xE2na!"
-  - !!python/str "Opri\u0163i trenul!"
+  - "Trage\u0163i fr\xE2na!"
+  - "Opri\u0163i trenul!"
   start: !human_time '00:31:33.019'
 - end: !human_time '00:31:55.840'
   lines:
@@ -1139,12 +1138,12 @@ units:
   start: !human_time '00:31:53.920'
 - end: !human_time '00:32:01.360'
   lines:
-  - !!python/str "Nu va fi nici un Cr\u0103ciun dac\u0103 expresul"
-  - !!python/str "c\u0103tre Polul Nord nu ajunge la timp!"
+  - "Nu va fi nici un Cr\u0103ciun dac\u0103 expresul"
+  - "c\u0103tre Polul Nord nu ajunge la timp!"
   start: !human_time '00:31:58.360'
 - end: !human_time '00:32:04.540'
   lines:
-  - !!python/str "Sunt singurul care \xEEn\u0163elege asta?"
+  - "Sunt singurul care \xEEn\u0163elege asta?"
   start: !human_time '00:32:02.080'
 - end: !human_time '00:32:06.640'
   lines:
@@ -1152,16 +1151,16 @@ units:
   start: !human_time '00:32:05.080'
 - end: !human_time '00:32:08.240'
   lines:
-  - !!python/str "Ar fi trebuit s\u0103 \u015Ftiu."
+  - "Ar fi trebuit s\u0103 \u015Ftiu."
   start: !human_time '00:32:06.880'
 - end: !human_time '00:32:11.280'
   lines:
-  - !!python/str "Tinere, tu chiar e\u015Fti hot\u0103r\xE2t ca"
-  - !!python/str "acest tren s\u0103 nu ajung\u0103 la Polul Nord?"
+  - "Tinere, tu chiar e\u015Fti hot\u0103r\xE2t ca"
+  - "acest tren s\u0103 nu ajung\u0103 la Polul Nord?"
   start: !human_time '00:32:08.280'
 - end: !human_time '00:32:13.320'
   lines:
-  - !!python/str "Uita\u0163i-v\u0103!"
+  - "Uita\u0163i-v\u0103!"
   start: !human_time '00:32:11.720'
 - end: !human_time '00:32:17.120'
   lines:
@@ -1169,17 +1168,17 @@ units:
   start: !human_time '00:32:14.880'
 - end: !human_time '00:32:20.400'
   lines:
-  - !!python/str "Sunt cel pu\u0163in 100.000 de exemplare aici,"
+  - "Sunt cel pu\u0163in 100.000 de exemplare aici,"
   - poate chiar un milion.
   start: !human_time '00:32:17.400'
 - end: !human_time '00:32:23.960'
   lines:
-  - !!python/str "Va dura c\xE2teva ore p\xE2n\u0103"
-  - !!python/str "c\xE2nd vor elibera \u015Fina."
+  - "Va dura c\xE2teva ore p\xE2n\u0103"
+  - "c\xE2nd vor elibera \u015Fina."
   start: !human_time '00:32:20.960'
 - end: !human_time '00:32:25.761'
   lines:
-  - !!python/str "E un drum greu de str\u0103b\u0103tut."
+  - "E un drum greu de str\u0103b\u0103tut."
   start: !human_time '00:32:24.361'
 - end: !human_time '00:32:28.200'
   lines:
@@ -1188,11 +1187,11 @@ units:
 - end: !human_time '00:32:30.240'
   lines:
   - '- E un blocaj.'
-  - !!python/str "- O pozi\u0163ie delicat\u0103."
+  - "- O pozi\u0163ie delicat\u0103."
   start: !human_time '00:32:28.240'
 - end: !human_time '00:32:33.241'
   lines:
-  - !!python/str "Suntem r\u0103t\u0103ci\u0163i."
+  - "Suntem r\u0103t\u0103ci\u0163i."
   start: !human_time '00:32:32.041'
 - end: !human_time '00:33:17.440'
   lines:
@@ -1200,7 +1199,7 @@ units:
   start: !human_time '00:33:15.480'
 - end: !human_time '00:33:19.440'
   lines:
-  - !!python/str "S\u0103 \xEEnaint\u0103m cu grij\u0103."
+  - "S\u0103 \xEEnaint\u0103m cu grij\u0103."
   start: !human_time '00:33:17.520'
 - end: !human_time '00:34:06.160'
   lines:
@@ -1208,21 +1207,21 @@ units:
   start: !human_time '00:34:04.320'
 - end: !human_time '00:34:08.620'
   lines:
-  - !!python/str "Spune-i inginerului s\u0103 \xEEncetineasc\u0103."
+  - "Spune-i inginerului s\u0103 \xEEncetineasc\u0103."
   start: !human_time '00:34:06.200'
 - end: !human_time '00:34:16.440'
   lines:
-  - !!python/str "\xCEncetine\u015Fte!"
+  - "\xCEncetine\u015Fte!"
   start: !human_time '00:34:14.360'
 - end: !human_time '00:34:27.879'
   lines:
   - Sfinte Sisoe!
-  - !!python/str "A s\u0103rit siguran\u0163a!"
+  - "A s\u0103rit siguran\u0163a!"
   start: !human_time '00:34:24.929'
 - end: !human_time '00:34:29.380'
   lines:
   - '- Ce?'
-  - !!python/str "- Siguran\u0163a!"
+  - "- Siguran\u0163a!"
   start: !human_time '00:34:27.950'
 - end: !human_time '00:34:34.040'
   lines:
@@ -1231,44 +1230,44 @@ units:
   start: !human_time '00:34:31.680'
 - end: !human_time '00:34:36.360'
   lines:
-  - !!python/str "- Nu m\u0103 aud."
+  - "- Nu m\u0103 aud."
   - '- Nu?'
   start: !human_time '00:34:34.080'
 - end: !human_time '00:34:41.640'
   lines:
-  - !!python/str "Nu-mi prea place situa\u0163ia."
+  - "Nu-mi prea place situa\u0163ia."
   start: !human_time '00:34:40.080'
 - end: !human_time '00:34:43.200'
   lines:
-  - !!python/str "Repede, \xEEn spatele barei de siguran\u0163\u0103."
+  - "Repede, \xEEn spatele barei de siguran\u0163\u0103."
   start: !human_time '00:34:41.641'
 - end: !human_time '00:34:45.800'
   lines:
-  - !!python/str "E totul \xEEn regul\u0103?"
-  - !!python/str "Ce-o s\u0103 ne facem?"
+  - "E totul \xEEn regul\u0103?"
+  - "Ce-o s\u0103 ne facem?"
   start: !human_time '00:34:43.240'
 - end: !human_time '00:34:48.840'
   lines:
-  - !!python/str "Av\xE2nd \xEEn vedere faptul c\u0103 am"
-  - !!python/str "pierdut leg\u0103tura cu inginerul,"
+  - "Av\xE2nd \xEEn vedere faptul c\u0103 am"
+  - "pierdut leg\u0103tura cu inginerul,"
   start: !human_time '00:34:45.840'
 - end: !human_time '00:34:53.480'
   lines:
-  - !!python/str "c\u0103 suntem total expu\u015Fi \xEEn"
-  - !!python/str "fa\u0163a locomotivei,"
+  - "c\u0103 suntem total expu\u015Fi \xEEn"
+  - "fa\u0163a locomotivei,"
   start: !human_time '00:34:50.480'
 - end: !human_time '00:34:56.920'
   lines:
-  - !!python/str "iar trenul pare s\u0103 accelereze"
-  - !!python/str "cu repeziciune spre Valea \xCEnghe\u0163at\u0103,"
+  - "iar trenul pare s\u0103 accelereze"
+  - "cu repeziciune spre Valea \xCEnghe\u0163at\u0103,"
   start: !human_time '00:34:53.920'
 - end: !human_time '00:35:04.120'
   lines:
-  - !!python/str "cea mai abrupt\u0103 vale din lume."
+  - "cea mai abrupt\u0103 vale din lume."
   start: !human_time '00:35:01.120'
 - end: !human_time '00:35:07.800'
   lines:
-  - !!python/str "Propun s\u0103 ne \u0163inem cu to\u0163i c\xE2t mai..."
+  - "Propun s\u0103 ne \u0163inem cu to\u0163i c\xE2t mai..."
   start: !human_time '00:35:04.840'
 - end: !human_time '00:35:09.801'
   lines:
@@ -1276,20 +1275,20 @@ units:
   start: !human_time '00:35:08.501'
 - end: !human_time '00:35:32.320'
   lines:
-  - !!python/str "Acul de siguran\u0163\u0103!"
+  - "Acul de siguran\u0163\u0103!"
   start: !human_time '00:35:29.920'
 - end: !human_time '00:35:53.880'
   lines:
-  - !!python/str "Iisuse, ghea\u0163a a acoperit \u015Finele!"
+  - "Iisuse, ghea\u0163a a acoperit \u015Finele!"
   start: !human_time '00:35:50.880'
 - end: !human_time '00:36:20.280'
   lines:
   - Haide!
-  - !!python/str "Ai grij\u0103 unde calci!"
+  - "Ai grij\u0103 unde calci!"
   start: !human_time '00:36:19.240'
 - end: !human_time '00:36:22.960'
   lines:
-  - !!python/str "Sus, dr\u0103gu\u0163\u0103."
+  - "Sus, dr\u0103gu\u0163\u0103."
   start: !human_time '00:36:20.320'
 - end: !human_time '00:36:27.679'
   lines:
@@ -1297,19 +1296,19 @@ units:
   start: !human_time '00:36:26.009'
 - end: !human_time '00:36:35.680'
   lines:
-  - !!python/str "Ai ac\u0163ionat rapid, tinere."
+  - "Ai ac\u0163ionat rapid, tinere."
   start: !human_time '00:36:32.680'
 - end: !human_time '00:36:57.159'
   lines:
-  - !!python/str "Mai la st\xE2nga."
+  - "Mai la st\xE2nga."
   start: !human_time '00:36:55.859'
 - end: !human_time '00:37:03.400'
   lines:
-  - !!python/str "Parc\u0103 e mai bine a\u015Fa."
+  - "Parc\u0103 e mai bine a\u015Fa."
   start: !human_time '00:37:01.160'
 - end: !human_time '00:37:09.920'
   lines:
-  - !!python/str "Pentru numele lui Dumnezeu, ce face\u0163i?"
+  - "Pentru numele lui Dumnezeu, ce face\u0163i?"
   start: !human_time '00:37:07.240'
 - end: !human_time '00:37:14.520'
   lines:
@@ -1317,19 +1316,19 @@ units:
   start: !human_time '00:37:12.760'
 - end: !human_time '00:37:19.520'
   lines:
-  - !!python/str "Scote\u0163i-ne c\xE2t mai repede de aici!"
+  - "Scote\u0163i-ne c\xE2t mai repede de aici!"
   start: !human_time '00:37:16.520'
 - end: !human_time '00:37:29.760'
   lines:
-  - !!python/str "\xCEntoarce\u0163i sania asta!"
+  - "\xCEntoarce\u0163i sania asta!"
   start: !human_time '00:37:27.360'
 - end: !human_time '00:37:48.060'
   lines:
-  - !!python/str "Uita\u0163i-v\u0103 acolo!"
+  - "Uita\u0163i-v\u0103 acolo!"
   start: !human_time '00:37:46.480'
 - end: !human_time '00:37:52.760'
   lines:
-  - !!python/str "\u015Einele sunt chiar \xEEn fa\u0163\u0103!"
+  - "\u015Einele sunt chiar \xEEn fa\u0163\u0103!"
   start: !human_time '00:37:50.480'
 - end: !human_time '00:38:00.640'
   lines:
@@ -1337,7 +1336,7 @@ units:
   start: !human_time '00:37:58.560'
 - end: !human_time '00:38:07.320'
   lines:
-  - !!python/str "La st\xE2nga!"
+  - "La st\xE2nga!"
   start: !human_time '00:38:05.320'
 - end: !human_time '00:38:13.520'
   lines:
@@ -1345,19 +1344,19 @@ units:
   start: !human_time '00:38:11.480'
 - end: !human_time '00:38:18.880'
   lines:
-  - !!python/str "Pu\u0163in mai la st\xE2nga!"
+  - "Pu\u0163in mai la st\xE2nga!"
   start: !human_time '00:38:16.720'
 - end: !human_time '00:38:23.520'
   lines:
-  - !!python/str "\u015Ei acum mai la dreapta!"
+  - "\u015Ei acum mai la dreapta!"
   start: !human_time '00:38:20.600'
 - end: !human_time '00:38:27.200'
   lines:
-  - !!python/str "\xCEnapoi!"
+  - "\xCEnapoi!"
   start: !human_time '00:38:25.240'
 - end: !human_time '00:38:29.801'
   lines:
-  - !!python/str "Vireaz\u0103 la dreapta!"
+  - "Vireaz\u0103 la dreapta!"
   start: !human_time '00:38:28.750'
 - end: !human_time '00:38:33.280'
   lines:
@@ -1365,8 +1364,8 @@ units:
   start: !human_time '00:38:31.320'
 - end: !human_time '00:38:36.200'
   lines:
-  - !!python/str "- \xCE\u0163i vei pierde biletul!"
-  - !!python/str "- Nu e biletul meu, e al t\u0103u!"
+  - "- \xCE\u0163i vei pierde biletul!"
+  - "- Nu e biletul meu, e al t\u0103u!"
   start: !human_time '00:38:33.320'
 - end: !human_time '00:38:38.120'
   lines:
@@ -1375,20 +1374,20 @@ units:
   start: !human_time '00:38:36.240'
 - end: !human_time '00:38:40.600'
   lines:
-  - !!python/str "\xCEncearc\u0103 s\u0103 men\u0163ii ritmul cu mine."
-  - !!python/str "La st\xE2nga!"
+  - "\xCEncearc\u0103 s\u0103 men\u0163ii ritmul cu mine."
+  - "La st\xE2nga!"
   start: !human_time '00:38:38.160'
 - end: !human_time '00:38:43.080'
   lines:
-  - !!python/str "La dreapta! La st\xE2nga!"
+  - "La dreapta! La st\xE2nga!"
   start: !human_time '00:38:40.640'
 - end: !human_time '00:38:49.120'
   lines:
-  - !!python/str "La dreapta! La st\xE2nga!"
+  - "La dreapta! La st\xE2nga!"
   start: !human_time '00:38:46.946'
 - end: !human_time '00:38:52.400'
   lines:
-  - !!python/str "La dreapta! La st\xE2nga!"
+  - "La dreapta! La st\xE2nga!"
   start: !human_time '00:38:49.880'
 - end: !human_time '00:38:58.320'
   lines:
@@ -1397,35 +1396,35 @@ units:
   start: !human_time '00:38:56.920'
 - end: !human_time '00:39:02.600'
   lines:
-  - !!python/str "\u0162ine\u0163i-v\u0103 bine!"
+  - "\u0162ine\u0163i-v\u0103 bine!"
   start: !human_time '00:39:00.440'
 - end: !human_time '00:39:14.880'
   lines:
-  - !!python/str "A\u015Fa mai merge."
+  - "A\u015Fa mai merge."
   start: !human_time '00:39:12.640'
 - end: !human_time '00:39:19.020'
   lines:
-  - !!python/str "Mul\u0163umesc."
+  - "Mul\u0163umesc."
   start: !human_time '00:39:16.800'
 - end: !human_time '00:39:22.200'
   lines:
-  - !!python/str "Nu-mi vine s\u0103 cred c\u0103 mi-ai g\u0103sit biletul."
+  - "Nu-mi vine s\u0103 cred c\u0103 mi-ai g\u0103sit biletul."
   start: !human_time '00:39:19.560'
 - end: !human_time '00:39:25.240'
   lines:
-  - !!python/str "A g\u0103sit cineva vreun bilet?"
+  - "A g\u0103sit cineva vreun bilet?"
   start: !human_time '00:39:22.240'
 - end: !human_time '00:39:27.920'
   lines:
-  - !!python/str "\xCEn cazul \u0103sta..."
+  - "\xCEn cazul \u0103sta..."
   start: !human_time '00:39:25.800'
 - end: !human_time '00:39:30.360'
   lines:
-  - !!python/str "...biletul la control, v\u0103 rog."
+  - "...biletul la control, v\u0103 rog."
   start: !human_time '00:39:28.000'
 - end: !human_time '00:39:40.200'
   lines:
-  - !!python/str "Mul\u0163umesc."
+  - "Mul\u0163umesc."
   start: !human_time '00:39:38.200'
 - end: !human_time '00:39:42.546'
   lines:
@@ -1433,12 +1432,12 @@ units:
   start: !human_time '00:39:41.520'
 - end: !human_time '00:39:44.600'
   lines:
-  - !!python/str "La fel ca \u015Fi copilul \u0103la atot\u015Ftiutor."
+  - "La fel ca \u015Fi copilul \u0103la atot\u015Ftiutor."
   start: !human_time '00:39:42.547'
 - end: !human_time '00:40:02.000'
   lines:
-  - !!python/str "Ave\u0163i grij\u0103 pe unde merge\u0163i,"
-  - !!python/str "e bucluca\u015F drumul \u0103sta."
+  - "Ave\u0163i grij\u0103 pe unde merge\u0163i,"
+  - "e bucluca\u015F drumul \u0103sta."
   start: !human_time '00:39:59.680'
 - end: !human_time '00:40:04.320'
   lines:
@@ -1450,26 +1449,26 @@ units:
   start: !human_time '00:40:05.320'
 - end: !human_time '00:40:10.840'
   lines:
-  - !!python/str "Cu ani \xEEn urm\u0103, la primul meu"
-  - !!python/str "drum din ajunul Cr\u0103ciunului,"
+  - "Cu ani \xEEn urm\u0103, la primul meu"
+  - "drum din ajunul Cr\u0103ciunului,"
   start: !human_time '00:40:07.840'
 - end: !human_time '00:40:12.880'
   lines:
-  - !!python/str "eram pe acoperi\u015F,"
-  - !!python/str "f\u0103c\xE2ndu-mi turele,"
+  - "eram pe acoperi\u015F,"
+  - "f\u0103c\xE2ndu-mi turele,"
   start: !human_time '00:40:11.080'
 - end: !human_time '00:40:15.080'
   lines:
-  - !!python/str "c\xE2nd am alunecat \u015Fi eu pe ghea\u0163\u0103."
+  - "c\xE2nd am alunecat \u015Fi eu pe ghea\u0163\u0103."
   start: !human_time '00:40:12.920'
 - end: !human_time '00:40:18.120'
   lines:
-  - !!python/str "Am \xEEncercat s\u0103 m\u0103 prind de o bar\u0103,"
-  - !!python/str "\xEEns\u0103 s-a rupt \u015Fi-am c\u0103zut."
+  - "Am \xEEncercat s\u0103 m\u0103 prind de o bar\u0103,"
+  - "\xEEns\u0103 s-a rupt \u015Fi-am c\u0103zut."
   start: !human_time '00:40:15.120'
 - end: !human_time '00:40:21.080'
   lines:
-  - !!python/str "Totu\u015Fi n-am c\u0103zut din tren."
+  - "Totu\u015Fi n-am c\u0103zut din tren."
   start: !human_time '00:40:18.260'
 - end: !human_time '00:40:24.680'
   lines:
@@ -1481,7 +1480,7 @@ units:
   start: !human_time '00:40:25.400'
 - end: !human_time '00:40:31.360'
   lines:
-  - !!python/str "Un \xEEnger."
+  - "Un \xEEnger."
   start: !human_time '00:40:29.960'
 - end: !human_time '00:40:32.680'
   lines:
@@ -1489,12 +1488,12 @@ units:
   start: !human_time '00:40:31.400'
 - end: !human_time '00:40:35.160'
   lines:
-  - !!python/str "A\u015Fteapt\u0103."
+  - "A\u015Fteapt\u0103."
   start: !human_time '00:40:33.820'
 - end: !human_time '00:40:39.320'
   lines:
-  - !!python/str "Cum ar\u0103ta?"
-  - !!python/str "L-ai v\u0103zut?"
+  - "Cum ar\u0103ta?"
+  - "L-ai v\u0103zut?"
   start: !human_time '00:40:36.760'
 - end: !human_time '00:40:42.080'
   lines:
@@ -1502,12 +1501,12 @@ units:
   start: !human_time '00:40:40.200'
 - end: !human_time '00:40:44.960'
   lines:
-  - !!python/str "C\xE2teodat\u0103 trebuie s\u0103 vezi ca s\u0103 crezi."
+  - "C\xE2teodat\u0103 trebuie s\u0103 vezi ca s\u0103 crezi."
   start: !human_time '00:40:42.120'
 - end: !human_time '00:40:48.040'
   lines:
-  - !!python/str "\xCEns\u0103, uneori, cele mai reale"
-  - !!python/str "lucruri din lume, nu pot fi v\u0103zute."
+  - "\xCEns\u0103, uneori, cele mai reale"
+  - "lucruri din lume, nu pot fi v\u0103zute."
   start: !human_time '00:40:45.040'
 - end: !human_time '00:40:58.080'
   lines:
@@ -1515,88 +1514,88 @@ units:
   start: !human_time '00:40:55.520'
 - end: !human_time '00:40:59.880'
   lines:
-  - !!python/str "Ave\u0163i grij\u0103 pe unde p\u0103\u015Fi\u0163i."
+  - "Ave\u0163i grij\u0103 pe unde p\u0103\u015Fi\u0163i."
   start: !human_time '00:40:58.680'
 - end: !human_time '00:41:02.840'
   lines:
-  - !!python/str "Aceste juc\u0103rii au suferit destul."
+  - "Aceste juc\u0103rii au suferit destul."
   start: !human_time '00:40:59.920'
 - end: !human_time '00:41:05.880'
   lines:
-  - !!python/str "Au fost l\u0103sate s\u0103 putrezeasc\u0103 pe str\u0103zi"
-  - !!python/str "l\u0103turalnice \u015Fi \xEEn alte col\u0163uri ale lumii."
+  - "Au fost l\u0103sate s\u0103 putrezeasc\u0103 pe str\u0103zi"
+  - "l\u0103turalnice \u015Fi \xEEn alte col\u0163uri ale lumii."
   start: !human_time '00:41:02.880'
 - end: !human_time '00:41:08.400'
   lines:
-  - !!python/str "\u015Ei ce caut\u0103 aici?"
+  - "\u015Ei ce caut\u0103 aici?"
   start: !human_time '00:41:07.400'
 - end: !human_time '00:41:11.040'
   lines:
-  - !!python/str "E o nou\u0103 idee de-a \u015Fefului."
+  - "E o nou\u0103 idee de-a \u015Fefului."
   start: !human_time '00:41:08.440'
 - end: !human_time '00:41:14.080'
   lines:
-  - !!python/str "\xCEn loc s\u0103 fie aruncate,"
-  - !!python/str "sunt adunate \u015Fi ref\u0103cute."
+  - "\xCEn loc s\u0103 fie aruncate,"
+  - "sunt adunate \u015Fi ref\u0103cute."
   start: !human_time '00:41:11.080'
 - end: !human_time '00:41:18.640'
   lines:
-  - !!python/str "\xCEi spune reciclare"
-  - !!python/str "sau ceva \xEEn genul \u0103sta."
+  - "\xCEi spune reciclare"
+  - "sau ceva \xEEn genul \u0103sta."
   start: !human_time '00:41:15.640'
 - end: !human_time '00:41:24.440'
   lines:
-  - !!python/str "\xCEmi vine s\u0103 pl\xE2ng..."
+  - "\xCEmi vine s\u0103 pl\xE2ng..."
   start: !human_time '00:41:21.840'
 - end: !human_time '00:41:28.280'
   lines:
-  - !!python/str "...c\xE2nd v\u0103d juc\u0103rii maltratate"
-  - !!python/str "\xEEn felul \u0103sta."
+  - "...c\xE2nd v\u0103d juc\u0103rii maltratate"
+  - "\xEEn felul \u0103sta."
   start: !human_time '00:41:25.280'
 - end: !human_time '00:41:31.880'
   lines:
-  - !!python/str "Aceste p\u0103pu\u015Fi \u015Fi marionete..."
+  - "Aceste p\u0103pu\u015Fi \u015Fi marionete..."
   start: !human_time '00:41:28.880'
 - end: !human_time '00:41:35.320'
   lines:
-  - !!python/str "...au o problem\u0103 aparte."
+  - "...au o problem\u0103 aparte."
   start: !human_time '00:41:32.400'
 - end: !human_time '00:41:38.680'
   lines:
-  - !!python/str "Cele mai iscusite m\xE2ini"
-  - !!python/str "le-am g\u0103sit la Polul Nord..."
+  - "Cele mai iscusite m\xE2ini"
+  - "le-am g\u0103sit la Polul Nord..."
   start: !human_time '00:41:35.680'
 - end: !human_time '00:41:58.120'
   lines:
-  - !!python/str "E\u015Fti exact ca mine, prietene."
+  - "E\u015Fti exact ca mine, prietene."
   start: !human_time '00:41:55.120'
 - end: !human_time '00:42:00.240'
   lines:
-  - !!python/str "Un ursuz am\u0103r\xE2t!"
+  - "Un ursuz am\u0103r\xE2t!"
   start: !human_time '00:41:58.320'
 - end: !human_time '00:42:05.760'
   lines:
-  - !!python/str "Polul Nord, Mo\u015F Cr\u0103ciun, acest tren,"
+  - "Polul Nord, Mo\u015F Cr\u0103ciun, acest tren,"
   start: !human_time '00:42:02.760'
 - end: !human_time '00:42:08.280'
   lines:
-  - !!python/str "sunt ni\u015Fte porc\u0103rii."
+  - "sunt ni\u015Fte porc\u0103rii."
   start: !human_time '00:42:06.280'
 - end: !human_time '00:42:10.300'
   lines:
-  - !!python/str "O simpl\u0103 fars\u0103."
+  - "O simpl\u0103 fars\u0103."
   start: !human_time '00:42:08.320'
 - end: !human_time '00:42:12.860'
   lines:
-  - !!python/str "\u015Etiu ce e\u015Fti..."
+  - "\u015Etiu ce e\u015Fti..."
   start: !human_time '00:42:10.800'
 - end: !human_time '00:42:14.920'
   lines:
-  - !!python/str "...e\u015Fti un ne\xEEncrez\u0103tor."
+  - "...e\u015Fti un ne\xEEncrez\u0103tor."
   start: !human_time '00:42:12.861'
 - end: !human_time '00:42:17.659'
   lines:
-  - !!python/str "Te \xEEndoie\u015Fti. Nu crezi."
+  - "Te \xEEndoie\u015Fti. Nu crezi."
   start: !human_time '00:42:15.800'
 - end: !human_time '00:42:38.920'
   lines:
@@ -1604,26 +1603,26 @@ units:
   start: !human_time '00:42:37.960'
 - end: !human_time '00:42:40.320'
   lines:
-  - !!python/str "Am trecut peste ni\u015Fte"
+  - "Am trecut peste ni\u015Fte"
   - dealuri foarte abrupte.
   start: !human_time '00:42:38.960'
 - end: !human_time '00:42:42.200'
   lines:
-  - !!python/str "Iar apoi cred c\u0103 am trecut"
-  - !!python/str "peste un lac \xEEnghe\u0163at."
+  - "Iar apoi cred c\u0103 am trecut"
+  - "peste un lac \xEEnghe\u0163at."
   start: !human_time '00:42:40.360'
 - end: !human_time '00:42:44.800'
   lines:
-  - !!python/str "\xCEns\u0103 \u015Ftiu c\u0103 a fost doar o iluzie optic\u0103."
+  - "\xCEns\u0103 \u015Ftiu c\u0103 a fost doar o iluzie optic\u0103."
   start: !human_time '00:42:42.240'
 - end: !human_time '00:42:47.360'
   lines:
-  - !!python/str "El a spus c\u0103 trenul era pe ghea\u0163\u0103,"
-  - !!python/str "\xEEns\u0103 eu i-am zis c\u0103 e imposibil."
+  - "El a spus c\u0103 trenul era pe ghea\u0163\u0103,"
+  - "\xEEns\u0103 eu i-am zis c\u0103 e imposibil."
   start: !human_time '00:42:44.840'
 - end: !human_time '00:42:49.240'
   lines:
-  - !!python/str "Pentru c\u0103 nu po\u0163i pune \u015Finele de tren..."
+  - "Pentru c\u0103 nu po\u0163i pune \u015Finele de tren..."
   start: !human_time '00:42:47.400'
 - end: !human_time '00:42:51.300'
   lines:
@@ -1635,7 +1634,7 @@ units:
   start: !human_time '00:45:07.500'
 - end: !human_time '00:45:13.340'
   lines:
-  - !!python/str "Aurora boreal\u0103."
+  - "Aurora boreal\u0103."
   start: !human_time '00:45:11.320'
 - end: !human_time '00:45:17.920'
   lines:
@@ -1647,7 +1646,7 @@ units:
   start: !human_time '00:45:19.160'
 - end: !human_time '00:45:23.706'
   lines:
-  - !!python/str "Latitudine 66 de grade \u015Fi 33 de minute."
+  - "Latitudine 66 de grade \u015Fi 33 de minute."
   start: !human_time '00:45:20.880'
 - end: !human_time '00:45:25.120'
   lines:
@@ -1655,12 +1654,12 @@ units:
   start: !human_time '00:45:23.707'
 - end: !human_time '00:45:29.200'
   lines:
-  - !!python/str "Vede\u0163i acele lumini din zare?"
+  - "Vede\u0163i acele lumini din zare?"
   start: !human_time '00:45:26.200'
 - end: !human_time '00:45:33.160'
   lines:
   - Par a fi luminile unui vas ce
-  - !!python/str "navigheaz\u0103 prin marea \xEEnghe\u0163at\u0103."
+  - "navigheaz\u0103 prin marea \xEEnghe\u0163at\u0103."
   start: !human_time '00:45:30.160'
 - end: !human_time '00:45:37.360'
   lines:
@@ -1672,7 +1671,7 @@ units:
   start: !human_time '00:45:38.980'
 - end: !human_time '00:46:24.526'
   lines:
-  - !!python/str "Am reu\u015Fit."
+  - "Am reu\u015Fit."
   start: !human_time '00:46:23.560'
 - end: !human_time '00:46:26.460'
   lines:
@@ -1680,11 +1679,11 @@ units:
   start: !human_time '00:46:24.527'
 - end: !human_time '00:46:28.280'
   lines:
-  - !!python/str "Am reu\u015Fit!"
+  - "Am reu\u015Fit!"
   start: !human_time '00:46:26.465'
 - end: !human_time '00:46:53.640'
   lines:
-  - !!python/str "Ar trebui s\u0103 vedem elfi."
+  - "Ar trebui s\u0103 vedem elfi."
   start: !human_time '00:46:52.800'
 - end: !human_time '00:46:55.960'
   lines:
@@ -1692,17 +1691,17 @@ units:
   start: !human_time '00:46:53.680'
 - end: !human_time '00:46:59.000'
   lines:
-  - !!python/str "S-au str\xE2ns \xEEn centrul ora\u015Fului."
+  - "S-au str\xE2ns \xEEn centrul ora\u015Fului."
   start: !human_time '00:46:57.080'
 - end: !human_time '00:47:02.200'
   lines:
-  - !!python/str "Acolo, Mo\u015Ful va d\u0103rui"
-  - !!python/str "primul cadou al Cr\u0103ciunului."
+  - "Acolo, Mo\u015Ful va d\u0103rui"
+  - "primul cadou al Cr\u0103ciunului."
   start: !human_time '00:46:59.200'
 - end: !human_time '00:47:05.640'
   lines:
-  - !!python/str "\u015Ei cine va primi primul"
-  - !!python/str "cadou al Cr\u0103ciunului?"
+  - "\u015Ei cine va primi primul"
+  - "cadou al Cr\u0103ciunului?"
   start: !human_time '00:47:03.680'
 - end: !human_time '00:47:08.680'
   lines:
@@ -1710,7 +1709,7 @@ units:
   start: !human_time '00:47:05.680'
 - end: !human_time '00:47:14.040'
   lines:
-  - !!python/str "Uita\u0163i!"
+  - "Uita\u0163i!"
   start: !human_time '00:47:12.920'
 - end: !human_time '00:47:15.160'
   lines:
@@ -1718,51 +1717,49 @@ units:
   start: !human_time '00:47:14.041'
 - end: !human_time '00:47:47.680'
   lines:
-  - !!python/str "\xCEn regul\u0103, doamnelor \u015Fi domnilor,"
+  - "\xCEn regul\u0103, doamnelor \u015Fi domnilor,"
   start: !human_time '00:47:45.480'
 - end: !human_time '00:47:49.880'
   lines:
-  - !!python/str "\xEEmp\u0103r\u0163i\u0163i-v\u0103 pe dou\u0103 coloane, v\u0103\
-    \ rog."
+  - "\xEEmp\u0103r\u0163i\u0163i-v\u0103 pe dou\u0103 coloane, v\u0103 rog."
   start: !human_time '00:47:47.720'
 - end: !human_time '00:47:53.360'
   lines:
-  - !!python/str "Cei mai scunzi \xEEn fa\u0163\u0103,"
-  - !!python/str "iar cei mai \xEEnal\u0163i \xEEn spate."
+  - "Cei mai scunzi \xEEn fa\u0163\u0103,"
+  - "iar cei mai \xEEnal\u0163i \xEEn spate."
   start: !human_time '00:47:50.360'
 - end: !human_time '00:47:56.640'
   lines:
-  - !!python/str "Cei n\u0103scu\u0163i \xEEn zile cu so\u0163 \xEEn dreapta,"
-  - !!python/str "iar cei n\u0103scu\u0163i \xEEn zile f\u0103r\u0103 so\u0163 \xEE\
-    n st\xE2nga."
+  - "Cei n\u0103scu\u0163i \xEEn zile cu so\u0163 \xEEn dreapta,"
+  - "iar cei n\u0103scu\u0163i \xEEn zile f\u0103r\u0103 so\u0163 \xEEn st\xE2nga."
   start: !human_time '00:47:53.640'
 - end: !human_time '00:47:58.700'
   lines:
-  - !!python/str "Nu v\u0103 \xEEmpinge\u0163i,"
+  - "Nu v\u0103 \xEEmpinge\u0163i,"
   start: !human_time '00:47:57.240'
 - end: !human_time '00:48:00.160'
   lines:
-  - !!python/str "dar nici s\u0103 nu pierdem vremea,"
+  - "dar nici s\u0103 nu pierdem vremea,"
   start: !human_time '00:47:58.701'
 - end: !human_time '00:48:02.160'
   lines:
   - mai sunt doar 5 minute
-  - !!python/str "p\xE2n\u0103 la miezul nop\u0163ii."
+  - "p\xE2n\u0103 la miezul nop\u0163ii."
   start: !human_time '00:48:00.200'
 - end: !human_time '00:48:05.200'
   lines:
-  - !!python/str "Cum adic\u0103? Mai erau 5 minute p\xE2n\u0103 la"
-  - !!python/str "miezul nop\u0163ii \xEEn urm\u0103 cu 4 minute."
+  - "Cum adic\u0103? Mai erau 5 minute p\xE2n\u0103 la"
+  - "miezul nop\u0163ii \xEEn urm\u0103 cu 4 minute."
   start: !human_time '00:48:02.200'
 - end: !human_time '00:48:09.120'
   lines:
   - Exact!
-  - !!python/str "\xCEn coloane de doi, v\u0103 rog."
+  - "\xCEn coloane de doi, v\u0103 rog."
   start: !human_time '00:48:06.200'
 - end: !human_time '00:48:11.440'
   lines:
-  - !!python/str "- M\u0103 scuza\u0163i?"
-  - !!python/str "- Care \u0163i-e nedumerirea."
+  - "- M\u0103 scuza\u0163i?"
+  - "- Care \u0163i-e nedumerirea."
   start: !human_time '00:48:09.680'
 - end: !human_time '00:48:13.440'
   lines:
@@ -1770,78 +1767,78 @@ units:
   start: !human_time '00:48:11.480'
 - end: !human_time '00:48:18.880'
   lines:
-  - !!python/str "Nimeni nu e obligat s\u0103-l vad\u0103 pe Mo\u015Ful."
+  - "Nimeni nu e obligat s\u0103-l vad\u0103 pe Mo\u015Ful."
   start: !human_time '00:48:15.880'
 - end: !human_time '00:48:22.680'
   lines:
-  - !!python/str "Doamnelor \u015Fi domnilor, nu trebuie"
-  - !!python/str "s\u0103 v\u0103 \u0163ine\u0163i neap\u0103rat de m\xE2ini,"
+  - "Doamnelor \u015Fi domnilor, nu trebuie"
+  - "s\u0103 v\u0103 \u0163ine\u0163i neap\u0103rat de m\xE2ini,"
   start: !human_time '00:48:19.680'
 - end: !human_time '00:48:26.360'
   lines:
-  - !!python/str "\xEEns\u0103 v\u0103 rog s\u0103 v\u0103 men\u0163ine\u0163i"
-  - !!python/str "pozi\u0163ia \xEEn coloan\u0103..."
+  - "\xEEns\u0103 v\u0103 rog s\u0103 v\u0103 men\u0163ine\u0163i"
+  - "pozi\u0163ia \xEEn coloan\u0103..."
   start: !human_time '00:48:23.880'
 - end: !human_time '00:48:28.800'
   lines:
-  - !!python/str "...at\xE2ta timp c\xE2t suntem \xEEn mi\u015Fcare."
+  - "...at\xE2ta timp c\xE2t suntem \xEEn mi\u015Fcare."
   start: !human_time '00:48:26.400'
 - end: !human_time '00:48:40.480'
   lines:
-  - !!python/str "- Trebuie s\u0103 vii cu noi."
+  - "- Trebuie s\u0103 vii cu noi."
   - '- Are dreptate.'
   start: !human_time '00:48:37.480'
 - end: !human_time '00:48:45.520'
   lines:
-  - !!python/str "Cr\u0103ciunul nu-i de mine."
+  - "Cr\u0103ciunul nu-i de mine."
   start: !human_time '00:48:42.520'
 - end: !human_time '00:48:47.680'
   lines:
-  - !!python/str "Niciodat\u0103 nu mi s-a potrivit."
+  - "Niciodat\u0103 nu mi s-a potrivit."
   start: !human_time '00:48:45.560'
 - end: !human_time '00:48:49.720'
   lines:
-  - !!python/str "Dar Cr\u0103ciunul e un moment at\xE2t de minunat."
+  - "Dar Cr\u0103ciunul e un moment at\xE2t de minunat."
   start: !human_time '00:48:47.760'
 - end: !human_time '00:48:51.480'
   lines:
   - E un moment al darurilor
-  - !!python/str "\u015Fi-al recuno\u015Ftin\u0163ei,"
+  - "\u015Fi-al recuno\u015Ftin\u0163ei,"
   start: !human_time '00:48:49.760'
 - end: !human_time '00:48:53.200'
   lines:
-  - !!python/str "petrecut al\u0103turi de prieteni \u015Fi familie."
+  - "petrecut al\u0103turi de prieteni \u015Fi familie."
   start: !human_time '00:48:51.481'
 - end: !human_time '00:48:55.040'
   lines:
-  - !!python/str "Oamenii \xEE\u015Fi orneaz\u0103 casele."
+  - "Oamenii \xEE\u015Fi orneaz\u0103 casele."
   start: !human_time '00:48:53.240'
 - end: !human_time '00:48:58.080'
   lines:
-  - !!python/str "Iar Mo\u015Ful ne las\u0103 daruri"
-  - !!python/str "sub pomul de Cr\u0103ciun."
+  - "Iar Mo\u015Ful ne las\u0103 daruri"
+  - "sub pomul de Cr\u0103ciun."
   start: !human_time '00:48:55.080'
 - end: !human_time '00:49:01.880'
   lines:
-  - !!python/str "Pur \u015Fi simplu Cr\u0103ciunul..."
+  - "Pur \u015Fi simplu Cr\u0103ciunul..."
   start: !human_time '00:48:59.920'
 - end: !human_time '00:49:04.880'
   lines:
-  - !!python/str "...nu mi se potrive\u015Fte."
+  - "...nu mi se potrive\u015Fte."
   start: !human_time '00:49:02.400'
 - end: !human_time '00:49:09.080'
   lines:
-  - !!python/str "Nu \u015Ftiu dac\u0103-\u0163i place sau nu Cr\u0103ciunul,"
+  - "Nu \u015Ftiu dac\u0103-\u0163i place sau nu Cr\u0103ciunul,"
   start: !human_time '00:49:06.080'
 - end: !human_time '00:49:12.120'
   lines:
   - dar asta-i seara de Ajun,
-  - !!python/str "nu po\u0163i s\u0103 stai aici singur."
+  - "nu po\u0163i s\u0103 stai aici singur."
   start: !human_time '00:49:09.120'
 - end: !human_time '00:49:17.200'
   lines:
   - Vino cu noi.
-  - !!python/str "Vom merge \xEEmpreun\u0103."
+  - "Vom merge \xEEmpreun\u0103."
   start: !human_time '00:49:14.200'
 - end: !human_time '00:49:31.120'
   lines:
@@ -1853,37 +1850,37 @@ units:
   start: !human_time '00:49:38.520'
 - end: !human_time '00:49:44.640'
   lines:
-  - !!python/str "Sau poate c\u0103 nu!"
+  - "Sau poate c\u0103 nu!"
   start: !human_time '00:49:42.560'
 - end: !human_time '00:49:48.880'
   lines:
-  - !!python/str "Fr\xE2na de urgen\u0163\u0103!"
+  - "Fr\xE2na de urgen\u0163\u0103!"
   start: !human_time '00:49:46.880'
 - end: !human_time '00:49:50.880'
   lines:
-  - !!python/str "Fr\xE2na de urgen\u0163\u0103!"
+  - "Fr\xE2na de urgen\u0163\u0103!"
   start: !human_time '00:49:48.920'
 - end: !human_time '00:49:57.480'
   lines:
-  - !!python/str "Nu e nici o fr\xE2n\u0103!"
-  - !!python/str "Nu pot s\u0103 g\u0103sesc fr\xE2na!"
+  - "Nu e nici o fr\xE2n\u0103!"
+  - "Nu pot s\u0103 g\u0103sesc fr\xE2na!"
   start: !human_time '00:49:54.480'
 - end: !human_time '00:50:06.640'
   lines:
-  - !!python/str "Odihne\u015Fte-te pu\u0163in, pu\u015Ftiule."
+  - "Odihne\u015Fte-te pu\u0163in, pu\u015Ftiule."
   start: !human_time '00:50:04.080'
 - end: !human_time '00:50:09.960'
   lines:
-  - !!python/str "Ce zici de o cea\u015Fc\u0103 fierbinte"
-  - !!python/str "de t\u0103rie?"
+  - "Ce zici de o cea\u015Fc\u0103 fierbinte"
+  - "de t\u0103rie?"
   start: !human_time '00:50:06.960'
 - end: !human_time '00:50:40.120'
   lines:
-  - !!python/str "Ne vom pr\u0103bu\u015Fi!"
+  - "Ne vom pr\u0103bu\u015Fi!"
   start: !human_time '00:50:37.880'
 - end: !human_time '00:50:46.759'
   lines:
-  - !!python/str "Ne \xEEnv\xE2rtim."
+  - "Ne \xEEnv\xE2rtim."
   start: !human_time '00:50:45.259'
 - end: !human_time '00:51:13.920'
   lines:
@@ -1891,32 +1888,32 @@ units:
   start: !human_time '00:51:11.960'
 - end: !human_time '00:51:16.440'
   lines:
-  - !!python/str "Clopo\u0163elul."
+  - "Clopo\u0163elul."
   start: !human_time '00:51:14.360'
 - end: !human_time '00:51:18.180'
   lines:
-  - !!python/str "Ce clopo\u0163el?"
+  - "Ce clopo\u0163el?"
   start: !human_time '00:51:16.800'
 - end: !human_time '00:51:19.560'
   lines:
-  - !!python/str "O sanie cu zurg\u0103l\u0103i."
+  - "O sanie cu zurg\u0103l\u0103i."
   start: !human_time '00:51:18.181'
 - end: !human_time '00:51:22.280'
   lines:
-  - !!python/str "- O sanie cu zurg\u0103l\u0103i?"
+  - "- O sanie cu zurg\u0103l\u0103i?"
   - '- N-o auzi?'
   start: !human_time '00:51:19.600'
 - end: !human_time '00:51:25.400'
   lines:
-  - !!python/str "Sunetul vine din tunelul \u0103la."
+  - "Sunetul vine din tunelul \u0103la."
   start: !human_time '00:51:23.120'
 - end: !human_time '00:51:33.300'
   lines:
-  - !!python/str "\xCEntr-acolo ar trebui s\u0103 mergem."
+  - "\xCEntr-acolo ar trebui s\u0103 mergem."
   start: !human_time '00:51:30.960'
 - end: !human_time '00:51:42.760'
   lines:
-  - !!python/str "Haide\u0163i."
+  - "Haide\u0163i."
   start: !human_time '00:51:41.040'
 - end: !human_time '00:52:14.680'
   lines:
@@ -1925,15 +1922,15 @@ units:
 - end: !human_time '00:52:17.440'
   lines:
   - '- Ce e?'
-  - !!python/str "- Haide\u0163i."
+  - "- Haide\u0163i."
   start: !human_time '00:52:15.440'
 - end: !human_time '00:52:30.880'
   lines:
-  - !!python/str "Haide\u0163i."
+  - "Haide\u0163i."
   start: !human_time '00:52:29.200'
 - end: !human_time '00:52:42.200'
   lines:
-  - !!python/str "Ne-am r\u0103t\u0103cit."
+  - "Ne-am r\u0103t\u0103cit."
   start: !human_time '00:52:39.920'
 - end: !human_time '00:52:52.840'
   lines:
@@ -1945,7 +1942,7 @@ units:
   start: !human_time '00:52:53.480'
 - end: !human_time '00:52:56.800'
   lines:
-  - !!python/str "\u015Ei eu o aud."
+  - "\u015Ei eu o aud."
   start: !human_time '00:52:55.520'
 - end: !human_time '00:52:58.080'
   lines:
@@ -1957,7 +1954,7 @@ units:
   start: !human_time '00:52:58.120'
 - end: !human_time '00:53:02.360'
   lines:
-  - !!python/str "E\u015Fti sigur\u0103?"
+  - "E\u015Fti sigur\u0103?"
   start: !human_time '00:53:00.320'
 - end: !human_time '00:53:08.120'
   lines:
@@ -1969,7 +1966,7 @@ units:
   start: !human_time '00:53:13.120'
 - end: !human_time '00:53:20.160'
   lines:
-  - !!python/str "Tiptil \u015Fi \xEEn lini\u015Fte."
+  - "Tiptil \u015Fi \xEEn lini\u015Fte."
   start: !human_time '00:53:18.040'
 - end: !human_time '00:53:37.120'
   lines:
@@ -1977,25 +1974,25 @@ units:
   start: !human_time '00:53:35.640'
 - end: !human_time '00:53:39.000'
   lines:
-  - !!python/str "Tocmai l-am \xEEmpachetat pe ultimul."
+  - "Tocmai l-am \xEEmpachetat pe ultimul."
   start: !human_time '00:53:37.160'
 - end: !human_time '00:53:40.840'
   lines:
-  - !!python/str "Cum l-a\u0163i \xEEmpachetat?"
+  - "Cum l-a\u0163i \xEEmpachetat?"
   start: !human_time '00:53:39.001'
 - end: !human_time '00:53:43.880'
   lines:
-  - !!python/str "\xCEntr-un ambalaj alb-ro\u015Fu"
-  - !!python/str "cu fund\u0103 verde de tipul \u015Fapte."
+  - "\xCEntr-un ambalaj alb-ro\u015Fu"
+  - "cu fund\u0103 verde de tipul \u015Fapte."
   start: !human_time '00:53:40.880'
 - end: !human_time '00:53:45.860'
   lines:
-  - !!python/str "Fund\u0103 verde de tipul \u015Fapte?"
+  - "Fund\u0103 verde de tipul \u015Fapte?"
   start: !human_time '00:53:44.560'
 - end: !human_time '00:53:47.900'
   lines:
-  - !!python/str "C\xE2nd mai avem at\xE2t de"
-  - !!python/str "pu\u0163in p\xE2n\u0103 la momentul zero."
+  - "C\xE2nd mai avem at\xE2t de"
+  - "pu\u0163in p\xE2n\u0103 la momentul zero."
   start: !human_time '00:53:45.861'
 - end: !human_time '00:53:49.160'
   lines:
@@ -2003,11 +2000,11 @@ units:
   start: !human_time '00:53:47.901'
 - end: !human_time '00:53:50.761'
   lines:
-  - !!python/str "Sunt incon\u015Ftien\u0163i?!"
+  - "Sunt incon\u015Ftien\u0163i?!"
   start: !human_time '00:53:49.461'
 - end: !human_time '00:53:53.420'
   lines:
-  - !!python/str "Care-i destina\u0163ia?"
+  - "Care-i destina\u0163ia?"
   start: !human_time '00:53:51.400'
 - end: !human_time '00:53:55.440'
   lines:
@@ -2015,7 +2012,7 @@ units:
   start: !human_time '00:53:53.421'
 - end: !human_time '00:53:57.800'
   lines:
-  - !!python/str "\u0102la-i ora\u015Ful meu."
+  - "\u0102la-i ora\u015Ful meu."
   start: !human_time '00:53:55.800'
 - end: !human_time '00:54:00.640'
   lines:
@@ -2023,16 +2020,16 @@ units:
   start: !human_time '00:53:57.840'
 - end: !human_time '00:54:04.320'
   lines:
-  - !!python/str "<i>Neast\xE2mp\u0103ra\u0163i</i>"
+  - "<i>Neast\xE2mp\u0103ra\u0163i</i>"
   start: !human_time '00:54:02.400'
 - end: !human_time '00:54:07.400'
   lines:
-  - !!python/str "Avem un neast\xE2mp\u0103rat."
+  - "Avem un neast\xE2mp\u0103rat."
   - Exact ce aveam nevoie.
   start: !human_time '00:54:04.400'
 - end: !human_time '00:54:08.700'
   lines:
-  - !!python/str "De parc\u0103 n-aveam destule pe cap."
+  - "De parc\u0103 n-aveam destule pe cap."
   start: !human_time '00:54:07.440'
 - end: !human_time '00:54:10.080'
   lines:
@@ -2040,12 +2037,12 @@ units:
   start: !human_time '00:54:08.705'
 - end: !human_time '00:54:13.120'
   lines:
-  - !!python/str "Se pare c\u0103 un copil din"
+  - "Se pare c\u0103 un copil din"
   - Maplewood, New Jersey
   start: !human_time '00:54:10.120'
 - end: !human_time '00:54:16.280'
   lines:
-  - !!python/str "i-a pus ni\u015Fte gum\u0103 \xEEn cap surorii sale."
+  - "i-a pus ni\u015Fte gum\u0103 \xEEn cap surorii sale."
   start: !human_time '00:54:13.280'
 - end: !human_time '00:54:18.270'
   lines:
@@ -2053,7 +2050,7 @@ units:
   start: !human_time '00:54:16.680'
 - end: !human_time '00:54:21.271'
   lines:
-  - !!python/str "E cumva acela\u015Fi copil care a f\u0103cut glume"
+  - "E cumva acela\u015Fi copil care a f\u0103cut glume"
   - pe seama profesoarei sale anul trecut?
   start: !human_time '00:54:18.271'
 - end: !human_time '00:54:24.480'
@@ -2067,68 +2064,68 @@ units:
   start: !human_time '00:54:25.440'
 - end: !human_time '00:54:29.140'
   lines:
-  - !!python/str "Vorbim cu \u015Feful cel mare?"
+  - "Vorbim cu \u015Feful cel mare?"
   start: !human_time '00:54:26.840'
 - end: !human_time '00:54:31.440'
   lines:
-  - !!python/str "Nu-i mai d\u0103m nimic copilului"
-  - !!python/str "de Cr\u0103ciun?"
+  - "Nu-i mai d\u0103m nimic copilului"
+  - "de Cr\u0103ciun?"
   start: !human_time '00:54:29.141'
 - end: !human_time '00:54:43.000'
   lines:
-  - !!python/str "<i>N-am f\u0103cut-o eu.</i>"
+  - "<i>N-am f\u0103cut-o eu.</i>"
   start: !human_time '00:54:40.000'
 - end: !human_time '00:54:48.800'
   lines:
-  - !!python/str "Aproape c-a venit Cr\u0103ciunul."
+  - "Aproape c-a venit Cr\u0103ciunul."
   start: !human_time '00:54:46.120'
 - end: !human_time '00:54:50.800'
   lines:
-  - !!python/str "\xCEl iert\u0103m de data asta pe pu\u015Fti."
+  - "\xCEl iert\u0103m de data asta pe pu\u015Fti."
   start: !human_time '00:54:48.840'
 - end: !human_time '00:54:53.240'
   lines:
-  - !!python/str "\xCEns\u0103 la anul \xEEl verific\u0103m de"
-  - !!python/str "dou\u0103 ori."
+  - "\xCEns\u0103 la anul \xEEl verific\u0103m de"
+  - "dou\u0103 ori."
   start: !human_time '00:54:50.840'
 - end: !human_time '00:54:55.280'
   lines:
-  - !!python/str "Bine, b\u0103ie\u0163i."
+  - "Bine, b\u0103ie\u0163i."
   start: !human_time '00:54:53.280'
 - end: !human_time '00:54:58.600'
   lines:
-  - !!python/str "Hai s\u0103 \xEEnchidem aici."
-  - !!python/str "Am terminat treaba pe anul \u0103sta."
+  - "Hai s\u0103 \xEEnchidem aici."
+  - "Am terminat treaba pe anul \u0103sta."
   start: !human_time '00:54:55.600'
 - end: !human_time '00:55:01.720'
   lines:
-  - !!python/str "- \u015Eefule, lu\u0103m expresul?"
-  - !!python/str "- Bine\xEEn\u0163eles c\u0103-l lu\u0103m."
+  - "- \u015Eefule, lu\u0103m expresul?"
+  - "- Bine\xEEn\u0163eles c\u0103-l lu\u0103m."
   start: !human_time '00:54:58.720'
 - end: !human_time '00:55:06.240'
   lines:
   - E singura modalitate prin care
-  - !!python/str "putem ajunge \xEEn pia\u0163\u0103 la timp."
+  - "putem ajunge \xEEn pia\u0163\u0103 la timp."
   start: !human_time '00:55:03.240'
 - end: !human_time '00:55:09.560'
   lines:
-  - !!python/str "Iar timpul \xEEnseamn\u0103 bani."
+  - "Iar timpul \xEEnseamn\u0103 bani."
   start: !human_time '00:55:07.160'
 - end: !human_time '00:55:11.960'
   lines:
-  - !!python/str "Pe locuri... urca\u0163i!"
+  - "Pe locuri... urca\u0163i!"
   start: !human_time '00:55:09.760'
 - end: !human_time '00:55:17.440'
   lines:
-  - !!python/str "\xCEnchide."
+  - "\xCEnchide."
   start: !human_time '00:55:15.560'
 - end: !human_time '00:55:32.960'
   lines:
-  - !!python/str "Hai s\u0103 urc\u0103m."
+  - "Hai s\u0103 urc\u0103m."
   start: !human_time '00:55:30.880'
 - end: !human_time '00:55:36.560'
   lines:
-  - !!python/str "Nu \u015Ftiu dac\u0103 e o idee prea bun\u0103."
+  - "Nu \u015Ftiu dac\u0103 e o idee prea bun\u0103."
   start: !human_time '00:55:34.040'
 - end: !human_time '00:56:12.320'
   lines:
@@ -2141,12 +2138,12 @@ units:
   start: !human_time '00:56:13.960'
 - end: !human_time '00:56:19.760'
   lines:
-  - !!python/str "Cred c\u0103 ar trebui s\u0103 urm\u0103m"
+  - "Cred c\u0103 ar trebui s\u0103 urm\u0103m"
   - indicatoarele alea.
   start: !human_time '00:56:16.760'
 - end: !human_time '00:56:35.600'
   lines:
-  - !!python/str "Credeam c-o s\u0103 g\u0103sim o ie\u015Fire."
+  - "Credeam c-o s\u0103 g\u0103sim o ie\u015Fire."
   start: !human_time '00:56:33.080'
 - end: !human_time '00:56:37.840'
   lines:
@@ -2154,7 +2151,7 @@ units:
   start: !human_time '00:56:35.640'
 - end: !human_time '00:56:49.080'
   lines:
-  - !!python/str "Uita\u0163i."
+  - "Uita\u0163i."
   start: !human_time '00:56:47.320'
 - end: !human_time '00:56:51.960'
   lines:
@@ -2162,7 +2159,7 @@ units:
   start: !human_time '00:56:50.040'
 - end: !human_time '00:56:58.840'
   lines:
-  - !!python/str "Se duce \xEEn ora\u015Ful meu."
+  - "Se duce \xEEn ora\u015Ful meu."
   - La cineva pe nume Billy.
   start: !human_time '00:56:55.840'
 - end: !human_time '00:57:00.680'
@@ -2183,11 +2180,11 @@ units:
   start: !human_time '00:57:13.760'
 - end: !human_time '00:58:13.040'
   lines:
-  - !!python/str "Uita\u0163i."
+  - "Uita\u0163i."
   start: !human_time '00:58:11.280'
 - end: !human_time '00:58:17.920'
   lines:
-  - !!python/str "Scrie, \"Cr\u0103ciun Fericit, Billy\"."
+  - "Scrie, \"Cr\u0103ciun Fericit, Billy\"."
   start: !human_time '00:58:15.200'
 - end: !human_time '00:58:20.080'
   lines:
@@ -2195,15 +2192,15 @@ units:
   start: !human_time '00:58:17.960'
 - end: !human_time '00:58:22.000'
   lines:
-  - !!python/str "Cred c\u0103 \u015Ftiu ce e."
+  - "Cred c\u0103 \u015Ftiu ce e."
   start: !human_time '00:58:20.200'
 - end: !human_time '00:58:24.600'
   lines:
-  - !!python/str "Toat\u0103 via\u0163a mi-am dorit a\u015Fa ceva."
+  - "Toat\u0103 via\u0163a mi-am dorit a\u015Fa ceva."
   start: !human_time '00:58:22.040'
 - end: !human_time '00:58:26.800'
   lines:
-  - !!python/str "A\u015Fteapt\u0103."
+  - "A\u015Fteapt\u0103."
   start: !human_time '00:58:25.200'
 - end: !human_time '00:58:28.120'
   lines:
@@ -2211,8 +2208,8 @@ units:
   start: !human_time '00:58:26.840'
 - end: !human_time '00:58:29.121'
   lines:
-  - !!python/str "<i>A nu se deschide \xEEnainte de"
-  - !!python/str "Cr\u0103ciun.</i>"
+  - "<i>A nu se deschide \xEEnainte de"
+  - "Cr\u0103ciun.</i>"
   start: !human_time '00:58:28.121'
 - end: !human_time '00:58:30.900'
   lines:
@@ -2224,15 +2221,15 @@ units:
   start: !human_time '00:58:30.901'
 - end: !human_time '01:00:32.200'
   lines:
-  - !!python/str "Ceva m\u0103 \u0163ine de picioare!"
+  - "Ceva m\u0103 \u0163ine de picioare!"
   start: !human_time '01:00:29.200'
 - end: !human_time '01:00:34.680'
   lines:
-  - !!python/str "Nu pot s\u0103-l mai \u0163in."
+  - "Nu pot s\u0103-l mai \u0163in."
   start: !human_time '01:00:32.720'
 - end: !human_time '01:00:37.640'
   lines:
-  - !!python/str "D\u0103-mi cealalt\u0103 m\xE2n\u0103!"
+  - "D\u0103-mi cealalt\u0103 m\xE2n\u0103!"
   start: !human_time '01:00:34.720'
 - end: !human_time '01:00:39.120'
   lines:
@@ -2249,11 +2246,11 @@ units:
 - end: !human_time '01:00:46.520'
   lines:
   - '- Uite!'
-  - !!python/str "- Tot m\u0103 mai \u0163ine!"
+  - "- Tot m\u0103 mai \u0163ine!"
   start: !human_time '01:00:44.240'
 - end: !human_time '01:00:48.800'
   lines:
-  - !!python/str "\xCEnc\u0103 o dat\u0103 la trei, 1, 2, 3!"
+  - "\xCEnc\u0103 o dat\u0103 la trei, 1, 2, 3!"
   start: !human_time '01:00:46.560'
 - end: !human_time '01:00:53.920'
   lines:
@@ -2262,46 +2259,46 @@ units:
   start: !human_time '01:00:52.520'
 - end: !human_time '01:00:55.320'
   lines:
-  - !!python/str "Ce cau\u0163i aici?"
+  - "Ce cau\u0163i aici?"
   start: !human_time '01:00:54.000'
 - end: !human_time '01:00:57.640'
   lines:
-  - !!python/str "La fel ca \u015Fi voi,"
-  - !!python/str "\xEEmi c\u0103utam cadoul de Cr\u0103ciun."
+  - "La fel ca \u015Fi voi,"
+  - "\xEEmi c\u0103utam cadoul de Cr\u0103ciun."
   start: !human_time '01:00:55.360'
 - end: !human_time '01:00:59.840'
   lines:
-  - !!python/str "Vreau s\u0103 m\u0103 asigur c\u0103 voi primi"
-  - !!python/str "tot ce-am scris pe list\u0103."
+  - "Vreau s\u0103 m\u0103 asigur c\u0103 voi primi"
+  - "tot ce-am scris pe list\u0103."
   start: !human_time '01:00:57.680'
 - end: !human_time '01:01:02.880'
   lines:
-  - !!python/str "N-am g\u0103sit dec\xE2t ni\u015Fte chilo\u0163i!"
+  - "N-am g\u0103sit dec\xE2t ni\u015Fte chilo\u0163i!"
   start: !human_time '01:00:59.880'
 - end: !human_time '01:01:04.800'
   lines:
-  - !!python/str "Uita\u0163i."
+  - "Uita\u0163i."
   start: !human_time '01:01:03.240'
 - end: !human_time '01:01:15.320'
   lines:
-  - !!python/str "<i>Pute\u0163i \xEEncepe s\u0103 cobor\xE2\u0163i.</i>"
+  - "<i>Pute\u0163i \xEEncepe s\u0103 cobor\xE2\u0163i.</i>"
   start: !human_time '01:01:12.880'
 - end: !human_time '01:01:17.800'
   lines:
-  - !!python/str "<i>C\xE2nd dori\u0163i, desigur.</i>"
+  - "<i>C\xE2nd dori\u0163i, desigur.</i>"
   start: !human_time '01:01:15.400'
 - end: !human_time '01:01:30.800'
   lines:
-  - !!python/str "Au mai r\u0103mas tot 5 minute."
+  - "Au mai r\u0103mas tot 5 minute."
   start: !human_time '01:01:29.000'
 - end: !human_time '01:01:31.840'
   lines:
-  - !!python/str "Cred c\u0103 vom reu\u015Fi."
+  - "Cred c\u0103 vom reu\u015Fi."
   start: !human_time '01:01:30.840'
 - end: !human_time '01:01:34.640'
   lines:
-  - !!python/str "Bine\xEEn\u0163eles c\u0103 vom ajunge, mai"
-  - !!python/str "sunt 5 minute de mai bine de o or\u0103."
+  - "Bine\xEEn\u0163eles c\u0103 vom ajunge, mai"
+  - "sunt 5 minute de mai bine de o or\u0103."
   start: !human_time '01:01:31.880'
 - end: !human_time '01:01:37.400'
   lines:
@@ -2309,19 +2306,19 @@ units:
   start: !human_time '01:01:34.680'
 - end: !human_time '01:01:38.660'
   lines:
-  - !!python/str "Putem s\u0103 irosim tot timpul din lume."
+  - "Putem s\u0103 irosim tot timpul din lume."
   start: !human_time '01:01:37.440'
 - end: !human_time '01:01:39.880'
   lines:
-  - !!python/str "\u015Etii ceva?"
+  - "\u015Etii ceva?"
   start: !human_time '01:01:38.661'
 - end: !human_time '01:01:42.320'
   lines:
-  - !!python/str "Nu cred c\u0103 vom reu\u015Fi."
+  - "Nu cred c\u0103 vom reu\u015Fi."
   start: !human_time '01:01:39.920'
 - end: !human_time '01:01:47.640'
   lines:
-  - !!python/str "S-ar putea s\u0103 fiu un mecanic b\u0103tr\xE2n,"
+  - "S-ar putea s\u0103 fiu un mecanic b\u0103tr\xE2n,"
   start: !human_time '01:01:44.640'
 - end: !human_time '01:01:50.640'
   lines:
@@ -2329,19 +2326,19 @@ units:
   start: !human_time '01:01:47.680'
 - end: !human_time '01:01:52.680'
   lines:
-  - !!python/str "\xEEns\u0103, din umilul meu punct de vedere,"
+  - "\xEEns\u0103, din umilul meu punct de vedere,"
   start: !human_time '01:01:50.680'
 - end: !human_time '01:01:55.720'
   lines:
-  - !!python/str "ave\u0163i nevoie de mai mult\u0103 altitudine."
+  - "ave\u0163i nevoie de mai mult\u0103 altitudine."
   start: !human_time '01:01:52.720'
 - end: !human_time '01:01:58.191'
   lines:
-  - !!python/str "M\u0103ri\u0163i altitudinea!"
+  - "M\u0103ri\u0163i altitudinea!"
   start: !human_time '01:01:56.200'
 - end: !human_time '01:02:01.680'
   lines:
-  - !!python/str "<i>M\u0103ri\u0163i altitudinea, v\u0103 rug\u0103m.</i>"
+  - "<i>M\u0103ri\u0163i altitudinea, v\u0103 rug\u0103m.</i>"
   start: !human_time '01:01:59.160'
 - end: !human_time '01:02:04.880'
   lines:
@@ -2349,23 +2346,23 @@ units:
   start: !human_time '01:02:03.120'
 - end: !human_time '01:02:22.520'
   lines:
-  - !!python/str "Elfii zbur\u0103tori sunt ni\u015Fte speciali\u015Fti."
+  - "Elfii zbur\u0103tori sunt ni\u015Fte speciali\u015Fti."
   start: !human_time '01:02:19.800'
 - end: !human_time '01:02:25.560'
   lines:
-  - !!python/str "S\u0103 nu \xEEncerca\u0163i asta acas\u0103, copii."
+  - "S\u0103 nu \xEEncerca\u0163i asta acas\u0103, copii."
   start: !human_time '01:02:22.560'
 - end: !human_time '01:02:28.600'
   lines:
-  - !!python/str "N-o s\u0103 reu\u015Fim."
+  - "N-o s\u0103 reu\u015Fim."
   start: !human_time '01:02:26.600'
 - end: !human_time '01:03:08.160'
   lines:
-  - !!python/str "O ma\u015Fin\u0103rie perfect pus\u0103 la punct."
+  - "O ma\u015Fin\u0103rie perfect pus\u0103 la punct."
   start: !human_time '01:03:05.680'
 - end: !human_time '01:03:19.600'
   lines:
-  - !!python/str "Haide\u0163i, blati\u015Ftilor."
+  - "Haide\u0163i, blati\u015Ftilor."
   start: !human_time '01:03:17.600'
 - end: !human_time '01:03:21.440'
   lines:
@@ -2377,17 +2374,17 @@ units:
   start: !human_time '01:03:21.441'
 - end: !human_time '01:03:24.800'
   lines:
-  - !!python/str "Am c\u0103zut aici din gre\u015Feal\u0103."
+  - "Am c\u0103zut aici din gre\u015Feal\u0103."
   start: !human_time '01:03:23.280'
 - end: !human_time '01:03:27.840'
   lines:
-  - !!python/str "L\u0103sa\u0163i-o balt\u0103, am \u015Ftiut"
-  - !!python/str "c\u0103 sunte\u0163i aici tot timpul."
+  - "L\u0103sa\u0163i-o balt\u0103, am \u015Ftiut"
+  - "c\u0103 sunte\u0163i aici tot timpul."
   start: !human_time '01:03:24.840'
 - end: !human_time '01:03:33.320'
   lines:
-  - !!python/str "- Haide\u0163i, s\u0103 mergem."
-  - !!python/str "- Hai, ie\u015Fi\u0163i."
+  - "- Haide\u0163i, s\u0103 mergem."
+  - "- Hai, ie\u015Fi\u0163i."
   start: !human_time '01:03:30.760'
 - end: !human_time '01:03:35.160'
   lines:
@@ -2395,39 +2392,39 @@ units:
   start: !human_time '01:03:33.480'
 - end: !human_time '01:03:38.520'
   lines:
-  - !!python/str "Nici-o problem\u0103, haide,"
-  - !!python/str "ai grij\u0103 pe unde calci."
+  - "Nici-o problem\u0103, haide,"
+  - "ai grij\u0103 pe unde calci."
   start: !human_time '01:03:35.520'
 - end: !human_time '01:03:47.160'
   lines:
-  - !!python/str "Ca s\u0103 nu se r\u0103neasc\u0103 nimeni,"
-  - !!python/str "uite cum o s\u0103 v\u0103 cobor\xE2m."
+  - "Ca s\u0103 nu se r\u0103neasc\u0103 nimeni,"
+  - "uite cum o s\u0103 v\u0103 cobor\xE2m."
   start: !human_time '01:03:44.160'
 - end: !human_time '01:03:49.560'
   lines:
   - E simplu.
-  - !!python/str "\u015Etiu..."
+  - "\u015Etiu..."
   start: !human_time '01:03:47.880'
 - end: !human_time '01:03:51.240'
   lines:
-  - !!python/str "Ce \u015Ftii?"
+  - "Ce \u015Ftii?"
   start: !human_time '01:03:49.561'
 - end: !human_time '01:03:54.240'
   lines:
-  - !!python/str "Nici m\u0103car n-aveai ce s\u0103 cau\u0163i aici."
+  - "Nici m\u0103car n-aveai ce s\u0103 cau\u0163i aici."
   start: !human_time '01:03:51.280'
 - end: !human_time '01:03:57.720'
   lines:
-  - !!python/str "Dar fiindc\u0103 tot e Cr\u0103ciunul,"
-  - !!python/str "te voi l\u0103sa s\u0103 te dai pe tobogan."
+  - "Dar fiindc\u0103 tot e Cr\u0103ciunul,"
+  - "te voi l\u0103sa s\u0103 te dai pe tobogan."
   start: !human_time '01:03:54.720'
 - end: !human_time '01:04:04.520'
   lines:
-  - !!python/str "Te-am tot c\u0103utat."
+  - "Te-am tot c\u0103utat."
   start: !human_time '01:04:02.520'
 - end: !human_time '01:04:09.359'
   lines:
-  - !!python/str "Haide, ai grij\u0103 unde calci."
+  - "Haide, ai grij\u0103 unde calci."
   start: !human_time '01:04:07.009'
 - end: !human_time '01:04:13.960'
   lines:
@@ -2435,28 +2432,28 @@ units:
   start: !human_time '01:04:12.560'
 - end: !human_time '01:04:16.520'
   lines:
-  - !!python/str "M\u0103 bucur s\u0103 te rev\u0103d."
+  - "M\u0103 bucur s\u0103 te rev\u0103d."
   start: !human_time '01:04:14.000'
 - end: !human_time '01:04:20.480'
   lines:
-  - !!python/str "Ne \u0163inem de n\u0103zb\xE2tii, nu-i a\u015Fa?"
+  - "Ne \u0163inem de n\u0103zb\xE2tii, nu-i a\u015Fa?"
   start: !human_time '01:04:18.120'
 - end: !human_time '01:04:23.720'
   lines:
-  - !!python/str "M\u0103 ocup eu de \u0103sta."
+  - "M\u0103 ocup eu de \u0103sta."
   start: !human_time '01:04:21.000'
 - end: !human_time '01:04:26.240'
   lines:
-  - !!python/str "Va fi pe m\xE2ini bune."
+  - "Va fi pe m\xE2ini bune."
   start: !human_time '01:04:23.920'
 - end: !human_time '01:04:29.120'
   lines:
-  - !!python/str "Ai \xEEncredere \xEEn mine."
+  - "Ai \xEEncredere \xEEn mine."
   start: !human_time '01:04:26.560'
 - end: !human_time '01:05:59.840'
   lines:
   - Nu e minunat acel sunet
-  - !!python/str "al clopo\u0163eilor?"
+  - "al clopo\u0163eilor?"
   start: !human_time '01:05:57.080'
 - end: !human_time '01:07:14.440'
   lines:
@@ -2468,19 +2465,19 @@ units:
   start: !human_time '01:07:14.441'
 - end: !human_time '01:07:18.320'
   lines:
-  - !!python/str "\xCEl v\u0103d, e acolo!"
+  - "\xCEl v\u0103d, e acolo!"
   start: !human_time '01:07:15.880'
 - end: !human_time '01:07:20.400'
   lines:
-  - !!python/str "Nu-l v\u0103d!"
+  - "Nu-l v\u0103d!"
   start: !human_time '01:07:18.520'
 - end: !human_time '01:07:42.440'
   lines:
-  - !!python/str "Nu-l v\u0103d!"
+  - "Nu-l v\u0103d!"
   start: !human_time '01:07:39.440'
 - end: !human_time '01:08:45.539'
   lines:
-  - !!python/str "<i>Ne\xEEncrez\u0103tor...</i>"
+  - "<i>Ne\xEEncrez\u0103tor...</i>"
   start: !human_time '01:08:44.000'
 - end: !human_time '01:08:52.600'
   lines:
@@ -2512,27 +2509,27 @@ units:
   start: !human_time '01:09:44.240'
 - end: !human_time '01:09:49.760'
   lines:
-  - !!python/str "Cred c\u0103..."
+  - "Cred c\u0103..."
   start: !human_time '01:09:48.000'
 - end: !human_time '01:09:52.760'
   lines:
-  - !!python/str "...\u0103sta e al dvs."
+  - "...\u0103sta e al dvs."
   start: !human_time '01:09:50.800'
 - end: !human_time '01:09:58.000'
   lines:
-  - !!python/str "Mul\u0163umesc."
+  - "Mul\u0163umesc."
   start: !human_time '01:09:57.000'
 - end: !human_time '01:10:00.360'
   lines:
-  - !!python/str "Alege-m\u0103 pe mine, Mo\u015Fule."
+  - "Alege-m\u0103 pe mine, Mo\u015Fule."
   start: !human_time '01:09:58.840'
 - end: !human_time '01:10:01.880'
   lines:
-  - !!python/str "Termin\u0103!"
+  - "Termin\u0103!"
   start: !human_time '01:10:00.361'
 - end: !human_time '01:10:04.320'
   lines:
-  - !!python/str "Alege-m\u0103 pe mine."
+  - "Alege-m\u0103 pe mine."
   - Vreau primul cadou.
   start: !human_time '01:10:01.920'
 - end: !human_time '01:10:05.660'
@@ -2545,11 +2542,11 @@ units:
   start: !human_time '01:10:05.661'
 - end: !human_time '01:10:08.920'
   lines:
-  - !!python/str "Ai r\u0103bdare."
+  - "Ai r\u0103bdare."
   start: !human_time '01:10:07.000'
 - end: !human_time '01:10:11.921'
   lines:
-  - !!python/str "Nu \u0163i-ar strica \u015Fi pu\u0163in\u0103 modestie."
+  - "Nu \u0163i-ar strica \u015Fi pu\u0163in\u0103 modestie."
   start: !human_time '01:10:08.921'
 - end: !human_time '01:10:15.760'
   lines:
@@ -2557,24 +2554,24 @@ units:
   start: !human_time '01:10:13.720'
 - end: !human_time '01:10:18.520'
   lines:
-  - !!python/str "Iar tu, t\xE2n\u0103r\u0103 domni\u015Foar\u0103,"
+  - "Iar tu, t\xE2n\u0103r\u0103 domni\u015Foar\u0103,"
   start: !human_time '01:10:16.160'
 - end: !human_time '01:10:21.560'
   lines:
   - cea care ia decizii,
-  - !!python/str "plin\u0103 de \xEEncredere \u015Fi cu spirit."
+  - "plin\u0103 de \xEEncredere \u015Fi cu spirit."
   start: !human_time '01:10:18.560'
 - end: !human_time '01:10:27.320'
   lines:
-  - !!python/str "Spiritul Cr\u0103ciunului."
+  - "Spiritul Cr\u0103ciunului."
   start: !human_time '01:10:24.760'
 - end: !human_time '01:10:31.920'
   lines:
-  - !!python/str "\u0162ine-te de treab\u0103 \u015Fi \xEEn continuare."
+  - "\u0162ine-te de treab\u0103 \u015Fi \xEEn continuare."
   start: !human_time '01:10:29.480'
 - end: !human_time '01:10:33.840'
   lines:
-  - !!python/str "Mul\u0163umesc."
+  - "Mul\u0163umesc."
   start: !human_time '01:10:31.960'
 - end: !human_time '01:10:36.760'
   lines:
@@ -2582,11 +2579,11 @@ units:
   start: !human_time '01:10:34.960'
 - end: !human_time '01:10:39.800'
   lines:
-  - !!python/str "Billy te cheam\u0103, nu?"
+  - "Billy te cheam\u0103, nu?"
   start: !human_time '01:10:37.880'
 - end: !human_time '01:10:44.280'
   lines:
-  - !!python/str "V\u0103d c\u0103 \u0163i-ai f\u0103cut ni\u015Fte prieteni noi?"
+  - "V\u0103d c\u0103 \u0163i-ai f\u0103cut ni\u015Fte prieteni noi?"
   start: !human_time '01:10:41.280'
 - end: !human_time '01:10:47.960'
   lines:
@@ -2594,24 +2591,24 @@ units:
   start: !human_time '01:10:46.440'
 - end: !human_time '01:10:49.480'
   lines:
-  - !!python/str "Norocos b\u0103iat."
+  - "Norocos b\u0103iat."
   start: !human_time '01:10:47.961'
 - end: !human_time '01:10:53.280'
   lines:
-  - !!python/str "Nu exist\u0103 dar mai de pre\u0163"
+  - "Nu exist\u0103 dar mai de pre\u0163"
   - ca prietenia.
   start: !human_time '01:10:50.280'
 - end: !human_time '01:10:57.520'
   lines:
-  - !!python/str "\u015Ei c\u0103 tot veni vorba de cadouri..."
+  - "\u015Ei c\u0103 tot veni vorba de cadouri..."
   start: !human_time '01:10:54.920'
 - end: !human_time '01:11:05.560'
   lines:
-  - !!python/str "...s\u0103 \xEEncepem cu t\xE2n\u0103rul de aici."
+  - "...s\u0103 \xEEncepem cu t\xE2n\u0103rul de aici."
   start: !human_time '01:11:02.560'
 - end: !human_time '01:11:44.000'
   lines:
-  - !!python/str "Ce ai vrea de Cr\u0103ciun?"
+  - "Ce ai vrea de Cr\u0103ciun?"
   start: !human_time '01:11:41.000'
 - end: !human_time '01:11:46.480'
   lines:
@@ -2623,20 +2620,20 @@ units:
   start: !human_time '01:11:46.481'
 - end: !human_time '01:12:10.600'
   lines:
-  - !!python/str "Da... \xEEntr-adev\u0103r."
+  - "Da... \xEEntr-adev\u0103r."
   start: !human_time '01:12:08.320'
 - end: !human_time '01:12:19.920'
   lines:
-  - !!python/str "Primul dar al Cr\u0103ciunului!"
+  - "Primul dar al Cr\u0103ciunului!"
   start: !human_time '01:12:17.320'
 - end: !human_time '01:12:38.000'
   lines:
-  - !!python/str "Acest clopo\u0163el e un minunat simbol"
-  - !!python/str "al spiritului Cr\u0103ciunului..."
+  - "Acest clopo\u0163el e un minunat simbol"
+  - "al spiritului Cr\u0103ciunului..."
   start: !human_time '01:12:35.000'
 - end: !human_time '01:12:40.721'
   lines:
-  - !!python/str "...ca \u015Fi mine."
+  - "...ca \u015Fi mine."
   start: !human_time '01:12:39.721'
 - end: !human_time '01:12:44.400'
   lines:
@@ -2644,42 +2641,42 @@ units:
   start: !human_time '01:12:42.920'
 - end: !human_time '01:12:47.440'
   lines:
-  - !!python/str "...adev\u0103ratul spirit al Cr\u0103ciunului"
-  - !!python/str "se afl\u0103 \xEEn inima ta."
+  - "...adev\u0103ratul spirit al Cr\u0103ciunului"
+  - "se afl\u0103 \xEEn inima ta."
   start: !human_time '01:12:44.440'
 - end: !human_time '01:13:02.840'
   lines:
-  - !!python/str "Cr\u0103ciun Fericit."
+  - "Cr\u0103ciun Fericit."
   start: !human_time '01:13:00.560'
 - end: !human_time '01:13:07.040'
   lines:
-  - !!python/str "Mai bine l-ai \u0163ine \xEEntr-un loc sigur."
+  - "Mai bine l-ai \u0163ine \xEEntr-un loc sigur."
   start: !human_time '01:13:04.240'
 - end: !human_time '01:13:29.880'
   lines:
-  - !!python/str "E\u015Fti cel mai norocos!"
+  - "E\u015Fti cel mai norocos!"
   start: !human_time '01:13:27.240'
 - end: !human_time '01:13:53.319'
   lines:
   - Trage, Comet.
-  - !!python/str "Haide, b\u0103iete."
+  - "Haide, b\u0103iete."
   start: !human_time '01:13:51.500'
 - end: !human_time '01:13:58.620'
   lines:
-  - !!python/str "Prancer, a\u015Fa te vreau, fata mea."
+  - "Prancer, a\u015Fa te vreau, fata mea."
   start: !human_time '01:13:57.000'
 - end: !human_time '01:14:05.519'
   lines:
-  - !!python/str "Bun b\u0103iat, Donder."
+  - "Bun b\u0103iat, Donder."
   start: !human_time '01:14:04.009'
 - end: !human_time '01:14:39.320'
   lines:
   - Acum, Dasher.
-  - !!python/str "Acum, Prancer \u015Fi Vixen."
+  - "Acum, Prancer \u015Fi Vixen."
   start: !human_time '01:14:36.320'
 - end: !human_time '01:14:50.919'
   lines:
-  - !!python/str "E exact a\u015Fa cum visam c-o s\u0103 fie."
+  - "E exact a\u015Fa cum visam c-o s\u0103 fie."
   start: !human_time '01:14:49.009'
 - end: !human_time '01:14:53.920'
   lines:
@@ -2687,7 +2684,7 @@ units:
   start: !human_time '01:14:52.220'
 - end: !human_time '01:14:57.400'
   lines:
-  - !!python/str "E posibil s\u0103 fi fost doar un vis?"
+  - "E posibil s\u0103 fi fost doar un vis?"
   start: !human_time '01:14:54.520'
 - end: !human_time '01:14:58.960'
   lines:
@@ -2695,19 +2692,19 @@ units:
   start: !human_time '01:14:57.440'
 - end: !human_time '01:15:51.000'
   lines:
-  - !!python/str "Toat\u0103 lumea la bord!"
+  - "Toat\u0103 lumea la bord!"
   start: !human_time '01:15:49.000'
 - end: !human_time '01:16:23.800'
   lines:
-  - !!python/str "S\u0103 ave\u0163i biletele preg\u0103tite."
+  - "S\u0103 ave\u0163i biletele preg\u0103tite."
   start: !human_time '01:16:20.800'
 - end: !human_time '01:16:39.160'
   lines:
-  - !!python/str "Biletele, v\u0103 rog."
+  - "Biletele, v\u0103 rog."
   start: !human_time '01:16:36.840'
 - end: !human_time '01:16:48.040'
   lines:
-  - !!python/str "\"Lean\", ce vrea s\u0103 \xEEnsemne asta?"
+  - "\"Lean\", ce vrea s\u0103 \xEEnsemne asta?"
   start: !human_time '01:16:46.000'
 - end: !human_time '01:16:50.640'
   lines:
@@ -2715,27 +2712,27 @@ units:
   start: !human_time '01:16:48.080'
 - end: !human_time '01:16:53.200'
   lines:
-  - !!python/str "eu am scris un cuv\xE2nt format din cinci."
+  - "eu am scris un cuv\xE2nt format din cinci."
   start: !human_time '01:16:50.641'
 - end: !human_time '01:16:54.799'
   lines:
-  - !!python/str "<i>Lean (\xCEnva\u0163\u0103).</i>"
+  - "<i>Lean (\xCEnva\u0163\u0103).</i>"
   start: !human_time '01:16:53.205'
 - end: !human_time '01:16:57.720'
   lines:
-  - !!python/str "Vrei s\u0103 spui c\u0103 nu \u015Ftiu s\u0103..."
+  - "Vrei s\u0103 spui c\u0103 nu \u015Ftiu s\u0103..."
   start: !human_time '01:16:54.800'
 - end: !human_time '01:16:59.480'
   lines:
-  - !!python/str "\xCEmi pare r\u0103u, scria \"\xEEnva\u0163\u0103\"."
+  - "\xCEmi pare r\u0103u, scria \"\xEEnva\u0163\u0103\"."
   start: !human_time '01:16:57.760'
 - end: !human_time '01:17:01.200'
   lines:
-  - !!python/str "Gre\u015Feala mea."
+  - "Gre\u015Feala mea."
   start: !human_time '01:16:59.481'
 - end: !human_time '01:17:03.400'
   lines:
-  - !!python/str "Lec\u0163ie \xEEnv\u0103\u0163at\u0103."
+  - "Lec\u0163ie \xEEnv\u0103\u0163at\u0103."
   start: !human_time '01:17:01.240'
 - end: !human_time '01:17:05.320'
   lines:
@@ -2743,15 +2740,15 @@ units:
   start: !human_time '01:17:03.440'
 - end: !human_time '01:17:14.150'
   lines:
-  - !!python/str "<i>Bazeaz\u0103-te.</i>"
+  - "<i>Bazeaz\u0103-te.</i>"
   start: !human_time '01:17:13.000'
 - end: !human_time '01:17:18.151'
   lines:
-  - !!python/str "<i>Ai \xEEncredere.</i>"
+  - "<i>Ai \xEEncredere.</i>"
   start: !human_time '01:17:17.000'
 - end: !human_time '01:17:20.152'
   lines:
-  - !!python/str "<i>Conteaz\u0103 pe.</i>"
+  - "<i>Conteaz\u0103 pe.</i>"
   start: !human_time '01:17:19.000'
 - end: !human_time '01:17:22.460'
   lines:
@@ -2759,12 +2756,12 @@ units:
   start: !human_time '01:17:20.920'
 - end: !human_time '01:17:24.000'
   lines:
-  - !!python/str "Cu siguran\u0163\u0103."
+  - "Cu siguran\u0163\u0103."
   start: !human_time '01:17:22.461'
 - end: !human_time '01:17:27.040'
   lines:
-  - !!python/str "Te po\u0163i baza pe noi s\u0103 te ducem"
-  - !!python/str "\xEEn siguran\u0163\u0103 acas\u0103?"
+  - "Te po\u0163i baza pe noi s\u0103 te ducem"
+  - "\xEEn siguran\u0163\u0103 acas\u0103?"
   start: !human_time '01:17:24.040'
 - end: !human_time '01:17:31.440'
   lines:
@@ -2772,11 +2769,11 @@ units:
   start: !human_time '01:17:29.520'
 - end: !human_time '01:17:33.420'
   lines:
-  - !!python/str "At\xE2t eu..."
+  - "At\xE2t eu..."
   start: !human_time '01:17:32.080'
 - end: !human_time '01:17:35.600'
   lines:
-  - !!python/str "...c\xE2t \u015Fi cu prietenii mei."
+  - "...c\xE2t \u015Fi cu prietenii mei."
   start: !human_time '01:17:34.600'
 - end: !human_time '01:17:41.200'
   lines:
@@ -2792,19 +2789,19 @@ units:
   start: !human_time '01:17:48.600'
 - end: !human_time '01:17:54.000'
   lines:
-  - !!python/str "Nu mai \xEEnseamn\u0103 \u015Fi \"condu\"?"
+  - "Nu mai \xEEnseamn\u0103 \u015Fi \"condu\"?"
   start: !human_time '01:17:51.520'
 - end: !human_time '01:17:57.200'
   lines:
-  - !!python/str "La fel ca la cuv\xE2ntul \"conduc\u0103tor\"?"
+  - "La fel ca la cuv\xE2ntul \"conduc\u0103tor\"?"
   start: !human_time '01:17:54.200'
 - end: !human_time '01:18:01.280'
   lines:
-  - !!python/str "V\u0103 urmez oriunde, doamn\u0103."
+  - "V\u0103 urmez oriunde, doamn\u0103."
   start: !human_time '01:17:58.520'
 - end: !human_time '01:18:06.240'
   lines:
-  - !!python/str "Da, t\xE2n\u0103rul cu o mie de nedumeriri."
+  - "Da, t\xE2n\u0103rul cu o mie de nedumeriri."
   start: !human_time '01:18:03.240'
 - end: !human_time '01:18:10.200'
   lines:
@@ -2817,19 +2814,19 @@ units:
 - end: !human_time '01:18:22.320'
   lines:
   - '- Scrie...'
-  - !!python/str "- Nu trebuie s\u0103-mi spui mie."
+  - "- Nu trebuie s\u0103-mi spui mie."
   start: !human_time '01:18:19.320'
 - end: !human_time '01:18:38.680'
   lines:
-  - !!python/str "Haide, arat\u0103-ne clopo\u0163elul."
+  - "Haide, arat\u0103-ne clopo\u0163elul."
   start: !human_time '01:18:35.840'
 - end: !human_time '01:18:40.980'
   lines:
-  - !!python/str "Da, vrem s\u0103 vedem clopo\u0163elul."
+  - "Da, vrem s\u0103 vedem clopo\u0163elul."
   start: !human_time '01:18:38.960'
 - end: !human_time '01:18:49.920'
   lines:
-  - !!python/str "A disp\u0103rut."
+  - "A disp\u0103rut."
   start: !human_time '01:18:47.880'
 - end: !human_time '01:18:52.573'
   lines:
@@ -2837,32 +2834,32 @@ units:
   start: !human_time '01:18:51.200'
 - end: !human_time '01:18:55.320'
   lines:
-  - !!python/str "Am pierdut clopo\u0163elul de"
-  - !!python/str "pe sania lui Mo\u015F Cr\u0103ciun."
+  - "Am pierdut clopo\u0163elul de"
+  - "pe sania lui Mo\u015F Cr\u0103ciun."
   start: !human_time '01:18:52.574'
 - end: !human_time '01:19:01.320'
   lines:
-  - !!python/str "Nu-\u0163i face griji."
+  - "Nu-\u0163i face griji."
   start: !human_time '01:18:59.240'
 - end: !human_time '01:19:03.320'
   lines:
-  - !!python/str "\xCEl vom g\u0103si."
+  - "\xCEl vom g\u0103si."
   start: !human_time '01:19:01.360'
 - end: !human_time '01:19:05.720'
   lines:
-  - !!python/str "Te vom ajuta cu to\u0163i."
+  - "Te vom ajuta cu to\u0163i."
   start: !human_time '01:19:03.360'
 - end: !human_time '01:19:07.780'
   lines:
-  - !!python/str "Hai s\u0103 mergem s\u0103-l g\u0103sim."
+  - "Hai s\u0103 mergem s\u0103-l g\u0103sim."
   start: !human_time '01:19:05.760'
 - end: !human_time '01:19:19.800'
   lines:
-  - !!python/str "E prea t\xE2rziu."
+  - "E prea t\xE2rziu."
   start: !human_time '01:19:17.600'
 - end: !human_time '01:19:22.960'
   lines:
-  - !!python/str "\xCEmi pare r\u0103u."
+  - "\xCEmi pare r\u0103u."
   start: !human_time '01:19:20.760'
 - end: !human_time '01:19:25.920'
   lines:
@@ -2870,7 +2867,7 @@ units:
   start: !human_time '01:19:24.080'
 - end: !human_time '01:19:41.440'
   lines:
-  - !!python/str "\xCEmi pare r\u0103u."
+  - "\xCEmi pare r\u0103u."
   start: !human_time '01:19:39.280'
 - end: !human_time '01:20:13.756'
   lines:
@@ -2878,7 +2875,7 @@ units:
   start: !human_time '01:20:10.960'
 - end: !human_time '01:20:16.757'
   lines:
-  - !!python/str "Urm\u0103toarea oprire 11344 Edbrooke."
+  - "Urm\u0103toarea oprire 11344 Edbrooke."
   start: !human_time '01:20:13.757'
 - end: !human_time '01:20:28.800'
   lines:
@@ -2886,7 +2883,7 @@ units:
   start: !human_time '01:20:26.640'
 - end: !human_time '01:20:30.760'
   lines:
-  - !!python/str "Acas\u0103."
+  - "Acas\u0103."
   start: !human_time '01:20:29.520'
 - end: !human_time '01:20:32.000'
   lines:
@@ -2894,24 +2891,24 @@ units:
   start: !human_time '01:20:30.761'
 - end: !human_time '01:20:35.120'
   lines:
-  - !!python/str "Cr\u0103ciun fericit."
+  - "Cr\u0103ciun fericit."
   start: !human_time '01:20:32.800'
 - end: !human_time '01:20:42.560'
   lines:
-  - !!python/str "\xCE\u0163i mul\u0163umesc c-ai oprit"
+  - "\xCE\u0163i mul\u0163umesc c-ai oprit"
   - trenul pentru mine.
   start: !human_time '01:20:39.560'
 - end: !human_time '01:20:50.440'
   lines:
-  - !!python/str "Cr\u0103ciun fericit."
+  - "Cr\u0103ciun fericit."
   start: !human_time '01:20:48.000'
 - end: !human_time '01:20:54.520'
   lines:
-  - !!python/str "Ai grij\u0103 unde p\u0103\u015Fe\u015Fti, te rog."
+  - "Ai grij\u0103 unde p\u0103\u015Fe\u015Fti, te rog."
   start: !human_time '01:20:51.520'
 - end: !human_time '01:20:57.760'
   lines:
-  - !!python/str "Cr\u0103ciun fericit."
+  - "Cr\u0103ciun fericit."
   start: !human_time '01:20:55.320'
 - end: !human_time '01:21:15.320'
   lines:
@@ -2919,12 +2916,12 @@ units:
   start: !human_time '01:21:13.600'
 - end: !human_time '01:21:20.480'
   lines:
-  - !!python/str "Mo\u015Ful a ajuns deja la Billy."
+  - "Mo\u015Ful a ajuns deja la Billy."
   start: !human_time '01:21:17.480'
 - end: !human_time '01:21:25.400'
   lines:
-  - !!python/str "Uita\u0163i!"
-  - !!python/str "Mo\u015Ful a fost aici!"
+  - "Uita\u0163i!"
+  - "Mo\u015Ful a fost aici!"
   start: !human_time '01:21:22.920'
 - end: !human_time '01:21:27.520'
   lines:
@@ -2940,7 +2937,7 @@ units:
   start: !human_time '01:21:35.960'
 - end: !human_time '01:22:24.480'
   lines:
-  - !!python/str "\xCEmi pare r\u0103u pentru clopo\u0163el."
+  - "\xCEmi pare r\u0103u pentru clopo\u0163el."
   start: !human_time '01:22:22.480'
 - end: !human_time '01:22:27.280'
   lines:
@@ -2948,11 +2945,11 @@ units:
   start: !human_time '01:22:25.280'
 - end: !human_time '01:22:29.680'
   lines:
-  - !!python/str "\u015Etii cum se spune,"
+  - "\u015Etii cum se spune,"
   start: !human_time '01:22:28.040'
 - end: !human_time '01:22:32.400'
   lines:
-  - !!python/str "gestul conteaz\u0103."
+  - "gestul conteaz\u0103."
   start: !human_time '01:22:29.720'
 - end: !human_time '01:22:34.000'
   lines:
@@ -2960,27 +2957,27 @@ units:
   start: !human_time '01:22:32.440'
 - end: !human_time '01:22:36.880'
   lines:
-  - !!python/str "Pe cur\xE2nd."
+  - "Pe cur\xE2nd."
   start: !human_time '01:22:34.800'
 - end: !human_time '01:22:41.880'
   lines:
-  - !!python/str "Pe cur\xE2nd."
+  - "Pe cur\xE2nd."
   start: !human_time '01:22:40.269'
 - end: !human_time '01:22:46.240'
   lines:
-  - !!python/str "Pe cur\xE2nd."
+  - "Pe cur\xE2nd."
   start: !human_time '01:22:44.160'
 - end: !human_time '01:23:01.920'
   lines:
-  - !!python/str "Ai grij\u0103 unde p\u0103\u015Fe\u015Fti, te rog."
+  - "Ai grij\u0103 unde p\u0103\u015Fe\u015Fti, te rog."
   start: !human_time '01:22:59.480'
 - end: !human_time '01:23:04.080'
   lines:
-  - !!python/str "Mul\u0163umesc."
+  - "Mul\u0163umesc."
   start: !human_time '01:23:02.640'
 - end: !human_time '01:23:05.520'
   lines:
-  - !!python/str "Nu, eu \xEE\u0163i mul\u0163umesc."
+  - "Nu, eu \xEE\u0163i mul\u0163umesc."
   start: !human_time '01:23:04.081'
 - end: !human_time '01:23:10.480'
   lines:
@@ -2988,12 +2985,12 @@ units:
   start: !human_time '01:23:08.560'
 - end: !human_time '01:23:12.200'
   lines:
-  - !!python/str "Nu conteaz\u0103 unde se duc."
+  - "Nu conteaz\u0103 unde se duc."
   start: !human_time '01:23:10.520'
 - end: !human_time '01:23:15.240'
   lines:
-  - !!python/str "Conteaz\u0103 s\u0103 te decizi"
-  - !!python/str "dac\u0103 vrei s\u0103 te urci \xEEn ele."
+  - "Conteaz\u0103 s\u0103 te decizi"
+  - "dac\u0103 vrei s\u0103 te urci \xEEn ele."
   start: !human_time '01:23:12.240'
 - end: !human_time '01:23:39.080'
   lines:
@@ -3001,27 +2998,27 @@ units:
   start: !human_time '01:23:37.440'
 - end: !human_time '01:23:42.800'
   lines:
-  - !!python/str "Cr\u0103ciun fericit!"
+  - "Cr\u0103ciun fericit!"
   start: !human_time '01:23:39.920'
 - end: !human_time '01:24:52.280'
   lines:
-  - !!python/str "Treze\u015Fte-te!"
+  - "Treze\u015Fte-te!"
   start: !human_time '01:24:50.160'
 - end: !human_time '01:24:54.400'
   lines:
-  - !!python/str "Mo\u015Ful a fost pe aici."
+  - "Mo\u015Ful a fost pe aici."
   start: !human_time '01:24:52.281'
 - end: !human_time '01:24:57.000'
   lines:
-  - !!python/str "Gr\u0103be\u015Fte-te."
+  - "Gr\u0103be\u015Fte-te."
   start: !human_time '01:24:54.440'
 - end: !human_time '01:24:59.640'
   lines:
-  - !!python/str "Mam\u0103, tat\u0103, trezi\u0163i-v\u0103!"
+  - "Mam\u0103, tat\u0103, trezi\u0163i-v\u0103!"
   start: !human_time '01:24:57.040'
 - end: !human_time '01:25:02.680'
   lines:
-  - !!python/str "Mo\u015Ful a fost aici!"
+  - "Mo\u015Ful a fost aici!"
   start: !human_time '01:24:59.680'
 - end: !human_time '01:25:05.961'
   lines:
@@ -3033,7 +3030,7 @@ units:
   start: !human_time '01:25:07.080'
 - end: !human_time '01:25:27.800'
   lines:
-  - !!python/str "E cel mai frumos Cr\u0103ciun!"
+  - "E cel mai frumos Cr\u0103ciun!"
   start: !human_time '01:25:24.800'
 - end: !human_time '01:25:32.040'
   lines:
@@ -3041,19 +3038,19 @@ units:
   start: !human_time '01:25:29.800'
 - end: !human_time '01:25:34.960'
   lines:
-  - !!python/str "Mai e \xEEnc\u0103 unul."
+  - "Mai e \xEEnc\u0103 unul."
   start: !human_time '01:25:32.680'
 - end: !human_time '01:25:38.860'
   lines:
-  - !!python/str "Are numele t\u0103u pe el."
+  - "Are numele t\u0103u pe el."
   start: !human_time '01:25:36.800'
 - end: !human_time '01:26:08.960'
   lines:
-  - !!python/str "<i>L-am g\u0103sit pe scaunul saniei mele.</i>"
+  - "<i>L-am g\u0103sit pe scaunul saniei mele.</i>"
   start: !human_time '01:26:06.520'
 - end: !human_time '01:26:11.520'
   lines:
-  - !!python/str "<i>Mai bine \u0163i-ai coase gaura"
+  - "<i>Mai bine \u0163i-ai coase gaura"
   - de la buzunar.</i>
   start: !human_time '01:26:09.000'
 - end: !human_time '01:26:13.440'
@@ -3062,7 +3059,7 @@ units:
   start: !human_time '01:26:11.560'
 - end: !human_time '01:26:24.200'
   lines:
-  - !!python/str "Ce clopo\u0163el frumos."
+  - "Ce clopo\u0163el frumos."
   start: !human_time '01:26:22.360'
 - end: !human_time '01:26:25.280'
   lines:
@@ -3070,11 +3067,11 @@ units:
   start: !human_time '01:26:24.240'
 - end: !human_time '01:26:26.320'
   lines:
-  - !!python/str "De la Mo\u015Ful."
+  - "De la Mo\u015Ful."
   start: !human_time '01:26:25.281'
 - end: !human_time '01:26:28.760'
   lines:
-  - !!python/str "De la Mo\u015Ful?"
+  - "De la Mo\u015Ful?"
   start: !human_time '01:26:26.360'
 - end: !human_time '01:26:31.660'
   lines:
@@ -3082,7 +3079,7 @@ units:
   start: !human_time '01:26:30.000'
 - end: !human_time '01:26:33.320'
   lines:
-  - !!python/str "Ce s-a \xEEnt\xE2mplat?"
+  - "Ce s-a \xEEnt\xE2mplat?"
   start: !human_time '01:26:31.661'
 - end: !human_time '01:26:35.640'
   lines:
@@ -3090,47 +3087,47 @@ units:
   start: !human_time '01:26:33.640'
 - end: !human_time '01:26:37.640'
   lines:
-  - !!python/str "\xCEmi pare r\u0103u, amice."
+  - "\xCEmi pare r\u0103u, amice."
   start: !human_time '01:26:35.680'
 - end: !human_time '01:26:45.080'
   lines:
-  - !!python/str "Haide\u0163i, copii, nu trebuie s\u0103 \xEEnt\xE2rziem."
+  - "Haide\u0163i, copii, nu trebuie s\u0103 \xEEnt\xE2rziem."
   start: !human_time '01:26:42.080'
 - end: !human_time '01:26:56.480'
   lines:
-  - !!python/str "<i>La un moment dat, to\u0163i prietenii"
-  - !!python/str "mei puteau auzi clopo\u0163elul.</i>"
+  - "<i>La un moment dat, to\u0163i prietenii"
+  - "mei puteau auzi clopo\u0163elul.</i>"
   start: !human_time '01:26:53.480'
 - end: !human_time '01:26:58.920'
   lines:
-  - !!python/str "<i>\xCEns\u0103 odat\u0103 cu trecerea anilor,</i>"
+  - "<i>\xCEns\u0103 odat\u0103 cu trecerea anilor,</i>"
   start: !human_time '01:26:56.960'
 - end: !human_time '01:27:00.880'
   lines:
   - <i>sunetul cristalin al
-  - !!python/str "acestuia a \xEEnceput s\u0103 piar\u0103.</i>"
+  - "acestuia a \xEEnceput s\u0103 piar\u0103.</i>"
   start: !human_time '01:26:58.921'
 - end: !human_time '01:27:02.726'
   lines:
-  - !!python/str "<i>Chiar \u015Fi Sarah a realizat,"
-  - !!python/str "odat\u0103 de Cr\u0103ciun,</i>"
+  - "<i>Chiar \u015Fi Sarah a realizat,"
+  - "odat\u0103 de Cr\u0103ciun,</i>"
   start: !human_time '01:27:00.920'
 - end: !human_time '01:27:05.735'
   lines:
-  - !!python/str "<i>c\u0103 nu-i mai poate auzi"
+  - "<i>c\u0103 nu-i mai poate auzi"
   - dulcele clinchet.</i>
   start: !human_time '01:27:02.735'
 - end: !human_time '01:27:07.840'
   lines:
-  - !!python/str "<i>De\u015Fi am \xEEmb\u0103tr\u0103nit,</i>"
+  - "<i>De\u015Fi am \xEEmb\u0103tr\u0103nit,</i>"
   start: !human_time '01:27:05.920'
 - end: !human_time '01:27:10.280'
   lines:
-  - !!python/str "<i>clopo\u0163elul sun\u0103 \xEEn continuare"
+  - "<i>clopo\u0163elul sun\u0103 \xEEn continuare"
   - pentru mine.</i>
   start: !human_time '01:27:07.880'
 - end: !human_time '01:27:13.320'
   lines:
-  - !!python/str "<i>La fel cum sun\u0103 \u015Fi pentru"
-  - !!python/str "to\u0163i aceia care cred cu adev\u0103rat.</i>"
+  - "<i>La fel cum sun\u0103 \u015Fi pentru"
+  - "to\u0163i aceia care cred cu adev\u0103rat.</i>"
   start: !human_time '01:27:10.320'

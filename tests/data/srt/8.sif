@@ -31,7 +31,7 @@ units:
   start: !human_time '00:00:41.920'
 - end: !human_time '00:00:49.000'
   lines:
-  - !!python/str "Zij werden ge\u05DFdentificeerd"
+  - "Zij werden ge\u05DFdentificeerd"
   - als Joseph Green...
   start: !human_time '00:00:46.120'
 - end: !human_time '00:00:52.000'
@@ -206,7 +206,7 @@ units:
   start: !human_time '00:03:39.120'
 - end: !human_time '00:03:46.440'
   lines:
-  - !!python/str "... of \u05D9\u05D9n van de andere pistolen"
+  - "... of \u05D9\u05D9n van de andere pistolen"
   - die ze in huis hadden.
   start: !human_time '00:03:42.880'
 - end: !human_time '00:03:50.680'
@@ -358,7 +358,7 @@ units:
   start: !human_time '00:05:26.600'
 - end: !human_time '00:05:37.920'
   lines:
-  - !!python/str "Dit kan niet \u05D9\u05D9n van die dingen zijn."
+  - "Dit kan niet \u05D9\u05D9n van die dingen zijn."
   - Dat kan toch niet het geval zijn.
   start: !human_time '00:05:32.200'
 - end: !human_time '00:05:43.000'
@@ -529,7 +529,7 @@ units:
   start: !human_time '00:08:18.000'
 - end: !human_time '00:08:25.440'
   lines:
-  - !!python/str "Voor twee\u05DBn red ik niet."
+  - "Voor twee\u05DBn red ik niet."
   - Ik moet weg. Ik hou van je.
   start: !human_time '00:08:21.320'
 - end: !human_time '00:08:29.480'
@@ -562,7 +562,7 @@ units:
 - end: !human_time '00:08:50.000'
   lines:
   - Nu kan je vast geen vragen
-  - !!python/str "beantwoorden, h\u05D9 ?"
+  - "beantwoorden, h\u05D9 ?"
   start: !human_time '00:08:47.160'
 - end: !human_time '00:08:52.760'
   lines:
@@ -570,7 +570,7 @@ units:
   start: !human_time '00:08:50.160'
 - end: !human_time '00:08:58.280'
   lines:
-  - !!python/str "Je hebt nogal haast, h\u05D9 ?"
+  - "Je hebt nogal haast, h\u05D9 ?"
   - '- Ik kom te laat op mijn werk.'
   start: !human_time '00:08:53.680'
 - end: !human_time '00:09:11.760'
@@ -667,7 +667,7 @@ units:
   start: !human_time '00:10:40.760'
 - end: !human_time '00:10:45.800'
   lines:
-  - !!python/str "Ik ben ge\u05DFnteresseerd in iemand"
+  - "Ik ben ge\u05DFnteresseerd in iemand"
   - die van rustige dingen houdt.
   start: !human_time '00:10:42.520'
 - end: !human_time '00:10:49.160'
@@ -739,12 +739,12 @@ units:
   start: !human_time '00:11:47.080'
 - end: !human_time '00:11:54.560'
   lines:
-  - !!python/str "... maar als ik daarvan \u05D9\u05D9n iemand"
-  - !!python/str "kan helpen, \u05D9\u05D9n iemand kan redden..."
+  - "... maar als ik daarvan \u05D9\u05D9n iemand"
+  - "kan helpen, \u05D9\u05D9n iemand kan redden..."
   start: !human_time '00:11:50.280'
 - end: !human_time '00:11:57.400'
   lines:
-  - !!python/str "... als ik \u05D9\u05D9n slechte situatie"
+  - "... als ik \u05D9\u05D9n slechte situatie"
   - kan herstellen...
   start: !human_time '00:11:54.680'
 - end: !human_time '00:12:00.960'
@@ -1069,7 +1069,7 @@ units:
 - end: !human_time '00:16:36.800'
   lines:
   - Nee, hij heeft nu Phil al.
-  - !!python/str "- Is Phil \u05D9\u05D9n van hun verplegers ?"
+  - "- Is Phil \u05D9\u05D9n van hun verplegers ?"
   start: !human_time '00:16:32.120'
 - end: !human_time '00:16:40.760'
   lines:
@@ -1334,7 +1334,7 @@ units:
 - end: !human_time '00:21:02.840'
   lines:
   - Klootzakken als ik.
-  - !!python/str "- Er is geen \u05D9\u05D9n klootzak zoals jij."
+  - "- Er is geen \u05D9\u05D9n klootzak zoals jij."
   start: !human_time '00:20:59.080'
 - end: !human_time '00:21:08.080'
   lines:
@@ -1977,11 +1977,11 @@ units:
   start: !human_time '00:33:16.200'
 - end: !human_time '00:33:50.480'
   lines:
-  - !!python/str "H\u05D9, Avi."
+  - "H\u05D9, Avi."
   start: !human_time '00:33:48.800'
 - end: !human_time '00:33:52.920'
   lines:
-  - !!python/str "E\u05D9n seconde."
+  - "E\u05D9n seconde."
   start: !human_time '00:33:50.840'
 - end: !human_time '00:34:00.280'
   lines:
@@ -2120,7 +2120,7 @@ units:
   start: !human_time '00:35:43.320'
 - end: !human_time '00:35:51.280'
   lines:
-  - !!python/str "Ik vraag 't je nog \u05D9\u05D9n keer."
+  - "Ik vraag 't je nog \u05D9\u05D9n keer."
   - Doe dit alsjeblieft niet.
   start: !human_time '00:35:47.200'
 - end: !human_time '00:35:54.200'
@@ -2173,7 +2173,7 @@ units:
   start: !human_time '00:36:23.280'
 - end: !human_time '00:36:40.840'
   lines:
-  - !!python/str "Ge\u05DFdentificeerd als Porter Parker,"
+  - "Ge\u05DFdentificeerd als Porter Parker,"
   - 59 jaar. Bekend als 't lijk in de kast.
   start: !human_time '00:36:36.160'
 - end: !human_time '00:36:42.800'
@@ -2281,7 +2281,7 @@ units:
   start: !human_time '00:37:55.680'
 - end: !human_time '00:38:05.120'
   lines:
-  - !!python/str "Ik kan helpen. Dan bent u d\u05D9 man."
+  - "Ik kan helpen. Dan bent u d\u05D9 man."
   - Wilt u weten wie de dader is ?
   start: !human_time '00:37:59.280'
 - end: !human_time '00:38:07.560'
@@ -2301,7 +2301,7 @@ units:
   start: !human_time '00:38:11.680'
 - end: !human_time '00:38:20.080'
   lines:
-  - !!python/str "Jij bent een grappenmaker, h\u05D9 ?"
+  - "Jij bent een grappenmaker, h\u05D9 ?"
   - '- Ik ben een rapper.'
   start: !human_time '00:38:16.640'
 - end: !human_time '00:38:26.280'
@@ -2330,7 +2330,7 @@ units:
 - end: !human_time '00:38:47.120'
   lines:
   - als ik rap,
-  - !!python/str "is er \u05D9\u05D9n ding wat ik heb"
+  - "is er \u05D9\u05D9n ding wat ik heb"
   start: !human_time '00:38:44.280'
 - end: !human_time '00:38:49.400'
   lines:
@@ -2512,7 +2512,7 @@ units:
 - end: !human_time '00:42:25.680'
   lines:
   - Succes, Rick.
-  - !!python/str "- H\u05D9, Peter."
+  - "- H\u05D9, Peter."
   start: !human_time '00:42:24.120'
 - end: !human_time '00:42:30.760'
   lines:
@@ -2536,12 +2536,12 @@ units:
   start: !human_time '00:42:39.400'
 - end: !human_time '00:42:44.880'
   lines:
-  - !!python/str "Door die La Ni\u05E1a,"
-  - !!python/str "of El Ni\u05E1o, of zoiets."
+  - "Door die La Ni\u05E1a,"
+  - "of El Ni\u05E1o, of zoiets."
   start: !human_time '00:42:42.200'
 - end: !human_time '00:42:47.280'
   lines:
-  - !!python/str "Niet bueno, geen El Ni\u05E1o..."
+  - "Niet bueno, geen El Ni\u05E1o..."
   start: !human_time '00:42:45.040'
 - end: !human_time '00:42:59.120'
   lines:
@@ -2580,7 +2580,7 @@ units:
   start: !human_time '00:43:17.080'
 - end: !human_time '00:43:28.360'
   lines:
-  - !!python/str "Je bent ge\u05DFnteresseerd in datgene"
+  - "Je bent ge\u05DFnteresseerd in datgene"
   - wat er om je heen gebeurt.
   start: !human_time '00:43:24.320'
 - end: !human_time '00:43:31.360'
@@ -2744,7 +2744,7 @@ units:
   start: !human_time '00:47:36.320'
 - end: !human_time '00:47:44.120'
   lines:
-  - !!python/str "Heeft u die ? Ok\u05D9, die dan."
+  - "Heeft u die ? Ok\u05D9, die dan."
   start: !human_time '00:47:40.640'
 - end: !human_time '00:47:46.840'
   lines:
@@ -2820,12 +2820,12 @@ units:
   start: !human_time '00:48:53.880'
 - end: !human_time '00:49:00.160'
   lines:
-  - !!python/str "En dat duurt maar \u05D9\u05D9n seconde ?"
-  - !!python/str "- E\u05D9n seconde maar, meid."
+  - "En dat duurt maar \u05D9\u05D9n seconde ?"
+  - "- E\u05D9n seconde maar, meid."
   start: !human_time '00:48:57.520'
 - end: !human_time '00:49:05.280'
   lines:
-  - !!python/str "E\u05D9n blik, \u05D9\u05D9n aarzeling, \u05D9\u05D9n blik"
+  - "E\u05D9n blik, \u05D9\u05D9n aarzeling, \u05D9\u05D9n blik"
   - op mij en ik weet genoeg.
   start: !human_time '00:49:00.280'
 - end: !human_time '00:49:11.040'
@@ -2838,7 +2838,7 @@ units:
   start: !human_time '00:49:11.240'
 - end: !human_time '00:49:19.200'
   lines:
-  - !!python/str "Blesseer jezelf niet, ok\u05D9 ?"
+  - "Blesseer jezelf niet, ok\u05D9 ?"
   start: !human_time '00:49:16.720'
 - end: !human_time '00:49:24.440'
   lines:
@@ -2941,7 +2941,7 @@ units:
 - end: !human_time '00:50:52.640'
   lines:
   - Rustig aan maar en wees een
-  - !!python/str "brave jongen, ok\u05D9, Mr Mackey ?"
+  - "brave jongen, ok\u05D9, Mr Mackey ?"
   start: !human_time '00:50:48.000'
 - end: !human_time '00:50:56.640'
   lines:
@@ -2951,12 +2951,12 @@ units:
 - end: !human_time '00:50:59.680'
   lines:
   - '... dan kunnen we aan ''t werk.'
-  - !!python/str "- Ok\u05D9, dame."
+  - "- Ok\u05D9, dame."
   start: !human_time '00:50:56.760'
 - end: !human_time '00:51:10.200'
   lines:
   - Laat ik beginnen met u te vragen...
-  - !!python/str "- E\u05D9n seconde."
+  - "- E\u05D9n seconde."
   start: !human_time '00:51:07.240'
 - end: !human_time '00:51:17.480'
   lines:
@@ -3402,7 +3402,7 @@ units:
   start: !human_time '01:00:58.480'
 - end: !human_time '01:01:22.520'
   lines:
-  - !!python/str "Dat is me nogal niet wat, h\u05D8 ?"
+  - "Dat is me nogal niet wat, h\u05D8 ?"
   start: !human_time '01:01:19.400'
 - end: !human_time '01:01:51.160'
   lines:
@@ -3486,7 +3486,7 @@ units:
   start: !human_time '01:02:52.560'
 - end: !human_time '01:03:03.480'
   lines:
-  - !!python/str "Live vanuit Burbank, Californi\u05DB:"
+  - "Live vanuit Burbank, Californi\u05DB:"
   - Wat Weten Kinderen ?
   start: !human_time '01:02:59.160'
 - end: !human_time '01:03:07.400'
@@ -3607,7 +3607,7 @@ units:
 - end: !human_time '01:04:58.520'
   lines:
   - Even voor hen die 't nog niet weten.
-  - !!python/str "Eerste ronde, drie categorie\u05DBn."
+  - "Eerste ronde, drie categorie\u05DBn."
   start: !human_time '01:04:53.200'
 - end: !human_time '01:05:01.240'
   lines:
@@ -3625,7 +3625,7 @@ units:
   start: !human_time '01:05:13.200'
 - end: !human_time '01:05:20.280'
   lines:
-  - !!python/str "De categorie\u05DBn zijn: 'Schrijvers'."
+  - "De categorie\u05DBn zijn: 'Schrijvers'."
   - '''Chaostheorie''. En ''Trivia''.'
   start: !human_time '01:05:15.040'
 - end: !human_time '01:05:30.160'
@@ -3660,11 +3660,11 @@ units:
 - end: !human_time '01:06:08.240'
   lines:
   - Deze Franse toneelschrijver en acteur
-  - !!python/str "voegde zich bij de B\u05D9jart toneelgroep..."
+  - "voegde zich bij de B\u05D9jart toneelgroep..."
   start: !human_time '01:06:04.240'
 - end: !human_time '01:06:09.960'
   lines:
-  - !!python/str "Moli\u05D9re."
+  - "Moli\u05D9re."
   start: !human_time '01:06:08.360'
 - end: !human_time '01:06:12.160'
   lines:
@@ -3672,7 +3672,7 @@ units:
   start: !human_time '01:06:10.120'
 - end: !human_time '01:06:14.840'
   lines:
-  - !!python/str "Jean-Baptiste Poquelin Moli\u05D9re."
+  - "Jean-Baptiste Poquelin Moli\u05D9re."
   start: !human_time '01:06:12.280'
 - end: !human_time '01:06:19.160'
   lines:
@@ -3862,7 +3862,7 @@ units:
   start: !human_time '01:08:50.160'
 - end: !human_time '01:08:56.320'
   lines:
-  - !!python/str "'t Regent nogal, h\u05D9 ?"
+  - "'t Regent nogal, h\u05D9 ?"
   start: !human_time '01:08:54.320'
 - end: !human_time '01:09:02.360'
   lines:
@@ -4052,12 +4052,12 @@ units:
   start: !human_time '01:11:47.680'
 - end: !human_time '01:11:58.560'
   lines:
-  - !!python/str "... alsof dit de sc\u05D8ne uit de film is waar"
+  - "... alsof dit de sc\u05D8ne uit de film is waar"
   - de man z'n lang verloren zoon zoekt.
   start: !human_time '01:11:52.000'
 - end: !human_time '01:12:03.880'
   lines:
-  - !!python/str "En ik denk dat er zulke sc\u05D8nes"
+  - "En ik denk dat er zulke sc\u05D8nes"
   - in films zitten omdat ze waar zijn.
   start: !human_time '01:11:58.680'
 - end: !human_time '01:12:08.880'
@@ -4077,7 +4077,7 @@ units:
   start: !human_time '01:12:15.960'
 - end: !human_time '01:12:31.080'
   lines:
-  - !!python/str "Dit is de sc\u05D8ne uit de film waar"
+  - "Dit is de sc\u05D8ne uit de film waar"
   - je mij uit de brand helpt.
   start: !human_time '01:12:24.840'
 - end: !human_time '01:12:35.440'
@@ -4108,7 +4108,7 @@ units:
 - end: !human_time '01:12:53.680'
   lines:
   - Het leven overkwam me, in plaats
-  - !!python/str "van dat ik zelf 'n leven cre\u05DBerde."
+  - "van dat ik zelf 'n leven cre\u05DBerde."
   start: !human_time '01:12:50.400'
 - end: !human_time '01:12:56.160'
   lines:
@@ -4137,7 +4137,7 @@ units:
 - end: !human_time '01:13:15.200'
   lines:
   - Dat komt door je naamsverandering.
-  - !!python/str "Ze hadden geen offici\u05DBle inschrijving."
+  - "Ze hadden geen offici\u05DBle inschrijving."
   start: !human_time '01:13:11.600'
 - end: !human_time '01:13:17.400'
   lines:
@@ -4579,7 +4579,7 @@ units:
   start: !human_time '01:21:00.840'
 - end: !human_time '01:21:07.000'
   lines:
-  - !!python/str "Ok\u05D9, Janet, hier is Phil Parma."
+  - "Ok\u05D9, Janet, hier is Phil Parma."
   start: !human_time '01:21:04.040'
 - end: !human_time '01:21:17.520'
   lines:
@@ -4620,7 +4620,7 @@ units:
 - end: !human_time '01:21:53.640'
   lines:
   - Mim, je woont in Chatsworth,
-  - !!python/str "Californi\u05DB, en je hebt twee kinderen."
+  - "Californi\u05DB, en je hebt twee kinderen."
   start: !human_time '01:21:49.160'
 - end: !human_time '01:21:56.200'
   lines:
@@ -4633,7 +4633,7 @@ units:
   start: !human_time '01:21:57.240'
 - end: !human_time '01:22:04.440'
   lines:
-  - !!python/str "Niets speciaals. Gewoon \u05D9\u05D9n"
+  - "Niets speciaals. Gewoon \u05D9\u05D9n"
   - van die vele grijze muizen.
   start: !human_time '01:22:01.120'
 - end: !human_time '01:22:09.640'
@@ -4684,7 +4684,7 @@ units:
 - end: !human_time '01:22:52.360'
   lines:
   - 'Brad, lieverd, wie zei: ''Een genie'
-  - !!python/str "is zelden door 'n ander geru\u05DFneerd' ?"
+  - "is zelden door 'n ander geru\u05DFneerd' ?"
   start: !human_time '01:22:46.320'
 - end: !human_time '01:22:57.480'
   lines:
@@ -4697,12 +4697,12 @@ units:
   start: !human_time '01:22:58.240'
 - end: !human_time '01:23:06.600'
   lines:
-  - !!python/str "'D\u05D9 oorzaak van andermans saaiheid.'"
+  - "'D\u05D9 oorzaak van andermans saaiheid.'"
   - '- Pietluttig, hoor.'
   start: !human_time '01:23:03.440'
 - end: !human_time '01:23:12.960'
   lines:
-  - !!python/str "Samuel Johnson is nooit geru\u05DFneerd"
+  - "Samuel Johnson is nooit geru\u05DFneerd"
   - geweest, of van z'n geld bestolen.
   start: !human_time '01:23:07.520'
 - end: !human_time '01:23:19.560'
@@ -4736,7 +4736,7 @@ units:
   start: !human_time '01:23:38.560'
 - end: !human_time '01:23:46.240'
   lines:
-  - !!python/str "En wat betreft 'zichzelf geru\u05DFneerd'..."
+  - "En wat betreft 'zichzelf geru\u05DFneerd'..."
   start: !human_time '01:23:43.120'
 - end: !human_time '01:23:51.880'
   lines:
@@ -4924,7 +4924,7 @@ units:
   start: !human_time '01:26:20.520'
 - end: !human_time '01:26:27.520'
   lines:
-  - !!python/str "Dit gaat over \u05D9\u05D9n van je"
+  - "Dit gaat over \u05D9\u05D9n van je"
   - antwoorden op een eerdere vraag.
   start: !human_time '01:26:23.400'
 - end: !human_time '01:26:31.680'
@@ -4981,7 +4981,7 @@ units:
 - end: !human_time '01:27:33.680'
   lines:
   - '... dan denk ik dat jouw geschiedenis,'
-  - !!python/str "je \u05D9chte familiegeschiedenis..."
+  - "je \u05D9chte familiegeschiedenis..."
   start: !human_time '01:27:27.960'
 - end: !human_time '01:27:41.440'
   lines:
@@ -5079,7 +5079,7 @@ units:
   start: !human_time '01:29:11.680'
 - end: !human_time '01:29:21.040'
   lines:
-  - !!python/str "Jij en Earl zijn cli\u05DBnten."
+  - "Jij en Earl zijn cli\u05DBnten."
   - Wat je ook zegt, blijft onder ons.
   start: !human_time '01:29:16.720'
 - end: !human_time '01:29:28.200'
@@ -5264,7 +5264,7 @@ units:
 - end: !human_time '01:32:05.760'
   lines:
   - Rustig nou even. Haal diep adem,
-  - !!python/str "en \u05D9\u05D9n ding tegelijk."
+  - "en \u05D9\u05D9n ding tegelijk."
   start: !human_time '01:32:00.440'
 - end: !human_time '01:32:08.520'
   lines:
@@ -5447,7 +5447,7 @@ units:
   start: !human_time '01:35:32.760'
 - end: !human_time '01:35:39.440'
   lines:
-  - !!python/str "Ik kon eventjes niks zien. Ik ben ok\u05D9."
+  - "Ik kon eventjes niks zien. Ik ben ok\u05D9."
   - Blijf met je poten van me af !
   start: !human_time '01:35:36.280'
 - end: !human_time '01:35:50.360'
@@ -5461,7 +5461,7 @@ units:
   start: !human_time '01:35:50.480'
 - end: !human_time '01:35:57.080'
   lines:
-  - !!python/str "Ik ben de showco\u05E6rdinatrice."
+  - "Ik ben de showco\u05E6rdinatrice."
   - Jij geeft antwoord op mijn vragen.
   start: !human_time '01:35:53.240'
 - end: !human_time '01:36:02.320'
@@ -5524,7 +5524,7 @@ units:
   start: !human_time '01:36:35.760'
 - end: !human_time '01:36:47.280'
   lines:
-  - !!python/str "Ik ben ok\u05D9. Goed ? Zie je wel ?"
+  - "Ik ben ok\u05D9. Goed ? Zie je wel ?"
   - Ik ben in orde.
   start: !human_time '01:36:42.720'
 - end: !human_time '01:36:50.360'
@@ -5656,7 +5656,7 @@ units:
 - end: !human_time '01:39:09.680'
   lines:
   - Goed dan. Kin omhoog en 't volume
-  - !!python/str "naar beneden, ok\u05D9 ?"
+  - "naar beneden, ok\u05D9 ?"
   start: !human_time '01:39:05.840'
 - end: !human_time '01:39:14.360'
   lines:
@@ -5855,7 +5855,7 @@ units:
 - end: !human_time '01:42:46.680'
   lines:
   - Ik wil niet.
-  - !!python/str "Waarom kan \u05D9\u05D9n van jullie niet ?"
+  - "Waarom kan \u05D9\u05D9n van jullie niet ?"
   start: !human_time '01:42:43.880'
 - end: !human_time '01:42:50.400'
   lines:
@@ -6055,7 +6055,7 @@ units:
 - end: !human_time '01:46:26.960'
   lines:
   - Stanley laat de beurt aan
-  - !!python/str "\u05D9\u05D9n van de anderen."
+  - "\u05D9\u05D9n van de anderen."
   start: !human_time '01:46:23.200'
 - end: !human_time '01:46:29.880'
   lines:
@@ -6091,7 +6091,7 @@ units:
   start: !human_time '01:46:50.320'
 - end: !human_time '01:46:56.760'
   lines:
-  - !!python/str "E\u05D9n moment."
+  - "E\u05D9n moment."
   - Ik zet je even in de wacht.
   start: !human_time '01:46:53.120'
 - end: !human_time '01:46:59.040'
@@ -6268,7 +6268,7 @@ units:
 - end: !human_time '01:51:32.280'
   lines:
   - ..'de zonden van de vader jegens de
-  - !!python/str "kinderen', uit de Koopman van Veneti\u05DB.."
+  - "kinderen', uit de Koopman van Veneti\u05DB.."
   start: !human_time '01:51:27.320'
 - end: !human_time '01:51:35.840'
   lines:
@@ -7106,7 +7106,7 @@ units:
   start: !human_time '02:10:37.440'
 - end: !human_time '02:10:45.880'
   lines:
-  - !!python/str "Doe er iets mee, ok\u05D9 ?"
+  - "Doe er iets mee, ok\u05D9 ?"
   start: !human_time '02:10:43.480'
 - end: !human_time '02:10:49.320'
   lines:
@@ -7246,7 +7246,7 @@ units:
 - end: !human_time '02:14:58.000'
   lines:
   - '... dat denk je echt...'
-  - !!python/str "... nog \u05D9\u05D9n drankje..."
+  - "... nog \u05D9\u05D9n drankje..."
   start: !human_time '02:14:52.120'
 - end: !human_time '02:15:07.040'
   lines:
@@ -7398,7 +7398,7 @@ units:
   start: !human_time '02:19:06.760'
 - end: !human_time '02:19:10.960'
   lines:
-  - !!python/str "H\u05D9, mevrouw !"
+  - "H\u05D9, mevrouw !"
   start: !human_time '02:19:09.320'
 - end: !human_time '02:19:31.680'
   lines:
@@ -7660,7 +7660,7 @@ units:
   start: !human_time '02:26:38.640'
 - end: !human_time '02:26:44.400'
   lines:
-  - !!python/str "Het doet pijn, h\u05D9 ?"
+  - "Het doet pijn, h\u05D9 ?"
   start: !human_time '02:26:42.360'
 - end: !human_time '02:26:49.360'
   lines:
@@ -7959,7 +7959,7 @@ units:
   start: !human_time '02:33:11.800'
 - end: !human_time '02:33:19.840'
   lines:
-  - !!python/str "E\u05D9n of andere krankzinnige"
+  - "E\u05D9n of andere krankzinnige"
   - gedachte.
   start: !human_time '02:33:16.840'
 - end: !human_time '02:33:25.880'
@@ -8313,7 +8313,7 @@ units:
 - end: !human_time '02:50:12.880'
   lines:
   - Bel me maar terug over die tanden,
-  - !!python/str "ok\u05D9 ?"
+  - "ok\u05D9 ?"
   start: !human_time '02:50:09.600'
 - end: !human_time '02:50:16.560'
   lines:
@@ -8421,7 +8421,7 @@ units:
   start: !human_time '02:53:16.920'
 - end: !human_time '02:53:24.440'
   lines:
-  - !!python/str "... dan b\u05D9n je bij mij..."
+  - "... dan b\u05D9n je bij mij..."
   start: !human_time '02:53:21.720'
 - end: !human_time '02:53:27.920'
   lines:

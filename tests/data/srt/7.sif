@@ -146,7 +146,7 @@ units:
   start: !human_time '00:07:14.825'
 - end: !human_time '00:07:21.622'
   lines:
-  - !!python/str "C\xE9lestin Poux. Este foarte greu de gasit."
+  - "C\xE9lestin Poux. Este foarte greu de gasit."
   start: !human_time '00:07:18.024'
 - end: !human_time '00:07:27.119'
   lines:
@@ -181,7 +181,7 @@ units:
 - end: !human_time '00:07:58.906'
   lines:
   - De aceea este important
-  - !!python/str "sa-l gasesc pe C\xE9lestin Poux."
+  - "sa-l gasesc pe C\xE9lestin Poux."
   start: !human_time '00:07:56.108'
 - end: !human_time '00:08:06.804'
   lines:
@@ -222,7 +222,7 @@ units:
 - end: !human_time '00:09:50.661'
   lines:
   - Zilele treceau fara nici
-  - !!python/str "o veste despre C\xE9lestin Poux."
+  - "o veste despre C\xE9lestin Poux."
   start: !human_time '00:09:47.363'
 - end: !human_time '00:09:52.762'
   lines:
@@ -265,7 +265,7 @@ units:
   start: !human_time '00:10:43.642'
 - end: !human_time '00:10:50.438'
   lines:
-  - !!python/str "C\xE9lestin Poux, teroarea rosie."
+  - "C\xE9lestin Poux, teroarea rosie."
   start: !human_time '00:10:48.439'
 - end: !human_time '00:10:52.037'
   lines:
@@ -462,7 +462,7 @@ units:
   start: !human_time '00:14:01.361'
 - end: !human_time '00:14:09.358'
   lines:
-  - !!python/str "Saracu\x92."
+  - "Saracu\x92."
   start: !human_time '00:14:07.659'
 - end: !human_time '00:14:12.457'
   lines:
@@ -595,7 +595,7 @@ units:
   start: !human_time '00:16:12.908'
 - end: !human_time '00:16:22.703'
   lines:
-  - !!python/str "Si cu fermierul din Dordo\u0144a"
+  - "Si cu fermierul din Dordo\u0144a"
   - ce s-a intamplat ?
   start: !human_time '00:16:19.905'
 - end: !human_time '00:16:26.702'
@@ -629,7 +629,7 @@ units:
 - end: !human_time '00:17:54.167'
   lines:
   - Apoi am vazut cum e omorat
-  - !!python/str "fermierul din Dordo\u0144a."
+  - "fermierul din Dordo\u0144a."
   start: !human_time '00:17:50.969'
 - end: !human_time '00:18:03.064'
   lines:
@@ -654,7 +654,7 @@ units:
   start: !human_time '00:18:19.257'
 - end: !human_time '00:18:29.452'
   lines:
-  - !!python/str "Pentru Franta\NLa atac !"
+  - "Pentru Franta\NLa atac !"
   start: !human_time '00:18:24.455'
 - end: !human_time '00:18:52.243'
   lines:
@@ -803,7 +803,7 @@ units:
   start: !human_time '00:21:34.780'
 - end: !human_time '00:21:37.977'
   lines:
-  - !!python/str "Usurel, C\xE9lestin."
+  - "Usurel, C\xE9lestin."
   start: !human_time '00:21:36.079'
 - end: !human_time '00:21:42.575'
   lines:
@@ -897,7 +897,7 @@ units:
   start: !human_time '00:22:46.951'
 - end: !human_time '00:22:52.647'
   lines:
-  - !!python/str "Esti de la \x93bingo\N\x94?"
+  - "Esti de la \x93bingo\N\x94?"
   start: !human_time '00:22:50.648'
 - end: !human_time '00:22:54.746'
   lines:
@@ -969,7 +969,7 @@ units:
   start: !human_time '00:23:52.223'
 - end: !human_time '00:23:57.520'
   lines:
-  - !!python/str "Du-ma la \x93Bingo crepuscular\x94."
+  - "Du-ma la \x93Bingo crepuscular\x94."
   start: !human_time '00:23:54.622'
 - end: !human_time '00:24:12.815'
   lines:
@@ -1274,7 +1274,7 @@ units:
   start: !human_time '00:29:58.077'
 - end: !human_time '00:30:08.072'
   lines:
-  - !!python/str "O sa arat ca Ioana d\x92Arc cand ma voi"
+  - "O sa arat ca Ioana d\x92Arc cand ma voi"
   - intalni cu Angel al meu.
   start: !human_time '00:30:03.374'
 - end: !human_time '00:30:10.771'
@@ -1329,7 +1329,7 @@ units:
   start: !human_time '00:31:21.043'
 - end: !human_time '00:31:27.140'
   lines:
-  - !!python/str "Cautand un veteran de la \x93bingo...\x94"
+  - "Cautand un veteran de la \x93bingo...\x94"
   start: !human_time '00:31:25.141'
 - end: !human_time '00:31:31.339'
   lines:
@@ -1459,7 +1459,7 @@ units:
   start: !human_time '00:33:27.392'
 - end: !human_time '00:33:33.988'
   lines:
-  - !!python/str "- Noroc, C\xE9lestin"
+  - "- Noroc, C\xE9lestin"
   - '- Si tie.'
   start: !human_time '00:33:31.290'
 - end: !human_time '00:33:45.384'
@@ -1479,12 +1479,12 @@ units:
   start: !human_time '00:33:48.883'
 - end: !human_time '00:33:53.981'
   lines:
-  - !!python/str "Presupun ca are legatura cu \x93bingo...\x94"
+  - "Presupun ca are legatura cu \x93bingo...\x94"
   start: !human_time '00:33:51.582'
 - end: !human_time '00:33:57.279'
   lines:
   - Fiul proprietarului de librarie
-  - !!python/str "Pa\xFAl Derochelles"
+  - "Pa\xFAl Derochelles"
   start: !human_time '00:33:54.681'
 - end: !human_time '00:34:00.778'
   lines:
@@ -1519,7 +1519,7 @@ units:
   start: !human_time '00:34:21.571'
 - end: !human_time '00:34:26.268'
   lines:
-  - !!python/str "Nu\Nacela care spioneaza"
+  - "Nu\Nacela care spioneaza"
   - incearca sa nu fie vazut
   start: !human_time '00:34:23.869'
 - end: !human_time '00:34:28.867'
@@ -1537,7 +1537,7 @@ units:
   start: !human_time '00:34:30.566'
 - end: !human_time '00:34:36.264'
   lines:
-  - !!python/str "vaduva lui Pa\xFAl Desrochelles."
+  - "vaduva lui Pa\xFAl Desrochelles."
   start: !human_time '00:34:34.465'
 - end: !human_time '00:34:39.862'
   lines:
@@ -1573,7 +1573,7 @@ units:
 - end: !human_time '00:35:02.053'
   lines:
   - trebuiau sa treaca din
-  - !!python/str "nou prin \x93tara nimanui\x94."
+  - "nou prin \x93tara nimanui\x94."
   start: !human_time '00:34:59.255'
 - end: !human_time '00:35:06.752'
   lines:
@@ -1595,7 +1595,7 @@ units:
   start: !human_time '00:35:15.048'
 - end: !human_time '00:35:23.744'
   lines:
-  - !!python/str "\Nspune-i lui Berney ca vreau sa lichidez"
+  - "\Nspune-i lui Berney ca vreau sa lichidez"
   - totul pana la inceputul lui martie
   start: !human_time '00:35:20.846'
 - end: !human_time '00:35:25.844'
@@ -1641,7 +1641,7 @@ units:
   start: !human_time '00:36:10.926'
 - end: !human_time '00:36:17.823'
   lines:
-  - !!python/str "Beno\xEEt Notre Dame isi fertilizeaza pamantul cu"
+  - "Beno\xEEt Notre Dame isi fertilizeaza pamantul cu"
   - balegar, dar nu cumpara asa ceva
   start: !human_time '00:36:13.725'
 - end: !human_time '00:36:20.622'
@@ -1666,7 +1666,7 @@ units:
   start: !human_time '00:37:03.605'
 - end: !human_time '00:37:11.701'
   lines:
-  - !!python/str "Beno\xEEt."
+  - "Beno\xEEt."
   start: !human_time '00:37:09.203'
 - end: !human_time '00:38:01.881'
   lines:
@@ -1788,7 +1788,7 @@ units:
   start: !human_time '00:41:39.794'
 - end: !human_time '00:42:01.184'
   lines:
-  - !!python/str "... Pentru Franta\Nla atac."
+  - "... Pentru Franta\Nla atac."
   start: !human_time '00:41:58.086'
 - end: !human_time '00:42:15.479'
   lines:
@@ -1866,7 +1866,7 @@ units:
   start: !human_time '00:43:43.044'
 - end: !human_time '00:43:49.241'
   lines:
-  - !!python/str "Fermierul din Dordo\u0144a unde e ?"
+  - "Fermierul din Dordo\u0144a unde e ?"
   start: !human_time '00:43:46.243'
 - end: !human_time '00:44:49.217'
   lines:
@@ -1918,7 +1918,7 @@ units:
 - end: !human_time '00:46:16.482'
   lines:
   - Nu.
-  - !!python/str "Daca dai de vreun subofiter de la \x93bingo\N\x94"
+  - "Daca dai de vreun subofiter de la \x93bingo\N\x94"
   start: !human_time '00:46:12.984'
 - end: !human_time '00:46:20.280'
   lines:
@@ -1939,7 +1939,7 @@ units:
   start: !human_time '00:46:24.280'
 - end: !human_time '00:46:27.977'
   lines:
-  - !!python/str "n-a avut o id\xE9e mai buna decat"
+  - "n-a avut o id\xE9e mai buna decat"
   - sa faca spital intr-un hangar pentru dirijabile
   start: !human_time '00:46:25.280'
 - end: !human_time '00:46:29.777'
@@ -2004,7 +2004,7 @@ units:
   start: !human_time '00:49:09.213'
 - end: !human_time '00:49:14.311'
   lines:
-  - !!python/str "Am numit-o \x93Capatul lumii\x94."
+  - "Am numit-o \x93Capatul lumii\x94."
   start: !human_time '00:49:11.713'
 - end: !human_time '00:49:28.005'
   lines:
@@ -2020,7 +2020,7 @@ units:
   start: !human_time '00:49:36.103'
 - end: !human_time '00:49:42.399'
   lines:
-  - !!python/str "Am murit \Nla \x93bingo crepuscular\x94,"
+  - "Am murit \Nla \x93bingo crepuscular\x94,"
   - ca si prietenul tau.
   start: !human_time '00:49:38.001'
 - end: !human_time '00:49:51.695'

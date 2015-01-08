@@ -2,721 +2,694 @@
 units:
 - end: !human_time '00:00:02.000'
   lines:
-  - !!python/str "\_\u2014\u045B\u0433\u2026"
+  - "\_\u2014\u045B\u0433\u2026"
   - al_mo3jeza@hotmail.com
   start: !human_time '00:00:00.000'
 - end: !human_time '00:00:03.102'
   lines:
-  - !!python/str "\xAB\u0431\u043D \u221A\u043D \u040C\u0455 \xAB\u0451\_\u2014\xBB\
-    , \_\u043D\u0433\xAB\u2014\u043D\u045A"
+  - "\xAB\u0431\u043D \u221A\u043D \u040C\u0455 \xAB\u0451\_\u2014\xBB, \_\u043D\u0433\
+    \xAB\u2014\u043D\u045A"
   start: !human_time '00:00:01.467'
 - end: !human_time '00:00:07.592'
   lines:
-  - !!python/str "\u0431\u0451\u0455 \xAB\u0451\_\u2014\xBB \u044F\u040B\u043D\u2014\
-    \xAB"
+  - "\u0431\u0451\u0455 \xAB\u0451\_\u2014\xBB \u044F\u040B\u043D\u2014\xAB"
   start: !human_time '00:00:06.581'
 - end: !human_time '00:00:09.541'
   lines:
-  - !!python/str "\u201D\u043D\u044F\u0436\u0434 \u0435\u0434\xAB \u0451\u2014\u043D\
-    \xBB\xAB"
+  - "\u201D\u043D\u044F\u0436\u0434 \u0435\u0434\xAB \u0451\u2014\u043D\xBB\xAB"
   start: !human_time '00:00:08.105'
 - end: !human_time '00:00:11.700'
   lines:
-  - !!python/str "\xAB\u0431\u0431\u040F\u0434\u2026, \u0433\xAB\u2013\xAB \u201D\u0434\
-    \u0401\u040F\u0431, \xAB\u2013\xAB\u045A"
+  - "\xAB\u0431\u0431\u040F\u0434\u2026, \u0433\xAB\u2013\xAB \u201D\u0434\u0401\u040F\
+    \u0431, \xAB\u2013\xAB\u045A"
   start: !human_time '00:00:09.576'
 - end: !human_time '00:00:14.880'
   lines:
-  - !!python/str "\xAB\_\u2014\u044F\u0435 \u0431\u043D"
+  - "\xAB\_\u2014\u044F\u0435 \u0431\u043D"
   start: !human_time '00:00:13.182'
 - end: !human_time '00:00:50.568'
   lines:
-  - !!python/str "\u045B\u0433\u043D\u0431 \u045B\u0455\xAB"
+  - "\u045B\u0433\u043D\u0431 \u045B\u0455\xAB"
   start: !human_time '00:00:48.487'
 - end: !human_time '00:00:53.619'
   lines:
-  - !!python/str "\u0433\xAB \u044F\xAB\u0434\_ \_\u0431\u044F \xAB\u0431\xAB\u2019\
-    \u0436\xAB\_\u045A"
+  - "\u0433\xAB \u044F\xAB\u0434\_ \_\u0431\u044F \xAB\u0431\xAB\u2019\u0436\xAB\_\
+    \u045A"
   start: !human_time '00:00:51.965'
 - end: !human_time '00:00:57.380'
   lines:
-  - !!python/str "\xAB\u0434\u0401\u045B\xAB\u2014\xAB"
+  - "\xAB\u0434\u0401\u045B\xAB\u2014\xAB"
   start: !human_time '00:00:56.002'
 - end: !human_time '00:01:01.035'
   lines:
-  - !!python/str "\u0433\u0434 \xAB\u0431\u0433\u040C\_\u0433\u0431 \xAB\u0434\u0435\
-    \u0433 \u0436\xF7\u040F\u0436\xAB \u221A\u0401\u045C\xAB\u045C \u0431\u201D\xAB\
-    \u201D\u044F\u043D"
+  - "\u0433\u0434 \xAB\u0431\u0433\u040C\_\u0433\u0431 \xAB\u0434\u0435\u0433 \u0436\
+    \xF7\u040F\u0436\xAB \u221A\u0401\u045C\xAB\u045C \u0431\u201D\xAB\u201D\u044F\
+    \u043D"
   start: !human_time '00:00:57.823'
 - end: !human_time '00:01:04.358'
   lines:
-  - !!python/str "\u0435\u0431 \u201D\xAB\u201D\u044F\u043D \xBB\u045C\u043D\u2014\
-    \u045A"
+  - "\u0435\u0431 \u201D\xAB\u201D\u044F\u043D \xBB\u045C\u043D\u2014\u045A"
   start: !human_time '00:01:01.875'
 - end: !human_time '00:01:10.095'
   lines:
-  - !!python/str "\u0431\xAB\_\u0451\u0431\u0451\u043D \u040F\u0431\u043D\u0435, \u0431\
-    \u0434 \u043D\u0433\u0436\_ \xBB\u201D\u0435\u0436\u0431\u0435"
+  - "\u0431\xAB\_\u0451\u0431\u0451\u043D \u040F\u0431\u043D\u0435, \u0431\u0434 \u043D\
+    \u0433\u0436\_ \xBB\u201D\u0435\u0436\u0431\u0435"
   start: !human_time '00:01:05.019'
 - end: !human_time '00:01:13.364'
   lines:
-  - !!python/str "\xAC\u0433\u0431 \xAB\u0434\u044F \u0433\u040C\u0451....."
+  - "\xAC\u0433\u0431 \xAB\u0434\u044F \u0433\u040C\u0451....."
   start: !human_time '00:01:11.385'
 - end: !human_time '00:01:24.686'
   lines:
-  - !!python/str "\xAB\u0431\xAB\u0434, \u0431\u0434\xBB\u0455\u221A"
+  - "\xAB\u0431\xAB\u0434, \u0431\u0434\xBB\u0455\u221A"
   start: !human_time '00:01:21.949'
 - end: !human_time '00:01:31.305'
   lines:
-  - !!python/str "\u0436\u0431\u044F\u0434 \u0451\xBB\u0431 \u2013\u0431\u044F, \xAB\
-    \u040C\_\xAB\u045B \xAB\u0431\u043C \u0435\u2013\xAB\u0434 \u0431\u043D\u2014\u045B\
-    \u040F\u0436\xAB \xAB\u0431\u043C \u221A\u2018\u044F\xAB\u0431\u0435\u0433 \xAB\
-    \u0431\u040C\u0451\u043D\u0451\u043D\u2026"
+  - "\u0436\u0431\u044F\u0434 \u0451\xBB\u0431 \u2013\u0431\u044F, \xAB\u040C\_\xAB\
+    \u045B \xAB\u0431\u043C \u0435\u2013\xAB\u0434 \u0431\u043D\u2014\u045B\u040F\u0436\
+    \xAB \xAB\u0431\u043C \u221A\u2018\u044F\xAB\u0431\u0435\u0433 \xAB\u0431\u040C\
+    \u0451\u043D\u0451\u043D\u2026"
   start: !human_time '00:01:25.302'
 - end: !human_time '00:01:36.066'
   lines:
-  - !!python/str "\u0433\u0434 \u0401\xF7\u0431\u044F \u044F\u0434 \u045B\xAB\u0435\
-    \u201C, \u0433\u040F\u0431\u0433 -\u201D\xAB\u2014\u0436\_\u0436\xBB\u043D"
+  - "\u0433\u0434 \u0401\xF7\u0431\u044F \u044F\u0434 \u045B\xAB\u0435\u201C, \u0433\
+    \u040F\u0431\u0433 -\u201D\xAB\u2014\u0436\_\u0436\xBB\u043D"
   start: !human_time '00:01:32.015'
 - end: !human_time '00:02:27.537'
   lines:
-  - !!python/str "\xAB\u0431\u040C\u043D\xAB\u2026 \_\u2014\u045B\u040F \xAB\u0431\
-    \u043D\u0435\u0433 \u044F\u0433\xAB \u0434\_\u044F\u0431\u0433"
+  - "\xAB\u0431\u040C\u043D\xAB\u2026 \_\u2014\u045B\u040F \xAB\u0431\u043D\u0435\u0433\
+    \ \u044F\u0433\xAB \u0434\_\u044F\u0431\u0433"
   start: !human_time '00:02:25.188'
 - end: !human_time '00:02:30.497'
   lines:
-  - !!python/str "\u0433\xAB \_\u0431\u044F \xAB\u0431\_\u0451\u0434\u043D\u2026\u045A"
+  - "\u0433\xAB \_\u0431\u044F \xAB\u0431\_\u0451\u0434\u043D\u2026\u045A"
   start: !human_time '00:02:27.572'
 - end: !human_time '00:02:37.869'
   lines:
-  - !!python/str "\xAB\u0455\u0436 \_\u043D\u0434\u201D\u043D... \xAB\u0434\u0435\
-    \ \u043D\u040C\u2014\u0433 \xAB\u201D\_\u0455\u040F\xAB\u0405 \xAB\u0431\_\u0451\
-    \u0434\u043D\u2026"
-  - !!python/str "\xAB\u0431\_\u043D \_\u0434\u040F\u2018 \xAB\u0431\u0433\u0436\_\
-    \u043C"
+  - "\xAB\u0455\u0436 \_\u043D\u0434\u201D\u043D... \xAB\u0434\u0435 \u043D\u040C\u2014\
+    \u0433 \xAB\u201D\_\u0455\u040F\xAB\u0405 \xAB\u0431\_\u0451\u0434\u043D\u2026"
+  - "\xAB\u0431\_\u043D \_\u0434\u040F\u2018 \xAB\u0431\u0433\u0436\_\u043C"
   start: !human_time '00:02:31.049'
 - end: !human_time '00:02:44.783'
   lines:
-  - !!python/str "\u040F\xAB\u0455\u2026 \u0431\u2248\u201D\_\u0455\u040F\xAB\u0405\
-    \ \xAB\u0431\u2018\u043D\u0405\xB0 \xAB\u0431\u2018\u045C\u2019 \xAB\u0431\u2013\
-    \u043D \u043D\u201D\_\u040C\xF7\u2014  \xAB\u0431\xAB\u201D\_\u0455\u040F\xAB\u0405"
-  - !!python/str "\u043D\u045B\xBB \u221A\u0434 \u043D\xF7\u040C\u043D \xBB\xAB\u0431\
-    \xBB\u040F\xF7 \u0433\u0434 \u0455\u0433\u0435...."
+  - "\u040F\xAB\u0455\u2026 \u0431\u2248\u201D\_\u0455\u040F\xAB\u0405 \xAB\u0431\u2018\
+    \u043D\u0405\xB0 \xAB\u0431\u2018\u045C\u2019 \xAB\u0431\u2013\u043D \u043D\u201D\
+    \_\u040C\xF7\u2014  \xAB\u0431\xAB\u201D\_\u0455\u040F\xAB\u0405"
+  - "\u043D\u045B\xBB \u221A\u0434 \u043D\xF7\u040C\u043D \xBB\xAB\u0431\xBB\u040F\
+    \xF7 \u0433\u0434 \u0455\u0433\u0435...."
   start: !human_time '00:02:39.831'
 - end: !human_time '00:02:49.297'
   lines:
-  - !!python/str "\u0431\u044F\u0434 \u0431\u0435\u2013\u0435 \xAB\u0431\_\u0451\u0434\
-    \u043D\u0435, \u201D\u0433\u040F\_ \xAB\u0434\u0435 \u043D\_\u040E\u0431\xBB....."
+  - "\u0431\u044F\u0434 \u0431\u0435\u2013\u0435 \xAB\u0431\_\u0451\u0434\u043D\u0435\
+    , \u201D\u0433\u040F\_ \xAB\u0434\u0435 \u043D\_\u040E\u0431\xBB....."
   start: !human_time '00:02:45.311'
 - end: !human_time '00:02:56.871'
   lines:
-  - !!python/str ".....\xAB\u0431\_\xF7\u040C\u043D\u2026 \xAB\u0431\xBB\u2018\u2014\
-    \u043D\u2026 \xAB\u0431\u040C\u043D\u2026 \u0431\u2014\xBB\u040E \u2014\u0436\u040C\
-    \ \xAB\u0431\u0433\u0436\_\u043C"
-  - !!python/str "\u2248\u0431\u043C \u0435\u2013\xAB \xAB\u0431\u040F\xAB\u0431\u0433"
+  - ".....\xAB\u0431\_\xF7\u040C\u043D\u2026 \xAB\u0431\xBB\u2018\u2014\u043D\u2026\
+    \ \xAB\u0431\u040C\u043D\u2026 \u0431\u2014\xBB\u040E \u2014\u0436\u040C \xAB\u0431\
+    \u0433\u0436\_\u043C"
+  - "\u2248\u0431\u043C \u0435\u2013\xAB \xAB\u0431\u040F\xAB\u0431\u0433"
   start: !human_time '00:02:50.156'
 - end: !human_time '00:03:01.440'
   lines:
-  - !!python/str "\xAB\u2013\xAB \u0435\u2013\xAB\u0434 \xAB\u0431\u045B\u201D\u0433\
-    \xAB\u0434 \u221A\_\u043D\xAB \u0433\u0434 \xAB\u0431\_\xF7\u040C\u043D\xAB\_\
-    ....\u045A"
+  - "\xAB\u2013\xAB \u0435\u2013\xAB\u0434 \xAB\u0431\u045B\u201D\u0433\xAB\u0434\
+    \ \u221A\_\u043D\xAB \u0433\u0434 \xAB\u0431\_\xF7\u040C\u043D\xAB\_....\u045A"
   start: !human_time '00:02:57.373'
 - end: !human_time '00:03:02.899'
   lines:
-  - !!python/str "\u0434\u040F\u0433"
+  - "\u0434\u040F\u0433"
   start: !human_time '00:03:01.868'
 - end: !human_time '00:03:07.415'
   lines:
-  - !!python/str "\u0436\u040F\u0431\u043C \xAB\u0431\u221A\u045F\u0431\xBB, \u221A\
-    \u040C\xAB\u040E \xAB\u0431\_\u2014\xAB\xBB \u0436\xAB\u0431\u0436\u201D\u045C"
-  - !!python/str "\u045B\u201D\u0433 \xAB\u0431\xF7\u040C\u043D\u2026...."
+  - "\u0436\u040F\u0431\u043C \xAB\u0431\u221A\u045F\u0431\xBB, \u221A\u040C\xAB\u040E\
+    \ \xAB\u0431\_\u2014\xAB\xBB \u0436\xAB\u0431\u0436\u201D\u045C"
+  - "\u045B\u201D\u0433 \xAB\u0431\xF7\u040C\u043D\u2026...."
   start: !human_time '00:03:03.499'
 - end: !human_time '00:03:11.927'
   lines:
-  - !!python/str ".....\u0436\u2018\u044F\u0431\u2026 \xAB\u0431\u2014\u0436\u040C\
-    \ \xAB\u0431\u0433\u201D\_\u0455\u040F\u043D\u2026 \u2018\u044F\u0431 \xAB\u0431\
-    \u045B\u201D\u0433 \xAB\u0431\xAB\u2019\u0431\u043D"
+  - ".....\u0436\u2018\u044F\u0431\u2026 \xAB\u0431\u2014\u0436\u040C \xAB\u0431\u0433\
+    \u201D\_\u0455\u040F\u043D\u2026 \u2018\u044F\u0431 \xAB\u0431\u045B\u201D\u0433\
+    \ \xAB\u0431\xAB\u2019\u0431\u043D"
   start: !human_time '00:03:08.122'
 - end: !human_time '00:03:15.214'
   lines:
-  - !!python/str "\u0436\xBB\u201D\xBB\xBB \xAB\u0431\xBB\u040E\xAB\u0451\u2026 \xAB\
-    \u0431\_\u043D \u040B\xBB\_\_ \u040F\u0431\u043C \xAB\u0431\u2014\u221A\u201D\
-    ....."
+  - "\u0436\xBB\u201D\xBB\xBB \xAB\u0431\xBB\u040E\xAB\u0451\u2026 \xAB\u0431\_\u043D\
+    \ \u040B\xBB\_\_ \u040F\u0431\u043C \xAB\u0431\u2014\u221A\u201D....."
   start: !human_time '00:03:11.962'
 - end: !human_time '00:03:21.177'
   lines:
-  - !!python/str "\u2018\u045C\u2019\u043D\xAB\_\u0435\u0433 \u0451\_\u0431\_ \u0436\
-    \u0435\u0433 \u0433\u045B\u2014\u0455"
-  - !!python/str "\u0455\u0433\u043C \u0451\xAB\_\u0431\u0435"
+  - "\u2018\u045C\u2019\u043D\xAB\_\u0435\u0433 \u0451\_\u0431\_ \u0436\u0435\u0433\
+    \ \u0433\u045B\u2014\u0455"
+  - "\u0455\u0433\u043C \u0451\xAB\_\u0431\u0435"
   start: !human_time '00:03:15.863'
 - end: !human_time '00:03:25.568'
   lines:
-  - !!python/str "\u221A\u044F\_\u0433\u0431"
+  - "\u221A\u044F\_\u0433\u0431"
   start: !human_time '00:03:24.285'
 - end: !human_time '00:03:30.970'
   lines:
-  - !!python/str "\u0433\u0434\u045E\u2014\u044F\u0433\xAB , \u0436\u044F\u221A\u0434\
-    \u044F \xAB\u201D\_\u040F\u0433\u0431\_ \xAB\u0431\u0433\u0434\u045E\u2014"
+  - "\u0433\u0434\u045E\u2014\u044F\u0433\xAB , \u0436\u044F\u221A\u0434\u044F \xAB\
+    \u201D\_\u040F\u0433\u0431\_ \xAB\u0431\u0433\u0434\u045E\u2014"
   start: !human_time '00:03:26.909'
 - end: !human_time '00:03:35.246'
   lines:
-  - !!python/str "\u0435\u0431 \_\u040F\u2014\u0401 \u040C\xAB\u201D\u2026 \xAB\u0431\
-    \xAB\u2014\xF7\xAB\u0405"
+  - "\u0435\u0431 \_\u040F\u2014\u0401 \u040C\xAB\u201D\u2026 \xAB\u0431\xAB\u2014\
+    \xF7\xAB\u0405"
   start: !human_time '00:03:31.508'
 - end: !human_time '00:03:38.724'
   lines:
-  - !!python/str "\u0436\u201D\u040F\xAB\u0455\u2026 \xAB\u0431\u2014\xBB\u040C  \xBB\
-    \u2248\u043D\u2013\xAB\u0405 \xAB\u0431\u2018\u045C\u2019 \xAB\u0431\u2013\u043D"
-  - !!python/str "\u044F\u0434\_ \u221A\u0455\u040F\u0436\u0435  \xBB\xAB\u0431\u0433\
-    \u040F\u0431\u0433\u045A"
+  - "\u0436\u201D\u040F\xAB\u0455\u2026 \xAB\u0431\u2014\xBB\u040C  \xBB\u2248\u043D\
+    \u2013\xAB\u0405 \xAB\u0431\u2018\u045C\u2019 \xAB\u0431\u2013\u043D"
+  - "\u044F\u0434\_ \u221A\u0455\u040F\u0436\u0435  \xBB\xAB\u0431\u0433\u040F\u0431\
+    \u0433\u045A"
   start: !human_time '00:03:35.281'
 - end: !human_time '00:03:44.930'
   lines:
-  - !!python/str "\u045B\u0435\u201C\_ \u0435\u2013\u0435 \xAB\u0431\u201D\u043D\u0434\
-    \xAB\u2014\u043D\u0436\u0435\xAB \u0431\xAB\u0455\u040F\u044F \_\_\u221A\u0431\
-    \u0433"
-  - !!python/str "\xAB\u0431\u043C \u0435\u2013\xAB \xAB\u0431\u0434\u0436\u040F \u0433\
-    \u0434 \xAB\u0431\u201D\u040F\xAB\u0455\u2026..."
+  - "\u045B\u0435\u201C\_ \u0435\u2013\u0435 \xAB\u0431\u201D\u043D\u0434\xAB\u2014\
+    \u043D\u0436\u0435\xAB \u0431\xAB\u0455\u040F\u044F \_\_\u221A\u0431\u0433"
+  - "\xAB\u0431\u043C \u0435\u2013\xAB \xAB\u0431\u0434\u0436\u040F \u0433\u0434 \xAB\
+    \u0431\u201D\u040F\xAB\u0455\u2026..."
   start: !human_time '00:03:39.167'
 - end: !human_time '00:03:47.624'
   lines:
-  - !!python/str "\u0431\u2013\xAB \u2014\u045B\xAB\u0405 \xAB\u201D\_\u0433\_\u040F"
+  - "\u0431\u2013\xAB \u2014\u045B\xAB\u0405 \xAB\u201D\_\u0433\_\u040F"
   start: !human_time '00:03:45.349'
 - end: !human_time '00:04:14.142'
   lines:
-  - !!python/str "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
+  - "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
   start: !human_time '00:04:12.907'
 - end: !human_time '00:04:16.590'
   lines:
-  - !!python/str "\u0451\u0455 \u043D\xBB\u0455\u0436\u0434 \u0433\u040B\u0431\u0435\
-    \u0433..."
+  - "\u0451\u0455 \u043D\xBB\u0455\u0436\u0434 \u0433\u040B\u0431\u0435\u0433..."
   start: !human_time '00:04:14.796'
 - end: !human_time '00:04:21.463'
   lines:
-  - !!python/str "\u0431\u044F\u0434 \u0435\u2013\u0435 \u0431\u043D\u201D\_ \u040C\
-    \u0451\u043D\u0451\u2026 \xAB\u0431\xAB\u0436\u0431 \u0436\xAB\u0431\u040B\xAB\
-    \u0434\u043D"
+  - "\u0431\u044F\u0434 \u0435\u2013\u0435 \u0431\u043D\u201D\_ \u040C\u0451\u043D\
+    \u0451\u2026 \xAB\u0431\xAB\u0436\u0431 \u0436\xAB\u0431\u040B\xAB\u0434\u043D"
   start: !human_time '00:04:17.139'
 - end: !human_time '00:04:24.520'
   lines:
-  - !!python/str "\u221A\u040F\u2014\u0401"
+  - "\u221A\u040F\u2014\u0401"
   start: !human_time '00:04:22.580'
 - end: !human_time '00:04:43.296'
   lines:
-  - !!python/str "\u201D\u221A\u0435\xAB\u045B\u0433 \xAB\u0431\xAB\u0434"
+  - "\u201D\u221A\u0435\xAB\u045B\u0433 \xAB\u0431\xAB\u0434"
   start: !human_time '00:04:42.064'
 - end: !human_time '00:04:47.216'
   lines:
-  - !!python/str "\u040F\u0434\u2019\u2014 \xAB\u0431\u0434\xAB\u2014 - \u044F\xAB\
-    \u2014\u043D \u2248\u0434\u0455\xAB\u0434!"
+  - "\u040F\u0434\u2019\u2014 \xAB\u0431\u0434\xAB\u2014 - \u044F\xAB\u2014\u043D\
+    \ \u2248\u0434\u0455\xAB\u0434!"
   start: !human_time '00:04:44.787'
 - end: !human_time '00:05:12.635'
   lines:
-  - !!python/str "\u040F\u0434\u2019\u2014 \u0433\u201C\u0436\u0455 \xBB\xAB\u0431\
-    \u0433\xAB\u0405 - \u201D\u0436\u043D\u045B\u043D\u0434 \u0435\u043D\u044F\u043D\
-    !"
+  - "\u040F\u0434\u2019\u2014 \u0433\u201C\u0436\u0455 \xBB\xAB\u0431\u0433\xAB\u0405\
+    \ - \u201D\u0436\u043D\u045B\u043D\u0434 \u0435\u043D\u044F\u043D!"
   start: !human_time '00:05:10.562'
 - end: !human_time '00:05:21.284'
   lines:
-  - !!python/str "\u0431\xAB \u043D\u0433\u044F\u0434 \xAB\u0434 \u043D\u044F\u0436\
-    \u0434...!"
+  - "\u0431\xAB \u043D\u0433\u044F\u0434 \xAB\u0434 \u043D\u044F\u0436\u0434...!"
   start: !human_time '00:05:20.426'
 - end: !human_time '00:05:25.602'
   lines:
-  - !!python/str "\u2248\u201D\_\u040F\u0433\u0431 \u0433\u040B\u0431 \u0435\u2013\
-    \xAB \xAB\u0431\u040F\u0434\u2019\u2014\u0446 \xAB\u0431\u0433\xAB\u2206\u043D\
-    \ \u2013\u0436 \u0433\xAB\u0431\u201D\_\u0436\u043C \u040F\xAB\u0431\u043D"
-  - !!python/str "\xAB\u0431\_\u0451\u0434\u043D\u2026, \u040E\xBB\u0451\_ \xBB\u0455\
-    \u0436\u0434 \u0433\xAB\u0405!"
+  - "\u2248\u201D\_\u040F\u0433\u0431 \u0433\u040B\u0431 \u0435\u2013\xAB \xAB\u0431\
+    \u040F\u0434\u2019\u2014\u0446 \xAB\u0431\u0433\xAB\u2206\u043D \u2013\u0436 \u0433\
+    \xAB\u0431\u201D\_\u0436\u043C \u040F\xAB\u0431\u043D"
+  - "\xAB\u0431\_\u0451\u0434\u043D\u2026, \u040E\xBB\u0451\_ \xBB\u0455\u0436\u0434\
+    \ \u0433\xAB\u0405!"
   start: !human_time '00:05:21.721'
 - end: !human_time '00:05:27.498'
   lines:
-  - !!python/str "\u0431\xAB\u043D\u2019\u0455\u0451..."
+  - "\u0431\xAB\u043D\u2019\u0455\u0451..."
   start: !human_time '00:05:26.293'
 - end: !human_time '00:05:38.042'
   lines:
-  - !!python/str "\u0435\u2013\xAB \u043D\_\u0436\u0451\u040F \u0433\u0434 \u0435\u0436\
-    \u044F\xAB\u045B\u043D \u201D\xAB\xBB\u0451"
+  - "\u0435\u2013\xAB \u043D\_\u0436\u0451\u040F \u0433\u0434 \u0435\u0436\u044F\xAB\
+    \u045B\u043D \u201D\xAB\xBB\u0451"
   start: !human_time '00:05:34.808'
 - end: !human_time '00:05:44.059'
   lines:
-  - !!python/str "\u201D\u0436\u043D\_\u0436\u0434 - \u201D\u0436\u043D\u2014\u043D\
-    \ \u0455\xAB\u0434!"
+  - "\u201D\u0436\u043D\_\u0436\u0434 - \u201D\u0436\u043D\u2014\u043D \u0455\xAB\u0434\
+    !"
   start: !human_time '00:05:41.896'
 - end: !human_time '00:05:56.330'
   lines:
-  - !!python/str "\u0455\u0436\_\u0436\u0434 ( \u040F\u0434\u2019\u2014 \xAB\u0431\
-    \xAB\u2014\xF7) - \u0455\u0436\u2014\u043D \u0435\u043D\u044F\u043D!"
+  - "\u0455\u0436\_\u0436\u0434 ( \u040F\u0434\u2019\u2014 \xAB\u0431\xAB\u2014\xF7\
+    ) - \u0455\u0436\u2014\u043D \u0435\u043D\u044F\u043D!"
   start: !human_time '00:05:54.521'
 - end: !human_time '00:07:05.325'
   lines:
-  - !!python/str "\u0451\u0436\_\u044F \u0431\u043D\u201D \u0431\u0435\xAB \u0451\u040E\
-    \u040F\u2026 \u0436\xAB\u040C\u0455\u2026 \u0433\u040E\u0431\u0436\xBB\u2026...."
+  - "\u0451\u0436\_\u044F \u0431\u043D\u201D \u0431\u0435\xAB \u0451\u040E\u040F\u2026\
+    \ \u0436\xAB\u040C\u0455\u2026 \u0433\u040E\u0431\u0436\xBB\u2026...."
   start: !human_time '00:07:02.313'
 - end: !human_time '00:07:19.275'
   lines:
-  - !!python/str "\u0435\u2013\xAB \u221A\xBB\u2019\u040C \u0451\xAB\u201D\u043D,\
-    \ \xAB\u0431\_\u040F\xAB\u0433\u0431 \u0433\u040F \xAB\u040B\u0434\xAB\u0434 \u0401\
-    \u043D \xAC\u0434 \u0436\xAB\u040C\u0455...."
+  - "\u0435\u2013\xAB \u221A\xBB\u2019\u040C \u0451\xAB\u201D\u043D, \xAB\u0431\_\u040F\
+    \xAB\u0433\u0431 \u0433\u040F \xAB\u040B\u0434\xAB\u0434 \u0401\u043D \xAC\u0434\
+    \ \u0436\xAB\u040C\u0455...."
   start: !human_time '00:07:15.804'
 - end: !human_time '00:08:02.019'
   lines:
-  - !!python/str "\u0435\u2013\xAB \u201D\u043D\u0405..."
+  - "\u0435\u2013\xAB \u201D\u043D\u0405..."
   start: !human_time '00:08:00.811'
 - end: !human_time '00:08:04.903'
   lines:
-  - !!python/str "\xAB\u0431\_\u0451\u0434\u043D\u2026 \xAB\u0431\u201D\u2014\u043D\
-    \u2026 \u0401\u0451\u040E \u2018\u0436\u0455\u043D\u0433\u043D-\u201D\xAB\u0433\
-    \xAB  \u043D\u0451\u0455\u2014 \u040F\u0431\u043C \xAB\u201D\_\u040F\u0433\xAB\
-    \u0431\u0435\xAB...."
+  - "\xAB\u0431\_\u0451\u0434\u043D\u2026 \xAB\u0431\u201D\u2014\u043D\u2026 \u0401\
+    \u0451\u040E \u2018\u0436\u0455\u043D\u0433\u043D-\u201D\xAB\u0433\xAB  \u043D\
+    \u0451\u0455\u2014 \u040F\u0431\u043C \xAB\u201D\_\u040F\u0433\xAB\u0431\u0435\
+    \xAB...."
   start: !human_time '00:08:02.019'
 - end: !human_time '00:08:09.417'
   lines:
-  - !!python/str "\u201D\u2014 \_\u0451\u0434\u043D\u2026 \u0433\u0436\u044F\u0436\
-    \_\u0436...."
+  - "\u201D\u2014 \_\u0451\u0434\u043D\u2026 \u0433\u0436\u044F\u0436\_\u0436...."
   start: !human_time '00:08:07.526'
 - end: !human_time '00:08:15.620'
   lines:
-  - !!python/str "\u045B\u043D\u044F\xAB\u043D \u044F\u0436\u0455\xAB\u0434!"
+  - "\u045B\u043D\u044F\xAB\u043D \u044F\u0436\u0455\xAB\u0434!"
   start: !human_time '00:08:13.964'
 - end: !human_time '00:09:00.999'
   lines:
-  - !!python/str "\u040C\u0436\u0431 \xAB\u0431\u2018\xAB\u044F\u2014\xAB \xAB\u0431\
-    \u043C \u0433\u2019\u0455\u2014 \u0431\u0431\u040C\u043D\xAB\u2026...\u045A"
+  - "\u040C\u0436\u0431 \xAB\u0431\u2018\xAB\u044F\u2014\xAB \xAB\u0431\u043C \u0433\
+    \u2019\u0455\u2014 \u0431\u0431\u040C\u043D\xAB\u2026...\u045A"
   start: !human_time '00:08:58.325'
 - end: !human_time '00:09:03.543'
   lines:
-  - !!python/str "\u0433\u0455\u0435\u2018..."
+  - "\u0433\u0455\u0435\u2018..."
   start: !human_time '00:09:02.196'
 - end: !human_time '00:09:06.588'
   lines:
-  - !!python/str "\u0435\u2013\xAB \u043D\u045B\xBB \xAB\u0434 \_\u044F\u0436\u0434\
-    \ \u0436\xAB\u040C\u0455\u2026 \u0433\u0434 \u040F\u0434\u2019\u2014 \_\u0451\u0434\
-    \u043D\u2026"
-  - !!python/str "\xAB\u0431\u2018\u045B\u2014\u2026 \u0433\u0434 \u0451\xBB\u0431\
-    \ \xAB\u0431\xAB\u0436\u0431...."
+  - "\u0435\u2013\xAB \u043D\u045B\xBB \xAB\u0434 \_\u044F\u0436\u0434 \u0436\xAB\u040C\
+    \u0455\u2026 \u0433\u0434 \u040F\u0434\u2019\u2014 \_\u0451\u0434\u043D\u2026"
+  - "\xAB\u0431\u2018\u045B\u2014\u2026 \u0433\u0434 \u0451\xBB\u0431 \xAB\u0431\xAB\
+    \u0436\u0431...."
   start: !human_time '00:09:04.082'
 - end: !human_time '00:09:09.955'
   lines:
-  - !!python/str "\xAB\u0431\u2014\u045B\u0431 \xAB\u0431\u2013\u043D \u0436\xF7\u040F\
-    \ \u0434\u0435\xAB\u043D\u2026 \u040F\u2019\u2014 \xAB\u0431\u040C\u2014\u0436\
-    \xBB"
-  - !!python/str "\u0436\u221A\u201D\u201D \u044F\u0436\u0434\u0436\u0435\xAB"
+  - "\xAB\u0431\u2014\u045B\u0431 \xAB\u0431\u2013\u043D \u0436\xF7\u040F \u0434\u0435\
+    \xAB\u043D\u2026 \u040F\u2019\u2014 \xAB\u0431\u040C\u2014\u0436\xBB"
+  - "\u0436\u221A\u201D\u201D \u044F\u0436\u0434\u0436\u0435\xAB"
   start: !human_time '00:09:06.623'
 - end: !human_time '00:09:19.049'
   lines:
-  - !!python/str "\u221A\u045C\u043D\u2014\xAB \xAB\u0434\u0433\u201D\u044F\_, \u043D\
-    \xAB\u0433\u040F\u0431\u0433"
+  - "\u221A\u045C\u043D\u2014\xAB \xAB\u0434\u0433\u201D\u044F\_, \u043D\xAB\u0433\
+    \u040F\u0431\u0433"
   start: !human_time '00:09:14.685'
 - end: !human_time '00:09:34.660'
   lines:
-  - !!python/str "\u040C\u201D\u0434\xAB, \xAB\u0431\u045B\u0433\u043D\u040F \u0435\
-    \u0434\xAB"
+  - "\u040C\u201D\u0434\xAB, \xAB\u0431\u045B\u0433\u043D\u040F \u0435\u0434\xAB"
   start: !human_time '00:09:32.188'
 - end: !human_time '00:09:38.529'
   lines:
-  - !!python/str "\u040C\u201D\u0434\xAB \xAB\u0431\u045B\u0433\u043D\u040F, \xAB\u2013\
-    \u0435\xBB\u0436\xAB \xBB\u201D\u2014\u040F\u2026"
+  - "\u040C\u201D\u0434\xAB \xAB\u0431\u045B\u0433\u043D\u040F, \xAB\u2013\u0435\xBB\
+    \u0436\xAB \xBB\u201D\u2014\u040F\u2026"
   start: !human_time '00:09:34.999'
 - end: !human_time '00:09:45.221'
   lines:
-  - !!python/str "\u0431\xAB \_\u0435\u2014\u040F\u0436\xAB, \u0436\xAB\u0401\u040F\
-    \u0431\u0436\u0435\xAB \xBB\u0435\u0455\u0436\u0405"
+  - "\u0431\xAB \_\u0435\u2014\u040F\u0436\xAB, \u0436\xAB\u0401\u040F\u0431\u0436\
+    \u0435\xAB \xBB\u0435\u0455\u0436\u0405"
   start: !human_time '00:09:42.557'
 - end: !human_time '00:09:48.436'
   lines:
-  - !!python/str "\u044F\u0436\u0434\u0436\u0435\xAB\u0433\xAB\u2014\u0436, \u0433\
-    \xAB\u2013\xAB \u040C\u0455\u040B\u045A"
+  - "\u044F\u0436\u0434\u0436\u0435\xAB\u0433\xAB\u2014\u0436, \u0433\xAB\u2013\xAB\
+    \ \u040C\u0455\u040B\u045A"
   start: !human_time '00:09:45.221'
 - end: !human_time '00:09:51.231'
   lines:
-  - !!python/str "\u0435\u0431 \u0433\u040F\u0455\_\u044F \_\u0192\u0431\u0433\u044F\
-    \u045A"
+  - "\u0435\u0431 \u0433\u040F\u0455\_\u044F \_\u0192\u0431\u0433\u044F\u045A"
   start: !human_time '00:09:49.231'
 - end: !human_time '00:09:53.195'
   lines:
-  - !!python/str "\u0431\xAB...."
+  - "\u0431\xAB...."
   start: !human_time '00:09:51.943'
 - end: !human_time '00:09:55.563'
   lines:
-  - !!python/str "\u0431\u043D\u201D \u2013\u0431\u044F"
+  - "\u0431\u043D\u201D \u2013\u0431\u044F"
   start: !human_time '00:09:53.771'
 - end: !human_time '00:10:13.549'
   lines:
-  - !!python/str "\_\u0451\u0434\u043D\u2026 \xAB\u0431\xAB\u201D\_\u0455\u040F\xAB\
-    \u0405"
+  - "\_\u0451\u0434\u043D\u2026 \xAB\u0431\xAB\u201D\_\u0455\u040F\xAB\u0405"
   start: !human_time '00:10:11.417'
 - end: !human_time '00:10:16.615'
   lines:
-  - !!python/str "\xAB\u045C\u2014\u045B, \u043D\xAB\xAB\u0431\u0435 \u0433\u0431\u044F\
-    \ \xAB\u0431\u0451\u2014\u0455 \xAB\u0434\u0433\xAB!"
+  - "\xAB\u045C\u2014\u045B, \u043D\xAB\xAB\u0431\u0435 \u0433\u0431\u044F \xAB\u0431\
+    \u0451\u2014\u0455 \xAB\u0434\u0433\xAB!"
   start: !human_time '00:10:13.549'
 - end: !human_time '00:10:37.185'
   lines:
-  - !!python/str "\u045E\u0435\u2014 \u2018\u043D\u0405 \u0433\u201C\u040F\u045B..."
+  - "\u045E\u0435\u2014 \u2018\u043D\u0405 \u0433\u201C\u040F\u045B..."
   start: !human_time '00:10:34.205'
 - end: !human_time '00:10:43.474'
   lines:
-  - !!python/str "\xAB\u0431\u0451\u2014\u0455 \xAB\u0431\u2018\u043D\u045C, \xAB\u0434\
-    \u0433\xAB"
+  - "\xAB\u0431\u0451\u2014\u0455 \xAB\u0431\u2018\u043D\u045C, \xAB\u0434\u0433\xAB"
   start: !human_time '00:10:41.233'
 - end: !human_time '00:10:53.639'
   lines:
-  - !!python/str "\xAB\u0436\u2014\u0436\_\u2018\u043D\u0433\xAB\u2014\u043D..."
+  - "\xAB\u0436\u2014\u0436\_\u2018\u043D\u0433\xAB\u2014\u043D..."
   start: !human_time '00:10:52.004'
 - end: !human_time '00:10:56.091'
   lines:
-  - !!python/str "\u040F\u2014\u0401\_ \xAB\u0434 \u0435\u2013\xAB \u201D\u043D\u040C\
-    \u0455\u040B"
+  - "\u040F\u2014\u0401\_ \xAB\u0434 \u0435\u2013\xAB \u201D\u043D\u040C\u0455\u040B"
   start: !human_time '00:10:54.060'
 - end: !human_time '00:10:59.323'
   lines:
-  - !!python/str "\u0431\xAB\xBB\u0455 \xAB\u0434\u044F \u040C\u201C\u043D\u0434,\
-    \ \u201D\xAB\u2014\u0436\_\u0436\xBB\u043D"
+  - "\u0431\xAB\xBB\u0455 \xAB\u0434\u044F \u040C\u201C\u043D\u0434, \u201D\xAB\u2014\
+    \u0436\_\u0436\xBB\u043D"
   start: !human_time '00:10:57.299'
 - end: !human_time '00:11:02.315'
   lines:
-  - !!python/str "\u043D\u045B\xBB \xAB\u0434 \_\u0451\_\u0431\u0435 \u040B\xAB\u0434\
-    \u043D\_\xAB"
+  - "\u043D\u045B\xBB \xAB\u0434 \_\u0451\_\u0431\u0435 \u040B\xAB\u0434\u043D\_\xAB"
   start: !human_time '00:10:59.773'
 - end: !human_time '00:11:04.616'
   lines:
-  - !!python/str "\u201D\u221A\u0401\u040F\u0431\u0435\xAB \xAB\u0431\xAB\u0434"
+  - "\u201D\u221A\u0401\u040F\u0431\u0435\xAB \xAB\u0431\xAB\u0434"
   start: !human_time '00:11:02.768'
 - end: !human_time '00:11:07.317'
   lines:
-  - !!python/str "\u0433\_\u221A\u045C\u2014 \u045B\u0455\xAB"
+  - "\u0433\_\u221A\u045C\u2014 \u045B\u0455\xAB"
   start: !human_time '00:11:05.843'
 - end: !human_time '00:11:12.763'
   lines:
-  - !!python/str "\u221A\u2014\u045B\u0436\u044F \xAB\u0434\u0433\xAB..."
+  - "\u221A\u2014\u045B\u0436\u044F \xAB\u0434\u0433\xAB..."
   start: !human_time '00:11:10.715'
 - end: !human_time '00:11:14.347'
   lines:
-  - !!python/str "\_\u040C\u0436\u0431 \xAB\u0431\u043C \u044F\u0436\u0434\u0436\u044F\
-    \u0436 \u0434\u043D\u0436"
+  - "\_\u040C\u0436\u0431 \xAB\u0431\u043C \u044F\u0436\u0434\u0436\u044F\u0436 \u0434\
+    \u043D\u0436"
   start: !human_time '00:11:12.798'
 - end: !human_time '00:11:17.249'
   lines:
-  - !!python/str "\u221A\u0451\_\u0431\u0436\u0435\u0433"
+  - "\u221A\u0451\_\u0431\u0436\u0435\u0433"
   start: !human_time '00:11:15.917'
 - end: !human_time '00:11:19.130'
   lines:
-  - !!python/str "\u0431\xAB\_\u0455\u040F\u0436\u0435 \u043D\_\u040C\u0436\u0431"
+  - "\u0431\xAB\_\u0455\u040F\u0436\u0435 \u043D\_\u040C\u0436\u0431"
   start: !human_time '00:11:17.284'
 - end: !human_time '00:11:24.528'
   lines:
-  - !!python/str "\u040C\u201D\u0434\xAB"
+  - "\u040C\u201D\u0434\xAB"
   start: !human_time '00:11:22.463'
 - end: !human_time '00:11:35.112'
   lines:
-  - !!python/str "\xAB\u0431\_\u040C\u0436\u0431"
+  - "\xAB\u0431\_\u040C\u0436\u0431"
   start: !human_time '00:11:34.062'
 - end: !human_time '00:11:43.442'
   lines:
-  - !!python/str "\u040C\u201D\u0434\xAB"
+  - "\u040C\u201D\u0434\xAB"
   start: !human_time '00:11:42.584'
 - end: !human_time '00:11:51.078'
   lines:
-  - !!python/str "\u0433\u0455\u0435\u2018..."
+  - "\u0433\u0455\u0435\u2018..."
   start: !human_time '00:11:49.986'
 - end: !human_time '00:11:53.817'
   lines:
-  - !!python/str "\u0433\xAB\u0435\u2013\xAB \xAB\u0431\u0433\u201D\_\u0436\u043C\
-    \ \xAB\u0431\u040F\xAB\u0431\u043D \u0431\u0433\u040F\u2014\u044F\u2026 \xAB\u0431\
-    \u0434\u043D\u0434\u045B\xAB...."
+  - "\u0433\xAB\u0435\u2013\xAB \xAB\u0431\u0433\u201D\_\u0436\u043C \xAB\u0431\u040F\
+    \xAB\u0431\u043D \u0431\u0433\u040F\u2014\u044F\u2026 \xAB\u0431\u0434\u043D\u0434\
+    \u045B\xAB...."
   start: !human_time '00:11:51.419'
 - end: !human_time '00:11:57.432'
   lines:
-  - !!python/str "\u0435\u2013\xAB \u0433\xAB \u043D\u040F\u0434\u043D \u221A\u0434\
-    \ \u043D\u044F\u0436\u0434 \xBB\u0433\u201D\_\u0436\u043C \xAB\u0431\u0435\u0436\
-    \u044F\xAB\u045B\u043D!"
+  - "\u0435\u2013\xAB \u0433\xAB \u043D\u040F\u0434\u043D \u221A\u0434 \u043D\u044F\
+    \u0436\u0434 \xBB\u0433\u201D\_\u0436\u043C \xAB\u0431\u0435\u0436\u044F\xAB\u045B\
+    \u043D!"
   start: !human_time '00:11:54.512'
 - end: !human_time '00:11:59.733'
   lines:
-  - !!python/str "\u201D\u221A\_\u2014\u044F \u2013\u0431\u044F \u043D\u2013\u0435\
-    \xBB"
+  - "\u201D\u221A\_\u2014\u044F \u2013\u0431\u044F \u043D\u2013\u0435\xBB"
   start: !human_time '00:11:58.273'
 - end: !human_time '00:12:03.466'
   lines:
-  - !!python/str "\u221A\u045C\u043D\u2014\xAB \xAB\u0431\xAB\u2018\u043D\xAB\u0405\
-    \ \xBB\u0455\u221A\_  \_\u2019\xBB\u040C \u0433\u040B\u043D\u2014\u0435"
+  - "\u221A\u045C\u043D\u2014\xAB \xAB\u0431\xAB\u2018\u043D\xAB\u0405 \xBB\u0455\u221A\
+    \_  \_\u2019\xBB\u040C \u0433\u040B\u043D\u2014\u0435"
   start: !human_time '00:12:00.198'
 - end: !human_time '00:12:18.023'
   lines:
-  - !!python/str "\u201D\u043D\u0401 \xAB\u0431\u044F\u0436\u201D\xAB\u0434\xAB\u045B\
-    \u043D\u045A"
+  - "\u201D\u043D\u0401 \xAB\u0431\u044F\u0436\u201D\xAB\u0434\xAB\u045B\u043D\u045A"
   start: !human_time '00:12:15.341'
 - end: !human_time '00:12:27.370'
   lines:
-  - !!python/str "\u0431\u0434\xBB\u0455\u221A, \xAB\u0434\u0433\xAB"
+  - "\u0431\u0434\xBB\u0455\u221A, \xAB\u0434\u0433\xAB"
   start: !human_time '00:12:25.754'
 - end: !human_time '00:12:29.991'
   lines:
-  - !!python/str "\u040C\_\u043C \u0431\u0436 \u221A\u0434\u0434\u043D \u2019\u0431\
-    \xBB \u044F\u0433\xAB \xAB\u0431\xAB\u0431\u0433\xAB\u201D...."
+  - "\u040C\_\u043C \u0431\u0436 \u221A\u0434\u0434\u043D \u2019\u0431\xBB \u044F\u0433\
+    \xAB \xAB\u0431\xAB\u0431\u0433\xAB\u201D...."
   start: !human_time '00:12:27.627'
 - end: !human_time '00:12:32.698'
   lines:
-  - !!python/str "\xAB\u0431\u201D\u043D\u0401 \u0433\u0434 \u044F\u0436\u201D\xAB\
-    \u0434\xAB\u045B\u043D \u201D\u043D\xBB\u0451\u043C \u043D\u0192\u2013\u043D\u0434\
-    \u043D"
+  - "\xAB\u0431\u201D\u043D\u0401 \u0433\u0434 \u044F\u0436\u201D\xAB\u0434\xAB\u045B\
+    \u043D \u201D\u043D\xBB\u0451\u043C \u043D\u0192\u2013\u043D\u0434\u043D"
   start: !human_time '00:12:30.026'
 - end: !human_time '00:13:29.575'
   lines:
-  - !!python/str "\u0401\u2014\u2019\_\u043D"
+  - "\u0401\u2014\u2019\_\u043D"
   start: !human_time '00:13:28.473'
 - end: !human_time '00:13:37.423'
   lines:
-  - !!python/str "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
+  - "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
   start: !human_time '00:13:35.992'
 - end: !human_time '00:13:40.877'
   lines:
-  - !!python/str "\u221A\u040C\u0433\u0451"
+  - "\u221A\u040C\u0433\u0451"
   start: !human_time '00:13:39.688'
 - end: !human_time '00:13:45.789'
   lines:
-  - !!python/str "\u221A\u0434\_ \u0431\u0433  \_\u040C\u0455\u040B  \u221A\u045B\u0436\
-    \xBB\u2026 \xAB\u0431\u045E\u0431 \u040C\_\u043C"
-  - !!python/str "\u040F\u0434\u0455\u0433\xAB \u0435\xAB\u045B\u0433\_\u0434\u043D"
+  - "\u221A\u0434\_ \u0431\u0433  \_\u040C\u0455\u040B  \u221A\u045B\u0436\xBB\u2026\
+    \ \xAB\u0431\u045E\u0431 \u040C\_\u043C"
+  - "\u040F\u0434\u0455\u0433\xAB \u0435\xAB\u045B\u0433\_\u0434\u043D"
   start: !human_time '00:13:41.289'
 - end: !human_time '00:13:47.904'
   lines:
-  - !!python/str "\u0431\xAB...."
+  - "\u0431\xAB...."
   start: !human_time '00:13:46.517'
 - end: !human_time '00:13:50.990'
   lines:
-  - !!python/str "\u0431\u0433 \u043D\u0434\u201D\u043C \xAB\u201D\_\u040F\u0433\xAB\
-    \u0431\u0435\xAB.......\u0431\u044F\u0434\u0435 \u0431\xAB\u043D\u0451\u0455\u2014"
+  - "\u0431\u0433 \u043D\u0434\u201D\u043C \xAB\u201D\_\u040F\u0433\xAB\u0431\u0435\
+    \xAB.......\u0431\u044F\u0434\u0435 \u0431\xAB\u043D\u0451\u0455\u2014"
   start: !human_time '00:13:48.288'
 - end: !human_time '00:13:54.328'
   lines:
-  - !!python/str "\u040F\u0431\u043C \u045C\u0431\xAB\u0401 \u221A\u043D\xAB\u0433\
-    \ \u201C\u0433\xAB\u0434, \u0451\u0455\u2014\u2026 \u2018\xAB\u044F\u2014\xAB\
-    \ \xAB\u0431\u040B\xAB\u0431\u040B....."
+  - "\u040F\u0431\u043C \u045C\u0431\xAB\u0401 \u221A\u043D\xAB\u0433 \u201C\u0433\
+    \xAB\u0434, \u0451\u0455\u2014\u2026 \u2018\xAB\u044F\u2014\xAB \xAB\u0431\u040B\
+    \xAB\u0431\u040B....."
   start: !human_time '00:13:51.416'
 - end: !human_time '00:13:58.498'
   lines:
-  - !!python/str "\u0433\u0434\u2013 \u221A\u0434 \u043D\u0434\u2018\u2014 \u045B\u0436\
-    \xAB\xBB \xAB\u0431\u045E\u0431"
-  - !!python/str "\xAB\u0431\u2018\xAB\u044F\u2014\xAB \xBB\xAB\u0431\_\u201D\xAB\u0436\
-    \u043D...."
+  - "\u0433\u0434\u2013 \u221A\u0434 \u043D\u0434\u2018\u2014 \u045B\u0436\xAB\xBB\
+    \ \xAB\u0431\u045E\u0431"
+  - "\xAB\u0431\u2018\xAB\u044F\u2014\xAB \xBB\xAB\u0431\_\u201D\xAB\u0436\u043D...."
   start: !human_time '00:13:54.925'
 - end: !human_time '00:14:01.080'
   lines:
-  - !!python/str "\u0431\xAB\u2018\u044F \xBB\u2013\u0431\u044F, \u0431\u0433 \u043D\
-    \u040C\u2019\u0431 \u040F\u0431\u043C \xAB\u0431\u2018\xAB\u044F\u2014\xAB \u0431\
-    \u0431\xAB\u201C\u0433\u2026"
+  - "\u0431\xAB\u2018\u044F \xBB\u2013\u0431\u044F, \u0431\u0433 \u043D\u040C\u2019\
+    \u0431 \u040F\u0431\u043C \xAB\u0431\u2018\xAB\u044F\u2014\xAB \u0431\u0431\xAB\
+    \u201C\u0433\u2026"
   start: !human_time '00:13:58.533'
 - end: !human_time '00:14:05.263'
   lines:
-  - !!python/str "\xAB\u0434\u0435 \u044F\xBB\u043D\u2014 \xBB\xAB\u0431\u201D\u0434"
+  - "\xAB\u0434\u0435 \u044F\xBB\u043D\u2014 \xBB\xAB\u0431\u201D\u0434"
   start: !human_time '00:14:02.468'
 - end: !human_time '00:14:13.644'
   lines:
-  - !!python/str "\u0435\u0431 \xAB\u0434\_ \xBB\u045C\u043D\u2014, \u043D\xAB\u0433\
-    \u040F\u0431\u0433\u045A"
+  - "\u0435\u0431 \xAB\u0434\_ \xBB\u045C\u043D\u2014, \u043D\xAB\u0433\u040F\u0431\
+    \u0433\u045A"
   start: !human_time '00:14:11.214'
 - end: !human_time '00:14:17.137'
   lines:
-  - !!python/str "\u221A\u2014\u045B\u0436\u044F \xAB\u0434\u0435\xF7"
+  - "\u221A\u2014\u045B\u0436\u044F \xAB\u0434\u0435\xF7"
   start: !human_time '00:14:14.806'
 - end: !human_time '00:14:20.381'
   lines:
-  - !!python/str "\u044F\u0434\_ \_\u0455\u040F\u043C \xBB\xAB\u0431\xAB\u201D\_\xAB\
-    \u2013"
+  - "\u044F\u0434\_ \_\u0455\u040F\u043C \xBB\xAB\u0431\xAB\u201D\_\xAB\u2013"
   start: !human_time '00:14:18.250'
 - end: !human_time '00:14:25.668'
   lines:
-  - !!python/str "\u0431\u0431\u0433\u040F\u2014\u0401\u2026 \u0436 \xAB\u201D\_\u040F\
-    \u0433\xAB\u0431 \u044F\u0431 \xAB\u0431\_\u0451\u0434\u043D\xAB"
-  - !!python/str "\xAB\u0431\u0433\u040F\u2014\u0436\u0401\u2026 \u0401\u043D, \u044F\
-    \u0436\u0434\u0436\u0435\xAB, \u2019\u040C\u043D\u040C\u045A"
+  - "\u0431\u0431\u0433\u040F\u2014\u0401\u2026 \u0436 \xAB\u201D\_\u040F\u0433\xAB\
+    \u0431 \u044F\u0431 \xAB\u0431\_\u0451\u0434\u043D\xAB"
+  - "\xAB\u0431\u0433\u040F\u2014\u0436\u0401\u2026 \u0401\u043D, \u044F\u0436\u0434\
+    \u0436\u0435\xAB, \u2019\u040C\u043D\u040C\u045A"
   start: !human_time '00:14:20.416'
 - end: !human_time '00:14:29.393'
   lines:
-  - !!python/str "\u221A\u2014\u045B\u0436\u044F \u0431\xAB\_\u045C\u043D\xBB \u221A\
-    \u0433\u0431\u043D"
+  - "\u221A\u2014\u045B\u0436\u044F \u0431\xAB\_\u045C\u043D\xBB \u221A\u0433\u0431\
+    \u043D"
   start: !human_time '00:14:26.308'
 - end: !human_time '00:14:34.896'
   lines:
-  - !!python/str "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
+  - "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
   start: !human_time '00:14:33.476'
 - end: !human_time '00:14:38.709'
   lines:
-  - !!python/str "\u221A\u2014\u045B\u0436\u044F \xAB\u0434\u0435\xF7 \u0436\u221A\
-    \u0434\u0451\u2013 \u0451\u2014\u043D\u2026 \u044F\u0436\u0434\u0436\u0435\xAB"
+  - "\u221A\u2014\u045B\u0436\u044F \xAB\u0434\u0435\xF7 \u0436\u221A\u0434\u0451\u2013\
+    \ \u0451\u2014\u043D\u2026 \u044F\u0436\u0434\u0436\u0435\xAB"
   start: !human_time '00:14:34.931'
 - end: !human_time '00:14:40.307'
   lines:
-  - !!python/str "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
+  - "\u0435\u0436\u044F\xAB\u045B\u043D-\u201D\xAB\u0433\xAB"
   start: !human_time '00:14:38.744'
 - end: !human_time '00:14:44.276'
   lines:
-  - !!python/str "\u040C\u0433\u0451\u043C"
+  - "\u040C\u0433\u0451\u043C"
   start: !human_time '00:14:42.909'
 - end: !human_time '00:14:46.693'
   lines:
-  - !!python/str "\_\u221A\u045C\u2014 \u044F\u040B\u043D\u2014\xAB"
+  - "\_\u221A\u045C\u2014 \u044F\u040B\u043D\u2014\xAB"
   start: !human_time '00:14:44.536'
 - end: !human_time '00:14:58.087'
   lines:
-  - !!python/str "\u201D\xAB\u2014\u0436\_\u0436\xBB\u043D, \u0433\xAB\u2013\xAB \u040C\
-    \u0455\u040B\u045A"
+  - "\u201D\xAB\u2014\u0436\_\u0436\xBB\u043D, \u0433\xAB\u2013\xAB \u040C\u0455\u040B\
+    \u045A"
   start: !human_time '00:14:55.787'
 - end: !human_time '00:15:01.421'
   lines:
-  - !!python/str "\u0431\xAB\_\u0433\u040B\u0431 \u040F\u0431\u043C \u0434\u0401\u201D\
-    \u044F"
+  - "\u0431\xAB\_\u0433\u040B\u0431 \u040F\u0431\u043C \u0434\u0401\u201D\u044F"
   start: !human_time '00:14:58.892'
 - end: !human_time '00:15:03.962'
   lines:
-  - !!python/str "\xAC\u0455\xAB\u2206\u044F \xBB\xAB\u2206\u201D"
+  - "\xAC\u0455\xAB\u2206\u044F \xBB\xAB\u2206\u201D"
   start: !human_time '00:15:01.984'
 - end: !human_time '00:15:06.431'
   lines:
-  - !!python/str "\u0431\u0433\xAB\u2013\xAB \_\_\u2014\u0455\u0455\u045A"
+  - "\u0431\u0433\xAB\u2013\xAB \_\_\u2014\u0455\u0455\u045A"
   start: !human_time '00:15:04.466'
 - end: !human_time '00:15:09.869'
   lines:
-  - !!python/str "\u043D\u045B\xBB \xAB\u0434 \_\xF7\u040F \u0434\u0435\xAB\u043D\u2026\
-    \ \u0431\u0435\u2013\xAB"
+  - "\u043D\u045B\xBB \xAB\u0434 \_\xF7\u040F \u0434\u0435\xAB\u043D\u2026 \u0431\u0435\
+    \u2013\xAB"
   start: !human_time '00:15:07.466'
 - end: !human_time '00:15:19.281'
   lines:
-  - !!python/str "\xAB\u0436\u2014\u0436\_\u2018\u043D\u0433\xAB\u2014\u043D..."
+  - "\xAB\u0436\u2014\u0436\_\u2018\u043D\u0433\xAB\u2014\u043D..."
   start: !human_time '00:15:17.682'
 - end: !human_time '00:15:28.071'
   lines:
-  - !!python/str "\u043D\xAB \u221A\u040C\u0433\u0451"
+  - "\u043D\xAB \u221A\u040C\u0433\u0451"
   start: !human_time '00:15:25.228'
 - end: !human_time '00:15:40.553'
   lines:
-  - !!python/str "\xAB\u0436\u2014\u0436\_\u2018\u043D\u0433\xAB\u2014\u0436 \u0435\
-    \u2013\xAB \u0431\u044F"
+  - "\xAB\u0436\u2014\u0436\_\u2018\u043D\u0433\xAB\u2014\u0436 \u0435\u2013\xAB \u0431\
+    \u044F"
   start: !human_time '00:15:36.635'
 - end: !human_time '00:15:43.744'
   lines:
-  - !!python/str "\u201D\u221A\u044F\u201D\u2014 \u040F\u0434\u0451\u044F"
+  - "\u201D\u221A\u044F\u201D\u2014 \u040F\u0434\u0451\u044F"
   start: !human_time '00:15:40.836'
 - end: !human_time '00:17:01.841'
   lines:
-  - !!python/str "\xAB\u2013\xAB \u044F\u0433\xAB \xAB\u040F\_\u0451\u0455\_...\u043D\
-    \u045B\xBB \u221A\u0434 \u221A\u0401\u040F\u0431 \u2018\u043D\u0405 \u0433\xAB\
-    \ \u040C\u0436\u0431"
-  - !!python/str "\xAB\u0431\xAB\u2014\u0436\xAB\u040C  \xAB\u0431\u0433\u040C\u2019\
-    \u0436\u2014\u2026 \xBB\u0436\xAB\u201D\u040E\u2026 \u2248\u0455\u0436 \_\u043D\
-    \u0434\u201D\u043D\u043D.."
+  - "\xAB\u2013\xAB \u044F\u0433\xAB \xAB\u040F\_\u0451\u0455\_...\u043D\u045B\xBB\
+    \ \u221A\u0434 \u221A\u0401\u040F\u0431 \u2018\u043D\u0405 \u0433\xAB \u040C\u0436\
+    \u0431"
+  - "\xAB\u0431\xAB\u2014\u0436\xAB\u040C  \xAB\u0431\u0433\u040C\u2019\u0436\u2014\
+    \u2026 \xBB\u0436\xAB\u201D\u040E\u2026 \u2248\u0455\u0436 \_\u043D\u0434\u201D\
+    \u043D\u043D.."
   start: !human_time '00:16:54.436'
 - end: !human_time '00:17:08.857'
   lines:
-  - !!python/str "\xBB\_\u0431\u044F \xAB\u0431\u040C\xAB\u0431\u2026, \u043D\u045B\
-    \xBB \xAB\u0434 \xAB\u201D\_\u040F\u0433\u0431 \xAB\u0431\_\u0451\u0434\u043D\u2026\
-    \ \xAB\u0431\u2014\xAB\xBB\u040F\u2026"
+  - "\xBB\_\u0431\u044F \xAB\u0431\u040C\xAB\u0431\u2026, \u043D\u045B\xBB \xAB\u0434\
+    \ \xAB\u201D\_\u040F\u0433\u0431 \xAB\u0431\_\u0451\u0434\u043D\u2026 \xAB\u0431\
+    \u2014\xAB\xBB\u040F\u2026"
   start: !human_time '00:17:03.126'
 - end: !human_time '00:17:17.244'
   lines:
-  - !!python/str "\xAB\u0431\xAB\u0436\u0431, \xAB\u0431\u040B\xAB\u0434\u043D...\u201D\
-    \xAB\u0433\u040C\u0436\u0434\u043D"
+  - "\xAB\u0431\xAB\u0436\u0431, \xAB\u0431\u040B\xAB\u0434\u043D...\u201D\xAB\u0433\
+    \u040C\u0436\u0434\u043D"
   start: !human_time '00:17:12.788'
 - end: !human_time '00:17:20.658'
   lines:
-  - !!python/str "\u201D\u0436\u0401 \u221A\u201D\_\u040F\u0433\u0431 \xAB\u0431\_\
-    \u0451\u0434\u043D\u2026 \u040F\u0431\u043D\u044F\u0433\xAB"
+  - "\u201D\u0436\u0401 \u221A\u201D\_\u040F\u0433\u0431 \xAB\u0431\_\u0451\u0434\u043D\
+    \u2026 \u040F\u0431\u043D\u044F\u0433\xAB"
   start: !human_time '00:17:17.279'
 - end: !human_time '00:17:23.956'
   lines:
-  - !!python/str "\u043D\xAB\u0433\u040F\u0431\u0433"
+  - "\u043D\xAB\u0433\u040F\u0431\u0433"
   start: !human_time '00:17:22.499'
 - end: !human_time '00:17:27.656'
   lines:
-  - !!python/str "\u0431\u0451\u0455 \_\u0451\u0455\u0433\_ \xBB\xAB\u0431\u201D\u0434"
+  - "\u0431\u0451\u0455 \_\u0451\u0455\u0433\_ \xBB\xAB\u0431\u201D\u0434"
   start: !human_time '00:17:24.589'
 - end: !human_time '00:17:34.287'
   lines:
-  - !!python/str "\u0431\u0433 \u221A\u2018\xAB\u0435\u0455\u044F \u221A\xBB\u0455\
-    \xAB \u0433\u0434\u0435\u044F \u0435\u044F\u2013\xAB \u0433\u0434 \u0451\xBB\u0431"
+  - "\u0431\u0433 \u221A\u2018\xAB\u0435\u0455\u044F \u221A\xBB\u0455\xAB \u0433\u0434\
+    \u0435\u044F \u0435\u044F\u2013\xAB \u0433\u0434 \u0451\xBB\u0431"
   start: !human_time '00:17:28.013'
 - end: !human_time '00:17:40.842'
   lines:
-  - !!python/str "\u0433\xAB \xAB\u0431\u0433\xF7\u040C\u044F\u045A"
+  - "\u0433\xAB \xAB\u0431\u0433\xF7\u040C\u044F\u045A"
   start: !human_time '00:17:38.872'
 - end: !human_time '00:17:44.010'
   lines:
-  - !!python/str "\xAB\u0434\u0435 \u2014\xAB\u2206\u040F"
+  - "\xAB\u0434\u0435 \u2014\xAB\u2206\u040F"
   start: !human_time '00:17:42.072'
 - end: !human_time '00:17:49.486'
   lines:
-  - !!python/str "\u040C\_\u043C \u221A\u0434\u044F\xB0 \xAB\u0431\u0436\u040C\u043D\
-    \u0455 \xAB\u0431\u2013\u043D \u0433\u045B\u0455"
-  - !!python/str ".... \u044F\u2248\u0431\u0435 \u044F\u0431 \xAB\u0431\u0434\u043D\
-    \u0434\u045B\xAB"
+  - "\u040C\_\u043C \u221A\u0434\u044F\xB0 \xAB\u0431\u0436\u040C\u043D\u0455 \xAB\
+    \u0431\u2013\u043D \u0433\u045B\u0455"
+  - ".... \u044F\u2248\u0431\u0435 \u044F\u0431 \xAB\u0431\u0434\u043D\u0434\u045B\
+    \xAB"
   start: !human_time '00:17:44.638'
 - end: !human_time '00:17:51.859'
   lines:
-  - !!python/str "\u0431\xAB \u043D\u201D\_\u040E\u043D\u040F \xF7\u2014\xBB \xAB\u0431\
-    \u2018\u043D\u045C\u0436\u045C\u2026"
+  - "\u0431\xAB \u043D\u201D\_\u040E\u043D\u040F \xF7\u2014\xBB \xAB\u0431\u2018\u043D\
+    \u045C\u0436\u045C\u2026"
   start: !human_time '00:17:49.486'
 - end: !human_time '00:17:59.074'
   lines:
-  - !!python/str "\u0433\xAB \u2013\u0431\u044F\u045A"
+  - "\u0433\xAB \u2013\u0431\u044F\u045A"
   start: !human_time '00:17:57.330'
 - end: !human_time '00:18:01.156'
   lines:
-  - !!python/str "\u0433\xAB\u2013\xAB \u043D\u040C\u0455\u040B\u045A"
+  - "\u0433\xAB\u2013\xAB \u043D\u040C\u0455\u040B\u045A"
   start: !human_time '00:17:59.109'
 - end: !human_time '00:18:05.604'
   lines:
-  - !!python/str "\u0433\u0434 \_\u0431\u044F \xAB\u0431\u2018\xAB\xBB\u2026\u045A"
+  - "\u0433\u0434 \_\u0431\u044F \xAB\u0431\u2018\xAB\xBB\u2026\u045A"
   start: !human_time '00:18:03.092'
 - end: !human_time '00:18:09.793'
   lines:
-  - !!python/str "\u0433\u0434 \xAB\u0434\_\u045A!"
+  - "\u0433\u0434 \xAB\u0434\_\u045A!"
   start: !human_time '00:18:07.427'
 - end: !human_time '00:18:14.290'
   lines:
-  - !!python/str "\u043D\u045E\u0435\u2014 \u0433\u040B\u0431\u044F, \u0431\xAB \_\
-    \u201D\_\u040E\u043D\u040F \xAB\u0434 \_\u0455\u2014\u044F"
-  - !!python/str "\xAB\u201D\_\u040C\u0451\xAB\u0451 \u044F\u0433 \u044F\xAB\u0434\
-    \ \u045F\u043D\u2014 \u0433\_\u0436\u0451\u040F"
+  - "\u043D\u045E\u0435\u2014 \u0433\u040B\u0431\u044F, \u0431\xAB \_\u201D\_\u040E\
+    \u043D\u040F \xAB\u0434 \_\u0455\u2014\u044F"
+  - "\xAB\u201D\_\u040C\u0451\xAB\u0451 \u044F\u0433 \u044F\xAB\u0434 \u045F\u043D\
+    \u2014 \u0433\_\u0436\u0451\u040F"
   start: !human_time '00:18:10.700'
 - end: !human_time '00:18:17.421'
   lines:
-  - !!python/str "\u0435\u2013\xAB \xAB\u0434\xAB, \xAB\u0436\u2014\u0436\_\u2018\u043D\
-    \u0433\xAB\u2014\u043D"
+  - "\u0435\u2013\xAB \xAB\u0434\xAB, \xAB\u0436\u2014\u0436\_\u2018\u043D\u0433\xAB\
+    \u2014\u043D"
   start: !human_time '00:18:14.290'
 - end: !human_time '00:18:21.167'
   lines:
-  - !!python/str "\xAB\u0434\_...."
+  - "\xAB\u0434\_...."
   start: !human_time '00:18:19.537'
 - end: !human_time '00:18:24.592'
   lines:
-  - !!python/str "\u221A\u044F\u0433\u0431\_ \_\u0431\u044F \xAB\u0431\_\u0451\u0434\
-    \u043D\u2026 \xAB\u0431\u0433\u0433\u0434\u0436\u040F\u2026\u045A!"
+  - "\u221A\u044F\u0433\u0431\_ \_\u0431\u044F \xAB\u0431\_\u0451\u0434\u043D\u2026\
+    \ \xAB\u0431\u0433\u0433\u0434\u0436\u040F\u2026\u045A!"
   start: !human_time '00:18:21.521'
 - end: !human_time '00:18:33.819'
   lines:
-  - !!python/str "\xAB\u0434\_ \u0433\u045C\u0431\u0436\u0451 \u0436\u040C\u2018\u043D\
-    \ \u0401\u045E\u043D\u040F"
+  - "\xAB\u0434\_ \u0433\u045C\u0431\u0436\u0451 \u0436\u040C\u2018\u043D \u0401\u045E\
+    \u043D\u040F"
   start: !human_time '00:18:30.271'
 - end: !human_time '00:19:02.068'
   lines:
-  - !!python/str "\u221A\u045C\u043D\u2014\xAB \u0436\u045B\_\u044F"
+  - "\u221A\u045C\u043D\u2014\xAB \u0436\u045B\_\u044F"
   start: !human_time '00:19:00.253'
 - end: !human_time '00:19:07.371'
   lines:
-  - !!python/str "\u0435\u2013\xAB \u0431\u044F\u0433 \u045B\u0433\u043D\u040F\xAB"
+  - "\u0435\u2013\xAB \u0431\u044F\u0433 \u045B\u0433\u043D\u040F\xAB"
   start: !human_time '00:19:04.749'
 - end: !human_time '00:19:08.480'
   lines:
-  - !!python/str "\xAB\u0431\u0431\u040F\u0434\u2026...."
+  - "\xAB\u0431\u0431\u040F\u0434\u2026...."
   start: !human_time '00:19:07.406'
 - end: !human_time '00:19:11.990'
   lines:
-  - !!python/str "\u043D\u2018\u043D\u0435\xAB \u201D\xAB\u201D\u044F\u043D"
+  - "\u043D\u2018\u043D\u0435\xAB \u201D\xAB\u201D\u044F\u043D"
   start: !human_time '00:19:09.725'
 - end: !human_time '00:19:16.576'
   lines:
-  - !!python/str "\u0431\u0434 \_\u2013\u0435\xBB\u0436\xAB \xAB\u0431\u043D \u221A\
-    \u043D \u0433\u044F\xAB\u0434, \xAB\u0431\xAB\u0434"
+  - "\u0431\u0434 \_\u2013\u0435\xBB\u0436\xAB \xAB\u0431\u043D \u221A\u043D \u0433\
+    \u044F\xAB\u0434, \xAB\u0431\xAB\u0434"
   start: !human_time '00:19:13.916'
