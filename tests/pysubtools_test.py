@@ -31,7 +31,7 @@ class TestCase(unittest.TestCase):
     tmpfd, tmp = tempfile.mkstemp()
     tmpfd2, tmp2 = tempfile.mkstemp()
     subtitle.save(io.BufferedWriter(io.FileIO(tmpfd, mode = 'w')))
-    subtitle.save(io.BufferedWriter(io.FileIO(tmpfd2, mode = 'w')), safe = False)
+    subtitle.save(io.BufferedWriter(io.FileIO(tmpfd2, mode = 'w')), human_time = False)
 
     # Load it and test
     assert Subtitle.from_file(tmp) == subtitle
@@ -61,7 +61,7 @@ class TestCase(unittest.TestCase):
     tmpfd, tmp = tempfile.mkstemp()
     tmpfd2, tmp2 = tempfile.mkstemp()
     subtitle.save(GzipFile(tmp, mode = 'wb'))
-    subtitle.save(GzipFile(tmp2, mode = 'wb'), safe = False)
+    subtitle.save(GzipFile(tmp2, mode = 'wb'), human_time = False)
 
     # Load it and test
     assert Subtitle.from_file(GzipFile(tmp, mode = 'rb')) == subtitle
