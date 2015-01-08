@@ -3,17 +3,28 @@ from __future__ import absolute_import
 import io
 import yaml
 
-class HumanTime(object):
-  __slots__ = (
-    'hours',
-    'minutes',
-    'seconds'
-  )
+class HumanTime(yaml.YAMLObject):
+  yaml_loader = yaml.SafeLoader
+  yaml_dumper = yaml.SafeDumper
+
+  yaml_tag = u'!human_time'
 
   def __init__(self, hours = 0, minutes = 0, seconds = 0.):
     self.hours   = hours
     self.minutes = minutes
     self.seconds = seconds
+
+  @classmethod
+  def from_yaml(cls, loader, node):
+    value = loader.construct_scalar(node)
+    return cls.from_string(value).to_seconds()
+
+  @classmethod
+  def to_yaml(cls, dumper, data):
+    if isinstance(data, (int, float)):
+      data = cls.from_seconds(data)
+
+    return dumper.represent_scalar(u'!human_time', unicode(data))
 
   @classmethod
   def from_seconds(cls, time):
@@ -46,19 +57,6 @@ class HumanTime(object):
 
   def to_seconds(self):
     return self.hours * 3600 + self.minutes * 60 + self.seconds
-
-def human_time_representer(dumper, data):
-  if isinstance(data, (int, float)):
-    data = HumanTime.from_seconds(data)
-
-  return dumper.represent_scalar(u'!human_time', unicode(data))
-
-def human_time_constructor(loader, node):
-  value = loader.construct_scalar(node)
-  return HumanTime.from_string(value).to_seconds()
-
-yaml.add_representer(HumanTime, human_time_representer)
-yaml.add_constructor(u"!human_time", human_time_constructor)
 
 class SubtitleUnit(object):
   """Class for holding time and text data of a subtitle unit."""
@@ -177,11 +175,11 @@ class SubtitleUnit(object):
   def __repr__(self):
     return "SubtitleUnit({}, {}, {}, {})".format(self.start, self.end, self.lines, self.meta)
 
-  def to_dict(self, safe = False):
+  def to_dict(self, human_time = True):
     """Returns subtitle unit as a dict (with some human readable things)."""
     output = dict(
-      start = HumanTime.from_seconds(self.start) if not safe else self.start,
-      end   = HumanTime.from_seconds(self.end) if not safe else self.end,
+      start = HumanTime.from_seconds(self.start) if human_time else self.start,
+      end   = HumanTime.from_seconds(self.end) if human_time else self.end,
     )
     # Other meta are just ordinary keys (forward compatibility)
     output.update(self.meta)
@@ -329,7 +327,7 @@ class Subtitle(object):
   def from_yaml(cls, input):
     """Loads a subtitle from YAML format, uses yaml.load - some security considerations apply."""
     # Construct a python dict
-    data = yaml.load(input)
+    data = yaml.safe_load(input)
 
     # Return our subtitle
     return cls.from_dict(data)
@@ -338,30 +336,26 @@ class Subtitle(object):
   def from_multi_yaml(cls, input):
     """Loads multiple subtitles from YAML format, uses yaml.load_all - some security considerations apply."""
     output = []
-    for data in yaml.load_all(input):
+    for data in yaml.safe_load_all(input):
       output.append(cls.from_dict(data))
 
     # Return our subtitle
     return output
 
-  def dump(self, output = None, safe = False, allow_unicode = True):
+  def dump(self, output = None, human_time = True, allow_unicode = True):
     """Dumps this subtitle in YAML format."""
     # Construct a python dict
     obj = dict()
     obj.update(self.meta)
-    obj['units'] = [i.to_dict(safe) for i in self._units]
-    if safe:
-      dump = yaml.safe_dump
-    else:
-      dump = yaml.dump
+    obj['units'] = [i.to_dict(human_time) for i in self._units]
     # Dump it
-    return dump(obj, output, encoding           = 'utf-8',
-                             allow_unicode      = allow_unicode,
-                             indent             = 2,
-                             explicit_start     = True,
-                             default_flow_style = False)
+    return yaml.safe_dump(obj, output, encoding           = 'utf-8',
+                                       allow_unicode      = allow_unicode,
+                                       indent             = 2,
+                                       explicit_start     = True,
+                                       default_flow_style = False)
 
-  def save(self, output, safe = False, close = True, allow_unicode = True):
+  def save(self, output, human_time = True, close = True, allow_unicode = True):
     """
     Saves the subtitle in native (YAML) format. If 'output' is file object, it will
     be closed if 'close' set to True after save is done.
@@ -379,7 +373,8 @@ class Subtitle(object):
     # Put a text wrapper around it
     output = io.TextIOWrapper(output, encoding = 'utf-8')
 
-    self.dump(output, safe, allow_unicode = allow_unicode)
+    self.dump(output, human_time = human_time,
+                      allow_unicode = allow_unicode)
 
     if close:
       output.close()
