@@ -307,7 +307,7 @@ class Subtitle(object):
     if isinstance(input, basestring):
       input = io.BufferedReader(io.open(input, 'rb'))
     if isinstance(input, file):
-      input = io.BufferedReader(io.FileIO(input.fileno()), closefd = False)
+      input = io.BufferedReader(io.FileIO(input.fileno(), closefd = False))
     if not isinstance(input, io.BufferedIOBase):
       raise TypeError("Load method accepts filename or file object.")
     input = io.TextIOWrapper(input)
