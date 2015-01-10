@@ -8,6 +8,7 @@ import io
 
 from pysubtools import Subtitle, SubtitleUnit
 from pysubtools.parsers import Parser
+from pysubtools.exporters import Exporter
 from pysubtools.utils import PatchedGzipFile as GzipFile
 
 class TestCase(unittest.TestCase):
@@ -149,3 +150,67 @@ class TestCase(unittest.TestCase):
         assert parser.encoding == encoding
         assert parser.warnings == warnings
         assert sub == parsed
+
+  def test_subrip_export(self):
+    """Tests SubRip exporter on a simple subtitle."""
+    subtitle = Subtitle()
+    subtitle.add_unit(SubtitleUnit(
+      start = 15,
+      end   = 30,
+      lines = [u'First line with \u0161']
+    ))
+    subtitle.add_unit(SubtitleUnit(
+      start = 65,
+      end   = 89,
+      lines = [u'Another, but a two liner \u010d',
+               u'Yes, I  said two liner! \u017e']
+    ))
+    subtitle.add_unit(SubtitleUnit(
+      start = 3665,
+      end   = 3689,
+      lines = [u'Another, but a two liner \u010d',
+               u'Yes, I  said two liner! \u017e']
+    ))
+
+    # Construct exporter
+    exporter = Exporter.from_format('SubRip')
+
+    # Export
+    buf = io.BytesIO()
+    exporter.export(buf, subtitle)
+
+    # Now, check the outputted subtitle
+    assert buf.getvalue() == """1
+00:00:15,000 --> 00:00:30,000
+First line with \xc5\xa1
+
+2
+00:01:05,000 --> 00:01:29,000
+Another, but a two liner \xc4\x8d
+Yes, I  said two liner! \xc5\xbe
+
+3
+01:01:05,000 --> 01:01:29,000
+Another, but a two liner \xc4\x8d
+Yes, I  said two liner! \xc5\xbe
+"""
+
+    # Now we try with different encoding
+    buf = io.BytesIO()
+    exporter = Exporter.from_format('SubRip', encoding = 'cp1250')
+    exporter.export(buf, subtitle)
+
+    assert buf.getvalue() == """1
+00:00:15,000 --> 00:00:30,000
+First line with \x9a
+
+2
+00:01:05,000 --> 00:01:29,000
+Another, but a two liner \xe8
+Yes, I  said two liner! \x9e
+
+3
+01:01:05,000 --> 01:01:29,000
+Another, but a two liner \xe8
+Yes, I  said two liner! \x9e
+"""
