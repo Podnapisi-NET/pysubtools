@@ -5,12 +5,14 @@ file. The Subtitle object also supports save and from_file. It uses it's
 own SIF (Subtitle Intermediate Format) which is just a plain YAML predefined
 structure with some additional constructors.
 
-Currently only SubRip parser is implemented, other parts are yet to come.
+Currently only SubRip parser and exporter is implemented, other parts are
+yet to come.
 
-A quick example:
+A quick example of parsing:
 import pysubtools
 # Let's detect parser from data
-parser = pysubtools.parser.Parser.from_data(open('sub.srt', 'rb'), encoding = 'windows-1250')
+parser = pysubtools.parser.Parser.from_data(open('sub.srt', 'rb'),
+                                            encoding = 'windows-1250')
 sub = parser.parse()
 
 # Fifth unit
@@ -31,3 +33,21 @@ parser = pysubtools.parser.Parser.from_format('SubRip')
 fileobj = open('sub.srt', 'rb')
 # Can use guess table for specific language
 sub = parser.parse(GzipFile(fileobj = fileobj), language = 'sl')
+
+And an example of export (let's say we have the 'sub' from previous example):
+
+exporter = pysubtools.exporters.Exporter.from_format('SubRip')
+
+# Let us export it into io.BytesIO
+import io
+buf = io.BytesIO()
+exporter.export(buf, sub)
+# And we have utf-8 encoded string in buf
+
+# Let us now export it into a file with different encoding
+new_exporter = pysubtools.exporters.Exporter.from_format('SubRip',
+                                                         encoding = 'cp1250')
+new_exporter.export('test.srt', sub)
+
+# And we have a cp-1250 encoded subtitle :). You may also use GzipFile to
+# produce compressed subtitles.
