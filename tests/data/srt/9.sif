@@ -3,6 +3,11 @@ units:
 - end: !human_time '00:00:00.000'
   lines: []
   start: !human_time '00:00:00.000'
+- end: !human_time '00:00:00.000'
+  lines:
+  - "TRADU\u05B7\u05B3O E SINCRONIZA\u05B7\u05B3O:"
+  - FRANCISCO ROCHA
+  start: !human_time '02:00:00.000'
 - end: !human_time '00:02:42.800'
   lines:
   - "Ele est\u05D1 morto."
@@ -42,6 +47,11 @@ units:
 - end: !human_time '00:03:40.040'
   lines: []
   start: !human_time '00:03:40.000'
+- end: !human_time '00:00:00.000'
+  lines:
+  - "O que voc\u05DA"
+  - "est\u05D1 fazendo aqui fora?"
+  start: !human_time '13:00:00.000'
 - end: !human_time '00:03:45.520'
   lines:
   - Oh, fui contratado pra escoltar
@@ -2899,13 +2909,3 @@ units:
   lines:
   - Bem-vindo ao outro mundo.
   start: !human_time '01:50:41.200'
-- end: !human_time '00:00:00.000'
-  lines:
-  - "TRADU\u05B7\u05B3O E SINCRONIZA\u05B7\u05B3O:"
-  - FRANCISCO ROCHA
-  start: !human_time '02:00:00.000'
-- end: !human_time '00:00:00.000'
-  lines:
-  - "O que voc\u05DA"
-  - "est\u05D1 fazendo aqui fora?"
-  start: !human_time '13:00:00.000'
