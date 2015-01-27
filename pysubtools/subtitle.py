@@ -17,7 +17,7 @@ class HumanTime(yaml.YAMLObject):
   @classmethod
   def from_yaml(cls, loader, node):
     value = loader.construct_scalar(node)
-    return cls.from_string(value).to_seconds()
+    return float(cls.from_string(value))
 
   @classmethod
   def to_yaml(cls, dumper, data):
@@ -54,6 +54,12 @@ class HumanTime(yaml.YAMLObject):
     return u'{:02d}:{:02d}:{:06.3f}'.format(self.hours,
                                             self.minutes,
                                             self.seconds)
+
+  def __float__(self):
+    return self.to_seconds()
+
+  def __int__(self):
+    return int(self.to_seconds())
 
   def to_seconds(self):
     return self.hours * 3600 + self.minutes * 60 + self.seconds
