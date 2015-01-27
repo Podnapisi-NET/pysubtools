@@ -253,6 +253,10 @@ class Subtitle(object):
     """Proxy for internal storage."""
     return self._units.index(unit)
 
+  def insert(self, index, unit):
+    """Proxy for internal storage."""
+    return self._units.insert(index, unit)
+
   def __getitem__(self, index):
     """Proxy for internal storage."""
     return self._units[index]
