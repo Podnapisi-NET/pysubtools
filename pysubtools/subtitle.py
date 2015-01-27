@@ -66,21 +66,12 @@ class HumanTime(yaml.YAMLObject):
 
 class SubtitleUnit(object):
   """Class for holding time and text data of a subtitle unit."""
-  __slots__ = (
-    'start',
-    'end',
-    'meta',
-    'lines'
-  )
-
   def __init__(self, start, end, lines = None, **meta):
     self.start = float(start)
     self.end = float(end)
-    self.meta = {}
     self.lines = []
 
-    if isinstance(meta, dict):
-      self.meta.update(meta)
+    self.__dict__.update(meta)
 
     if lines is not None:
       if not isinstance(lines, (list, set)):
@@ -117,7 +108,7 @@ class SubtitleUnit(object):
 
   def get_moved(self, distance):
     """Same as SubtitleUnit.move, just returns a copy while itself is unchanged."""
-    clone = SubtitleUnit(self.start, self.end, self.lines, self.meta)
+    clone = SubtitleUnit(**self.__dict__)
     clone.move(distance)
     return clone
 
@@ -131,9 +122,18 @@ class SubtitleUnit(object):
 
   def get_stretched(self, factor):
     """Same as SubtitleUnit.stretch, just returns a copy while itself is unchanged."""
-    clone = SubtitleUnit(self.start, self.end, self.lines, self.meta)
+    clone = SubtitleUnit(**self.__dict__)
     clone.stretch(factor)
     return clone
+
+  @property
+  def meta(self):
+    d = dict(self.__dict__)
+    # Remove important part of metadata and lines
+    d.pop('start')
+    d.pop('end')
+    d.pop('lines')
+    return d
 
   def __sub__(self, other):
     """See SubtitleUnit.get_moved."""
@@ -167,24 +167,23 @@ class SubtitleUnit(object):
     if not isinstance(other, SubtitleUnit):
       raise TypeError("Can compare only with other SubtitleUnit, provided with '{}'".format(type(other)))
 
-    if not self.lines == other.lines and self.meta == other.meta and self.start == other.start and self.end == other.end:
-      print self.lines, other.lines
-      print self.meta, other.meta
-      print self.start, other.start
-      print self.end, other.end
-    return self.lines == other.lines and self.meta == other.meta and self.start == other.start and self.end == other.end
+    return self.__dict__ == other.__dict__
 
   def __repr__(self):
-    return "SubtitleUnit({}, {}, {}, {})".format(self.start, self.end, self.lines, self.meta)
+    d = dict(self.__dict__)
+    # Get known attributes
+    start = d.pop('start')
+    end = d.pop('end')
+    lines = d.pop('lines')
+    return "SubtitleUnit({}, {}, {}, {})".format(start, end, lines, d)
 
   def to_dict(self, human_time = True):
     """Returns subtitle unit as a dict (with some human readable things)."""
-    output = dict(
-      start = HumanTime.from_seconds(self.start) if human_time else self.start,
-      end   = HumanTime.from_seconds(self.end) if human_time else self.end,
-    )
-    # Other meta are just ordinary keys (forward compatibility)
-    output.update(self.meta)
+    output = {}
+    output.update(self.__dict__)
+    # Overide custom attributes
+    output['start'] = HumanTime.from_seconds(self.start) if human_time else self.start
+    output['end']   = HumanTime.from_seconds(self.end) if human_time else self.end
     # And lines
     output['lines'] = [i.encode('utf-8') for i in self.lines]
     return output
@@ -192,6 +191,7 @@ class SubtitleUnit(object):
   @classmethod
   def from_dict(cls, input):
     """Creates SubtitleUnit from specified 'input' dict."""
+    input = dict(input)
     return cls(
       lines = [i.decode('utf-8') if isinstance(i, str) else i for i in input.pop('lines', [])],
       **input
@@ -203,16 +203,11 @@ class Subtitle(object):
 
   To load a subtitle in non-native format, use parsers.Parser.from_data.
   """
-  __slots__ = (
-    '_units',
-    'meta'
-  )
-
-  def __init__(self, units = None, **meta):
+  def __init__(self, units = [], **meta):
     self._units = []
-    self.meta = {}
-    if meta:
-      self.meta.update(meta)
+    self.__dict__.update(meta)
+    for unit in units:
+      self.append(unit)
 
   def add_unit(self, unit):
     """Adds a new 'unit' and sorts the units. If adding many units, use append instead."""
@@ -293,19 +288,19 @@ class Subtitle(object):
     # TODO make possible to test with string?
     return unit in self._units
 
+  @property
+  def meta(self):
+    # Remove non-metadata from dict
+    d = dict(self.__dict__)
+    d.pop('_unit', None)
+    return d
+
   @classmethod
   def from_dict(cls, data):
     """Creates Subtitle object from dict, parsed from YAML."""
-    obj = cls()
-    # Put it into obj
-    # Take known metadata
-    # Units are special...
-    for i in data.pop('units', []):
-      obj._units.append(SubtitleUnit.from_dict(i))
-    # And everything else is a meta
-    obj.meta.update(data)
-
-    return obj
+    data = dict(data)
+    data['units'] = [SubtitleUnit.from_dict(i) for i in data.get('units', [])]
+    return cls(**data)
 
   @classmethod
   def from_file(cls, input, multi = False):
@@ -354,9 +349,8 @@ class Subtitle(object):
   def dump(self, output = None, human_time = True, allow_unicode = True):
     """Dumps this subtitle in YAML format with safe dumper."""
     # Construct a python dict
-    obj = dict()
-    obj.update(self.meta)
-    obj['units'] = [i.to_dict(human_time) for i in self._units]
+    obj = dict(self.__dict__)
+    obj['units'] = [i.to_dict(human_time) for i in obj.pop('_units')]
     # Dump it
     return yaml.safe_dump(obj, output, encoding           = 'utf-8',
                                        allow_unicode      = allow_unicode,
