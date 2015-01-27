@@ -214,19 +214,10 @@ class Subtitle(object):
     if meta:
       self.meta.update(meta)
 
-  def add_unit(self, unit, order = True):
-    """
-    Adds a new 'unit'.
-
-    Parameters:
-      order - If True it will also sort the units. Set False if you plan to add a lot of units.
-    """
-    if not isinstance(unit, SubtitleUnit):
-      raise TypeError("Can add only SubtitleUnit, you passed '{}'".format(type(unit)))
-
-    self._units.append(unit)
-    if order:
-      self.order()
+  def add_unit(self, unit):
+    """Adds a new 'unit' and sorts the units. If adding many units, use append instead."""
+    self.append(unit)
+    self.order()
 
   def order(self):
     """Maintains order of subtitles."""
@@ -247,15 +238,31 @@ class Subtitle(object):
 
   def remove(self, unit):
     """Proxy for internal storage."""
+    if not isinstance(unit, SubtitleUnit):
+      raise TypeError("Can remove only SubtitleUnit, you passed '{}'".format(type(unit)))
+
     self._units.remove(unit)
 
   def index(self, unit):
     """Proxy for internal storage."""
+    if not isinstance(unit, SubtitleUnit):
+      raise TypeError("Can index only SubtitleUnit, you passed '{}'".format(type(unit)))
+
     return self._units.index(unit)
 
   def insert(self, index, unit):
     """Proxy for internal storage."""
+    if not isinstance(unit, SubtitleUnit):
+      raise TypeError("Can add only SubtitleUnit, you passed '{}'".format(type(unit)))
+
     return self._units.insert(index, unit)
+
+  def append(self, unit):
+    """Proxy for internal storage."""
+    if not isinstance(unit, SubtitleUnit):
+      raise TypeError("Can add only SubtitleUnit, you passed '{}'".format(type(unit)))
+
+    return self._units.append(unit)
 
   def __getitem__(self, index):
     """Proxy for internal storage."""
