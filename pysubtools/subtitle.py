@@ -73,7 +73,7 @@ class SubtitleUnit(object):
     'lines'
   )
 
-  def __init__(self, start, end, lines = None, meta = None):
+  def __init__(self, start, end, lines = None, **meta):
     self.start = float(start)
     self.end = float(end)
     self.meta = {}
@@ -81,10 +81,6 @@ class SubtitleUnit(object):
 
     if isinstance(meta, dict):
       self.meta.update(meta)
-    # Pop known meta properties
-    self.meta.pop('start', None)
-    self.meta.pop('end', None)
-    self.meta.pop('lines', None)
 
     if lines is not None:
       if not isinstance(lines, (list, set)):
@@ -197,10 +193,8 @@ class SubtitleUnit(object):
   def from_dict(cls, input):
     """Creates SubtitleUnit from specified 'input' dict."""
     return cls(
-      start = input.pop('start'),
-      end   = input.pop('end'),
       lines = [i.decode('utf-8') if isinstance(i, str) else i for i in input.pop('lines', [])],
-      meta  = input,
+      **input
     )
 
 class Subtitle(object):
@@ -214,13 +208,11 @@ class Subtitle(object):
     'meta'
   )
 
-  def __init__(self, meta = None):
+  def __init__(self, units = None, **meta):
     self._units = []
     self.meta = {}
     if meta:
       self.meta.update(meta)
-    # Pop known meta properties
-    self.meta.pop('units', None)
 
   def add_unit(self, unit, order = True):
     """

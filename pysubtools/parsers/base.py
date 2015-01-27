@@ -104,7 +104,7 @@ class Parser(object):
     sub = Subtitle()
     for unit in self._parse():
       start, end = unit['header']['time']
-      sub.add_unit(SubtitleUnit(start, end, unit['lines'], unit.get('meta')))
+      sub.add_unit(SubtitleUnit(start, end, unit['lines'], **unit.get('meta', {})))
     sub.order()
     return sub
 
