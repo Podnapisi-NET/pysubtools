@@ -1,0 +1,6 @@
+!!python/tuple
+- ISO-8859-2
+- - col: 21
+    description: !!python/unicode 'Missing empty line after unit.'
+    line: !!python/unicode 'www.nlondertitels.com'
+    line_number: 4987

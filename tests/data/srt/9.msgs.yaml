@@ -1,0 +1,10 @@
+!!python/tuple
+- windows-1255
+- - col: 1
+    description: !!python/unicode 'Duplicated time information, ignoring.'
+    line: !!python/unicode "00:00:04,000 --> 00:00:08,000\r\n"
+    line_number: 6
+  - col: 1
+    description: !!python/unicode 'Duplicated time information, ignoring.'
+    line: !!python/unicode "00:03:41,080 --> 00:03:42,000\r\n"
+    line_number: 51

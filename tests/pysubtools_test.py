@@ -2,9 +2,9 @@ from __future__ import absolute_import
 
 import unittest
 import os
-import pickle
 import tempfile
 import io
+import yaml
 
 from pysubtools import Subtitle, SubtitleUnit
 from pysubtools.parsers import Parser
@@ -138,12 +138,13 @@ class TestCase(unittest.TestCase):
         parsed = parser.parse(f)
 
         result = os.path.join(root, filename[:-4])
-        if os.path.isfile(result + '.pickle'):
-          (encoding, warnings) = pickle.load(open(result + '.pickle', 'r'))
+        if os.path.isfile(result + '.msgs.yaml'):
+          (encoding, warnings) = yaml.load(open(result + '.msgs.yaml', 'r'))
           sub = Subtitle.from_file(result + '.sif')
         else:
           # Write it
-          pickle.dump((parser.encoding, parser.warnings), open(result + '.pickle', 'w'))
+          yaml.dump((parser.encoding, parser.warnings), open(result + '.msgs.yaml', 'w'),
+                    default_flow_style = False)
           parsed.save(result + '.sif', allow_unicode = False)
           continue
 
