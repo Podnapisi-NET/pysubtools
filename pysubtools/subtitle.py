@@ -263,6 +263,13 @@ class Subtitle(object):
     """Proxy for internal storage."""
     return self._units[index]
 
+  def __setitem__(self, index, unit):
+    """Proxy for internal storage."""
+    if not isinstance(unit, SubtitleUnit):
+      raise TypeError("Can add only SubtitleUnit, you passed '{}'".format(type(unit)))
+
+    self._units[index] = unit
+
   def __delitem__(self, index):
     """Proxy for internal storage."""
     del self._units[index]
