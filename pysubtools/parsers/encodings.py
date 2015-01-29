@@ -39,8 +39,9 @@ def guess_from_lang(lang):
   return guesses.get(lang, [])
 
 def can_decode(data, encoding):
+  reader = None
+  proper = False
   try:
-    data.seek(0)
     reader = io.TextIOWrapper(data, encoding, newline = '')
     proper = True
     # Go through data
@@ -49,11 +50,13 @@ def can_decode(data, encoding):
         if char in line:
           proper = False
           break
-    reader.detach()
-    data.seek(0)
-    return proper
   except UnicodeDecodeError:
-    return False
+    proper = False
+
+  if reader:
+    reader.detach()
+  data.seek(0)
+  return proper
 
 def detect(data, encoding = None, language = None):
   """
@@ -64,7 +67,7 @@ def detect(data, encoding = None, language = None):
   if not isinstance(data, (io.BytesIO, io.BufferedReader)):
     raise TypeError("Needs to be a buffered file object.")
 
-  tried_encodings = []
+  tried_encodings = set()
 
   # Check for BOM (100% confidence)
   test_data = data.read(8)
@@ -92,12 +95,14 @@ def detect(data, encoding = None, language = None):
     if can_decode(data, encoding if not isinstance(encoding, tuple) else encoding[0]):
       # We've found it!
       break
-    tried_encodings.append(encoding if not isinstance(encoding, tuple) else encoding[0])
+    tried_encodings.add(encoding if not isinstance(encoding, tuple) else encoding[0])
 
-    encodings.insert(0, similar_encodings.get(encoding if not isinstance(encoding, tuple) else encoding[0]))
+    similar = similar_encodings.get(encoding if not isinstance(encoding, tuple) else encoding[0])
+    if similar:
+      encodings += list(set(similar).difference(tried_encodings))
     if not encodings:
       # We lost :(
-      raise EncodingError("Could not detect proper encoding", tried_encodings)
+      raise EncodingError("Could not detect proper encoding", list(tried_encodings))
 
   if not isinstance(encoding, tuple):
     encoding = (encoding, None)

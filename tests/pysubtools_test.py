@@ -152,6 +152,33 @@ class TestCase(unittest.TestCase):
         assert parser.warnings == warnings
         assert sub == parsed
 
+  def test_encoding(self):
+    """Tests if internal encoder tester works as it should (premature IO closures are the concern)"""
+    f = open('./tests/data/corner/encoding_detection.srt', 'rb')
+
+    # Test all possible paths
+    parser = Parser.from_format('SubRip')
+
+    # As fileobj
+    sub1 = parser.parse(f)
+
+    # As string
+    f.seek(0)
+    sub2 = parser.parse(f.read())
+
+    # As from_data with fileobj
+    f.seek(0)
+    parser = parser.from_data(f)
+    sub3 = parser.parse()
+
+    # As from_data with string
+    f.seek(0)
+    parser = parser.from_data(f.read())
+    sub4 = parser.parse()
+
+    # All of them must be the same
+    assert sub1 == sub2 == sub3 == sub4
+
   def test_subrip_export(self):
     """Tests SubRip exporter on a simple subtitle."""
     subtitle = Subtitle()
