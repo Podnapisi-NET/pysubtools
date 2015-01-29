@@ -31,6 +31,10 @@ class SubRipStateMachine(object):
   # Parts of unit
   _sequence = re.compile(r'^\s*\d+\s*$')
   _header = re.compile(r'^\s*[0-9:,.]+\s*-->\s*[0-9:,.]+\s*$')
+  _tagged_header = re.compile(r'^\{([^}]*)\}')
+
+  # Tagged properties
+  _tag_position = re.compile(r'\s*\\pos\(\s*(\d+)\s*,\s*(\d+)\s*\)\s*')
 
   def __init__(self, data):
     self.data = data
@@ -112,17 +116,16 @@ class SubRipStateMachine(object):
 
     if self.current_state == self.unit_text:
       # We need to remove last empty line
-      del self.temp['lines'][-1]
+      del self.temp['data']['lines'][-1]
 
   @after('found_sequence')
   def create_unit(self):
     self._parsed = self.temp
     self.temp = {
       'sequence': int(self.current_line.strip()),
-      'header': {
-        'time': {}
+      'data': {
+        'lines': []
       },
-      'lines': []
     }
 
   @before('found_header')
@@ -156,17 +159,19 @@ class SubRipStateMachine(object):
     start, end = start.group(0).split(':'), end.group(0).split(':')
 
     convert = lambda x: int(x[0]) * 3600 + int(x[1]) * 60 + float(x[2].replace(',', '.'))
-    self.temp['header']['time'] = (convert(start), convert(end))
+    self.temp['data'].update(dict(
+      start = convert(start),
+      end = convert(end)
+    ))
 
   @after('skip_sequence')
   def fix_sequence_skip(self):
     self._parsed = self.temp
     self.temp = {
       'sequence': self.temp['sequence'] + 1,
-      'header': {
-        'time': {}
+      'data': {
+        'lines': []
       },
-      'lines': []
     }
     self.parse_time()
 
@@ -182,7 +187,26 @@ class SubRipStateMachine(object):
 
   @after('found_text')
   def insert_text(self):
-    self.temp['lines'] += [i.rstrip() for i in self.current_line.split('|')]
+    # Check for tagged header inside text
+    tagged = self._tagged_header.match(self.current_line)
+    if tagged:
+      # Remove it
+      self.current_line = self.current_line[len(tagged.group(0)):]
+      tagged = tagged.group(1)
+      # Parse it further
+      pos = self._tag_position.search(tagged)
+      if pos:
+        self.temp['data']['position'] = {
+          'x': int(pos.group(1)),
+          'y': int(pos.group(2))
+        }
+        tagged = tagged.replace(pos.group(0), '', 1)
+
+    self.temp['data']['lines'] += [i.rstrip() for i in self.current_line.split('|')]
+
+    # Unknown TAG headers
+    if tagged:
+      raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), 'Tagged header not fully parsed.')
 
   @after('done')
   def final_unit(self):
@@ -193,7 +217,7 @@ class SubRipStateMachine(object):
       raise ParseWarning(self.current_line_num + 1, len(self.current_line), original, 'Missing empty line after unit.')
     else:
       # Remove last empty line
-      del self._parsed['lines'][-1]
+      del self._parsed['data']['lines'][-1]
 
   def parsed(self):
     if not self._parsed:
