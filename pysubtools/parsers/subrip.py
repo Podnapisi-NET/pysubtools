@@ -18,11 +18,12 @@ class SubRipStateMachine(object):
   finished = State()
 
   # And events
-  found_sequence   = Event(from_states = [start, unit_text], to_state = unit)
-  found_header     = Event(from_states = [unit, unit_text], to_state = unit_text)
-  found_text       = Event(from_states = [unit_text, start, unit], to_state = unit_text)
+  found_sequence   = Event(from_states = [start], to_state = unit)
+  found_header     = Event(from_states = [unit, unit_text, start], to_state = unit_text)
+  found_text       = Event(from_states = [unit_text, start], to_state = unit_text)
   skip_sequence    = Event(from_states = [unit_text], to_state = unit_text)
-  done             = Event(from_states = unit_text, to_state = finished)
+  found_empty      = Event(from_states = [unit_text, start, unit], to_state = start)
+  done             = Event(from_states = [unit_text, start], to_state = finished)
 
   # Regular expressions
   # Components
@@ -91,10 +92,14 @@ class SubRipStateMachine(object):
         self.done()
         return
 
-    m = self._sequence.match(self.current_line)
-    if m:
-      self.found_sequence()
+    if not self.current_line.strip():
+      self.found_empty()
       return
+    if self.is_start:
+      m = self._sequence.match(self.current_line)
+      if m:
+        self.found_sequence()
+        return
     m = self._header.match(self.current_line)
     if m:
       self.found_header()
@@ -130,7 +135,7 @@ class SubRipStateMachine(object):
 
   @before('found_header')
   def validate_header(self):
-    if self.current_state == self.unit_text:
+    if self.current_state != self.unit:
       if self._header.match(self.current_line):
         raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "Duplicated time information, ignoring.")
       else:
@@ -177,13 +182,9 @@ class SubRipStateMachine(object):
 
   @before('found_text')
   def validate_text(self):
-    if self.current_state == self.start and not self.current_line.strip():
-      raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line before first unit.")
-    if self.current_state == self.unit and not self.current_line.strip():
-      raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line between sequence number and timings.")
-
-    if self.current_state not in (self.unit_text,):
-      raise InvalidStateTransition
+    if self.current_state == self.start:
+      # Add empty line
+      self.temp['data']['lines'] += [u'']
 
   @after('found_text')
   def insert_text(self):
@@ -208,16 +209,29 @@ class SubRipStateMachine(object):
     if tagged:
       raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), 'Tagged header not fully parsed.')
 
+  @before('found_empty')
+  def validate_empty(self):
+    if self.current_state == self.start:
+      # Add empty line to text (since previous line was a text)
+      self.temp['data']['lines'] += [u'']
+    elif self.is_unit:
+      raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line between sequence number and timings.")
+
+  @after('found_empty')
+  def insert_empty(self):
+    pass
+
+  @before('done')
+  def final_unit(self):
+    self._missing_line = self.current_state != self.start
+
   @after('done')
   def final_unit(self):
     self._parsed = self.temp
     self.temp = None
-    if self.current_line.strip():
+    if self._missing_line:
       original = self.fetch_line(self.current_line_num)
       raise ParseWarning(self.current_line_num + 1, len(self.current_line), original, 'Missing empty line after unit.')
-    else:
-      # Remove last empty line
-      del self._parsed['data']['lines'][-1]
 
   def parsed(self):
     if not self._parsed:
