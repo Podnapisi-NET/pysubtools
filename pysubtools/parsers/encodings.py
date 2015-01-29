@@ -6,7 +6,8 @@ import chardet
 
 invalid_chars = u'\x9e'
 similar_encodings = {
-  'ISO-8859-2': 'windows-1250'
+  'ISO-8859-2': ['windows-1250'],
+  'windows-1255': ['windows-1256'],
 }
 
 class EncodingError(Exception):
