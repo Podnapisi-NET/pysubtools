@@ -11,5 +11,5 @@ __all__ = [
   'EncodingError',
   'NoParserError',
   'ParseError',
-  'encoding',
+  'encodings',
 ]
