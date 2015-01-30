@@ -97,7 +97,7 @@ class Parser(object):
       else:
         self.encoding_confidence = None
       # Wrap it
-      self._data = io.TextIOWrapper(self._data, self.encoding, newline = '')
+      self._data = io.TextIOWrapper(self._data, self.encoding, newline = '', errors = 'replace')
 
     # Create subtitle
     from .. import Subtitle, SubtitleUnit
@@ -120,7 +120,7 @@ class Parser(object):
       if not parser.can_parse(data):
         continue
       parser = parser()
-      parser._data = io.TextIOWrapper(data, encoding, newline = '')
+      parser._data = io.TextIOWrapper(data, encoding, newline = '', errors = 'replace')
       parser.encoding = encoding
       parser.encoding_confidence = encoding_confidence
       return parser
