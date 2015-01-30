@@ -21,7 +21,7 @@ class SubRipStateMachine(object):
   found_sequence   = Event(from_states = [start], to_state = unit)
   found_header     = Event(from_states = [unit, unit_text, start], to_state = unit_text)
   found_text       = Event(from_states = [unit_text, start], to_state = unit_text)
-  skip_sequence    = Event(from_states = [unit_text], to_state = unit_text)
+  skip_sequence    = Event(from_states = [unit_text, start], to_state = unit_text)
   found_empty      = Event(from_states = [unit_text, start, unit], to_state = start)
   done             = Event(from_states = [unit_text, start], to_state = finished)
 
@@ -134,12 +134,11 @@ class SubRipStateMachine(object):
 
   @before('found_header')
   def validate_header(self):
-    if self.current_state != self.unit:
-      if self._header.match(self.current_line):
-        raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "Duplicated time information, ignoring.")
-      else:
-        self.skip_sequence()
-        raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "New unit starts without a sequence.")
+    if self.is_unit_text:
+      raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "Duplicated time information, ignoring.")
+    if self.is_start:
+      self.skip_sequence()
+      raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "New unit starts without a sequence.")
 
     if '.' in self.current_line:
       # Stay on same line
@@ -172,7 +171,7 @@ class SubRipStateMachine(object):
   def fix_sequence_skip(self):
     self._parsed = self.temp
     self.temp = {
-      'sequence': self.temp['sequence'] + 1,
+      'sequence': (self.temp['sequence'] if self.temp else 0) + 1,
       'data': {
         'lines': []
       },

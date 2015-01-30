@@ -2302,10 +2302,12 @@ units:
   lines:
   - Daca nu vrei sa mori acoperit de
   - rani purulente, mai bine mi-ai raspunde
-  - ''
+  start: !human_time '00:46:16.100'
+- end: !human_time '00:46:22.500'
+  lines:
   - Cel cu care se ascunde Bastoche,
   - cine e?
-  start: !human_time '00:46:16.100'
+  start: !human_time '00:46:19.900'
 - end: !human_time '00:46:26.000'
   lines:
   - Spune-mi, spune-mi, cine e?
