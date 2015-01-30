@@ -7,7 +7,7 @@ import io
 import yaml
 
 from pysubtools import Subtitle, SubtitleUnit
-from pysubtools.parsers import Parser
+from pysubtools.parsers import Parser, encodings
 from pysubtools.exporters import Exporter
 from pysubtools.utils import PatchedGzipFile as GzipFile
 
@@ -178,6 +178,12 @@ class TestCase(unittest.TestCase):
 
     # All of them must be the same
     assert sub1 == sub2 == sub3 == sub4
+
+    f = open('./tests/data/corner/encoding_error.srt', 'rb')
+    try:
+      sub = parser.parse(f)
+    except encodings.EncodingError, e:
+      assert e.tried_encodings == []
 
   def test_subrip_export(self):
     """Tests SubRip exporter on a simple subtitle."""

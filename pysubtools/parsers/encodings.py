@@ -87,7 +87,8 @@ def detect(data, encoding = None, language = None):
   # Autodetect encoding
   detected = chardet.detect(data.read())
   data.seek(0)
-  encodings.append((detected['encoding'], detected['confidence']))
+  if detected and detected['encoding']:
+    encodings.append((detected['encoding'], detected['confidence']))
   if not encodings:
     raise EncodingError("Have no clue where to start.")
 
