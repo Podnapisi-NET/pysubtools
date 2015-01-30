@@ -110,13 +110,12 @@ class SubRipStateMachine(object):
 
   @before('found_sequence')
   def validate_unit(self):
-    if self.temp is None:
-      return True
+    previous_seq = self.temp['sequence'] if self.temp else 0
 
     sequence = int(self.current_line.strip())
-    if sequence - self.temp['sequence'] != 1:
+    if sequence - previous_seq != 1:
       self.pause()
-      self.current_line = str(self.temp['sequence'] + 1)
+      self.current_line = str(previous_seq + 1)
       raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Sequence number out of sync")
 
     if self.current_state == self.unit_text:
@@ -212,8 +211,11 @@ class SubRipStateMachine(object):
   @before('found_empty')
   def validate_empty(self):
     if self.current_state == self.start:
-      # Add empty line to text (since previous line was a text)
-      self.temp['data']['lines'] += [u'']
+      if self.temp:
+        # Add empty line to text (since previous line was a text)
+        self.temp['data']['lines'] += [u'']
+      else:
+        raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line before first unit.")
     elif self.is_unit:
       raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line between sequence number and timings.")
 
