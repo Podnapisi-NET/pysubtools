@@ -89,7 +89,7 @@ def detect(data, encoding = None, language = None):
   data.seek(0)
   encodings.append((detected['encoding'], detected['confidence']))
   if not encodings:
-    raise EncodingError("Have no cloue where to start.")
+    raise EncodingError("Have no clue where to start.")
 
   while True:
     encoding = encodings.pop()
