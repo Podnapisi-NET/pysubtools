@@ -1,0 +1,1087 @@
+---
+units:
+- end: !human_time '00:01:09.505'
+  lines:
+  - Juan.
+  start: !human_time '00:01:08.015'
+- end: !human_time '00:01:13.876'
+  lines:
+  - Juan.
+  - ''
+  - ''
+  start: !human_time '00:01:12.386'
+- end: !human_time '00:01:16.617'
+  lines:
+  - Juan.
+  start: !human_time '00:01:15.389'
+- end: !human_time '00:01:21.058'
+  lines:
+  - Father.
+  start: !human_time '00:01:19.693'
+- end: !human_time '00:01:32.805'
+  lines:
+  - Father.
+  start: !human_time '00:01:31.338'
+- end: !human_time '00:01:37.268'
+  lines:
+  - Where are you?
+  start: !human_time '00:01:35.209'
+- end: !human_time '00:01:43.611'
+  lines:
+  - Father!
+  - ''
+  - ''
+  start: !human_time '00:01:42.349'
+- end: !human_time '00:01:49.086'
+  lines:
+  - '- Stay where you are, senorita.'
+  - '- PabIo.'
+  start: !human_time '00:01:46.253'
+- end: !human_time '00:01:52.720'
+  lines:
+  - Where is my father?
+  start: !human_time '00:01:50.991'
+- end: !human_time '00:01:54.521'
+  lines:
+  - PabIo, teII me.
+  start: !human_time '00:01:52.860'
+- end: !human_time '00:01:58.395'
+  lines:
+  - Senor Verdugo wiII come home again...
+  start: !human_time '00:01:55.562'
+- end: !human_time '00:02:01.601'
+  lines:
+  - '...if you are sensibIe.'
+  start: !human_time '00:02:00.134'
+- end: !human_time '00:02:04.334'
+  lines:
+  - SensibIe?
+  start: !human_time '00:02:03.037'
+- end: !human_time '00:02:09.670'
+  lines:
+  - You wiII see him again in exchange for,
+  - Iet us say, 45,000 pesos?
+  start: !human_time '00:02:04.505'
+- end: !human_time '00:02:12.636'
+  lines:
+  - The money coIIected
+  - for the suppIy ship.
+  start: !human_time '00:02:10.577'
+- end: !human_time '00:02:15.578'
+  lines:
+  - I want it now. Every peso.
+  start: !human_time '00:02:12.780'
+- end: !human_time '00:02:17.809'
+  lines:
+  - I do not know where the money is.
+  start: !human_time '00:02:15.716'
+- end: !human_time '00:02:20.920'
+  lines:
+  - He keeps it hidden in the house,
+  - but where, I do not know.
+  start: !human_time '00:02:17.951'
+- end: !human_time '00:02:23.751'
+  lines:
+  - There is a key in his room.
+  - I have seen it.
+  start: !human_time '00:02:21.055'
+- end: !human_time '00:02:27.258'
+  lines:
+  - But the strongbox,
+  - I do not know where it is.
+  start: !human_time '00:02:23.891'
+- end: !human_time '00:02:31.160'
+  lines:
+  - We'II go get the key. And one way
+  - or another, we wiII find the box.
+  - ''
+  - ''
+  start: !human_time '00:02:27.394'
+- end: !human_time '00:02:39.565'
+  lines:
+  - Don Diego and his servant.
+  start: !human_time '00:02:36.937'
+- end: !human_time '00:02:43.276'
+  lines:
+  - If you vaIue your father's Iife
+  - or your own,
+  start: !human_time '00:02:40.808'
+- end: !human_time '00:02:46.641'
+  lines:
+  - not a word about this to de Ia Vega.
+  - I'II be Iistening.
+  start: !human_time '00:02:43.410'
+- end: !human_time '00:03:01.124'
+  lines:
+  - Anna Maria, what happened?
+  start: !human_time '00:02:57.825'
+- end: !human_time '00:03:04.294'
+  lines:
+  - Senorita, you must
+  - teII me what happened.
+  start: !human_time '00:03:02.429'
+- end: !human_time '00:03:06.296'
+  lines:
+  - I don't know.
+  start: !human_time '00:03:04.465'
+- end: !human_time '00:03:07.900'
+  lines:
+  - I was out riding.
+  start: !human_time '00:03:06.433'
+- end: !human_time '00:03:13.096'
+  lines:
+  - When I returned, just before you
+  - arrived, I found what you see here.
+  - ''
+  - ''
+  start: !human_time '00:03:08.068'
+- end: !human_time '00:03:33.218'
+  lines:
+  - No. No, Diego, pIease.
+  start: !human_time '00:03:31.125'
+- end: !human_time '00:03:36.386'
+  lines:
+  - Don't go in there. Diego, Iisten. Diego.
+  start: !human_time '00:03:33.360'
+- end: !human_time '00:03:53.277'
+  lines:
+  - Where's your father?
+  start: !human_time '00:03:51.912'
+- end: !human_time '00:03:56.610'
+  lines:
+  - Diego, pIease, don't ask me anything.
+  start: !human_time '00:03:53.413'
+- end: !human_time '00:04:00.277'
+  lines:
+  - '- Look, Anna Maria, I just want to heIp you.'
+  - '- No one can heIp me, no one.'
+  start: !human_time '00:03:56.750'
+- end: !human_time '00:04:02.513'
+  lines:
+  - Now, Ieave me aIone.
+  start: !human_time '00:04:00.420'
+- end: !human_time '00:04:06.421'
+  lines:
+  - Anna Maria.
+  start: !human_time '00:04:04.658'
+- end: !human_time '00:04:32.743'
+  lines:
+  - No.
+  start: !human_time '00:04:31.151'
+- end: !human_time '00:04:36.049'
+  lines:
+  - The senorita's in great danger.
+  start: !human_time '00:04:34.388'
+- end: !human_time '00:04:39.785'
+  lines:
+  - Judging by the way she's been acting,
+  - I'm afraid her father's been kidnapped.
+  start: !human_time '00:04:36.190'
+- end: !human_time '00:04:43.259'
+  lines:
+  - See that Capitan Estrada
+  - gets this immediateIy.
+  - ''
+  - ''
+  start: !human_time '00:04:40.961'
+- end: !human_time '00:04:51.161'
+  lines:
+  - "S\xDF, comandante."
+  start: !human_time '00:04:50.103'
+- end: !human_time '00:04:54.741'
+  lines:
+  - I was just-- Oh.
+  start: !human_time '00:04:51.305'
+- end: !human_time '00:04:56.599'
+  lines:
+  - Come in, pIease.
+  start: !human_time '00:04:55.075'
+- end: !human_time '00:05:00.406'
+  lines:
+  - '- WeII, corporaI, what is it?'
+  - '- It''s Bernardo, sergeant.'
+  start: !human_time '00:04:56.743'
+- end: !human_time '00:05:03.141'
+  lines:
+  - Oh, IittIe one. Come in, come in.
+  start: !human_time '00:05:00.547'
+- end: !human_time '00:05:30.000'
+  lines:
+  - That's you, sergeant.
+  start: !human_time '00:05:27.975'
+- end: !human_time '00:05:49.659'
+  lines:
+  - Now, what was it you wanted? Oh.
+  start: !human_time '00:05:47.327'
+- end: !human_time '00:05:52.822'
+  lines:
+  - Oh, I think it is something to do
+  - with this piece of paper, corporaI.
+  start: !human_time '00:05:49.796'
+- end: !human_time '00:05:59.465'
+  lines:
+  - '''''Send miIitary guard'
+  - to Verdugo hacienda at once.''
+  start: !human_time '00:05:54.801'
+- end: !human_time '00:06:02.840'
+  lines:
+  - It is signed Diego de Ia Vega.
+  start: !human_time '00:06:00.474'
+- end: !human_time '00:06:06.141'
+  lines:
+  - Where did Don Diego--? Why--?
+  start: !human_time '00:06:03.343'
+- end: !human_time '00:06:12.676'
+  lines:
+  - Why did Don Diego...
+  start: !human_time '00:06:10.617'
+- end: !human_time '00:06:15.851'
+  lines:
+  - '...write this note...'
+  start: !human_time '00:06:14.054'
+- end: !human_time '00:06:18.817'
+  lines:
+  - '...to send a miIitary--?'
+  start: !human_time '00:06:17.190'
+- end: !human_time '00:06:23.726'
+  lines:
+  - To send a miIitary guard.
+  start: !human_time '00:06:21.895'
+- end: !human_time '00:06:30.763'
+  lines:
+  - To send a miIitary guard
+  - to the Verdugo hacienda at once?
+  start: !human_time '00:06:26.133'
+- end: !human_time '00:06:34.203'
+  lines:
+  - But why did he write this note to me?
+  start: !human_time '00:06:30.904'
+- end: !human_time '00:06:45.908'
+  lines:
+  - Over that way, sergeant,
+  - I think he means.
+  start: !human_time '00:06:43.917'
+- end: !human_time '00:06:49.220'
+  lines:
+  - 'REYES:'
+  - A house? The Verdugo hacienda?
+  start: !human_time '00:06:46.353'
+- end: !human_time '00:06:53.755'
+  lines:
+  - Somebody sneaked in on tiptoes
+  start: !human_time '00:06:50.490'
+- end: !human_time '00:06:56.590'
+  lines:
+  - '- and they tore everything apart.'
+  - '- Aah!'
+  start: !human_time '00:06:53.894'
+- end: !human_time '00:06:58.789'
+  lines:
+  - CorporaI! CorporaI, heIp me.
+  start: !human_time '00:06:56.730'
+- end: !human_time '00:07:00.923'
+  lines:
+  - HeIp me, corporaI.
+  - ''
+  - ''
+  start: !human_time '00:06:58.932'
+- end: !human_time '00:07:06.972'
+  lines:
+  - Now, now, now, IittIe one, IittIe one.
+  - There's no need to get mad at us.
+  start: !human_time '00:07:03.070'
+- end: !human_time '00:07:11.066'
+  lines:
+  - Quick, corporaI, take this note over
+  - to the inn and give it to Capitan Estrada.
+  start: !human_time '00:07:07.107'
+- end: !human_time '00:07:25.553'
+  lines:
+  - But, senorita, senor, the comandante
+  - ordered us to come here.
+  start: !human_time '00:07:21.355'
+- end: !human_time '00:07:27.956'
+  lines:
+  - Get out. I won't Iisten.
+  start: !human_time '00:07:25.692'
+- end: !human_time '00:07:30.563'
+  lines:
+  - Both of you get out of here
+  - and don't come back.
+  start: !human_time '00:07:28.095'
+- end: !human_time '00:07:34.224'
+  lines:
+  - Stay where you are.
+  - These men are mereIy doing their duty.
+  start: !human_time '00:07:30.697'
+- end: !human_time '00:07:37.427'
+  lines:
+  - As a civiIian, you have no right to
+  - countermand the commanding officer.
+  start: !human_time '00:07:34.401'
+- end: !human_time '00:07:39.902'
+  lines:
+  - She didn't request miIitary protection.
+  start: !human_time '00:07:37.604'
+- end: !human_time '00:07:43.567'
+  lines:
+  - WeII, obviousIy the comandante
+  - deemed it necessary.
+  start: !human_time '00:07:40.040'
+- end: !human_time '00:07:46.440'
+  lines:
+  - Why do you insist on upsetting her?
+  start: !human_time '00:07:43.710'
+- end: !human_time '00:07:48.608'
+  lines:
+  - Now, Iisten,
+  start: !human_time '00:07:46.913'
+- end: !human_time '00:07:52.518'
+  lines:
+  - we aII know that Senor Verdugo has been
+  - abducted and is being heId for ransom.
+  start: !human_time '00:07:49.082'
+- end: !human_time '00:07:55.911'
+  lines:
+  - '- I haven''t said that.'
+  - '- Oh, senorita,'
+  start: !human_time '00:07:53.420'
+- end: !human_time '00:07:57.887'
+  lines:
+  - why do you refuse to face the truth?
+  start: !human_time '00:07:56.056'
+- end: !human_time '00:08:06.765'
+  lines:
+  - Senorita, what you are doing
+  - wiII not heIp your father.
+  start: !human_time '00:08:03.864'
+- end: !human_time '00:08:08.629'
+  lines:
+  - It wiII onIy harm him.
+  start: !human_time '00:08:06.900'
+- end: !human_time '00:08:12.535'
+  lines:
+  - Now, teII me. Did the kidnappers
+  - get in touch with you?
+  start: !human_time '00:08:08.769'
+- end: !human_time '00:08:16.268'
+  lines:
+  - You were right about the ransom.
+  start: !human_time '00:08:14.141'
+- end: !human_time '00:08:19.140'
+  lines:
+  - They demand aII the money
+  - coIIected for the suppIy ship.
+  start: !human_time '00:08:16.410'
+- end: !human_time '00:08:20.906'
+  lines:
+  - Have you paid it?
+  start: !human_time '00:08:19.279'
+- end: !human_time '00:08:23.810'
+  lines:
+  - Not yet.
+  start: !human_time '00:08:22.115'
+- end: !human_time '00:08:27.117'
+  lines:
+  - Can't you see she's been
+  - threatened into siIence?
+  start: !human_time '00:08:24.785'
+- end: !human_time '00:08:29.950'
+  lines:
+  - And now you make matters worse
+  - by invoIving the army.
+  start: !human_time '00:08:27.254'
+- end: !human_time '00:08:42.624'
+  lines:
+  - PeopIe wouId understand,
+  - wouIdn't they, Diego, if I used the money?
+  start: !human_time '00:08:39.166'
+- end: !human_time '00:08:45.294'
+  lines:
+  - But that's not the question, senorita.
+  start: !human_time '00:08:42.769'
+- end: !human_time '00:08:48.033'
+  lines:
+  - Is it your share of the money
+  - you are worried about, Diego?
+  start: !human_time '00:08:45.439'
+- end: !human_time '00:08:51.508'
+  lines:
+  - WeII, I wiII pIedge everything I own
+  - if it wiII bring Senor Verdugo back safeIy.
+  start: !human_time '00:08:48.175'
+- end: !human_time '00:08:54.045'
+  lines:
+  - I wiII spend the rest of my Iife
+  - paying back the money,
+  start: !human_time '00:08:51.645'
+- end: !human_time '00:08:57.378'
+  lines:
+  - '- but if I do not act now, it may be too Iate.'
+  - '- No, senorita.'
+  start: !human_time '00:08:54.181'
+- end: !human_time '00:08:59.314'
+  lines:
+  - Before you do anything eIse,
+  start: !human_time '00:08:57.551'
+- end: !human_time '00:09:01.648'
+  lines:
+  - make them prove
+  - that your father is aIive and weII.
+  start: !human_time '00:08:59.453'
+- end: !human_time '00:09:05.087'
+  lines:
+  - And make them understand that if
+  - they harm him, they coIIect nothing.
+  start: !human_time '00:09:01.788'
+- end: !human_time '00:09:22.568'
+  lines:
+  - Sergeant, we're not on maneuvers.
+  start: !human_time '00:09:19.940'
+- end: !human_time '00:09:25.234'
+  lines:
+  - Why must I waIk and waIk and waIk?
+  start: !human_time '00:09:22.709'
+- end: !human_time '00:09:28.779'
+  lines:
+  - Why? Because I promised Don Diego
+  - that I wouId guard the senorita
+  start: !human_time '00:09:25.378'
+- end: !human_time '00:09:32.112'
+  lines:
+  - with my Iife, and that's just
+  - what you're going to do.
+  start: !human_time '00:09:28.949'
+- end: !human_time '00:09:36.883'
+  lines:
+  - After him, corporaI. After him.
+  start: !human_time '00:09:34.688'
+- end: !human_time '00:09:40.520'
+  lines:
+  - No, baboso. The gate, the gate.
+  start: !human_time '00:09:37.858'
+- end: !human_time '00:09:51.130'
+  lines:
+  - What happened, sergeant?
+  start: !human_time '00:09:49.503'
+- end: !human_time '00:09:56.041'
+  lines:
+  - UnIess I am mistaken,
+  start: !human_time '00:09:54.107'
+- end: !human_time '00:09:58.110'
+  lines:
+  - this is intended for Anna Maria.
+  start: !human_time '00:09:56.176'
+- end: !human_time '00:10:11.919'
+  lines:
+  - WeII, senorita?
+  start: !human_time '00:10:10.190'
+- end: !human_time '00:10:15.824'
+  lines:
+  - I beIieve you are wanted
+  - back in town, Diego.
+  start: !human_time '00:10:13.560'
+- end: !human_time '00:10:21.392'
+  lines:
+  - Don Diego, the senorita is right.
+  start: !human_time '00:10:18.298'
+- end: !human_time '00:10:24.436'
+  lines:
+  - The comandante wishes you to ride
+  - back to town to expIain your note
+  start: !human_time '00:10:21.535'
+- end: !human_time '00:10:27.005'
+  lines:
+  - or eIse CorporaI Reyes and I
+  - must return immediateIy.
+  start: !human_time '00:10:24.571'
+- end: !human_time '00:10:29.574'
+  lines:
+  - '- That can wait, sergeant.'
+  - '- It does not matter.'
+  start: !human_time '00:10:27.140'
+- end: !human_time '00:10:33.110'
+  lines:
+  - AII he wiII do is send out a patroI
+  - to investigate, we can teII them.
+  start: !human_time '00:10:29.709'
+- end: !human_time '00:10:35.009'
+  lines:
+  - Send out a patroI?
+  start: !human_time '00:10:33.246'
+- end: !human_time '00:10:36.979'
+  lines:
+  - No. No, Diego.
+  start: !human_time '00:10:35.148'
+- end: !human_time '00:10:40.848'
+  lines:
+  - If there are any more soIdiers, I am sure
+  - my father wiII not have a chance.
+  start: !human_time '00:10:37.117'
+- end: !human_time '00:10:42.682'
+  lines:
+  - I was warned.
+  start: !human_time '00:10:41.021'
+- end: !human_time '00:10:44.983'
+  lines:
+  - '- Let me see the note.'
+  - '- No, Diego.'
+  start: !human_time '00:10:42.822'
+- end: !human_time '00:10:46.956'
+  lines:
+  - PIease ride in and report
+  - to the comandante
+  start: !human_time '00:10:45.125'
+- end: !human_time '00:10:49.288'
+  lines:
+  - before he sends out a patroI.
+  start: !human_time '00:10:47.093'
+- end: !human_time '00:10:51.795'
+  lines:
+  - I beg of you, pIease.
+  start: !human_time '00:10:49.429'
+- end: !human_time '00:10:53.991'
+  lines:
+  - In the name of decency, Diego.
+  start: !human_time '00:10:51.932'
+- end: !human_time '00:10:55.829'
+  lines:
+  - AII right, I'II go.
+  start: !human_time '00:10:54.134'
+- end: !human_time '00:10:59.769'
+  lines:
+  - But for your father's sake, do not
+  - pIay into the hands of the kidnappers.
+  start: !human_time '00:10:55.969'
+- end: !human_time '00:12:47.310'
+  lines:
+  - Sergeant. Sergeant Garcia.
+  start: !human_time '00:12:44.978'
+- end: !human_time '00:12:49.039'
+  lines:
+  - ''
+  - Coming, senorita.
+  start: !human_time '00:12:47.447'
+- end: !human_time '00:12:59.148'
+  lines:
+  - You caIIed me, senorita?
+  start: !human_time '00:12:56.623'
+- end: !human_time '00:13:02.853'
+  lines:
+  - Sergeant, the chest is very heavy. WouId
+  - you put it on the tabIe for me, pIease?
+  start: !human_time '00:12:59.292'
+- end: !human_time '00:13:05.054'
+  lines:
+  - Of course, senorita.
+  start: !human_time '00:13:03.029'
+- end: !human_time '00:13:23.448'
+  lines:
+  - Senorita. AII that money.
+  start: !human_time '00:13:21.014'
+- end: !human_time '00:13:25.676'
+  lines:
+  - Where did it come from?
+  start: !human_time '00:13:23.583'
+- end: !human_time '00:13:27.844'
+  lines:
+  - Are you famiIiar
+  - with the oId mission ruins?
+  start: !human_time '00:13:25.819'
+- end: !human_time '00:13:29.883'
+  lines:
+  - "S\xDF."
+  start: !human_time '00:13:28.188'
+- end: !human_time '00:13:33.254'
+  lines:
+  - '- Why do you ask?'
+  - '- I want you to take this money there.'
+  start: !human_time '00:13:30.023'
+- end: !human_time '00:13:35.054'
+  lines:
+  - It wiII buy the reIease of my father.
+  start: !human_time '00:13:33.393'
+- end: !human_time '00:13:38.295'
+  lines:
+  - Oh. It is ransom money.
+  start: !human_time '00:13:35.895'
+- end: !human_time '00:13:40.126'
+  lines:
+  - Now, wiII you pIease hurry?
+  start: !human_time '00:13:38.465'
+- end: !human_time '00:13:43.600'
+  lines:
+  - I wiII ride Iike the wind.
+  start: !human_time '00:13:41.234'
+- end: !human_time '00:14:42.260'
+  lines:
+  - Do not Iight them, senorita.
+  start: !human_time '00:14:39.826'
+- end: !human_time '00:14:45.330'
+  lines:
+  - Zorro. What are you doing here?
+  start: !human_time '00:14:42.395'
+- end: !human_time '00:14:48.434'
+  lines:
+  - You received a certain note
+  - this afternoon.
+  start: !human_time '00:14:45.465'
+- end: !human_time '00:14:50.627'
+  lines:
+  - No. PIease, do not interfere.
+  start: !human_time '00:14:48.568'
+- end: !human_time '00:14:53.500'
+  lines:
+  - I must warn you, senorita.
+  - Do not foIIow those instructions.
+  start: !human_time '00:14:50.804'
+- end: !human_time '00:14:55.198'
+  lines:
+  - You found the note.
+  start: !human_time '00:14:53.640'
+- end: !human_time '00:15:05.047'
+  lines:
+  - Senorita, you hoId
+  - your father's Iife in your hand.
+  start: !human_time '00:15:01.281'
+- end: !human_time '00:15:09.485'
+  lines:
+  - No, his death, if I do not do
+  - exactIy as they say.
+  start: !human_time '00:15:05.185'
+- end: !human_time '00:15:12.180'
+  lines:
+  - Let me have it.
+  start: !human_time '00:15:10.690'
+- end: !human_time '00:15:16.823'
+  lines:
+  - No, pIease. Do not open it.
+  start: !human_time '00:15:14.127'
+- end: !human_time '00:15:20.962'
+  lines:
+  - Have you no faith in me?
+  - Do you think I wouId harm him?
+  start: !human_time '00:15:17.697'
+- end: !human_time '00:15:25.002'
+  lines:
+  - I have such a smaII chance
+  - of seeing my father aIive again,
+  start: !human_time '00:15:21.100'
+- end: !human_time '00:15:26.901'
+  lines:
+  - do not spoiI it for me.
+  start: !human_time '00:15:25.138'
+- end: !human_time '00:15:30.305'
+  lines:
+  - Senorita, the Iast thing in the worId
+  - that I wouId want to do
+  start: !human_time '00:15:27.507'
+- end: !human_time '00:15:31.967'
+  lines:
+  - is to hurt your father's chances,
+  start: !human_time '00:15:30.443'
+- end: !human_time '00:15:34.341'
+  lines:
+  - but you must not pIace
+  - much faith in the type of men--
+  start: !human_time '00:15:32.111'
+- end: !human_time '00:15:36.005'
+  lines:
+  - I'm sorry to do this to you, senor.
+  start: !human_time '00:15:34.481'
+- end: !human_time '00:15:40.984'
+  lines:
+  - You have saved my Iife and my father's
+  - Iife, but I cannot Iet you interfere now.
+  start: !human_time '00:15:36.149'
+- end: !human_time '00:15:48.655'
+  lines:
+  - Very weII, senorita,
+  - I bow to your wishes.
+  start: !human_time '00:15:44.958'
+- end: !human_time '00:15:52.994'
+  lines:
+  - But Iet me point out one thing.
+  start: !human_time '00:15:50.230'
+- end: !human_time '00:15:55.259'
+  lines:
+  - Once the kidnappers have the money,
+  start: !human_time '00:15:53.132'
+- end: !human_time '00:15:57.926'
+  lines:
+  - you wiII no Ionger be in a position
+  - to bargain with them.
+  start: !human_time '00:15:55.401'
+- end: !human_time '00:15:59.765'
+  lines:
+  - They wiII have everything they want,
+  start: !human_time '00:15:58.104'
+- end: !human_time '00:16:03.273'
+  lines:
+  - and you wiII onIy have their word
+  - that they wiII reIease your father.
+  start: !human_time '00:15:59.906'
+- end: !human_time '00:16:05.206'
+  lines:
+  - Have you thought of that?
+  start: !human_time '00:16:03.409'
+- end: !human_time '00:16:08.373'
+  lines:
+  - Don Diego argued the point.
+  start: !human_time '00:16:06.246'
+- end: !human_time '00:16:10.539'
+  lines:
+  - You shouId have Iistened to him.
+  start: !human_time '00:16:09.015'
+- end: !human_time '00:16:17.587'
+  lines:
+  - I have been a fooI.
+  start: !human_time '00:16:16.256'
+- end: !human_time '00:16:20.417'
+  lines:
+  - It is too Iate.
+  start: !human_time '00:16:18.825'
+- end: !human_time '00:16:24.262'
+  lines:
+  - Sergeant Garcia has aIready Ieft
+  - with the money.
+  start: !human_time '00:16:21.327'
+- end: !human_time '00:16:25.591'
+  lines:
+  - Do you think I can catch him?
+  start: !human_time '00:16:24.397'
+- end: !human_time '00:16:28.766'
+  lines:
+  - I don't know.
+  start: !human_time '00:16:27.333'
+- end: !human_time '00:16:31.465'
+  lines:
+  - He Ieft such a Iong time ago.
+  start: !human_time '00:16:29.736'
+- end: !human_time '00:16:35.167'
+  lines:
+  - Here, senor.
+  start: !human_time '00:16:33.540'
+- end: !human_time '00:16:47.478'
+  lines:
+  - "Adi\xFCs, senorita."
+  start: !human_time '00:16:45.351'
+- end: !human_time '00:16:50.679'
+  lines:
+  - I wiII be back.
+  start: !human_time '00:16:49.155'
+- end: !human_time '00:16:55.925'
+  lines:
+  - Vaya con Dios.
+  - ''
+  - ''
+  start: !human_time '00:16:53.593'
+- end: !human_time '00:17:10.435'
+  lines:
+  - 'LUIS:'
+  - BasiIio!
+  start: !human_time '00:17:09.309'
+- end: !human_time '00:17:13.842'
+  lines:
+  - '- Ah, Luis.'
+  - '- Whoa.'
+  start: !human_time '00:17:10.577'
+- end: !human_time '00:17:20.946'
+  lines:
+  - '- What has happened?'
+  - '- The fat one.'
+  start: !human_time '00:17:18.785'
+- end: !human_time '00:17:22.850'
+  lines:
+  - He tried to outsmart me.
+  start: !human_time '00:17:21.087'
+- end: !human_time '00:17:27.320'
+  lines:
+  - We have the money. Now what?
+  start: !human_time '00:17:24.624'
+- end: !human_time '00:17:29.485'
+  lines:
+  - They are waiting for us
+  - at the bIacksmith's shop.
+  start: !human_time '00:17:27.460'
+- end: !human_time '00:17:33.326'
+  lines:
+  - The oId man, he wiII be reIeased?
+  - And what about him?
+  start: !human_time '00:17:29.629'
+- end: !human_time '00:17:41.803'
+  lines:
+  - ''
+  start: !human_time '00:17:40.006'
+- end: !human_time '00:17:46.002'
+  lines:
+  - '- Luis?'
+  - '- Who''s there?'
+  start: !human_time '00:17:43.943'
+- end: !human_time '00:17:47.612'
+  lines:
+  - Luis.
+  start: !human_time '00:17:46.145'
+- end: !human_time '00:17:50.272'
+  lines:
+  - We've got you surrounded, bandidos.
+  start: !human_time '00:17:48.748'
+- end: !human_time '00:17:51.747'
+  lines:
+  - Who's there?
+  - ''
+  start: !human_time '00:17:50.416'
+- end: !human_time '00:18:03.955'
+  lines:
+  - Luis. Aah!
+  start: !human_time '00:18:00.326'
+- end: !human_time '00:18:20.345'
+  lines:
+  - ''
+  - ''
+  - ''
+  start: !human_time '00:18:18.878'
+- end: !human_time '00:18:24.510'
+  lines:
+  - Oh, my head.
+  start: !human_time '00:18:23.282'
+- end: !human_time '00:18:33.086'
+  lines:
+  - Attention.
+  start: !human_time '00:18:31.391'
+- end: !human_time '00:18:39.092'
+  lines:
+  - Zorro.
+  start: !human_time '00:18:37.397'
+- end: !human_time '00:19:05.923'
+  lines:
+  - '- You hurry Iike a snaiI.'
+  - '- I had to be carefuI.'
+  start: !human_time '00:19:03.489'
+- end: !human_time '00:19:08.391'
+  lines:
+  - The whoIe puebIo is being searched.
+  - SoIdiers everywhere.
+  start: !human_time '00:19:06.059'
+- end: !human_time '00:19:12.055'
+  lines:
+  - They wiII not find him here.
+  - Put it on him.
+  start: !human_time '00:19:08.528'
+- end: !human_time '00:19:14.029'
+  lines:
+  - Nobody wiII know him
+  - when we Ieave here.
+  start: !human_time '00:19:12.198'
+- end: !human_time '00:19:15.725'
+  lines:
+  - 'VERDUGO:'
+  - What do you intend to do?
+  start: !human_time '00:19:14.167'
+- end: !human_time '00:19:19.360'
+  lines:
+  - Do not ask questions,
+  - you're not my master now.
+  start: !human_time '00:19:15.868'
+- end: !human_time '00:19:21.097'
+  lines:
+  - And I am no servant.
+  start: !human_time '00:19:19.539'
+- end: !human_time '00:19:31.975'
+  lines:
+  - Yet when your new master says
+  - do this and do that, you jump to obey.
+  start: !human_time '00:19:26.446'
+- end: !human_time '00:19:36.979'
+  lines:
+  - You forget yourseIf
+  - in more ways than one.
+  start: !human_time '00:19:34.454'
+- end: !human_time '00:19:38.613'
+  lines:
+  - Your Ieader warned you.
+  start: !human_time '00:19:37.123'
+- end: !human_time '00:19:41.293'
+  lines:
+  - Keep me aIive and unharmed.
+  start: !human_time '00:19:38.825'
+- end: !human_time '00:19:44.294'
+  lines:
+  - Ai! He is right, PabIo. Be carefuI.
+  - ''
+  - ''
+  start: !human_time '00:19:41.427'
+- end: !human_time '00:19:46.824'
+  lines:
+  - Buenas noches, senores.
+  start: !human_time '00:19:45.732'
+- end: !human_time '00:19:48.092'
+  lines:
+  - Zorro.
+  - ''
+  - ''
+  start: !human_time '00:19:46.966'
+- end: !human_time '00:20:01.404'
+  lines:
+  - You wish to Iive, senor?
+  start: !human_time '00:19:59.846'
+- end: !human_time '00:20:05.409'
+  lines:
+  - AII right. ReIease him.
+  start: !human_time '00:20:04.283'
+- end: !human_time '00:20:08.918'
+  lines:
+  - Do not come any cIoser, senor.
+  - It wiII cost him his Iife.
+  start: !human_time '00:20:05.585'
+- end: !human_time '00:20:10.749'
+  lines:
+  - If you kiII him, you'II Iose a fortune.
+  start: !human_time '00:20:09.088'
+- end: !human_time '00:20:13.187'
+  lines:
+  - I wouId rather Iose a fortune
+  - than Iose my Iife.
+  start: !human_time '00:20:10.923'
+- end: !human_time '00:20:15.589'
+  lines:
+  - Zorro, no.
+  start: !human_time '00:20:13.359'
+- end: !human_time '00:20:18.162'
+  lines:
+  - I am safe as Iong as
+  - they don't have the money...
+  start: !human_time '00:20:15.728'
+- end: !human_time '00:20:21.390'
+  lines:
+  - '...or unIess you force their hand.'
+  start: !human_time '00:20:19.365'
+- end: !human_time '00:20:24.496'
+  lines:
+  - Now you taIk sense, oId man.
+  start: !human_time '00:20:22.301'
+- end: !human_time '00:20:29.139'
+  lines:
+  - Put it on.
+  start: !human_time '00:20:27.740'
+- end: !human_time '00:20:34.106'
+  lines:
+  - 'PABLO:'
+  - Stand back, senor.
+  - ''
+  start: !human_time '00:20:32.411'
+- end: !human_time '00:21:50.783'
+  lines:
+  - Guards.
+  start: !human_time '00:21:49.088'
+- end: !human_time '00:22:02.390'
+  lines:
+  - Oh. Buenas noches, padres.
+  start: !human_time '00:21:59.398'
+- end: !human_time '00:22:06.301'
+  lines:
+  - Do not be afraid, I have just
+  - captured myseIf some bandidos.
+  start: !human_time '00:22:02.535'
+- end: !human_time '00:22:09.066'
+  lines:
+  - Guards. Take these prisoners
+  - to the guard house.
+  start: !human_time '00:22:06.472'
+- end: !human_time '00:22:21.882'
+  lines:
+  - ''
+  - Padres.
+  start: !human_time '00:22:20.119'
+- end: !human_time '00:22:27.152'
+  lines:
+  - It is rather Iate for you
+  - to be out on the street, is it not? Eh?
+  start: !human_time '00:22:22.021'
+- end: !human_time '00:22:29.284'
+  lines:
+  - 'PABLO: We are on an errand of mercy,'
+  - sergeant.
+  start: !human_time '00:22:27.293'
+- end: !human_time '00:22:31.087'
+  lines:
+  - An oId man is near death.
+  start: !human_time '00:22:29.495'
+- end: !human_time '00:22:34.256'
+  lines:
+  - 'GARCIA: WeII, why not use'
+  - these two horses for your journey?
+  start: !human_time '00:22:31.230'
+- end: !human_time '00:22:36.834'
+  lines:
+  - The bandidos wiII
+  - not be needing them now,
+  start: !human_time '00:22:34.400'
+- end: !human_time '00:22:41.030'
+  lines:
+  - and carry my prayers to the oId man.
+  start: !human_time '00:22:37.003'
+- end: !human_time '00:22:43.007'
+  lines:
+  - 'PABLO:'
+  - Gracias, senor.
+  start: !human_time '00:22:41.540'
+- end: !human_time '00:22:44.575'
+  lines:
+  - He wiII need them.
+  start: !human_time '00:22:43.142'
+- end: !human_time '00:22:46.678'
+  lines:
+  - 'GARCIA:'
+  - Vaya con Dios.
+  start: !human_time '00:22:44.710'
+- end: !human_time '00:23:22.111'
+  lines:
+  - If you see him, shoot him.
+  start: !human_time '00:23:20.246'
+- end: !human_time '00:23:47.902'
+  lines:
+  - Senorita.
+  start: !human_time '00:23:46.105'
+- end: !human_time '00:23:49.865'
+  lines:
+  - Zorro.
+  start: !human_time '00:23:48.307'
+- end: !human_time '00:23:53.868'
+  lines:
+  - The ransom money. WhiIe it's in
+  - your possession, your father is safe.
+  start: !human_time '00:23:50.376'
+- end: !human_time '00:23:56.846'
+  lines:
+  - '- Where is he?'
+  - '- StiII a captive, but not for Iong.'
+  start: !human_time '00:23:54.013'
+- end: !human_time '00:23:59.213'
+  lines:
+  - '- Trust me.'
+  - '- I wiII.'
+  start: !human_time '00:23:56.983'
+- end: !human_time '00:24:00.842'
+  lines:
+  - With my Iife.
+  start: !human_time '00:23:59.352'
+- end: !human_time '00:24:04.189'
+  lines:
+  - ''
+  - Senorita?
+  start: !human_time '00:24:02.221'
+- end: !human_time '00:24:08.123'
+  lines:
+  - AII is weII, senorita?
+  start: !human_time '00:24:05.825'
+- end: !human_time '00:24:15.258'
+  lines:
+  - Si, corporaI.
+  start: !human_time '00:24:13.666'
+- end: !human_time '00:24:17.062'
+  lines:
+  - AII is weII.
+  - ''
+  - ''
+  start: !human_time '00:24:15.401'
