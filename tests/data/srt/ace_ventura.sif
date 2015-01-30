@@ -1,0 +1,4131 @@
+---
+units:
+- end: !human_time '00:01:00.859'
+  lines:
+  - Translated By; Fucxxxer
+  - ''
+  - Enjoy it...^_^
+  start: !human_time '00:00:40.559'
+- end: !human_time '00:01:06.227'
+  lines:
+  - Awas! Bagus!
+  start: !human_time '00:01:04.293'
+- end: !human_time '00:01:07.658'
+  lines:
+  - Bagus.
+  start: !human_time '00:01:06.429'
+- end: !human_time '00:02:06.417'
+  lines:
+  - Saatnya beraksi.
+  start: !human_time '00:02:04.222'
+- end: !human_time '00:02:17.231'
+  lines:
+  - Tutup brengsek...
+  start: !human_time '00:02:15.433'
+- end: !human_time '00:02:18.735'
+  lines:
+  - '...diam bodoh.'
+  start: !human_time '00:02:17.336'
+- end: !human_time '00:02:20.596'
+  lines:
+  - Apa yang Anda inginkan?
+  start: !human_time '00:02:19.538'
+- end: !human_time '00:02:25.676'
+  lines:
+  - HDS, Sir. Bagaimana Anda sore ini?
+  - Aku punya paket untuk Anda.
+  start: !human_time '00:02:20.773'
+- end: !human_time '00:02:30.410'
+  lines:
+  - Kedengarannya rusak.
+  start: !human_time '00:02:29.148'
+- end: !human_time '00:02:35.248'
+  lines:
+  - Kemungkinan besar. Saya akan bertaruh itu masih
+  - bagus. Ini merupakan bentuk asuransi.
+  start: !human_time '00:02:30.549'
+- end: !human_time '00:02:37.378'
+  lines:
+  - Jika Anda tanda tangan di sini,
+  - di sini, dan di sini...
+  start: !human_time '00:02:35.387'
+- end: !human_time '00:02:39.184'
+  lines:
+  - '... Awal di sini,'
+  - taruh nama Anda di sini...
+  start: !human_time '00:02:37.489'
+- end: !human_time '00:02:42.091'
+  lines:
+  - '... Kita akan mendapatkan sisanya'
+  - kepada Anda segera.
+  start: !human_time '00:02:39.258'
+- end: !human_time '00:02:47.098'
+  lines:
+  - Itu anjing yang indah.
+  start: !human_time '00:02:45.164'
+- end: !human_time '00:02:50.669'
+  lines:
+  - '- Apakah Anda keberatan kalau aku membelainya?'
+  - '- Saya tidak memberikannya.'
+  start: !human_time '00:02:47.232'
+- end: !human_time '00:03:04.312'
+  lines:
+  - Oh, saudara.
+  start: !human_time '00:03:02.515'
+- end: !human_time '00:03:06.517'
+  lines:
+  - Itu baik-baik saja, aku bisa menyelesaikan sisanya.
+  start: !human_time '00:03:04.617'
+- end: !human_time '00:03:07.515'
+  lines:
+  - Semoga harimu menyenangkan. Berhati-hatilah.
+  - Bye-bye.
+  start: !human_time '00:03:06.719'
+- end: !human_time '00:03:25.071'
+  lines:
+  - Maaf,!
+  start: !human_time '00:03:23.136'
+- end: !human_time '00:03:27.139'
+  lines:
+  - HDS, datang!
+  start: !human_time '00:03:25.239'
+- end: !human_time '00:03:28.639'
+  lines:
+  - paket,!
+  start: !human_time '00:03:27.308'
+- end: !human_time '00:03:44.585'
+  lines:
+  - menjauh dari pintu.
+  start: !human_time '00:03:43.357'
+- end: !human_time '00:03:51.230'
+  lines:
+  - Apa yang terjadi dengan Anda?
+  - Aku berkata, ambil!
+  start: !human_time '00:03:48.295'
+- end: !human_time '00:03:57.361'
+  lines:
+  - Bangsat!
+  start: !human_time '00:03:56.303'
+- end: !human_time '00:04:00.470'
+  lines:
+  - Yang dekat,
+  - wanita dan pria.
+  start: !human_time '00:03:58.239'
+- end: !human_time '00:04:01.699'
+  lines:
+  - Sayangnya...
+  start: !human_time '00:04:00.675'
+- end: !human_time '00:04:05.373'
+  lines:
+  - '... Di setiap kontes'
+  - harus ada pecundang.
+  start: !human_time '00:04:02.210'
+- end: !human_time '00:04:08.549'
+  lines:
+  - pecundang.
+  start: !human_time '00:04:06.581'
+- end: !human_time '00:04:18.283'
+  lines:
+  - Lapar?
+  start: !human_time '00:04:17.225'
+- end: !human_time '00:04:24.292'
+  lines:
+  - ayo..
+  start: !human_time '00:04:22.631'
+- end: !human_time '00:04:32.195'
+  lines:
+  - Ah, itu bukan apa-apa.,
+  - kami hanya akan menunggu beberapa detik.
+  start: !human_time '00:04:28.703'
+- end: !human_time '00:04:35.373'
+  lines:
+  - Atau kita dapat mencobanya sekarang.
+  start: !human_time '00:04:33.575'
+- end: !human_time '00:04:36.600'
+  lines:
+  - Putz!
+  start: !human_time '00:04:35.611'
+- end: !human_time '00:04:37.906'
+  lines:
+  - Ayo!
+  start: !human_time '00:04:36.746'
+- end: !human_time '00:04:40.447'
+  lines:
+  - Pergi! Pergi!
+  start: !human_time '00:04:38.547'
+- end: !human_time '00:04:46.311'
+  lines:
+  - 'Peringatan: Brengsek tidak diterima disini!'
+  start: !human_time '00:04:43.786'
+- end: !human_time '00:04:53.491'
+  lines:
+  - Dorong saja mobilku.
+  start: !human_time '00:04:51.227'
+- end: !human_time '00:04:57.358'
+  lines:
+  - baiklah, lalu.
+  start: !human_time '00:04:55.231'
+- end: !human_time '00:05:01.700'
+  lines:
+  - menyala..!
+  start: !human_time '00:05:00.403'
+- end: !human_time '00:05:03.705'
+  lines:
+  - menyala..!
+  start: !human_time '00:05:02.238'
+- end: !human_time '00:05:52.184'
+  lines:
+  - Oh, sayang, datang ke sini.
+  - Anda merindukan Ibu, bukan?
+  start: !human_time '00:05:47.485'
+- end: !human_time '00:05:56.927'
+  lines:
+  - Ya, benar. Apakah Daddy menyakitimu?
+  - Aku tidak akan membiarkan dia. Tidak, aku tidak akan.
+  start: !human_time '00:05:52.490'
+- end: !human_time '00:06:02.226'
+  lines:
+  - Dia bisa menjaga TV besar, tapi dia tidak
+  - akan menyakiti sayangku, tidak .. dia tidak.
+  start: !human_time '00:05:57.562'
+- end: !human_time '00:06:07.865'
+  lines:
+  - Terima kasih, Mr Ventura.
+  start: !human_time '00:06:05.670'
+- end: !human_time '00:06:12.204'
+  lines:
+  - Bagaimana aku bisa membayar Anda?
+  start: !human_time '00:06:10.942'
+- end: !human_time '00:06:14.377'
+  lines:
+  - Hadiahnya akan baik.
+  start: !human_time '00:06:12.944'
+- end: !human_time '00:06:18.506'
+  lines:
+  - Ada beberapa kerusakan pada mobil saya,
+  - dan aku harus mengisinya dengan premium.
+  start: !human_time '00:06:14.512'
+- end: !human_time '00:06:24.916'
+  lines:
+  - Apakah Anda ingin saya
+  - untuk mengambil celana Anda dari bukan?
+  start: !human_time '00:06:22.254'
+- end: !human_time '00:06:29.289'
+  lines:
+  - Gee... Biarkan aku berpikir.
+  start: !human_time '00:06:26.525'
+- end: !human_time '00:06:30.395'
+  lines:
+  - Tentu!
+  start: !human_time '00:06:29.428'
+- end: !human_time '00:06:41.929'
+  lines:
+  - Orang-orang ramah yang nyata di sini.
+  start: !human_time '00:06:39.438'
+- end: !human_time '00:08:40.120'
+  lines:
+  - Ventura?
+  start: !human_time '00:08:38.528'
+- end: !human_time '00:08:43.931'
+  lines:
+  - Ya, setan?
+  start: !human_time '00:08:42.498'
+- end: !human_time '00:08:48.003'
+  lines:
+  - Saya minta maaf, Sir.
+  - Kau terdengar seperti orang lain.
+  start: !human_time '00:08:45.034'
+- end: !human_time '00:08:50.765'
+  lines:
+  - Jangan pikiran lelucon, Ventura.
+  start: !human_time '00:08:48.137'
+- end: !human_time '00:08:54.932'
+  lines:
+  - Anda berutang sewa.
+  start: !human_time '00:08:53.442'
+- end: !human_time '00:08:58.080'
+  lines:
+  - Mr Shickadance, saya katakan,
+  - Anda adalah prioritas pertama saya.
+  start: !human_time '00:08:55.111'
+- end: !human_time '00:09:01.713'
+  lines:
+  - Saya ada kasus yang sangat besar sekarang.
+  - Cek ini.
+  start: !human_time '00:08:58.414'
+- end: !human_time '00:09:04.986'
+  lines:
+  - Lihat itu. Itu adalah merpati albino.
+  start: !human_time '00:09:02.051'
+- end: !human_time '00:09:08.557'
+  lines:
+  - Beberapa orang kaya yang hilang itu.
+  - Dia menawarkan hadiah $ 25.000.
+  start: !human_time '00:09:05.121'
+- end: !human_time '00:09:10.660'
+  lines:
+  - Segera setelah saya menemukan burung ini...
+  start: !human_time '00:09:08.691'
+- end: !human_time '00:09:11.928'
+  lines:
+  - '... Anda dibayar.'
+  start: !human_time '00:09:10.961'
+- end: !human_time '00:09:14.596'
+  lines:
+  - Saya mendengar binatang di sana.
+  start: !human_time '00:09:12.196'
+- end: !human_time '00:09:17.598'
+  lines:
+  - Aku mendengar mereka lagi pagi ini,
+  - menggaruk2.
+  start: !human_time '00:09:14.765'
+- end: !human_time '00:09:19.926'
+  lines:
+  - Aku tidak pernah membawa pulang pekerjaan saya dengan saya.
+  start: !human_time '00:09:17.935'
+- end: !human_time '00:09:24.165'
+  lines:
+  - Apa semua ini untuk makanan hewan?
+  start: !human_time '00:09:21.605'
+- end: !human_time '00:09:26.441'
+  lines:
+  - Serat.
+  start: !human_time '00:09:25.509'
+- end: !human_time '00:09:30.407'
+  lines:
+  - Ingin melihat ke dalam? Ayo!
+  start: !human_time '00:09:28.212'
+- end: !human_time '00:09:32.411'
+  lines:
+  - Ayo!
+  start: !human_time '00:09:31.114'
+- end: !human_time '00:09:46.630'
+  lines:
+  - Silakan, mengintai di sekitar.
+  start: !human_time '00:09:44.695'
+- end: !human_time '00:10:00.971'
+  lines:
+  - Yah?
+  start: !human_time '00:09:59.777'
+- end: !human_time '00:10:02.976'
+  lines:
+  - Apakah Anda puas?
+  start: !human_time '00:10:01.145'
+- end: !human_time '00:10:09.748'
+  lines:
+  - Hanya saja jangan biarkan aku menangkapmu
+  - dengan hewan di sini.
+  start: !human_time '00:10:05.550'
+- end: !human_time '00:10:11.248'
+  lines:
+  - Baik.
+  start: !human_time '00:10:10.054'
+- end: !human_time '00:10:13.751'
+  lines:
+  - Hati-hati, sekarang. Bye-bye, lalu.
+  start: !human_time '00:10:11.556'
+- end: !human_time '00:10:17.092'
+  lines:
+  - Loser.
+  start: !human_time '00:10:15.727'
+- end: !human_time '00:10:46.046'
+  lines:
+  - Datanglah padaku, hutan teman.
+  start: !human_time '00:10:44.556'
+- end: !human_time '00:11:03.306'
+  lines:
+  - Roger, izinkan saya mengajukan satu pertanyaan!
+  start: !human_time '00:11:00.974'
+- end: !human_time '00:11:07.042'
+  lines:
+  - Bagaimana Anda kehilangan
+  - ikan 500-pon?
+  start: !human_time '00:11:04.244'
+- end: !human_time '00:11:12.047'
+  lines:
+  - Maaf, aku hanya akan mengatakan...
+  start: !human_time '00:11:09.749'
+- end: !human_time '00:11:14.709'
+  lines:
+  - '... Itu bukan ikan, itu mamalia.'
+  start: !human_time '00:11:12.218'
+- end: !human_time '00:11:17.519'
+  lines:
+  - Terima kasih, Miss Cousteau Jacques.
+  start: !human_time '00:11:15.221'
+- end: !human_time '00:11:19.656'
+  lines:
+  - Dia tidak berarti apa-apa dengan itu.
+  start: !human_time '00:11:17.791'
+- end: !human_time '00:11:23.160'
+  lines:
+  - Aku tak peduli yang baik
+  - tentang ikan itu.
+  start: !human_time '00:11:19.793'
+- end: !human_time '00:11:25.697'
+  lines:
+  - Fillet jika Anda ingin.
+  start: !human_time '00:11:23.263'
+- end: !human_time '00:11:29.331'
+  lines:
+  - Semua aku peduli tentang adalah
+  - memenangkan Super Bowl.
+  start: !human_time '00:11:26.099'
+- end: !human_time '00:11:33.198'
+  lines:
+  - Setidaknya, saya harus memiliki
+  - kepala mereka di tempat yang tepat.
+  start: !human_time '00:11:29.637'
+- end: !human_time '00:11:36.775'
+  lines:
+  - Sial, Anda telah menjalankan bisnis ini
+  - waktu yang lama...
+  start: !human_time '00:11:33.374'
+- end: !human_time '00:11:41.013'
+  lines:
+  - '... Anda tahu bagaimana takhayul'
+  - pemain ini.
+  start: !human_time '00:11:38.112'
+- end: !human_time '00:11:45.676'
+  lines:
+  - quarterback telah meletakkan kaus kakinya
+  - pada mundur sejak SMA.
+  start: !human_time '00:11:41.649'
+- end: !human_time '00:11:50.052'
+  lines:
+  - Aku punya linebacker yang belum
+  - mencuci tali joki dalam dua tahun...
+  start: !human_time '00:11:45.820'
+- end: !human_time '00:11:53.021'
+  lines:
+  - '... Karena ia berpikir lalat beruntung.'
+  start: !human_time '00:11:50.257'
+- end: !human_time '00:11:57.026'
+  lines:
+  - Saya ingin bahwa ikan di lapangan bahwa
+  - Super Bowl hari Minggu.
+  start: !human_time '00:11:53.260'
+- end: !human_time '00:11:58.688'
+  lines:
+  - Cari ikan...
+  start: !human_time '00:11:57.164'
+- end: !human_time '00:12:00.595'
+  lines:
+  - '... Atau mencari pekerjaan baru!'
+  start: !human_time '00:11:58.866'
+- end: !human_time '00:12:03.670'
+  lines:
+  - Mengapa harus terjadi sekarang,
+  - dua minggu sebelum Super Bowl?
+  start: !human_time '00:12:00.768'
+- end: !human_time '00:12:06.740'
+  lines:
+  - Aku akan memberitahu Anda siapa yang melakukannya.
+  - Ini adalah orang-orang aktivis hak hewan.
+  start: !human_time '00:12:03.805'
+- end: !human_time '00:12:08.771'
+  lines:
+  - 'Selalu keluar dengan tanda-tanda mereka:'
+  start: !human_time '00:12:07.008'
+- end: !human_time '00:12:12.080'
+  lines:
+  - '"Hewan dilahirkan bebas,'
+  - Snowflake berhenti menyiksa. "
+  start: !human_time '00:12:09.111'
+- end: !human_time '00:12:14.111'
+  lines:
+  - Ini kehidupan yang lebih baik daripada kita.
+  start: !human_time '00:12:12.280'
+- end: !human_time '00:12:19.185'
+  lines:
+  - Polisi memeriksa ke dalam hewan-
+  - hak kelompok. Apakah mereka disebut kembali?
+  start: !human_time '00:12:14.282'
+- end: !human_time '00:12:22.722'
+  lines:
+  - Tidak, tapi saya ingin memberitahu Anda,
+  - ketika saya kehilangan saya Cuddles...
+  start: !human_time '00:12:19.321'
+- end: !human_time '00:12:24.724'
+  lines:
+  - '... Aku menyewa seorang detektif hewan piaraan.'
+  start: !human_time '00:12:22.824'
+- end: !human_time '00:12:26.225'
+  lines:
+  - A apa?
+  start: !human_time '00:12:25.293'
+- end: !human_time '00:12:29.094'
+  lines:
+  - Seorang detektif hewan peliharaan.
+  start: !human_time '00:12:26.762'
+- end: !human_time '00:12:33.368'
+  lines:
+  - Terima kasih, Martha, tapi kami lebih baik
+  - meninggalkan ini untuk profesional.
+  start: !human_time '00:12:30.399'
+- end: !human_time '00:12:35.794'
+  lines:
+  - Well, sebenarnya, ia cukup baik.
+  start: !human_time '00:12:33.769'
+- end: !human_time '00:12:40.599'
+  lines:
+  - detektif hewan terlibat di dalamnya,
+  - ''
+  start: !human_time '00:12:36.138'
+- end: !human_time '00:13:36.996'
+  lines:
+  - Seperti sarung tangan!
+  start: !human_time '00:13:35.165'
+- end: !human_time '00:13:49.237'
+  lines:
+  - Mr Ventura di sini untuk melihat Anda.
+  start: !human_time '00:13:47.177'
+- end: !human_time '00:13:52.375'
+  lines:
+  - Terima kasih. Hi, aku Robinson Melissa.
+  start: !human_time '00:13:50.248'
+- end: !human_time '00:13:54.750'
+  lines:
+  - Senang bertemu dengan Anda.
+  start: !human_time '00:13:53.351'
+- end: !human_time '00:13:56.777'
+  lines:
+  - Apakah Anda mendapatkan kesulitan di?
+  start: !human_time '00:13:55.253'
+- end: !human_time '00:14:01.081'
+  lines:
+  - Tidak, pria dengan sarung tangan karet
+  - lembut itu mengejutkan.
+  start: !human_time '00:13:57.088'
+- end: !human_time '00:14:03.483'
+  lines:
+  - Keamanan ketat, Super Bowl minggu.
+  start: !human_time '00:14:01.993'
+- end: !human_time '00:14:07.329'
+  lines:
+  - Duduklah. Aku akan mendapatkan
+  - hak untuk titik.
+  start: !human_time '00:14:04.496'
+- end: !human_time '00:14:10.957'
+  lines:
+  - maskot kami dicuri dari tangki nya
+  - tadi malam.
+  start: !human_time '00:14:08.466'
+- end: !human_time '00:14:13.264'
+  lines:
+  - Apakah Anda akrab dengan Snowflake?
+  start: !human_time '00:14:11.069'
+- end: !human_time '00:14:14.768'
+  lines:
+  - Negatif.
+  start: !human_time '00:14:13.471'
+- end: !human_time '00:14:18.475'
+  lines:
+  - Kami berhasil membawanya dari Seaquarium Miami.
+  - Dia adalah lumba-lumba hidung botol-langka.
+  start: !human_time '00:14:15.039'
+- end: !human_time '00:14:21.769'
+  lines:
+  - Ini adalah salah satu trik baru
+  - dia akan lakukan di setengah waktu.
+  start: !human_time '00:14:18.743'
+- end: !human_time '00:14:23.303'
+  lines:
+  - Mari kita pergi.
+  start: !human_time '00:14:22.314'
+- end: !human_time '00:14:25.376'
+  lines:
+  - Blue 42, 42 warna biru.
+  start: !human_time '00:14:23.749'
+- end: !human_time '00:14:26.781'
+  lines:
+  - Hut, tapi!
+  start: !human_time '00:14:25.484'
+- end: !human_time '00:14:31.323'
+  lines:
+  - Baiklah!
+  start: !human_time '00:14:30.356'
+- end: !human_time '00:14:38.529'
+  lines:
+  - Ayo, mari kita pergi!
+  start: !human_time '00:14:37.096'
+- end: !human_time '00:14:44.463'
+  lines:
+  - Anak baik!
+  start: !human_time '00:14:43.269'
+- end: !human_time '00:14:55.103'
+  lines:
+  - Ingin asbak?
+  start: !human_time '00:14:53.579'
+- end: !human_time '00:14:57.814'
+  lines:
+  - Saya tidak merokok.
+  start: !human_time '00:14:56.483'
+- end: !human_time '00:15:00.086'
+  lines:
+  - Ini adalah kebiasaan menjijikkan.
+  start: !human_time '00:14:58.118'
+- end: !human_time '00:15:07.420'
+  lines:
+  - Polisi datang hari ini.
+  start: !human_time '00:15:06.192'
+- end: !human_time '00:15:10.285'
+  lines:
+  - Rupanya, para penculik
+  - masuk lewat gerbang belakang.
+  start: !human_time '00:15:07.794'
+- end: !human_time '00:15:11.455'
+  lines:
+  - Mereka mengatakan, beberapa jenis a. ..
+  start: !human_time '00:15:10.397'
+- end: !human_time '00:15:14.466'
+  lines:
+  - Four-wheel drive van,
+  - diambil dari belakang.
+  start: !human_time '00:15:11.565'
+- end: !human_time '00:15:17.961'
+  lines:
+  - Bagaimana denganmu?
+  start: !human_time '00:15:16.369'
+- end: !human_time '00:15:22.004'
+  lines:
+  - Jika saya berjalan lucu itu karena
+  - Aku punya dua lusin wartawan di pantatku.
+  start: !human_time '00:15:18.204'
+- end: !human_time '00:15:25.009'
+  lines:
+  - Mereka telah meminta saya
+  - tentang Snowflake pagi semua.
+  start: !human_time '00:15:22.108'
+- end: !human_time '00:15:29.306'
+  lines:
+  - Siapa dia?
+  start: !human_time '00:15:28.248'
+- end: !human_time '00:15:32.078'
+  lines:
+  - Roger Podacter, bertemu Ace Ventura.
+  start: !human_time '00:15:29.449'
+- end: !human_time '00:15:34.013'
+  lines:
+  - Dia adalah detektif hewan peliharaan kita.
+  start: !human_time '00:15:32.386'
+- end: !human_time '00:15:39.223'
+  lines:
+  - Senang bertemu Anda, Anda sangat
+  - direkomendasikan oleh Martha Mertz.
+  start: !human_time '00:15:35.389'
+- end: !human_time '00:15:40.487'
+  lines:
+  - Martha Mertz?
+  start: !human_time '00:15:39.327'
+- end: !human_time '00:15:43.587'
+  lines:
+  - Oh, yeah, sundal itu.
+  start: !human_time '00:15:42.063'
+- end: !human_time '00:15:49.497'
+  lines:
+  - Peking, hilang di daerah Highland Park.
+  - Setengah mati ketika saya menemukannya.
+  start: !human_time '00:15:45.333'
+- end: !human_time '00:15:51.167'
+  lines:
+  - Apakah itu tangki?
+  start: !human_time '00:15:49.870'
+- end: !human_time '00:15:53.232'
+  lines:
+  - Permisi.
+  start: !human_time '00:15:52.106'
+- end: !human_time '00:16:05.482'
+  lines:
+  - '- Polisi mengeringkannya?'
+  - '- Ya, pagi ini.'
+  start: !human_time '00:16:03.184'
+- end: !human_time '00:16:09.547'
+  lines:
+  - Jika saya tidak kembali dalam lima menit...
+  start: !human_time '00:16:07.556'
+- end: !human_time '00:16:11.355'
+  lines:
+  - '... tunggu lagi.'
+  start: !human_time '00:16:10.058'
+- end: !human_time '00:16:32.312'
+  lines:
+  - Captain's log, Star Date 23,9, bulat
+  - itu ke titik desimal terdekat.
+  start: !human_time '00:16:27.409'
+- end: !human_time '00:16:37.075'
+  lines:
+  - Kami telah pergi kembali pada waktunya untuk menyelamatkan
+  - kuno spesies dari kemusnahan.
+  start: !human_time '00:16:32.581'
+- end: !human_time '00:16:39.311'
+  lines:
+  - Sejauh ini...
+  start: !human_time '00:16:38.253'
+- end: !human_time '00:16:43.414'
+  lines:
+  - '... Tidak ada tanda-tanda kehidupan air,'
+  - tapi aku akan menemukannya...
+  start: !human_time '00:16:39.454'
+- end: !human_time '00:16:47.324'
+  lines:
+  - '... Jika aku harus merobek alam semesta ini'
+  - lain lubang hitam.
+  start: !human_time '00:16:44.093'
+- end: !human_time '00:16:50.160'
+  lines:
+  - Saya harus, mister!
+  start: !human_time '00:16:47.430'
+- end: !human_time '00:17:04.377'
+  lines:
+  - Oh, bagus.
+  start: !human_time '00:17:02.512'
+- end: !human_time '00:17:06.513'
+  lines:
+  - Saya akan mencoba untuk kepala mereka.
+  start: !human_time '00:17:05.148'
+- end: !human_time '00:17:08.951'
+  lines:
+  - Ace, keluar dari tangki.
+  start: !human_time '00:17:06.983'
+- end: !human_time '00:17:10.608'
+  lines:
+  - Aku tidak bisa melakukannya, Kapten.
+  start: !human_time '00:17:09.118'
+- end: !human_time '00:17:13.021'
+  lines:
+  - Saya tidak memiliki kekuatan.
+  start: !human_time '00:17:11.087'
+- end: !human_time '00:17:16.515'
+  lines:
+  - Orang-orang!
+  start: !human_time '00:17:15.526'
+- end: !human_time '00:17:19.289'
+  lines:
+  - Aku berkata, keluar dari tangki sekarang!
+  start: !human_time '00:17:17.094'
+- end: !human_time '00:17:23.059'
+  lines:
+  - Demi Tuhan, Jim,
+  - Aku seorang dokter, bukan orang kolam.
+  start: !human_time '00:17:19.430'
+- end: !human_time '00:17:24.630'
+  lines:
+  - Dimana Snowflake?
+  start: !human_time '00:17:23.333'
+- end: !human_time '00:17:28.094'
+  lines:
+  - Snowflake tidak tersedia sekarang.
+  start: !human_time '00:17:25.102'
+- end: !human_time '00:17:32.572'
+  lines:
+  - Saya telah menunggu sepanjang hari.
+  - Saya harus mendapatkan suntikan trik barunya.
+  start: !human_time '00:17:28.272'
+- end: !human_time '00:17:34.305'
+  lines:
+  - Apakah dia sakit?
+  start: !human_time '00:17:33.043'
+- end: !human_time '00:17:39.006'
+  lines:
+  - Orang-orang, orang-orang.
+  start: !human_time '00:17:37.448'
+- end: !human_time '00:17:42.380'
+  lines:
+  - Bagaimana saya bisa mendapatkan kerja yang dilakukan
+  - mit semua meneriakkan?
+  start: !human_time '00:17:39.650'
+- end: !human_time '00:17:44.982'
+  lines:
+  - Apa yang salah ze mit berteriak?!
+  start: !human_time '00:17:43.253'
+- end: !human_time '00:17:47.284'
+  lines:
+  - Siapa itu?
+  start: !human_time '00:17:46.056'
+- end: !human_time '00:17:48.386'
+  lines:
+  - Itu...
+  start: !human_time '00:17:47.624'
+- end: !human_time '00:17:54.528'
+  lines:
+  - Heinz Gezwellwert,
+  - Saya pelatih lumba-lumba.
+  start: !human_time '00:17:51.229'
+- end: !human_time '00:17:57.032'
+  lines:
+  - Anda ingin berbicara dengan lumba-lumba,
+  - Anda bicara padaku.
+  start: !human_time '00:17:54.632'
+- end: !human_time '00:17:59.030'
+  lines:
+  - Apa yang terjadi dengan pelatih biasa?
+  start: !human_time '00:17:57.335'
+- end: !human_time '00:18:01.463'
+  lines:
+  - Vhat terjadi padanya?
+  - Vhat terjadi padaku?!
+  start: !human_time '00:17:59.404'
+- end: !human_time '00:18:04.432'
+  lines:
+  - Ini adalah tujuh tahun
+  - Aku membuat kelas.
+  start: !human_time '00:18:02.407'
+- end: !human_time '00:18:07.511'
+  lines:
+  - Kami membuat lumba-lumba menghilang,
+  - und kemudian Roy datang...
+  start: !human_time '00:18:04.542'
+- end: !human_time '00:18:10.172'
+  lines:
+  - '... Mit harimau vhite,'
+  - und di isian di celana...
+  start: !human_time '00:18:07.612'
+- end: !human_time '00:18:11.213'
+  lines:
+  - '... Und aku pergi!'
+  start: !human_time '00:18:10.281'
+- end: !human_time '00:18:13.616'
+  lines:
+  - Dimana Snowflake?
+  start: !human_time '00:18:12.217'
+- end: !human_time '00:18:17.116'
+  lines:
+  - Mengapa Anda peduli tentang Snowflake?
+  - Apakah Anda kenal dia?
+  start: !human_time '00:18:14.352'
+- end: !human_time '00:18:20.518'
+  lines:
+  - Apakah dia menelepon Anda di rumah?
+  - Apakah Anda memiliki sirip punggung?
+  start: !human_time '00:18:17.355'
+- end: !human_time '00:18:24.393'
+  lines:
+  - Untuk melatih lumba-lumba Anda harus berpikir
+  - seperti lumba-lumba.
+  start: !human_time '00:18:22.026'
+- end: !human_time '00:18:28.532'
+  lines:
+  - Anda harus mendapatkan unside
+  - kepala lumba-lumba und berkomunikasi.
+  start: !human_time '00:18:24.630'
+- end: !human_time '00:18:30.261'
+  lines:
+  - Saya berkata kepada Snowflake...
+  start: !human_time '00:18:28.634'
+- end: !human_time '00:18:32.535'
+  lines:
+  - Und ia mengatakan...
+  start: !human_time '00:18:31.637'
+- end: !human_time '00:18:34.564'
+  lines:
+  - Und dia di ekor...
+  start: !human_time '00:18:33.472'
+- end: !human_time '00:18:40.170'
+  lines:
+  - Und Anda dapat mengutip dia!
+  start: !human_time '00:18:39.044'
+- end: !human_time '00:18:43.474'
+  lines:
+  - Baiklah, sekarang saatnya hanya
+  - untuk konferensi pers Shula's Coach.
+  start: !human_time '00:18:42.348'
+- end: !human_time '00:18:48.582'
+  lines:
+  - Jadi, mengapa tidak saya bawa kalian
+  - atas bahwa cara dan membiarkan... Heinz...
+  start: !human_time '00:18:45.317'
+- end: !human_time '00:18:52.087'
+  lines:
+  - Pergi ke konferensi.
+  - Pergi ke itu.
+  start: !human_time '00:18:50.256'
+- end: !human_time '00:19:32.294'
+  lines:
+  - Lassie harus hilang.
+  start: !human_time '00:19:30.497'
+- end: !human_time '00:19:38.570'
+  lines:
+  - Membuat kerah bagus belakangan ini?
+  start: !human_time '00:19:37.171'
+- end: !human_time '00:19:40.438'
+  lines:
+  - Atau mereka kalung anjing?
+  start: !human_time '00:19:39.073'
+- end: !human_time '00:19:52.047'
+  lines:
+  - Pembunuhan, Ventura.
+  start: !human_time '00:19:50.284'
+- end: !human_time '00:19:55.448'
+  lines:
+  - Bagaimana Anda akan memecahkan itu?
+  start: !human_time '00:19:53.321'
+- end: !human_time '00:20:01.054'
+  lines:
+  - Pertanyaan yang bagus, Aguado.
+  start: !human_time '00:19:58.893'
+- end: !human_time '00:20:02.526'
+  lines:
+  - Pertama, saya akan membentuk sebuah motif.
+  start: !human_time '00:20:01.195'
+- end: !human_time '00:20:07.464'
+  lines:
+  - Di sini, si pembunuh melihat ukuran
+  - kelaminmu yg kecil dan menjadi cemburu.
+  start: !human_time '00:20:02.697'
+- end: !human_time '00:20:12.631'
+  lines:
+  - "Lalu aku akan kehilangan \u0141 30..."
+  start: !human_time '00:20:10.572'
+- end: !human_time '00:20:14.503'
+  lines:
+  - '... kasian istrinya.'
+  start: !human_time '00:20:13.275'
+- end: !human_time '00:20:15.438'
+  lines:
+  - Oh, kau!
+  start: !human_time '00:20:14.676'
+- end: !human_time '00:20:17.135'
+  lines:
+  - Ayolah.
+  start: !human_time '00:20:15.577'
+- end: !human_time '00:20:20.304'
+  lines:
+  - Sekarang ciuman dan berhasil.
+  start: !human_time '00:20:18.313'
+- end: !human_time '00:20:26.545'
+  lines:
+  - Permisi...
+  start: !human_time '00:20:25.487'
+- end: !human_time '00:20:29.418'
+  lines:
+  - '... Aku ingin d pantat Anda beberapa pertanyaan.'
+  start: !human_time '00:20:26.722'
+- end: !human_time '00:20:31.359'
+  lines:
+  - Ini bukan waktu, Ace.
+  start: !human_time '00:20:29.892'
+- end: !human_time '00:20:36.293'
+  lines:
+  - Jika Einhorn datang ke sini dan melihat saya
+  - berbicara dengan Anda atau pantat Anda, saya sejarah.
+  start: !human_time '00:20:31.560'
+- end: !human_time '00:20:41.592'
+  lines:
+  - Aku bisa membuatnya di bawah kontrol. Anda harus
+  - kirim aku yang pada kasus Snowflake.
+  start: !human_time '00:20:37.132'
+- end: !human_time '00:20:45.437'
+  lines:
+  - Aku tidak bisa melakukan apa-apa untuk Anda itu.
+  - Tanganku terikat.
+  start: !human_time '00:20:42.137'
+- end: !human_time '00:20:49.102'
+  lines:
+  - Baiklah, yang itu.
+  - Sekarang, giliran saya.
+  start: !human_time '00:20:45.541'
+- end: !human_time '00:20:51.543'
+  lines:
+  - Lima menit saja, itu semua saya butuhkan.
+  start: !human_time '00:20:49.245'
+- end: !human_time '00:20:54.478'
+  lines:
+  - Lebih baik melihat hidup,
+  - Einhorn dalam perjalanan ke bawah.
+  start: !human_time '00:20:51.714'
+- end: !human_time '00:20:57.381'
+  lines:
+  - Ayo, sekarang. Silakan.
+  start: !human_time '00:20:55.618'
+- end: !human_time '00:21:00.818'
+  lines:
+  - Apa yang terjadi,
+  - takut aku akan membuat bau?
+  start: !human_time '00:20:57.553'
+- end: !human_time '00:21:01.623'
+  lines:
+  - Ayolah.
+  start: !human_time '00:21:01.157'
+- end: !human_time '00:21:04.291'
+  lines:
+  - Aguado bekerja kasus ini, oke?
+  start: !human_time '00:21:01.925'
+- end: !human_time '00:21:05.552'
+  lines:
+  - Aguado.
+  start: !human_time '00:21:04.460'
+- end: !human_time '00:21:08.227'
+  lines:
+  - Bagus.
+  start: !human_time '00:21:06.896'
+- end: !human_time '00:21:10.332'
+  lines:
+  - Lihat, kami adalah sedikit sibuk sekarang...
+  start: !human_time '00:21:08.398'
+- end: !human_time '00:21:14.526'
+  lines:
+  - '... Dengan pembunuh dan perampokan dan'
+  - obat dealer dan hal-hal seperti itu.
+  start: !human_time '00:21:10.533'
+- end: !human_time '00:21:17.640'
+  lines:
+  - Sebuah lumba-lumba hilang tidak tepat
+  - prioritas tinggi.
+  start: !human_time '00:21:14.704'
+- end: !human_time '00:21:23.375'
+  lines:
+  - Sekarang Anda telah membuatnya kesal.
+  start: !human_time '00:21:21.578'
+- end: !human_time '00:21:27.641'
+  lines:
+  - '- Anda akan mendapatkan aku dalam kesulitan.'
+  - '- Saya tidak bisa menahan dia lebih lama lagi!'
+  start: !human_time '00:21:24.581'
+- end: !human_time '00:21:29.145'
+  lines:
+  - Bos saya akan datang.
+  start: !human_time '00:21:27.985'
+- end: !human_time '00:21:32.283'
+  lines:
+  - Oke, lihat.
+  start: !human_time '00:21:30.554'
+- end: !human_time '00:21:35.221'
+  lines:
+  - Kami diperiksa dengan lokal
+  - hewan-hak kelompok.
+  start: !human_time '00:21:32.423'
+- end: !human_time '00:21:39.488'
+  lines:
+  - Kami memeriksa keluar taxidermists dan
+  - kita sudah memeriksa rental van.
+  start: !human_time '00:21:35.392'
+- end: !human_time '00:21:42.962'
+  lines:
+  - Sejauh ini, apa-apa, nathan, nada.
+  - Baiklah?
+  start: !human_time '00:21:39.663'
+- end: !human_time '00:21:45.401'
+  lines:
+  - Setiap taruhan yang tidak biasa dibuat?
+  start: !human_time '00:21:43.934'
+- end: !human_time '00:21:47.628'
+  lines:
+  - Tentu saja, ini adalah Super Bowl.
+  start: !human_time '00:21:45.569'
+- end: !human_time '00:21:50.463'
+  lines:
+  - '- Apa Anda mengetahui tentang tangki?'
+  - '- Tidak ada yang tidak biasa.'
+  start: !human_time '00:21:47.938'
+- end: !human_time '00:21:53.934'
+  lines:
+  - Beberapa trek ban, jalan keluar,
+  - dan seorang penjaga yang tidak melihat apa-apa.
+  start: !human_time '00:21:50.941'
+- end: !human_time '00:21:56.611'
+  lines:
+  - '- Bahwa itu?'
+  - '- Bahwa itu.'
+  start: !human_time '00:21:55.246'
+- end: !human_time '00:22:00.240'
+  lines:
+  - Sekarang tolong keluar
+  - dari sini sebelum aku dapat masalah?
+  start: !human_time '00:21:56.748'
+- end: !human_time '00:22:05.386'
+  lines:
+  - Terima kasih atas kerjasama Anda.
+  start: !human_time '00:22:03.555'
+- end: !human_time '00:22:08.516'
+  lines:
+  - Omong-omong, apakah Anda memiliki permen mint?
+  start: !human_time '00:22:05.991'
+- end: !human_time '00:22:10.990'
+  lines:
+  - Mungkin beberapa Binaca?
+  start: !human_time '00:22:09.227'
+- end: !human_time '00:22:25.238'
+  lines:
+  - '"Assholomio...'
+  start: !human_time '00:22:23.441'
+- end: !human_time '00:22:28.407'
+  lines:
+  - '"... Osodomia..."'
+  start: !human_time '00:22:26.712'
+- end: !human_time '00:22:35.285'
+  lines:
+  - sial
+  start: !human_time '00:22:32.418'
+- end: !human_time '00:22:38.980'
+  lines:
+  - Apa yang dia lakukan di sini?!
+  start: !human_time '00:22:36.489'
+- end: !human_time '00:22:40.857'
+  lines:
+  - Aku datang untuk mengaku.
+  start: !human_time '00:22:39.492'
+- end: !human_time '00:22:44.554'
+  lines:
+  - Aku bosan sendirian diluar sana.
+  start: !human_time '00:22:41.494'
+- end: !human_time '00:22:49.697'
+  lines:
+  - Ventura. Aku tahu
+  - Anda bekerja kasus Snowflake.
+  start: !human_time '00:22:45.431'
+- end: !human_time '00:22:53.932'
+  lines:
+  - Perkenankan saya menyarankan Anda
+  - untuk para pakar yang satu ini?
+  start: !human_time '00:22:50.269'
+- end: !human_time '00:22:56.399'
+  lines:
+  - Kita akan menemukan ikan lumba-lumba tersebut.
+  start: !human_time '00:22:54.340'
+- end: !human_time '00:23:00.845'
+  lines:
+  - Sekarang aku merasa lebih baik.
+  start: !human_time '00:22:59.445'
+- end: !human_time '00:23:05.310'
+  lines:
+  - Tentu saja, yang mungkin tidak ada gunanya.
+  start: !human_time '00:23:01.681'
+- end: !human_time '00:23:09.020'
+  lines:
+  - Tidak ada yang hilang lumba-lumba.
+  - lumba-lumba yang sudah diambil.
+  start: !human_time '00:23:05.619'
+- end: !human_time '00:23:11.017'
+  lines:
+  - Lumba-lumba itu tak mungkin menghilang begitu saja...
+  start: !human_time '00:23:09.322'
+- end: !human_time '00:23:15.352'
+  lines:
+  - '... ..dia adalah maskot dari Super Bowl yang'
+  - akan mulai 2 minggu lagi...
+  start: !human_time '00:23:11.291'
+- end: !human_time '00:23:20.925'
+  lines:
+  - '... dan pasti ada sesuatu dibalik keduanya itu.'
+  start: !human_time '00:23:16.363'
+- end: !human_time '00:23:23.899'
+  lines:
+  - Tapi saya yakin Anda sudah tahu itu.
+  start: !human_time '00:23:21.101'
+- end: !human_time '00:23:25.770'
+  lines:
+  - Itulah yang ternyata saya di sekitar Anda...
+  start: !human_time '00:23:24.337'
+- end: !human_time '00:23:28.301'
+  lines:
+  - '... Perhatian yg detail.'
+  start: !human_time '00:23:26.606'
+- end: !human_time '00:23:30.907'
+  lines:
+  - Dengar, detektif "kemaluan"..
+  start: !human_time '00:23:29.076'
+- end: !human_time '00:23:35.039'
+  lines:
+  - '... Bagaimana Anda seperti saya'
+  - untuk membuat hidup Anda seperti neraka?
+  start: !human_time '00:23:31.511'
+- end: !human_time '00:23:39.408'
+  lines:
+  - Well, saya belum siap
+  - menjalin hubungan, Lois...
+  start: !human_time '00:23:35.950'
+- end: !human_time '00:23:41.585'
+  lines:
+  - '... Tapi terima kasih untuk bertanya.'
+  start: !human_time '00:23:39.720'
+- end: !human_time '00:23:48.392'
+  lines:
+  - Mungkin aku akan memberikan suatu panggilan.
+  start: !human_time '00:23:46.094'
+- end: !human_time '00:23:49.861'
+  lines:
+  - Nomor masih 911?
+  start: !human_time '00:23:48.496'
+- end: !human_time '00:23:51.896'
+  lines:
+  - Alrighty, lalu.
+  start: !human_time '00:23:50.031'
+- end: !human_time '00:24:33.373'
+  lines:
+  - Permisi. Apakah Greg di sini?
+  start: !human_time '00:24:30.973'
+- end: !human_time '00:24:35.508'
+  lines:
+  - Terima kasih.
+  start: !human_time '00:24:34.143'
+- end: !human_time '00:24:58.160'
+  lines:
+  - Apa password?
+  start: !human_time '00:24:56.499'
+- end: !human_time '00:25:00.969'
+  lines:
+  - New England sup krim kerang.
+  start: !human_time '00:24:58.501'
+- end: !human_time '00:25:04.098'
+  lines:
+  - Apakah itu merah atau putih?
+  start: !human_time '00:25:01.538'
+- end: !human_time '00:25:07.407'
+  lines:
+  - Aku tidak pernah ingat itu.
+  start: !human_time '00:25:05.542'
+- end: !human_time '00:25:09.502'
+  lines:
+  - Putih?
+  start: !human_time '00:25:08.444'
+- end: !human_time '00:25:14.582'
+  lines:
+  - Hei, Woodstock.
+  start: !human_time '00:25:13.650'
+- end: !human_time '00:25:17.079'
+  lines:
+  - Hei, Saint Francis, bagaimana kabarmu?
+  start: !human_time '00:25:14.884'
+- end: !human_time '00:25:20.913'
+  lines:
+  - Super, terima kasih untuk bertanya.
+  - Saya harap Anda mengalami hari yang indah.
+  start: !human_time '00:25:17.420'
+- end: !human_time '00:25:22.082'
+  lines:
+  - Apakah Anda?
+  start: !human_time '00:25:21.058'
+- end: !human_time '00:25:23.552'
+  lines:
+  - Bukankah aku?
+  start: !human_time '00:25:22.426'
+- end: !human_time '00:25:26.553'
+  lines:
+  - Jadi apa yang Anda lakukan?
+  start: !human_time '00:25:24.528'
+- end: !human_time '00:25:29.131'
+  lines:
+  - Hanya menonton ikan, manoshevitz.
+  start: !human_time '00:25:26.697'
+- end: !human_time '00:25:32.663'
+  lines:
+  - Anda melihat kerlip?
+  - Itu adalah armada perburuan paus Norwegia.
+  start: !human_time '00:25:29.500'
+- end: !human_time '00:25:36.904'
+  lines:
+  - Aku mengirim mereka
+  - baru arah koordinat.
+  start: !human_time '00:25:33.537'
+- end: !human_time '00:25:38.931'
+  lines:
+  - Mereka akan menemukan Jimmy Hoffa...
+  start: !human_time '00:25:37.441'
+- end: !human_time '00:25:40.977'
+  lines:
+  - '... Sebelum mereka menemukan paus.'
+  start: !human_time '00:25:39.009'
+- end: !human_time '00:25:43.477'
+  lines:
+  - Gravy. Jadi bisa Anda masih...
+  start: !human_time '00:25:41.612'
+- end: !human_time '00:25:46.174'
+  lines:
+  - '... Memasuki toko pasokan air?'
+  start: !human_time '00:25:43.614'
+- end: !human_time '00:25:47.916'
+  lines:
+  - Tentu saja. Mengapa?
+  start: !human_time '00:25:46.517'
+- end: !human_time '00:25:50.179'
+  lines:
+  - Untuk melacak penjualan peralatan apapun...
+  start: !human_time '00:25:48.052'
+- end: !human_time '00:25:53.457'
+  lines:
+  - '... Untuk memindahkan atau perumahan'
+  - lumba-lumba baru-baru ini.
+  start: !human_time '00:25:50.521'
+- end: !human_time '00:25:56.651'
+  lines:
+  - Ayo, aku pikir Anda
+  - memiliki tantangan bagi saya.
+  start: !human_time '00:25:53.625'
+- end: !human_time '00:26:01.522'
+  lines:
+  - Baiklah, kita punya winch laut,
+  - sling, tangki ikan feeder 20.000 galon...
+  start: !human_time '00:25:57.062'
+- end: !human_time '00:26:04.931'
+  lines:
+  - Tunggu sebentar, lihat di sini.
+  start: !human_time '00:26:02.667'
+- end: !human_time '00:26:09.032'
+  lines:
+  - Itu banyak peralatan
+  - untuk sipil.
+  start: !human_time '00:26:05.904'
+- end: !human_time '00:26:11.134'
+  lines:
+  - Ronald Camp? miliarder itu?
+  start: !human_time '00:26:09.507'
+- end: !human_time '00:26:12.938'
+  lines:
+  - Milyarder dan kolektor langka-ikan.
+  start: !human_time '00:26:11.710'
+- end: !human_time '00:26:15.510'
+  lines:
+  - Really?
+  start: !human_time '00:26:14.179'
+- end: !human_time '00:26:20.184'
+  lines:
+  - Itu adalah wajah musuh.
+  start: !human_time '00:26:18.216'
+- end: !human_time '00:26:24.183'
+  lines:
+  - Selalu berusaha untuk mendapatkan nya serakah
+  - tangan pada spesies langka.
+  start: !human_time '00:26:20.986'
+- end: !human_time '00:26:28.116'
+  lines:
+  - Camp terhubung dengan Dolphins?
+  start: !human_time '00:26:26.124'
+- end: !human_time '00:26:31.924'
+  lines:
+  - Itulah beberapa jenius, memberi mereka
+  - tanah stadion yang dibangun di atas.
+  start: !human_time '00:26:28.227'
+- end: !human_time '00:26:37.100'
+  lines:
+  - Dan lihat, dia melempar lain "Aku
+  - orang terkaya di alam semesta "partai.
+  start: !human_time '00:26:32.231'
+- end: !human_time '00:26:43.167'
+  lines:
+  - Sepertinya sudah waktunya bagi saya
+  - untuk kencan.
+  start: !human_time '00:26:40.039'
+- end: !human_time '00:26:51.276'
+  lines:
+  - Saya akan mengambil risiko di sini.
+  start: !human_time '00:26:49.115'
+- end: !human_time '00:26:54.017'
+  lines:
+  - kegiatan sosial Camp ketat.
+  start: !human_time '00:26:51.651'
+- end: !human_time '00:26:59.684'
+  lines:
+  - Tanggal dimulai dengan baik, tapi ia
+  - menegang sebelum kami sampai ke pesta.
+  start: !human_time '00:26:55.054'
+- end: !human_time '00:27:02.019'
+  lines:
+  - Jika Anda melakukan apa pun memalukan...
+  start: !human_time '00:26:59.892'
+- end: !human_time '00:27:04.095'
+  lines:
+  - Apa? Seperti ini?
+  start: !human_time '00:27:02.194'
+- end: !human_time '00:27:12.162'
+  lines:
+  - Hi, Kapten Stubing.
+  start: !human_time '00:27:10.604'
+- end: !human_time '00:27:14.000'
+  lines:
+  - Bagaimana Gopher dan Doc?
+  start: !human_time '00:27:12.339'
+- end: !human_time '00:27:16.675'
+  lines:
+  - Izin untuk datang kemari, Sir.
+  start: !human_time '00:27:14.741'
+- end: !human_time '00:27:37.662'
+  lines:
+  - Maafkan aku, wanita.
+  start: !human_time '00:27:36.296'
+- end: !human_time '00:27:40.333'
+  lines:
+  - '- Melissa.'
+  - '- Hi Ron.'
+  start: !human_time '00:27:37.899'
+- end: !human_time '00:27:42.601'
+  lines:
+  - Senang kau bisa datang.
+  start: !human_time '00:27:41.202'
+- end: !human_time '00:27:44.334'
+  lines:
+  - Terima kasih.
+  start: !human_time '00:27:43.037'
+- end: !human_time '00:27:46.998'
+  lines:
+  - Kau tampak cantik.
+  start: !human_time '00:27:45.940'
+- end: !human_time '00:27:51.007'
+  lines:
+  - Dan siapa dia, teman?
+  start: !human_time '00:27:49.210'
+- end: !human_time '00:27:55.173'
+  lines:
+  - Ini adalah tanggal saya.
+  start: !human_time '00:27:53.581'
+- end: !human_time '00:27:58.678'
+  lines:
+  - Dia adalah seorang pengacara.
+  start: !human_time '00:27:57.051'
+- end: !human_time '00:28:02.022'
+  lines:
+  - Nah, apakah dia punya nama,
+  - atau saya harus memanggilnya "Lawyer"?
+  start: !human_time '00:27:59.087'
+- end: !human_time '00:28:08.020'
+  lines:
+  - Aku menyesal. Ini adalah Ace V. ..
+  start: !human_time '00:28:05.893'
+- end: !human_time '00:28:10.996'
+  lines:
+  - Tom Ace.
+  start: !human_time '00:28:09.597'
+- end: !human_time '00:28:13.261'
+  lines:
+  - Senang bertemu dengan Anda.
+  start: !human_time '00:28:12.067'
+- end: !human_time '00:28:15.661'
+  lines:
+  - Selamat atas semua keberhasilan Anda.
+  start: !human_time '00:28:13.602'
+- end: !human_time '00:28:17.200'
+  lines:
+  - Kau bau luar biasa.
+  start: !human_time '00:28:15.938'
+- end: !human_time '00:28:20.337'
+  lines:
+  - Salah satu hal pertama yang kita pelajari...
+  start: !human_time '00:28:18.073'
+- end: !human_time '00:28:21.940'
+  lines:
+  - '... Kembali...'
+  start: !human_time '00:28:21.110'
+- end: !human_time '00:28:27.047'
+  lines:
+  - '... Stanford adalah tentang pertumbuhan makanan'
+  - racun terhadap orang-orang kaya.
+  start: !human_time '00:28:22.144'
+- end: !human_time '00:28:30.942'
+  lines:
+  - Satu bisa membuat cukup
+  - praktik hukum yang menguntungkan...
+  start: !human_time '00:28:27.950'
+- end: !human_time '00:28:32.213'
+  lines:
+  - '... Dengan sedikit lagi.'
+  start: !human_time '00:28:31.053'
+- end: !human_time '00:28:36.648'
+  lines:
+  - Bagaimana perasaan semua orang malam ini?
+  start: !human_time '00:28:34.623'
+- end: !human_time '00:28:39.294'
+  lines:
+  - Sangat baik, terima kasih.
+  start: !human_time '00:28:37.326'
+- end: !human_time '00:28:41.653'
+  lines:
+  - Lihatlah, Sayang...
+  start: !human_time '00:28:40.629'
+- end: !human_time '00:28:43.391'
+  lines:
+  - '... Ada yang hors d''oeuvres.'
+  start: !human_time '00:28:41.764'
+- end: !human_time '00:28:45.359'
+  lines:
+  - Lihat Anda.
+  start: !human_time '00:28:44.199'
+- end: !human_time '00:28:54.301'
+  lines:
+  - Apakah Anda gila? Tidak ada cara
+  - yang mencuri Snowflake Camp.
+  start: !human_time '00:28:50.774'
+- end: !human_time '00:28:56.603'
+  lines:
+  - Apa yang Anda coba lakukan?
+  start: !human_time '00:28:55.011'
+- end: !human_time '00:29:04.685'
+  lines:
+  - Hanya menyibukkannya sementara
+  - Saya bekerja sihir saya, silahkan.
+  start: !human_time '00:29:01.284'
+- end: !human_time '00:29:12.189'
+  lines:
+  - Smooshy, bukan?
+  start: !human_time '00:29:10.460'
+- end: !human_time '00:29:24.975'
+  lines:
+  - Kami punya beberapa kasus dari
+  - dealer di Paris.
+  start: !human_time '00:29:22.006'
+- end: !human_time '00:29:27.407'
+  lines:
+  - Permisi...
+  start: !human_time '00:29:26.076'
+- end: !human_time '00:29:29.872'
+  lines:
+  - '... Aku perlu menggunakan kamar mandi.'
+  start: !human_time '00:29:27.711'
+- end: !human_time '00:29:32.207'
+  lines:
+  - Saya pikir ini pate.
+  start: !human_time '00:29:30.114'
+- end: !human_time '00:29:34.180'
+  lines:
+  - Tentu, itu ada di sana.
+  start: !human_time '00:29:32.383'
+- end: !human_time '00:29:38.085'
+  lines:
+  - Stuff mungkin terlihat lebih baik
+  - pada jalan keluar.
+  start: !human_time '00:29:35.252'
+- end: !human_time '00:29:48.056'
+  lines:
+  - Dia tidak merasa baik hari ini sebelumnya.
+  start: !human_time '00:29:45.496'
+- end: !human_time '00:31:28.327'
+  lines:
+  - Gravy.
+  start: !human_time '00:31:27.167'
+- end: !human_time '00:31:33.764'
+  lines:
+  - Jangan khawatir, Snowflake.
+  start: !human_time '00:31:32.172'
+- end: !human_time '00:31:35.540'
+  lines:
+  - Ace Ventura di sini.
+  start: !human_time '00:31:34.107'
+- end: !human_time '00:31:40.307'
+  lines:
+  - Yummy.
+  start: !human_time '00:31:39.147'
+- end: !human_time '00:32:00.967'
+  lines:
+  - ''
+  start: !human_time '00:31:59.534'
+- end: !human_time '00:32:03.962'
+  lines:
+  - Di sini, Snowflake.
+  start: !human_time '00:32:02.370'
+- end: !human_time '00:32:07.307'
+  lines:
+  - Aku punya snack untuk Anda.
+  start: !human_time '00:32:05.373'
+- end: !human_time '00:32:23.457'
+  lines:
+  - Mereka yang indah bukan?
+  start: !human_time '00:32:21.557'
+- end: !human_time '00:32:26.260'
+  lines:
+  - Ya, mereka jelas.
+  start: !human_time '00:32:24.326'
+- end: !human_time '00:32:29.323'
+  lines:
+  - Tidak peduli apa yang sedang terjadi dalam hidup saya...
+  start: !human_time '00:32:27.196'
+- end: !human_time '00:32:31.489'
+  lines:
+  - '... Aku dapat melihat mereka berenang...'
+  start: !human_time '00:32:29.498'
+- end: !human_time '00:32:34.297'
+  lines:
+  - '... Dan benar-benar damai.'
+  start: !human_time '00:32:32.067'
+- end: !human_time '00:32:43.305'
+  lines:
+  - Hal ini tidak Snowflake.
+  start: !human_time '00:32:41.644'
+- end: !human_time '00:32:45.611'
+  lines:
+  - ini tidak Snowflake.
+  start: !human_time '00:32:44.246'
+- end: !human_time '00:32:48.514'
+  lines:
+  - ini tidak Snowflake!
+  start: !human_time '00:32:47.182'
+- end: !human_time '00:33:10.937'
+  lines:
+  - Apakah Anda yakin tanggal Anda baik-baik saja?
+  start: !human_time '00:33:08.605'
+- end: !human_time '00:33:13.039'
+  lines:
+  - begitu lama.
+  start: !human_time '00:33:11.174'
+- end: !human_time '00:33:14.471'
+  lines:
+  - Siapa, Tom?
+  start: !human_time '00:33:13.243'
+- end: !human_time '00:33:17.003'
+  lines:
+  - Well, saya yakin dia baik-baik saja.
+  start: !human_time '00:33:14.944'
+- end: !human_time '00:33:29.926'
+  lines:
+  - Jangan masuk ke sana.
+  start: !human_time '00:33:27.958'
+- end: !human_time '00:33:46.907'
+  lines:
+  - Aku menyesal. Aku akan memiliki pipa saluran air
+  - segera diperiksa.
+  start: !human_time '00:33:43.574'
+- end: !human_time '00:33:51.572'
+  lines:
+  - Lakukan itu. Jika saya sudah minum keluar
+  - dari toilet, aku mungkin sudah tewas.
+  start: !human_time '00:33:47.511'
+- end: !human_time '00:33:54.108'
+  lines:
+  - Maafkan aku lagi, Mr Ace.
+  start: !human_time '00:33:52.049'
+- end: !human_time '00:34:01.322'
+  lines:
+  - Apa yang kaulakukan?
+  start: !human_time '00:33:59.991'
+- end: !human_time '00:34:03.155'
+  lines:
+  - Maafkan aku, Ron.
+  start: !human_time '00:34:01.460'
+- end: !human_time '00:34:04.557'
+  lines:
+  - Apa yang dilakukannya?
+  start: !human_time '00:34:03.295'
+- end: !human_time '00:34:06.258'
+  lines:
+  - Mari kita pergi!
+  start: !human_time '00:34:05.030'
+- end: !human_time '00:34:11.159'
+  lines:
+  - Hentikan.
+  start: !human_time '00:34:09.601'
+- end: !human_time '00:34:14.534'
+  lines:
+  - Aku bahkan tidak ingin tahu
+  - mengapa celana Anda hilang.
+  start: !human_time '00:34:12.270'
+- end: !human_time '00:34:17.302'
+  lines:
+  - Saya tidak peduli apa yang terjadi padamu.
+  - Kau bisa saja kehilangan pekerjaan saya.
+  start: !human_time '00:34:14.606'
+- end: !human_time '00:34:21.940'
+  lines:
+  - Jadi Anda menemukan kerikil di
+  - Snowflake's tangki. Aku akan menelepon CNN.
+  start: !human_time '00:34:18.243'
+- end: !human_time '00:34:24.207'
+  lines:
+  - Aku menemukannya di filter, terima kasih.
+  start: !human_time '00:34:22.114'
+- end: !human_time '00:34:29.012'
+  lines:
+  - Dan itu bukan kerikil, adalah jarang,
+  - potong segitiga, kuning oranye.
+  start: !human_time '00:34:24.416'
+- end: !human_time '00:34:32.320'
+  lines:
+  - Apa maksudmu?
+  start: !human_time '00:34:30.522'
+- end: !human_time '00:34:35.586'
+  lines:
+  - Malam ini aku melihat batu yang sama
+  - di cincin Camp's.
+  start: !human_time '00:34:32.458'
+- end: !human_time '00:34:38.222'
+  lines:
+  - Aku pikir kau bilang Camp tidak melakukannya.
+  start: !human_time '00:34:36.129'
+- end: !human_time '00:34:41.094'
+  lines:
+  - Tidak, bersih Camp's,
+  - cincinnya tidak hilang batu.
+  start: !human_time '00:34:38.364'
+- end: !human_time '00:34:44.101'
+  lines:
+  - Tapi siapa pun yang berada di tangki
+  - punya cincin seperti itu.
+  start: !human_time '00:34:41.200'
+- end: !human_time '00:34:46.170'
+  lines:
+  - Ring? Apa cincin?
+  start: !human_time '00:34:44.270'
+- end: !human_time '00:34:52.168'
+  lines:
+  - Dolphin tahun 1984 Kejuaraan AFC cincin.
+  start: !human_time '00:34:48.641'
+- end: !human_time '00:34:56.047'
+  lines:
+  - Saya menemukan cincin
+  - hilang dengan batu...
+  start: !human_time '00:34:54.113'
+- end: !human_time '00:34:57.582'
+  lines:
+  - '... Aku menemukan Snowflake.'
+  start: !human_time '00:34:56.149'
+- end: !human_time '00:35:00.449'
+  lines:
+  - Bagaimana Anda akan melakukannya?
+  start: !human_time '00:34:59.118'
+- end: !human_time '00:35:04.120'
+  lines:
+  - Sederhana.
+  start: !human_time '00:35:02.789'
+- end: !human_time '00:35:12.230'
+  lines:
+  - Loser!
+  start: !human_time '00:35:11.298'
+- end: !human_time '00:35:14.732'
+  lines:
+  - Mengapa Anda tidak belajar mengemudi, pal?
+  start: !human_time '00:35:12.366'
+- end: !human_time '00:35:18.032'
+  lines:
+  - Anda ingin bermain?
+  start: !human_time '00:35:16.804'
+- end: !human_time '00:35:29.241'
+  lines:
+  - Sialan.
+  start: !human_time '00:35:28.115'
+- end: !human_time '00:37:54.828'
+  lines:
+  - batu itu bisa dari mana saja.
+  start: !human_time '00:37:52.530'
+- end: !human_time '00:37:56.791'
+  lines:
+  - Hal ini mungkin berasal dari...
+  start: !human_time '00:37:55.199'
+- end: !human_time '00:37:59.733'
+  lines:
+  - '... Sebuah kalung atau liontin, anting-anting.'
+  start: !human_time '00:37:56.934'
+- end: !human_time '00:38:04.368'
+  lines:
+  - Ini berasal dari '84
+  - Kejuaraan AFC cincin.
+  start: !human_time '00:38:00.238'
+- end: !human_time '00:38:12.246'
+  lines:
+  - Einhorn berpikir mungkin telah menjadi
+  - kelompok hak hewan .
+  start: !human_time '00:38:08.480'
+- end: !human_time '00:38:13.577'
+  lines:
+  - Apakah Anda tahu FAN?
+  start: !human_time '00:38:12.451'
+- end: !human_time '00:38:16.285'
+  lines:
+  - Hewan Gratis Sekarang, dimulai oleh Chelsea,
+  start: !human_time '00:38:13.885'
+- end: !human_time '00:38:18.751'
+  lines:
+  - putri industrialis
+  - Fisher Gamble?
+  start: !human_time '00:38:16.521'
+- end: !human_time '00:38:20.949'
+  lines:
+  - Lebih dari setengah juta anggota di seluruh dunia?
+  start: !human_time '00:38:18.924'
+- end: !human_time '00:38:23.193'
+  lines:
+  - tdk Siapakah mereka?
+  start: !human_time '00:38:21.259'
+- end: !human_time '00:38:27.288'
+  lines:
+  - Apakah Anda tahu bahwa tahun lalu
+  - mereka mengirim surat ancaman... 127
+  start: !human_time '00:38:24.296'
+- end: !human_time '00:38:29.593'
+  lines:
+  - '... Menuntut rilis'
+  - dari tim maskot?
+  start: !human_time '00:38:27.432'
+- end: !human_time '00:38:31.368'
+  lines:
+  - Apa yang Anda makan anjing Anda?
+  start: !human_time '00:38:29.901'
+- end: !human_time '00:38:35.206'
+  lines:
+  - Makanan anjing. Mengapa?
+  start: !human_time '00:38:33.305'
+- end: !human_time '00:38:36.808'
+  lines:
+  - Dia menderita.
+  start: !human_time '00:38:35.341'
+- end: !human_time '00:38:38.601'
+  lines:
+  - Apa maksudmu?!
+  start: !human_time '00:38:37.543'
+- end: !human_time '00:38:43.007'
+  lines:
+  - Dia hanya sangat bahagia, aku merasa kasihan
+  - dia. Diet buruk, terisolasi lingkungan...
+  start: !human_time '00:38:38.911'
+- end: !human_time '00:38:45.317'
+  lines:
+  - '... Itu adalah luar biasa dia masih hidup.'
+  start: !human_time '00:38:43.383'
+- end: !human_time '00:38:51.517'
+  lines:
+  - Anda hanya marah karena Anda bodoh
+  - teori kerikil tidak berhasil.
+  start: !human_time '00:38:47.387'
+- end: !human_time '00:38:53.291'
+  lines:
+  - Anda tidak dapat mengekspresikan kemarahan.
+  start: !human_time '00:38:51.824'
+- end: !human_time '00:38:56.221'
+  lines:
+  - Yeah? Dan Anda jelek.
+  start: !human_time '00:38:54.060'
+- end: !human_time '00:39:00.864'
+  lines:
+  - Saya bahkan tidak akan berbicara dengan Anda.
+  - Silakan tinggalkan.
+  start: !human_time '00:38:57.997'
+- end: !human_time '00:39:03.001'
+  lines:
+  - Mengapa? Sehingga Anda dapat mengalahkan dia?
+  start: !human_time '00:39:01.067'
+- end: !human_time '00:39:04.303'
+  lines:
+  - Gendut!
+  start: !human_time '00:39:03.336'
+- end: !human_time '00:39:05.736'
+  lines:
+  - Kau sudah gila!
+  start: !human_time '00:39:05.304'
+- end: !human_time '00:39:08.899'
+  lines:
+  - Menyewamu adalah kesalahan terbesar dalam hidupku.
+  start: !human_time '00:39:06.839'
+- end: !human_time '00:39:12.039'
+  lines:
+  - Kenapa tak kau tangisi saja itu?
+  start: !human_time '00:39:09.309'
+- end: !human_time '00:39:18.551'
+  lines:
+  - kau menyukainya, ya?
+  start: !human_time '00:39:17.084'
+- end: !human_time '00:39:21.283'
+  lines:
+  - Ya, dia baik-baik saja.
+  start: !human_time '00:39:19.486'
+- end: !human_time '00:39:32.588'
+  lines:
+  - Lihat, Melissa, . ..
+  start: !human_time '00:39:30.597'
+- end: !human_time '00:39:40.533'
+  lines:
+  - aku di sini di Pantai Utara Towers,
+  - kompleks kondominium di utara Miami...
+  start: !human_time '00:39:36.437'
+- end: !human_time '00:39:44.504'
+  lines:
+  - '... Di mana Roger Podacter, Kepala'
+  - Operasi untuk Miami Dolphins...
+  start: !human_time '00:39:40.874'
+- end: !human_time '00:39:46.876'
+  lines:
+  - '... ternyata bunuh diri.'
+  start: !human_time '00:39:44.646'
+- end: !human_time '00:39:50.916'
+  lines:
+  - Diduga kematiannya melompat
+  - dari apartemennya
+  start: !human_time '00:39:47.048'
+- end: !human_time '00:40:01.485'
+  lines:
+  - Anda baik-baik saja?
+  start: !human_time '00:39:59.961'
+- end: !human_time '00:40:04.355'
+  lines:
+  - Aku bilang, aku berada di apartemen saya...
+  start: !human_time '00:40:01.830'
+- end: !human_time '00:40:05.794'
+  lines:
+  - '... Di lorong.'
+  start: !human_time '00:40:04.532'
+- end: !human_time '00:40:08.029'
+  lines:
+  - Aku mendengar teriakan...
+  start: !human_time '00:40:06.334'
+- end: !human_time '00:40:10.304'
+  lines:
+  - '... Jadi saya telpon manajer.'
+  start: !human_time '00:40:08.336'
+- end: !human_time '00:40:14.308'
+  lines:
+  - Tempat itu kosong, kecuali untuk anjing.
+  start: !human_time '00:40:11.840'
+- end: !human_time '00:40:17.001'
+  lines:
+  - Aku membuka pintu balkon
+  - dan melihat ke luar.
+  start: !human_time '00:40:14.476'
+- end: !human_time '00:40:19.376'
+  lines:
+  - '...splat, bang, hancur seperti kue.'
+  start: !human_time '00:40:17.145'
+- end: !human_time '00:40:21.539'
+  lines:
+  - Oke, terima kasih banyak.
+  start: !human_time '00:40:19.548'
+- end: !human_time '00:40:28.422'
+  lines:
+  - Hi,.
+  start: !human_time '00:40:26.989'
+- end: !human_time '00:40:29.956'
+  lines:
+  - ' malam yang buruk?'
+  start: !human_time '00:40:28.591'
+- end: !human_time '00:40:42.028'
+  lines:
+  - Jadi...
+  start: !human_time '00:40:40.970'
+- end: !human_time '00:40:44.564'
+  lines:
+  - '... Hewan bisa merasakan jahat.'
+  start: !human_time '00:40:42.471'
+- end: !human_time '00:40:46.607'
+  lines:
+  - Siapa yang membiarkan Dr. Doolittle ini masuk kesini?
+  start: !human_time '00:40:44.707'
+- end: !human_time '00:40:49.434'
+  lines:
+  - Letnan, ia datang dengan Miss Robinson.
+  start: !human_time '00:40:46.909'
+- end: !human_time '00:40:54.516'
+  lines:
+  - Ini urusan polisi. Tak ada urusanmu disini.
+  start: !human_time '00:40:49.612'
+- end: !human_time '00:40:58.376'
+  lines:
+  - Begini...
+  start: !human_time '00:40:57.387'
+- end: !human_time '00:41:00.581'
+  lines:
+  - Lupakan saja, dia benar.
+  start: !human_time '00:40:58.989'
+- end: !human_time '00:41:01.813'
+  lines:
+  - Selain...
+  start: !human_time '00:41:00.824'
+- end: !human_time '00:41:06.452'
+  lines:
+  - ..aku tak mau orang lain menemukan kesalahanku.
+  start: !human_time '00:41:01.992'
+- end: !human_time '00:41:22.442'
+  lines:
+  - Jadi...
+  start: !human_time '00:41:21.077'
+- end: !human_time '00:41:26.446'
+  lines:
+  - ..menurutmu ini bukan kasus bunuh diri, Tn. Detektif Hewan?
+  start: !human_time '00:41:22.612'
+- end: !human_time '00:41:31.387'
+  lines:
+  - Aku tak bilang begitu. Tapi bukti-bukti disini sama sekali
+  - tak mendukung teorimu.
+  start: !human_time '00:41:27.018'
+- end: !human_time '00:41:34.582'
+  lines:
+  - Kecuali, untuk jejak darah ini.
+  start: !human_time '00:41:31.556'
+- end: !human_time '00:41:41.990'
+  lines:
+  - Boleh aku menjelaskannya padamu?
+  start: !human_time '00:41:39.931'
+- end: !human_time '00:41:44.464'
+  lines:
+  - Baiklah
+  start: !human_time '00:41:42.166'
+- end: !human_time '00:41:47.595'
+  lines:
+  - Roger Podacter pulang kerja,
+  - lalu dia minum-minum, dan pulang kerumah.
+  start: !human_time '00:41:44.569'
+- end: !human_time '00:41:51.608'
+  lines:
+  - Dia tak sendirian. Dia pasti bersama seseorang.
+  - Dia pasti melawan...
+  start: !human_time '00:41:47.672'
+- end: !human_time '00:41:54.467'
+  lines:
+  - '... Dan ia dilemparkan dari balkon itu.'
+  start: !human_time '00:41:51.976'
+- end: !human_time '00:41:57.045'
+  lines:
+  - Roger Podacter tidak bunuh diri.
+  start: !human_time '00:41:54.679'
+- end: !human_time '00:41:59.108'
+  lines:
+  - Dia dibunuh.
+  start: !human_time '00:41:57.481'
+- end: !human_time '00:42:03.047'
+  lines:
+  - Itu adalah cerita yang sangat menghibur...
+  start: !human_time '00:42:00.851'
+- end: !human_time '00:42:07.488'
+  lines:
+  - '...tapi semua kasus itu butuh satu hal penting yaitu...'
+  start: !human_time '00:42:03.222'
+- end: !human_time '00:42:09.190'
+  lines:
+  - '... Bukti.'
+  start: !human_time '00:42:07.859'
+- end: !human_time '00:42:13.825'
+  lines:
+  - Aku dengar ada sedikit masalah.
+  start: !human_time '00:42:11.630'
+- end: !human_time '00:42:16.193'
+  lines:
+  - Mungkin seseorang kehilangan kura-kuranya
+  start: !human_time '00:42:14.032'
+- end: !human_time '00:42:21.235'
+  lines:
+  - Baik, aku... ..
+  start: !human_time '00:42:19.938'
+- end: !human_time '00:42:24.440'
+  lines:
+  - ..Kukira aku tak diperlukan disini.
+  start: !human_time '00:42:22.040'
+- end: !human_time '00:42:28.011'
+  lines:
+  - Bagus.
+  start: !human_time '00:42:26.578'
+- end: !human_time '00:42:39.215'
+  lines:
+  - Satu hal lagi, Letnan.
+  start: !human_time '00:42:35.687'
+- end: !human_time '00:42:43.094'
+  lines:
+  - Wanita ini tetangganya Roger Podacter bukan.
+  start: !human_time '00:42:40.159'
+- end: !human_time '00:42:45.821'
+  lines:
+  - Dia bilang dia mendengar jeritan.
+  - Benar?
+  start: !human_time '00:42:43.296'
+- end: !human_time '00:42:48.934'
+  lines:
+  - Dan Anda mengatakan bahwa Anda harus membuka
+  - pintu balkon ketika Anda masuk?
+  start: !human_time '00:42:45.999'
+- end: !human_time '00:42:52.629'
+  lines:
+  - '- Itu benar.'
+  - '- Anda yakin Anda harus membuka pintu ini?'
+  start: !human_time '00:42:49.102'
+- end: !human_time '00:42:54.065'
+  lines:
+  - Saya yakin.
+  start: !human_time '00:42:52.939'
+- end: !human_time '00:42:56.175'
+  lines:
+  - Apa gunanya, Ventura?
+  start: !human_time '00:42:54.207'
+- end: !human_time '00:42:58.841'
+  lines:
+  - Hanya ini.
+  start: !human_time '00:42:56.976'
+- end: !human_time '00:43:14.993'
+  lines:
+  - Pintu ini berlapis baja, dan kedap suara.
+  - Jadi tak mungkin...
+  start: !human_time '00:43:11.592'
+- end: !human_time '00:43:18.893'
+  lines:
+  - '...dia bisa dengar teriakan'
+  - Podacter saat terjatuh.
+  start: !human_time '00:43:15.162'
+- end: !human_time '00:43:21.296'
+  lines:
+  - Teriakan yang dia dengar pasti dari dalam sana...
+  start: !human_time '00:43:19.066'
+- end: !human_time '00:43:24.002'
+  lines:
+  - '... Sebelum ia dilemparkan ke'
+  - balkon.
+  start: !human_time '00:43:21.602'
+- end: !human_time '00:43:26.538'
+  lines:
+  - Pembunuhnya pasti sudah menutup pintu ini lebih dulu.
+  start: !human_time '00:43:24.104'
+- end: !human_time '00:43:31.634'
+  lines:
+  - Bisa kau rasakan itu, kawan?
+  start: !human_time '00:43:29.643'
+- end: !human_time '00:43:35.075'
+  lines:
+  - Aku sangat puas sekali!
+  start: !human_time '00:43:33.881'
+- end: !human_time '00:43:38.048'
+  lines:
+  - '... mengusir setan-setan.'
+  start: !human_time '00:43:35.215'
+- end: !human_time '00:43:42.688'
+  lines:
+  - Semua sudah beres.
+  start: !human_time '00:43:40.220'
+- end: !human_time '00:43:45.854'
+  lines:
+  - '- Pecundang.'
+  - '- keluarkan dia dari sini!'
+  start: !human_time '00:43:44.158'
+- end: !human_time '00:43:49.559'
+  lines:
+  - '- Pecundang! Pecundang!'
+  - '- Mari kita pergi, Ace.'
+  start: !human_time '00:43:46.328'
+- end: !human_time '00:43:51.325'
+  lines:
+  - Pecundang.
+  start: !human_time '00:43:50.165'
+- end: !human_time '00:43:55.069'
+  lines:
+  - Ayolah.
+  start: !human_time '00:43:54.102'
+- end: !human_time '00:43:57.067'
+  lines:
+  - Kembali ke kebun binatang.
+  start: !human_time '00:43:55.236'
+- end: !human_time '00:44:01.799'
+  lines:
+  - Apa yang Anda pikirkan?
+  start: !human_time '00:44:00.241'
+- end: !human_time '00:44:04.909'
+  lines:
+  - Semua ini terhubung entah bagaimana.
+  start: !human_time '00:44:02.577'
+- end: !human_time '00:44:07.980'
+  lines:
+  - Aku ingin menemukan bahwa cincin yang lain.
+  start: !human_time '00:44:05.580'
+- end: !human_time '00:44:12.078'
+  lines:
+  - Ace, kau tlh memeriksa semua
+  start: !human_time '00:44:09.951'
+- end: !human_time '00:44:14.551'
+  lines:
+  - Kwitansi? Bagaimana dengan kwitansinya?
+  start: !human_time '00:44:12.253'
+- end: !human_time '00:44:16.289'
+  lines:
+  - Pasti ada kwitansinya.
+  start: !human_time '00:44:14.856'
+- end: !human_time '00:44:28.962'
+  lines:
+  - Yang kau lakukan di apartemen tadi,
+  - sungguh mengagumkan.
+  - ''
+  start: !human_time '00:44:25.401'
+- end: !human_time '00:44:31.230'
+  lines:
+  - Anda tidak perlu memberitahuku.
+  start: !human_time '00:44:29.672'
+- end: !human_time '00:44:33.238'
+  lines:
+  - Aku ada di sana.
+  start: !human_time '00:44:31.907'
+- end: !human_time '00:44:39.212'
+  lines:
+  - Mungkin kau harus masuk kepolisian, menjadi
+  - detektif yang sebenarnya.
+  start: !human_time '00:44:35.344'
+- end: !human_time '00:44:41.349'
+  lines:
+  - Aku mengurus manusia.
+  start: !human_time '00:44:39.415'
+- end: !human_time '00:44:45.250'
+  lines:
+  - Anda benar-benar mencintai binatang.
+  start: !human_time '00:44:43.919'
+- end: !human_time '00:44:48.918'
+  lines:
+  - Mungkin tidak itu saja.
+  start: !human_time '00:44:47.189'
+- end: !human_time '00:44:53.360'
+  lines:
+  - Tidak, saya memiliki kekerabatan dengan mereka.
+  start: !human_time '00:44:50.926'
+- end: !human_time '00:44:55.163'
+  lines:
+  - Saya memahami mereka.
+  start: !human_time '00:44:53.729'
+- end: !human_time '00:44:59.134'
+  lines:
+  - Ingin mendengar sesuatu yang menakutkan?
+  start: !human_time '00:44:57.200'
+- end: !human_time '00:45:07.404'
+  lines:
+  - Suatu kali ketika saya masih sekitar umur 12, aku bermimpi sedang diikuti oleh...
+  start: !human_time '00:45:03.240'
+- end: !human_time '00:45:09.639'
+  lines:
+  - '... Anjing rabies.'
+  start: !human_time '00:45:07.944'
+- end: !human_time '00:45:11.880'
+  lines:
+  - Dia memiliki mata merah...
+  start: !human_time '00:45:09.946'
+- end: !human_time '00:45:13.880'
+  lines:
+  - busa... dan keluar dari mulutnya.
+  start: !human_time '00:45:12.015'
+- end: !human_time '00:45:19.154'
+  lines:
+  - Tak peduli secepat apa larinya, aku selalu ingin mengikutinya.
+  start: !human_time '00:45:14.251'
+- end: !human_time '00:45:24.224'
+  lines:
+  - Kemudian persis sebelum aku sampai
+  - ke pintu depan...
+  start: !human_time '00:45:21.391'
+- end: !human_time '00:45:27.095'
+  lines:
+  - '... Ia melompat dan menggigitku'
+  start: !human_time '00:45:24.661'
+- end: !human_time '00:45:31.067'
+  lines:
+  - saat Itu ketika aku bangun...
+  start: !human_time '00:45:29.133'
+- end: !human_time '00:45:34.137'
+  lines:
+  - '... Dan merasakan bagian belakang leher saya.'
+  - Periksa saja.
+  start: !human_time '00:45:31.202'
+- end: !human_time '00:45:39.006'
+  lines:
+  - Sialan!
+  start: !human_time '00:45:37.675'
+- end: !human_time '00:45:43.008'
+  lines:
+  - Maafkan aku, aku tidak bisa menahan diri.
+  start: !human_time '00:45:40.278'
+- end: !human_time '00:45:45.414'
+  lines:
+  - Ingin tahu mengapa saya melakukan ini?
+  start: !human_time '00:45:43.981'
+- end: !human_time '00:45:47.373'
+  lines:
+  - Saya tidak yakin yang saya lakukan.
+  start: !human_time '00:45:45.883'
+- end: !human_time '00:45:49.175'
+  lines:
+  - Anda lebih baik...
+  start: !human_time '00:45:47.685'
+- end: !human_time '00:45:52.148'
+  lines:
+  - '... Karena begitu Anda berada di dalam kepalaku...'
+  start: !human_time '00:45:49.987'
+- end: !human_time '00:45:54.323'
+  lines:
+  - '... Tidak ada jalan kembali, .'
+  start: !human_time '00:45:52.890'
+- end: !human_time '00:46:07.005'
+  lines:
+  - Jadi...
+  start: !human_time '00:46:06.038'
+- end: !human_time '00:46:11.168'
+  lines:
+  - '... Ini semua?Tak ada apa-apanya.'
+  start: !human_time '00:46:09.041'
+- end: !human_time '00:46:13.403'
+  lines:
+  - Mungkin sudah ada di file lain.
+  start: !human_time '00:46:11.310'
+- end: !human_time '00:46:15.278'
+  lines:
+  - Siapa itu?
+  start: !human_time '00:46:13.879'
+- end: !human_time '00:46:17.074'
+  lines:
+  - Apa?
+  start: !human_time '00:46:15.948'
+- end: !human_time '00:46:22.177'
+  lines:
+  - Itu.
+  start: !human_time '00:46:21.119'
+- end: !human_time '00:46:25.022'
+  lines:
+  - Siapa itu?
+  start: !human_time '00:46:23.088'
+- end: !human_time '00:46:29.051'
+  lines:
+  - Itu Ray Finkle, nggak.
+  - Apa kau tidak tahu siapa dia?
+  start: !human_time '00:46:25.524'
+- end: !human_time '00:46:32.429'
+  lines:
+  - Mengapa dia tidak ada dalam gambar ini?
+  start: !human_time '00:46:30.996'
+- end: !human_time '00:46:39.128'
+  lines:
+  - Ini diambil awal tahun.
+  start: !human_time '00:46:37.102'
+- end: !human_time '00:46:41.969'
+  lines:
+  - Ray Finkle tidak ditambahkan
+  - sampai pertengahan musim.
+  start: !human_time '00:46:39.239'
+- end: !human_time '00:46:51.011'
+  lines:
+  - Dia juga gagal melakukan tendangan saat Super Bowl
+  - tahun itu.
+  start: !human_time '00:46:47.280'
+- end: !human_time '00:46:52.913'
+  lines:
+  - ''
+  start: !human_time '00:46:51.150'
+- end: !human_time '00:46:55.346'
+  lines:
+  - Tapi dia punya cincin sendiri, bukan?
+  start: !human_time '00:46:53.253'
+- end: !human_time '00:46:58.016'
+  lines:
+  - Tentu saja.
+  start: !human_time '00:46:56.890'
+- end: !human_time '00:47:01.091'
+  lines:
+  - '"Kicker pengganti tampl baik tahun ini.""'
+  start: !human_time '00:46:58.258'
+- end: !human_time '00:47:07.428'
+  lines:
+  - '"Bersiap menghadapi laga Super Bowl.""'
+  start: !human_time '00:47:04.197'
+- end: !human_time '00:47:10.797'
+  lines:
+  - '"Tendangan sang kicker yang melenceng,'
+  - menyebabkan Dolphins kalah di ajang Super Bowl."
+  start: !human_time '00:47:08.101'
+- end: !human_time '00:47:14.236'
+  lines:
+  - Itu dia Finkle.
+  - Dolphins kalah satu angka.
+  start: !human_time '00:47:11.004'
+- end: !human_time '00:47:18.174'
+  lines:
+  - Pria yang malang.
+  start: !human_time '00:47:15.376'
+- end: !human_time '00:47:20.836'
+  lines:
+  - Pria yang malang dengan sedikit dendam, sayang.
+  start: !human_time '00:47:18.345'
+- end: !human_time '00:47:22.443'
+  lines:
+  - Di mana dia sekarang?
+  start: !human_time '00:47:21.181'
+- end: !human_time '00:47:26.110'
+  lines:
+  - Terakhir kudengar, ia kembali
+  - ke kota asalnya, Collier County.
+  start: !human_time '00:47:23.050'
+- end: !human_time '00:47:28.316'
+  lines:
+  - Really?
+  start: !human_time '00:47:27.054'
+- end: !human_time '00:47:35.019'
+  lines:
+  - Kau juga harus membawaku, bukan?
+  start: !human_time '00:47:32.960'
+- end: !human_time '00:47:38.487'
+  lines:
+  - Tentu saja. Kau tak boleh sendirian sekarang.
+  start: !human_time '00:47:35.996'
+- end: !human_time '00:47:41.332'
+  lines:
+  - Ini mungkin tidak aman di apartemen Anda.
+  start: !human_time '00:47:38.966'
+- end: !human_time '00:47:44.034'
+  lines:
+  - Apa saran Anda?
+  start: !human_time '00:47:42.169'
+- end: !human_time '00:48:29.978'
+  lines:
+  - Oh, Tuhan.
+  start: !human_time '00:48:28.351'
+- end: !human_time '00:48:32.352'
+  lines:
+  - Oh, Tuhan.
+  start: !human_time '00:48:30.987'
+- end: !human_time '00:48:35.921'
+  lines:
+  - Tiga kali.
+  start: !human_time '00:48:34.056'
+- end: !human_time '00:48:39.055'
+  lines:
+  - Maaf, yang tidak pernah terjadi sebelumnya.
+  start: !human_time '00:48:36.359'
+- end: !human_time '00:48:41.463'
+  lines:
+  - Aku harus lelah.
+  start: !human_time '00:48:39.996'
+- end: !human_time '00:48:46.964'
+  lines:
+  - Oke, saya siap kembali.
+  start: !human_time '00:48:45.201'
+- end: !human_time '00:49:41.024'
+  lines:
+  - Saya mencari Ray Finkle...
+  start: !human_time '00:49:39.090'
+- end: !human_time '00:49:44.025'
+  lines:
+  - '...itu saja.'
+  start: !human_time '00:49:42.160'
+- end: !human_time '00:49:47.129'
+  lines:
+  - Apa yang Anda ketahui tentang Ray Finkle?
+  start: !human_time '00:49:44.262'
+- end: !human_time '00:49:52.327'
+  lines:
+  - Kicker.
+  - Pernah bersekolah di Collier High, 1976.
+  start: !human_time '00:49:49.233'
+- end: !human_time '00:49:56.338'
+  lines:
+  - Stetson Universitas lulusan kehormatan,
+  - 1980. Memegang dua NCAA catatan.
+  start: !human_time '00:49:52.470'
+- end: !human_time '00:49:58.135'
+  lines:
+  - Poin tertinggi dan juga yang terjauh.
+  start: !human_time '00:49:56.474'
+- end: !human_time '00:50:01.210'
+  lines:
+  - Dengan nama kecil, "The Mule."
+  - Satu-satunya atlit profesional disini.
+  start: !human_time '00:49:58.309'
+- end: !human_time '00:50:04.280'
+  lines:
+  - Dan jg model Amerika.
+  start: !human_time '00:50:01.379'
+- end: !human_time '00:50:13.020'
+  lines:
+  - Apakah Anda salah satu dari
+  - mereka..
+  start: !human_time '00:50:10.222'
+- end: !human_time '00:50:14.125'
+  lines:
+  - Tidak, pk.
+  start: !human_time '00:50:13.158'
+- end: !human_time '00:50:16.022'
+  lines:
+  - Saya hanya seorang penggemar brt Finkle .
+  start: !human_time '00:50:14.259'
+- end: !human_time '00:50:20.030'
+  lines:
+  - Aku sudah lama memimpikan ini, Pak..
+  start: !human_time '00:50:17.596'
+- end: !human_time '00:50:22.963'
+  lines:
+  - Bisa kau turunkan senjatanya?
+  start: !human_time '00:50:21.166'
+- end: !human_time '00:50:25.995'
+  lines:
+  - Anak itu adalah penggemar dari anak kita.
+  start: !human_time '00:50:23.435'
+- end: !human_time '00:50:29.369'
+  lines:
+  - Senang sekali bertemu dengan Anda.
+  start: !human_time '00:50:27.606'
+- end: !human_time '00:50:31.202'
+  lines:
+  - Saya ibu Ray...
+  start: !human_time '00:50:29.541'
+- end: !human_time '00:50:33.173'
+  lines:
+  - '... Dan ini adalah ayah Ray.'
+  start: !human_time '00:50:31.376'
+- end: !human_time '00:50:35.508'
+  lines:
+  - Ini adalah suatu kehormatan.
+  start: !human_time '00:50:33.779'
+- end: !human_time '00:50:39.216'
+  lines:
+  - sebuah kehormatan bertemu denganmu.
+  start: !human_time '00:50:36.315'
+- end: !human_time '00:50:43.989'
+  lines:
+  - Ray saya sangat menghargai para penggemarnya.
+  start: !human_time '00:50:41.020'
+- end: !human_time '00:50:46.523'
+  lines:
+  - Dia akan sangat senang Anda mampir.
+  start: !human_time '00:50:44.157'
+- end: !human_time '00:50:49.086'
+  lines:
+  - Apa kau sering bertemu dengan Ray?
+  start: !human_time '00:50:46.993'
+- end: !human_time '00:50:51.991'
+  lines:
+  - Oh, ya, aku berharap dia pulang sebentar lagi.
+  start: !human_time '00:50:49.295'
+- end: !human_time '00:50:55.957'
+  lines:
+  - Apakah Anda suka kue?
+  - Aku baru saja membuatnya.
+  start: !human_time '00:50:52.499'
+- end: !human_time '00:50:57.567'
+  lines:
+  - Yummy.
+  start: !human_time '00:50:56.236'
+- end: !human_time '00:51:06.203'
+  lines:
+  - rumah Ray Finkle
+  start: !human_time '00:51:04.110'
+- end: !human_time '00:51:09.141'
+  lines:
+  - Saya tidak sabar untuk bertemu dengannya.
+  start: !human_time '00:51:07.480'
+- end: !human_time '00:51:14.083'
+  lines:
+  - Ray tidak akan pulang.
+  start: !human_time '00:51:11.751'
+- end: !human_time '00:51:18.091'
+  lines:
+  - Istri Anda mengharapkan dia plng sebentar lagi.
+  start: !human_time '00:51:16.123'
+- end: !human_time '00:51:20.750'
+  lines:
+  - Dia hanya berharap begitu.
+  start: !human_time '00:51:18.225'
+- end: !human_time '00:51:25.526'
+  lines:
+  - Lihat, mesin berjalan sndiri.
+  - .
+  start: !human_time '00:51:21.829'
+- end: !human_time '00:51:28.292'
+  lines:
+  - Delapan tahun yang lalu...
+  start: !human_time '00:51:27.234'
+- end: !human_time '00:51:32.462'
+  lines:
+  - '... Anak kami melarikan diri dari'
+  - Rumah Sakit Jiwa.
+  start: !human_time '00:51:28.469'
+- end: !human_time '00:51:35.708'
+  lines:
+  - Dan mereka masih mengganggu kami
+  - untuk mengambil barang-barangnya.
+  start: !human_time '00:51:32.773'
+- end: !human_time '00:51:39.477'
+  lines:
+  - itu salah Dan Marino's,
+  - semua orang tahu itu.
+  start: !human_time '00:51:36.076'
+- end: !human_time '00:51:43.208'
+  lines:
+  - Andai saja bola tendangannya tak meleset,
+  - dia takkan...
+  start: !human_time '00:51:40.080'
+- end: !human_time '00:51:45.750'
+  lines:
+  - '.....Ray pasti akan menang.'
+  start: !human_time '00:51:43.384'
+- end: !human_time '00:51:50.352'
+  lines:
+  - Dan Marino harus mati
+  - kena gonorrhea dan membusuk di neraka.
+  start: !human_time '00:51:46.187'
+- end: !human_time '00:51:52.460'
+  lines:
+  - Apakah Anda ingin cookie, Nak?
+  start: !human_time '00:51:50.492'
+- end: !human_time '00:51:56.762'
+  lines:
+  - Apa yang Anda ketahui?
+  start: !human_time '00:51:55.397'
+- end: !human_time '00:51:59.164'
+  lines:
+  - Bola-bola futbol.
+  start: !human_time '00:51:57.299'
+- end: !human_time '00:52:00.733'
+  lines:
+  - meleset..
+  start: !human_time '00:51:59.334'
+- end: !human_time '00:52:05.205'
+  lines:
+  - Saat Ray mulai bermain lagi...
+  - dan mulai menendang lagi...
+  start: !human_time '00:52:02.304'
+- end: !human_time '00:52:07.740'
+  lines:
+  - '.....dia tak pernah berhenti memikirkannya.'
+  start: !human_time '00:52:05.340'
+- end: !human_time '00:52:10.811'
+  lines:
+  - Aku biarkan kamarnya tetap seperti dulu.
+  start: !human_time '00:52:07.876'
+- end: !human_time '00:52:34.733'
+  lines:
+  - Oh, Nak.
+  start: !human_time '00:52:33.402'
+- end: !human_time '00:52:37.738'
+  lines:
+  - Penuh dengan futbol, huh?
+  start: !human_time '00:52:35.338'
+- end: !human_time '00:52:50.485'
+  lines:
+  - Boleh saya?
+  start: !human_time '00:52:49.518'
+- end: !human_time '00:52:52.788'
+  lines:
+  - Oh, ya, terserah
+  start: !human_time '00:52:50.820'
+- end: !human_time '00:52:57.587'
+  lines:
+  - 5 detik terakhir di laga Super Bowl 17.
+  start: !human_time '00:52:56.359'
+- end: !human_time '00:53:01.491'
+  lines:
+  - Dolphins mencoba...
+  start: !human_time '00:52:59.830'
+- end: !human_time '00:53:05.131'
+  lines:
+  - .Kemenangan untuk Miami.
+  start: !human_time '00:53:01.832'
+- end: !human_time '00:53:07.496'
+  lines:
+  - Mengejutkan.
+  start: !human_time '00:53:05.869'
+- end: !human_time '00:53:09.100'
+  lines:
+  - Marino.
+  start: !human_time '00:53:07.838'
+- end: !human_time '00:53:10.398'
+  lines:
+  - tendangan yang...
+  start: !human_time '00:53:09.306'
+- end: !human_time '00:53:13.165'
+  lines:
+  - '... terlau tinggi. Tidak, itu...'
+  start: !human_time '00:53:11.174'
+- end: !human_time '00:53:14.367'
+  lines:
+  - '... Tidak baik.'
+  start: !human_time '00:53:13.343'
+- end: !human_time '00:53:18.107'
+  lines:
+  - Ray Finkle gagal menendang dari jarak 26-yard!
+  start: !human_time '00:53:14.478'
+- end: !human_time '00:53:20.382'
+  lines:
+  - Aku tidak percaya!
+  start: !human_time '00:53:18.482'
+- end: !human_time '00:53:22.479'
+  lines:
+  - Dolphins kalah.
+  start: !human_time '00:53:20.784'
+- end: !human_time '00:53:27.182'
+  lines:
+  - The Dolphins kalah di Super Bowl.
+  start: !human_time '00:53:23.587'
+- end: !human_time '00:53:31.153'
+  lines:
+  - '- Melissa, ini Ace.'
+  - '- Di mana kau?'
+  start: !human_time '00:53:28.525'
+- end: !human_time '00:53:34.787'
+  lines:
+  - Aku di desa "gila", tempat tinggalnya Finkle.
+  - Kau tahu dimana Marino?
+  start: !human_time '00:53:31.328'
+- end: !human_time '00:53:36.363'
+  lines:
+  - Mengapa?
+  start: !human_time '00:53:35.533'
+- end: !human_time '00:53:39.562'
+  lines:
+  - Karena ia tau ttg Snowflake.
+  - Aku harus tahu di mana dia!
+  start: !human_time '00:53:36.434'
+- end: !human_time '00:53:44.171'
+  lines:
+  - Dia sedang syuting iklan di Bogart Sound Stage.
+  start: !human_time '00:53:39.871'
+- end: !human_time '00:53:47.435'
+  lines:
+  - Telpon polisi. Amankan daerah disana.
+  - Sekarang!
+  start: !human_time '00:53:44.375'
+- end: !human_time '00:53:49.542'
+  lines:
+  - Ace, apa yang terjadi?
+  start: !human_time '00:53:47.779'
+- end: !human_time '00:53:53.839'
+  lines:
+  - kau pikir aku pergi?
+  start: !human_time '00:53:52.850'
+- end: !human_time '00:53:57.753'
+  lines:
+  - Aku benar-benar harus pergi sekarang juga.
+  start: !human_time '00:53:55.853'
+- end: !human_time '00:54:08.459'
+  lines:
+  - ini dia..
+  start: !human_time '00:54:06.331'
+- end: !human_time '00:54:09.701'
+  lines:
+  - mulai..
+  start: !human_time '00:54:08.734'
+- end: !human_time '00:54:14.272'
+  lines:
+  - Aku Dan Marino, dan jika kalian ingin tahu apa itu pertahanan,
+  - tanya aku.
+  start: !human_time '00:54:10.336'
+- end: !human_time '00:54:23.238'
+  lines:
+  - Jadi saya merawat tangan
+  - yang merawat saya...
+  start: !human_time '00:54:20.212'
+- end: !human_time '00:54:25.247'
+  lines:
+  - '... Dengan sarung tangan Isotoner.'
+  start: !human_time '00:54:23.882'
+- end: !human_time '00:54:27.352'
+  lines:
+  - cut. Sekali lagi dari atas.
+  start: !human_time '00:54:25.384'
+- end: !human_time '00:54:28.713'
+  lines:
+  - Aku berkata, cut.
+  start: !human_time '00:54:27.519'
+- end: !human_time '00:54:30.252'
+  lines:
+  - Ini adalah cut.
+  start: !human_time '00:54:28.887'
+- end: !human_time '00:54:32.789'
+  lines:
+  - Apa yang mereka lakukan?
+  start: !human_time '00:54:30.389'
+- end: !human_time '00:54:34.549'
+  lines:
+  - cut..
+  start: !human_time '00:54:33.025'
+- end: !human_time '00:54:36.361'
+  lines:
+  - Mari kita pergi!
+  start: !human_time '00:54:35.394'
+- end: !human_time '00:54:42.324'
+  lines:
+  - '- Apakah ini, penulisan ulang?'
+  - '- Diam!'
+  start: !human_time '00:54:39.798'
+- end: !human_time '00:54:48.267'
+  lines:
+  - '- kMana mereka pergi?'
+  - '- Lebih dari sana!'
+  start: !human_time '00:54:46.606'
+- end: !human_time '00:54:49.373'
+  lines:
+  - Mari kita pergi!
+  start: !human_time '00:54:48.441'
+- end: !human_time '00:54:58.317'
+  lines:
+  - Maaf, Tuan-tuan.
+  start: !human_time '00:54:56.850'
+- end: !human_time '00:54:59.476'
+  lines:
+  - Pet detektif.
+  start: !human_time '00:54:58.418'
+- end: !human_time '00:55:10.693'
+  lines:
+  - Apa yang salah?!
+  start: !human_time '00:55:09.396'
+- end: !human_time '00:55:12.331'
+  lines:
+  - Tak bisakah kau memukulku?
+  start: !human_time '00:55:10.864'
+- end: !human_time '00:55:41.858'
+  lines:
+  - Apakah ada tuntutan uang tebusan?
+  start: !human_time '00:55:40.027'
+- end: !human_time '00:55:44.430'
+  lines:
+  - sudah tidak ada komunikasi
+  - dengan para penculik.
+  start: !human_time '00:55:41.962'
+- end: !human_time '00:55:46.532'
+  lines:
+  - Apakah Super Bowl ditunda?
+  start: !human_time '00:55:44.598'
+- end: !human_time '00:55:48.467'
+  lines:
+  - Permainan aktif, seperti yang dijadwalkan.
+  start: !human_time '00:55:47.034'
+- end: !human_time '00:55:50.503'
+  lines:
+  - Mengapa kita tidak diberitahu tentang Snowflake?
+  start: !human_time '00:55:48.569'
+- end: !human_time '00:55:53.798'
+  lines:
+  - Kerahasiaan sangat penting.
+  - Kami tidak bisa mengambil risiko gangguan publik.
+  start: !human_time '00:55:50.805'
+- end: !human_time '00:55:58.002'
+  lines:
+  - '- Apakah kejahatan yang terkait?'
+  - '- Maafkan aku, aku tidak bisa komentar lebih lanjut.'
+  start: !human_time '00:55:53.975'
+- end: !human_time '00:56:00.071'
+  lines:
+  - Jika Anda akan maafkan saya.
+  start: !human_time '00:55:58.513'
+- end: !human_time '00:56:04.480'
+  lines:
+  - bawakan saya otopsi Podacter's.
+  start: !human_time '00:56:02.751'
+- end: !human_time '00:56:07.783'
+  lines:
+  - 'Aguado, bilang:'
+  - tidak ada seorangpun yang berbicara kepada pers.
+  start: !human_time '00:56:04.586'
+- end: !human_time '00:56:10.091'
+  lines:
+  - Seseorang, ambilkan kopi!
+  start: !human_time '00:56:08.123'
+- end: !human_time '00:56:14.484'
+  lines:
+  - Malam ini di "Miami Vice,"
+  - Crockett mengambil kopi bos!
+  start: !human_time '00:56:10.525'
+- end: !human_time '00:56:19.867'
+  lines:
+  - Ketika aku keluar dari kamar mandi itu,
+  - Anda yang lebih baik  pergi.
+  start: !human_time '00:56:15.931'
+- end: !human_time '00:56:22.537'
+  lines:
+  - Apakah nomor satu atau nomor dua?
+  start: !human_time '00:56:20.569'
+- end: !human_time '00:56:25.031'
+  lines:
+  - Saya ingin tahu berapa banyak waktu yang saya miliki.
+  start: !human_time '00:56:22.938'
+- end: !human_time '00:56:30.045'
+  lines:
+  - Oh ya,
+  - Aku kesini untuk menyelesaikan semua...
+  start: !human_time '00:56:27.110'
+- end: !human_time '00:56:33.347'
+  lines:
+  - '...tentang Snowflake, Podacter, dan'
+  - Marino.
+  - ''
+  start: !human_time '00:56:30.446'
+- end: !human_time '00:56:37.781'
+  lines:
+  - Ya, Anda pernah mendengar tentang mantan
+  - Dolphin kicker bernama Ray Finkle?
+  start: !human_time '00:56:34.050'
+- end: !human_time '00:56:46.391'
+  lines:
+  - Baiklah, Ventura...
+  start: !human_time '00:56:44.560'
+- end: !human_time '00:56:48.957'
+  lines:
+  - '... cepatlah.'
+  start: !human_time '00:56:47.797'
+- end: !human_time '00:56:52.396'
+  lines:
+  - Saya menemukan sebuah batu langka di
+  - bawah tangki Snowflake's.
+  start: !human_time '00:56:49.165'
+- end: !human_time '00:56:55.537'
+  lines:
+  - Dan itu adalah serpihan dari cincin kejuaraan
+  - Dolphin '84.
+  start: !human_time '00:56:52.602'
+- end: !human_time '00:56:58.807'
+  lines:
+  - Itu pasti cincin Super Bowl,
+  - tapi Ray tendangannya melenceng.
+  start: !human_time '00:56:55.838'
+- end: !human_time '00:57:00.876'
+  lines:
+  - dan menyalahkan Marino.
+  start: !human_time '00:56:58.975'
+- end: !human_time '00:57:05.812'
+  lines:
+  - Yang kumaksud disini adalah paranoid, kelainan psikis.
+  - Aku sudah lihat kamar pria itu
+  start: !human_time '00:57:01.011'
+- end: !human_time '00:57:08.349'
+  lines:
+  - '... Nyaman, jika kau Hannibal Lecter.'
+  start: !human_time '00:57:05.983'
+- end: !human_time '00:57:11.453'
+  lines:
+  - Jadi bagaimana dgn Roger Podacter?
+  start: !human_time '00:57:09.019'
+- end: !human_time '00:57:16.757'
+  lines:
+  - Menurutku, Finkle membuntutinya.
+  - Podacter mengetahuinya. Dan tamat.
+  start: !human_time '00:57:11.922'
+- end: !human_time '00:57:21.524'
+  lines:
+  - Dan untuk Snowflake, mereka dapatkan nomornya Finkle,
+  - dan mengajarinya cara menendang.
+  start: !human_time '00:57:16.894'
+- end: !human_time '00:57:23.493'
+  lines:
+  - Finkle terlalu mengambil hati.
+  start: !human_time '00:57:21.798'
+- end: !human_time '00:57:27.803'
+  lines:
+  - Jadi di mana Finkle sekarang?
+  start: !human_time '00:57:25.903'
+- end: !human_time '00:57:32.408'
+  lines:
+  - Setelah kabur dari Rumah Sakit Jiwa.
+  - Dia sedang menyusun rencana..
+  start: !human_time '00:57:27.971'
+- end: !human_time '00:57:35.411'
+  lines:
+  - Menunggu waktu yang tepat
+  - untuk beraksi
+  start: !human_time '00:57:32.543'
+- end: !human_time '00:57:37.447'
+  lines:
+  - 'Dan waktu yang tepat itu adalah:'
+  start: !human_time '00:57:35.547'
+- end: !human_time '00:57:39.742'
+  lines:
+  - saat Super Bowl.
+  start: !human_time '00:57:37.615'
+- end: !human_time '00:57:42.145'
+  lines:
+  - Man, aku bosan benar.
+  start: !human_time '00:57:39.984'
+- end: !human_time '00:57:48.155'
+  lines:
+  - Selamat.
+  start: !human_time '00:57:46.824'
+- end: !human_time '00:57:52.428'
+  lines:
+  - Kau sudah pecahkan kasusnya..
+  start: !human_time '00:57:49.561'
+- end: !human_time '00:57:55.530'
+  lines:
+  - '... Ace.'
+  start: !human_time '00:57:54.165'
+- end: !human_time '00:57:59.763'
+  lines:
+  - Maafkan aku, bisa Anda berbicara
+  - keras sedikit?
+  start: !human_time '00:57:57.135'
+- end: !human_time '00:58:02.098'
+  lines:
+  - saya hanya mendengar kau memanggilku Ace.
+  start: !human_time '00:57:59.971'
+- end: !human_time '00:58:07.204'
+  lines:
+  - Mungkin aku salah tentang Anda.
+  - Mungkin kau lebih dari detektif biasa.
+  start: !human_time '00:58:02.574'
+- end: !human_time '00:58:18.047'
+  lines:
+  - pistol Anda menusuk pinggulku.
+  start: !human_time '00:58:15.487'
+- end: !human_time '00:58:19.788'
+  lines:
+  - Apa yang salah?
+  start: !human_time '00:58:18.457'
+- end: !human_time '00:58:22.416'
+  lines:
+  - Ingin aku membacakan hak Anda?
+  start: !human_time '00:58:19.925'
+- end: !human_time '00:58:25.053'
+  lines:
+  - Mungkin nanti.
+  start: !human_time '00:58:23.495'
+- end: !human_time '00:58:29.462'
+  lines:
+  - Apa itu?
+  start: !human_time '00:58:28.234'
+- end: !human_time '00:58:31.167'
+  lines:
+  - sundal kecil kurus itu...
+  start: !human_time '00:58:29.768'
+- end: !human_time '00:58:33.130'
+  lines:
+  - '... Melissa Robinson?'
+  start: !human_time '00:58:31.503'
+- end: !human_time '00:58:35.941'
+  lines:
+  - Anda tidak melakukan apa-apa bagi saya.
+  start: !human_time '00:58:33.973'
+- end: !human_time '00:58:38.806'
+  lines:
+  - Tenang, kawan!
+  start: !human_time '00:58:37.509'
+- end: !human_time '00:58:43.746'
+  lines:
+  - Ada masalah?
+  - Aku dengar ada teriakan.
+  start: !human_time '00:58:40.879'
+- end: !human_time '00:58:45.746'
+  lines:
+  - Baik, sersan.
+  start: !human_time '00:58:44.016'
+- end: !human_time '00:58:47.849'
+  lines:
+  - Haruskah Aku mengusirnya?
+  start: !human_time '00:58:46.086'
+- end: !human_time '00:58:51.115'
+  lines:
+  - Kenapa tidak kau saja yang keluar?
+  start: !human_time '00:58:48.521'
+- end: !human_time '00:58:54.220'
+  lines:
+  - Ya, Ma'am.
+  start: !human_time '00:58:53.026'
+- end: !human_time '00:59:00.465'
+  lines:
+  - Ace, biarkan kami yang menyelesaikan kasusnya.
+  start: !human_time '00:58:57.530'
+- end: !human_time '00:59:03.964'
+  lines:
+  - Tak bisa, Letnan.
+  - Aku sudah ditunjuk untuk kasus ini.
+  start: !human_time '00:59:00.767'
+- end: !human_time '00:59:05.901'
+  lines:
+  - Ketika kita menemukan Marino...
+  start: !human_time '00:59:04.104'
+- end: !human_time '00:59:08.063'
+  lines:
+  - '... Kami akan memberikan Snowflake.'
+  start: !human_time '00:59:06.072'
+- end: !human_time '00:59:10.469'
+  lines:
+  - Ketika saya menemukan Snowflake...
+  start: !human_time '00:59:08.308'
+- end: !human_time '00:59:13.741'
+  lines:
+  - '... Aku akan memberikan Marino.'
+  start: !human_time '00:59:11.978'
+- end: !human_time '00:59:26.823'
+  lines:
+  - Melissa, adalah Ace.
+  start: !human_time '00:59:25.526'
+- end: !human_time '00:59:30.287'
+  lines:
+  - Apa yang Anda lakukan di sini?
+  - Ini adalah tengah malam.
+  start: !human_time '00:59:27.762'
+- end: !human_time '00:59:32.932'
+  lines:
+  - Kau sudah berjanji denganku
+  start: !human_time '00:59:30.998'
+- end: !human_time '00:59:37.801'
+  lines:
+  - Finkle kabur dari Shady Acres.
+  - Mereka masih punya barang-barangnya.
+  start: !human_time '00:59:34.035'
+- end: !human_time '00:59:40.067'
+  lines:
+  - Mereka tidak akan membiarkan kita hanya melihat-lihat.
+  start: !human_time '00:59:37.872'
+- end: !human_time '00:59:41.299'
+  lines:
+  - Aku tahu.
+  start: !human_time '00:59:40.241'
+- end: !human_time '00:59:44.738'
+  lines:
+  - Tak apa, aku sudah ahli dalam hal penyamaran.
+  start: !human_time '00:59:41.575'
+- end: !human_time '00:59:45.903'
+  lines:
+  - Mrs Robinson...
+  start: !human_time '00:59:44.845'
+- end: !human_time '00:59:48.081'
+  lines:
+  - '...aku Dr Handly. Hi.'
+  - '- Hi.'
+  start: !human_time '00:59:46.147'
+- end: !human_time '00:59:50.910'
+  lines:
+  - Siapa orang yang akan kuperiksa?
+  start: !human_time '00:59:48.316'
+- end: !human_time '00:59:52.212'
+  lines:
+  - Saudaraku...
+  start: !human_time '00:59:51.052'
+- end: !human_time '00:59:54.113'
+  lines:
+  - '... Larry.'
+  start: !human_time '00:59:53.054'
+- end: !human_time '01:00:01.127'
+  lines:
+  - Saya siap untuk masuk, Coach,
+  - berikan saya kesempatan.
+  start: !human_time '00:59:58.260'
+- end: !human_time '01:00:04.197'
+  lines:
+  - Aku tahu ini sulit,
+  - tapi ini masalah kejiwaan
+  start: !human_time '01:00:01.330'
+- end: !human_time '01:00:06.131'
+  lines:
+  - Hanya sj harus tetap positif.
+  start: !human_time '01:00:04.266'
+- end: !human_time '01:00:11.296'
+  lines:
+  - Akan kutunjukkan kemampuankun,
+  - super slow-motion.
+  start: !human_time '01:00:08.236'
+- end: !human_time '01:00:40.869'
+  lines:
+  - Mari kita lihat lagi..
+  - '719'
+  - tayangan ulangnya.
+  - (Replay)
+  start: !human_time '01:00:39.402'
+- end: !human_time '01:01:01.181'
+  lines:
+  - Kakakmu gagal masuk dalam tim futbol
+  start: !human_time '01:00:58.121'
+- end: !human_time '01:01:04.191'
+  lines:
+  - '- Apakah benar?'
+  - '- Ya, kami sangat sensitif...'
+  start: !human_time '01:01:01.357'
+- end: !human_time '01:01:06.990'
+  lines:
+  - '... Untuk para atlet stres harus bertahan.'
+  start: !human_time '01:01:04.328'
+- end: !human_time '01:01:09.099'
+  lines:
+  - Aku kosong! Aku kosong!
+  start: !human_time '01:01:07.131'
+- end: !human_time '01:01:10.590'
+  lines:
+  - Aku kosong!
+  start: !human_time '01:01:10.033'
+- end: !human_time '01:01:15.065'
+  lines:
+  - Kami akan melakukan beberapa evaluasi awal...
+  start: !human_time '01:01:12.403'
+- end: !human_time '01:01:17.332'
+  lines:
+  - '... Tapi saya pikir dia akan cocok di sini.'
+  start: !human_time '01:01:15.239'
+- end: !human_time '01:01:19.298'
+  lines:
+  - Di sini!
+  start: !human_time '01:01:17.808'
+- end: !human_time '01:01:23.107'
+  lines:
+  - 3-50-1!
+  start: !human_time '01:01:21.412'
+- end: !human_time '01:01:25.338'
+  lines:
+  - 3-50-1!
+  start: !human_time '01:01:23.814'
+- end: !human_time '01:01:27.784'
+  lines:
+  - Rover, duduk. Hut, tapi.
+  start: !human_time '01:01:25.816'
+- end: !human_time '01:01:33.922'
+  lines:
+  - Dia sulit sekali melupakan pertandingan futbol itu.
+  start: !human_time '01:01:31.021'
+- end: !human_time '01:01:36.623'
+  lines:
+  - Apakah dia sejarah penyakit mental?
+  start: !human_time '01:01:34.291'
+- end: !human_time '01:01:39.792'
+  lines:
+  - Selama saya mengenalnya.
+  start: !human_time '01:01:38.029'
+- end: !human_time '01:01:44.326'
+  lines:
+  - Ini adalah salah satu kamar terapi kami.
+  start: !human_time '01:01:42.267'
+- end: !human_time '01:01:48.630'
+  lines:
+  - Dan kami akan lakukan sedikit renovasi agar
+  - kelihatan lebih menarik.
+  start: !human_time '01:01:45.103'
+- end: !human_time '01:01:52.876'
+  lines:
+  - Dan ini ruang penyimpanan.
+  - Disini tersimpan berbagai....
+  start: !human_time '01:01:48.940'
+- end: !human_time '01:01:54.374'
+  lines:
+  - Istirahat!
+  start: !human_time '01:01:53.077'
+- end: !human_time '01:02:12.262'
+  lines:
+  - Dia akan baik-baik ada sendiri
+  - selama 20 menit berikutnya.
+  start: !human_time '01:02:08.359'
+- end: !human_time '01:02:16.334'
+  lines:
+  - Aku akan menunjukkan kepadamu asramanya.
+  start: !human_time '01:02:14.400'
+- end: !human_time '01:03:29.874'
+  lines:
+  - Isotoners.
+  start: !human_time '01:03:28.009'
+- end: !human_time '01:03:51.461'
+  lines:
+  - trlalu Terobsesi?
+  start: !human_time '01:03:49.163'
+- end: !human_time '01:03:54.930'
+  lines:
+  - Anda mau ke mana?
+  start: !human_time '01:03:53.167'
+- end: !human_time '01:03:58.096'
+  lines:
+  - '- Untuk membersihkan ruang penyimpanan.'
+  - '- Tidak, bersihkan kafetaria.'
+  start: !human_time '01:03:55.069'
+- end: !human_time '01:04:00.207'
+  lines:
+  - Kerjakan saja apa yang sudah kusuruh
+  start: !human_time '01:03:58.273'
+- end: !human_time '01:04:02.172'
+  lines:
+  - Jadwalnya
+  start: !human_time '01:04:00.375'
+- end: !human_time '01:04:05.075'
+  lines:
+  - '... Bersihkan kafetaria.'
+  - '- Aku tahu apa yang saya lakukan, mengerti?'
+  start: !human_time '01:04:02.277'
+- end: !human_time '01:04:06.408'
+  lines:
+  - Anda harus bersihkan itu sebelumnya.
+  start: !human_time '01:04:05.180'
+- end: !human_time '01:04:09.978'
+  lines:
+  - Man, ayolah. Lihat, kafetaria,
+  - Saya membersihkan di sini.
+  start: !human_time '01:04:06.815'
+- end: !human_time '01:04:11.415'
+  lines:
+  - istirahat Anda terlalu panjang.
+  start: !human_time '01:04:10.118'
+- end: !human_time '01:04:14.787'
+  lines:
+  - kau adalah menyebalkan.
+  start: !human_time '01:04:12.387'
+- end: !human_time '01:04:40.042'
+  lines:
+  - '"Pencarian pemain futbol yang menghilang."'
+  start: !human_time '01:04:37.380'
+- end: !human_time '01:04:43.110'
+  lines:
+  - Pencarian berakhir saat...
+  start: !human_time '01:04:40.516'
+- end: !human_time '01:04:47.017'
+  lines:
+  - '"... Tidak dapat menemukan'
+  - tubuh Lois Einhorn... "
+  start: !human_time '01:04:43.286'
+- end: !human_time '01:04:50.926'
+  lines:
+  - Seorang pejalan kaki hilang sejak Jumat?
+  start: !human_time '01:04:48.458'
+- end: !human_time '01:04:52.425'
+  lines:
+  - Lois Einhorn?
+  start: !human_time '01:04:51.060'
+- end: !human_time '01:04:56.429'
+  lines:
+  - Sial.
+  start: !human_time '01:04:54.063'
+- end: !human_time '01:05:13.044'
+  lines:
+  - Apa yang Anda lakukan di sini?
+  - kembali bekerja.
+  start: !human_time '01:05:10.280'
+- end: !human_time '01:05:43.940'
+  lines:
+  - Cinta, Roger?
+  start: !human_time '01:05:42.313'
+- end: !human_time '01:05:53.318'
+  lines:
+  - Ace, itu adalah "E".
+  start: !human_time '01:05:52.090'
+- end: !human_time '01:05:56.916'
+  lines:
+  - Apa artikel yang kau temukan itu berarti?
+  start: !human_time '01:05:53.458'
+- end: !human_time '01:05:59.361'
+  lines:
+  - Aku mendapat surat dari Podacter untuk Einhorn...
+  start: !human_time '01:05:56.995'
+- end: !human_time '01:06:02.093'
+  lines:
+  - '... Berterima kasih padanya untuk malam yang indah.'
+  start: !human_time '01:05:59.431'
+- end: !human_time '01:06:04.963'
+  lines:
+  - Sesuatu yang istimewa, kawan.
+  start: !human_time '01:06:02.233'
+- end: !human_time '01:06:06.970'
+  lines:
+  - Wiggles, mundur lagi.
+  start: !human_time '01:06:05.070'
+- end: !human_time '01:06:14.637'
+  lines:
+  - Apa hubungannya Lois Einhorn
+  - dengan Ray Finkle?
+  start: !human_time '01:06:11.109'
+- end: !human_time '01:06:18.045'
+  lines:
+  - Ayo, pikir!
+  start: !human_time '01:06:16.248'
+- end: !human_time '01:06:21.152'
+  lines:
+  - Finkle dan Einhorn bersama-sama.
+  - Bagaimana? Mengapa?
+  start: !human_time '01:06:18.217'
+- end: !human_time '01:06:29.986'
+  lines:
+  - Baiklah! Ini dia.
+  start: !human_time '01:06:28.394'
+- end: !human_time '01:06:33.325'
+  lines:
+  - Jawabannya disini!
+  - Cukup alirkan saja darahnya ke otak!
+  start: !human_time '01:06:30.162'
+- end: !human_time '01:06:36.728'
+  lines:
+  - Finkle dan Einhorn. Finkle dan Einhorn.
+  start: !human_time '01:06:34.066'
+- end: !human_time '01:06:39.333'
+  lines:
+  - Finkle dan Einhorn. Finkle dan Einhorn.
+  start: !human_time '01:06:37.069'
+- end: !human_time '01:06:54.651'
+  lines:
+  - Mudah menyerah.
+  start: !human_time '01:06:53.320'
+- end: !human_time '01:06:58.724'
+  lines:
+  - Apa yang Anda inginkan?
+  start: !human_time '01:06:56.790'
+- end: !human_time '01:07:02.694'
+  lines:
+  - Aku tidak punya makanan untukmu.
+  start: !human_time '01:07:00.260'
+- end: !human_time '01:07:06.027'
+  lines:
+  - Aku harus punya uang untuk membeli makanan.
+  start: !human_time '01:07:03.263'
+- end: !human_time '01:07:09.693'
+  lines:
+  - Aku harus mendapatkan lumba-lumba itu untuk mendapatkan uang.
+  - Apakah Anda melihat lumba-lumba di sini?
+  start: !human_time '01:07:06.166'
+- end: !human_time '01:07:19.237'
+  lines:
+  - Mari kita hadapi itu...
+  start: !human_time '01:07:18.111'
+- end: !human_time '01:07:21.744'
+  lines:
+  - '...tuanmu adalah pecundang.'
+  start: !human_time '01:07:19.446'
+- end: !human_time '01:07:40.665'
+  lines:
+  - Apa yang...?
+  start: !human_time '01:07:38.800'
+- end: !human_time '01:07:44.399'
+  lines:
+  - Itu dia.
+  start: !human_time '01:07:42.670'
+- end: !human_time '01:07:48.231'
+  lines:
+  - Itu dia!
+  start: !human_time '01:07:46.707'
+- end: !human_time '01:07:51.138'
+  lines:
+  - Einhorn adalah Finkle.
+  start: !human_time '01:07:48.442'
+- end: !human_time '01:07:53.679'
+  lines:
+  - Finkle adalah Einhorn.
+  start: !human_time '01:07:51.279'
+- end: !human_time '01:07:56.311'
+  lines:
+  - Einhorn adalah laki2!
+  start: !human_time '01:07:54.081'
+- end: !human_time '01:07:59.753'
+  lines:
+  - Oh, Tuhan!
+  start: !human_time '01:07:57.853'
+- end: !human_time '01:08:02.757'
+  lines:
+  - Einhorn adalah laki2!
+  start: !human_time '01:08:00.289'
+- end: !human_time '01:09:01.781'
+  lines:
+  - pistolmu menusuk pinggulku.
+  start: !human_time '01:08:59.415'
+- end: !human_time '01:09:04.152'
+  lines:
+  - tuhan.
+  start: !human_time '01:09:02.719'
+- end: !human_time '01:09:09.292'
+  lines:
+  - Dan kabar mengejutkan dari ajang Super Bowl ini
+  - adalah menghilangnya...
+  - .
+  start: !human_time '01:09:06.824'
+- end: !human_time '01:09:10.586'
+  lines:
+  - ''
+  start: !human_time '01:09:09.426'
+- end: !human_time '01:09:13.686'
+  lines:
+  - '...'
+  - quarterback, Dan Marino.
+  start: !human_time '01:09:10.694'
+- end: !human_time '01:09:16.891'
+  lines:
+  - Ini akan sedikit menyulitkan tim Miami, Bukan begitu Bob..
+  start: !human_time '01:09:13.831'
+- end: !human_time '01:09:57.907'
+  lines:
+  - Apa yang salah? Apakah tidak kau bersenang-senang?
+  start: !human_time '01:09:55.507'
+- end: !human_time '01:10:02.839'
+  lines:
+  - Aku suka Super Bowl hari Minggu.
+  - bukankah begitu, Dan?
+  start: !human_time '01:09:59.210'
+- end: !human_time '01:10:05.375'
+  lines:
+  - Sebuah sore yang penuh keajaiban....
+  start: !human_time '01:10:03.214'
+- end: !human_time '01:10:07.943'
+  lines:
+  - '... Di mana mimpi dibuat...'
+  start: !human_time '01:10:05.850'
+- end: !human_time '01:10:10.687'
+  lines:
+  - '... Dan hancur.'
+  start: !human_time '01:10:09.220'
+- end: !human_time '01:10:14.791'
+  lines:
+  - Dengar, kalau kau mau cari tiket,
+  - kau salah tempat.
+  - ''
+  start: !human_time '01:10:11.856'
+- end: !human_time '01:10:19.790'
+  lines:
+  - Apa aku tidak familiar bagimu?
+  - Mungkin kita pernah...
+  start: !human_time '01:10:16.195'
+- end: !human_time '01:10:22.196'
+  lines:
+  - '... Kita pernah bertemu di suatu tempat sebelumnya?'
+  start: !human_time '01:10:19.966'
+- end: !human_time '01:10:25.233'
+  lines:
+  - Saya tidak tahu.
+  - Aku mendapatkan benturan banyak di kepala
+  start: !human_time '01:10:22.435'
+- end: !human_time '01:10:27.699'
+  lines:
+  - Sekarang koin undian.
+  start: !human_time '01:10:25.504'
+- end: !human_time '01:10:29.806'
+  lines:
+  - Kickoff.
+  start: !human_time '01:10:28.441'
+- end: !human_time '01:10:32.267'
+  lines:
+  - Hal favorit saya.
+  start: !human_time '01:10:30.743'
+- end: !human_time '01:10:40.475'
+  lines:
+  - Tendangan jarak jauh!
+  start: !human_time '01:10:38.951'
+- end: !human_time '01:11:02.498'
+  lines:
+  - Aku membuat beberapa makanan, Dan.
+  start: !human_time '01:10:59.973'
+- end: !human_time '01:11:06.945'
+  lines:
+  - Apakah Anda seperti makanan, Dan?
+  start: !human_time '01:11:04.511'
+- end: !human_time '01:11:10.213'
+  lines:
+  - Aku akan segera kembali, Dan.
+  start: !human_time '01:11:08.348'
+- end: !human_time '01:11:44.816'
+  lines:
+  - Aku tak tahu berapa wanita itu membayarmu,
+  - tapi aku akan menggandakannya..
+  start: !human_time '01:11:40.948'
+- end: !human_time '01:11:48.013'
+  lines:
+  - Maaf.
+  - Wanita itu yang mengeluarkan kami dari penjara.
+  start: !human_time '01:11:44.919'
+- end: !human_time '01:11:51.315'
+  lines:
+  - Snowflake, here you go. Ayolah.
+  start: !human_time '01:11:49.290'
+- end: !human_time '01:11:53.256'
+  lines:
+  - Check it out, Marino.
+  start: !human_time '01:11:51.459'
+- end: !human_time '01:11:55.487'
+  lines:
+  - Aku melemparkan lolos ke lumba-lumba.
+  start: !human_time '01:11:53.428'
+- end: !human_time '01:12:06.875'
+  lines:
+  - Sial.
+  start: !human_time '01:12:05.908'
+- end: !human_time '01:12:08.771'
+  lines:
+  - ambilkan ikan lebih banyak.
+  start: !human_time '01:12:07.042'
+- end: !human_time '01:12:10.844'
+  lines:
+  - Aku bisa membunuhnya.
+  start: !human_time '01:12:09.411'
+- end: !human_time '01:12:13.472'
+  lines:
+  - Lovely partai.
+  start: !human_time '01:12:11.914'
+- end: !human_time '01:12:15.477'
+  lines:
+  - Sayang aku tidak diundang.
+  start: !human_time '01:12:13.816'
+- end: !human_time '01:12:29.998'
+  lines:
+  - Di mana adalah ikan kepala batu?
+  start: !human_time '01:12:28.030'
+- end: !human_time '01:12:38.899'
+  lines:
+  - Sadar.
+  start: !human_time '01:12:37.841'
+- end: !human_time '01:12:41.043'
+  lines:
+  - Persis seperti yang saya direncanakan.
+  start: !human_time '01:12:39.109'
+- end: !human_time '01:12:50.352'
+  lines:
+  - Apa itu?
+  start: !human_time '01:12:48.885'
+- end: !human_time '01:13:02.396'
+  lines:
+  - Sial!
+  start: !human_time '01:13:01.464'
+- end: !human_time '01:13:09.027'
+  lines:
+  - Apa yang terjadi?
+  start: !human_time '01:13:08.037'
+- end: !human_time '01:13:11.031'
+  lines:
+  - Apa yang terjadi?
+  start: !human_time '01:13:10.007'
+- end: !human_time '01:13:12.442'
+  lines:
+  - Anda baik-baik saja?
+  start: !human_time '01:13:11.475'
+- end: !human_time '01:13:14.103'
+  lines:
+  - Coba tebak?
+  start: !human_time '01:13:12.977'
+- end: !human_time '01:13:15.775'
+  lines:
+  - Sudah saatnya tidur siang.
+  start: !human_time '01:13:14.478'
+- end: !human_time '01:13:20.080'
+  lines:
+  - Benturan yang keras!
+  start: !human_time '01:13:18.749'
+- end: !human_time '01:13:23.880'
+  lines:
+  - awas..
+  start: !human_time '01:13:22.720'
+- end: !human_time '01:13:31.689'
+  lines:
+  - Siapa kau?
+  start: !human_time '01:13:30.461'
+- end: !human_time '01:13:36.061'
+  lines:
+  - Ace Ventura, Pet Detective.
+  - 'Saya telah dikirim untuk khusus:'
+  start: !human_time '01:13:32.796'
+- end: !human_time '01:13:37.895'
+  lines:
+  - Quarterback "menyelinap."
+  start: !human_time '01:13:36.200'
+- end: !human_time '01:13:39.970'
+  lines:
+  - Penalti.
+  start: !human_time '01:13:39.003'
+- end: !human_time '01:13:42.863'
+  lines:
+  - Terlalu banyak orang di lapangan.
+  start: !human_time '01:13:40.804'
+- end: !human_time '01:13:45.968'
+  lines:
+  - Aku memperingatkan kamu, Ventura.
+  start: !human_time '01:13:43.909'
+- end: !human_time '01:13:48.178'
+  lines:
+  - Apa yang terjadi dengan Ace?
+  start: !human_time '01:13:46.745'
+- end: !human_time '01:13:50.072'
+  lines:
+  - Pertanyaan yang bagus.
+  start: !human_time '01:13:48.480'
+- end: !human_time '01:13:55.081'
+  lines:
+  - Hati-hati dengan ponsel itu.
+  - Dalam waktu, Anda bisa mengembangkan tumor.
+  start: !human_time '01:13:50.815'
+- end: !human_time '01:13:58.117'
+  lines:
+  - Aguado, itu Einhorn Letnan.
+  start: !human_time '01:13:55.887'
+- end: !human_time '01:14:02.085'
+  lines:
+  - Kirim beberapa orang
+  - ke Yacht Basin Hallandale.
+  start: !human_time '01:13:58.456'
+- end: !human_time '01:14:04.957'
+  lines:
+  - Aku punya penculik yg
+  - terjebak di gudang.
+  start: !human_time '01:14:02.227'
+- end: !human_time '01:14:07.892'
+  lines:
+  - Ace Ventura, Pet Detective.
+  start: !human_time '01:14:05.230'
+- end: !human_time '01:14:14.966'
+  lines:
+  - Kode 11 dalam perjalanan,
+  - 343 Victorville Road...
+  start: !human_time '01:14:11.803'
+- end: !human_time '01:14:16.767'
+  lines:
+  - '... Di Palmdale.'
+  start: !human_time '01:14:15.140'
+- end: !human_time '01:14:20.141'
+  lines:
+  - Petugas butuh bantuan.
+  - 'Nama pelaku: Ace Ventura..'
+  start: !human_time '01:14:16.875'
+- end: !human_time '01:14:23.140'
+  lines:
+  - .sangat berbahaya dan mengancam.
+  start: !human_time '01:14:20.546'
+- end: !human_time '01:14:26.510'
+  lines:
+  - Ini Ace. Kami harus keluar dari sini.
+  start: !human_time '01:14:23.916'
+- end: !human_time '01:14:30.521'
+  lines:
+  - Apakah dia dalam kesulitan?
+  start: !human_time '01:14:29.088'
+- end: !human_time '01:14:33.121'
+  lines:
+  - Jangan khawatir, jika ada
+  - satu hal yang saya tahu...
+  start: !human_time '01:14:30.823'
+- end: !human_time '01:14:35.723'
+  lines:
+  - '... Tidak ada Ace tidak bisa menangani.'
+  start: !human_time '01:14:33.459'
+- end: !human_time '01:14:38.528'
+  lines:
+  - Jangan membunuhku.
+  start: !human_time '01:14:36.162'
+- end: !human_time '01:14:41.828'
+  lines:
+  - Silakan.
+  start: !human_time '01:14:40.099'
+- end: !human_time '01:14:44.726'
+  lines:
+  - Aku tidak akan pernah memberitahu siapa pun, aku bersumpah.
+  start: !human_time '01:14:42.235'
+- end: !human_time '01:14:47.134'
+  lines:
+  - '- Dia adalah yang Anda inginkan! Bunuh dia!'
+  - '- Bunuh dia!'
+  start: !human_time '01:14:44.870'
+- end: !human_time '01:14:50.135'
+  lines:
+  - '- Dia memegang bola, ingat?'
+  - '- Bunuh dia, dia adalah si detektif.'
+  start: !human_time '01:14:47.473'
+- end: !human_time '01:14:52.034'
+  lines:
+  - Ayo, menatapnya.
+  start: !human_time '01:14:50.476'
+- end: !human_time '01:14:53.544'
+  lines:
+  - '- Cengeng!'
+  - '- Keriting!'
+  start: !human_time '01:14:52.178'
+- end: !human_time '01:14:54.814'
+  lines:
+  - '- Pengecut.'
+  - -Dasar kepala berjanggut.
+  start: !human_time '01:14:53.847'
+- end: !human_time '01:14:56.472'
+  lines:
+  - Diam!
+  start: !human_time '01:14:54.982'
+- end: !human_time '01:15:00.981'
+  lines:
+  - Saya rasa saya akan membunuh lumba-lumba yang pertama.
+  - Saya tidak ingin Anda kehilangan itu.
+  start: !human_time '01:14:56.783'
+- end: !human_time '01:15:03.212'
+  lines:
+  - Dan ada kejutan
+  - '863'
+  - tendangan itu!
+  start: !human_time '01:15:01.722'
+- end: !human_time '01:15:06.792'
+  lines:
+  - Dan itu baik!
+  start: !human_time '01:15:04.858'
+- end: !human_time '01:15:09.827'
+  lines:
+  - Bagus untuk melihat seseorang di bawah tekanan.
+  start: !human_time '01:15:06.994'
+- end: !human_time '01:15:16.266'
+  lines:
+  - Apa yang Anda ketahui...
+  start: !human_time '01:15:14.935'
+- end: !human_time '01:15:19.170'
+  lines:
+  - '... Tentang tekanan?'
+  start: !human_time '01:15:17.771'
+- end: !human_time '01:15:22.071'
+  lines:
+  - Yah, aku telah mencium seorang pria.
+  start: !human_time '01:15:19.773'
+- end: !human_time '01:15:27.673'
+  lines:
+  - Tentu saja, ada pernah lebih
+  - penting kick di Super Bowl...
+  start: !human_time '01:15:23.076'
+- end: !human_time '01:15:30.044'
+  lines:
+  - '....dan itu luar biasa sekali."'
+  start: !human_time '01:15:27.849'
+- end: !human_time '01:15:35.485'
+  lines:
+  - Maksudku, itu hadangan yang bagus.
+  - Finkle melewatkan itu.
+  start: !human_time '01:15:30.718'
+- end: !human_time '01:15:38.155'
+  lines:
+  - Itu tak benar!
+  start: !human_time '01:15:36.858'
+- end: !human_time '01:15:40.226'
+  lines:
+  - Mereka menghadangku!
+  start: !human_time '01:15:38.793'
+- end: !human_time '01:16:02.149'
+  lines:
+  - Kau suka itu?
+  start: !human_time '01:16:00.715'
+- end: !human_time '01:16:03.683'
+  lines:
+  - Kau suka itu?
+  start: !human_time '01:16:02.318'
+- end: !human_time '01:16:10.991'
+  lines:
+  - Dan itu! Dan itu!
+  start: !human_time '01:16:09.091'
+- end: !human_time '01:16:23.964'
+  lines:
+  - ada masalah dengan wanita itu?
+  start: !human_time '01:16:21.370'
+- end: !human_time '01:16:25.865'
+  lines:
+  - Anda tidak mengerti...
+  start: !human_time '01:16:24.273'
+- end: !human_time '01:16:27.167'
+  lines:
+  - '... Ia adalah . ..'
+  start: !human_time '01:16:26.041'
+- end: !human_time '01:16:32.145'
+  lines:
+  - Tangkap dia, Lois! Tangkap dia!
+  start: !human_time '01:16:30.245'
+- end: !human_time '01:16:37.349'
+  lines:
+  - Tangkap dia
+  start: !human_time '01:16:36.052'
+- end: !human_time '01:16:41.857'
+  lines:
+  - Tangkap dia
+  start: !human_time '01:16:40.890'
+- end: !human_time '01:16:45.126'
+  lines:
+  - Tembak dia!
+  start: !human_time '01:16:44.194'
+- end: !human_time '01:16:49.231'
+  lines:
+  - '- Tembak dia!'
+  - '- Tahan tembakanmu!'
+  start: !human_time '01:16:47.263'
+- end: !human_time '01:16:52.134'
+  lines:
+  - Jangan tembak!
+  start: !human_time '01:16:51.167'
+- end: !human_time '01:16:54.826'
+  lines:
+  - Letakkan senjata Anda ke bawah atau dia mati!.
+  start: !human_time '01:16:52.335'
+- end: !human_time '01:16:57.001'
+  lines:
+  - Aku serius!
+  start: !human_time '01:16:55.739'
+- end: !human_time '01:16:59.741'
+  lines:
+  - Dia tidak bercanda!
+  start: !human_time '01:16:58.274'
+- end: !human_time '01:17:01.308'
+  lines:
+  - Dia diculik Snowflake!
+  start: !human_time '01:16:59.909'
+- end: !human_time '01:17:04.975'
+  lines:
+  - Dia membunuh Roger Podacter dan
+  - hendak membunuh Marino dan...
+  start: !human_time '01:17:01.778'
+- end: !human_time '01:17:06.139'
+  lines:
+  - '... Aku!'
+  start: !human_time '01:17:05.115'
+- end: !human_time '01:17:11.748'
+  lines:
+  - Cerita yang menyenangkan!
+  start: !human_time '01:17:09.119'
+- end: !human_time '01:17:14.858'
+  lines:
+  - Tapi aku temukan sesuatu untuk kalian.
+  start: !human_time '01:17:11.889'
+- end: !human_time '01:17:16.354'
+  lines:
+  - Sebagai contoh...
+  start: !human_time '01:17:15.092'
+- end: !human_time '01:17:17.988'
+  lines:
+  - '..... kalian lihat....'
+  start: !human_time '01:17:16.794'
+- end: !human_time '01:17:22.758'
+  lines:
+  - '.....pemain profesional...'
+  start: !human_time '01:17:18.162'
+- end: !human_time '01:17:26.762'
+  lines:
+  - '... .Ray Finkle dari Miami Dolphin...'
+  - ''
+  start: !human_time '01:17:23.167'
+- end: !human_time '01:17:31.340'
+  lines:
+  - '...yang gagal melakukan tendangan 26-yard'
+  - di detik terakhir Super Bowl 17.
+  - .
+  start: !human_time '01:17:26.937'
+- end: !human_time '01:17:38.214'
+  lines:
+  - Kalian tidak tahu Finkle
+  - masuk Rumah Sakit Jiwa......
+  start: !human_time '01:17:34.278'
+- end: !human_time '01:17:41.910'
+  lines:
+  - '... Melarikan diri, dan bergabung dengan polisi'
+  - dibawah identity dari pejalan kaki yang hilang...
+  start: !human_time '01:17:38.315'
+- end: !human_time '01:17:45.251'
+  lines:
+  - '... Memanipulasi jalan ke puncak'
+  - dalam suatu skema untuk mendapatkan bahkan dengan Marino...
+  start: !human_time '01:17:42.019'
+- end: !human_time '01:17:47.723'
+  lines:
+  - '...yang dia kira menyebabkan semua kegagalannya!'
+  start: !human_time '01:17:45.357'
+- end: !human_time '01:17:50.857'
+  lines:
+  - Apa maksudmu?
+  start: !human_time '01:17:49.094'
+- end: !human_time '01:17:55.159'
+  lines:
+  - Dia bukan Lois Einhorn!
+  - Dia Ray Finkle! Dia ini pria!
+  start: !human_time '01:17:51.029'
+- end: !human_time '01:17:56.698'
+  lines:
+  - Dia bohong!
+  start: !human_time '01:17:55.333'
+- end: !human_time '01:17:58.028'
+  lines:
+  - Tembak dia!
+  start: !human_time '01:17:56.868'
+- end: !human_time '01:18:04.165'
+  lines:
+  - Lihat saja siapa yang berbohong??
+  start: !human_time '01:18:01.173'
+- end: !human_time '01:18:08.668'
+  lines:
+  - Apakah seorang wanita benar-benar harus memakai
+  - salah satu dari ini?
+  start: !human_time '01:18:04.709'
+- end: !human_time '01:18:16.710'
+  lines:
+  - Kawan, memang ada!
+  start: !human_time '01:18:14.719'
+- end: !human_time '01:18:18.783'
+  lines:
+  - 'Tapi untuk yg ini:'
+  start: !human_time '01:18:17.122'
+- end: !human_time '01:18:20.822'
+  lines:
+  - Apakah wanita sejati...
+  start: !human_time '01:18:19.024'
+- end: !human_time '01:18:23.087'
+  lines:
+  - '...tak punya ini?'
+  start: !human_time '01:18:20.960'
+- end: !human_time '01:18:31.328'
+  lines:
+  - Bahwa jenis operasi ini dapat
+  - dilakukan selama akhir pekan.
+  start: !human_time '01:18:28.768'
+- end: !human_time '01:18:33.903'
+  lines:
+  - Tapi aku sangat meragukan...
+  start: !human_time '01:18:32.038'
+- end: !human_time '01:18:38.106'
+  lines:
+  - '...kalau dia bisa meluangkan waktunya....'
+  start: !human_time '01:18:34.340'
+- end: !human_time '01:18:39.835'
+  lines:
+  - '... ...yang namanya....'
+  start: !human_time '01:18:38.277'
+- end: !human_time '01:18:41.003'
+  lines:
+  - '.....Tn. Knish...'
+  start: !human_time '01:18:39.979'
+- end: !human_time '01:18:42.876'
+  lines:
+  - '... Mr Knish!'
+  start: !human_time '01:18:41.147'
+- end: !human_time '01:18:52.118'
+  lines:
+  - Oh, Nak.
+  start: !human_time '01:18:50.890'
+- end: !human_time '01:18:56.319'
+  lines:
+  - Datang ke sini.
+  start: !human_time '01:18:55.295'
+- end: !human_time '01:19:00.062'
+  lines:
+  - Bisa permisi sebentar?
+  start: !human_time '01:18:57.264'
+- end: !human_time '01:19:10.071'
+  lines:
+  - Hadirin sekalian...
+  start: !human_time '01:19:08.342'
+- end: !human_time '01:19:13.745'
+  lines:
+  - '... Rekan saya yang terhormat, Mr Marino...'
+  start: !human_time '01:19:10.878'
+- end: !human_time '01:19:16.747'
+  lines:
+  - ..baru saja mengatakan bukti baru padaku.
+  start: !human_time '01:19:14.381'
+- end: !human_time '01:19:17.851'
+  lines:
+  - Sekarang...
+  start: !human_time '01:19:16.884'
+- end: !human_time '01:19:22.087'
+  lines:
+  - '... Sejarah telah jelas menunjukkan'
+  - bahwa bahkan yang paling intuitif...
+  start: !human_time '01:19:18.151'
+- end: !human_time '01:19:25.089'
+  lines:
+  - .bisa mengalahkan investigasi biasa.
+  start: !human_time '01:19:22.256'
+- end: !human_time '01:19:27.317'
+  lines:
+  - Tapi, jika saya salah...
+  start: !human_time '01:19:25.292'
+- end: !human_time '01:19:30.865'
+  lines:
+  - '... Jika Letnan'
+  - memang seorang wanita...
+  start: !human_time '01:19:27.895'
+- end: !human_time '01:19:33.260'
+  lines:
+  - '....seperti yang dia bilang..'
+  start: !human_time '01:19:31.065'
+- end: !human_time '01:19:34.865'
+  lines:
+  - '... Kemudian, teman-teman ...'
+  start: !human_time '01:19:33.568'
+- end: !human_time '01:19:39.939'
+  lines:
+  - '...maka dia adalah kasus kepribadian ganda'
+  - yang terburuk yang pernah aku tangani!
+  start: !human_time '01:19:35.036'
+- end: !human_time '01:19:43.269'
+  lines:
+  - Itulah sebabnya Roger Podacter sudah mati!
+  start: !human_time '01:19:41.142'
+- end: !human_time '01:19:46.046'
+  lines:
+  - Dia sudah tahu semuanya!
+  start: !human_time '01:19:43.578'
+- end: !human_time '01:19:56.290'
+  lines:
+  - Selamat malam!
+  start: !human_time '01:19:55.323'
+- end: !human_time '01:19:59.958'
+  lines:
+  - Penonton yang luar biasa.
+  - Jangan lupa beri mereka sedikit tip(uang).
+  start: !human_time '01:19:56.591'
+- end: !human_time '01:20:07.566'
+  lines:
+  - matilah.. binatang!
+  start: !human_time '01:20:05.200'
+- end: !human_time '01:20:09.263'
+  lines:
+  - Keputusan yang cepat
+  start: !human_time '01:20:08.103'
+- end: !human_time '01:20:32.955'
+  lines:
+  - Pecundang!
+  start: !human_time '01:20:31.226'
+- end: !human_time '01:20:41.332'
+  lines:
+  - Apakah Anda memiliki permen karet lagi?
+  start: !human_time '01:20:40.070'
+- end: !human_time '01:20:45.972'
+  lines:
+  - Ini bukan urusanmu.
+  - Jangan campuri urusan pribadiku.
+  start: !human_time '01:20:41.638'
+- end: !human_time '01:20:49.243'
+  lines:
+  - Anda orang aneh, Ace. Seorang pria aneh.
+  start: !human_time '01:20:46.843'
+- end: !human_time '01:20:53.245'
+  lines:
+  - Hadirin sekalian....
+  start: !human_time '01:20:50.981'
+- end: !human_time '01:20:55.248'
+  lines:
+  - ..Miami Dolphins dengan bangga.
+  start: !human_time '01:20:53.383'
+- end: !human_time '01:20:58.378'
+  lines:
+  - '... Untuk menyambut kembali ke'
+  - Joe Robbie Stadion...
+  start: !human_time '01:20:55.352'
+- end: !human_time '01:21:00.179'
+  lines:
+  - '... Maskot kita tercinta...'
+  start: !human_time '01:20:58.655'
+- end: !human_time '01:21:03.157'
+  lines:
+  - '... Dan bintang acara  kami:'
+  start: !human_time '01:21:00.290'
+- end: !human_time '01:21:05.124'
+  lines:
+  - Snowflake
+  start: !human_time '01:21:03.293'
+- end: !human_time '01:21:13.261'
+  lines:
+  - Dan sekarang...
+  start: !human_time '01:21:12.202'
+- end: !human_time '01:21:18.070'
+  lines:
+  - '... ..kembali masuk pada babak kedua,'
+  - bintang andalan Dolphins...
+  - ''
+  start: !human_time '01:21:13.371'
+- end: !human_time '01:21:20.368'
+  lines:
+  - Dan Marino!
+  start: !human_time '01:21:18.309'
+- end: !human_time '01:22:07.285'
+  lines:
+  - Idiot!
+  start: !human_time '01:22:06.591'
+- end: !human_time '01:22:13.262'
+  lines:
+  - Kau tahu aapa yang sudah kau lakukan?
+  - Cukup bayar saja 25 grand, Polly.
+  start: !human_time '01:22:08.393'
+- end: !human_time '01:22:15.559'
+  lines:
+  - Yeah? pukul saya.
+  start: !human_time '01:22:13.398'
+- end: !human_time '01:22:18.633'
+  lines:
+  - sungguh?
+  start: !human_time '01:22:17.302'
+- end: !human_time '01:22:35.645'
+  lines:
+  - Liga Nasional Sepak Bola...
+  start: !human_time '01:22:34.053'
+- end: !human_time '01:22:38.190'
+  lines:
+  - '... Ingin ucapkan terima kasih...'
+  start: !human_time '01:22:35.722'
+- end: !human_time '01:22:40.657'
+  lines:
+  - '... Kepada sang penyelamat Dan Marino...'
+  start: !human_time '01:22:38.291'
+- end: !human_time '01:22:42.318'
+  lines:
+  - '... Dan Snowflake kita tercinta.'
+  start: !human_time '01:22:40.760'
+- end: !human_time '01:22:44.428'
+  lines:
+  - Manusia yang baik hati....
+  start: !human_time '01:22:42.995'
+- end: !human_time '01:22:46.961'
+  lines:
+  - '... Dan pecinta semua hewan:'
+  start: !human_time '01:22:44.731'
+- end: !human_time '01:22:48.032'
+  lines:
+  - Mr ..
+  start: !human_time '01:22:47.100'
+- end: !human_time '01:22:50.158'
+  lines:
+  - '... Ace... Ventura!'
+  start: !human_time '01:22:48.167'
+- end: !human_time '01:22:53.671'
+  lines:
+  - Permisi!
+  start: !human_time '01:22:52.238'
+- end: !human_time '01:22:56.632'
+  lines:
+  - Menyingkir dariku!
+  start: !human_time '01:22:55.141'
+- end: !human_time '01:23:05.583'
+  lines:
+  - Translated By ; Fucxxxer
+  start: !human_time '01:23:00.748'
