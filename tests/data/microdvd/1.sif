@@ -1,0 +1,4684 @@
+---
+units:
+- end: !frame '1075'
+  lines:
+  - -Dobro jutro, Gos. Clark.
+  - -Jutro, Hunter.
+  start: !frame '1004'
+- end: !frame '1995'
+  lines:
+  - -Haj, Carolyn. Haj, Scotty.
+  - -Jutro.
+  start: !frame '1945'
+- end: !frame '2074'
+  lines:
+  - Scotty, bi hotel odpreti vhodna vrata?
+  - Pa pazi da ti ne padejo jajca na tla.
+  start: !frame '2000'
+- end: !frame '2150'
+  lines:
+  - "-O\u010De jih potrebuje za eksperiment."
+  - -Ok, mama.
+  start: !frame '2087'
+- end: !frame '2338'
+  lines:
+  - Pomiri se, Buddy. Saj sem samo jaz.
+  start: !frame '2276'
+- end: !frame '2405'
+  lines:
+  - Buddy, doma smo.
+  start: !frame '2382'
+- end: !frame '2548'
+  lines:
+  - Pomiri se, Buddy. Saj sem samo jaz.
+  start: !frame '2483'
+- end: !frame '2589'
+  lines:
+  - Buddy!
+  start: !frame '2563'
+- end: !frame '2650'
+  lines:
+  - Oh, Buddy.
+  start: !frame '2620'
+- end: !frame '2697'
+  lines:
+  - Buddy!
+  start: !frame '2672'
+- end: !frame '2868'
+  lines:
+  - Buddy!!
+  start: !frame '2815'
+- end: !frame '3874'
+  lines:
+  - Moja prelepa pita.
+  start: !frame '3819'
+- end: !frame '5066'
+  lines:
+  - Poreden pes!
+  start: !frame '5035'
+- end: !frame '5414'
+  lines:
+  - Pojdi ven, pojdi ven, pojdi ven!
+  - Ven, zverina!
+  start: !frame '5338'
+- end: !frame '6200'
+  lines:
+  - "MA\u010CKE SO ZAKON"
+  start: !frame '6150'
+- end: !frame '7011'
+  lines:
+  - Kontrola tukaj.
+  start: !frame '6979'
+- end: !frame '7050'
+  lines:
+  - Imamo resen problem.
+  start: !frame '7016'
+- end: !frame '7577'
+  lines:
+  - "Moj bog. Po\u0161ljite sem najbolj\u0161ega"
+  - "pasjega pretepa\u0161kega agenta. Gremo!"
+  start: !frame '7483'
+- end: !frame '7950'
+  lines:
+  - "MA\u010CKI IN PSI"
+  start: !frame '7850'
+- end: !frame '8144'
+  lines:
+  - Gospodje. pred nekaj trenutki sem sprejel
+  - "sporo\u010Dilo, ki je zelo pomembne narave."
+  start: !frame '8015'
+- end: !frame '8265'
+  lines:
+  - "Klju\u010Dni agent, kateri je delal na primeru Brody"
+  - je bil ugrabljen.
+  start: !frame '8167'
+- end: !frame '8429'
+  lines:
+  - "\u010Ceprav je na varnem moramo dobiti menjavo"
+  - "\u010Dimprej, ko je mogo\u010De."
+  start: !frame '8326'
+- end: !frame '8534'
+  lines:
+  - Izgleda, da nam se
+  - ponovno pojavlja...
+  start: !frame '8452'
+- end: !frame '8608'
+  lines:
+  - "...velika ma\u010Dja pokora."
+  start: !frame '8539'
+- end: !frame '8809'
+  lines:
+  - "Sumimo, da je ma\u010Dji malopridne\u017E"
+  - "ume\u0161an v zaroto..."
+  start: !frame '8718'
+- end: !frame '8918'
+  lines:
+  - "... da uni\u010Dijo, kar smo se psi"
+  - dolgo trudili, da smo dosegli.
+  start: !frame '8814'
+- end: !frame '9119'
+  lines:
+  - Zato, v soglasju z planom Delta...
+  start: !frame '9045'
+- end: !frame '9184'
+  lines:
+  - '... smo izurili elitno skupino agentov...'
+  start: !frame '9125'
+- end: !frame '9282'
+  lines:
+  - '... ki so trenirani da zamenjajo'
+  - "na\u0161e ugrabljene tovari\u0161e."
+  start: !frame '9190'
+- end: !frame '9380'
+  lines:
+  - V tem trenutku zamenjav
+  - prihaja z letalom iz Londona.
+  start: !frame '9288'
+- end: !frame '9465'
+  lines:
+  - Ta se bo pretvarjal, kot da je
+  - "Brody-jev ljubljen\u010Dek..."
+  start: !frame '9392'
+- end: !frame '9547'
+  lines:
+  - '...in varoval njegov dom'
+  - "pred ma\u010Djo invazijo."
+  start: !frame '9470'
+- end: !frame '9689'
+  lines:
+  - Ni mi potrebno omenjati da je prihodnost
+  - "\u010Dloveka in psa..."
+  start: !frame '9587'
+- end: !frame '9779'
+  lines:
+  - '...odvisna od uspeha '
+  - te misije.
+  start: !frame '9693'
+- end: !frame '9870'
+  lines:
+  - "Neuspeh ni dan kot mo\u017Enost."
+  start: !frame '9784'
+- end: !frame '9965'
+  lines:
+  - Stava je zelo velika.
+  - Vse lahko zgubimo.
+  start: !frame '9883'
+- end: !frame '10075'
+  lines:
+  - En milijon psov je
+  - "nam nalo\u017Eili svojo usodo..."
+  start: !frame '9971'
+- end: !frame '10151'
+  lines:
+  - "...naravnost v na\u0161e \u0161ape."
+  start: !frame '10079'
+- end: !frame '10398'
+  lines:
+  - "-Ugriznil te bom v u\u0161esa."
+  - -Pojdi dol z mene!
+  start: !frame '10348'
+- end: !frame '10487'
+  lines:
+  - "-Bode\u0161 me v oko."
+  - -Prihajam skozi!
+  start: !frame '10433'
+- end: !frame '10551'
+  lines:
+  - Oproste mi. Stopte na stran. Prihajam skozi.
+  start: !frame '10493'
+- end: !frame '10614'
+  lines:
+  - "Stran s poti. O\u010Distite prostor."
+  start: !frame '10559'
+- end: !frame '10674'
+  lines:
+  - "-Ne \u017Ee spet."
+  - -Kaj je tokrat?
+  start: !frame '10618'
+- end: !frame '10766'
+  lines:
+  - Mislim da to ni dobra ideja.
+  start: !frame '10694'
+- end: !frame '10822'
+  lines:
+  - "Ne morem verjeti temu psi\u010Dku."
+  start: !frame '10782'
+- end: !frame '10866'
+  lines:
+  - Ko potegnem to vrv. . .
+  start: !frame '10834'
+- end: !frame '10926'
+  lines:
+  - Kaj dela?
+  start: !frame '10896'
+- end: !frame '11015'
+  lines:
+  - ". . .bo vre\u010Da padal na te vile,"
+  - katere pa me bodo ponesle skozi okno. . .
+  start: !frame '10931'
+- end: !frame '11078'
+  lines:
+  - . . .in na pot do svobode,
+  - torej umaknite se.
+  start: !frame '11021'
+- end: !frame '11178'
+  lines:
+  - -Kaj je s tabo?
+  - -Mano? Kaj je z vami?
+  start: !frame '11083'
+- end: !frame '11334'
+  lines:
+  - "Jaz ho\u010Dem avanture.Ne pa \u010Dakanja na nekoga,"
+  - "ki me bo nesel v dolgo\u010Dasno hi\u0161o."
+  start: !frame '11221'
+- end: !frame '11394'
+  lines:
+  - "Kaj je narobe s dru\u017Eino,"
+  - ki te ljubi?
+  start: !frame '11338'
+- end: !frame '11459'
+  lines:
+  - "Brezpla\u010Dna hrana, topel koti\u010Dek za spanje."
+  start: !frame '11399'
+- end: !frame '11546'
+  lines:
+  - "In lahko gre\u0161 na strani\u0161\u010De"
+  - "koder ho\u010De\u0161."
+  start: !frame '11466'
+- end: !frame '11622'
+  lines:
+  - "Kaj no\u010Dete delati"
+  - nekaj razburljivega?
+  start: !frame '11566'
+- end: !frame '11685'
+  lines:
+  - Kot biti policijski pes!
+  - Ne?
+  start: !frame '11627'
+- end: !frame '11804'
+  lines:
+  - Ali Ruski vesoljski pes!
+  - "Ali da poizkusi\u0161 varovane kosti Evrope!"
+  start: !frame '11695'
+- end: !frame '11870'
+  lines:
+  - Dajmo no, fantje.
+  start: !frame '11823'
+- end: !frame '11967'
+  lines:
+  - Oh, pozabite.
+  - Se vidimo kasneje zelenci.
+  start: !frame '11874'
+- end: !frame '12040'
+  lines:
+  - Oh, fantje, jaz ne morem gledati.
+  start: !frame '11990'
+- end: !frame '12074'
+  lines:
+  - To bo dobro.
+  start: !frame '12046'
+- end: !frame '12114'
+  lines:
+  - Svet, prihajam!
+  start: !frame '12079'
+- end: !frame '12270'
+  lines:
+  - Poglej, leti.
+  start: !frame '12227'
+- end: !frame '12368'
+  lines:
+  - Ne, ne leti.
+  start: !frame '12330'
+- end: !frame '12479'
+  lines:
+  - "Si \u017Ee nazaj iz tvoje avanture,"
+  - Scooby-Doofus?
+  start: !frame '12399'
+- end: !frame '12514'
+  lines:
+  - Kje sem?
+  start: !frame '12485'
+- end: !frame '12851'
+  lines:
+  - Kaj je to?
+  start: !frame '12828'
+- end: !frame '12965'
+  lines:
+  - -Naj gre nekdo pogledati.
+  - -Pojdi ti.
+  start: !frame '12898'
+- end: !frame '13121'
+  lines:
+  - OK, prav! V to luknjo!
+  start: !frame '13066'
+- end: !frame '13195'
+  lines:
+  - Gremo! Strogo zaupna operacija!
+  - V luknjo!
+  start: !frame '13126'
+- end: !frame '13236'
+  lines:
+  - Hitreje!
+  - V luknjo!
+  start: !frame '13199'
+- end: !frame '13328'
+  lines:
+  - "Videl sem hitrej\u0161e \u010Divave od tega."
+  - Mahaj z repom!
+  start: !frame '13240'
+- end: !frame '13704'
+  lines:
+  - Zdravo. Sem!
+  start: !frame '13631'
+- end: !frame '13812'
+  lines:
+  - Na tla, Clucky!
+  - To je ena jezna kura.
+  start: !frame '13742'
+- end: !frame '13865'
+  lines:
+  - Sprednji in centralni, agenti!
+  start: !frame '13816'
+- end: !frame '13921'
+  lines:
+  - Hop, hop, hop!
+  - Gremo! Hitreje, dame!
+  start: !frame '13870'
+- end: !frame '13977'
+  lines:
+  - "Ravna kolona! U\u0161esa gor! Hitreje!"
+  start: !frame '13925'
+- end: !frame '14042'
+  lines:
+  - "Ne prisile me da ti dam nagob\u010Dnik!"
+  - "Ho\u010De\u0161 \u017Eve\u010Diti igra\u010Dko?"
+  start: !frame '13982'
+- end: !frame '14114'
+  lines:
+  - "-Ali ho\u010De\u0161 vzburjenje?"
+  - -Gospod, tako je, gospod!
+  start: !frame '14054'
+- end: !frame '14190'
+  lines:
+  - "-Ali ho\u010De\u0161 avanture?"
+  - -Gospod, tako je, gospod!
+  start: !frame '14121'
+- end: !frame '14235'
+  lines:
+  - "\u010Ce te bo izbrala gospodi\u010Dna Brody. . ."
+  start: !frame '14194'
+- end: !frame '14310'
+  lines:
+  - ". . .bo\u0161 dobil navodila za varovanje."
+  - Ali si pripravljen?
+  start: !frame '14241'
+- end: !frame '14341'
+  lines:
+  - Gospod, tako je, gospod!
+  start: !frame '14314'
+- end: !frame '14383'
+  lines:
+  - "Sre\u010Dno."
+  start: !frame '14350'
+- end: !frame '14479'
+  lines:
+  - "To so najbolj pametni ku\u017Eki,"
+  - ki ste jih do sedaj videli.
+  start: !frame '14415'
+- end: !frame '14555'
+  lines:
+  - Sem.
+  start: !frame '14532'
+- end: !frame '14660'
+  lines:
+  - "Za bo\u017Ejo voljo,"
+  - ne pozabite mahati z repom!
+  start: !frame '14573'
+- end: !frame '14770'
+  lines:
+  - Tako kot ste jih opisali
+  - se mi zdijo popolni.
+  start: !frame '14707'
+- end: !frame '14809'
+  lines:
+  - "Tako so sr\u010Dkani."
+  start: !frame '14774'
+- end: !frame '15066'
+  lines:
+  - "Zamenjali so vi\u0161ino. . ."
+  start: !frame '15011'
+- end: !frame '15110'
+  lines:
+  - . . .in barvo.
+  start: !frame '15080'
+- end: !frame '15177'
+  lines:
+  - in pasmo.
+  start: !frame '15131'
+- end: !frame '15599'
+  lines:
+  - "\u010Cudovit je."
+  start: !frame '15539'
+- end: !frame '15669'
+  lines:
+  - Pozdravljeni!
+  start: !frame '15627'
+- end: !frame '15765'
+  lines:
+  - "In ti gre\u0161 z mano domov."
+  - "Da, gre\u0161."
+  start: !frame '15675'
+- end: !frame '15905'
+  lines:
+  - Ni dobro!
+  start: !frame '15868'
+- end: !frame '16241'
+  lines:
+  - Draga? Takoj pridem.
+  start: !frame '16180'
+- end: !frame '16322'
+  lines:
+  - Haj, ljubezen.
+  start: !frame '16271'
+- end: !frame '16410'
+  lines:
+  - "Imam presene\u010Danje zate."
+  start: !frame '16330'
+- end: !frame '16471'
+  lines:
+  - "Novega ku\u017Eka!"
+  start: !frame '16446'
+- end: !frame '16559'
+  lines:
+  - "Toda, mama, Buddy se lahko \u0161e vrne."
+  start: !frame '16495'
+- end: !frame '16657'
+  lines:
+  - "Oprosti, ljub\u010Dek."
+  - "Vem, da ga ni \u017Ee en mesec."
+  start: !frame '16579'
+- end: !frame '16752'
+  lines:
+  - "Toda ali se spominja\u0161 kako smo"
+  - "bili sre\u010Dni ko smo na\u0161li Buddya?"
+  start: !frame '16662'
+- end: !frame '16863'
+  lines:
+  - "Gotovo je na\u0161el in osre\u010Dil"
+  - "kak\u0161no drugo dru\u017Eino."
+  start: !frame '16758'
+- end: !frame '16945'
+  lines:
+  - Poglej ga.
+  start: !frame '16906'
+- end: !frame '17001'
+  lines:
+  - "In o\u010De ga potrebuje za delo."
+  start: !frame '16950'
+- end: !frame '17154'
+  lines:
+  - "Lahko mu me\u010De\u0161 palice, lahko se igra\u0161"
+  - s frisbijem in skrivalnice.
+  start: !frame '17035'
+- end: !frame '17207'
+  lines:
+  - "Da. Odli\u010Dno."
+  start: !frame '17168'
+- end: !frame '17254'
+  lines:
+  - Daj da vidim.
+  start: !frame '17217'
+- end: !frame '17343'
+  lines:
+  - Oh, da, da. Pusti mi da vidim.
+  start: !frame '17262'
+- end: !frame '17387'
+  lines:
+  - Jeza.
+  start: !frame '17364'
+- end: !frame '17416'
+  lines:
+  - Standardno.
+  start: !frame '17393'
+- end: !frame '17483'
+  lines:
+  - "Reakcija mre\u017Enice. . . ."
+  start: !frame '17434'
+- end: !frame '17582'
+  lines:
+  - Normalno. Viskoznost nosu. . . .
+  start: !frame '17517'
+- end: !frame '17721'
+  lines:
+  - "Ni preve\u010D kislo, ni preve\u010D bazno."
+  - "Dobro, neob\u010Dutljiv odziv."
+  start: !frame '17609'
+- end: !frame '17917'
+  lines:
+  - "To je odli\u010Dno!"
+  start: !frame '17881'
+- end: !frame '17989'
+  lines:
+  - To je dobro! Sedaj. . .
+  start: !frame '17923'
+- end: !frame '18075'
+  lines:
+  - '. . .malo proteinske sinteze in '
+  - ' elektrostatike. . . .'
+  start: !frame '17993'
+- end: !frame '18138'
+  lines:
+  - Torej. . . .
+  start: !frame '18115'
+- end: !frame '18232'
+  lines:
+  - Jaz vem. Zakaj mu ne bi dal imena?
+  start: !frame '18150'
+- end: !frame '18309'
+  lines:
+  - Ok. Kaj pa "Zguba"?
+  start: !frame '18244'
+- end: !frame '18378'
+  lines:
+  - On je pes, mama.
+  start: !frame '18344'
+- end: !frame '18460'
+  lines:
+  - Ti nisi zguba, kajneda?
+  start: !frame '18387'
+- end: !frame '18582'
+  lines:
+  - "Po\u010Dakaj."
+  - Lou.
+  start: !frame '18520'
+- end: !frame '18636'
+  lines:
+  - Torej klicali te bomo Lou.
+  start: !frame '18595'
+- end: !frame '18771'
+  lines:
+  - "Ni\u010D igranja v dnevni sobi."
+  start: !frame '18713'
+- end: !frame '18882'
+  lines:
+  - Preproga je iz Uzbekistana.
+  - "Deset tiso\u010D vlaken."
+  start: !frame '18775'
+- end: !frame '18998'
+  lines:
+  - Kaj?
+  start: !frame '18975'
+- end: !frame '19162'
+  lines:
+  - Zguba.
+  start: !frame '19131'
+- end: !frame '19198'
+  lines:
+  - "Ma\u010Dja oseba."
+  start: !frame '19167'
+- end: !frame '19274'
+  lines:
+  - "Ok, tukaj je na\u010Drt:"
+  start: !frame '19232'
+- end: !frame '19355'
+  lines:
+  - "Gremo skozi dvori\u0161\u010De,"
+  - in nazaj v skedenj. . .
+  start: !frame '19278'
+- end: !frame '19421'
+  lines:
+  - ". . .vzamemo bolj\u0161e vile."
+  start: !frame '19362'
+- end: !frame '19695'
+  lines:
+  - Cool.
+  start: !frame '19661'
+- end: !frame '20013'
+  lines:
+  - Jaz ne bi storil tega na tvojem mestu.
+  start: !frame '19971'
+- end: !frame '20138'
+  lines:
+  - Rad imam tvoj pogum,
+  - toda naredi mi uslugo in ostani zadaj.
+  start: !frame '20051'
+- end: !frame '20176'
+  lines:
+  - "To je moj pi\u0161kot."
+  start: !frame '20141'
+- end: !frame '20321'
+  lines:
+  - "To naj bi bila najkraj\u0161a naloga"
+  - v zgodovini.
+  start: !frame '20246'
+- end: !frame '20349'
+  lines:
+  - "Kam gre\u0161?"
+  start: !frame '20326'
+- end: !frame '20438'
+  lines:
+  - "Sklepam, da v \u0161tabu ne trenirajo ve\u010D"
+  - "kot v\u010Dasih."
+  start: !frame '20362'
+- end: !frame '20502'
+  lines:
+  - -Kdo pa si ti?
+  - -Ime mi je Butch.
+  start: !frame '20443'
+- end: !frame '20618'
+  lines:
+  - "Kak\u0161no neumno ime ti je nadel dvono\u017Eec?"
+  - Spot? Fifi? Rover?
+  start: !frame '20507'
+- end: !frame '20667'
+  lines:
+  - -Lou.
+  - -Bog pomagaj.
+  start: !frame '20631'
+- end: !frame '20736'
+  lines:
+  - Oh, Lou. Oprosti.
+  start: !frame '20671'
+- end: !frame '20834'
+  lines:
+  - "Ali je ta poba vedno tako te\u010Den?"
+  - "Mogo\u010De bi morali menjati njegovo prehrano."
+  start: !frame '20742'
+- end: !frame '20946'
+  lines:
+  - "Ljudje postanejo malce \u010Dustveni."
+  - "Navadil se bo\u0161. Pridi."
+  start: !frame '20842'
+- end: !frame '21238'
+  lines:
+  - Od kje prihaja?
+  start: !frame '21195'
+- end: !frame '21315'
+  lines:
+  - Cool.
+  start: !frame '21291'
+- end: !frame '21365'
+  lines:
+  - Kaj? To je standardna oprema.
+  start: !frame '21318'
+- end: !frame '21474'
+  lines:
+  - EC-3 video-telefon, raziskovalni arhiv
+  - " \u0161ifre, Snausages."
+  start: !frame '21370'
+- end: !frame '21526'
+  lines:
+  - -Hej, kaj je to?
+  - -Pekel!
+  start: !frame '21479'
+- end: !frame '21622'
+  lines:
+  - To je veliki gumb.
+  - "Ne sme\u0161 pritiskati tako."
+  start: !frame '21534'
+- end: !frame '21660'
+  lines:
+  - -Jezus.
+  - -Oprosti.
+  start: !frame '21628'
+- end: !frame '21710'
+  lines:
+  - Samo poskusi se spomniti tvojega urjenja.
+  start: !frame '21666'
+- end: !frame '21803'
+  lines:
+  - "Pa za\u010Dnimo. Evo suhca:"
+  start: !frame '21751'
+- end: !frame '21862'
+  lines:
+  - Tvoj novi gospodar je znanstvenik.
+  start: !frame '21808'
+- end: !frame '21935'
+  lines:
+  - Dela na zdravilu proti pasjim alergijam.
+  start: !frame '21867'
+- end: !frame '22050'
+  lines:
+  - "To je velik posel. \u010Ce nebo nih\u010De alergi\u010Den"
+  - ' na pse,bomo imeli prednost.'
+  start: !frame '21940'
+- end: !frame '22165'
+  lines:
+  - 'To je bil tvoj predhodnik:'
+  - Agent 1364, AIKA Buddy.
+  start: !frame '22055'
+- end: !frame '22219'
+  lines:
+  - Bil je ugrabljen pred nekaj meseci.
+  start: !frame '22170'
+- end: !frame '22284'
+  lines:
+  - "Ni bil v najbolj\u0161i formi."
+  - Moral se je upokojiti.
+  start: !frame '22224'
+- end: !frame '22354'
+  lines:
+  - Ima fino stanovanje v Boci.
+  - "sre\u010Dni pes."
+  start: !frame '22290'
+- end: !frame '22394'
+  lines:
+  - Tukaj si kot njegova zamenjava.
+  start: !frame '22358'
+- end: !frame '22465'
+  lines:
+  - "In da dr\u017Ei\u0161 ma\u010Dke pro\u010D od formule."
+  start: !frame '22399'
+- end: !frame '22534'
+  lines:
+  - Ne smemo jih pustiti blizu.
+  - Sedaj, pridite.
+  start: !frame '22470'
+- end: !frame '22666'
+  lines:
+  - V redu, agent, spoznajmo ekipo.
+  start: !frame '22614'
+- end: !frame '22752'
+  lines:
+  - '"Agent"!'
+  - Vau, stari!
+  start: !frame '22694'
+- end: !frame '22857'
+  lines:
+  - Poba, poglej tja.
+  start: !frame '22805'
+- end: !frame '22907'
+  lines:
+  - -To je Peek.
+  - -Peek?
+  start: !frame '22863'
+- end: !frame '22959'
+  lines:
+  - Ne razumem.
+  start: !frame '22931'
+- end: !frame '23019'
+  lines:
+  - "Peek, poka\u017Ei se."
+  start: !frame '22968'
+- end: !frame '23182'
+  lines:
+  - Imamo situacijo na vogalu
+  - Centra in Glavne ulice....
+  start: !frame '23113'
+- end: !frame '23252'
+  lines:
+  - Oh, moj bog!
+  start: !frame '23222'
+- end: !frame '23322'
+  lines:
+  - Peekovo zgodnje opozorilo.
+  start: !frame '23283'
+- end: !frame '23437'
+  lines:
+  - Ima vse. Radar, sonar,
+  - termo-prikazovanje, prepoznavanje okusa.
+  start: !frame '23328'
+- end: !frame '23540'
+  lines:
+  - "Prepozna potepu\u0161ke ma\u010Dke"
+  - do tri ulice stran.
+  start: !frame '23443'
+- end: !frame '23607'
+  lines:
+  - -Peek, vstopi.
+  - -Razumem.
+  start: !frame '23547'
+- end: !frame '23817'
+  lines:
+  - "-Sam, kaj vidi\u0161?"
+  - -18 stopinj na levi.
+  start: !frame '23739'
+- end: !frame '23914'
+  lines:
+  - "Izsledil jih bom s pomo\u010Djo"
+  - ' delta prehoda tri...'
+  start: !frame '23822'
+- end: !frame '23970'
+  lines:
+  - . . .dva. . .ena.
+  start: !frame '23919'
+- end: !frame '24100'
+  lines:
+  - Pozdravljeni fantje.
+  start: !frame '24060'
+- end: !frame '24138'
+  lines:
+  - "Oh, ne, ne \u017Ee spet."
+  start: !frame '24110'
+- end: !frame '24180'
+  lines:
+  - Kje sem?
+  start: !frame '24149'
+- end: !frame '24371'
+  lines:
+  - Tukaj, Sam.
+  start: !frame '24342'
+- end: !frame '24473'
+  lines:
+  - Prosim za dovoljenje za globoko sopihanje, gospod.
+  start: !frame '24395'
+- end: !frame '24498'
+  lines:
+  - Odobreno.
+  start: !frame '24479'
+- end: !frame '24607'
+  lines:
+  - Fantje, spoznajte Louja.
+  start: !frame '24549'
+- end: !frame '24635'
+  lines:
+  - -Hej, Louie.
+  - -Hej, Lou.
+  start: !frame '24612'
+- end: !frame '24664'
+  lines:
+  - "\u010Clovek!"
+  start: !frame '24641'
+- end: !frame '25003'
+  lines:
+  - Lou bo prevzel Buddyevo mesto.
+  - "On je v vro\u010Dem sede\u017Eu."
+  start: !frame '24930'
+- end: !frame '25090'
+  lines:
+  - "Sve\u017E iz akademije, On"
+  - "pozna vse najnovej\u0161e tehnologije."
+  start: !frame '25009'
+- end: !frame '25131'
+  lines:
+  - Kajneda, Lou?
+  start: !frame '25096'
+- end: !frame '25269'
+  lines:
+  - A poznate tole? Prihajamo.
+  - "Imam te! Oh, zgre\u0161il sem te."
+  start: !frame '25174'
+- end: !frame '25319'
+  lines:
+  - "Sveta \u010Divava."
+  start: !frame '25278'
+- end: !frame '25350'
+  lines:
+  - Kako se je zgodilo?
+  start: !frame '25324'
+- end: !frame '25392'
+  lines:
+  - "Po nesre\u010Di se je izmuznil skozi."
+  start: !frame '25355'
+- end: !frame '25472'
+  lines:
+  - Obljubili ste mi profesjonalca.
+  - " In kaj dobim?!!!KU\u017DKA!!!!"
+  start: !frame '25400'
+- end: !frame '25546'
+  lines:
+  - "\u0160e vedno ima saj veste kaj!"
+  start: !frame '25474'
+- end: !frame '25646'
+  lines:
+  - "Ni \u010Dasa, Butch. Ku\u017Eek ostane."
+  - Konec pogovora. Konec.
+  start: !frame '25552'
+- end: !frame '25875'
+  lines:
+  - Povej mi, eden izmed vas. . .
+  start: !frame '25830'
+- end: !frame '25930'
+  lines:
+  - . . .ali je pes iz poti?
+  start: !frame '25890'
+- end: !frame '26064'
+  lines:
+  - "Ali je ku\u017Eek padel v mojo pametno past?"
+  start: !frame '25995'
+- end: !frame '26178'
+  lines:
+  - "Nih\u010De izmed vas nima zgodbe za povedati???"
+  start: !frame '26109'
+- end: !frame '26269'
+  lines:
+  - "Majhno zgodbo zame, mogo\u010De?\\?"
+  start: !frame '26182'
+- end: !frame '26378'
+  lines:
+  - Ti! Povej mi, ali je igra na nogah?
+  start: !frame '26313'
+- end: !frame '26414'
+  lines:
+  - Ja?
+  start: !frame '26383'
+- end: !frame '26489'
+  lines:
+  - -Zakaj je igra na poti?
+  - -Mislim,ne.
+  start: !frame '26419'
+- end: !frame '26529'
+  lines:
+  - "Ah, odli\u010Dno."
+  start: !frame '26494'
+- end: !frame '26597'
+  lines:
+  - "Torej je ku\u017Eek mrtev."
+  - Sedaj se lahko premaknemo na--
+  start: !frame '26535'
+- end: !frame '26631'
+  lines:
+  - "Po\u010Dakaj,po\u010Dakaj."
+  start: !frame '26602'
+- end: !frame '26674'
+  lines:
+  - Ali lahko spremenim svoj odgovor?
+  start: !frame '26636'
+- end: !frame '26720'
+  lines:
+  - "Ali je ku\u017Eek \u017Eiv ali ne?"
+  start: !frame '26680'
+- end: !frame '26778'
+  lines:
+  - Drug pes mu je povedal , da je bila bomba.
+  start: !frame '26725'
+- end: !frame '26849'
+  lines:
+  - Drug pes???
+  start: !frame '26803'
+- end: !frame '26980'
+  lines:
+  - "Kakorkoli prepri\u010Dan sem, da bomo pri\u0161li v "
+  - kletni laboratorij. Imam prav, fantje?
+  start: !frame '26855'
+- end: !frame '27039'
+  lines:
+  - -Fantje!
+  - -Oh, da, seveda, ni problema.
+  start: !frame '26984'
+- end: !frame '27089'
+  lines:
+  - -Absolutno.
+  - "-Vidi\u0161?"
+  start: !frame '27043'
+- end: !frame '27165'
+  lines:
+  - Projekt temen oblak se mora izvesti
+  - ' brezhibno.'
+  start: !frame '27094'
+- end: !frame '27255'
+  lines:
+  - Temen oblak?:)?
+  - "Ali tako kli\u010Dete moj na\u010Drt?"
+  start: !frame '27169'
+- end: !frame '27312'
+  lines:
+  - Ne da bi jaz vedel.
+  - "Ne, vi ga kli\u010Dete. . . ."
+  start: !frame '27259'
+- end: !frame '27356'
+  lines:
+  - -Kaj pa Nevihta!
+  - -Temna Nevihta.
+  start: !frame '27318'
+- end: !frame '27406'
+  lines:
+  - Temna nevihta,da.
+  start: !frame '27361'
+- end: !frame '27479'
+  lines:
+  - "Da. Kot mo\u010Dna, \u010Drna nevihta. . ."
+  start: !frame '27413'
+- end: !frame '27552'
+  lines:
+  - . . .moja prisotnost bo znana celem svetu.
+  start: !frame '27485'
+- end: !frame '27680'
+  lines:
+  - . . .kot meglica se bom spustil v
+  - "center pasje mo\u010Di in .."
+  start: !frame '27570'
+- end: !frame '27794'
+  lines:
+  - ". . .jih narediti prestra\u0161ene"
+  - "ko bodo zasli\u0161ali moje ime!"
+  start: !frame '27688'
+- end: !frame '27847'
+  lines:
+  - Gos. Tinkles!
+  start: !frame '27807'
+- end: !frame '27902'
+  lines:
+  - -Skrijte se!
+  - -Hitro!
+  start: !frame '27876'
+- end: !frame '27950'
+  lines:
+  - Kje si?
+  start: !frame '27909'
+- end: !frame '27978'
+  lines:
+  - Skrijte se!
+  start: !frame '27955'
+- end: !frame '28067'
+  lines:
+  - Tukaj si,Gos. Tinkles.
+  start: !frame '27996'
+- end: !frame '28213'
+  lines:
+  - Povsod sem te iskala.
+  - Kje si bil?
+  start: !frame '28083'
+- end: !frame '28293'
+  lines:
+  - "Gos. Mason bo sre\u010Den, ko te bo zagledal."
+  start: !frame '28218'
+- end: !frame '28360'
+  lines:
+  - Nesla te bom k njemu.
+  start: !frame '28310'
+- end: !frame '28486'
+  lines:
+  - "Ti si smrde\u010Da ma\u010Dka."
+  start: !frame '28430'
+- end: !frame '28551'
+  lines:
+  - Najprej te bom okopala.
+  start: !frame '28492'
+- end: !frame '28651'
+  lines:
+  - Gos. Tinkles, ne pozabi
+  - "se umiti za u\u0161esi!"
+  start: !frame '28581'
+- end: !frame '28807'
+  lines:
+  - "\u010Ce bom bil skrivni agent,"
+  - "bi moral imeti bolj\u0161e ime."
+  start: !frame '28682'
+- end: !frame '28896'
+  lines:
+  - "Razmi\u0161ljal sem: Popolno uni\u010Denje"
+  start: !frame '28813'
+- end: !frame '28966'
+  lines:
+  - "On je izku\u0161en rokoborec."
+  - To ime je zasedeno.
+  start: !frame '28897'
+- end: !frame '29014'
+  lines:
+  - "Potem bo \"Uni\u010Devalna ma\u0161ina\" prava."
+  start: !frame '28971'
+- end: !frame '29119'
+  lines:
+  - "Lahko se kli\u010De\u0161"
+  - "Squicky-vesoljski pes \u010De ho\u010De\u0161."
+  start: !frame '29019'
+- end: !frame '29188'
+  lines:
+  - To ne naredi tvoje riti
+  - na raketni pogon.
+  start: !frame '29134'
+- end: !frame '29289'
+  lines:
+  - Ti nisi agent,
+  - "toda pomagal nam bo\u0161."
+  start: !frame '29194'
+- end: !frame '29393'
+  lines:
+  - Torej korak za korakom.
+  - "Otrok, poslu\u0161aj."
+  start: !frame '29320'
+- end: !frame '29427'
+  lines:
+  - 'Zgodovina 101 :'
+  start: !frame '29398'
+- end: !frame '29491'
+  lines:
+  - Psi so bili vedno
+  - "\u010Clovekovi najbolj\u0161i prijatelj."
+  start: !frame '29431'
+- end: !frame '29530'
+  lines:
+  - "Prepri\u010Dan sem da to ve\u0161."
+  start: !frame '29495'
+- end: !frame '29591'
+  lines:
+  - "Toda ma\u010Dke, one so druga zgodba."
+  start: !frame '29535'
+- end: !frame '29636'
+  lines:
+  - "Peek, za\u010Dni z starodavnim Egiptom."
+  start: !frame '29599'
+- end: !frame '29705'
+  lines:
+  - "To smo videli \u017Ee preve\u010Dkrat."
+  start: !frame '29642'
+- end: !frame '29767'
+  lines:
+  - "Okej. Ni va\u017Eno."
+  - Oprosti. Tukaj gre.
+  start: !frame '29709'
+- end: !frame '29857'
+  lines:
+  - Starodavni Egipt.
+  start: !frame '29813'
+- end: !frame '29940'
+  lines:
+  - "Vidi\u0161 tele hieroglife?"
+  start: !frame '29897'
+- end: !frame '30026'
+  lines:
+  - Ljudje jih berejo in pravijo, da so
+  - "starodavni ljudje \u010Dastili ma\u010Dke."
+  start: !frame '29946'
+- end: !frame '30100'
+  lines:
+  - Toda v resnici so jim
+  - "ma\u010Dke vladale."
+  start: !frame '30030'
+- end: !frame '30232'
+  lines:
+  - "In potem jih je zlobna ma\u010Dka imenovana Shen-Akh-Akumma"
+  - pripravila do tega da so gradili piramide, kipe. . .
+  start: !frame '30110'
+- end: !frame '30309'
+  lines:
+  - . . .in jim grozila kot, da so
+  - "njeno strani\u0161\u010De."
+  start: !frame '30236'
+- end: !frame '30366'
+  lines:
+  - Stvari so bile obupne.
+  start: !frame '30315'
+- end: !frame '30395'
+  lines:
+  - "To je najbolj\u0161i del."
+  start: !frame '30372'
+- end: !frame '30501'
+  lines:
+  - In tako so psi,
+  - "postali \u010Dlovekovi najbolj\u0161i prijatelji."
+  start: !frame '30402'
+- end: !frame '30608'
+  lines:
+  - In jih odstranili.
+  start: !frame '30543'
+- end: !frame '30746'
+  lines:
+  - Ko so bili ljudje spet na vrhu, smo
+  - "prevzeli na\u0161 prostor ob njihovi strani."
+  start: !frame '30635'
+- end: !frame '30799'
+  lines:
+  - In to so ljudje pozabili?
+  start: !frame '30759'
+- end: !frame '30879'
+  lines:
+  - "Pa\u010D  so zelo primitivna bitja."
+  start: !frame '30804'
+- end: !frame '30938'
+  lines:
+  - "Ne \u010Dutijo potresov, vohajo strahu."
+  start: !frame '30883'
+- end: !frame '31029'
+  lines:
+  - Prekleto, niti ne prevzamejo
+  - odgovornosti za njihove lastne prdce.
+  start: !frame '30943'
+- end: !frame '31104'
+  lines:
+  - Debeli.
+  start: !frame '31063'
+- end: !frame '31139'
+  lines:
+  - Kriv.
+  start: !frame '31110'
+- end: !frame '31175'
+  lines:
+  - Jaz bom dobil ograjo.
+  start: !frame '31144'
+- end: !frame '31247'
+  lines:
+  - "Tako se je na\u0161a oblika za\u010Dela."
+  start: !frame '31190'
+- end: !frame '31365'
+  lines:
+  - "V\u010Dasih kak\u0161na potepu\u0161ka ma\u010Dka postane prevelika za"
+  - "njen pla\u0161\u010D in misli, da lahko vse prevzame."
+  start: !frame '31253'
+- end: !frame '31464'
+  lines:
+  - "Na\u0161a misija je ,da obdr\u017Eimo ma\u010Dke stran od"
+  - "laboratorija dokler ne kon\u010Da formule."
+  start: !frame '31370'
+- end: !frame '31568'
+  lines:
+  - "-Karkoli \u010Dudnega v hladilnici."
+  - -da,gospod!
+  start: !frame '31499'
+- end: !frame '31623'
+  lines:
+  - "-Kak\u0161no vpra\u0161anje?"
+  - -Samo eno, gospod.
+  start: !frame '31573'
+- end: !frame '31678'
+  lines:
+  - -Ustreli.
+  - -Kaj je starodavni Egipt?
+  start: !frame '31628'
+- end: !frame '31770'
+  lines:
+  - "Zamrzni,ma\u010Dek."
+  start: !frame '31736'
+- end: !frame '31806'
+  lines:
+  - jaz sem agent.
+  start: !frame '31777'
+- end: !frame '31870'
+  lines:
+  - Tako sem hiter, da se ne vidim.
+  start: !frame '31813'
+- end: !frame '31942'
+  lines:
+  - "Agent \"Uni\u010Devalna ma\u0161ina\". Tako je."
+  start: !frame '31886'
+- end: !frame '32012'
+  lines:
+  - "Pazi se, ma\u010Dka."
+  - Niti videti ga nisem mogel.
+  start: !frame '31950'
+- end: !frame '32080'
+  lines:
+  - "Tam je priden ku\u017Ea. Zdravo!"
+  start: !frame '32018'
+- end: !frame '32146'
+  lines:
+  - "Ne bodi prestra\u0161en. Ne bodi prestra\u0161en."
+  start: !frame '32084'
+- end: !frame '32233'
+  lines:
+  - Poglej kako dober si.
+  - Poglej kako dober.
+  start: !frame '32151'
+- end: !frame '32298'
+  lines:
+  - Kje je to--? Tam. Imam jo.
+  start: !frame '32240'
+- end: !frame '32340'
+  lines:
+  - "To nebo ni\u010D bolelo."
+  start: !frame '32304'
+- end: !frame '32526'
+  lines:
+  - Pa poglejmo. Pa poglejmo.
+  start: !frame '32460'
+- end: !frame '32729'
+  lines:
+  - Hej, to je dobro.
+  start: !frame '32684'
+- end: !frame '32966'
+  lines:
+  - "-Hej, o\u010De!"
+  - "-Bolon\u010Dki."
+  start: !frame '32930'
+- end: !frame '33007'
+  lines:
+  - "Ali mi bo\u0161 pomagal trenirati?"
+  start: !frame '32970'
+- end: !frame '33107'
+  lines:
+  - Ne. Ne.
+  start: !frame '33085'
+- end: !frame '33260'
+  lines:
+  - Pozneje se bova igrala.
+  - Obljubim.
+  start: !frame '33190'
+- end: !frame '33757'
+  lines:
+  - Pozabil sem tvoj lok.
+  start: !frame '33675'
+- end: !frame '33852'
+  lines:
+  - Oh, tvoj ljubek lok.
+  start: !frame '33762'
+- end: !frame '33960'
+  lines:
+  - "Ko bom vladal zemlji, bo\u0161 prvi. . ."
+  start: !frame '33879'
+- end: !frame '34004'
+  lines:
+  - . . .na mojem list.
+  start: !frame '33966'
+- end: !frame '34071'
+  lines:
+  - "Dr\u017Ei tako svoje dlake."
+  - "Shuj\u0161ane so."
+  start: !frame '34014'
+- end: !frame '34122'
+  lines:
+  - Na listi je prostor tudi zate.
+  start: !frame '34077'
+- end: !frame '34162'
+  lines:
+  - Ne, resno mislim.
+  start: !frame '34125'
+- end: !frame '34240'
+  lines:
+  - Imamo samo par dni za uspeh.
+  start: !frame '34200'
+- end: !frame '34363'
+  lines:
+  - "\u010Ceprav  je igranje za tega bolnega starca"
+  - "zgoraj klju\u010D za mojo shemo. . ."
+  start: !frame '34244'
+- end: !frame '34474'
+  lines:
+  - ". . .Ne prenesem tega poni\u017Eevanja"
+  - " ni\u010D ve\u010D. Ali sem jasen?"
+  start: !frame '34369'
+- end: !frame '34588'
+  lines:
+  - Pozabi.
+  - "Ku\u017Eek ne bo pre\u017Eivel te no\u010Di."
+  start: !frame '34510'
+- end: !frame '34626'
+  lines:
+  - "Po\u0161ljite \"ninje\"."
+  start: !frame '34593'
+- end: !frame '34821'
+  lines:
+  - "Nervozen zaradi jutranje preizku\u0161nje?"
+  start: !frame '34774'
+- end: !frame '34863'
+  lines:
+  - Ne.
+  start: !frame '34834'
+- end: !frame '34951'
+  lines:
+  - "-Dobro je \u010De si \u017Eiv\u010Den."
+  - "-Nisem \u017Eiv\u010Den."
+  start: !frame '34869'
+- end: !frame '35021'
+  lines:
+  - "Smrdim toda nisem \u017Eiv\u010Den."
+  start: !frame '34957'
+- end: !frame '35146'
+  lines:
+  - Ali govori to zaradi tega, da naj ga pomirim?
+  start: !frame '35027'
+- end: !frame '35222'
+  lines:
+  - Da. Pomiri ga.
+  start: !frame '35167'
+- end: !frame '35336'
+  lines:
+  - "Ti si najbolj \u010Dudovit,"
+  - "najve\u010Dji, \u0161armanten, dobri formi. . ."
+  start: !frame '35234'
+- end: !frame '35441'
+  lines:
+  - . . .poba na celem svetu.
+  start: !frame '35374'
+- end: !frame '35583'
+  lines:
+  - "-Mogo\u010De ti lahko o\u010De pomaga."
+  - "-Ne, sem zelo prepri\u010Dan, da tudi on smrdi."
+  start: !frame '35478'
+- end: !frame '35640'
+  lines:
+  - Govoril bom z njim.
+  start: !frame '35594'
+- end: !frame '35715'
+  lines:
+  - "\u010Cas z posteljo. Izklju\u010Di TV."
+  start: !frame '35677'
+- end: !frame '35764'
+  lines:
+  - -Pet minus.
+  - -Sedem.
+  start: !frame '35721'
+- end: !frame '35857'
+  lines:
+  - -Ljubim te.
+  - -Jaz tebe tudi.
+  start: !frame '35798'
+- end: !frame '35908'
+  lines:
+  - "No? Izro\u010Di."
+  start: !frame '35866'
+- end: !frame '35985'
+  lines:
+  - Kaj?! Ni preliva?
+  start: !frame '35914'
+- end: !frame '36098'
+  lines:
+  - "Naslednji\u010D ne pozabi preliva."
+  start: !frame '36045'
+- end: !frame '36150'
+  lines:
+  - Psi so zakon.
+  start: !frame '36116'
+- end: !frame '36232'
+  lines:
+  - "Ali kam gre\u0161?"
+  start: !frame '36177'
+- end: !frame '36305'
+  lines:
+  - No, pa poglejmo.
+  start: !frame '36240'
+- end: !frame '36412'
+  lines:
+  - Ooh, jah. 1409 Maple Terrace.
+  start: !frame '36309'
+- end: !frame '36455'
+  lines:
+  - Imam ga.
+  start: !frame '36420'
+- end: !frame '36561'
+  lines:
+  - Totalna prikrita operacija.
+  - "Mora\u0161 biti neviden."
+  start: !frame '36466'
+- end: !frame '36953'
+  lines:
+  - Hej, Sam.
+  start: !frame '36925'
+- end: !frame '37290'
+  lines:
+  - Na moj znak. Tri, dva, ena.
+  start: !frame '37209'
+- end: !frame '37350'
+  lines:
+  - Banzai!
+  start: !frame '37295'
+- end: !frame '37579'
+  lines:
+  - Lou, Peek je.
+  start: !frame '37554'
+- end: !frame '37631'
+  lines:
+  - Lou. ali si tam? Peek je.
+  start: !frame '37585'
+- end: !frame '37700'
+  lines:
+  - Kaj? Kaj? Kaj?
+  start: !frame '37654'
+- end: !frame '37751'
+  lines:
+  - Vidim slab signal.
+  start: !frame '37706'
+- end: !frame '37839'
+  lines:
+  - "Mogo\u010De je odsev."
+  - "Bolje da preveri\u0161."
+  start: !frame '37758'
+- end: !frame '37885'
+  lines:
+  - Okej. Grem pogledat.
+  start: !frame '37846'
+- end: !frame '37932'
+  lines:
+  - Bodi previden, poba.
+  start: !frame '37892'
+- end: !frame '37986'
+  lines:
+  - Jaz sem agent.
+  start: !frame '37952'
+- end: !frame '38041'
+  lines:
+  - Jaz sem skrivni agent.
+  start: !frame '37999'
+- end: !frame '38118'
+  lines:
+  - Jaz sem en-pes vojska.
+  start: !frame '38059'
+- end: !frame '38761'
+  lines:
+  - Obrni se.
+  start: !frame '38719'
+- end: !frame '39004'
+  lines:
+  - "Hro\u0161\u010D aktiviran."
+  start: !frame '38957'
+- end: !frame '39326'
+  lines:
+  - Peek? Halo? Peek?
+  start: !frame '39253'
+- end: !frame '39370'
+  lines:
+  - "Videti je \u010Disto."
+  start: !frame '39341'
+- end: !frame '39454'
+  lines:
+  - Verjetno samo veverica.
+  - "Sporo\u010Dil bom Butchu."
+  start: !frame '39374'
+- end: !frame '39716'
+  lines:
+  - -Butch, kaj naj naredim?
+  - -Ugrizni jih.
+  start: !frame '39669'
+- end: !frame '40258'
+  lines:
+  - Kaj?
+  start: !frame '40235'
+- end: !frame '40592'
+  lines:
+  - "Samo naredi kot ti re\u010Dem."
+  start: !frame '40556'
+- end: !frame '40631'
+  lines:
+  - "Leva! Desna taca! \u0160e enkrat!"
+  start: !frame '40596'
+- end: !frame '40728'
+  lines:
+  - Obrni se!
+  start: !frame '40699'
+- end: !frame '40793'
+  lines:
+  - Dober pes. Tace gor!
+  start: !frame '40746'
+- end: !frame '40855'
+  lines:
+  - Oslova brca!
+  start: !frame '40825'
+- end: !frame '40921'
+  lines:
+  - Pridi poba, daj posvetim jim!
+  start: !frame '40869'
+- end: !frame '41202'
+  lines:
+  - Premislil sem se.
+  - "Kli\u010Dite me Ling Chowave \u0161ape!"
+  start: !frame '41113'
+- end: !frame '41241'
+  lines:
+  - Ling Chow tole!
+  start: !frame '41208'
+- end: !frame '41356'
+  lines:
+  - "Po\u010Distite prehod 7."
+  start: !frame '41311'
+- end: !frame '41422'
+  lines:
+  - "Ljudje! Umaknite se z \u010Dastjo."
+  start: !frame '41390'
+- end: !frame '41463'
+  lines:
+  - Imam kij.
+  start: !frame '41429'
+- end: !frame '41541'
+  lines:
+  - "Imam \u0161portno rokavico,"
+  - in se je ne bojim uporabiti.
+  start: !frame '41479'
+- end: !frame '41892'
+  lines:
+  - Poreden pes.
+  start: !frame '41857'
+- end: !frame '42101'
+  lines:
+  - "Ti si sre\u010Den, ker si tako sr\u010Dkan."
+  start: !frame '42050'
+- end: !frame '42405'
+  lines:
+  - "-Uni\u010Devalna ma\u0161ina."
+  - -Hej, fantje.
+  start: !frame '42354'
+- end: !frame '42502'
+  lines:
+  - "-\u0160e vedno si \u017Eiv."
+  - "-Jep. Vseh pet okon\u010Din."
+  start: !frame '42413'
+- end: !frame '42576'
+  lines:
+  - "Dolguje\u0161 mi pet prekajenih pra\u0161i\u010Djih uh."
+  start: !frame '42512'
+- end: !frame '42641'
+  lines:
+  - "\u0160e vedno stoji\u0161."
+  - Ali si dobro?
+  start: !frame '42582'
+- end: !frame '42729'
+  lines:
+  - Ali si me videl?
+  - Desna, leva in desna in leva--
+  start: !frame '42646'
+- end: !frame '42817'
+  lines:
+  - "Postal si domi\u0161ljav."
+  - "Misli\u0161, da je to igra?"
+  start: !frame '42734'
+- end: !frame '42904'
+  lines:
+  - Ni vse v kodnih imenih,
+  - majhni fantje, ali prijatelji.
+  start: !frame '42823'
+- end: !frame '42988'
+  lines:
+  - "Vse je v stra\u017Ei tega laboratorija."
+  - "Ni\u010D drugega."
+  start: !frame '42909'
+- end: !frame '43074'
+  lines:
+  - Sam, Peek, zaprita tale dimnik.
+  start: !frame '43005'
+- end: !frame '43589'
+  lines:
+  - "Ma\u010Dke."
+  start: !frame '43554'
+- end: !frame '43689'
+  lines:
+  - Ali nikoli ne odnehate?
+  start: !frame '43642'
+- end: !frame '43990'
+  lines:
+  - Hej!!!
+  - Hej.
+  start: !frame '43940'
+- end: !frame '44030'
+  lines:
+  - "Ti poka\u017Eem nekaj \u010Dudovitega?"
+  start: !frame '44000'
+- end: !frame '44220'
+  lines:
+  - "Brodijevi imajo najbolj\u0161e smeti."
+  start: !frame '44166'
+- end: !frame '44275'
+  lines:
+  - -Pojdite naprej. Vzemi ugriz.
+  - -Joj mene.
+  start: !frame '44225'
+- end: !frame '44366'
+  lines:
+  - Tole dobijo za hrano?
+  - "Kak\u0161en slepar."
+  start: !frame '44298'
+- end: !frame '44410'
+  lines:
+  - "Vesela sem, da ti je v\u0161e\u010D."
+  start: !frame '44369'
+- end: !frame '44510'
+  lines:
+  - "-Mislil sem, da sem \u017Ee predolgo klate\u017E."
+  - "-Klate\u017E? Cool."
+  start: !frame '44415'
+- end: !frame '44562'
+  lines:
+  - "Nikoli \u0161e nisem sre\u010Dal klate\u017Ea."
+  start: !frame '44515'
+- end: !frame '44634'
+  lines:
+  - Pravzaprav, bolj cenim
+  - "\"problem v hi\u0161i.\""
+  start: !frame '44568'
+- end: !frame '44709'
+  lines:
+  - Gospa Izzivalna, oprosti,
+  - toda moram iti.
+  start: !frame '44638'
+- end: !frame '44773'
+  lines:
+  - -Moji ukazi so jasni. Ne morem-
+  - ' -Ukazi?'
+  start: !frame '44716'
+- end: !frame '44826'
+  lines:
+  - Da. Jaz sem skrivni agent.
+  start: !frame '44779'
+- end: !frame '44870'
+  lines:
+  - Agent?
+  start: !frame '44843'
+- end: !frame '44969'
+  lines:
+  - Majhen si za agenta.
+  - Ali se ne bi moral igrati?
+  start: !frame '44875'
+- end: !frame '45010'
+  lines:
+  - "Nimam \u010Dasa."
+  start: !frame '44974'
+- end: !frame '45095'
+  lines:
+  - "\u017Dilav de\u010Dko."
+  start: !frame '45050'
+- end: !frame '45235'
+  lines:
+  - Nehaj z tem agentskim sranjem. Okej?
+  start: !frame '45173'
+- end: !frame '45369'
+  lines:
+  - "Ti ima\u0161 svojega otroka, da se igra\u0161 z njim."
+  - Ne jemlji ga zares.
+  start: !frame '45250'
+- end: !frame '45546'
+  lines:
+  - "Kam gre\u0161?"
+  - "Ali lahko to naredi\u0161 \u0161e enkrat?"
+  start: !frame '45478'
+- end: !frame '45657'
+  lines:
+  - "Naslednji\u010D ko bo poba govoril s tabo,"
+  - "nagni svojo glavo in dvigni u\u0161esa."
+  start: !frame '45550'
+- end: !frame '45719'
+  lines:
+  - "Videl bo\u0161 o \u010Dem govorim."
+  start: !frame '45663'
+- end: !frame '45844'
+  lines:
+  - In naredi mi uslugo.
+  - Povej Butchu, da je Ivy nazaj v mestu.
+  start: !frame '45739'
+- end: !frame '46102'
+  lines:
+  - "Kaj me gleda\u0161?"
+  start: !frame '46054'
+- end: !frame '46222'
+  lines:
+  - "Mislim, da si nekako sr\u010Dkan."
+  start: !frame '46140'
+- end: !frame '46350'
+  lines:
+  - Poglej kdo je. Imam te.
+  start: !frame '46291'
+- end: !frame '46506'
+  lines:
+  - "Prej\u0161njo no\u010D sva s tvojo mamo imela pogovor. . ."
+  start: !frame '46415'
+- end: !frame '46564'
+  lines:
+  - . . .ki me je pripravil do tega. . .
+  start: !frame '46512'
+- end: !frame '46623'
+  lines:
+  - . . .da bi se midva morala pogovoriti. . .
+  start: !frame '46570'
+- end: !frame '46695'
+  lines:
+  - . . .o tebi in mojem projektu.
+  start: !frame '46629'
+- end: !frame '46746'
+  lines:
+  - "Ali ho\u010De\u0161 sesti?"
+  start: !frame '46699'
+- end: !frame '46819'
+  lines:
+  - Oh, jeh. Seveda, seveda.
+  start: !frame '46781'
+- end: !frame '46911'
+  lines:
+  - Tvoja mama me je pripravila do tega. . . .
+  start: !frame '46859'
+- end: !frame '47024'
+  lines:
+  - "No pri\u0161el bom na tvojo"
+  - nogometno tekmo to popoldne.
+  start: !frame '46929'
+- end: !frame '47071'
+  lines:
+  - Ne, ni ti treba.
+  start: !frame '47030'
+- end: !frame '47100'
+  lines:
+  - Toda. . . .
+  start: !frame '47077'
+- end: !frame '47196'
+  lines:
+  - Res?
+  start: !frame '47173'
+- end: !frame '47237'
+  lines:
+  - Okej.
+  start: !frame '47208'
+- end: !frame '47268'
+  lines:
+  - Ihuu! Okej.
+  start: !frame '47242'
+- end: !frame '47334'
+  lines:
+  - -Oh, bog. Cool. Cool.
+  - -Cool.
+  start: !frame '47276'
+- end: !frame '47412'
+  lines:
+  - "No\u010De\u0161 biti pozen za \u0161olo."
+  start: !frame '47341'
+- end: !frame '47474'
+  lines:
+  - Jeh, sem.
+  start: !frame '47438'
+- end: !frame '47540'
+  lines:
+  - "-Se vidiva, O\u010De."
+  - -Se vidiva.
+  start: !frame '47487'
+- end: !frame '47634'
+  lines:
+  - Gremo, gremo, gremo! Navijal bom zate!
+  start: !frame '47545'
+- end: !frame '47761'
+  lines:
+  - "Na\u0161a ekipa je rde\u010De-vro\u010Da"
+  - Tvoja skupina je brez vezna.
+  start: !frame '47639'
+- end: !frame '48161'
+  lines:
+  - "Bil sem slab. Slab\u0161i kot slab."
+  start: !frame '48103'
+- end: !frame '48230'
+  lines:
+  - Scotty? Ali si videl tole majhno--
+  start: !frame '48166'
+- end: !frame '48260'
+  lines:
+  - Trening!
+  start: !frame '48237'
+- end: !frame '48427'
+  lines:
+  - Vov. On je zares slab.
+  start: !frame '48378'
+- end: !frame '48522'
+  lines:
+  - "Mislim, da mi ni \u0161lo najbolje, huh?"
+  start: !frame '48466'
+- end: !frame '48564'
+  lines:
+  - Kaj je rekel trener?
+  start: !frame '48525'
+- end: !frame '48697'
+  lines:
+  - Rekel je da je trening za dekleta
+  - v ponedeljek.
+  start: !frame '48610'
+- end: !frame '48785'
+  lines:
+  - "Kaj je bilo pa z o\u010Detom?"
+  start: !frame '48747'
+- end: !frame '49231'
+  lines:
+  - -Nogomet.
+  - -Sem v sredi--
+  start: !frame '49186'
+- end: !frame '49309'
+  lines:
+  - -Nogomet.
+  - -Ne, hvala. Moram iti--
+  start: !frame '49236'
+- end: !frame '49346'
+  lines:
+  - Nogomet.
+  start: !frame '49315'
+- end: !frame '49487'
+  lines:
+  - -Pozabil sem. Imel sem preboj-
+  - ' -Vem da si zaposlen. . . .'
+  start: !frame '49403'
+- end: !frame '49532'
+  lines:
+  - On je tvoj sin.
+  start: !frame '49493'
+- end: !frame '49608'
+  lines:
+  - Imel sem preboj.
+  start: !frame '49546'
+- end: !frame '49750'
+  lines:
+  - "Vem. Vem. \u017Dal mi je."
+  start: !frame '49678'
+- end: !frame '50591'
+  lines:
+  - Dober poba.
+  start: !frame '50545'
+- end: !frame '50632'
+  lines:
+  - Lep razgled.
+  start: !frame '50600'
+- end: !frame '50688'
+  lines:
+  - "Rekel si, da ne bova ve\u010D govorila."
+  start: !frame '50646'
+- end: !frame '50767'
+  lines:
+  - -Sedaj imam razlog.
+  - -Prihrani mi predavanje,vsaj tokrat.
+  start: !frame '50694'
+- end: !frame '50900'
+  lines:
+  - "Je samo ku\u017Eek, Butch."
+  - Ne ve v kaj se je zapletel.
+  start: !frame '50779'
+- end: !frame '50994'
+  lines:
+  - "Oprosti mi ker sem ga podu\u010Dil"
+  - "o bolj\u0161ih straneh praskanja po trebuhu."
+  start: !frame '50886'
+- end: !frame '51046'
+  lines:
+  - "Zdaj , me \u010Daka delo."
+  start: !frame '50999'
+- end: !frame '51146'
+  lines:
+  - "Nikoli se nisi prito\u017Eeval"
+  - kadar sem te praskala po trebuhu.
+  start: !frame '51051'
+- end: !frame '51221'
+  lines:
+  - Pod luno?
+  - Pred misijo?
+  start: !frame '51162'
+- end: !frame '51291'
+  lines:
+  - Bi me klical Lamb Chop
+  - in zardel. . .
+  start: !frame '51226'
+- end: !frame '51358'
+  lines:
+  - . . .kadar bi ti rekel Liver Snap.
+  start: !frame '51296'
+- end: !frame '51450'
+  lines:
+  - Pogled v zgodovino...
+  start: !frame '51405'
+- end: !frame '51540'
+  lines:
+  - ". . .je lajanje pod napa\u010Dnim drevesom."
+  - 'Samo enkrat bom to rekel:'
+  start: !frame '51454'
+- end: !frame '51621'
+  lines:
+  - "Ne pribli\u017Euj se fantje."
+  start: !frame '51547'
+- end: !frame '51766'
+  lines:
+  - Gos. Mason, nekdo bi
+  - rad govoril s tabo.
+  start: !frame '51684'
+- end: !frame '51873'
+  lines:
+  - "To je \u010Das Gos. Tinkleja, Gos. Mason."
+  start: !frame '51790'
+- end: !frame '52029'
+  lines:
+  - "Nocoj je oble\u010Den v nekaj"
+  - posebnega.
+  start: !frame '51934'
+- end: !frame '52069'
+  lines:
+  - Tukaj.
+  start: !frame '52033'
+- end: !frame '52203'
+  lines:
+  - "Te to kaj osre\u010Di, Gos.. Mason?"
+  - "Si zdaj sre\u010Den?"
+  start: !frame '52075'
+- end: !frame '52645'
+  lines:
+  - "Vidi\u0161 kako sre\u010Dnega si naredila?"
+  - "Srce mu je posko\u010Dilo."
+  start: !frame '52535'
+- end: !frame '52719'
+  lines:
+  - Pustil vaju bom skupaj.
+  start: !frame '52651'
+- end: !frame '52914'
+  lines:
+  - Zlo ne nosi pokrivala!
+  start: !frame '52839'
+- end: !frame '52971'
+  lines:
+  - "Ali je \u0161la?"
+  start: !frame '52948'
+- end: !frame '53102'
+  lines:
+  - Ali je Genghis Khan nosi pokrivalo?
+  - Attila the Hun? Ne.
+  start: !frame '52977'
+- end: !frame '53178'
+  lines:
+  - "Nosi \u010Duden klobuk."
+  - "Mogo\u010De \u010Drno pokrivalo?"
+  start: !frame '53107'
+- end: !frame '53302'
+  lines:
+  - Ninje niso uspele.
+  - Neuspeh je nesprejemljiv.
+  start: !frame '53226'
+- end: !frame '53395'
+  lines:
+  - "\u010Ce se prika\u017Eejo,"
+  - "ve\u0161 kaj mora\u0161 narediti."
+  start: !frame '53315'
+- end: !frame '53489'
+  lines:
+  - Povej jim naj se umijejo z
+  - " gobo. \u0160alim se."
+  start: !frame '53399'
+- end: !frame '53581'
+  lines:
+  - To se ne more dogajati.
+  - "Ho\u010Dem jih mrtve!"
+  start: !frame '53495'
+- end: !frame '53651'
+  lines:
+  - Toda uspeli so nastaviti
+  - "\"hro\u0161\u010Da\" v telefon."
+  start: !frame '53613'
+- end: !frame '53729'
+  lines:
+  - "Mogo\u010De lahko pogledamo v kozarec"
+  - kot napol polni.
+  start: !frame '53641'
+- end: !frame '53796'
+  lines:
+  - "Tole ho\u010Dem narediti."
+  start: !frame '53754'
+- end: !frame '53899'
+  lines:
+  - "Postavi sme\u0161en obraz na stvari."
+  - Zanimiva filozofija.
+  start: !frame '53802'
+- end: !frame '53985'
+  lines:
+  - Ali si pozabil, da prevzemamo svet?!
+  start: !frame '53910'
+- end: !frame '54022'
+  lines:
+  - Ura tiktaka.
+  start: !frame '53990'
+- end: !frame '54098'
+  lines:
+  - Mi smo zadnja meja za zmoto.
+  - Jutri. . .
+  start: !frame '54027'
+- end: !frame '54195'
+  lines:
+  - ". . .bo\u0161 poslal Ruse."
+  start: !frame '54104'
+- end: !frame '54308'
+  lines:
+  - Poklical te bom nazaj.
+  start: !frame '54275'
+- end: !frame '54645'
+  lines:
+  - Motnje zaznane
+  - V strogo-zaupni galeriji...
+  start: !frame '54566'
+- end: !frame '54682'
+  lines:
+  - '...raziskovalnem laboratoriju.'
+  start: !frame '54650'
+- end: !frame '54753'
+  lines:
+  - "Bavbav v \u017Eici."
+  start: !frame '54715'
+- end: !frame '54791'
+  lines:
+  - "-Ga ima\u0161?"
+  - -Ne.
+  start: !frame '54759'
+- end: !frame '54821'
+  lines:
+  - "Hitro se pribli\u017Euje."
+  start: !frame '54798'
+- end: !frame '54879'
+  lines:
+  - "Ni\u010D ne vidim."
+  - Megla je.
+  start: !frame '54827'
+- end: !frame '54949'
+  lines:
+  - Tvoje dlake so, Sam. Raznesi.
+  start: !frame '54888'
+- end: !frame '55042'
+  lines:
+  - "Dr\u017Ei se. Mama je nazaj."
+  start: !frame '54976'
+- end: !frame '55126'
+  lines:
+  - Oh, ne.
+  start: !frame '55091'
+- end: !frame '55175'
+  lines:
+  - "Poglej malo ma\u010Dko."
+  start: !frame '55131'
+- end: !frame '55256'
+  lines:
+  - "Poglej malo ma\u010Dko. Oh, ja."
+  start: !frame '55181'
+- end: !frame '55313'
+  lines:
+  - "To je dober de\u010Dko."
+  start: !frame '55261'
+- end: !frame '55373'
+  lines:
+  - "Je samo mali izgubljena ma\u010Dka."
+  start: !frame '55318'
+- end: !frame '55467'
+  lines:
+  - "Obdr\u017Eali ga bomo."
+  - Da bomo.
+  start: !frame '55379'
+- end: !frame '55519'
+  lines:
+  - Ne pojej ga.
+  start: !frame '55472'
+- end: !frame '55649'
+  lines:
+  - "Oh, poglej. Vidi\u0161?"
+  start: !frame '55590'
+- end: !frame '55702'
+  lines:
+  - Poglej kako te ljubi.
+  start: !frame '55655'
+- end: !frame '55766'
+  lines:
+  - "Dave, zaletel sem se v \u0161tor."
+  start: !frame '55707'
+- end: !frame '55865'
+  lines:
+  - "Razkazati bo\u0161 moral hi\u0161o"
+  - "brez mene. Oh, po\u010Dakaj."
+  start: !frame '55770'
+- end: !frame '55988'
+  lines:
+  - Kaj je to?
+  - Je to kosmata kepa?
+  start: !frame '55906'
+- end: !frame '56097'
+  lines:
+  - Prinesel ti bom vodo.
+  - "Ne \u0161e, Dave. Kmalu bom tam."
+  start: !frame '55994'
+- end: !frame '56146'
+  lines:
+  - "Po\u010Dakaj."
+  start: !frame '56115'
+- end: !frame '56263'
+  lines:
+  - "Sem \u017Ee nad tabo."
+  - "V te\u017Eavah si."
+  start: !frame '56210'
+- end: !frame '56341'
+  lines:
+  - "Jaz pa ne mislim tako, otro\u010Dji ku\u017Eek."
+  - "Ti si v te\u017Eavah."
+  start: !frame '56269'
+- end: !frame '56462'
+  lines:
+  - "Jaz pa \u017Ee ne!"
+  start: !frame '56416'
+- end: !frame '56622'
+  lines:
+  - Iz Rusije z ljubeznijo.
+  start: !frame '56567'
+- end: !frame '56656'
+  lines:
+  - Skrivnostni kakec.
+  start: !frame '56632'
+- end: !frame '56822'
+  lines:
+  - "Nimam \u010Dasa za to."
+  start: !frame '56767'
+- end: !frame '56863'
+  lines:
+  - Poreden pes.
+  start: !frame '56834'
+- end: !frame '56925'
+  lines:
+  - Kaj pa imamo?
+  start: !frame '56896'
+- end: !frame '57005'
+  lines:
+  - -Rusko modro.
+  - "-in \u0161tevilko 2 v sektorju 3."
+  start: !frame '56931'
+- end: !frame '57073'
+  lines:
+  - "Ta parnik je ve\u010Dji kot jaz."
+  start: !frame '57013'
+- end: !frame '57133'
+  lines:
+  - Dobro delo.
+  - Oddahni se malo.
+  start: !frame '57080'
+- end: !frame '57198'
+  lines:
+  - "-Ali je od\u0161la?"
+  - -Ne vidim jo.
+  start: !frame '57138'
+- end: !frame '57267'
+  lines:
+  - Bilo mi je podtaknjeno!
+  - "Po\u010Dakaj, ho\u010Dem pomagati."
+  start: !frame '57204'
+- end: !frame '57348'
+  lines:
+  - -Poglej ven. Koda 4.
+  - -Pohiti, povohaj moj ta zadnjo.
+  start: !frame '57279'
+- end: !frame '57424'
+  lines:
+  - Dobro, dosti je bilo.
+  start: !frame '57376'
+- end: !frame '57480'
+  lines:
+  - "Hladen smr\u010Dek!"
+  start: !frame '57451'
+- end: !frame '57639'
+  lines:
+  - "Kos ni\u010Dvrednih Ameri\u0161kih vrat."
+  start: !frame '57590'
+- end: !frame '57872'
+  lines:
+  - Ne morem verjeti, da delam to
+  - "za polovi\u010Dno ceno."
+  start: !frame '57774'
+- end: !frame '57995'
+  lines:
+  - In ta Tinkles je kreten.
+  - "Govori preve\u010D in me\u010De vse povsod."
+  start: !frame '57877'
+- end: !frame '58037'
+  lines:
+  - -Premikaj se hitreje.
+  - -Premikaj se zahodno.
+  start: !frame '58001'
+- end: !frame '58122'
+  lines:
+  - -Premikaj se zahodno-zahodno.
+  - -Na poti v vogal.
+  start: !frame '58043'
+- end: !frame '58182'
+  lines:
+  - -Ven je .
+  - -In ven je.
+  start: !frame '58127'
+- end: !frame '58400'
+  lines:
+  - "Oh, \u010Dlovek, zaklenjeno je."
+  start: !frame '58353'
+- end: !frame '58556'
+  lines:
+  - Kaj pa vejo? Jaz delam trdo,
+  - da dobim Wiskas.
+  start: !frame '58459'
+- end: !frame '58646'
+  lines:
+  - -Kaj dela?
+  - "-De\u010Dko!"
+  start: !frame '58611'
+- end: !frame '58683'
+  lines:
+  - Kaj? Psi!
+  start: !frame '58654'
+- end: !frame '58819'
+  lines:
+  - Vzemi to!
+  start: !frame '58789'
+- end: !frame '58927'
+  lines:
+  - "Zgre\u0161il."
+  start: !frame '58894'
+- end: !frame '59003'
+  lines:
+  - "Be\u017Ei!"
+  start: !frame '58973'
+- end: !frame '59038'
+  lines:
+  - "Pridi, de\u010Dko. Pohiti!"
+  start: !frame '59008'
+- end: !frame '59268'
+  lines:
+  - Pazi se! Prihaja!
+  start: !frame '59221'
+- end: !frame '59504'
+  lines:
+  - -Bombam je postavljena na vratih od
+  - laboratorija.-Uredili bomo to.
+  start: !frame '59426'
+- end: !frame '59575'
+  lines:
+  - "Psi\u010Dki, zakaj ne pridete ven in se igrate?"
+  start: !frame '59514'
+- end: !frame '59629'
+  lines:
+  - -Fantje!
+  - "-Daj, \u010Dlovek!"
+  start: !frame '59581'
+- end: !frame '59670'
+  lines:
+  - Bomba. Bomba!
+  start: !frame '59635'
+- end: !frame '59719'
+  lines:
+  - Jaz bom poskrbel za bombo.
+  start: !frame '59676'
+- end: !frame '59886'
+  lines:
+  - '- Zmoti ga.'
+  - -Zakaj jaz?
+  start: !frame '59839'
+- end: !frame '59957'
+  lines:
+  - "-Kaj nisi rekel, da ho\u010De\u0161 pomagati?"
+  - -Pohiti! Pohiti!
+  start: !frame '59892'
+- end: !frame '60045'
+  lines:
+  - "-Neumna ma\u010Dka!"
+  - -To bo pridobilo njegovo pozornost.
+  start: !frame '59986'
+- end: !frame '60546'
+  lines:
+  - -Predalnik bo padel.
+  - -Ne, ne!
+  start: !frame '60488'
+- end: !frame '60668'
+  lines:
+  - Butch. Bomba.
+  - "Ima\u0161 45 sekund."
+  start: !frame '60610'
+- end: !frame '60716'
+  lines:
+  - Delamo na tem.
+  start: !frame '60681'
+- end: !frame '60786'
+  lines:
+  - "Ne more\u0161 jih jeziti."
+  start: !frame '60741'
+- end: !frame '60849'
+  lines:
+  - Bumerang!
+  start: !frame '60827'
+- end: !frame '61040'
+  lines:
+  - "Pazi, de\u010Dko!"
+  start: !frame '61003'
+- end: !frame '61135'
+  lines:
+  - Dober ulov.
+  start: !frame '61087'
+- end: !frame '61282'
+  lines:
+  - "\u010Clovek!"
+  start: !frame '61249'
+- end: !frame '61669'
+  lines:
+  - Telefon.
+  start: !frame '61643'
+- end: !frame '62195'
+  lines:
+  - "Dr\u017Ei se, Butch!"
+  start: !frame '62158'
+- end: !frame '62240'
+  lines:
+  - "Hej, ku\u017Eek, ulovi."
+  start: !frame '62202'
+- end: !frame '62275'
+  lines:
+  - "Ne! \u010Cakaj!"
+  start: !frame '62245'
+- end: !frame '62314'
+  lines:
+  - Prav!
+  start: !frame '62280'
+- end: !frame '62488'
+  lines:
+  - "Lete\u010Di pes."
+  start: !frame '62436'
+- end: !frame '62603'
+  lines:
+  - "Dr\u017Ei se, de\u010Dko."
+  start: !frame '62573'
+- end: !frame '62635'
+  lines:
+  - -Pohiti!Bomba!
+  - -Bomba.
+  start: !frame '62607'
+- end: !frame '62698'
+  lines:
+  - -Pojdi z dol z mene, krznena
+  - "\u017Eoga !-Boj!"
+  start: !frame '62640'
+- end: !frame '62761'
+  lines:
+  - Vzemi jim.
+  - Jaz grem de-aktivirati bombo.
+  start: !frame '62707'
+- end: !frame '62795'
+  lines:
+  - Deset sekund.
+  start: !frame '62767'
+- end: !frame '62842'
+  lines:
+  - "Udarja\u0161 kot pudel."
+  start: !frame '62802'
+- end: !frame '62898'
+  lines:
+  - "Po knjigi sode\u010D naj bi najprej"
+  - "prestrigel rde\u010Do \u017Eico."
+  start: !frame '62846'
+- end: !frame '62958'
+  lines:
+  - Mi smo psi. Mi ne razlikujemo barve!
+  start: !frame '62903'
+- end: !frame '63023'
+  lines:
+  - Tako je.Temno sivo!
+  - Oh, no.
+  start: !frame '62962'
+- end: !frame '63065'
+  lines:
+  - Ne dotikaj jo!
+  start: !frame '63030'
+- end: !frame '63097'
+  lines:
+  - Pridi.
+  start: !frame '63071'
+- end: !frame '63123'
+  lines:
+  - Prosim!
+  start: !frame '63103'
+- end: !frame '63173'
+  lines:
+  - Ta je!
+  start: !frame '63130'
+- end: !frame '63422'
+  lines:
+  - Ali mislite da ste zmagali?
+  - "Daljinski upravlja\u010D !"
+  start: !frame '63364'
+- end: !frame '63576'
+  lines:
+  - Oh, bog.
+  start: !frame '63541'
+- end: !frame '63623'
+  lines:
+  - Pridi sem, Lou.
+  start: !frame '63582'
+- end: !frame '63712'
+  lines:
+  - -Dobra preobleka.
+  - -Pridi sem.
+  start: !frame '63629'
+- end: !frame '63756'
+  lines:
+  - Joj!
+  start: !frame '63718'
+- end: !frame '63802'
+  lines:
+  - "Dr\u017Ei se. dobri pes."
+  start: !frame '63771'
+- end: !frame '63982'
+  lines:
+  - Nabreklo je.
+  start: !frame '63949'
+- end: !frame '64014'
+  lines:
+  - To je odkritje.
+  - "\u010Ce bi lahko na\u0161el. . . ."
+  start: !frame '63988'
+- end: !frame '64128'
+  lines:
+  - . . .malo proteina in
+  - "elektrostati\u010Dnega naboja. . ."
+  start: !frame '64019'
+- end: !frame '64181'
+  lines:
+  - . . .bi potrebovalo vsebovati
+  - zmes. . . .
+  start: !frame '64135'
+- end: !frame '64314'
+  lines:
+  - Dobro delo z bumerangom.
+  - "Zdaj se obna\u0161a\u0161 kot agent."
+  start: !frame '64218'
+- end: !frame '64417'
+  lines:
+  - -Ali je to kompliment?
+  - -Meni nikoli ne daje komplimentov.
+  start: !frame '64331'
+- end: !frame '64517'
+  lines:
+  - "Sam, Peek, pokli\u010Dita skupino za \u010Di\u0161\u010Denje."
+  start: !frame '64450'
+- end: !frame '64704'
+  lines:
+  - Halo? Sem, mucek, mucek.
+  start: !frame '64590'
+- end: !frame '64780'
+  lines:
+  - Sem, mali mucek, mucek.
+  start: !frame '64721'
+- end: !frame '64884'
+  lines:
+  - Imam dobrote zate.
+  - Sem, muci, muci--
+  start: !frame '64790'
+- end: !frame '64991'
+  lines:
+  - Oh, moj bog.
+  start: !frame '64950'
+- end: !frame '65069'
+  lines:
+  - Kdo je pustil odprta okna?
+  start: !frame '64997'
+- end: !frame '65202'
+  lines:
+  - Sem,muci.
+  start: !frame '65178'
+- end: !frame '65270'
+  lines:
+  - "Ni\u010D vam ne bom povedal!"
+  start: !frame '65208'
+- end: !frame '65366'
+  lines:
+  - "Mogo\u010De izgledam krut in grd ..."
+  start: !frame '65300'
+- end: !frame '65430'
+  lines:
+  - . . .toda znotraj, granit!
+  start: !frame '65360'
+- end: !frame '65506'
+  lines:
+  - "Ni\u010D ve\u010D ne moremo iztisniti"
+  - iz njega.
+  start: !frame '65440'
+- end: !frame '65575'
+  lines:
+  - "Iz\u010Drpali smo mu par stvari"
+  - iz trebuha.
+  start: !frame '65510'
+- end: !frame '65604'
+  lines:
+  - 'Zelo standardno:'
+  start: !frame '65579'
+- end: !frame '65674'
+  lines:
+  - "Bombe, \u0161ilo,"
+  - "razstrelivo, vre\u0161\u010De\u010Do mi\u0161..."
+  start: !frame '65610'
+- end: !frame '65702'
+  lines:
+  - '...in to.'
+  start: !frame '65679'
+- end: !frame '65795'
+  lines:
+  - "\"To je tukaj kjer ti odigra\u0161"
+  - "moj peklenski na\u010Drt."
+  start: !frame '65708'
+- end: !frame '65881'
+  lines:
+  - "Pojej to ko bo\u0161 prebral,"
+  - "da ga ne bo mogel nih\u010De najti.\""
+  start: !frame '65799'
+- end: !frame '65950'
+  lines:
+  - "Poglej sem. Bo\u017Ei\u010Dno drevo."
+  start: !frame '65891'
+- end: !frame '66025'
+  lines:
+  - "Posku\u0161ajo da odkrijejo"
+  - "polo\u017Eaje."
+  start: !frame '65969'
+- end: !frame '66056'
+  lines:
+  - "Obro\u010D in zvonci?"
+  start: !frame '66030'
+- end: !frame '66150'
+  lines:
+  - Kaj je naslednje?
+  start: !frame '66124'
+- end: !frame '66228'
+  lines:
+  - "Sli\u0161ali ste jo, fantje."
+  - "Osredoto\u010Dite se na misijo."
+  start: !frame '66155'
+- end: !frame '66326'
+  lines:
+  - -Preglej pregrade vsakih 20 minut.
+  - -Razumem.
+  start: !frame '66247'
+- end: !frame '66402'
+  lines:
+  - "-Sam, uredi obro\u010Dek."
+  - -Oprosti.
+  start: !frame '66332'
+- end: !frame '66454'
+  lines:
+  - Poba, Nadaljuj z dobrim delom.
+  start: !frame '66408'
+- end: !frame '66518'
+  lines:
+  - "Zapomni si, da bo\u0161 ostal stran od fanta."
+  start: !frame '66459'
+- end: !frame '66566'
+  lines:
+  - "Osredoto\u010Di se na \u017Eogo."
+  start: !frame '66524'
+- end: !frame '66653'
+  lines:
+  - "Daj no! Kje je \u017Eoga?"
+  - "Prinesi mi \u017Eogo!"
+  start: !frame '66574'
+- end: !frame '66741'
+  lines:
+  - "Daj no, prinesi mi \u017Eogo."
+  start: !frame '66685'
+- end: !frame '66788'
+  lines:
+  - "Kje je \u017Eoga?"
+  start: !frame '66747'
+- end: !frame '66828'
+  lines:
+  - Daj no, Lou.
+  start: !frame '66793'
+- end: !frame '66879'
+  lines:
+  - "Prinesi mi \u017Eogo, Lou!"
+  start: !frame '66833'
+- end: !frame '67254'
+  lines:
+  - Sedaj ga imam!
+  - "Ne more\u0161 je dobiti zame!"
+  start: !frame '67188'
+- end: !frame '67786'
+  lines:
+  - "Kako da me zmeraj najde\u0161?"
+  - Povej mi.
+  start: !frame '67719'
+- end: !frame '67818'
+  lines:
+  - "Da sli\u0161imo."
+  start: !frame '67789'
+- end: !frame '67908'
+  lines:
+  - Drgnjenje po trebuhu!
+  start: !frame '67859'
+- end: !frame '68089'
+  lines:
+  - "Izzivam te na dirko \u010Dez dvori\u0161\u010De!"
+  start: !frame '68038'
+- end: !frame '68132'
+  lines:
+  - "Kaj? Prepo\u010Dasi?"
+  start: !frame '68093'
+- end: !frame '68242'
+  lines:
+  - "Daj no! Ne more\u0161 me ujeti!"
+  - Poskusi in dobi jo.
+  start: !frame '68149'
+- end: !frame '68322'
+  lines:
+  - Oh, ne!
+  start: !frame '68298'
+- end: !frame '69193'
+  lines:
+  - Ne, Lou!
+  start: !frame '69170'
+- end: !frame '69582'
+  lines:
+  - "Negativno. Ne-delujo\u010D."
+  start: !frame '69528'
+- end: !frame '69671'
+  lines:
+  - Vzorec seruma 1-5-4-3...
+  start: !frame '69596'
+- end: !frame '69735'
+  lines:
+  - "...negativno. Ne-delujo\u010D."
+  start: !frame '69688'
+- end: !frame '69765'
+  lines:
+  - Moje delo.
+  start: !frame '69742'
+- end: !frame '69881'
+  lines:
+  - "Bila je nesre\u010Da. Igral sem se z"
+  - psom..vrata so bila odprta!
+  start: !frame '69771'
+- end: !frame '69942'
+  lines:
+  - Potem sem se samo igral. . . .
+  start: !frame '69886'
+- end: !frame '69998'
+  lines:
+  - Nisem mislil.
+  start: !frame '69946'
+- end: !frame '70094'
+  lines:
+  - -Oprosti mi.
+  - "-Moral bi iti v \u0161olo."
+  start: !frame '70002'
+- end: !frame '70200'
+  lines:
+  - Vzorec 1-5-4-6 negativen.
+  - Ni reakcije.
+  start: !frame '70099'
+- end: !frame '70242'
+  lines:
+  - Butch me bo ubil.
+  start: !frame '70206'
+- end: !frame '70362'
+  lines:
+  - 1-5-4-7, negativen.
+  - Ni reakcije.
+  start: !frame '70248'
+- end: !frame '70452'
+  lines:
+  - vzorec seruma 1-5-4-8...
+  start: !frame '70382'
+- end: !frame '70538'
+  lines:
+  - '...negativen. Ni reakcije.'
+  start: !frame '70474'
+- end: !frame '70636'
+  lines:
+  - Vzorec seruma 1-5-4-9...
+  start: !frame '70542'
+- end: !frame '70716'
+  lines:
+  - '...pozitiven. Reakcija.'
+  start: !frame '70642'
+- end: !frame '70850'
+  lines:
+  - Molekularna struktura narejena.
+  - "Alergenaska formula kon\u010Dana."
+  start: !frame '70732'
+- end: !frame '71354'
+  lines:
+  - Uspelo mi je.
+  start: !frame '71319'
+- end: !frame '71406'
+  lines:
+  - Uspelo nam je.
+  start: !frame '71374'
+- end: !frame '71451'
+  lines:
+  - Uspelo nam je.
+  start: !frame '71410'
+- end: !frame '71646'
+  lines:
+  - Zdravo, doktor. Zdravilo proti pasji alergiji?
+  - "Uspe\u0161no. Narejeno."
+  start: !frame '71553'
+- end: !frame '71725'
+  lines:
+  - "Fantasti\u010Dno. Po\u0161ljite mi jo"
+  - in mi jo bomo potrdili.
+  start: !frame '71650'
+- end: !frame '71786'
+  lines:
+  - Se vidimo jutri zjutraj.
+  - Bog z vami.
+  start: !frame '71730'
+- end: !frame '71831'
+  lines:
+  - Nesprejemljivo.
+  start: !frame '71798'
+- end: !frame '71918'
+  lines:
+  - Ukrepati moramo sedaj
+  - ali pa bo izven obsega.
+  start: !frame '71836'
+- end: !frame '71977'
+  lines:
+  - "Ve\u0161 kaj to pomeni?"
+  start: !frame '71940'
+- end: !frame '72000'
+  lines:
+  - Oh, kdo? Jaz?
+  start: !frame '71978'
+- end: !frame '72058'
+  lines:
+  - "Spet ne sledi\u0161 pogovoru?"
+  start: !frame '72005'
+- end: !frame '72130'
+  lines:
+  - -Niti ne. Ali si razjarjen?
+  - -Da! Razjarjen sem!
+  start: !frame '72062'
+- end: !frame '72171'
+  lines:
+  - "Ti imbecilna \u017Eu\u017Eelka. . . ."
+  start: !frame '72136'
+- end: !frame '72207'
+  lines:
+  - Gos. Tinkles!
+  start: !frame '72177'
+- end: !frame '72359'
+  lines:
+  - Ugani kaj sem naredil zate!
+  start: !frame '72290'
+- end: !frame '72563'
+  lines:
+  - "Sedaj lahko izgleda\u0161 natanko tako kot jaz."
+  start: !frame '72493'
+- end: !frame '72673'
+  lines:
+  - Ne, mislim da ne, Sophie.
+  - Tile dnevi so mimo.
+  start: !frame '72569'
+- end: !frame '72755'
+  lines:
+  - Kaj je narobe, Large Marge?
+  start: !frame '72700'
+- end: !frame '72800'
+  lines:
+  - Ti je muca snedla jezik?
+  start: !frame '72761'
+- end: !frame '72904'
+  lines:
+  - Buu!!
+  - "O moj bog?! Govore\u010Da ma\u010Dka ?"
+  start: !frame '72750'
+- end: !frame '72934'
+  lines:
+  - "Stra\u0161ljivo, ali ne?"
+  start: !frame '72905'
+- end: !frame '73120'
+  lines:
+  - Zakleni jo v omaro.
+  - "Nadaljuj po na\u010Drtu."
+  start: !frame '73046'
+- end: !frame '73164'
+  lines:
+  - "Na\u0161 dan je pri\u0161el!"
+  start: !frame '73127'
+- end: !frame '73373'
+  lines:
+  - Zaviraj!
+  start: !frame '73350'
+- end: !frame '73500'
+  lines:
+  - Plin!
+  start: !frame '73477'
+- end: !frame '73583'
+  lines:
+  - Zaviraj!
+  start: !frame '73543'
+- end: !frame '73700'
+  lines:
+  - "Ali bomo pri\u0161li skozi"
+  - "na tak na\u010Din?"
+  start: !frame '73665'
+- end: !frame '73750'
+  lines:
+  - Glej me.
+  start: !frame '73710'
+- end: !frame '73918'
+  lines:
+  - Gos. Mason.
+  - "Kak\u0161no presene\u010Denje, gos."
+  start: !frame '73859'
+- end: !frame '74021'
+  lines:
+  - Dobro jutro, varnostnik.
+  - Spusti nas noter. To je vse.
+  start: !frame '73926'
+- end: !frame '74060'
+  lines:
+  - Seveda, gos.
+  start: !frame '74035'
+- end: !frame '74100'
+  lines:
+  - Fantje spodaj. Pohodite gas.
+  start: !frame '74070'
+- end: !frame '74164'
+  lines:
+  - Spusti zavoro!
+  start: !frame '74125'
+- end: !frame '74364'
+  lines:
+  - Zaviraj!
+  start: !frame '74335'
+- end: !frame '74433'
+  lines:
+  - Zaviraj! Stisni zavoro!
+  start: !frame '74398'
+- end: !frame '74488'
+  lines:
+  - Plin!
+  start: !frame '74458'
+- end: !frame '74529'
+  lines:
+  - Stran s ceste!
+  start: !frame '74493'
+- end: !frame '74570'
+  lines:
+  - Zaviraj!
+  start: !frame '74535'
+- end: !frame '74623'
+  lines:
+  - -Plin!
+  - "-Kaj pa dela\u0161?"
+  start: !frame '74576'
+- end: !frame '74728'
+  lines:
+  - -Zaviraj!
+  - "-A ne zna\u0161 vozit, preklet imbecil?"
+  start: !frame '74666'
+- end: !frame '74769'
+  lines:
+  - "Ne izzivaj, \u010De ne bom pri\u0161el gor--"
+  start: !frame '74734'
+- end: !frame '74818'
+  lines:
+  - Kdo ti je dal izpit?
+  start: !frame '74776'
+- end: !frame '74909'
+  lines:
+  - Halo. Stran s poti.
+  start: !frame '74862'
+- end: !frame '74997'
+  lines:
+  - "Pozor, uslu\u017Ebenci."
+  start: !frame '74958'
+- end: !frame '75096'
+  lines:
+  - Delajte hitro.
+  - "Samo \u0161e sedem mesecev do Bo\u017Ei\u010Da."
+  start: !frame '75003'
+- end: !frame '75159'
+  lines:
+  - -Gos. Mason!
+  - -Dajmo. Nazaj na delo.
+  start: !frame '75102'
+- end: !frame '75201'
+  lines:
+  - -Gos.
+  - "-Za\u010Dni \u017Eiveti."
+  start: !frame '75164'
+- end: !frame '75262'
+  lines:
+  - Stran s poti.
+  - Zate ne bo malice.
+  start: !frame '75207'
+- end: !frame '75290'
+  lines:
+  - Gos. Mason!
+  start: !frame '75267'
+- end: !frame '75338'
+  lines:
+  - -Jutro, gos.
+  - -Zakon kapa.
+  start: !frame '75296'
+- end: !frame '75389'
+  lines:
+  - "-Kako se po\u010Dutite,gos?"
+  - -Gremo.
+  start: !frame '75352'
+- end: !frame '75440'
+  lines:
+  - -Halo, gos.
+  - -To sem jaz.
+  start: !frame '75398'
+- end: !frame '75526'
+  lines:
+  - "Ne tista zlobna ma\u010Dka, ki namerava"
+  - zavzeti svet.
+  start: !frame '75445'
+- end: !frame '75567'
+  lines:
+  - Stran s poti.
+  start: !frame '75532'
+- end: !frame '75668'
+  lines:
+  - "Tovarni\u0161ki delavci, \u010Destitam."
+  start: !frame '75600'
+- end: !frame '75772'
+  lines:
+  - Ta tovarna je
+  - "varna \u0161e 45 minut."
+  start: !frame '75672'
+- end: !frame '76083'
+  lines:
+  - Gos! Gos. Mason.
+  start: !frame '76033'
+- end: !frame '76162'
+  lines:
+  - -Gos.
+  - -Odpri vrata.
+  start: !frame '76135'
+- end: !frame '76338'
+  lines:
+  - Lepa obleka.
+  start: !frame '76291'
+- end: !frame '76473'
+  lines:
+  - -Ti lahko kaj prinesem?
+  - -Sushi in sladoled.
+  start: !frame '76407'
+- end: !frame '76511'
+  lines:
+  - Zapri vrata.
+  start: !frame '76478'
+- end: !frame '76616'
+  lines:
+  - Pozor.
+  start: !frame '76581'
+- end: !frame '76692'
+  lines:
+  - "Pozor, \u010Dlove\u0161ki delavci."
+  start: !frame '76645'
+- end: !frame '76742'
+  lines:
+  - To je tvoj delodajalec...
+  start: !frame '76698'
+- end: !frame '76771'
+  lines:
+  - . . .Gos. Mason.
+  start: !frame '76748'
+- end: !frame '76854'
+  lines:
+  - "U\u010Dinkovito takoj,"
+  - "vsi ste odpu\u0161\u010Deni."
+  start: !frame '76776'
+- end: !frame '76906'
+  lines:
+  - "Tako je. Odpu\u0161\u010Deni!"
+  start: !frame '76859'
+- end: !frame '76976'
+  lines:
+  - "Pojdite domov. Ne vpra\u0161ajte zakaj."
+  start: !frame '76911'
+- end: !frame '77026'
+  lines:
+  - Ti si kriv.
+  start: !frame '76983'
+- end: !frame '77092'
+  lines:
+  - "Razen, \u010De nima\u0161 psa."
+  - "Potem obto\u017Ei njega."
+  start: !frame '77031'
+- end: !frame '77181'
+  lines:
+  - "U bistvu, brcni ga ko pride\u0161 domov."
+  start: !frame '77119'
+- end: !frame '77213'
+  lines:
+  - To je vse.
+  start: !frame '77187'
+- end: !frame '77299'
+  lines:
+  - "Ma\u010Dke so zakon."
+  start: !frame '77269'
+- end: !frame '77362'
+  lines:
+  - "Zadaj, naslednja faza mojega na\u010Drta."
+  start: !frame '77306'
+- end: !frame '77626'
+  lines:
+  - Scotty?
+  start: !frame '77586'
+- end: !frame '77681'
+  lines:
+  - Paket imam zate.
+  start: !frame '77631'
+- end: !frame '77891'
+  lines:
+  - "Po\u010Dakaj. Kam je \u0161la?"
+  - Noter ali ven? Noter ali ven?
+  start: !frame '77802'
+- end: !frame '77937'
+  lines:
+  - Draga, draga.
+  start: !frame '77896'
+- end: !frame '78042'
+  lines:
+  - "Ne bo\u0161 verjel."
+  - Preboj.
+  start: !frame '77968'
+- end: !frame '78115'
+  lines:
+  - Ure sem stran od--
+  start: !frame '78050'
+- end: !frame '78187'
+  lines:
+  - "Mama, O\u010De! Preveri!"
+  start: !frame '78137'
+- end: !frame '78238'
+  lines:
+  - "Karte za dana\u0161njo igro."
+  start: !frame '78194'
+- end: !frame '78334'
+  lines:
+  - -Kaj?
+  - -To je super.
+  start: !frame '78286'
+- end: !frame '78382'
+  lines:
+  - Uruguay proti Chadu.
+  start: !frame '78339'
+- end: !frame '78435'
+  lines:
+  - "Nikoli nisi pri\u0161el v dvoboj."
+  start: !frame '78388'
+- end: !frame '78500'
+  lines:
+  - Lahko gremo? Prosim?
+  - Prosim, ali lahko gremo?
+  start: !frame '78442'
+- end: !frame '78589'
+  lines:
+  - Jaz?
+  start: !frame '78561'
+- end: !frame '78710'
+  lines:
+  - "Prosim, res bi rad \u0161el. Pridi."
+  start: !frame '78639'
+- end: !frame '78858'
+  lines:
+  - Pohiti, pripni se!
+  - "No\u010Dem da zamudimo!"
+  start: !frame '78787'
+- end: !frame '78919'
+  lines:
+  - "Okej. Hej, \u017Ee vem."
+  start: !frame '78863'
+- end: !frame '79024'
+  lines:
+  - -Ptice so zapustile gnezdo.
+  - "-\u0160e enkrat."
+  start: !frame '78954'
+- end: !frame '79088'
+  lines:
+  - Marmelada je izven krofa.
+  start: !frame '79028'
+- end: !frame '79174'
+  lines:
+  - -Kaj si rekel?
+  - "-Dru\u017Eina ni ve\u010D."
+  start: !frame '79092'
+- end: !frame '79227'
+  lines:
+  - Hej, Lou.
+  start: !frame '79189'
+- end: !frame '79330'
+  lines:
+  - Ti si. Kje si pa bil?
+  start: !frame '79268'
+- end: !frame '79361'
+  lines:
+  - Okoli.
+  start: !frame '79336'
+- end: !frame '79451'
+  lines:
+  - Ta teden je bil neverjeten.
+  - Moram pretepsti mucka.
+  start: !frame '79367'
+- end: !frame '79484'
+  lines:
+  - "Sem na teko\u010Di hrani."
+  start: !frame '79458'
+- end: !frame '79583'
+  lines:
+  - "-In Scott je rekel, da sem njegov najbolj\u0161i prijatelj."
+  - -Izvrstno.
+  start: !frame '79502'
+- end: !frame '79622'
+  lines:
+  - Ne povej nikomur.
+  start: !frame '79590'
+- end: !frame '79710'
+  lines:
+  - "Butchu to ne bi bilo v\u0161e\u010D."
+  - Postane jezen.
+  start: !frame '79625'
+- end: !frame '79783'
+  lines:
+  - Da, vem. Ampak ni jezen.
+  start: !frame '79716'
+- end: !frame '79859'
+  lines:
+  - 'Kdaj pa kdaj je jeza '
+  - "izra\u017Eanje ali skrivanje. . ."
+  start: !frame '79788'
+- end: !frame '79962'
+  lines:
+  - "-. . .kako \u017Ealosten si."
+  - "-Kaj? Zakaj bi bil \u017Ealosten?"
+  start: !frame '79867'
+- end: !frame '80128'
+  lines:
+  - Nisem jaz pristojen da bi to rekel.
+  - Ampak neka oseba ga je res prizadela.
+  start: !frame '80021'
+- end: !frame '80218'
+  lines:
+  - Ubogi Butch.
+  start: !frame '80162'
+- end: !frame '80370'
+  lines:
+  - Tukaj smo.
+  - Sem rekel da nas bo spravil sem.
+  start: !frame '80302'
+- end: !frame '80477'
+  lines:
+  - Upam da Mbuto igra.
+  - "On je najbolj\u0161i napadalec z eno nogo."
+  start: !frame '80374'
+- end: !frame '80582'
+  lines:
+  - -Je to pravo mesto?
+  - -Kje so kontrolorji kart?
+  start: !frame '80482'
+- end: !frame '80721'
+  lines:
+  - Smo prezgodnji? Nobenega ni okoli.
+  start: !frame '80658'
+- end: !frame '80800'
+  lines:
+  - Zaradi tega bomo prvi v vrsti
+  - za Mrzlega psa.
+  start: !frame '80725'
+- end: !frame '80895'
+  lines:
+  - Mrzel pes! Mrzel pes!
+  start: !frame '80838'
+- end: !frame '80948'
+  lines:
+  - "Koliko sem ti dol\u017Ean?"
+  start: !frame '80901'
+- end: !frame '80982'
+  lines:
+  - Oprosti mi. Nisem ulovil.
+  start: !frame '80970'
+- end: !frame '81081'
+  lines:
+  - -Halo.
+  - -Brez obremenitev!
+  start: !frame '81046'
+- end: !frame '81175'
+  lines:
+  - -Kaj!
+  - -Kaj je?
+  start: !frame '81141'
+- end: !frame '81234'
+  lines:
+  - -Oh, moj Bog!
+  - -Vzemi nazaj.
+  start: !frame '81181'
+- end: !frame '81747'
+  lines:
+  - "Ma\u010Dke so zakon, ma\u010Dke so zakon."
+  start: !frame '81690'
+- end: !frame '81826'
+  lines:
+  - Oh, da, brcamo riti
+  start: !frame '81791'
+- end: !frame '82087'
+  lines:
+  - "De\u010Dko."
+  start: !frame '82052'
+- end: !frame '82132'
+  lines:
+  - Lou!
+  start: !frame '82103'
+- end: !frame '82196'
+  lines:
+  - Butch.
+  start: !frame '82165'
+- end: !frame '82232'
+  lines:
+  - Kako je?
+  start: !frame '82204'
+- end: !frame '82328'
+  lines:
+  - Profesor je pripravljen,
+  - "izpolnil sem poro\u010Dilo in. . . ."
+  start: !frame '82247'
+- end: !frame '82376'
+  lines:
+  - Fant. . .
+  start: !frame '82350'
+- end: !frame '82429'
+  lines:
+  - . . .impresionirani so.
+  start: !frame '82387'
+- end: !frame '82508'
+  lines:
+  - Hoteli so naj ti dam tole.
+  start: !frame '82452'
+- end: !frame '82643'
+  lines:
+  - Ampak to je zate. . . .
+  start: !frame '82610'
+- end: !frame '82732'
+  lines:
+  - Ko bo tega dela konec,
+  - "ima\u0161 mesto na akademiji."
+  start: !frame '82647'
+- end: !frame '82797'
+  lines:
+  - "Uspelo ti je, de\u010Dko."
+  - Dobro opravljeno.
+  start: !frame '82737'
+- end: !frame '82870'
+  lines:
+  - Bom postal pravi agent kot ti?
+  start: !frame '82802'
+- end: !frame '82906'
+  lines:
+  - "No, lahko poskusi\u0161."
+  start: !frame '82877'
+- end: !frame '82966'
+  lines:
+  - -Partnerji!
+  - "-Ne zmo\u010Di \u0161e papirja."
+  start: !frame '82909'
+- end: !frame '83061'
+  lines:
+  - "Ampak \u010De ti uspe,"
+  - "pomisli na vse kraje ki jih bo\u0161 videl."
+  start: !frame '82972'
+- end: !frame '83157'
+  lines:
+  - "Mogo\u010De Burma. Da."
+  start: !frame '83081'
+- end: !frame '83222'
+  lines:
+  - Ali Danska. Kako ji je bilo ime?
+  start: !frame '83165'
+- end: !frame '83280'
+  lines:
+  - Ali Pasadena.
+  start: !frame '83242'
+- end: !frame '83382'
+  lines:
+  - "Po\u010Dakaj. Torej jaz ne bi ostal tukaj."
+  start: !frame '83301'
+- end: !frame '83440'
+  lines:
+  - "\u0160el bo\u0161 kjer te bodo potrebovali."
+  start: !frame '83386'
+- end: !frame '83525'
+  lines:
+  - -Bavbav na vidiku.
+  start: !frame '83485'
+- end: !frame '83615'
+  lines:
+  - "Bomba\u017Ena tkanina je."
+  - Ali naj jo vzamem?
+  start: !frame '83558'
+- end: !frame '83677'
+  lines:
+  - "Negativno. Jaz in de\u010Dko sva dojela."
+  start: !frame '83621'
+- end: !frame '83709'
+  lines:
+  - Da!
+  start: !frame '83686'
+- end: !frame '83822'
+  lines:
+  - Moje zadnje delo. Dostavi to kaseto,
+  - in grem na Jamajko.
+  start: !frame '83714'
+- end: !frame '84097'
+  lines:
+  - -Kaj je to?
+  - -Pojdi dol z mene.
+  start: !frame '84047'
+- end: !frame '84155'
+  lines:
+  - Okej, saj si me.
+  start: !frame '84103'
+- end: !frame '84232'
+  lines:
+  - Stop. Prosim ne potegni
+  - za lepilni trak!
+  start: !frame '84161'
+- end: !frame '84296'
+  lines:
+  - "Halo. Je to vklju\u010Deno?"
+  start: !frame '84261'
+- end: !frame '84374'
+  lines:
+  - "Bli\u017Eje! Obrni!"
+  - "Od kje si pa ti pri\u0161el?"
+  start: !frame '84302'
+- end: !frame '84466'
+  lines:
+  - Hello, moji neumnim
+  - pasje obrazni nasprotniki.
+  start: !frame '84378'
+- end: !frame '84516'
+  lines:
+  - Kaj? Da, vklopljeno je.
+  start: !frame '84470'
+- end: !frame '84565'
+  lines:
+  - "Rde\u010Da lu\u010Dka utripa."
+  start: !frame '84522'
+- end: !frame '84755'
+  lines:
+  - "Prepri\u010Dan sem da si za\u010Duden..."
+  start: !frame '84703'
+- end: !frame '84846'
+  lines:
+  - "...glede identitete sovra\u017Enika"
+  - ki te bo premagal.
+  start: !frame '84758'
+- end: !frame '84930'
+  lines:
+  - Kdo je ta ki posreduje
+  - to zmagovalno inteligenco...
+  start: !frame '84851'
+- end: !frame '84996'
+  lines:
+  - "...v tej partiji \u0161aha"
+  - "pameti in mo\u010Di."
+  start: !frame '84934'
+- end: !frame '85050'
+  lines:
+  - To sem jaz!
+  start: !frame '85010'
+- end: !frame '85118'
+  lines:
+  - Prepoznate te ljudi?
+  start: !frame '85074'
+- end: !frame '85207'
+  lines:
+  - "\u010Ce jih ho\u010Dete videti"
+  - "\u017Eive \u0161e zadnji\u010D..."
+  start: !frame '85133'
+- end: !frame '85276'
+  lines:
+  - '...prinesite formulo'
+  - in vsa navodila...
+  start: !frame '85212'
+- end: !frame '85405'
+  lines:
+  - '...glede Brodijeve raziskave'
+  - "na Deveto Pierjevo Ulico do polno\u010Di."
+  start: !frame '85282'
+- end: !frame '85510'
+  lines:
+  - "\u010Ce zavrnete, no, jih"
+  - ' bomo uspavali!'
+  start: !frame '85410'
+- end: !frame '85595'
+  lines:
+  - "Dr\u017Ei to na miru!"
+  start: !frame '85566'
+- end: !frame '85662'
+  lines:
+  - "Imeli boste \u010Das do polno\u010Di da privolite."
+  start: !frame '85600'
+- end: !frame '85798'
+  lines:
+  - "-Saj jih bodo re\u0161ili, kaj ne?"
+  - "-To je nad va\u0161imi glavami."
+  start: !frame '85706'
+- end: !frame '86072'
+  lines:
+  - "-Ali kli\u010Dete \u0161tab?"
+  - "-Ne, \u0161li bomo tja."
+  start: !frame '85979'
+- end: !frame '86138'
+  lines:
+  - Zdaj lahko pritisnemo ta velik gumb.
+  - "Dr\u017Eite se."
+  start: !frame '86075'
+- end: !frame '86230'
+  lines:
+  - -Navigacijski sistemi.
+  - -Preverjeno.
+  start: !frame '86195'
+- end: !frame '86295'
+  lines:
+  - -GPS.
+  - -Preverjeno.
+  start: !frame '86251'
+- end: !frame '86367'
+  lines:
+  - Dvigovanje sider. Pripravljeni za izstrelitev.
+  start: !frame '86300'
+- end: !frame '86427'
+  lines:
+  - "Primi se za rep, de\u010Dko!"
+  start: !frame '86372'
+- end: !frame '86658'
+  lines:
+  - "Hitrost 625 \u010Devljev na sekundo."
+  start: !frame '86602'
+- end: !frame '86743'
+  lines:
+  - Ste pripravljeni za EVO.
+  start: !frame '86678'
+- end: !frame '86975'
+  lines:
+  - Canine transport
+  - nalaganje na platformo dva.
+  start: !frame '86908'
+- end: !frame '87063'
+  lines:
+  - 282. Airborne Chihuahuas,
+  - javite se v pisarni.
+  start: !frame '86981'
+- end: !frame '87154'
+  lines:
+  - "To je to, de\u010Dko. Dobrodo\u0161li v \u0161tabu."
+  start: !frame '87068'
+- end: !frame '87193'
+  lines:
+  - Obrni se!
+  start: !frame '87158'
+- end: !frame '87271'
+  lines:
+  - Obrni se! Sedi!
+  start: !frame '87237'
+- end: !frame '87369'
+  lines:
+  - 'Sprejanje in neutraliziranje '
+  - ' preobratne procedure na tretjem nivoju.'
+  start: !frame '87275'
+- end: !frame '87716'
+  lines:
+  - -Za obrambne namene , seveda.
+  - -Oh.
+  start: !frame '87621'
+- end: !frame '87758'
+  lines:
+  - Seveda.
+  start: !frame '87723'
+- end: !frame '87835'
+  lines:
+  - "Od udele\u017Eencev se zahteva da "
+  - se brzdajo.
+  start: !frame '87761'
+- end: !frame '87892'
+  lines:
+  - Ne pozabite zakopati svojega sranja.
+  start: !frame '87840'
+- end: !frame '87936'
+  lines:
+  - Testiram, testiram.
+  start: !frame '87899'
+- end: !frame '88005'
+  lines:
+  - "Pri\u0161el si do \u0161taba."
+  - Priklopi se.
+  start: !frame '87942'
+- end: !frame '88054'
+  lines:
+  - "Tiger, kaj po\u010Dne\u0161?"
+  start: !frame '88011'
+- end: !frame '88118'
+  lines:
+  - Poreden pes!
+  start: !frame '88092'
+- end: !frame '88251'
+  lines:
+  - Prepoznate te ljudi?
+  start: !frame '88212'
+- end: !frame '88350'
+  lines:
+  - "\u010Ce jih ho\u010Dete videti \u0161e enkrat,"
+  - prinesite formulo...
+  start: !frame '88258'
+- end: !frame '88446'
+  lines:
+  - '...in vsa navodila'
+  - glede Brodijeve raziskave...
+  start: !frame '88354'
+- end: !frame '88566'
+  lines:
+  - '... na Deveto Pierjevo Ulico'
+  - "do polno\u010Di. \u010Ce zavrnete..."
+  start: !frame '88451'
+- end: !frame '88636'
+  lines:
+  - '... jih bomo uspavali.'
+  start: !frame '88569'
+- end: !frame '88690'
+  lines:
+  - Sestavite odposlanstvo.
+  start: !frame '88651'
+- end: !frame '89077'
+  lines:
+  - Mir! Mir, prosim.
+  start: !frame '89034'
+- end: !frame '89128'
+  lines:
+  - Odposlanci, prosim! Mir!
+  start: !frame '89082'
+- end: !frame '89318'
+  lines:
+  - Ne moremo jim dati formule.
+  - "\u017Drtvujte Brodijevo dru\u017Eino."
+  start: !frame '89216'
+- end: !frame '89424'
+  lines:
+  - "Ne! \u017Divljenja so ogro\u017Eena."
+  - "Ne moremo jih soditi da so pogre\u0161ljivi."
+  start: !frame '89324'
+- end: !frame '89505'
+  lines:
+  - Odposlanstvo, prosim! Mir!
+  start: !frame '89432'
+- end: !frame '89548'
+  lines:
+  - Moram imeti mir!
+  start: !frame '89510'
+- end: !frame '89598'
+  lines:
+  - "Prosim, brez lete\u010Dega kro\u017Enika!"
+  start: !frame '89562'
+- end: !frame '89709'
+  lines:
+  - "Steve, kontrola mno\u017Eice."
+  start: !frame '89658'
+- end: !frame '89939'
+  lines:
+  - Sedi!
+  start: !frame '89907'
+- end: !frame '90038'
+  lines:
+  - No zdaj, odposlanci.
+  - "\u010Cas je za volitve."
+  start: !frame '89970'
+- end: !frame '90099'
+  lines:
+  - "Po\u010Dakaj!Ali lahko najprej nekaj re\u010Dem?"
+  start: !frame '90042'
+- end: !frame '90138'
+  lines:
+  - "De\u010Dko, utihni!"
+  start: !frame '90103'
+- end: !frame '90231'
+  lines:
+  - Povedal sem vam da je agentovo delo
+  - varovanje ljudi.
+  start: !frame '90144'
+- end: !frame '90285'
+  lines:
+  - "To je moja dru\u017Eina."
+  - Dovolj je!!
+  start: !frame '90240'
+- end: !frame '90382'
+  lines:
+  - "Delegati, \u010Das je."
+  - "Dru\u017Eina ali formula."
+  start: !frame '90290'
+- end: !frame '90425'
+  lines:
+  - "Ne! \u010Cakaj. \u010Cakaj!"
+  start: !frame '90389'
+- end: !frame '90467'
+  lines:
+  - Ravno pred eno minuto...
+  start: !frame '90430'
+- end: !frame '90505'
+  lines:
+  - '... je v razburljivi razpravi....'
+  start: !frame '90470'
+- end: !frame '90573'
+  lines:
+  - '... svet izglasoval,'
+  - "da se \u017Ertvuje dru\u017Eino..."
+  start: !frame '90507'
+- end: !frame '90694'
+  lines:
+  - "... da bi za\u0161\u010Ditili \u010Dlove\u0161tvo za "
+  - "vedno pred ma\u010Djo nevarnostjo."
+  start: !frame '90579'
+- end: !frame '90784'
+  lines:
+  - Za Pasje novice,
+  - to je volk Blitzer.
+  start: !frame '90700'
+- end: !frame '90836'
+  lines:
+  - "Ubogi de\u010Dek."
+  start: !frame '90790'
+- end: !frame '90893'
+  lines:
+  - "Jaz potrebujem opremo, de\u010Dki."
+  start: !frame '90843'
+- end: !frame '91109'
+  lines:
+  - "-Po\u010Dakaj trenutek, de\u010Dek."
+  - -Ne!
+  start: !frame '91062'
+- end: !frame '91170'
+  lines:
+  - "-Dr\u017Ei jo."
+  - -Tega ne morejo narediti.
+  start: !frame '91118'
+- end: !frame '91265'
+  lines:
+  - "-Morali bi se dr\u017Eati mene!"
+  - -Kaj bi to spremenilo?
+  start: !frame '91176'
+- end: !frame '91343'
+  lines:
+  - "\"\u010Clovekov najbolj\u0161i prijatelj.\""
+  - "Zgodovina 101, se spominja\u0161?"
+  start: !frame '91270'
+- end: !frame '91423'
+  lines:
+  - Tukaj je lekcija dva.
+  - Varjumo ljudi in delamo za njih.
+  start: !frame '91349'
+- end: !frame '91506'
+  lines:
+  - "Toleriramo njihova neumna otro\u010Dja nagovarjanja."
+  - ZA KOGA?!!!
+  start: !frame '91428'
+- end: !frame '91548'
+  lines:
+  - Potem gredo na faks. . .
+  start: !frame '91507'
+- end: !frame '91646'
+  lines:
+  - ". . .in te dajo k kak\u0161ni stari \u017Eenski,"
+  - "ki \u0161e palice ne more metati!"
+  start: !frame '91554'
+- end: !frame '91730'
+  lines:
+  - Kaj se je to zgodilo tebi??
+  start: !frame '91680'
+- end: !frame '91834'
+  lines:
+  - "Ti krivi\u0161 mojo dru\u017Eino za tisto kar"
+  - "je neki de\u010Dek storil tebi."
+  start: !frame '91755'
+- end: !frame '92004'
+  lines:
+  - "Glej, de\u010Dko. Opro\u0161\u010Dam se \u010De"
+  - izpadlo tako. . .
+  start: !frame '91923'
+- end: !frame '92069'
+  lines:
+  - ". . .toda je konec. Izklju\u010Dili so nas."
+  start: !frame '92010'
+- end: !frame '92229'
+  lines:
+  - "Ne bodi pla\u0161en, Scotty."
+  - Vse bo OK.
+  start: !frame '92142'
+- end: !frame '92272'
+  lines:
+  - "Nisem prestra\u0161en, mama."
+  start: !frame '92235'
+- end: !frame '92339'
+  lines:
+  - "Vse je v redu. Saj je \u010Disto naravno."
+  start: !frame '92278'
+- end: !frame '92417'
+  lines:
+  - -Torej bo OK.
+  - -Mama, res, jaz sem OK.
+  start: !frame '92344'
+- end: !frame '92477'
+  lines:
+  - "Trudi\u0161 se biti pogumen."
+  start: !frame '92421'
+- end: !frame '92512'
+  lines:
+  - -Dobro je.
+  - -Mama--
+  start: !frame '92481'
+- end: !frame '92559'
+  lines:
+  - "Scotty, ne bodi prestra\u0161en!"
+  start: !frame '92517'
+- end: !frame '92652'
+  lines:
+  - -Jaz sem tvoja skala!
+  - -Prosim vas.
+  start: !frame '92573'
+- end: !frame '92731'
+  lines:
+  - Kdo nas je ugrabil,
+  - Uruguay or Chad?
+  start: !frame '92672'
+- end: !frame '92795'
+  lines:
+  - "Sli\u0161al sem kaj se je zgodilo."
+  - Kako Lou?
+  start: !frame '92736'
+- end: !frame '92883'
+  lines:
+  - -Povedal sem mu naj ne postane vdan.
+  - -"Agent se koncentrira. .
+  start: !frame '92800'
+- end: !frame '92930'
+  lines:
+  - . . .samo nam misijo.
+  start: !frame '92888'
+- end: !frame '93035'
+  lines:
+  - "-Zato me ni moja dru\u017Eina imela rada.\""
+  - -Vsi imamo limonasto zgodbo.
+  start: !frame '92935'
+- end: !frame '93082'
+  lines:
+  - Tudi on ima svojo.
+  start: !frame '93040'
+- end: !frame '93814'
+  lines:
+  - -Jaz morem iti.
+  - -Pojdi preden gremo.
+  start: !frame '93742'
+- end: !frame '94077'
+  lines:
+  - Prinesel si rezultate raziskav.
+  start: !frame '94024'
+- end: !frame '94136'
+  lines:
+  - "Neumen ku\u017Ea."
+  start: !frame '94086'
+- end: !frame '94405'
+  lines:
+  - Vzel je rezultate.
+  start: !frame '94351'
+- end: !frame '94557'
+  lines:
+  - Lou.
+  start: !frame '94536'
+- end: !frame '94604'
+  lines:
+  - Butch, ali si tam?
+  start: !frame '94565'
+- end: !frame '94670'
+  lines:
+  - "Lou je v te\u017Eava v pristani\u0161\u010Du!"
+  start: !frame '94610'
+- end: !frame '94717'
+  lines:
+  - Dok 14. Pohiti!
+  start: !frame '94674'
+- end: !frame '94900'
+  lines:
+  - Lou!
+  start: !frame '94721'
+- end: !frame '95690'
+  lines:
+  - Pretentali so me.
+  - Bili so vse povsod.
+  start: !frame '95600'
+- end: !frame '95720'
+  lines:
+  - Ali so vzeli formulo?
+  start: !frame '95691'
+- end: !frame '95797'
+  lines:
+  - "Mislil sem, da bodo spustili dru\u017Eino, "
+  - " \u010De jim bom dal formulo."
+  start: !frame '95724'
+- end: !frame '96166'
+  lines:
+  - Koliko psov je potrebno
+  - "da spodrine \u010Dlove\u0161tvo?"
+  start: !frame '96073'
+- end: !frame '96229'
+  lines:
+  - "Samo eden neumen ku\u017Eek."
+  start: !frame '96171'
+- end: !frame '96274'
+  lines:
+  - "Kje je moja dru\u017Eina?!"
+  start: !frame '96234'
+- end: !frame '96311'
+  lines:
+  - "Oh, \u017Eivi so."
+  start: !frame '96278'
+- end: !frame '96341'
+  lines:
+  - Za sedaj.
+  start: !frame '96316'
+- end: !frame '96398'
+  lines:
+  - Toda to ni pomembno--
+  start: !frame '96352'
+- end: !frame '96491'
+  lines:
+  - Toda to niso dirke!
+  start: !frame '96454'
+- end: !frame '96556'
+  lines:
+  - Zasegel sem formulo. . .
+  start: !frame '96517'
+- end: !frame '96615'
+  lines:
+  - . . .in v eni uri je bom pripravil. . .
+  start: !frame '96561'
+- end: !frame '96638'
+  lines:
+  - ". . .da bo mogo\u010De. . ."
+  start: !frame '96620'
+- end: !frame '96682'
+  lines:
+  - "... uni\u010Diti ljudi..."
+  start: !frame '96643'
+- end: !frame '96915'
+  lines:
+  - "Kako naj u\u017Eivam v razburljivosti"
+  - "\u010De vozi\u0161 kot opica?!"
+  start: !frame '96811'
+- end: !frame '97038'
+  lines:
+  - "Naredil bom tako da bo \u010Dlove\u0161tvo"
+  - "zelo alergi\u010Dno na va\u0161o vrsto."
+  start: !frame '96926'
+- end: !frame '97121'
+  lines:
+  - In ko bodo vsi tisti katere varujete
+  - jezni na vas...
+  start: !frame '97043'
+- end: !frame '97193'
+  lines:
+  - '... boste pregnani in'
+  - ' pustili meni da jih vodim...'
+  start: !frame '97127'
+- end: !frame '97252'
+  lines:
+  - ". . .ma\u010Dke v veliko revolucijo. . ."
+  start: !frame '97197'
+- end: !frame '97299'
+  lines:
+  - '... da osvojimo svet!'
+  start: !frame '97256'
+- end: !frame '97371'
+  lines:
+  - -Kaj bomo storili?
+  - -"Mi"?
+  start: !frame '97338'
+- end: !frame '97483'
+  lines:
+  - "Za vedno si dal \u010Dlove\u0161tvo v propad."
+  - "Ni\u010D ve\u010D ne moremo storiti."
+  start: !frame '97376'
+- end: !frame '97560'
+  lines:
+  - "Ti se vedno prehitro vda\u0161, Butch."
+  start: !frame '97493'
+- end: !frame '97664'
+  lines:
+  - -Kaj je to, to, kar mislim da je?
+  - -Kaj, Butch?
+  start: !frame '97601'
+- end: !frame '97727'
+  lines:
+  - "Jup, to je ma\u010Dji slednik 2000."
+  start: !frame '97669'
+- end: !frame '97876'
+  lines:
+  - "Te vre\u010De "
+  - "\u017Ee te\u010Dejo v hribe."
+  start: !frame '97787'
+- end: !frame '97935'
+  lines:
+  - Tako jez mislim.
+  start: !frame '97893'
+- end: !frame '98057'
+  lines:
+  - Hitreje. Mislil sem da si v sindikatu!
+  start: !frame '97995'
+- end: !frame '98121'
+  lines:
+  - "Imam bonus za de\u010Dka..."
+  start: !frame '98072'
+- end: !frame '98491'
+  lines:
+  - To je to.
+  - "Bo\u017Ei\u010Dna jelka iz zapiskov."
+  start: !frame '98418'
+- end: !frame '98639'
+  lines:
+  - Kaj pa sedaj nameravajo?
+  start: !frame '98580'
+- end: !frame '98798'
+  lines:
+  - "Z vsemi temi mi\u0161i bi"
+  - lahko nahranili vojsko.
+  start: !frame '98745'
+- end: !frame '99006'
+  lines:
+  - -Pozdravljeni, profesor Brody.
+  - -Kdo pa si ti?
+  start: !frame '98941'
+- end: !frame '99076'
+  lines:
+  - "Oprostite ker ste \u010Dakali. . ."
+  start: !frame '99039'
+- end: !frame '99148'
+  lines:
+  - -. . .toda imel sem teste.
+  - -kdo je to?
+  start: !frame '99082'
+- end: !frame '99187'
+  lines:
+  - Kdo ste vi?
+  start: !frame '99152'
+- end: !frame '99238'
+  lines:
+  - Kaj je to o mojem delu?
+  start: !frame '99193'
+- end: !frame '99308'
+  lines:
+  - Ti si eden od tistih. . .
+  start: !frame '99268'
+- end: !frame '99400'
+  lines:
+  - . . .velikih multinacijonalk,
+  - "zdru\u017Eenj, profita-la\u010Dnih. . ."
+  start: !frame '99312'
+- end: !frame '99465'
+  lines:
+  - ". . .farmacevtskih dru\u017Eb"
+  - katere kradejo--
+  start: !frame '99404'
+- end: !frame '99518'
+  lines:
+  - "Farmacevtskih dru\u017Eb?"
+  start: !frame '99471'
+- end: !frame '99578'
+  lines:
+  - Nismo se razumeli.
+  start: !frame '99539'
+- end: !frame '99625'
+  lines:
+  - Kaj je dogaja? Halo?
+  start: !frame '99585'
+- end: !frame '99708'
+  lines:
+  - Ta vonj.
+  - "Ma\u010Djega porekla--"
+  start: !frame '99660'
+- end: !frame '99866'
+  lines:
+  - Kje si?
+  start: !frame '99839'
+- end: !frame '99999'
+  lines:
+  - "Poka\u017Ei se."
+  - "Ne more\u0161 se skrivati za vedno."
+  start: !frame '99937'
+- end: !frame '100120'
+  lines:
+  - "Toda, nimam ni\u010D za skrivati."
+  start: !frame '100067'
+- end: !frame '100338'
+  lines:
+  - Cool!
+  start: !frame '100293'
+- end: !frame '100664'
+  lines:
+  - "Naj jih nekdo uti\u0161a?!"
+  start: !frame '100598'
+- end: !frame '100784'
+  lines:
+  - Imam zelo pameten test za izpeljati.
+  start: !frame '100709'
+- end: !frame '100866'
+  lines:
+  - Ali ste vi mutanti?
+  - Bral sem ta strip--
+  start: !frame '100797'
+- end: !frame '100912'
+  lines:
+  - '"Bral sem strip."'
+  start: !frame '100870'
+- end: !frame '100971'
+  lines:
+  - "Ti me dela\u0161 bolnega!"
+  start: !frame '100917'
+- end: !frame '101092'
+  lines:
+  - Pomiri se, draga. Pomiri se.
+  start: !frame '101028'
+- end: !frame '101180'
+  lines:
+  - "Eksperiment se je slabo za\u010Del."
+  - Postala si modra!
+  start: !frame '101098'
+- end: !frame '101281'
+  lines:
+  - "Je bil \u017Ee \u010Das."
+  start: !frame '101240'
+- end: !frame '101378'
+  lines:
+  - Moja prevzeta publika . .
+  start: !frame '101341'
+- end: !frame '101493'
+  lines:
+  - ". . .Kaj se ho\u010Dem igrati,"
+  - mladi Brody? Oprosti mi.
+  start: !frame '101384'
+- end: !frame '101556'
+  lines:
+  - "Stekleni\u010Dko! Zeleno!"
+  start: !frame '101499'
+- end: !frame '101587'
+  lines:
+  - "Tukaj, \u0161ef."
+  start: !frame '101561'
+- end: !frame '101685'
+  lines:
+  - Oh, zdravo, Gos. Zlobni Serum.
+  start: !frame '101624'
+- end: !frame '101728'
+  lines:
+  - -Kaj je v tem?
+  - -Torej. . .
+  start: !frame '101690'
+- end: !frame '101804'
+  lines:
+  - ". . .la\u017Eni sneg mojega\" \u0161efa\". . ."
+  start: !frame '101734'
+- end: !frame '101874'
+  lines:
+  - ". . .je popoln za prena\u0161anje . ."
+  start: !frame '101812'
+- end: !frame '101914'
+  lines:
+  - ". . .va\u0161e bolezni."
+  start: !frame '101879'
+- end: !frame '102002'
+  lines:
+  - Ah, da. Thereby. . .
+  start: !frame '101950'
+- end: !frame '102085'
+  lines:
+  - ". . .prelomna vez med de\u010Dkom"
+  - in njegovim psom.
+  start: !frame '102008'
+- end: !frame '102112'
+  lines:
+  - "Ne,po\u010Dakaj."
+  start: !frame '102090'
+- end: !frame '102170'
+  lines:
+  - "Poredna. Poredna govore\u010Da ma\u010Dka."
+  start: !frame '102141'
+- end: !frame '102206'
+  lines:
+  - Ploha.
+  start: !frame '102171'
+- end: !frame '102259'
+  lines:
+  - Spustite kletke!
+  start: !frame '102222'
+- end: !frame '102515'
+  lines:
+  - Uspeh! Ti!
+  start: !frame '102487'
+- end: !frame '102594'
+  lines:
+  - -Razporedite enote.
+  - -Da, gospod.
+  start: !frame '102522'
+- end: !frame '102769'
+  lines:
+  - "A kar se vas ti\u010De Brody. . ."
+  start: !frame '102686'
+- end: !frame '102811'
+  lines:
+  - . . .imam zelo. . .
+  start: !frame '102774'
+- end: !frame '102863'
+  lines:
+  - . . .zelo poseben. . .
+  start: !frame '102818'
+- end: !frame '102914'
+  lines:
+  - . . .darilo! Kaj?!
+  start: !frame '102878'
+- end: !frame '102991'
+  lines:
+  - "Rekel sem da kupi pravo pi\u0161tolo!"
+  start: !frame '102947'
+- end: !frame '103117'
+  lines:
+  - -To sem jaz mislil.
+  - "-Kak\u0161ne koristi naj imam od tega?!"
+  start: !frame '102998'
+- end: !frame '103389'
+  lines:
+  - Ej! Jaz sem tako pameten.
+  start: !frame '103337'
+- end: !frame '103484'
+  lines:
+  - "To je \u010Dista zabava."
+  start: !frame '103421'
+- end: !frame '103565'
+  lines:
+  - -Ostani tu.
+  - -Zakaj?
+  start: !frame '103524'
+- end: !frame '103606'
+  lines:
+  - "Ker te sovra\u017Eim."
+  start: !frame '103570'
+- end: !frame '103712'
+  lines:
+  - Ne! Pomagaj! Pusti me ven!
+  start: !frame '103636'
+- end: !frame '103775'
+  lines:
+  - "\u010Cez nekaj ur. . ."
+  start: !frame '103739'
+- end: !frame '103880'
+  lines:
+  - ". . .vsak \u010Dlovek na svetu"
+  - "bo alergi\u010Den na pse."
+  start: !frame '103782'
+- end: !frame '103987'
+  lines:
+  - "Toda v takem trenutku na\u010Drt"
+  - zahteva brata v vojski.
+  start: !frame '103886'
+- end: !frame '104030'
+  lines:
+  - In tu. . .
+  start: !frame '103993'
+- end: !frame '104121'
+  lines:
+  - '. . .se moja genialnost '
+  - "resni\u010Dno izkazuje."
+  start: !frame '104034'
+- end: !frame '104249'
+  lines:
+  - "Za svojega tovari\u0161a sem izbral nekoga"
+  - ki se lahko privadi na vsak dom na svetu.
+  start: !frame '104127'
+- end: !frame '104416'
+  lines:
+  - "Mi\u0161i!"
+  start: !frame '104384'
+- end: !frame '104475'
+  lines:
+  - Mamin sine!
+  start: !frame '104438'
+- end: !frame '104549'
+  lines:
+  - "Mi\u0161i! Nepredvidljiv zavezniki."
+  start: !frame '104479'
+- end: !frame '104669'
+  lines:
+  - "Vsi se spra\u0161ujete:"
+  start: !frame '104631'
+- end: !frame '104756'
+  lines:
+  - "\"Kako lahko raz\u0161irimo alergijo"
+  - po svetu?"
+  start: !frame '104674'
+- end: !frame '104875'
+  lines:
+  - Odprite svetovno dominacijo letakov in
+  - pokazal vam bom.
+  start: !frame '104782'
+- end: !frame '105025'
+  lines:
+  - Pojdite v kanalizacijo in po mapah
+  - v dodatek B. . .
+  start: !frame '104931'
+- end: !frame '105105'
+  lines:
+  - ". . .raz\u0161irite se po svetu."
+  - "Polovica vas gre v hi\u0161e. . ."
+  start: !frame '105029'
+- end: !frame '105171'
+  lines:
+  - ". . .oku\u017Eite vsakega \u010Dloveka,"
+  - medtem ko ostali--
+  start: !frame '105110'
+- end: !frame '105216'
+  lines:
+  - Obrnite list.
+  start: !frame '105187'
+- end: !frame '105304'
+  lines:
+  - '--se pritihotapijo '
+  - "na letala in \u010Dolne. . ."
+  start: !frame '105243'
+- end: !frame '105382'
+  lines:
+  - ". . .oku\u017Eimo svet.Z pasjem izginotjem. . ."
+  start: !frame '105308'
+- end: !frame '105499'
+  lines:
+  - ". . .ma\u010Dke bodo porazile ljudi"
+  - 'in vam bo dana nagrada:'
+  start: !frame '105388'
+- end: !frame '105575'
+  lines:
+  - ' 8 kil  Monterey Jack sira. . .'
+  start: !frame '105503'
+- end: !frame '105655'
+  lines:
+  - . . .in celo Avstralijo!
+  start: !frame '105581'
+- end: !frame '105746'
+  lines:
+  - -Avstralijo!
+  - -Jeah!
+  start: !frame '105708'
+- end: !frame '105790'
+  lines:
+  - Odprite pokrov kanala!
+  start: !frame '105751'
+- end: !frame '105963'
+  lines:
+  - "Dobro, tukaj je na\u010Drt."
+  start: !frame '105918'
+- end: !frame '106204'
+  lines:
+  - "Razbe\u017Eite se po celem svetu!"
+  start: !frame '106150'
+- end: !frame '106255'
+  lines:
+  - "Pojdite ven in oku\u017Eite vse!"
+  start: !frame '106209'
+- end: !frame '106311'
+  lines:
+  - Bodite vse kar ste lahko!
+  start: !frame '106266'
+- end: !frame '106386'
+  lines:
+  - "Moj na\u010Drt je pri\u0161el  v kon\u010Dno fazo!"
+  start: !frame '106317'
+- end: !frame '106551'
+  lines:
+  - "Ni\u010D se nimate za bati, razen mi\u0161olovke . ."
+  - .. in mene.
+  start: !frame '106396'
+- end: !frame '106584'
+  lines:
+  - Pojedel je Gary-a!
+  start: !frame '106554'
+- end: !frame '106624'
+  lines:
+  - "Be\u017Ei!"
+  start: !frame '106594'
+- end: !frame '106694'
+  lines:
+  - Kaj je bilo to?
+  start: !frame '106661'
+- end: !frame '106908'
+  lines:
+  - Konec je, Tinkles!
+  start: !frame '106871'
+- end: !frame '106949'
+  lines:
+  - Psi. Kje so?
+  start: !frame '106912'
+- end: !frame '107064'
+  lines:
+  - Lou, loputa. Zapri loputo.
+  start: !frame '107001'
+- end: !frame '107142'
+  lines:
+  - "Ob nepravem \u010Dasu!"
+  start: !frame '107107'
+- end: !frame '107218'
+  lines:
+  - Predajte se.Konec je!
+  start: !frame '107171'
+- end: !frame '107275'
+  lines:
+  - Gremo!
+  start: !frame '107252'
+- end: !frame '107328'
+  lines:
+  - Jaz morem ulovit letalo.
+  start: !frame '107287'
+- end: !frame '107778'
+  lines:
+  - Ivy,pojdi poiskati Peeka in Sama.
+  - Jaz morem poiskati Lou.
+  start: !frame '107698'
+- end: !frame '107962'
+  lines:
+  - "Dober de\u010Dko."
+  start: !frame '107938'
+- end: !frame '108060'
+  lines:
+  - Ej! Ustavi se!
+  start: !frame '108022'
+- end: !frame '108111'
+  lines:
+  - "Ustavi se. Morem te uni\u010Dit."
+  start: !frame '108067'
+- end: !frame '108155'
+  lines:
+  - Dobil te bom.
+  start: !frame '108116'
+- end: !frame '108260'
+  lines:
+  - Kako je nas dobil?
+  start: !frame '108210'
+- end: !frame '108342'
+  lines:
+  - -Pohiti, moreva iti.
+  - "-Ali tudi ti govori\u0161?"
+  start: !frame '108265'
+- end: !frame '108477'
+  lines:
+  - Popraskal bom za tebe!
+  start: !frame '108436'
+- end: !frame '108590'
+  lines:
+  - Stisnil te bom kot klopa!
+  start: !frame '108538'
+- end: !frame '108728'
+  lines:
+  - Pridi, ljubica!
+  start: !frame '108702'
+- end: !frame '108826'
+  lines:
+  - Pridi sem.
+  - "Zate imam mle\u010Dno kost."
+  start: !frame '108758'
+- end: !frame '108932'
+  lines:
+  - Sedaj te imam.
+  start: !frame '108904'
+- end: !frame '109099'
+  lines:
+  - "-Daj me dol, kosmata \u017Eoga!"
+  - "-Jaz ho\u010Dem samo objem!"
+  start: !frame '109008'
+- end: !frame '109230'
+  lines:
+  - Prihajam, Butch!
+  start: !frame '109162'
+- end: !frame '109382'
+  lines:
+  - Tukaj, muci, muci, muci.
+  start: !frame '109334'
+- end: !frame '109452'
+  lines:
+  - "Prepozen si, ku\u017Eek."
+  start: !frame '109387'
+- end: !frame '109526'
+  lines:
+  - Jaz sem kralj svet!
+  start: !frame '109500'
+- end: !frame '109554'
+  lines:
+  - Ulovi ga, Lou!
+  start: !frame '109530'
+- end: !frame '109630'
+  lines:
+  - "Vdam se. Prosim ne me po\u0161kodovati."
+  start: !frame '109566'
+- end: !frame '109704'
+  lines:
+  - Spravi se stran,
+  - Tinkles!
+  start: !frame '109642'
+- end: !frame '110034'
+  lines:
+  - Torej,kje sem ostal? Oh, da.
+  start: !frame '109980'
+- end: !frame '110221'
+  lines:
+  - Sedaj pa zadnji udarec.
+  start: !frame '110178'
+- end: !frame '110621'
+  lines:
+  - Pasi so glavni!
+  start: !frame '110582'
+- end: !frame '110707'
+  lines:
+  - "To je samo manj\u0161i neuspeh."
+  start: !frame '110666'
+- end: !frame '110783'
+  lines:
+  - "Ti si kon\u010Dal, Fluffy!"
+  start: !frame '110730'
+- end: !frame '110880'
+  lines:
+  - Butch! Uspeli smo!
+  start: !frame '110842'
+- end: !frame '111324'
+  lines:
+  - -Gremo, Scotty!
+  - -Gremo! Hitro!
+  start: !frame '111257'
+- end: !frame '111500'
+  lines:
+  - Gremo!
+  start: !frame '111474'
+- end: !frame '111825'
+  lines:
+  - "Po\u010Dakajte. Kje je Lou?!"
+  start: !frame '111761'
+- end: !frame '113022'
+  lines:
+  - "De\u010Dko, uspeli smo."
+  start: !frame '112976'
+- end: !frame '113101'
+  lines:
+  - "Re\u0161ili smo jih, kot si rekel."
+  - Imel si prav.
+  start: !frame '113025'
+- end: !frame '113154'
+  lines:
+  - In imel si prav o meni.
+  start: !frame '113106'
+- end: !frame '113181'
+  lines:
+  - "De\u010Dko?"
+  start: !frame '113160'
+- end: !frame '113310'
+  lines:
+  - Oh, ne.
+  start: !frame '113274'
+- end: !frame '114006'
+  lines:
+  - Pridi, Lou, zbudi se.
+  start: !frame '113967'
+- end: !frame '114107'
+  lines:
+  - Ti nisi zguba, Lou.
+  start: !frame '114058'
+- end: !frame '114197'
+  lines:
+  - "Si moj najbolj\u0161i prijatelj."
+  start: !frame '114145'
+- end: !frame '114277'
+  lines:
+  - Zbudi se.
+  start: !frame '114250'
+- end: !frame '114430'
+  lines:
+  - "Tudi ti si moj najbolj\u0161i prijatelj."
+  start: !frame '114370'
+- end: !frame '114701'
+  lines:
+  - "Mama, o\u010De, \u017Eiv je!"
+  start: !frame '114638'
+- end: !frame '114786'
+  lines:
+  - "Mama, o\u010De, \u017Eiv je!"
+  start: !frame '114711'
+- end: !frame '114824'
+  lines:
+  - Pridi hitro!
+  start: !frame '114792'
+- end: !frame '114881'
+  lines:
+  - "Pri\u0161el je nazaj!"
+  start: !frame '114854'
+- end: !frame '114959'
+  lines:
+  - -Imate pravico -
+  - ' -Imate pravico. . .'
+  start: !frame '114886'
+- end: !frame '115050'
+  lines:
+  - -. . .da ostanete tiho.
+  - "-Vse kar re\u010Dete  bomo lahko uporabili. . . ."
+  start: !frame '114965'
+- end: !frame '115099'
+  lines:
+  - Oh, moj bog!
+  start: !frame '115056'
+- end: !frame '115155'
+  lines:
+  - In pravica do pasjega odvetnika.
+  start: !frame '115103'
+- end: !frame '115341'
+  lines:
+  - Dobi ga, Lou! Pohiti!
+  start: !frame '115306'
+- end: !frame '115389'
+  lines:
+  - "Nih\u010De! Postaja\u0161 dober."
+  start: !frame '115346'
+- end: !frame '115468'
+  lines:
+  - Daj roke naprej.
+  start: !frame '115427'
+- end: !frame '115582'
+  lines:
+  - "Dobro, O\u010De!"
+  start: !frame '115551'
+- end: !frame '115657'
+  lines:
+  - -Lou, pojdi jo iskati.
+  - -To je trojna.
+  start: !frame '115588'
+- end: !frame '115694'
+  lines:
+  - Hej, otrok.
+  start: !frame '115662'
+- end: !frame '115753'
+  lines:
+  - "Ali gre vse dobro v \u0161tabu?"
+  start: !frame '115702'
+- end: !frame '115828'
+  lines:
+  - "Jejo mi iz ta\u010Dk."
+  - Kako je pri tebi?
+  start: !frame '115758'
+- end: !frame '115943'
+  lines:
+  - "-Dobro. Ali se ho\u010De\u0161 igrati z \u017Eogo?"
+  - "-Ne, morem iti nazaj v slu\u017Ebo."
+  start: !frame '115832'
+- end: !frame '116041'
+  lines:
+  - "Prinesi jo sem. Najdi \u017Eogo."
+  start: !frame '115990'
+- end: !frame '116218'
+  lines:
+  - Pridi! Pojdi jo iskati! Pridi!
+  start: !frame '116141'
+- end: !frame '116268'
+  lines:
+  - Ima jo! Ima jo!
+  start: !frame '116223'
+- end: !frame '116361'
+  lines:
+  - "Prinesi to \u017Eogo!"
+  - "Prinesi to \u017Eogo nazaj!"
+  start: !frame '116274'
+- end: !frame '116454'
+  lines:
+  - "Bil bi odli\u010Den agent."
+  start: !frame '116384'
+- end: !frame '116711'
+  lines:
+  - Prav imate,Gos. Tinkles.
+  - "Bil si zelo poreden ma\u010Dek."
+  start: !frame '116589'
+- end: !frame '116805'
+  lines:
+  - "Sedaj pa te samo nau\u010Dim "
+  - "kako se obna\u0161a."
+  start: !frame '116717'
+- end: !frame '116958'
+  lines:
+  - "No sedaj pa bo\u0161  mogel \u017Eiveti z  mano"
+  - in mojo sestro!
+  start: !frame '116843'
+- end: !frame '117029'
+  lines:
+  - Gos. Tinkles!
+  start: !frame '116985'
+- end: !frame '117234'
+  lines:
+  - Poglej kaj smo naredili zate!
+  start: !frame '117155'
+- end: !frame '117509'
+  lines:
+  - "-Nisem te mogel pojesti z \u017Elico!"
+  - -Jaz tega ne morem prenesti!
+  start: !frame '117426'
+- end: !frame '117934'
+  lines:
+  - Prevedeno by Logo Masters.
+  start: !frame '117515'
+- end: !frame '117971'
+  lines:
+  - To ni res :))).
+  start: !frame '117935'

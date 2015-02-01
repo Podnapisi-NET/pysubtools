@@ -5,6 +5,7 @@ from . import encodings
 
 # To load all parser
 from . import subrip
+from . import microdvd
 
 __all__ = [
   'Parser',

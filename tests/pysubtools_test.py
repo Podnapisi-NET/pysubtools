@@ -128,29 +128,32 @@ class TestCase(unittest.TestCase):
     # Remove temp files
     os.unlink(tmp)
 
-  def test_subrip(self):
-    """Test SubRip parser."""
-    # Go through all subtitles
-    root = './tests/data/srt'
-    for filename in (i for i in os.listdir(root) if i.endswith('.srt')):
-      with open(os.path.join(root, filename), 'rb') as f:
-        parser = Parser.from_format('SubRip')
-        parsed = parser.parse(f)
+  def test_parsers(self):
+    """Test parsers."""
+    def format_test(root, suffix, format):
+      for filename in (i for i in os.listdir(root) if i.endswith(suffix)):
+        with open(os.path.join(root, filename), 'rb') as f:
+          parser = Parser.from_format(format)
+          parsed = parser.parse(f)
 
-        result = os.path.join(root, filename[:-4])
-        if os.path.isfile(result + '.msgs.yaml'):
-          (encoding, warnings) = yaml.load(open(result + '.msgs.yaml', 'r'))
-          sub = Subtitle.from_file(result + '.sif')
-        else:
-          # Write it
-          yaml.dump((parser.encoding, parser.warnings), open(result + '.msgs.yaml', 'w'),
-                    default_flow_style = False)
-          parsed.save(result + '.sif', allow_unicode = False)
-          continue
+          result = os.path.join(root, filename[:-4])
+          if os.path.isfile(result + '.msgs.yaml'):
+            (encoding, warnings) = yaml.load(open(result + '.msgs.yaml', 'r'))
+            sub = Subtitle.from_file(result + '.sif')
+          else:
+            # Write it
+            yaml.dump((parser.encoding, parser.warnings), open(result + '.msgs.yaml', 'w'),
+                      default_flow_style = False)
+            parsed.save(result + '.sif', allow_unicode = False)
+            continue
 
-        assert parser.encoding == encoding
-        assert parser.warnings == warnings
-        assert sub == parsed
+          assert parser.encoding == encoding
+          assert parser.warnings == warnings
+          assert sub == parsed
+
+    # Go through all subrips
+    format_test('./tests/data/srt', '.srt', 'SubRip')
+    format_test('./tests/data/microdvd', '.sub', 'MicroDVD')
 
   def test_encoding(self):
     """Tests if internal encoder tester works as it should (premature IO closures are the concern)"""
