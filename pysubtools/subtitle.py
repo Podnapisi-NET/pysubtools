@@ -64,11 +64,47 @@ class HumanTime(yaml.YAMLObject):
   def to_seconds(self):
     return self.hours * 3600 + self.minutes * 60 + self.seconds
 
+class Frame(yaml.YAMLObject):
+  yaml_loader = yaml.SafeLoader
+  yaml_dumper = yaml.SafeDumper
+
+  yaml_tag = u'!frame'
+
+  def __init__(self, frame):
+    self._frame = frame
+
+  @classmethod
+  def from_yaml(cls, loader, node):
+    value = loader.construct_scalar(node)
+    return cls(int(value))
+
+  @classmethod
+  def to_yaml(cls, dumper, data):
+    if isinstance(data, int):
+      data = cls(data)
+
+    return dumper.represent_scalar(u'!frame', unicode(data._frame))
+
+  def __int__(self):
+    raise ValueError("Cannot convert frame to time without specified FPS.")
+
+  def __float__(self):
+    raise ValueError("Cannot convert frame to time without specified FPS.")
+
+  def __eq__(self, value):
+    return self._frame == value
+
+  def __gt__(self, value):
+    return self._frame > value
+
+  def __lt__(self, value):
+    return self._frame < value
+
 class SubtitleUnit(object):
   """Class for holding time and text data of a subtitle unit."""
   def __init__(self, start, end, lines = None, **meta):
-    self.start = float(start)
-    self.end = float(end)
+    self.start = float(start) if not isinstance(start, Frame) else start
+    self.end = float(end) if not isinstance(end, Frame) else end
     self.lines = []
 
     self.__dict__.update(meta)
@@ -182,8 +218,8 @@ class SubtitleUnit(object):
     output = {}
     output.update(self.__dict__)
     # Overide custom attributes
-    output['start'] = HumanTime.from_seconds(self.start) if human_time else self.start
-    output['end']   = HumanTime.from_seconds(self.end) if human_time else self.end
+    output['start'] = HumanTime.from_seconds(self.start) if human_time and not isinstance(self.start, Frame) else self.start
+    output['end']   = HumanTime.from_seconds(self.end) if human_time and not isinstance(self.end, Frame) else self.end
     # And lines
     output['lines'] = [i.encode('utf-8') for i in self.lines]
     return output
