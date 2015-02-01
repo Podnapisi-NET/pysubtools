@@ -45,11 +45,6 @@ class Parser(object):
   def __init__(self):
     self.warnings = []
 
-  def parse(self, **kwargs):
-    """Does the actual parsing.
-    """
-    raise NotImplementedError
-
   def add_warning(self, e):
     self.warnings.append({
       'line_number': int(e.line_number),
@@ -86,7 +81,7 @@ class Parser(object):
     """
     raise NotImplementedError
 
-  def parse(self, data = None, encoding = None, language = None):
+  def parse(self, data = None, encoding = None, language = None, **kwargs):
     """Parses the file and returns the subtitle. Check warnings after the parse."""
     if data:
       # We have new data, discard old and set up for new
@@ -102,7 +97,7 @@ class Parser(object):
     # Create subtitle
     from .. import Subtitle, SubtitleUnit
     sub = Subtitle()
-    for unit in self._parse():
+    for unit in self._parse(**kwargs):
       sub.append(SubtitleUnit(**unit['data']))
     return sub
 
