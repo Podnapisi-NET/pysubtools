@@ -341,8 +341,10 @@ class Subtitle(object):
   @classmethod
   def from_dict(cls, data):
     """Creates Subtitle object from dict, parsed from YAML."""
+    if data is None:
+      data = {}
     data = dict(data)
-    data['units'] = [SubtitleUnit.from_dict(i) for i in data.get('units', [])]
+    data['units'] = [SubtitleUnit.from_dict(i) for i in data.get('units') or []]
     return cls(**data)
 
   @classmethod
