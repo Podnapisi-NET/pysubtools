@@ -256,7 +256,7 @@ class SubtitleUnit(object):
     # Remove important part of metadata and lines
     d.pop('start')
     d.pop('end')
-    d.pop('lines')
+    d.pop('_lines')
     return d
 
   def __sub__(self, other):
