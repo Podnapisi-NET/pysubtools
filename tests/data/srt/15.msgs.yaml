@@ -1,0 +1,14 @@
+!!python/tuple
+- CP932
+- - col: 1
+    description: !!python/unicode 'Junk before first unit.'
+    line: !!python/unicode "Frodo1\r\n"
+    line_number: 1
+  - col: 1
+    description: !!python/unicode 'New unit starts without a sequence.'
+    line: !!python/unicode "00:01:00,889 --> 00:01:15,889\r\n"
+    line_number: 2
+  - col: 48
+    description: !!python/unicode 'Missing empty line after unit.'
+    line: " color=\"#ec14bd\">\u65E5\u672C\u8A9E\u5B57\u5E55 Pink_Tomato</font>"
+    line_number: 9533

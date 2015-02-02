@@ -173,9 +173,12 @@ class SubRipStateMachine(object):
 
   @before('found_text')
   def validate_text(self):
-    if self.current_state == self.start:
-      # Add empty line
-      self.temp['data']['lines'] += [u'']
+    if self.is_start:
+      if self.temp:
+        # Add empty line
+        self.temp['data']['lines'] += [u'']
+      else:
+        raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "Junk before first unit.")
 
   @after('found_text')
   def insert_text(self):
