@@ -100,6 +100,9 @@ class Frame(yaml.YAMLObject):
   def __lt__(self, value):
     return self._frame < value
 
+  def __repr__(self):
+    return 'Frame({})'.format(self._frame)
+
 class SubtitleLine(object):
   """
   Class representing a line inside SubtitleUnit. It acts as an ordinary
@@ -121,6 +124,11 @@ class SubtitleLine(object):
       output['text'] = text
     return output
 
+  @classmethod
+  def from_export(cls, obj):
+    obj['text'] = obj.get('text', '').decode('utf-8')
+    return cls(**obj)
+
   def __unicode__(self):
     return self.text
 
@@ -129,7 +137,7 @@ class SubtitleLine(object):
     text = d.pop('text', u'').encode('utf8')
     return "SubtitleLine({}{})".format(
       text,
-      (', ' + ', '.join([' = '.join([k, v]) for k, v in d.items()])) if d else ''
+      (', ' + ', '.join([' = '.join([k, str(v)]) for k, v in d.items()])) if d else ''
     )
 
   def __eq__(self, other):
@@ -312,7 +320,9 @@ class SubtitleUnit(object):
     """Creates SubtitleUnit from specified 'input' dict."""
     input = dict(input)
     return cls(
-      lines = SubtitleLines([i.decode('utf-8') if isinstance(i, str) else i for i in input.pop('lines', [])]),
+      lines = SubtitleLines([
+        i.decode('utf-8') if isinstance(i, str) else i if isinstance(i, unicode) else SubtitleLine.from_export(i) for i in input.pop('lines', [])
+      ]),
       **input
     )
 
@@ -407,7 +417,7 @@ class Subtitle(object):
 
   def __eq__(self, other):
     """Proxy for internal storage."""
-    return self._units == other._units
+    return self.__dict__ == other.__dict__
 
   def __contains__(self, unit):
     """Proxy for internal storage."""
