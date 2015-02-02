@@ -45,6 +45,11 @@ class Parser(object):
   def __init__(self):
     self.warnings = []
 
+    # Part of the parser internals
+    self._read_lines = []
+    self._current_line_num = -1
+    self._current_line = None
+
   def add_warning(self, e):
     self.warnings.append({
       'line_number': int(e.line_number),
@@ -81,6 +86,10 @@ class Parser(object):
     """
     raise NotImplementedError
 
+  def _parse_metadata(self):
+    """Parses the subtitle metadata (if format has a header at all)."""
+    return {}
+
   def parse(self, data = None, encoding = None, language = None, **kwargs):
     """Parses the file and returns the subtitle. Check warnings after the parse."""
     if data:
@@ -94,9 +103,10 @@ class Parser(object):
       # Wrap it
       self._data = io.TextIOWrapper(self._data, self.encoding, newline = '', errors = 'replace')
 
+
     # Create subtitle
     from .. import Subtitle, SubtitleUnit
-    sub = Subtitle()
+    sub = Subtitle(**self._parse_metadata())
     for unit in self._parse(**kwargs):
       sub.append(SubtitleUnit(**unit['data']))
     return sub
@@ -128,3 +138,38 @@ class Parser(object):
       if parser.FORMAT == format:
         return parser()
     raise NoParserError("Could not find parser.")
+
+  # Iteration methods
+  def _previous_line(self):
+    self._current_line_num -= 1
+    self._data.seek(-self._read_lines[self._current_line_num], io.SEEK_CUR)
+    self._current_line = self._data.readline().rstrip()
+
+  def _next_line(self):
+    line = self._data.readline()
+    if not line:
+      return False
+    self._current_line_num += 1
+
+    if len(self._read_lines) == self._current_line_num:
+      self._read_lines.append(len(line))
+    self._current_line = line
+
+    return True
+
+  def _fetch_line(self, line):
+    if line > self._current_line_num:
+      raise ValueError("Cannot seek forward.")
+
+    offset = self._current_line_num - line
+    offset = sum(self._read_lines[self._current_line_num - offset:self._current_line_num + 1])
+    new_pos = self._data.seek(self._data.tell() - offset)
+    line = self._data.readline().rstrip()
+    self._data.seek(new_pos + offset)
+    return line.rstrip()
+
+  def _rewind(self):
+    self._current_line_num = -1
+    self._read_lines = []
+    self._current_line = None
+    self._data.seek(0)
