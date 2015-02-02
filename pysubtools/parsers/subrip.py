@@ -37,15 +37,36 @@ class SubRipStateMachine(object):
   # Tagged properties
   _tag_position = re.compile(r'\s*\\pos\(\s*(\d+)\s*,\s*(\d+)\s*\)\s*')
 
-  def __init__(self, data):
-    self.data = data
+  def __init__(self, parser):
+    self.parser = parser
     self._parsed = None
     self.temp = None
     self.paused = False
 
-    self.read_lines = []
-    self.current_line_num = -1
-    self.current_line = None
+  @property
+  def read_lines(self):
+    return self.parser._read_lines
+
+  @property
+  def current_line_num(self):
+    return self.parser._current_line_num
+
+  @property
+  def current_line(self):
+    return self.parser._current_line
+
+  @current_line.setter
+  def current_line(self, value):
+    self.parser._current_line = value
+
+  def previous_line(self):
+    self.parser._previous_line()
+
+  def next_line(self):
+    return self.parser._next_line()
+
+  def fetch_line(self, line):
+    return self.parser._fetch_line(line)
 
   def pause(self):
     # Pauses for one iteration
@@ -55,34 +76,6 @@ class SubRipStateMachine(object):
     p = self.paused
     self.paused = False
     return p
-
-  def previous_line(self):
-    self.current_line_num -= 1
-    self.data.seek(-self.read_lines[self.current_line_num], io.SEEK_CUR)
-    self.current_line = self.data.readline().rstrip()
-
-  def next_line(self):
-    line = self.data.readline()
-    if not line:
-      return False
-    self.current_line_num += 1
-
-    if len(self.read_lines) == self.current_line_num:
-      self.read_lines.append(len(line))
-    self.current_line = line
-
-    return True
-
-  def fetch_line(self, line):
-    if line > self.current_line_num:
-      raise ValueError("Cannot seek forward.")
-
-    offset = self.current_line_num - line
-    offset = sum(self.read_lines[self.current_line_num - offset:self.current_line_num + 1])
-    new_pos = self.data.seek(self.data.tell() - offset)
-    line = self.data.readline().rstrip()
-    self.data.seek(new_pos + offset)
-    return line.rstrip()
 
   # Main iteration
   def iterate(self):
@@ -260,7 +253,7 @@ class SubRipParser(Parser):
     return can
 
   def _parse(self, **kwargs):
-    machine = SubRipStateMachine(self._data)
+    machine = SubRipStateMachine(self)
 
     # We have a state machine. Let us start.
     while True:
