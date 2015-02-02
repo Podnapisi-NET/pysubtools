@@ -1,0 +1,14 @@
+{0}{5}This is a sample subtitle|taken from Wikipedia|for testing header data in MicroDVD
+{6}{7}Taken from|https://en.wikipedia.org/wiki/MicroDVD
+{7}{25}{y:i}Hello!
+{26}{27}{y:b}Hello!
+{28}{29}{y:u}Hello!
+{30}{31}{y:s}Hello!
+{DEFAULT}{C:$FF0000}{F:DeJaVuSans}{S:10}
+{32}{33}{f:Arial}Hello!
+{36}{37}{s:10}Hello!
+{38}{39}{c:$0000FF}Hello!
+{40}{41}{P:200,100}Hello!
+{42}{43}{Y:i}Hello!|How are you?
+{44}{45}{y:i}Hello!|{y:b}How are you?
+{46}{47}{c:$0000ff}{y:b,u}{f:DeJaVuSans}{s:12}Hello!

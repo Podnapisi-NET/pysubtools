@@ -1,0 +1,106 @@
+---
+styles:
+  '*':
+    color: '#0000FF'
+    font-family: DeJaVuSans
+    font-size: 10px
+units:
+- end: !frame '5'
+  lines:
+  - This is a sample subtitle
+  - taken from Wikipedia
+  - for testing header data in MicroDVD
+  start: !frame '0'
+- end: !frame '7'
+  lines:
+  - Taken from
+  - https://en.wikipedia.org/wiki/MicroDVD
+  start: !frame '6'
+- end: !frame '25'
+  lines:
+  - styles:
+      '*':
+        text-style: italic
+    text: Hello!
+  start: !frame '7'
+- end: !frame '27'
+  lines:
+  - styles:
+      '*':
+        font-weight: bold
+    text: Hello!
+  start: !frame '26'
+- end: !frame '29'
+  lines:
+  - styles:
+      '*':
+        text-decoration: underline
+    text: Hello!
+  start: !frame '28'
+- end: !frame '31'
+  lines:
+  - styles:
+      '*':
+        text-decoration: line-through
+    text: Hello!
+  start: !frame '30'
+- end: !frame '33'
+  lines:
+  - styles:
+      '*':
+        font-family: Arial
+    text: Hello!
+  start: !frame '32'
+- end: !frame '37'
+  lines:
+  - styles:
+      '*':
+        font-size: 10px
+    text: Hello!
+  start: !frame '36'
+- end: !frame '39'
+  lines:
+  - styles:
+      '*':
+        color: '#FF0000'
+    text: Hello!
+  start: !frame '38'
+- end: !frame '41'
+  lines:
+  - Hello!
+  position:
+    x: 200
+    y: 100
+  start: !frame '40'
+  styles:
+    '*': {}
+- end: !frame '43'
+  lines:
+  - Hello!
+  - How are you?
+  start: !frame '42'
+  styles:
+    '*':
+      text-style: italic
+- end: !frame '45'
+  lines:
+  - styles:
+      '*':
+        text-style: italic
+    text: Hello!
+  - styles:
+      '*':
+        font-weight: bold
+    text: How are you?
+  start: !frame '44'
+- end: !frame '47'
+  lines:
+  - styles:
+      '*':
+        color: '#ff0000'
+        font-family: DeJaVuSans
+        font-size: 12px
+        font-weight: bold
+        text-decoration: underline
+    text: Hello!
+  start: !frame '46'
