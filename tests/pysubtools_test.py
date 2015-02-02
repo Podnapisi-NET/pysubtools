@@ -251,3 +251,45 @@ Yes, I  said two liner! \x9e
 Another, but a two liner \xe8
 Yes, I  said two liner! \x9e
 """
+
+  def test_subtitle_lines(self):
+    """Tests API of the subtitle lines."""
+    sub = Subtitle()
+    sub.append(SubtitleUnit(
+      0, 1, [u'First line', u'Second line']
+    ))
+
+    # Check line access
+    assert unicode(sub[0][0]) == u'First line'
+    assert unicode(sub[0][1]) == u'Second line'
+
+    # Add some metadata
+    sub[0][0].styles = {
+      'color': 'red'
+    }
+    sub[0][1].styles = {
+      'color': 'blue'
+    }
+
+    # Check them up
+    assert sub[0][0].styles == {
+      'color': 'red'
+    }
+    assert sub[0][1].styles == {
+      'color': 'blue'
+    }
+
+    # Update lines
+    sub[0][0].text = u'Just a line'
+    sub[0][1].text = u'Just another line'
+
+    assert unicode(sub[0][0]) == u'Just a line'
+    assert unicode(sub[0][1]) == u'Just another line'
+
+    # Metadata should still be there
+    assert sub[0][0].styles == {
+      'color': 'red'
+    }
+    assert sub[0][1].styles == {
+      'color': 'blue'
+    }

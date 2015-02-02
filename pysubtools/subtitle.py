@@ -100,12 +100,78 @@ class Frame(yaml.YAMLObject):
   def __lt__(self, value):
     return self._frame < value
 
+class SubtitleLine(object):
+  """
+  Class representing a line inside SubtitleUnit. It acts as an ordinary
+  unicode objects, but has an ability to store additional metadata.
+  """
+
+  def __init__(self, text, **kwargs):
+    self.text = text
+    # Update with additional metadata
+    self.__dict__.update(kwargs)
+
+  def export(self):
+    """Returns line in format for export."""
+    output = dict(self.__dict__)
+    text = output.pop('text', u'').encode('utf8')
+    if not output:
+      output = text
+    else:
+      output['text'] = text
+    return output
+
+  def __unicode__(self):
+    return self.text
+
+  def __repr__(self):
+    d = dict(self.__dict__)
+    text = d.pop('text', u'').encode('utf8')
+    return "SubtitleLine({}{})".format(
+      text,
+      (', ' + ', '.join([' = '.join([k, v]) for k, v in d.items()])) if d else ''
+    )
+
+  def __eq__(self, other):
+    if not isinstance(other, SubtitleLine):
+      return False
+    return self.__dict__ == other.__dict__
+
+  def __len__(self):
+    return len(self.text)
+
+class SubtitleLines(list):
+  """Modified list class for special tratment of lines."""
+  __slots__ = ()
+
+  def __new__(cls, l = []):
+    obj = super(SubtitleLines, cls).__new__(cls)
+    for i in l:
+      obj.append(i)
+    return obj
+
+  @staticmethod
+  def _validate(value):
+    if isinstance(value, unicode):
+      value = SubtitleLine(value)
+    if not isinstance(value, SubtitleLine):
+      raise TypeError("Subtitle line needs to be unicode instead of '{}'".format(type(value)))
+    return value
+
+  def append(self, value):
+    value = self._validate(value)
+    super(SubtitleLines, self).append(value)
+
+  def __setitem__(self, index, value):
+    value = self._validate(value)
+    super(SubtitleLines, self).__setattr__(index, value)
+
 class SubtitleUnit(object):
   """Class for holding time and text data of a subtitle unit."""
   def __init__(self, start, end, lines = None, **meta):
     self.start = float(start) if not isinstance(start, Frame) else start
     self.end = float(end) if not isinstance(end, Frame) else end
-    self.lines = []
+    self._lines = SubtitleLines()
 
     self.__dict__.update(meta)
 
@@ -114,9 +180,7 @@ class SubtitleUnit(object):
         lines = list(lines)
 
       for line in lines:
-        if not isinstance(line, unicode):
-          raise TypeError("Subtitle line needs to be unicode instead of '{}'".format(type(line)))
-        self.lines.append(line)
+        self._lines.append(line)
 
   def distance(self, other):
     """Calculates signed distance with other subtitle unit."""
@@ -124,6 +188,22 @@ class SubtitleUnit(object):
       raise TypeError("Can calculate distance only with SubtitleUnit and not '{}'".format(type(other)))
 
     return other.start - self.start
+
+  def __iter__(self):
+    return self._lines.__iter__()
+
+  def __setitem__(self, index, value):
+    self._lines[index] = value
+
+  def __getitem__(self, index):
+    return self._lines[index]
+
+  def append(self, value):
+    self._lines.append(value)
+
+  @property
+  def lines(self):
+    return map(unicode, self._lines)
 
   @property
   def duration(self):
@@ -133,7 +213,7 @@ class SubtitleUnit(object):
   @property
   def length(self):
     """Returns length of the SubtitleUnit (in characters)."""
-    return sum((len(i) for i in self.lines))
+    return sum((len(i) for i in self._lines))
 
   def move(self, distance):
     """Moves subtitle unit by 'distance' seconds."""
@@ -221,7 +301,10 @@ class SubtitleUnit(object):
     output['start'] = HumanTime.from_seconds(self.start) if human_time and not isinstance(self.start, Frame) else self.start
     output['end']   = HumanTime.from_seconds(self.end) if human_time and not isinstance(self.end, Frame) else self.end
     # And lines
-    output['lines'] = [i.encode('utf-8') for i in self.lines]
+    output['lines'] = [i.export() for i in self._lines]
+
+    # Remove lines
+    output.pop('_lines')
     return output
 
   @classmethod
@@ -229,7 +312,7 @@ class SubtitleUnit(object):
     """Creates SubtitleUnit from specified 'input' dict."""
     input = dict(input)
     return cls(
-      lines = [i.decode('utf-8') if isinstance(i, str) else i for i in input.pop('lines', [])],
+      lines = SubtitleLines([i.decode('utf-8') if isinstance(i, str) else i for i in input.pop('lines', [])]),
       **input
     )
 
