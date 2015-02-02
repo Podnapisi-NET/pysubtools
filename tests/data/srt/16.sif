@@ -1,0 +1,6943 @@
+---
+units:
+- end: !human_time '00:00:35.000'
+  lines:
+  - "Den h\xE4r texten \xE4r \xF6versatt av mig, och endast mig."
+  - "Allt ber\xF6m b\xF6r, snarast, g\xE5 till mig."
+  start: !human_time '00:00:30.000'
+- end: !human_time '00:00:49.926'
+  lines:
+  - Vad skiljer den vanliga Austen-
+  - "beundraren fr\xE5n den besatta?"
+  start: !human_time '00:00:44.920'
+- end: !human_time '00:00:55.806'
+  lines:
+  - "\xC4r det hennes beundran f\xF6r stilen"
+  - "och uppf\xF6randet under Romantiken?"
+  start: !human_time '00:00:50.640'
+- end: !human_time '00:00:59.848'
+  lines:
+  - "Antalet g\xE5nger hon"
+  - "har l\xE4st Austens b\xF6cker?"
+  start: !human_time '00:00:56.480'
+- end: !human_time '00:01:03.687'
+  lines:
+  - Eller hennes uppslukande
+  - "k\xE4rlek till Mr. Darcy?"
+  start: !human_time '00:01:00.080'
+- end: !human_time '00:01:12.050'
+  lines:
+  - "<i>\u266A L-O-V-E-D-A-R-C-Y</i>"
+  start: !human_time '00:01:09.160'
+- end: !human_time '00:01:14.647'
+  lines:
+  - Fin kopp.
+  start: !human_time '00:01:13.600'
+- end: !human_time '00:01:15.847'
+  lines:
+  - Tack.
+  start: !human_time '00:01:14.800'
+- end: !human_time '00:01:19.930'
+  lines:
+  - "<i>\u266A And it begins like any other</i>"
+  start: !human_time '00:01:17.040'
+- end: !human_time '00:01:22.443'
+  lines:
+  - "<i>\u266A Since she was very young</i>"
+  start: !human_time '00:01:20.600'
+- end: !human_time '00:01:24.331'
+  lines:
+  - "\xC5h."
+  start: !human_time '00:01:23.000'
+- end: !human_time '00:01:26.164'
+  lines:
+  - Sexigt.
+  start: !human_time '00:01:24.400'
+- end: !human_time '00:01:27.606'
+  lines:
+  - Okej.
+  start: !human_time '00:01:26.320'
+- end: !human_time '00:01:28.886'
+  lines:
+  - "Vi ses p\xE5 lunchen."
+  start: !human_time '00:01:27.680'
+- end: !human_time '00:01:30.240'
+  lines:
+  - Ja, okej.
+  start: !human_time '00:01:29.000'
+- end: !human_time '00:01:38.367'
+  lines:
+  - "<i>\u266A You try to catch her eye</i>"
+  start: !human_time '00:01:36.080'
+- end: !human_time '00:01:42.361'
+  lines:
+  - "<i>\u266A But she doesn't want to see</i>"
+  start: !human_time '00:01:40.120'
+- end: !human_time '00:01:46.845'
+  lines:
+  - "<i>Fr\xF6ken Bennet...</i>"
+  start: !human_time '00:01:45.480'
+- end: !human_time '00:01:50.168'
+  lines:
+  - "Det h\xE4r \xE4r den b\xE4sta delen."
+  start: !human_time '00:01:48.200'
+- end: !human_time '00:01:54.166'
+  lines:
+  - "<i>\u266A She's singing"
+  - my boy loves me</i>
+  start: !human_time '00:01:50.400'
+- end: !human_time '00:01:56.049'
+  lines:
+  - Helt otroligt.
+  start: !human_time '00:01:54.240'
+- end: !human_time '00:02:03.806'
+  lines:
+  - "<i>\u266A My boy loves me I know \u266A</i>"
+  start: !human_time '00:01:58.720'
+- end: !human_time '00:02:12.565'
+  lines:
+  - Hej, Jane.
+  - "Varning f\xF6r expojkv\xE4n."
+  start: !human_time '00:02:11.200'
+- end: !human_time '00:02:15.081'
+  lines:
+  - "Hej, h\xE4stansikte."
+  start: !human_time '00:02:12.680'
+- end: !human_time '00:02:16.486'
+  lines:
+  - "Jimmy, vad g\xF6r du h\xE4r?"
+  - ''
+  start: !human_time '00:02:15.280'
+- end: !human_time '00:02:18.289'
+  lines:
+  - "Jag h\xF6rde att du"
+  - gjort slut med Greg.
+  start: !human_time '00:02:16.560'
+- end: !human_time '00:02:21.882'
+  lines:
+  - Det betyder att du kan
+  - "bowla med mig ikv\xE4ll."
+  start: !human_time '00:02:18.400'
+- end: !human_time '00:02:23.610'
+  lines:
+  - Jimmy! Vet du vad?
+  start: !human_time '00:02:22.040'
+- end: !human_time '00:02:26.240'
+  lines:
+  - "Om mitt f\xF6rra \"nej\" var"
+  - oklart...
+  start: !human_time '00:02:23.760'
+- end: !human_time '00:02:29.011'
+  lines:
+  - Jag vill inte se dig igen.
+  start: !human_time '00:02:27.680'
+- end: !human_time '00:02:35.165'
+  lines:
+  - "Jag valde dig f\xF6r en anledning, Jane Hayes."
+  - Den biologiska klockan tickar.
+  start: !human_time '00:02:31.160'
+- end: !human_time '00:02:37.408'
+  lines:
+  - "Den b\xE4sta du kan f\xE5 \xE4r jag."
+  start: !human_time '00:02:35.280'
+- end: !human_time '00:02:40.763'
+  lines:
+  - <i>En riktig Austenbesatt person
+  - "v\xE4ljer att g\xF6ra s\xE5 mycket mer-</i>"
+  start: !human_time '00:02:37.600'
+- end: !human_time '00:02:43.844'
+  lines:
+  - "<i>-\xE4n att endast l\xE4sa hennes b\xF6cker"
+  - "och avl\xE4gset beundra v\xE4rlden.</i>"
+  start: !human_time '00:02:40.840'
+- end: !human_time '00:02:45.600'
+  lines:
+  - "Urs\xE4kta mig."
+  start: !human_time '00:02:44.360'
+- end: !human_time '00:02:48.407'
+  lines:
+  - "Hon finner sin v\xE4g hit-"
+  start: !human_time '00:02:46.040'
+- end: !human_time '00:02:54.685'
+  lines:
+  - "-till v\xE4rldens enda uppslukande"
+  - Austenupplevelse.
+  start: !human_time '00:02:49.360'
+- end: !human_time '00:02:57.600'
+  lines:
+  - "\xC4r det d\xE4r en chihuahua?"
+  start: !human_time '00:02:56.360'
+- end: !human_time '00:02:59.684'
+  lines:
+  - "Det \xE4r ett lamm."
+  - "Jag f\xF6rs\xF6ker lyssna."
+  start: !human_time '00:02:58.000'
+- end: !human_time '00:03:00.926'
+  lines:
+  - Det ser verkligen b-igt ut.
+  start: !human_time '00:02:59.800'
+- end: !human_time '00:03:03.002'
+  lines:
+  - "Jag har varit p\xE5 st\xE4llet"
+  - "och det \xE4r inte b-igt."
+  start: !human_time '00:03:01.000'
+- end: !human_time '00:03:06.488'
+  lines:
+  - "Det \xE4r h\xF6g klass."
+  - "Det \xE4r stort."
+  start: !human_time '00:03:03.200'
+- end: !human_time '00:03:09.206'
+  lines:
+  - Jane, ska du verkligen
+  - "g\xF6ra av med alla dina-"
+  start: !human_time '00:03:06.600'
+- end: !human_time '00:03:11.846'
+  lines:
+  - "-livsbesparingar f\xF6r en"
+  - '"Austenupplevelse"?'
+  start: !human_time '00:03:09.320'
+- end: !human_time '00:03:13.770'
+  lines:
+  - "V\xE4nta lite,"
+  start: !human_time '00:03:12.280'
+- end: !human_time '00:03:15.006'
+  lines:
+  - "h\xE4r p\xE5 \"Sinnliga Resor\","
+  start: !human_time '00:03:13.880'
+- end: !human_time '00:03:17.248'
+  lines:
+  - "Vi \xE4r inte bara er vanliga"
+  - resdestination.
+  - ''
+  start: !human_time '00:03:15.120'
+- end: !human_time '00:03:20.887'
+  lines:
+  - "Det h\xE4r kallar vi f\xF6r en"
+  - "\"LF.\" En livsf\xF6r\xE4ndrare."
+  start: !human_time '00:03:17.360'
+- end: !human_time '00:03:25.244'
+  lines:
+  - "Du f\xE5r vara hj\xE4ltinna"
+  - "i din egen Jane Austen-ber\xE4ttelse."
+  start: !human_time '00:03:21.080'
+- end: !human_time '00:03:27.125'
+  lines:
+  - "Vill du se n\xE5gra ur personalen?"
+  start: !human_time '00:03:25.600'
+- end: !human_time '00:03:28.964'
+  lines:
+  - -Ja.
+  - -Nej.
+  start: !human_time '00:03:27.360'
+- end: !human_time '00:03:32.006'
+  lines:
+  - "Det h\xE4r \xE4r Barnaby."
+  - "Han \xE4r vegan."
+  start: !human_time '00:03:29.400'
+- end: !human_time '00:03:34.082'
+  lines:
+  - Han tycker om nattliga
+  - dopp i dammen,
+  start: !human_time '00:03:32.080'
+- end: !human_time '00:03:36.202'
+  lines:
+  - och han har en ponny
+  - som heter Gnistrande pannkakan.
+  start: !human_time '00:03:34.200'
+- end: !human_time '00:03:37.770'
+  lines:
+  - "Det \xE4r vidrigt."
+  start: !human_time '00:03:36.280'
+- end: !human_time '00:03:40.446'
+  lines:
+  - "Jag har \xE4ven h\xF6rt att man inte"
+  - "hade underkl\xE4der p\xE5 den tiden."
+  start: !human_time '00:03:37.920'
+- end: !human_time '00:03:41.567'
+  lines:
+  - "Det \xE4r en l\xF6gn."
+  start: !human_time '00:03:40.520'
+- end: !human_time '00:03:42.641'
+  lines:
+  - "Det \xE4r inte en l\xF6gn."
+  start: !human_time '00:03:41.640'
+- end: !human_time '00:03:47.250'
+  lines:
+  - "Varje bes\xF6k p\xE5 Austenland"
+  - slutar med en riktig bal,
+  start: !human_time '00:03:43.200'
+- end: !human_time '00:03:50.728'
+  lines:
+  - "allts\xE5 balrum, allts\xE5, 'leva lyckliga"
+  - i alla sina dagar.'
+  start: !human_time '00:03:47.440'
+- end: !human_time '00:03:52.167'
+  lines:
+  - "F\xF6rst\xE5r du vad jag s\xE4ger?"
+  start: !human_time '00:03:51.120'
+- end: !human_time '00:03:53.321'
+  lines:
+  - Absolut.
+  start: !human_time '00:03:52.320'
+- end: !human_time '00:03:58.002'
+  lines:
+  - "Du kanske \xE5ker p\xE5 n\xE5gon lyxig resa,"
+  - men vad kommer du hem till?
+  start: !human_time '00:03:53.440'
+- end: !human_time '00:04:00.248'
+  lines:
+  - "Inget f\xF6rutom ett tomt"
+  - bankkonto.
+  - ''
+  start: !human_time '00:03:58.120'
+- end: !human_time '00:04:04.081'
+  lines:
+  - "Varf\xF6r sparar du inte till en"
+  - "riktig livsf\xF6r\xE4ndrare?"
+  start: !human_time '00:04:00.440'
+- end: !human_time '00:04:07.043'
+  lines:
+  - -Som vad?
+  - -Ja, som...
+  start: !human_time '00:04:05.200'
+- end: !human_time '00:04:09.726'
+  lines:
+  - "Det \xE4r okej. Kanske du ska komma"
+  - "tillbaka n\xE5n annan g\xE5ng utan din v\xE4n?"
+  start: !human_time '00:04:07.200'
+- end: !human_time '00:04:10.921'
+  lines:
+  - "Vi ska fixa det h\xE4r."
+  start: !human_time '00:04:09.840'
+- end: !human_time '00:04:13.162'
+  lines:
+  - "Jag tror jag kan hitta n\xE5t"
+  - speciellt till dig.
+  - ''
+  start: !human_time '00:04:11.000'
+- end: !human_time '00:04:15.525'
+  lines:
+  - "Tack s\xE5 mycket."
+  start: !human_time '00:04:14.160'
+- end: !human_time '00:04:18.923'
+  lines:
+  - "Ta hand om er. Tack f\xF6r att du \xE4r du."
+  - Uppskattar dig.
+  start: !human_time '00:04:15.680'
+- end: !human_time '00:04:30.682'
+  lines:
+  - "Det h\xE4r \xE4r min enda chans att"
+  - "verkligen f\xE5 leva i Austens v\xE4rld."
+  start: !human_time '00:04:25.960'
+- end: !human_time '00:04:32.285'
+  lines:
+  - "Jag \xE4r hennes st\xF6rsta beundrare."
+  start: !human_time '00:04:30.840'
+- end: !human_time '00:04:33.527'
+  lines:
+  - Kom igen.
+  start: !human_time '00:04:32.480'
+- end: !human_time '00:04:34.727'
+  lines:
+  - Nej. Nej.
+  start: !human_time '00:04:33.680'
+- end: !human_time '00:04:36.604'
+  lines:
+  - Du <i>var</i> en beundrare.
+  start: !human_time '00:04:35.000'
+- end: !human_time '00:04:38.490'
+  lines:
+  - "Nu \xE4r du besatt."
+  start: !human_time '00:04:36.840'
+- end: !human_time '00:04:41.087'
+  lines:
+  - "G\xE5 inte in d\xE4r f\xF6r jag packar."
+  - "Det \xE4r st\xF6kigt."
+  start: !human_time '00:04:38.880'
+- end: !human_time '00:04:42.531'
+  lines:
+  - "Du vill verkligen inte g\xE5 in d\xE4r."
+  start: !human_time '00:04:41.200'
+- end: !human_time '00:04:46.207'
+  lines:
+  - Oh, Janey.
+  - "Det har blivit s\xE5 mycket v\xE4rre."
+  start: !human_time '00:04:42.680'
+- end: !human_time '00:04:50.721'
+  lines:
+  - "<i>Jag \xE4lskar er.</i>"
+  start: !human_time '00:04:49.640'
+- end: !human_time '00:04:52.524'
+  lines:
+  - "Det \xE4r ett samlarobjekt och"
+  - "det \xE4r d\xE4rf\xF6r jag har den."
+  start: !human_time '00:04:50.840'
+- end: !human_time '00:04:53.726'
+  lines:
+  - "<i>Jag har 10 000 om \xE5ret.</i>"
+  start: !human_time '00:04:52.600'
+- end: !human_time '00:04:56.051'
+  lines:
+  - "Jag har \xE4ndrat mig."
+  - ''
+  start: !human_time '00:04:54.640'
+- end: !human_time '00:04:58.965'
+  lines:
+  - "Jag st\xF6djer dig att du"
+  - "ska \xE5ka dit-"
+  - ''
+  start: !human_time '00:04:56.200'
+- end: !human_time '00:05:01.401'
+  lines:
+  - "-f\xF6r jag \xE4r s\xE4ker att dina"
+  - "f\xF6rv\xE4ntningar-"
+  start: !human_time '00:04:59.160'
+- end: !human_time '00:05:03.767'
+  lines:
+  - "-inte kommer att vara s\xE5"
+  - "tillfredsst\xE4llande som du tror."
+  start: !human_time '00:05:01.560'
+- end: !human_time '00:05:05.331'
+  lines:
+  - Jag tror inte att du vet
+  - vart jag ska.
+  start: !human_time '00:05:03.920'
+- end: !human_time '00:05:08.370'
+  lines:
+  - "-Vi kan sl\xE5 vad."
+  - -Visst.
+  start: !human_time '00:05:05.400'
+- end: !human_time '00:05:12.690'
+  lines:
+  - "Om jag vinner s\xE5 tar du bort"
+  - "Austen fr\xE5n ditt rum."
+  start: !human_time '00:05:08.480'
+- end: !human_time '00:05:17.082'
+  lines:
+  - -Okej.
+  - -Visst.
+  start: !human_time '00:05:15.080'
+- end: !human_time '00:05:21.405'
+  lines:
+  - Jag har sytt
+  - "en avskedsg\xE5va till dig."
+  start: !human_time '00:05:17.400'
+- end: !human_time '00:05:23.090'
+  lines:
+  - Har du?
+  start: !human_time '00:05:21.520'
+- end: !human_time '00:05:25.411'
+  lines:
+  - "\xC5h."
+  start: !human_time '00:05:24.080'
+- end: !human_time '00:05:28.841'
+  lines:
+  - ''
+  start: !human_time '00:05:27.680'
+- end: !human_time '00:05:32.331'
+  lines:
+  - "Vilken epok ska denna vara ifr\xE5n?"
+  start: !human_time '00:05:29.760'
+- end: !human_time '00:05:34.687'
+  lines:
+  - "H\xF6rru, den tog tre dagar att sy."
+  start: !human_time '00:05:32.400'
+- end: !human_time '00:05:36.609'
+  lines:
+  - "Kom hit s\xE5 kramas vi."
+  - ''
+  start: !human_time '00:05:34.800'
+- end: !human_time '00:05:39.285'
+  lines:
+  - Tack.
+  start: !human_time '00:05:37.920'
+- end: !human_time '00:05:43.928'
+  lines:
+  - "Ta bort allt det h\xE4r sen,"
+  - "f\xF6r det \xE4r konstigt."
+  start: !human_time '00:05:39.400'
+- end: !human_time '00:05:45.525'
+  lines:
+  - "-Det \xE4r en syssels\xE4ttning."
+  - "-Det \xE4r konstigt."
+  start: !human_time '00:05:44.080'
+- end: !human_time '00:05:49.088'
+  lines:
+  - "<i>\u266A Ooh, baby, do you know"
+  - what that's worth?</i>
+  start: !human_time '00:05:45.800'
+- end: !human_time '00:05:53.160'
+  lines:
+  - "<i>\u266A Ooh, heaven is"
+  - a place on earth</i>
+  start: !human_time '00:05:49.360'
+- end: !human_time '00:05:57.040'
+  lines:
+  - "<i>\u266A They say in heaven"
+  - love comes first</i>
+  start: !human_time '00:05:53.240'
+- end: !human_time '00:06:00.927'
+  lines:
+  - "<i>\u266A We'll make heaven"
+  - a place on earth</i>
+  start: !human_time '00:05:57.400'
+- end: !human_time '00:06:05.444'
+  lines:
+  - "<i>\u266A Ooh, heaven is"
+  - a place on earth</i>
+  start: !human_time '00:06:01.280'
+- end: !human_time '00:06:25.489'
+  lines:
+  - "<i>\u266A When the night falls down \u266A</i>"
+  start: !human_time '00:06:22.280'
+- end: !human_time '00:06:26.927'
+  lines:
+  - "\xC5h!"
+  start: !human_time '00:06:25.880'
+- end: !human_time '00:06:28.809'
+  lines:
+  - "Beh\xF6ver du hj\xE4lp?"
+  start: !human_time '00:06:27.000'
+- end: !human_time '00:06:32.687'
+  lines:
+  - En amerikan!
+  start: !human_time '00:06:30.480'
+- end: !human_time '00:06:36.163'
+  lines:
+  - "Jag f\xF6rst\xE5r inte vad"
+  - "inf\xF6dingarna s\xE4ger."
+  start: !human_time '00:06:33.000'
+- end: !human_time '00:06:39.087'
+  lines:
+  - "Jag tror det var h\xE4r vi"
+  - "skulle v\xE4nta, va?"
+  start: !human_time '00:06:36.800'
+- end: !human_time '00:06:40.241'
+  lines:
+  - "Ska du ocks\xE5 till Darcy-st\xE4llet?"
+  start: !human_time '00:06:39.160'
+- end: !human_time '00:06:41.401'
+  lines:
+  - Ja.
+  start: !human_time '00:06:40.320'
+- end: !human_time '00:06:43.090'
+  lines:
+  - Jag memorerade de tre
+  - "f\xF6rsta kapitlena-"
+  - ''
+  start: !human_time '00:06:41.520'
+- end: !human_time '00:06:44.571'
+  lines:
+  - "-ur <i>Stolthet och F\xF6rdom</i>"
+  - "n\xE4r jag var 13."
+  start: !human_time '00:06:43.160'
+- end: !human_time '00:06:47.002'
+  lines:
+  - "Vad \xE4r det?"
+  start: !human_time '00:06:44.920'
+- end: !human_time '00:06:48.650'
+  lines:
+  - "\xC5h, em..."
+  start: !human_time '00:06:47.160'
+- end: !human_time '00:06:52.128'
+  lines:
+  - "Varf\xF6r ska du till det h\xE4r"
+  - "st\xE4llet?"
+  start: !human_time '00:06:50.000'
+- end: !human_time '00:06:55.921'
+  lines:
+  - "F\xF6r jag kommer att se bra ut"
+  - "i deras utskurna kl\xE4nningar."
+  - ''
+  start: !human_time '00:06:52.360'
+- end: !human_time '00:07:00.845'
+  lines:
+  - Jag hoppas att de
+  - ger mig en mantel med.
+  start: !human_time '00:06:56.840'
+- end: !human_time '00:07:02.928'
+  lines:
+  - "Skulle vi inte vara utkl\xE4dda?"
+  start: !human_time '00:07:00.960'
+- end: !human_time '00:07:05.247'
+  lines:
+  - "Tacka Gud f\xF6r att du \xE4r h\xE4r"
+  - och inte hon.
+  start: !human_time '00:07:03.040'
+- end: !human_time '00:07:08.047'
+  lines:
+  - Jag heter Jane.
+  start: !human_time '00:07:05.840'
+- end: !human_time '00:07:11.801'
+  lines:
+  - "\xC5h, bra."
+  - Bekantningar, bra.
+  start: !human_time '00:07:08.160'
+- end: !human_time '00:07:14.601'
+  lines:
+  - Hej.
+  start: !human_time '00:07:13.520'
+- end: !human_time '00:07:18.840'
+  lines:
+  - "Jag \xE4r fr\xF6ken Elizabeth Charming."
+  start: !human_time '00:07:15.040'
+- end: !human_time '00:07:22.323'
+  lines:
+  - Ett fint namn, inte sant?
+  - Jag valde det.
+  start: !human_time '00:07:19.240'
+- end: !human_time '00:07:25.364'
+  lines:
+  - "Ja, v\xE4ldigt fint."
+  - "Jag vill g\xE4rna v\xE4lja namn."
+  start: !human_time '00:07:22.440'
+- end: !human_time '00:07:28.487'
+  lines:
+  - "Kanske fr\xF6ken Pepperpot?"
+  start: !human_time '00:07:26.120'
+- end: !human_time '00:07:30.887'
+  lines:
+  - "Eller fr\xF6ken Wiggly Wigglins?"
+  start: !human_time '00:07:28.600'
+- end: !human_time '00:07:33.247'
+  lines:
+  - Fina namn.
+  start: !human_time '00:07:31.040'
+- end: !human_time '00:07:39.244'
+  lines:
+  - "Jag visste att det h\xE4r st\xE4llet"
+  - skulle vara magiskt.
+  start: !human_time '00:07:36.240'
+- end: !human_time '00:07:42.330'
+  lines:
+  - De har till och med en 1700-talsbil.
+  - ''
+  start: !human_time '00:07:39.360'
+- end: !human_time '00:07:48.528'
+  lines:
+  - "Tack s\xE5 mycket."
+  - "Jag \xE4r fr\xF6ken Charming."
+  start: !human_time '00:07:44.000'
+- end: !human_time '00:07:50.930'
+  lines:
+  - "Hit\xE5t."
+  start: !human_time '00:07:49.360'
+- end: !human_time '00:07:52.724'
+  lines:
+  - "<i>J\xE4kla amerikaner!</i>"
+  start: !human_time '00:07:51.040'
+- end: !human_time '00:07:54.370'
+  lines:
+  - Akta mellanrummet.
+  start: !human_time '00:07:52.880'
+- end: !human_time '00:07:59.688'
+  lines:
+  - "F\xF6rl\xE5t."
+  - "Man skulle visst vara utkl\xE4dd."
+  start: !human_time '00:07:56.400'
+- end: !human_time '00:08:01.410'
+  lines:
+  - Jag med.
+  start: !human_time '00:07:59.760'
+- end: !human_time '00:08:12.327'
+  lines:
+  - Gud bevare drottningen!
+  start: !human_time '00:08:09.960'
+- end: !human_time '00:08:19.443'
+  lines:
+  - "Tror du att det h\xE4r \xE4r"
+  - <i>Chitty Chitty Bang Bang</i>-bilen?
+  start: !human_time '00:08:16.280'
+- end: !human_time '00:08:39.001'
+  lines:
+  - "Det \xE4r mindre \xE4n f\xF6rv\xE4ntat."
+  start: !human_time '00:08:36.760'
+- end: !human_time '00:08:41.680'
+  lines:
+  - "V\xE4lkommen till Romantiken."
+  start: !human_time '00:08:39.200'
+- end: !human_time '00:08:43.450'
+  lines:
+  - "Det h\xE4r \xE4r bara en anhalt"
+  - innan det stora huset.
+  - ''
+  start: !human_time '00:08:41.800'
+- end: !human_time '00:08:44.971'
+  lines:
+  - "-Jag \xE4r Fru Wattlesbrook."
+  - -Okej.
+  start: !human_time '00:08:43.560'
+- end: !human_time '00:08:48.801'
+  lines:
+  - "Fr\xF6ken Charming, jag hoppas att"
+  - "resan var uth\xE4rdlig."
+  start: !human_time '00:08:45.080'
+- end: !human_time '00:08:50.604'
+  lines:
+  - "\xC5h, ja!"
+  start: !human_time '00:08:48.920'
+- end: !human_time '00:08:54.481'
+  lines:
+  - -Jane Hayes.
+  - -Ja.
+  start: !human_time '00:08:52.160'
+- end: !human_time '00:08:57.450'
+  lines:
+  - "Jag har t\xE4nkt lite p\xE5 mitt namn,"
+  start: !human_time '00:08:54.640'
+- end: !human_time '00:09:00.450'
+  lines:
+  - "och jag t\xE4nkte,"
+  - "fr\xF6ken Joyful, kanske?"
+  start: !human_time '00:08:57.640'
+- end: !human_time '00:09:03.928'
+  lines:
+  - "\xC5h, ja. Du har redan f\xE5tt"
+  - ett namn.
+  - ''
+  start: !human_time '00:09:00.560'
+- end: !human_time '00:09:05.365'
+  lines:
+  - "Fr\xF6ken Erstwhile."
+  - ''
+  start: !human_time '00:09:04.000'
+- end: !human_time '00:09:07.006'
+  lines:
+  - "Fr\xF6ken Erstwhile?"
+  start: !human_time '00:09:05.800'
+- end: !human_time '00:09:09.361'
+  lines:
+  - Martin.
+  - Ta in bagaget.
+  start: !human_time '00:09:07.120'
+- end: !human_time '00:09:11.926'
+  lines:
+  - "F\xE5 i ordning vagnen och ta oss"
+  - "till herrg\xE5rden."
+  start: !human_time '00:09:09.480'
+- end: !human_time '00:09:17.288'
+  lines:
+  - -Martin.
+  - -Frun.
+  start: !human_time '00:09:15.160'
+- end: !human_time '00:09:20.369'
+  lines:
+  - -Lycka till.
+  - -Tack.
+  start: !human_time '00:09:18.640'
+- end: !human_time '00:09:23.689'
+  lines:
+  - "Fullkomlig neds\xE4nkning i Romantiken-"
+  start: !human_time '00:09:20.480'
+- end: !human_time '00:09:26.969'
+  lines:
+  - "-\xE4r det enda s\xE4ttet att verkligen"
+  - uppskatta Austens England.
+  start: !human_time '00:09:23.760'
+- end: !human_time '00:09:28.320'
+  lines:
+  - "Visst h\xE5ller ni med,"
+  - "fr\xF6ken Charming?"
+  start: !human_time '00:09:27.080'
+- end: !human_time '00:09:30.609'
+  lines:
+  - "Jajem\xE4n!"
+  start: !human_time '00:09:28.800'
+- end: !human_time '00:09:32.929'
+  lines:
+  - "Bara f\xF6r att undvika missf\xF6rst\xE5else."
+  start: !human_time '00:09:31.040'
+- end: !human_time '00:09:37.164'
+  lines:
+  - Jag vill att ni ska veta att vi
+  - erbjuder flera olika upplevelser.
+  start: !human_time '00:09:33.000'
+- end: !human_time '00:09:40.684'
+  lines:
+  - "Du har betalat f\xF6r det"
+  - vanliga Kopparpaketet.
+  start: !human_time '00:09:37.680'
+- end: !human_time '00:09:43.720'
+  lines:
+  - Medan de andra damerna-
+  start: !human_time '00:09:41.240'
+- end: !human_time '00:09:46.320'
+  lines:
+  - "-\xE4r en del av det"
+  - platina Elitpaketet.
+  - ''
+  start: !human_time '00:09:43.840'
+- end: !human_time '00:09:48.090'
+  lines:
+  - "\xC5h. Okej."
+  start: !human_time '00:09:46.600'
+- end: !human_time '00:09:50.481'
+  lines:
+  - "Du f\xF6rst\xE5r s\xE4kert att det kommer"
+  - "att vara n\xE5gra undantag f\xF6r din resa."
+  - ''
+  start: !human_time '00:09:48.160'
+- end: !human_time '00:09:54.047'
+  lines:
+  - "Jag menar, jag \xE4r s\xE5"
+  - "glad att vara h\xE4r-"
+  start: !human_time '00:09:50.600'
+- end: !human_time '00:09:56.282'
+  lines:
+  - "-och jag har dr\xF6mt om"
+  - "detta s\xE5 l\xE4nge."
+  - ''
+  start: !human_time '00:09:54.120'
+- end: !human_time '00:09:58.328'
+  lines:
+  - "Alla mina g\xE4ster"
+  - kommer att uppleva-
+  start: !human_time '00:09:56.360'
+- end: !human_time '00:10:00.528'
+  lines:
+  - -en romans med en
+  - "av v\xE5ra sk\xE5despelare."
+  start: !human_time '00:09:58.400'
+- end: !human_time '00:10:03.683'
+  lines:
+  - "Men jag m\xE5ste trycka p\xE5 att det"
+  - "inte f\xE5r f\xF6rekomma n\xE5n ber\xF6ring-"
+  - ''
+  start: !human_time '00:10:00.600'
+- end: !human_time '00:10:07.887'
+  lines:
+  - "-f\xF6rutom vid n\xF6dv\xE4ndiga sociala anst\xE4ndigheter."
+  - -Som om.
+  start: !human_time '00:10:04.280'
+- end: !human_time '00:10:09.969'
+  lines:
+  - "Jag f\xF6ruts\xE4tter ocks\xE5 att"
+  - "alla mina g\xE4star ska bibeh\xE5lla-"
+  start: !human_time '00:10:08.080'
+- end: !human_time '00:10:14.487'
+  lines:
+  - "-anst\xE4ndigt uppf\xF6rande och"
+  - undvika alla moderna ting.
+  - ''
+  start: !human_time '00:10:10.080'
+- end: !human_time '00:10:16.290'
+  lines:
+  - "All gr\xE4sligt olydnad"
+  - kommer-
+  start: !human_time '00:10:14.640'
+- end: !human_time '00:10:17.930'
+  lines:
+  - "-att resultera i en tidig hemg\xE5ng."
+  start: !human_time '00:10:16.360'
+- end: !human_time '00:10:19.806'
+  lines:
+  - "Mig beh\xF6ver du inte oroa"
+  - "dig f\xF6r."
+  start: !human_time '00:10:18.520'
+- end: !human_time '00:10:22.201'
+  lines:
+  - "Jag kan Austens b\xF6cker fr\xE5n grunden."
+  start: !human_time '00:10:19.880'
+- end: !human_time '00:10:31.166'
+  lines:
+  - "En stor brasa f\xF6r en"
+  - varm sommarda'.
+  - ''
+  start: !human_time '00:10:27.320'
+- end: !human_time '00:10:40.730'
+  lines:
+  - "Vi m\xE5ste trycka upp br\xF6sten."
+  - "S\xE5 d\xE4r, ja."
+  start: !human_time '00:10:37.760'
+- end: !human_time '00:10:44.083'
+  lines:
+  - "Mer g\xE5r det inte."
+  - ''
+  start: !human_time '00:10:42.240'
+- end: !human_time '00:10:46.404'
+  lines:
+  - Det ser bra ut.
+  - ''
+  start: !human_time '00:10:44.720'
+- end: !human_time '00:10:53.411'
+  lines:
+  - "<i>\u266A Has it been a day or a week</i>"
+  start: !human_time '00:10:50.680'
+- end: !human_time '00:10:55.926'
+  lines:
+  - "<i>\u266A As my eyes begin to close</i>"
+  start: !human_time '00:10:53.480'
+- end: !human_time '00:10:59.329'
+  lines:
+  - "Vi har den h\xE4r f\xF6rtjusande"
+  - "chiffonkl\xE4nningen."
+  start: !human_time '00:10:56.200'
+- end: !human_time '00:11:01.402'
+  lines:
+  - Jag vet inte vad du tycker
+  - om lavender.
+  - ''
+  start: !human_time '00:10:59.400'
+- end: !human_time '00:11:02.766'
+  lines:
+  - "Det \xE4r lila."
+  - ''
+  start: !human_time '00:11:01.480'
+- end: !human_time '00:11:04.160'
+  lines:
+  - '"Lila."'
+  start: !human_time '00:11:02.920'
+- end: !human_time '00:11:06.925'
+  lines:
+  - "Den h\xE4r tycker jag \xE4r"
+  - magnifik och elegant.
+  start: !human_time '00:11:04.240'
+- end: !human_time '00:11:08.445'
+  lines:
+  - "Laxf\xE4rgad!"
+  start: !human_time '00:11:07.080'
+- end: !human_time '00:11:09.965'
+  lines:
+  - "Laxf\xE4rgad. Absolut."
+  start: !human_time '00:11:08.600'
+- end: !human_time '00:11:14.931'
+  lines:
+  - "<i>\u266A These dreams under my pillow</i>"
+  start: !human_time '00:11:10.960'
+- end: !human_time '00:11:17.004'
+  lines:
+  - Du blir ganska blek.
+  start: !human_time '00:11:15.240'
+- end: !human_time '00:11:20.327'
+  lines:
+  - "<i>\u266A Of these white nights \u266A</i>"
+  start: !human_time '00:11:18.040'
+- end: !human_time '00:11:23.848'
+  lines:
+  - "Se s\xE5 smal jag ser ut"
+  - med handen bakom ryggen.
+  - ''
+  start: !human_time '00:11:20.560'
+- end: !human_time '00:11:28.046'
+  lines:
+  - "Nu g\xE5r vi och tr\xE4ffar m\xE4nnen."
+  - ''
+  start: !human_time '00:11:26.760'
+- end: !human_time '00:11:29.446'
+  lines:
+  - Okej.
+  start: !human_time '00:11:28.160'
+- end: !human_time '00:11:44.121'
+  lines:
+  - "Urs\xE4kta mig, men den h\xE4r vagnen-"
+  start: !human_time '00:11:41.800'
+- end: !human_time '00:11:46.527'
+  lines:
+  - "-rymmer tyv\xE4rr bara tv\xE5 passagerare."
+  start: !human_time '00:11:44.240'
+- end: !human_time '00:11:49.041'
+  lines:
+  - Visst.
+  start: !human_time '00:11:47.960'
+- end: !human_time '00:11:50.286'
+  lines:
+  - "F\xF6rl\xE5t."
+  start: !human_time '00:11:49.160'
+- end: !human_time '00:11:54.047'
+  lines:
+  - Tror du vi kommer att bli
+  - "bortr\xF6vade av n\xE5gra banditer?"
+  start: !human_time '00:11:50.440'
+- end: !human_time '00:13:06.768'
+  lines:
+  - Martin,
+  - "skynda dig med v\xE4skorna."
+  start: !human_time '00:13:04.640'
+- end: !human_time '00:13:08.968'
+  lines:
+  - "Gud, se p\xE5 dem."
+  start: !human_time '00:13:06.840'
+- end: !human_time '00:13:13.163'
+  lines:
+  - "Hallelujah. \xC5h!"
+  start: !human_time '00:13:10.080'
+- end: !human_time '00:13:20.488'
+  lines:
+  - "Tror du att det \xE4r <i>deras</i> ansikten?"
+  - ''
+  start: !human_time '00:13:17.120'
+- end: !human_time '00:13:26.330'
+  lines:
+  - "Till er, fr\xF6ken Charming, har vi v\xE5rt"
+  - "finaste Plantinaniv\xE5rum."
+  start: !human_time '00:13:22.120'
+- end: !human_time '00:13:31.561'
+  lines:
+  - "\xC5h!"
+  start: !human_time '00:13:30.400'
+- end: !human_time '00:13:37.367'
+  lines:
+  - "S\xE5 gammeldags!"
+  start: !human_time '00:13:35.160'
+- end: !human_time '00:13:40.726'
+  lines:
+  - "Fr\xF6ken Erstwhile."
+  - "F\xF6lj mig."
+  start: !human_time '00:13:38.280'
+- end: !human_time '00:13:47.689'
+  lines:
+  - "Det \xE4r j\xE4kla fantastiskt!"
+  start: !human_time '00:13:44.560'
+- end: !human_time '00:13:50.082'
+  lines:
+  - "<i>Var \xE4r du? Vi kan inte sega oss.</i>"
+  start: !human_time '00:13:47.920'
+- end: !human_time '00:13:56.527'
+  lines:
+  - "Du har f\xF6rst\xE5s ett av v\xE5ra finaste"
+  - "Kopparniv\xE5rum."
+  start: !human_time '00:13:53.000'
+- end: !human_time '00:14:02.884'
+  lines:
+  - "Vi \xE4ter middag vid 20.00."
+  start: !human_time '00:14:01.280'
+- end: !human_time '00:14:05.201'
+  lines:
+  - Jag tror du kan finna
+  - "v\xE4gen till salongen."
+  - ''
+  start: !human_time '00:14:02.960'
+- end: !human_time '00:14:07.886'
+  lines:
+  - Det skulle jag aldrig missa.
+  start: !human_time '00:14:05.440'
+- end: !human_time '00:14:38.771'
+  lines:
+  - Med mig? Ja, tack.
+  start: !human_time '00:14:36.120'
+- end: !human_time '00:14:46.161'
+  lines:
+  - Jane!
+  start: !human_time '00:14:45.000'
+- end: !human_time '00:14:51.408'
+  lines:
+  - Jane, kom hit!
+  - "Statyerna glor p\xE5 en!"
+  start: !human_time '00:14:46.800'
+- end: !human_time '00:15:03.771'
+  lines:
+  - "Titta. Det \xE4r en s\xE5n d\xE4r Darcy-kille."
+  start: !human_time '00:14:59.880'
+- end: !human_time '00:15:08.007'
+  lines:
+  - "F\xE5r jag presentera fr\xF6ken Elizabeth Charming."
+  start: !human_time '00:15:04.480'
+- end: !human_time '00:15:10.481'
+  lines:
+  - "Arvtagerska till den stora Charming-f\xF6rm\xF6genheten."
+  start: !human_time '00:15:08.160'
+- end: !human_time '00:15:14.008'
+  lines:
+  - "Trevligt att tr\xE4ffas."
+  start: !human_time '00:15:10.640'
+- end: !human_time '00:15:17.048'
+  lines:
+  - "Och fr\xF6ken Jane Erstwhile."
+  start: !human_time '00:15:15.080'
+- end: !human_time '00:15:20.090'
+  lines:
+  - "En f\xF6r\xE4ldral\xF6s utan n\xE5n f\xF6rm\xF6genhet,"
+  - som vi tagit in-
+  - ''
+  start: !human_time '00:15:17.200'
+- end: !human_time '00:15:22.049'
+  lines:
+  - "-ty vi har s\xE5dana goda hj\xE4rtan."
+  - ''
+  start: !human_time '00:15:20.160'
+- end: !human_time '00:15:26.800'
+  lines:
+  - "\xD6verste Andrews, den andre sonen"
+  - till greven av Denton.
+  start: !human_time '00:15:23.000'
+- end: !human_time '00:15:30.884'
+  lines:
+  - Jag har aldrig tidigare sett
+  - "en s\xE5dan sk\xF6nhet..."
+  - ''
+  start: !human_time '00:15:27.880'
+- end: !human_time '00:15:34.690'
+  lines:
+  - '...och klass.'
+  start: !human_time '00:15:33.200'
+- end: !human_time '00:15:38.730'
+  lines:
+  - "Verkligen ett n\xF6jsamt n\xF6je."
+  - ''
+  start: !human_time '00:15:35.840'
+- end: !human_time '00:15:42.684'
+  lines:
+  - "Och min k\xE4re brorsson,"
+  - Henry Nobley.
+  - ''
+  start: !human_time '00:15:39.840'
+- end: !human_time '00:15:47.131'
+  lines:
+  - Bra.
+  - "Det \xE4r en till vardera."
+  start: !human_time '00:15:44.480'
+- end: !human_time '00:15:54.006'
+  lines:
+  - "V\xE5r hedersamma g\xE4st, lady Amelia Heartwright."
+  - ''
+  start: !human_time '00:15:48.920'
+- end: !human_time '00:15:58.087'
+  lines:
+  - <i>Vad i hela?</i>
+  start: !human_time '00:15:55.880'
+- end: !human_time '00:16:04.931'
+  lines:
+  - "Jag har varit s\xE5 ensam h\xE4r utan andra"
+  - "unga kvinnor som kan underh\xE5lla mig."
+  start: !human_time '00:15:59.800'
+- end: !human_time '00:16:08.050'
+  lines:
+  - "Hela dagen, ensam med de h\xE4r m\xE4nnnen."
+  start: !human_time '00:16:05.160'
+- end: !human_time '00:16:11.687'
+  lines:
+  - "Och det d\xE4r \xE4r min make."
+  start: !human_time '00:16:09.400'
+- end: !human_time '00:16:14.962'
+  lines:
+  - "Sl\xE5 er ned."
+  start: !human_time '00:16:12.880'
+- end: !human_time '00:16:21.126'
+  lines:
+  - Jag hoppas att det inte skall regna imorgon.
+  - ''
+  start: !human_time '00:16:18.520'
+- end: !human_time '00:16:25.564'
+  lines:
+  - "Det skulle vara s\xE5 h\xE4rligt att ta en tur"
+  - "i tr\xE4dg\xE5rden."
+  - ''
+  start: !human_time '00:16:21.240'
+- end: !human_time '00:16:30.810'
+  lines:
+  - "Jag skulle g\xE4rna vilja att ni-"
+  - ''
+  start: !human_time '00:16:27.840'
+- end: !human_time '00:16:35.289'
+  lines:
+  - "-tar en tur med <i>mig</i> i tr\xE4dg\xE5rden."
+  start: !human_time '00:16:31.000'
+- end: !human_time '00:16:36.806'
+  lines:
+  - "Urs\xE4kta mig?"
+  start: !human_time '00:16:35.600'
+- end: !human_time '00:16:40.209'
+  lines:
+  - "Jag tror att fr\xF6ken Charming vill"
+  - "s\xE4ga att hon \xE4lskar naturen."
+  - ''
+  start: !human_time '00:16:37.000'
+- end: !human_time '00:16:41.367'
+  lines:
+  - Visst.
+  start: !human_time '00:16:40.400'
+- end: !human_time '00:16:42.521'
+  lines:
+  - Tur.
+  start: !human_time '00:16:41.440'
+- end: !human_time '00:16:46.240'
+  lines:
+  - "Kan ni se n\xE5got i \xF6gat?"
+  start: !human_time '00:16:43.760'
+- end: !human_time '00:16:49.922'
+  lines:
+  - "Jag kan tyv\xE4rr inte se i det h\xE4r"
+  - svaga ljuset.
+  - ''
+  start: !human_time '00:16:46.440'
+- end: !human_time '00:16:55.447'
+  lines:
+  - "\xC5h, Herr Nobley."
+  start: !human_time '00:16:51.920'
+- end: !human_time '00:16:58.286'
+  lines:
+  - "Ni \xE4r verkligen en snygg snubbe."
+  start: !human_time '00:16:55.680'
+- end: !human_time '00:17:02.525'
+  lines:
+  - "Det verkar som det \xE4r mitt uppdrag"
+  - "att blicka in i era \xF6gon."
+  start: !human_time '00:16:58.440'
+- end: !human_time '00:17:04.802'
+  lines:
+  - "Jag \xE4r milit\xE4r, jag \xF6verger"
+  - aldrig min plikt.
+  - ''
+  start: !human_time '00:17:02.720'
+- end: !human_time '00:17:07.208'
+  lines:
+  - "L\xE5t mig, fr\xF6ken Charming."
+  start: !human_time '00:17:05.080'
+- end: !human_time '00:17:13.007'
+  lines:
+  - "Ja. Ja, det \xE4r n\xE5t d\xE4r. Eld."
+  - ''
+  start: !human_time '00:17:09.480'
+- end: !human_time '00:17:17.525'
+  lines:
+  - "Jag m\xE5 s\xE4ga, fr\xF6ken Charming, att"
+  - du verkligen lever upp till ert namn.
+  start: !human_time '00:17:13.440'
+- end: !human_time '00:17:20.804'
+  lines:
+  - "Buss p\xE5!"
+  - ''
+  start: !human_time '00:17:19.120'
+- end: !human_time '00:17:24.611'
+  lines:
+  - Jag hoppas innerligen att ni skall
+  - njuta av maten.
+  start: !human_time '00:17:21.960'
+- end: !human_time '00:17:33.130'
+  lines:
+  - Har ni tappat aptiten, herr Nobley?
+  - ''
+  start: !human_time '00:17:31.560'
+- end: !human_time '00:17:34.850'
+  lines:
+  - Aningen.
+  start: !human_time '00:17:33.280'
+- end: !human_time '00:17:37.123'
+  lines:
+  - "N\xE5t som bekymrar er?"
+  start: !human_time '00:17:35.280'
+- end: !human_time '00:17:39.647'
+  lines:
+  - Inget alls, tack.
+  - ''
+  start: !human_time '00:17:37.280'
+- end: !human_time '00:17:42.684'
+  lines:
+  - "Prudence, h\xE4mta lite mer av p\xE5f\xE5gelpat\xE9n."
+  - ''
+  start: !human_time '00:17:39.760'
+- end: !human_time '00:17:50.330'
+  lines:
+  - "Jag kan inte f\xF6rst\xE5 att jag \xE4r h\xE4r."
+  - ''
+  start: !human_time '00:17:48.840'
+- end: !human_time '00:17:53.811'
+  lines:
+  - -Jane.
+  - -Ja?
+  start: !human_time '00:17:52.400'
+- end: !human_time '00:17:56.929'
+  lines:
+  - "Kanske du ska f\xF6rs\xF6ka med ett samtal?"
+  start: !human_time '00:17:53.880'
+- end: !human_time '00:18:01.767'
+  lines:
+  - "Herr Nobley, de h\xE5ller visst en bal h\xE4r"
+  - "den sista kv\xE4llen."
+  start: !human_time '00:17:58.320'
+- end: !human_time '00:18:02.966'
+  lines:
+  - Tycker ni om att dansa?
+  start: !human_time '00:18:01.840'
+- end: !human_time '00:18:04.161'
+  lines:
+  - "Inte s\xE4rskilt."
+  start: !human_time '00:18:03.080'
+- end: !human_time '00:18:06.847'
+  lines:
+  - "Skandal\xF6st."
+  - ''
+  start: !human_time '00:18:04.560'
+- end: !human_time '00:18:11.164'
+  lines:
+  - Jag tror allt att du har dansat med
+  - "flera damer p\xE5 balerna."
+  start: !human_time '00:18:07.000'
+- end: !human_time '00:18:14.126'
+  lines:
+  - "<i>Jag tycker att uppf\xF6randet g\xF6r mannen.</i>"
+  - ''
+  start: !human_time '00:18:11.680'
+- end: !human_time '00:18:16.965'
+  lines:
+  - "Jag ser fram emot att f\xE5 en dans med er."
+  start: !human_time '00:18:14.200'
+- end: !human_time '00:18:20.607'
+  lines:
+  - "-Men att dansa \xE4r k\xE4nnem\xE4rket..."
+  - -Verkligen?
+  start: !human_time '00:18:17.080'
+- end: !human_time '00:18:22.802'
+  lines:
+  - "...f\xF6r en <i>gentilhomme d'honneur.</i>"
+  start: !human_time '00:18:20.720'
+- end: !human_time '00:18:24.968'
+  lines:
+  - "Skicka f\xE5r\xF6gonen, tack."
+  - ''
+  start: !human_time '00:18:22.920'
+- end: !human_time '00:18:28.602'
+  lines:
+  - "Att dansa \xE4r ett anpassat"
+  - "sammanf\xF6rande av m\xE4nniskor."
+  start: !human_time '00:18:25.200'
+- end: !human_time '00:18:29.727'
+  lines:
+  - "\xC5h, ja."
+  start: !human_time '00:18:28.680'
+- end: !human_time '00:18:32.201'
+  lines:
+  - "D\xE4remot misslyckas det"
+  - "om b\xE5da parterna inte-"
+  - ''
+  start: !human_time '00:18:29.800'
+- end: !human_time '00:18:34.641'
+  lines:
+  - "-\xE4r lika f\xF6rtjusta i varandra."
+  - ''
+  start: !human_time '00:18:32.320'
+- end: !human_time '00:18:37.411'
+  lines:
+  - "Det kan man s\xE4ga om vilket"
+  - "socialt samr\xF6re som helst."
+  start: !human_time '00:18:34.840'
+- end: !human_time '00:18:38.885'
+  lines:
+  - "Samr\xF6re?"
+  start: !human_time '00:18:37.520'
+- end: !human_time '00:18:42.524'
+  lines:
+  - "Som att tala med n\xE5gon eller"
+  - "\xE4ta tillsammans."
+  - ''
+  start: !human_time '00:18:39.520'
+- end: !human_time '00:18:47.049'
+  lines:
+  - "Samh\xE4llet kr\xE4ver att vi skall deltaga i"
+  - "socialt samr\xF6re f\xF6r att verka h\xF6vliga."
+  - ''
+  start: !human_time '00:18:42.680'
+- end: !human_time '00:18:52.525'
+  lines:
+  - "I de flesta fall \xE4r s\xE5dana"
+  - "handlingar verkligen fr\xE5nst\xF6tande."
+  - ''
+  start: !human_time '00:18:47.200'
+- end: !human_time '00:18:54.728'
+  lines:
+  - "Jag \xE4lskar verkligen att samtala."
+  - ''
+  start: !human_time '00:18:52.760'
+- end: !human_time '00:18:58.484'
+  lines:
+  - Tror ni verkligen, herr Nobley,
+  - ''
+  start: !human_time '00:18:56.800'
+- end: !human_time '00:19:01.484'
+  lines:
+  - "-att ni kan veta en persons v\xE4rde"
+  - "vid f\xF6rsta \xF6gonblick?"
+  - ''
+  start: !human_time '00:18:58.560'
+- end: !human_time '00:19:06.166'
+  lines:
+  - "Menar ni att ni inte vid de f\xF6rsta sekundrarna"
+  - "d\xE5 ni m\xF6tte personerna i det h\xE4r rummet-"
+  start: !human_time '00:19:01.760'
+- end: !human_time '00:19:10.086'
+  lines:
+  - -skapade ett intryck om deras personligheter?
+  - ''
+  start: !human_time '00:19:06.400'
+- end: !human_time '00:19:15.651'
+  lines:
+  - Det skulle vara synd om mitt intryck av er
+  - visar sig vara sann.
+  start: !human_time '00:19:11.680'
+- end: !human_time '00:19:19.925'
+  lines:
+  - "Fr\xF6ken Erstwhile, jag \xE4r dock glad"
+  - "att ni \xE4r h\xE4r."
+  start: !human_time '00:19:16.000'
+- end: !human_time '00:19:24.728'
+  lines:
+  - "En annan kvinna som ocks\xE5 f\xF6rst\xE5r"
+  - "k\xE4rlekens sv\xE5ra v\xE4g."
+  start: !human_time '00:19:20.120'
+- end: !human_time '00:19:29.684'
+  lines:
+  - "Fru Wattlesbrook ber\xE4ttade om er"
+  - tragiska historia.
+  start: !human_time '00:19:25.520'
+- end: !human_time '00:19:31.926'
+  lines:
+  - Vad?
+  - ''
+  start: !human_time '00:19:30.800'
+- end: !human_time '00:19:34.407'
+  lines:
+  - "Jag f\xF6rs\xF6ker l\xE4ra mig en del om mina kunder-"
+  - ''
+  start: !human_time '00:19:32.040'
+- end: !human_time '00:19:36.841'
+  lines:
+  - "-s\xE5 att jag kan f\xF6rbereda deras vistelse"
+  - "\xE4nnu b\xE4ttre."
+  - ''
+  start: !human_time '00:19:34.520'
+- end: !human_time '00:19:42.686'
+  lines:
+  - "Ni har haft ett sv\xE5rt k\xE4rleksliv, eller hur?"
+  start: !human_time '00:19:37.600'
+- end: !human_time '00:19:45.489'
+  lines:
+  - Verkligen.
+  start: !human_time '00:19:43.600'
+- end: !human_time '00:19:50.562'
+  lines:
+  - "Vid er \xE5lder,"
+  - ingen make, ingen avkomma.
+  - ''
+  start: !human_time '00:19:46.000'
+- end: !human_time '00:19:53.561'
+  lines:
+  - Jag beklagar.
+  start: !human_time '00:19:52.560'
+- end: !human_time '00:19:56.723'
+  lines:
+  - Biologiska klockan tickar.
+  - ''
+  start: !human_time '00:19:53.640'
+- end: !human_time '00:19:58.930'
+  lines:
+  - "S\xE5 oturligt."
+  start: !human_time '00:19:57.440'
+- end: !human_time '00:20:02.650'
+  lines:
+  - "Urs\xE4kta mig."
+  start: !human_time '00:20:01.160'
+- end: !human_time '00:20:04.330'
+  lines:
+  - God anka.
+  start: !human_time '00:20:02.840'
+- end: !human_time '00:20:11.249'
+  lines:
+  - Jane. Jane! Jane.
+  - "\xC5h, jag \xE4r s\xE5 ledsen."
+  start: !human_time '00:20:06.800'
+- end: !human_time '00:20:15.002'
+  lines:
+  - "Jag vet hur det k\xE4nns att bli"
+  - "behandlad av dumma m\xE4n."
+  - ''
+  start: !human_time '00:20:11.520'
+- end: !human_time '00:20:16.565'
+  lines:
+  - Det vet jag verkligen.
+  start: !human_time '00:20:15.200'
+- end: !human_time '00:20:18.569'
+  lines:
+  - Jane, kom igen.
+  - "Jag f\xE5r en kram."
+  start: !human_time '00:20:16.680'
+- end: !human_time '00:20:22.731'
+  lines:
+  - "Det kommer iallafall inte h\xE4nda h\xE4r."
+  start: !human_time '00:20:20.080'
+- end: !human_time '00:20:25.321'
+  lines:
+  - "Och du kommer att k\xE4nna dig helt annorlunda imorgon."
+  start: !human_time '00:20:23.080'
+- end: !human_time '00:20:28.845'
+  lines:
+  - "T\xE4nk p\xE5 alla som tar livet av sig."
+  start: !human_time '00:20:26.080'
+- end: !human_time '00:20:32.566'
+  lines:
+  - "Men n\xE4sta dag k\xE4nner de annorlunda,"
+  - ''
+  start: !human_time '00:20:30.040'
+- end: !human_time '00:20:35.251'
+  lines:
+  - "och f\xF6r dem finns det ingen \xE5terv\xE4ndo."
+  - ''
+  start: !human_time '00:20:32.680'
+- end: !human_time '00:20:37.727'
+  lines:
+  - Ta inte livet av dig, Jane.
+  start: !human_time '00:20:35.520'
+- end: !human_time '00:20:42.171'
+  lines:
+  - "Om du beh\xF6ver n\xE5got s\xE5 ropa bara p\xE5 mig."
+  - "Jag \xE4r nedf\xF6r hallen."
+  - ''
+  start: !human_time '00:20:38.200'
+- end: !human_time '00:20:45.762'
+  lines:
+  - "Egentligen, inte riktig nedf\xF6r hallen,"
+  start: !human_time '00:20:42.440'
+- end: !human_time '00:20:50.326'
+  lines:
+  - "du bor i tj\xE4narvingen."
+  - "Du bor i det l\xE4skiga tornet."
+  - ''
+  start: !human_time '00:20:46.480'
+- end: !human_time '00:20:54.967'
+  lines:
+  - "Ibland t\xE4nker jag p\xE5 dig"
+  - sovandes mitt i natten.
+  - ''
+  start: !human_time '00:20:51.520'
+- end: !human_time '00:20:57.969'
+  lines:
+  - "M\xE5ste vara v\xE4ldigt l\xE4skigt."
+  start: !human_time '00:20:56.160'
+- end: !human_time '00:21:00.524'
+  lines:
+  - "-Det \xE4r okej."
+  - -Iallafall.
+  start: !human_time '00:20:58.760'
+- end: !human_time '00:21:03.966'
+  lines:
+  - "Jane, tj\xE4naren sade att..."
+  - ''
+  start: !human_time '00:21:01.520'
+- end: !human_time '00:21:07.607'
+  lines:
+  - "man inte ska anv\xE4nda pottorna."
+  - ''
+  start: !human_time '00:21:04.080'
+- end: !human_time '00:21:11.688'
+  lines:
+  - "Toaletterna fungerar h\xE4r,"
+  start: !human_time '00:21:08.320'
+- end: !human_time '00:21:16.120'
+  lines:
+  - "och de vet inte vad de ska g\xF6ra"
+  - "om pottan anv\xE4nds."
+  start: !human_time '00:21:12.320'
+- end: !human_time '00:21:19.046'
+  lines:
+  - Visst.
+  start: !human_time '00:21:17.920'
+- end: !human_time '00:21:26.922'
+  lines:
+  - "Han tj\xE4nade sin f\xF6rm\xF6genhet-"
+  start: !human_time '00:21:24.920'
+- end: !human_time '00:21:29.042'
+  lines:
+  - "-genom att s\xE4lja br\xE4nd kalk p\xE5 kontinenten."
+  start: !human_time '00:21:27.040'
+- end: !human_time '00:21:32.920'
+  lines:
+  - "Du kan aldrig vara tillr\xE4ckligt rentv\xE5dd,"
+  - som min farfar sade.
+  start: !human_time '00:21:29.120'
+- end: !human_time '00:21:36.451'
+  lines:
+  - Sedan fick han dysentri och dog.
+  start: !human_time '00:21:33.800'
+- end: !human_time '00:21:38.404'
+  lines:
+  - ''
+  start: !human_time '00:21:36.800'
+- end: !human_time '00:21:42.450'
+  lines:
+  - God morgon, sir.
+  - "Det \xE4r ja'."
+  start: !human_time '00:21:39.560'
+- end: !human_time '00:21:44.964'
+  lines:
+  - Skall vi promenera?
+  start: !human_time '00:21:43.200'
+- end: !human_time '00:21:52.121'
+  lines: []
+  start: !human_time '00:21:48.480'
+- end: !human_time '00:21:54.084'
+  lines:
+  - Ja, skynda.
+  start: !human_time '00:21:52.480'
+- end: !human_time '00:21:57.810'
+  lines:
+  - "Jag tror jag ska g\xE5 till n\xE5n skugga."
+  - ''
+  start: !human_time '00:21:54.920'
+- end: !human_time '00:22:01.244'
+  lines:
+  - "Verkligen? S\xE5 underligt."
+  - ''
+  start: !human_time '00:21:58.400'
+- end: !human_time '00:22:03.120'
+  lines:
+  - "Hon har varit f\xF6r mycket i solen."
+  - Kom, sir.
+  start: !human_time '00:22:01.880'
+- end: !human_time '00:22:09.169'
+  lines:
+  - "<i>Jagarutlykten skall b\xF6rja-</i>"
+  start: !human_time '00:22:07.280'
+- end: !human_time '00:22:11.049'
+  lines:
+  - <i>-vid sadelplatsen i stallet-</i>
+  start: !human_time '00:22:09.240'
+- end: !human_time '00:22:13.703'
+  lines:
+  - "<i>-d\xE4r skall ni f\xE5 ett l\xE4mpligt riddjur.</i>"
+  start: !human_time '00:22:11.200'
+- end: !human_time '00:22:17.200'
+  lines:
+  - "Urs\xE4kta."
+  start: !human_time '00:22:15.960'
+- end: !human_time '00:22:20.686'
+  lines:
+  - "-Urs\xE4kta."
+  - -Jag spionerar inte.
+  start: !human_time '00:22:17.680'
+- end: !human_time '00:22:23.604'
+  lines:
+  - "Jag \xE4r r\xE4dd att ni f\xE5tt se"
+  - mig i en okvinnlig stund.
+  - ''
+  start: !human_time '00:22:20.760'
+- end: !human_time '00:22:27.003'
+  lines:
+  - "Fru Wattlesbrook kommer s\xE4kert att"
+  - "piska mina knogar eller n\xE5t."
+  - ''
+  start: !human_time '00:22:23.840'
+- end: !human_time '00:22:28.924'
+  lines:
+  - Inte sant.
+  start: !human_time '00:22:27.160'
+- end: !human_time '00:22:33.210'
+  lines:
+  - "\xC4r ni ifr\xE5n de forna kolonierna?"
+  - ''
+  start: !human_time '00:22:29.080'
+- end: !human_time '00:22:39.409'
+  lines:
+  - "Urs\xE4kta, s\xE5 d\xE5ligt. Jag \xE4r inte h\xE4r f\xF6r att"
+  - "l\xE5tsas som att det \xE4r 1800-tal."
+  start: !human_time '00:22:35.120'
+- end: !human_time '00:22:44.801'
+  lines:
+  - "Jag ska nog inte prata med tj\xE4narna"
+  - "\xE4nd\xE5."
+  start: !human_time '00:22:41.240'
+- end: !human_time '00:22:49.968'
+  lines:
+  - Jag trodde att jag skulle komma hit och
+  - "\xE4ga ut allt, men jag vet inte."
+  - ''
+  start: !human_time '00:22:45.280'
+- end: !human_time '00:22:52.248'
+  lines:
+  - "Ja. Du beh\xF6ver kanske en tr\xE4nare?"
+  start: !human_time '00:22:50.120'
+- end: !human_time '00:22:56.443'
+  lines:
+  - "Det \xE4r verkligen inte meningen"
+  - att jag ska prata med dig.
+  - ''
+  start: !human_time '00:22:53.280'
+- end: !human_time '00:22:59.245'
+  lines:
+  - "och \xE4nd\xE5,"
+  start: !human_time '00:22:57.720'
+- end: !human_time '00:23:02.404'
+  lines:
+  - "st\xE5r du h\xE4r."
+  start: !human_time '00:23:00.800'
+- end: !human_time '00:23:06.090'
+  lines:
+  - "Det \xE4r... Jag m\xE5ste..."
+  start: !human_time '00:23:04.520'
+- end: !human_time '00:23:10.008'
+  lines:
+  - "Var \xE4r du?"
+  - "Fr\xF6ken Erstwhile, d\xE4r \xE4r du."
+  start: !human_time '00:23:06.200'
+- end: !human_time '00:23:11.804'
+  lines:
+  - Jag sade precis till Nobley att-
+  - ''
+  start: !human_time '00:23:10.120'
+- end: !human_time '00:23:14.368'
+  lines:
+  - "-v\xE5r underbara fr\xF6ken Erstwhile"
+  - "m\xE5ste ha flytt fr\xE5n oss."
+  start: !human_time '00:23:12.240'
+- end: !human_time '00:23:15.845'
+  lines:
+  - "Kanske vi kan finna henne n\xE5gonstans..."
+  - ''
+  start: !human_time '00:23:14.480'
+- end: !human_time '00:23:19.806'
+  lines:
+  - "Jag var varm s\xE5 jag var h\xE4r,"
+  - sen satt jag mig ned...
+  start: !human_time '00:23:15.960'
+- end: !human_time '00:23:23.641'
+  lines:
+  - "M\xE5 s\xE4ga, fr\xF6ken Erstwhile,"
+  - "du har nog f\xE5tt tungh\xE4fta."
+  start: !human_time '00:23:20.000'
+- end: !human_time '00:23:26.405'
+  lines:
+  - "Vilka smutsiga hemligheter h\xE5ller du fr\xE5n oss?"
+  - ''
+  start: !human_time '00:23:23.720'
+- end: !human_time '00:23:28.170'
+  lines:
+  - Nej, inga hemligheter.
+  - "Ber\xE4tta f\xF6r mig."
+  start: !human_time '00:23:26.600'
+- end: !human_time '00:23:29.407'
+  lines:
+  - "Jag m\xE5ste bara veta."
+  - Andrews!
+  start: !human_time '00:23:28.360'
+- end: !human_time '00:23:33.326'
+  lines:
+  - "Ser ni inte att hon m\xE5r d\xE5ligt?"
+  - ''
+  start: !human_time '00:23:32.120'
+- end: !human_time '00:23:34.686'
+  lines:
+  - "Nej, jag m\xE5r bra."
+  - Tack...
+  start: !human_time '00:23:33.480'
+- end: !human_time '00:23:37.002'
+  lines:
+  - "M\xE5r d\xE5ligt? Kanske ni har skabb?"
+  - ''
+  start: !human_time '00:23:34.840'
+- end: !human_time '00:23:38.770'
+  lines:
+  - Iallafall,
+  - "ta en glaskupa p\xE5 magen."
+  start: !human_time '00:23:37.120'
+- end: !human_time '00:23:40.530'
+  lines:
+  - Det tar bort alla illvilliga andar.
+  start: !human_time '00:23:38.880'
+- end: !human_time '00:23:42.608'
+  lines:
+  - "-Och iglar p\xE5 vristerna..."
+  - "-Andrews, h\xE5ll tyst."
+  start: !human_time '00:23:40.640'
+- end: !human_time '00:23:43.961'
+  lines:
+  - Vad?
+  start: !human_time '00:23:42.960'
+- end: !human_time '00:23:49.920'
+  lines:
+  - Damer och herrar,
+  - "f\xE5r jag er uppm\xE4rksamhet."
+  - ''
+  start: !human_time '00:23:46.120'
+- end: !human_time '00:23:51.969'
+  lines:
+  - "Jag har precis f\xE5tt schemat-"
+  - ''
+  start: !human_time '00:23:50.160'
+- end: !human_time '00:23:55.004'
+  lines:
+  - "-och det st\xE5r att vi ska jaga till h\xE4st."
+  - ''
+  start: !human_time '00:23:52.080'
+- end: !human_time '00:23:59.530'
+  lines:
+  - Kan ni tro det?
+  - "Riktiga h\xE4star och riktiga gev\xE4r!"
+  - ''
+  start: !human_time '00:23:55.320'
+- end: !human_time '00:24:01.685'
+  lines:
+  - "Sl\xE4pp l\xF6s hundarna!"
+  - ''
+  start: !human_time '00:24:00.320'
+- end: !human_time '00:24:04.570'
+  lines:
+  - "Buss p\xE5."
+  - Ut och jaga' ska vi allt.
+  start: !human_time '00:24:01.760'
+- end: !human_time '00:24:07.611'
+  lines:
+  - "Britterna \xE4r h\xE4r!"
+  - "Britterna \xE4r h\xE4r!"
+  start: !human_time '00:24:04.880'
+- end: !human_time '00:24:09.569'
+  lines:
+  - "-Skall vi g\xE5?"
+  - -Ska vi?
+  start: !human_time '00:24:07.840'
+- end: !human_time '00:24:13.805'
+  lines:
+  - "H\xF6rru, stallpojken."
+  - "Du \xE4r f\xF6r l\xE5ngsam! Kom igen!"
+  start: !human_time '00:24:09.720'
+- end: !human_time '00:24:22.041'
+  lines:
+  - Jag har aldrig skjutit med ett
+  - "jaktgev\xE4r f\xF6rr."
+  - ''
+  start: !human_time '00:24:19.640'
+- end: !human_time '00:24:25.404'
+  lines:
+  - "Hela grejen med gev\xE4ret, \xE4lskling,"
+  - "\xE4r att du m\xE5ste knycka det."
+  start: !human_time '00:24:22.480'
+- end: !human_time '00:24:27.642'
+  lines:
+  - "H\xE5ll tunnan."
+  start: !human_time '00:24:25.480'
+- end: !human_time '00:24:30.810'
+  lines:
+  - "Och avtryck sedan f\xF6rsiktigt."
+  start: !human_time '00:24:28.000'
+- end: !human_time '00:24:33.650'
+  lines:
+  - "Har ni skjutit med ett laddat vapen f\xF6rr?"
+  - ''
+  start: !human_time '00:24:32.080'
+- end: !human_time '00:24:36.889'
+  lines:
+  - Faktiskt tror jag att ni kommer
+  - att vara imponerade av min...
+  start: !human_time '00:24:33.760'
+- end: !human_time '00:24:38.166'
+  lines:
+  - -knyck.
+  - -...skicklighet.
+  start: !human_time '00:24:37.040'
+- end: !human_time '00:24:40.049'
+  lines:
+  - -Det kommer jag.
+  - '- Aj!'
+  start: !human_time '00:24:38.240'
+- end: !human_time '00:24:42.045'
+  lines:
+  - "Lite n\xE4rmare bara."
+  - ''
+  start: !human_time '00:24:40.520'
+- end: !human_time '00:24:43.650'
+  lines:
+  - "Jag tror jag f\xF6rst\xE5r grunderna."
+  - ''
+  start: !human_time '00:24:42.160'
+- end: !human_time '00:24:47.721'
+  lines:
+  - Klara, damer?
+  - ''
+  start: !human_time '00:24:46.560'
+- end: !human_time '00:24:52.925'
+  lines:
+  - Ladda. Och var beredd.
+  start: !human_time '00:24:49.000'
+- end: !human_time '00:24:54.407'
+  lines:
+  - Och, tryck!
+  start: !human_time '00:24:53.360'
+- end: !human_time '00:25:00.721'
+  lines:
+  - "Fluga i \xF6gat."
+  start: !human_time '00:24:58.480'
+- end: !human_time '00:25:14.922'
+  lines:
+  - "fr\xF6ken Erstwhile."
+  - "Vilken beg\xE5vad n\xF6t ni \xE4r."
+  start: !human_time '00:25:10.360'
+- end: !human_time '00:25:16.081'
+  lines:
+  - Ja.
+  start: !human_time '00:25:15.080'
+- end: !human_time '00:25:18.487'
+  lines:
+  - "Jag tror jag f\xF6rst\xE5r grunderna."
+  - ''
+  start: !human_time '00:25:16.200'
+- end: !human_time '00:25:21.491'
+  lines:
+  - "Jag trodde inte vi skulle d\xF6da dem."
+  start: !human_time '00:25:18.760'
+- end: !human_time '00:25:23.443'
+  lines:
+  - Vad blir det till middag?
+  - ''
+  start: !human_time '00:25:21.600'
+- end: !human_time '00:25:27.284'
+  lines:
+  - "Vilka r\xF6star p\xE5 fasan? Jag."
+  start: !human_time '00:25:24.440'
+- end: !human_time '00:25:33.931'
+  lines:
+  - "S\xE5klart \xE4r alla de h\xE4r h\xE4starna renrasiga."
+  start: !human_time '00:25:31.360'
+- end: !human_time '00:25:39.043'
+  lines:
+  - "De \xE4r ifr\xE5n den lokala hingsten."
+  - "Jag \xE4r f\xF6r upptagen, f\xF6rst\xE5r ni."
+  - ''
+  start: !human_time '00:25:34.560'
+- end: !human_time '00:25:42.081'
+  lines:
+  - "Det \xE4r n\xE5t fel med h\xE4sten."
+  start: !human_time '00:25:39.760'
+- end: !human_time '00:25:44.846'
+  lines:
+  - Skitiga Kopparpaketet.
+  start: !human_time '00:25:42.400'
+- end: !human_time '00:25:50.408'
+  lines:
+  - "Lite f\xF6r sp\xE4nd. Jag m\xE5ste ge dig en"
+  - "massage ikv\xE4ll."
+  - ''
+  start: !human_time '00:25:47.120'
+- end: !human_time '00:25:52.246'
+  lines:
+  - "Urs\xE4kta?"
+  start: !human_time '00:25:51.120'
+- end: !human_time '00:25:53.691'
+  lines:
+  - "H\xE4sten."
+  start: !human_time '00:25:52.360'
+- end: !human_time '00:25:55.131'
+  lines:
+  - "F\xF6rl\xE5t."
+  start: !human_time '00:25:53.800'
+- end: !human_time '00:26:00.130'
+  lines:
+  - "S\xE5d\xE4rja."
+  start: !human_time '00:25:58.480'
+- end: !human_time '00:26:02.241'
+  lines:
+  - Tack.
+  start: !human_time '00:26:01.240'
+- end: !human_time '00:26:05.324'
+  lines:
+  - "Jag kommer snart tillbaka med en ny h\xE4st."
+  - ''
+  start: !human_time '00:26:03.720'
+- end: !human_time '00:26:07.044'
+  lines:
+  - Visst.
+  start: !human_time '00:26:05.440'
+- end: !human_time '00:26:16.330'
+  lines:
+  - "<i>\u266A Somewhere there's"
+  - a book of me</i>
+  start: !human_time '00:26:13.360'
+- end: !human_time '00:26:20.371'
+  lines:
+  - "<i>\u266A Waiting for someone to read it</i>"
+  start: !human_time '00:26:17.720'
+- end: !human_time '00:26:23.843'
+  lines:
+  - "<i>\u266A And I really believe it</i>"
+  start: !human_time '00:26:22.000'
+- end: !human_time '00:26:27.801'
+  lines:
+  - "<i>\u266A Just wish that"
+  - I could see it</i>
+  start: !human_time '00:26:25.400'
+- end: !human_time '00:26:33.162'
+  lines:
+  - "<i>\u266A And I keep losing track"
+  - of where I'm meant to be</i>
+  start: !human_time '00:26:29.840'
+- end: !human_time '00:26:38.123'
+  lines:
+  - "<i>\u266A If you know it you would be there</i>"
+  start: !human_time '00:26:34.960'
+- end: !human_time '00:26:41.530'
+  lines:
+  - "<i>\u266A 'Cause I know"
+  - that you're a good man</i>
+  start: !human_time '00:26:38.720'
+- end: !human_time '00:26:44.887'
+  lines:
+  - "<i>\u266A But you like"
+  - "to keep that secret \u266A</i>"
+  start: !human_time '00:26:42.600'
+- end: !human_time '00:26:47.487'
+  lines:
+  - Hej.
+  start: !human_time '00:26:45.200'
+- end: !human_time '00:26:50.931'
+  lines:
+  - "\xD6vergav stallpojken er?"
+  - ''
+  start: !human_time '00:26:49.520'
+- end: !human_time '00:26:52.451'
+  lines:
+  - Nej, han kommer snart tillbaka.
+  start: !human_time '00:26:51.040'
+- end: !human_time '00:26:58.648'
+  lines:
+  - I min uppfostran ingick det inte att
+  - "l\xE4mna en kvinna ensam i skogen."
+  start: !human_time '00:26:55.360'
+- end: !human_time '00:27:01.207'
+  lines:
+  - "Jag \xE4r okej."
+  - ''
+  start: !human_time '00:26:58.920'
+- end: !human_time '00:27:03.689'
+  lines:
+  - ''
+  start: !human_time '00:27:01.880'
+- end: !human_time '00:27:04.961'
+  lines:
+  - "S\xE5 d\xE4r, kom igen."
+  - Hoppa upp.
+  start: !human_time '00:27:03.800'
+- end: !human_time '00:27:06.206'
+  lines:
+  - "B\xE5da p\xE5 samma h\xE4st?"
+  - ''
+  start: !human_time '00:27:05.080'
+- end: !human_time '00:27:09.011'
+  lines:
+  - Jag tror inte jag klarar av det...
+  - ''
+  start: !human_time '00:27:06.280'
+- end: !human_time '00:27:11.392'
+  lines:
+  - Redo?
+  - "Ett, tv\xE5, tre."
+  - ''
+  start: !human_time '00:27:09.080'
+- end: !human_time '00:27:11.995'
+  lines:
+  - ''
+  start: !human_time '00:27:11.418'
+- end: !human_time '00:27:15.530'
+  lines:
+  - ''
+  start: !human_time '00:27:14.040'
+- end: !human_time '00:27:18.930'
+  lines:
+  - "Vi kommer inte att springa fr\xE5n stormen"
+  - "om ni inte gr\xE4nslar."
+  - ''
+  start: !human_time '00:27:15.960'
+- end: !human_time '00:27:22.044'
+  lines:
+  - "Det \xE4r inte m\xF6jligt i den h\xE4r kl\xE4nningen."
+  start: !human_time '00:27:19.040'
+- end: !human_time '00:27:25.565'
+  lines:
+  - ''
+  start: !human_time '00:27:24.200'
+- end: !human_time '00:27:31.606'
+  lines:
+  - "Flytta fram\xE5t."
+  - ''
+  start: !human_time '00:27:27.760'
+- end: !human_time '00:27:33.806'
+  lines:
+  - Ta tyglarna.
+  start: !human_time '00:27:32.680'
+- end: !human_time '00:27:42.487'
+  lines:
+  - "Den som kan skjuta s\xE5 d\xE4r"
+  - "kan rida en h\xE4st."
+  - ''
+  start: !human_time '00:27:36.320'
+- end: !human_time '00:27:43.920'
+  lines:
+  - Kom igen.
+  start: !human_time '00:27:42.680'
+- end: !human_time '00:27:45.605'
+  lines:
+  - "H\xE5ller ni mig?"
+  - ''
+  start: !human_time '00:27:44.080'
+- end: !human_time '00:27:48.650'
+  lines:
+  - Jag har er bra, tack.
+  start: !human_time '00:27:45.760'
+- end: !human_time '00:28:01.687'
+  lines:
+  - Jane.
+  start: !human_time '00:28:00.640'
+- end: !human_time '00:28:07.801'
+  lines:
+  - Kom hit.
+  start: !human_time '00:28:06.800'
+- end: !human_time '00:28:08.967'
+  lines:
+  - "Det \xE4r lite sv\xE5rt..."
+  start: !human_time '00:28:07.920'
+- end: !human_time '00:28:11.606'
+  lines:
+  - Ert ben. Nej. Okej.
+  - ''
+  start: !human_time '00:28:09.080'
+- end: !human_time '00:28:13.686'
+  lines:
+  - Tack.
+  start: !human_time '00:28:12.560'
+- end: !human_time '00:28:15.006'
+  lines:
+  - Jane.
+  start: !human_time '00:28:13.800'
+- end: !human_time '00:28:18.170'
+  lines:
+  - "Varf\xF6r i sjutton l\xE4mnade"
+  - du henne ensam?
+  - ''
+  start: !human_time '00:28:15.280'
+- end: !human_time '00:28:20.126'
+  lines:
+  - "Urs\xE4kta, jag var p\xE5 v\xE4g."
+  start: !human_time '00:28:18.920'
+- end: !human_time '00:28:23.443'
+  lines:
+  - "Det \xE4r bra, herr Nobley."
+  start: !human_time '00:28:20.200'
+- end: !human_time '00:28:27.965'
+  lines:
+  - "D\xE4r \xE4r du ju, herr Nobley."
+  - Jag skulle precis efterlysa er.
+  start: !human_time '00:28:23.960'
+- end: !human_time '00:28:32.891'
+  lines:
+  - "Fr\xF6ken Erstwhile, vad har h\xE4nt er?"
+  start: !human_time '00:28:29.000'
+- end: !human_time '00:28:37.844'
+  lines:
+  - "Jag tror att jag ska pudra n\xE4san."
+  - ''
+  start: !human_time '00:28:33.520'
+- end: !human_time '00:28:45.482'
+  lines:
+  - <i>Alla skall samlas i salongen-</i>
+  start: !human_time '00:28:43.320'
+- end: !human_time '00:28:47.210'
+  lines:
+  - "<i>-d\xE4r vi skall f\xF6rdriva kv\xE4llen med kortspel.</i>"
+  start: !human_time '00:28:45.560'
+- end: !human_time '00:28:52.368'
+  lines:
+  - "<i>Hur vi delar upp er \xE4r beroende p\xE5"
+  - "f\xF6rm\xE5ga och paketniv\xE5.</i>"
+  start: !human_time '00:28:47.760'
+- end: !human_time '00:28:56.721'
+  lines:
+  - "Det \xE4r jag som b\xF6rjar nu, inte sant?"
+  - ''
+  start: !human_time '00:28:54.400'
+- end: !human_time '00:28:57.961'
+  lines:
+  - "Jag \xE4r s\xE5 glad."
+  start: !human_time '00:28:56.800'
+- end: !human_time '00:29:00.008'
+  lines:
+  - "Se om du kan sl\xE5 det."
+  - ''
+  start: !human_time '00:28:58.040'
+- end: !human_time '00:29:02.168'
+  lines:
+  - "D\xE4r \xE4r ett kort."
+  start: !human_time '00:29:00.200'
+- end: !human_time '00:29:07.848'
+  lines:
+  - En riktig dam kladdar inte
+  - "under kv\xE4llarna, fr\xF6ken Erstwhile."
+  start: !human_time '00:29:04.560'
+- end: !human_time '00:29:13.682'
+  lines:
+  - "Ni ser ut att m\xE5 bra, herr Nobley."
+  start: !human_time '00:29:11.600'
+- end: !human_time '00:29:15.569'
+  lines:
+  - "Regnet \xE5terfuktade dina"
+  - sinnen, inte sant?
+  start: !human_time '00:29:13.840'
+- end: !human_time '00:29:18.651'
+  lines:
+  - Knappast.
+  start: !human_time '00:29:17.320'
+- end: !human_time '00:29:23.727'
+  lines:
+  - "Vem beh\xF6ver naturen n\xE4r-"
+  start: !human_time '00:29:21.360'
+- end: !human_time '00:29:26.690'
+  lines:
+  - "-ni damer \xE4r rena regnskogen sj\xE4lva?"
+  - ''
+  start: !human_time '00:29:23.800'
+- end: !human_time '00:29:31.409'
+  lines:
+  - "\xD6verste, du \xE4r verkligen"
+  - "en n\xE4svis apa."
+  - ''
+  start: !human_time '00:29:28.200'
+- end: !human_time '00:29:36.922'
+  lines:
+  - "Fr\xF6ken Erstwhile, vad \xE4r det f\xF6r"
+  - jordig doft du har?
+  start: !human_time '00:29:32.360'
+- end: !human_time '00:29:38.530'
+  lines:
+  - "\xC4r det parfym?"
+  start: !human_time '00:29:37.040'
+- end: !human_time '00:29:40.608'
+  lines:
+  - "Jag har inte p\xE5 mig parfym."
+  start: !human_time '00:29:38.640'
+- end: !human_time '00:29:44.165'
+  lines:
+  - "Det m\xE5ste vara din kvinnliga doft."
+  start: !human_time '00:29:41.480'
+- end: !human_time '00:29:47.888'
+  lines:
+  - "\xD6verste. Oerh\xF6rt spelat."
+  - "Den s\xE5g jag inte."
+  start: !human_time '00:29:44.520'
+- end: !human_time '00:29:49.200'
+  lines:
+  - "Nej, det g\xF6r ingen."
+  start: !human_time '00:29:47.960'
+- end: !human_time '00:29:51.123'
+  lines:
+  - "Det \xE4r mitt hemliga steg"
+  - "jag l\xE4rt mig i Pakistan."
+  - ''
+  start: !human_time '00:29:49.280'
+- end: !human_time '00:29:54.045'
+  lines:
+  - Exotiskt!
+  start: !human_time '00:29:51.280'
+- end: !human_time '00:30:00.121'
+  lines:
+  - "Fr\xF6ken Charming, vilken vacker hy ni besitter."
+  start: !human_time '00:29:55.160'
+- end: !human_time '00:30:03.967'
+  lines:
+  - Vejkligen?
+  start: !human_time '00:30:01.600'
+- end: !human_time '00:30:08.483'
+  lines:
+  - "Det har jag eftersom jag l\xE4gger huvudet-"
+  start: !human_time '00:30:05.320'
+- end: !human_time '00:30:11.042'
+  lines:
+  - "-i elden p\xE5 natten."
+  - ''
+  - ''
+  start: !human_time '00:30:08.960'
+- end: !human_time '00:30:14.405'
+  lines:
+  - Verkligen?
+  start: !human_time '00:30:12.960'
+- end: !human_time '00:30:17.680'
+  lines:
+  - "Det \xE4r som en porslinstallrik."
+  - ''
+  start: !human_time '00:30:15.200'
+- end: !human_time '00:30:20.924'
+  lines:
+  - "Det \xE4r som att vara i en masugn."
+  start: !human_time '00:30:18.080'
+- end: !human_time '00:30:46.809'
+  lines:
+  - "<i>\u266A Wake up and"
+  - "suddenly you're in love \u266A</i>"
+  start: !human_time '00:30:41.120'
+- end: !human_time '00:30:58.604'
+  lines:
+  - "F\xF6rl\xE5t, det var inte meningen att st\xF6ra dig-"
+  start: !human_time '00:30:56.920'
+- end: !human_time '00:31:00.444'
+  lines:
+  - "-om du h\xE5ller p\xE5 med n\xE5got eller..."
+  start: !human_time '00:30:58.760'
+- end: !human_time '00:31:01.767'
+  lines:
+  - "\xC4r du lite vilsen?"
+  start: !human_time '00:31:00.720'
+- end: !human_time '00:31:02.967'
+  lines:
+  - Nej.
+  start: !human_time '00:31:01.920'
+- end: !human_time '00:31:05.885'
+  lines:
+  - "Jag gick omkring och h\xF6rde"
+  - "pl\xF6tsligt musik och..."
+  - ''
+  start: !human_time '00:31:03.120'
+- end: !human_time '00:31:09.408'
+  lines:
+  - Fort. Kom in innan Wattlesbrook
+  - "beslagtar den h\xE4r saken."
+  start: !human_time '00:31:06.120'
+- end: !human_time '00:31:13.445'
+  lines:
+  - "Hoppas att du inte \xE4r en spion."
+  start: !human_time '00:31:11.920'
+- end: !human_time '00:31:15.808'
+  lines:
+  - -Fru Wattlesbrook?
+  - -Ja.
+  start: !human_time '00:31:13.760'
+- end: !human_time '00:31:19.043'
+  lines:
+  - Hon tvingade mig att skriva under
+  - "p\xE5 ett halvt dussin uppf\xF6randeblanketer."
+  - ''
+  start: !human_time '00:31:15.960'
+- end: !human_time '00:31:20.486'
+  lines:
+  - Visst.
+  start: !human_time '00:31:19.200'
+- end: !human_time '00:31:23.643'
+  lines:
+  - "Fick lova att inte visa n\xE5gra"
+  - "moderna saker f\xF6r g\xE4sterna."
+  start: !human_time '00:31:20.560'
+- end: !human_time '00:31:25.125'
+  lines:
+  - Visst.
+  start: !human_time '00:31:23.760'
+- end: !human_time '00:31:27.889'
+  lines:
+  - "Det g\xE4ller dig med, fr\xF6ken Erstwhile."
+  start: !human_time '00:31:26.160'
+- end: !human_time '00:31:31.090'
+  lines:
+  - Jag spionerar inte.
+  - Jag lovar.
+  start: !human_time '00:31:28.120'
+- end: !human_time '00:31:35.410'
+  lines:
+  - "Du beh\xF6ver inte kalla mig"
+  - "fr\xF6ken Erstwhile. Jag heter Jane."
+  start: !human_time '00:31:31.360'
+- end: !human_time '00:31:38.045'
+  lines:
+  - Martin.
+  start: !human_time '00:31:36.520'
+- end: !human_time '00:31:42.483'
+  lines:
+  - "F\xF6rl\xE5t f\xF6r i eftermiddags."
+  start: !human_time '00:31:40.640'
+- end: !human_time '00:31:45.564'
+  lines:
+  - "Du beh\xF6ver inte oroa dig."
+  start: !human_time '00:31:42.560'
+- end: !human_time '00:31:47.489'
+  lines:
+  - Jag hade klarat mig galant-
+  - ''
+  start: !human_time '00:31:45.680'
+- end: !human_time '00:31:49.483'
+  lines:
+  - "-om inte den tappre riddaren anl\xE4nt."
+  start: !human_time '00:31:47.640'
+- end: !human_time '00:31:50.926'
+  lines:
+  - "De blir betalda f\xF6r att vara tappra."
+  - ''
+  start: !human_time '00:31:49.640'
+- end: !human_time '00:31:52.047'
+  lines:
+  - Visst.
+  start: !human_time '00:31:51.000'
+- end: !human_time '00:31:56.808'
+  lines:
+  - "De kan vinna ett \"Mest tappra\"-pris varje m\xE5nad."
+  start: !human_time '00:31:52.120'
+- end: !human_time '00:32:00.643'
+  lines:
+  - "Det \xE4r lite trevligt att f\xE5 slippa dem."
+  start: !human_time '00:31:57.400'
+- end: !human_time '00:32:07.321'
+  lines:
+  - "Kan jag s\xE4tta p\xE5 musiken igen?"
+  start: !human_time '00:32:05.080'
+- end: !human_time '00:32:09.364'
+  lines:
+  - "S\xE5klart."
+  start: !human_time '00:32:07.680'
+- end: !human_time '00:32:19.369'
+  lines:
+  - "Du gillar riktigt sm\xF6rig musik,"
+  - eller hur?
+  - ''
+  start: !human_time '00:32:16.240'
+- end: !human_time '00:32:22.602'
+  lines:
+  - Ja, jag blir lugn av det.
+  start: !human_time '00:32:20.600'
+- end: !human_time '00:32:26.570'
+  lines:
+  - "Desto sm\xF6rigare, desto b\xE4ttre."
+  start: !human_time '00:32:23.680'
+- end: !human_time '00:32:29.931'
+  lines:
+  - "Nu b\xF6rjar det."
+  start: !human_time '00:32:28.520'
+- end: !human_time '00:32:35.126'
+  lines:
+  - "<i>\u266A I used to think that"
+  - "love was just a fairy tale \u266A</i>"
+  start: !human_time '00:32:30.120'
+- end: !human_time '00:32:37.362'
+  lines:
+  - "Du sjunger v\xE4ldigt bra."
+  start: !human_time '00:32:35.200'
+- end: !human_time '00:32:40.649'
+  lines:
+  - "Du har bra kl\xE4nningsmak."
+  start: !human_time '00:32:37.440'
+- end: !human_time '00:32:42.290'
+  lines:
+  - "Du g\xF6r det sv\xE5rt f\xF6r mig-"
+  start: !human_time '00:32:40.720'
+- end: !human_time '00:32:45.125'
+  lines:
+  - "-att ta mig sj\xE4lv seri\xF6st"
+  - "i den h\xE4r kl\xE4nningen."
+  - ''
+  start: !human_time '00:32:42.360'
+- end: !human_time '00:32:48.124'
+  lines:
+  - "Var \xE4r du, d\xE4r?"
+  - "D\xE4r \xE4r du, ja."
+  start: !human_time '00:32:45.200'
+- end: !human_time '00:32:53.050'
+  lines:
+  - Dansar du tryckare?
+  - ''
+  start: !human_time '00:32:51.400'
+- end: !human_time '00:32:55.281'
+  lines:
+  - Visst.
+  start: !human_time '00:32:54.200'
+- end: !human_time '00:33:04.160'
+  lines:
+  - "<i>\u266A Suddenly life has"
+  - "new meaning to me \u266A</i>"
+  start: !human_time '00:32:57.800'
+- end: !human_time '00:33:11.168'
+  lines:
+  - "Jag tror inte att vi l\xE4rt oss det steget."
+  - ''
+  start: !human_time '00:33:07.800'
+- end: !human_time '00:33:15.482'
+  lines:
+  - Nej, och det kommer ni inte heller.
+  start: !human_time '00:33:12.000'
+- end: !human_time '00:33:23.686'
+  lines:
+  - "Det gl\xF6mde jag n\xE4stan."
+  - ''
+  start: !human_time '00:33:21.080'
+- end: !human_time '00:33:27.287'
+  lines:
+  - "Har du en annan tjej g\xF6md"
+  - "h\xE4r n\xE5nstans?"
+  start: !human_time '00:33:23.760'
+- end: !human_time '00:33:28.481'
+  lines:
+  - Ja.
+  start: !human_time '00:33:27.400'
+- end: !human_time '00:33:31.045'
+  lines:
+  - Vad var det?
+  start: !human_time '00:33:29.600'
+- end: !human_time '00:33:33.122'
+  lines:
+  - "Skr\xE4m henne inte."
+  start: !human_time '00:33:31.120'
+- end: !human_time '00:33:39.530'
+  lines:
+  - ''
+  start: !human_time '00:33:37.960'
+- end: !human_time '00:33:44.084'
+  lines:
+  - ''
+  start: !human_time '00:33:42.480'
+- end: !human_time '00:33:48.125'
+  lines:
+  - "Du f\xE5r visst alla tjejer att bli lugna."
+  start: !human_time '00:33:45.360'
+- end: !human_time '00:33:50.130'
+  lines:
+  - "G\xE4ller endast de vilda."
+  start: !human_time '00:33:48.560'
+- end: !human_time '00:33:55.851'
+  lines:
+  - "Vi var n\xE4ra att misssa det."
+  start: !human_time '00:33:54.520'
+- end: !human_time '00:33:58.721'
+  lines:
+  - "Ska h\xE4sten f\xE5 en bebis nu?"
+  start: !human_time '00:33:56.480'
+- end: !human_time '00:34:01.045'
+  lines:
+  - "Jag har aldrig sett n\xE5got f\xF6das."
+  start: !human_time '00:33:59.520'
+- end: !human_time '00:34:02.326'
+  lines:
+  - "-H\xE4mta halm."
+  - "-V\xE4nta lite."
+  start: !human_time '00:34:01.120'
+- end: !human_time '00:34:04.971'
+  lines:
+  - "M\xE5ste du sticka in h\xE4nderna och"
+  - "v\xE4nda den, eller n\xE5t?"
+  start: !human_time '00:34:02.400'
+- end: !human_time '00:34:06.525'
+  lines:
+  - "-Jane, h\xE4mta halmen."
+  - -Ja, visst.
+  start: !human_time '00:34:05.080'
+- end: !human_time '00:34:11.242'
+  lines:
+  - "Andas, du klarar av det h\xE4r."
+  start: !human_time '00:34:09.080'
+- end: !human_time '00:34:12.805'
+  lines:
+  - "-Halm. H\xE4mta."
+  - -Ja.
+  start: !human_time '00:34:11.360'
+- end: !human_time '00:34:14.880'
+  lines:
+  - Hittade det!
+  start: !human_time '00:34:13.640'
+- end: !human_time '00:34:16.724'
+  lines:
+  - Tack, Jane.
+  start: !human_time '00:34:14.960'
+- end: !human_time '00:34:18.645'
+  lines:
+  - "Gud, vad \xE4r det f\xF6r n\xE5t?"
+  start: !human_time '00:34:17.280'
+- end: !human_time '00:34:20.521'
+  lines:
+  - Jane.
+  start: !human_time '00:34:19.520'
+- end: !human_time '00:34:21.641'
+  lines:
+  - Jag kommer nu!
+  start: !human_time '00:34:20.640'
+- end: !human_time '00:34:23.529'
+  lines:
+  - "H\xE4mta halmen, Jane!"
+  start: !human_time '00:34:21.720'
+- end: !human_time '00:34:28.051'
+  lines:
+  - Krysta! Krysta! Krysta!
+  start: !human_time '00:34:24.160'
+- end: !human_time '00:34:30.245'
+  lines:
+  - "S\xE5d\xE4rja."
+  start: !human_time '00:34:28.800'
+- end: !human_time '00:34:32.084'
+  lines:
+  - Gnister...
+  start: !human_time '00:34:30.320'
+- end: !human_time '00:34:33.241'
+  lines:
+  - Hittade det!
+  start: !human_time '00:34:32.160'
+- end: !human_time '00:34:35.004'
+  lines:
+  - "Jane, den \xE4r vacker."
+  start: !human_time '00:34:33.320'
+- end: !human_time '00:34:36.844'
+  lines:
+  - Har halmen.
+  start: !human_time '00:34:35.080'
+- end: !human_time '00:34:39.002'
+  lines:
+  - "\xC5h, herregud!"
+  start: !human_time '00:34:36.920'
+- end: !human_time '00:34:41.128'
+  lines:
+  - "Det \xE4r f\xF6dningens mirakel."
+  - ''
+  start: !human_time '00:34:39.080'
+- end: !human_time '00:34:46.847'
+  lines:
+  - "S\xE5d\xE4rja."
+  - "Res p\xE5 dig, kompis."
+  start: !human_time '00:34:44.480'
+- end: !human_time '00:34:51.162'
+  lines:
+  - Spring fri, lilla Gnister.
+  start: !human_time '00:34:49.000'
+- end: !human_time '00:34:58.048'
+  lines:
+  - Den tappre riddaren hade
+  - "inte klarat av det h\xE4r."
+  - ''
+  start: !human_time '00:34:56.000'
+- end: !human_time '00:34:59.451'
+  lines:
+  - Nej.
+  start: !human_time '00:34:58.120'
+- end: !human_time '00:35:03.848'
+  lines:
+  - Det var underbart.
+  - Verkligen underbart.
+  - ''
+  start: !human_time '00:35:00.560'
+- end: !human_time '00:35:07.686'
+  lines:
+  - "Jag m\xE5ste nog g\xE5."
+  start: !human_time '00:35:05.080'
+- end: !human_time '00:35:10.450'
+  lines:
+  - Du har lite...
+  start: !human_time '00:35:08.960'
+- end: !human_time '00:35:12.284'
+  lines:
+  - Du vill nog inte ha det.
+  - ''
+  start: !human_time '00:35:10.520'
+- end: !human_time '00:35:17.766'
+  lines:
+  - "Kan jag ge dig n\xE5t f\xF6rst?"
+  start: !human_time '00:35:15.320'
+- end: !human_time '00:35:20.041'
+  lines:
+  - ''
+  start: !human_time '00:35:18.880'
+- end: !human_time '00:35:34.845'
+  lines:
+  - "Jag har velat g\xF6ra det f\xF6r ett bra tag nu."
+  start: !human_time '00:35:32.080'
+- end: !human_time '00:35:37.082'
+  lines:
+  - God natt, Jane Erstwhile.
+  start: !human_time '00:35:34.920'
+- end: !human_time '00:35:38.525'
+  lines:
+  - God natt.
+  start: !human_time '00:35:37.160'
+- end: !human_time '00:35:53.406'
+  lines:
+  - "\"Hon hade f\xE5tt flertalet ledtr\xE5dar fr\xE5n"
+  - "herr Knightley, och en del fr\xE5n sitt eget hj\xE4rta.\""
+  start: !human_time '00:35:48.400'
+- end: !human_time '00:35:55.403'
+  lines:
+  - Jag kan en med.
+  - ''
+  start: !human_time '00:35:53.480'
+- end: !human_time '00:35:57.445'
+  lines: []
+  start: !human_time '00:35:56.080'
+- end: !human_time '00:36:00.725'
+  lines:
+  - Herr Darcy sade till Jane,
+  start: !human_time '00:35:58.040'
+- end: !human_time '00:36:05.087'
+  lines:
+  - "\"Jane, h\xF6r h\xE4r."
+  - "H\xF6r nu h\xE4r.\"-"
+  start: !human_time '00:36:01.560'
+- end: !human_time '00:36:08.491'
+  lines:
+  - -"Om ni skulle ligga
+  - "med mig ikv\xE4ll,\"-"
+  start: !human_time '00:36:05.760'
+- end: !human_time '00:36:11.649'
+  lines:
+  - -"skulle jag faktiskt
+  - tala med er dagen efter,"-
+  - ''
+  start: !human_time '00:36:08.600'
+- end: !human_time '00:36:17.851'
+  lines:
+  - "-\"till skillnad fr\xE5n m\xE4nnen"
+  - "ni kommer att m\xF6ta h\xE4danefter.\""
+  - ''
+  start: !human_time '00:36:12.640'
+- end: !human_time '00:36:25.081'
+  lines:
+  - "Sn\xE4lla, h\xE5ll din trut."
+  start: !human_time '00:36:22.760'
+- end: !human_time '00:36:32.287'
+  lines:
+  - "M\xE4n och kvinnor fick inte r\xF6ra"
+  - "vid varandra innan gifterm\xE5let."
+  - ''
+  start: !human_time '00:36:28.760'
+- end: !human_time '00:36:36.364'
+  lines:
+  - De fick inte heller vara ensamma
+  - i samma rum.
+  - ''
+  start: !human_time '00:36:33.360'
+- end: !human_time '00:36:38.451'
+  lines:
+  - "Jag tror inte att han skulle s\xE4ga-"
+  - ''
+  start: !human_time '00:36:37.120'
+- end: !human_time '00:36:41.649'
+  lines:
+  - "-n\xE5t s\xE5nt, han var en gentleman."
+  - ''
+  start: !human_time '00:36:38.520'
+- end: !human_time '00:36:48.288'
+  lines:
+  - "Varf\xF6r syr vi egentligen?"
+  - ''
+  start: !human_time '00:36:46.320'
+- end: !human_time '00:36:53.365'
+  lines:
+  - "F\xF6rr f\xF6rdrev m\xE5nga kvinnor tiden s\xE5h\xE4r."
+  - ''
+  start: !human_time '00:36:49.440'
+- end: !human_time '00:36:58.768'
+  lines:
+  - "Om inte m\xE4nnen \xE5terv\xE4nder fr\xE5n"
+  - att jaga-
+  - ''
+  start: !human_time '00:36:54.080'
+- end: !human_time '00:37:00.968'
+  lines:
+  - "-s\xE5 ska jag beg\xE4ra \xE5terb\xE4ring."
+  - ''
+  start: !human_time '00:36:58.840'
+- end: !human_time '00:37:07.006'
+  lines:
+  - "Ni d\xE5, fr\xF6ken Erstwhile?"
+  - "\xC4r ni tillfredsst\xE4lld?"
+  start: !human_time '00:37:03.240'
+- end: !human_time '00:37:10.482'
+  lines:
+  - "Det \xE4r skamligt s\xE5 vi \xE4r indelade."
+  start: !human_time '00:37:07.080'
+- end: !human_time '00:37:13.404'
+  lines:
+  - "Tv\xE5 herrar och tre damer."
+  - ''
+  start: !human_time '00:37:10.560'
+- end: !human_time '00:37:17.326'
+  lines:
+  - "Vilket alltid g\xF6r att ni"
+  - "f\xF6rbliver ensam."
+  - ''
+  start: !human_time '00:37:13.480'
+- end: !human_time '00:37:23.649'
+  lines:
+  - "Urs\xE4kta mig,"
+  - jag ska bara-
+  start: !human_time '00:37:21.840'
+- end: !human_time '00:37:25.683'
+  lines:
+  - "-g\xE5 till biblioteket en stund."
+  - ''
+  start: !human_time '00:37:23.840'
+- end: !human_time '00:37:41.764'
+  lines:
+  - Jane.
+  start: !human_time '00:37:40.000'
+- end: !human_time '00:37:43.365'
+  lines:
+  - "Jag l\xE4ser."
+  start: !human_time '00:37:41.920'
+- end: !human_time '00:37:52.321'
+  lines:
+  - "Man f\xE5r egentligen inte"
+  - "l\xE4sa vid dammluckorna."
+  start: !human_time '00:37:48.760'
+- end: !human_time '00:37:55.161'
+  lines:
+  - "Det h\xE4r \xE4r avgr\xE4nsat omr\xE5de."
+  - "Det \xE4r.."
+  start: !human_time '00:37:52.760'
+- end: !human_time '00:37:58.244'
+  lines:
+  - "Det \xE4r v\xE4ldigt farligt h\xE4r."
+  start: !human_time '00:37:55.240'
+- end: !human_time '00:38:00.689'
+  lines:
+  - "Vad som helst kan h\xE4nda."
+  - ''
+  start: !human_time '00:37:58.800'
+- end: !human_time '00:38:04.886'
+  lines:
+  - "Jag m\xE5ste ju inte l\xE4sa."
+  start: !human_time '00:38:02.360'
+- end: !human_time '00:38:07.761'
+  lines:
+  - Ja, men...
+  start: !human_time '00:38:06.760'
+- end: !human_time '00:38:10.330'
+  lines:
+  - "Martin, sn\xE4lla."
+  - ''
+  start: !human_time '00:38:08.760'
+- end: !human_time '00:38:13.449'
+  lines:
+  - Jag blir tokig om jag ska vara
+  - i huset hela eftermiddagen.
+  - ''
+  start: !human_time '00:38:10.400'
+- end: !human_time '00:38:14.891'
+  lines:
+  - "Du \xE4lskar det ju."
+  - ''
+  start: !human_time '00:38:13.560'
+- end: !human_time '00:38:17.009'
+  lines:
+  - "Killarna f\xE5r ju betalt"
+  - "f\xF6r att avguda dig."
+  - ''
+  start: !human_time '00:38:15.200'
+- end: !human_time '00:38:20.050'
+  lines:
+  - "Se bara p\xE5 betj\xE4nten."
+  - "Han har dubbla tv\xE4ttbr\xE4dor."
+  start: !human_time '00:38:17.080'
+- end: !human_time '00:38:22.201'
+  lines:
+  - "Jag ska nog leta reda p\xE5 honom."
+  start: !human_time '00:38:21.040'
+- end: !human_time '00:38:23.526'
+  lines:
+  - "Jas\xE5?"
+  start: !human_time '00:38:22.400'
+- end: !human_time '00:38:39.965'
+  lines:
+  - Du vinner.
+  start: !human_time '00:38:38.600'
+- end: !human_time '00:38:41.644'
+  lines:
+  - "<i>\u266A Looking from"
+  - the window above</i>
+  start: !human_time '00:38:40.040'
+- end: !human_time '00:38:44.246'
+  lines:
+  - "<i>\u266A It's like a story of life</i>"
+  start: !human_time '00:38:41.720'
+- end: !human_time '00:38:47.765'
+  lines:
+  - "<i>\u266A Can you hear me?</i>"
+  start: !human_time '00:38:45.080'
+- end: !human_time '00:38:50.930'
+  lines:
+  - "<i>\u266A Came back only yesterday</i>"
+  start: !human_time '00:38:48.120'
+- end: !human_time '00:38:53.526'
+  lines:
+  - "<i>\u266A Who went further away</i>"
+  start: !human_time '00:38:51.000'
+- end: !human_time '00:38:56.890'
+  lines:
+  - "<i>\u266A Want you near me</i>"
+  start: !human_time '00:38:54.080'
+- end: !human_time '00:39:01.208'
+  lines:
+  - "<i>\u266A All I needed was"
+  - the love you gave</i>
+  start: !human_time '00:38:57.840'
+- end: !human_time '00:39:05.762'
+  lines:
+  - "<i>\u266A All I needed for another day</i>"
+  start: !human_time '00:39:02.360'
+- end: !human_time '00:39:09.244'
+  lines:
+  - "<i>\u266A And all I ever knew</i>"
+  start: !human_time '00:39:06.400'
+- end: !human_time '00:39:11.644'
+  lines:
+  - "<i>\u266A Only you</i>"
+  start: !human_time '00:39:10.040'
+- end: !human_time '00:39:18.209'
+  lines:
+  - "<i>\u266A Sometimes when"
+  - I think of her name</i>
+  start: !human_time '00:39:15.160'
+- end: !human_time '00:39:20.567'
+  lines:
+  - "<i>\u266A When it's only a game</i>"
+  start: !human_time '00:39:18.280'
+- end: !human_time '00:39:23.965'
+  lines:
+  - "<i>\u266A And I need you</i>"
+  start: !human_time '00:39:21.280'
+- end: !human_time '00:39:27.011'
+  lines:
+  - "<i>\u266A Listen to the words"
+  - that you say</i>
+  start: !human_time '00:39:24.440'
+- end: !human_time '00:39:29.811'
+  lines:
+  - "<i>\u266A It's getting harder to stay</i>"
+  start: !human_time '00:39:27.080'
+- end: !human_time '00:39:33.244'
+  lines:
+  - "<i>\u266A When I see you \u266A</i>"
+  start: !human_time '00:39:30.400'
+- end: !human_time '00:39:36.889'
+  lines:
+  - "Martin, f\xE5glarna."
+  start: !human_time '00:39:35.080'
+- end: !human_time '00:39:38.644'
+  lines:
+  - "Vi ses v\xE4l senare?"
+  start: !human_time '00:39:36.960'
+- end: !human_time '00:39:43.328'
+  lines:
+  - "Jag ska bara ta undan n\xE5gra l\xE5tsasf\xE5glar."
+  - Vi ses vid stallet?
+  - ''
+  start: !human_time '00:39:38.720'
+- end: !human_time '00:39:45.451'
+  lines:
+  - Visst.
+  start: !human_time '00:39:44.120'
+- end: !human_time '00:39:55.804'
+  lines:
+  - "Det \xE4r fruktansv\xE4rt spridet."
+  start: !human_time '00:39:54.200'
+- end: !human_time '00:39:58.367'
+  lines:
+  - Verkligen. Aldrig tidigare...
+  - ''
+  start: !human_time '00:39:56.080'
+- end: !human_time '00:40:02.407'
+  lines:
+  - "Jag beh\xF6ver ett nytt"
+  - "bl\xE4ckhorn i mitt rum."
+  - ''
+  start: !human_time '00:40:00.040'
+- end: !human_time '00:40:04.369'
+  lines:
+  - "-Beh\xF6ver du?"
+  - "-Ja, den \xE4r tom."
+  start: !human_time '00:40:02.480'
+- end: !human_time '00:40:05.521'
+  lines:
+  - Verkligen?
+  start: !human_time '00:40:04.440'
+- end: !human_time '00:40:08.365'
+  lines:
+  - "Vad skall ni skriva d\xE4r?"
+  start: !human_time '00:40:05.600'
+- end: !human_time '00:40:11.011'
+  lines:
+  - Kanske en dagbok om dina upplevelser?
+  - ''
+  start: !human_time '00:40:08.440'
+- end: !human_time '00:40:13.731'
+  lines:
+  - "-Kanske sj\xE4lvst\xE4ndighetsf\xF6rklaringen."
+  - -Verkligen?
+  start: !human_time '00:40:11.080'
+- end: !human_time '00:40:15.325'
+  lines:
+  - "Storslagna b\xF6nor."
+  start: !human_time '00:40:13.800'
+- end: !human_time '00:40:16.606'
+  lines:
+  - Nam-nam.
+  start: !human_time '00:40:15.400'
+- end: !human_time '00:40:18.610'
+  lines:
+  - "Hur g\xE5r man till v\xE4ga f\xF6r att \xE4ta"
+  - "det h\xE4r?"
+  start: !human_time '00:40:17.120'
+- end: !human_time '00:40:19.681'
+  lines:
+  - "Det \xE4r s\xE5 gott!"
+  start: !human_time '00:40:18.680'
+- end: !human_time '00:40:21.889'
+  lines:
+  - Bakade, stuvade.
+  start: !human_time '00:40:20.160'
+- end: !human_time '00:40:23.564'
+  lines:
+  - Omfriterade.
+  start: !human_time '00:40:21.960'
+- end: !human_time '00:40:24.971'
+  lines:
+  - Magnifikt.
+  start: !human_time '00:40:23.640'
+- end: !human_time '00:40:29.482'
+  lines:
+  - Jag har utomordentliga nyheter.
+  start: !human_time '00:40:26.160'
+- end: !human_time '00:40:34.170'
+  lines:
+  - "Kapten George East har nyss anl\xE4nt"
+  - "fr\xE5n V\xE4stindien."
+  start: !human_time '00:40:30.120'
+- end: !human_time '00:40:42.806'
+  lines:
+  - God morgon, damer.
+  start: !human_time '00:40:41.520'
+- end: !human_time '00:40:45.490'
+  lines:
+  - "Ni \xE4r vacker."
+  start: !human_time '00:40:43.840'
+- end: !human_time '00:40:49.721'
+  lines:
+  - "Jag fick h\xF6ra att ni nyss blivit kapten."
+  - ''
+  start: !human_time '00:40:47.320'
+- end: !human_time '00:40:52.084'
+  lines:
+  - "Ber\xE4tta f\xF6r oss hur det gick till."
+  start: !human_time '00:40:50.320'
+- end: !human_time '00:40:54.282'
+  lines:
+  - "Ja, vi tycker om ber\xE4ttelser."
+  start: !human_time '00:40:52.200'
+- end: !human_time '00:40:58.407'
+  lines:
+  - "Jag \xE4r uppvuxen p\xE5 havet. Jag"
+  - "forslade varor mellan \xF6arna."
+  start: !human_time '00:40:54.880'
+- end: !human_time '00:41:03.006'
+  lines:
+  - "Men n\xE4r Napoleon anf\xF6ll gick jag"
+  - "med mina Brittiska br\xF6der."
+  - ''
+  start: !human_time '00:40:59.240'
+- end: !human_time '00:41:06.043'
+  lines:
+  - Bravo, bravo.
+  start: !human_time '00:41:04.120'
+- end: !human_time '00:41:10.167'
+  lines:
+  - "Jag blev snabbt bef\xE4lhavare-"
+  - ''
+  start: !human_time '00:41:06.720'
+- end: !human_time '00:41:12.686'
+  lines:
+  - "-och sen kom min \xF6desdigra stund."
+  - ''
+  start: !human_time '00:41:10.240'
+- end: !human_time '00:41:16.210'
+  lines:
+  - "T\xE4nk er en allena Brittisk fregatt-"
+  - ''
+  start: !human_time '00:41:13.320'
+- end: !human_time '00:41:18.442'
+  lines:
+  - -omringad av fyra franska krigskepp-
+  start: !human_time '00:41:16.280'
+- end: !human_time '00:41:19.646'
+  lines:
+  - "-och kaptenen ligger d\xF6d p\xE5 d\xE4ck."
+  - ''
+  start: !human_time '00:41:18.520'
+- end: !human_time '00:41:21.449'
+  lines:
+  - '"Ge upp", sade dem.'
+  - "Tror ni p\xE5 det h\xE4r?"
+  start: !human_time '00:41:19.720'
+- end: !human_time '00:41:23.769'
+  lines:
+  - '"Aldrig", sade jag.'
+  start: !human_time '00:41:21.880'
+- end: !human_time '00:41:25.651'
+  lines:
+  - Dog ni?
+  start: !human_time '00:41:24.240'
+- end: !human_time '00:41:31.804'
+  lines:
+  - Jag var lockad att ge mig, men jag
+  - "var tvungen att uppmuntra mina m\xE4n."
+  start: !human_time '00:41:27.560'
+- end: !human_time '00:41:34.570'
+  lines:
+  - "\"D\xF6den f\xF6rst.\""
+  - ''
+  start: !human_time '00:41:32.920'
+- end: !human_time '00:41:41.490'
+  lines:
+  - "Men visst \xE4r det ingen"
+  - "van\xE4ra i att ge upp-"
+  start: !human_time '00:41:37.440'
+- end: !human_time '00:41:45.002'
+  lines:
+  - "-n\xE4r kaptenen \xE4r d\xF6d och s\xE5 f\xE5"
+  - "av m\xE4nnen kvar?"
+  - ''
+  start: !human_time '00:41:41.600'
+- end: !human_time '00:41:48.163'
+  lines:
+  - "N\xE4r sj\xF6manshj\xE4rtat mitt,"
+  - "s\xE4ger vad jag skall g\xF6ra,-"
+  start: !human_time '00:41:45.080'
+- end: !human_time '00:41:50.846'
+  lines:
+  - "-skr\xE4ms jag inte av,"
+  - "att ta skeppet och k\xF6ra."
+  - ''
+  start: !human_time '00:41:48.240'
+- end: !human_time '00:41:53.289'
+  lines:
+  - Det rimmar. Det rimmar.
+  - ''
+  start: !human_time '00:41:51.400'
+- end: !human_time '00:41:54.600'
+  lines:
+  - Men nu,-
+  - ''
+  start: !human_time '00:41:53.360'
+- end: !human_time '00:41:59.331'
+  lines:
+  - "-s\xE4ger mitt sj\xF6manshj\xE4rta"
+  - "\xE5t mig att g\xF6ra detta."
+  - ''
+  start: !human_time '00:41:56.760'
+- end: !human_time '00:42:05.048'
+  lines:
+  - "Ni \xE4r en riktig sensuell varelse."
+  start: !human_time '00:42:01.760'
+- end: !human_time '00:42:07.567'
+  lines:
+  - Tack.
+  start: !human_time '00:42:06.600'
+- end: !human_time '00:42:08.971'
+  lines:
+  - ''
+  start: !human_time '00:42:07.640'
+- end: !human_time '00:42:27.807'
+  lines:
+  - "Jag m\xE5 s\xE4ga."
+  - Stadigt, kaptenen.
+  start: !human_time '00:42:25.440'
+- end: !human_time '00:42:30.965'
+  lines:
+  - "Det h\xE4r \xE4r absurt."
+  start: !human_time '00:42:29.440'
+- end: !human_time '00:42:33.881'
+  lines: []
+  start: !human_time '00:42:32.800'
+- end: !human_time '00:42:35.961'
+  lines:
+  - Se upp, Nobley.
+  start: !human_time '00:42:34.800'
+- end: !human_time '00:42:37.883'
+  lines:
+  - "Res dig inte f\xF6r snabbt, George."
+  - ''
+  start: !human_time '00:42:36.040'
+- end: !human_time '00:42:39.246'
+  lines:
+  - "Jag tror allt att damerna beh\xF6vs-"
+  - ''
+  start: !human_time '00:42:37.960'
+- end: !human_time '00:42:41.721'
+  lines:
+  - -i salongen med fru Wattlesbrook.
+  - ''
+  start: !human_time '00:42:39.320'
+- end: !human_time '00:42:43.290'
+  lines:
+  - "K\xE4ra Lizzie."
+  start: !human_time '00:42:41.800'
+- end: !human_time '00:42:44.646'
+  lines:
+  - "Jag f\xF6ljer med snart."
+  - ''
+  start: !human_time '00:42:43.440'
+- end: !human_time '00:42:46.722'
+  lines:
+  - "Jag \xE4r er enkla betj\xE4nt, damen min."
+  start: !human_time '00:42:44.720'
+- end: !human_time '00:42:49.087'
+  lines:
+  - "<i>Damer, f\xF6lj med till finrummet-</i>"
+  start: !human_time '00:42:46.800'
+- end: !human_time '00:42:53.165'
+  lines:
+  - "<i>-f\xF6r en lektion i bahytter, barmer och skruvst\xE4d.</i>"
+  start: !human_time '00:42:49.160'
+- end: !human_time '00:43:04.045'
+  lines:
+  - Hej.
+  - Hej.
+  start: !human_time '00:43:02.520'
+- end: !human_time '00:43:08.006'
+  lines:
+  - "Vad ska vi g\xF6ra idag?"
+  start: !human_time '00:43:06.720'
+- end: !human_time '00:43:11.164'
+  lines:
+  - "Du hittade ingen annan att fl\xF6rta med, eller?"
+  start: !human_time '00:43:08.240'
+- end: !human_time '00:43:14.721'
+  lines:
+  - "Jag s\xE5g allt hur du"
+  - "stoltserade med sk\xE5despelarna."
+  start: !human_time '00:43:12.400'
+- end: !human_time '00:43:17.367'
+  lines:
+  - Jag trodde att du inte gillade det.
+  - ''
+  start: !human_time '00:43:15.160'
+- end: !human_time '00:43:18.680'
+  lines:
+  - "Det kanske jag g\xF6r."
+  start: !human_time '00:43:17.440'
+- end: !human_time '00:43:21.085'
+  lines:
+  - Jag har aldrig kunnat respektera-
+  - ''
+  start: !human_time '00:43:19.560'
+- end: !human_time '00:43:22.565'
+  lines:
+  - -kvinnorna som kommer hit.
+  - ''
+  start: !human_time '00:43:21.200'
+- end: !human_time '00:43:25.530'
+  lines:
+  - "S\xE5 jag lurade v\xE4l mig sj\xE4lv n\xE4r jag"
+  - "trodde att du inte var en s\xE5dan."
+  - ''
+  start: !human_time '00:43:22.640'
+- end: !human_time '00:43:28.321'
+  lines:
+  - "G\xF6r du slut med mig?"
+  - ''
+  start: !human_time '00:43:26.080'
+- end: !human_time '00:43:30.050'
+  lines:
+  - "G\xF6r slut?"
+  start: !human_time '00:43:28.400'
+- end: !human_time '00:43:32.487'
+  lines:
+  - Jag visste inte att vi kilade stadigt.
+  start: !human_time '00:43:30.120'
+- end: !human_time '00:43:35.086'
+  lines:
+  - "Nej, f\xF6rl\xE5t. Jag menade inte."
+  start: !human_time '00:43:32.560'
+- end: !human_time '00:43:56.211'
+  lines:
+  - <i>Om jag var vid sinnes fulla bruk
+  - "n\xE4r jag sk\xF6r dig skulle jag siktat p\xE5 huvudet.</i>"
+  start: !human_time '00:43:52.320'
+- end: !human_time '00:43:58.321'
+  lines:
+  - "S\xE5g du?"
+  start: !human_time '00:43:57.160'
+- end: !human_time '00:44:00.848'
+  lines:
+  - Otroligt, George.
+  - ''
+  start: !human_time '00:43:58.880'
+- end: !human_time '00:44:02.331'
+  lines:
+  - Duktigt spelat.
+  - ''
+  start: !human_time '00:44:00.920'
+- end: !human_time '00:44:05.530'
+  lines:
+  - "Jag drack br\xF6stmj\xF6lksers\xE4ttning"
+  - "f\xF6r att f\xE5 s\xE5 stora armar."
+  - ''
+  start: !human_time '00:44:02.400'
+- end: !human_time '00:44:09.690'
+  lines:
+  - "Det \xE4r d\xE4rf\xF6r ditt h\xE5r \xE4r s\xE5 blankt."
+  start: !human_time '00:44:08.040'
+- end: !human_time '00:44:11.125'
+  lines:
+  - "Kan jag anv\xE4nda ditt eluttag?"
+  start: !human_time '00:44:09.760'
+- end: !human_time '00:44:14.040'
+  lines:
+  - "D\xE5 m\xE5ste du st\xE4nga av tv:en."
+  - "\xC4r det okej, George?"
+  start: !human_time '00:44:11.560'
+- end: !human_time '00:44:15.167'
+  lines:
+  - Ja men...
+  start: !human_time '00:44:14.120'
+- end: !human_time '00:44:17.242'
+  lines:
+  - Vi kan se det senare.
+  - Visst.
+  - ''
+  start: !human_time '00:44:15.240'
+- end: !human_time '00:44:20.687'
+  lines:
+  - '"Welcome to the Pleasure Dome."'
+  start: !human_time '00:44:18.400'
+- end: !human_time '00:44:23.604'
+  lines:
+  - Tack.
+  - ''
+  start: !human_time '00:44:21.840'
+- end: !human_time '00:44:24.801'
+  lines:
+  - "Hej, Martin. Allt v\xE4l?"
+  start: !human_time '00:44:23.720'
+- end: !human_time '00:44:25.927'
+  lines:
+  - Ja.
+  start: !human_time '00:44:24.880'
+- end: !human_time '00:44:28.649'
+  lines:
+  - "V\xE4lkommen tillbaka."
+  start: !human_time '00:44:26.840'
+- end: !human_time '00:44:31.647'
+  lines:
+  - "Hur behandlar damerna dig i \xE5r?"
+  start: !human_time '00:44:29.280'
+- end: !human_time '00:44:34.007'
+  lines:
+  - Jag kan inte klaga.
+  start: !human_time '00:44:31.720'
+- end: !human_time '00:44:35.650'
+  lines:
+  - Kan inte klaga.
+  start: !human_time '00:44:34.080'
+- end: !human_time '00:44:36.926'
+  lines:
+  - Du har verkligen slappat till dig.
+  start: !human_time '00:44:35.720'
+- end: !human_time '00:44:39.571'
+  lines:
+  - Vad? Verkligen? Vad?
+  start: !human_time '00:44:38.160'
+- end: !human_time '00:44:41.608'
+  lines:
+  - "L\xE5t pojken vara."
+  start: !human_time '00:44:39.640'
+- end: !human_time '00:44:43.444'
+  lines:
+  - "Hur \xE4r stallivet?"
+  start: !human_time '00:44:41.680'
+- end: !human_time '00:44:46.731'
+  lines:
+  - "H\xE4starna inneb\xE4r mindre problem \xE4n kvinnorna."
+  start: !human_time '00:44:44.080'
+- end: !human_time '00:44:52.851'
+  lines:
+  - Vad tycker ni om Jane?
+  start: !human_time '00:44:50.120'
+- end: !human_time '00:44:54.530'
+  lines:
+  - "Vad heter den? Fr\xF6ken..."
+  start: !human_time '00:44:52.960'
+- end: !human_time '00:44:55.931'
+  lines:
+  - Erstwhile.
+  start: !human_time '00:44:54.600'
+- end: !human_time '00:44:58.048'
+  lines:
+  - "Ja, den kunde man s\xE4tta p\xE5."
+  start: !human_time '00:44:56.000'
+- end: !human_time '00:45:00.202'
+  lines:
+  - "Hon \xE4r lite underlig."
+  start: !human_time '00:44:58.120'
+- end: !human_time '00:45:01.327'
+  lines:
+  - "Hon \xE4r het."
+  start: !human_time '00:45:00.280'
+- end: !human_time '00:45:02.521'
+  lines:
+  - "Hon \xE4r okej."
+  start: !human_time '00:45:01.440'
+- end: !human_time '00:45:07.923'
+  lines:
+  - "<i>\u266A No flower of her kindred</i>"
+  start: !human_time '00:45:04.680'
+- end: !human_time '00:45:12.403'
+  lines:
+  - "<i>\u266A No rosebud is nigh</i>"
+  start: !human_time '00:45:08.000'
+- end: !human_time '00:45:17.162'
+  lines:
+  - "<i>\u266A To reflect back her blushes</i>"
+  start: !human_time '00:45:12.520'
+- end: !human_time '00:45:23.247'
+  lines:
+  - "<i>\u266A Give sigh for sigh \u266A</i>"
+  start: !human_time '00:45:17.240'
+- end: !human_time '00:45:27.326'
+  lines:
+  - "Perfekt, fr\xF6ken Heartwright. Perfekt."
+  start: !human_time '00:45:24.880'
+- end: !human_time '00:45:29.687'
+  lines:
+  - Det kan inte beskrivas med ord.
+  start: !human_time '00:45:27.400'
+- end: !human_time '00:45:31.805'
+  lines:
+  - "Jag m\xE5 s\xE4ga,"
+  start: !human_time '00:45:30.360'
+- end: !human_time '00:45:35.566'
+  lines:
+  - "jag skulle d\xF6 h\xE4nryckt f\xF6r att f\xE5"
+  - "h\xF6ra er spela, fr\xF6ken Erstwhile."
+  start: !human_time '00:45:31.880'
+- end: !human_time '00:45:37.165'
+  lines:
+  - "Inte i kv\xE4ll."
+  start: !human_time '00:45:35.640'
+- end: !human_time '00:45:38.730'
+  lines:
+  - "Forts\xE4tt nu. Sn\xE4lla."
+  start: !human_time '00:45:37.240'
+- end: !human_time '00:45:41.724'
+  lines:
+  - "Fr\xF6ken Erstwhile, jag ber er."
+  start: !human_time '00:45:38.800'
+- end: !human_time '00:45:46.726'
+  lines:
+  - Visst.
+  start: !human_time '00:45:45.600'
+- end: !human_time '00:45:50.243'
+  lines:
+  - "-L\xE5t mig."
+  - -Tack.
+  - ''
+  start: !human_time '00:45:48.320'
+- end: !human_time '00:46:04.921'
+  lines:
+  - "Jag kan bara en s\xE5ng."
+  - ''
+  start: !human_time '00:46:02.680'
+- end: !human_time '00:46:06.968'
+  lines:
+  - "-Spela den d\xE5."
+  - "-F\xF6ga f\xF6rv\xE5nande."
+  start: !human_time '00:46:05.000'
+- end: !human_time '00:46:09.409'
+  lines:
+  - "D\xE5 spelar jag den."
+  start: !human_time '00:46:07.520'
+- end: !human_time '00:46:24.529'
+  lines:
+  - "<i>\u266A It's getting hot in here</i>"
+  start: !human_time '00:46:22.640'
+- end: !human_time '00:46:26.807'
+  lines:
+  - "<i>\u266A So take off all your clothes</i>"
+  start: !human_time '00:46:24.600'
+- end: !human_time '00:46:29.201'
+  lines:
+  - "<i>\u266A I am getting so hot</i>"
+  start: !human_time '00:46:26.880'
+- end: !human_time '00:46:32.011'
+  lines:
+  - "<i>\u266AI'm gonna take my clothes off</i>"
+  start: !human_time '00:46:29.280'
+- end: !human_time '00:46:33.320'
+  lines:
+  - "Jag har d\xE5 aldrig..."
+  start: !human_time '00:46:32.080'
+- end: !human_time '00:46:40.168'
+  lines:
+  - Jag tror att jag skall dra mig tillbaka tidigt.
+  - ''
+  start: !human_time '00:46:38.040'
+- end: !human_time '00:46:46.688'
+  lines:
+  - Det var fanimej fantastiskt.
+  start: !human_time '00:46:44.640'
+- end: !human_time '00:47:17.204'
+  lines:
+  - Vart skall ni?
+  start: !human_time '00:47:15.600'
+- end: !human_time '00:47:19.681'
+  lines:
+  - "Urs\xE4kta."
+  - Jag trodde inte..
+  start: !human_time '00:47:17.280'
+- end: !human_time '00:47:22.843'
+  lines:
+  - "Jag blir en ninja n\xE4r jag blir skr\xE4md."
+  start: !human_time '00:47:19.760'
+- end: !human_time '00:47:26.003'
+  lines:
+  - "Min salige fader skulle d\xF6tt av skam."
+  start: !human_time '00:47:22.920'
+- end: !human_time '00:47:30.247'
+  lines:
+  - "Jag som trodde att alla f\xE4drar"
+  - "skulle vara f\xF6rtjusta i att ha en ninjadotter."
+  start: !human_time '00:47:26.080'
+- end: !human_time '00:47:39.531'
+  lines:
+  - "Urs\xE4kta mig."
+  start: !human_time '00:47:38.120'
+- end: !human_time '00:47:41.925'
+  lines:
+  - "-Fr\xF6ken Erstwhile."
+  - -Ja.
+  start: !human_time '00:47:40.480'
+- end: !human_time '00:47:44.401'
+  lines:
+  - Jag vet inte om ni inser att-
+  start: !human_time '00:47:42.000'
+- end: !human_time '00:47:49.485'
+  lines:
+  - "-det aldrig n\xE5nsin \xE4r l\xE4mpligt f\xF6r-"
+  - ''
+  start: !human_time '00:47:45.400'
+- end: !human_time '00:47:52.086'
+  lines:
+  - -en dam att vara ensam
+  - "efter m\xF6rkrets intr\xE5ng..."
+  - ''
+  start: !human_time '00:47:49.560'
+- end: !human_time '00:47:55.885'
+  lines:
+  - Absolut inte heller
+  - "spatsera runt med tj\xE4narna."
+  - ''
+  start: !human_time '00:47:53.120'
+- end: !human_time '00:47:57.200'
+  lines:
+  - Spatsera?
+  start: !human_time '00:47:55.960'
+- end: !human_time '00:47:58.566'
+  lines:
+  - Det kan leda till...
+  start: !human_time '00:47:57.280'
+- end: !human_time '00:48:00.051'
+  lines:
+  - Sa ni precis "spatsera"?
+  start: !human_time '00:47:58.640'
+- end: !human_time '00:48:02.248'
+  lines:
+  - "Det \xE4r n\xE5t med den killen som"
+  - jag inte...
+  start: !human_time '00:48:00.120'
+- end: !human_time '00:48:04.721'
+  lines:
+  - "Har ni inte all r\xE4tt till"
+  - att vara orolig, herr Nobley?
+  - ''
+  start: !human_time '00:48:02.320'
+- end: !human_time '00:48:08.009'
+  lines:
+  - "Tack f\xF6r att du har r\xE4ddat mig"
+  - "fr\xE5n att umg\xE5s med tj\xE4narna."
+  start: !human_time '00:48:04.800'
+- end: !human_time '00:48:10.689'
+  lines:
+  - "Var inte l\xF6jlig."
+  start: !human_time '00:48:08.800'
+- end: !human_time '00:48:12.650'
+  lines:
+  - "Outh\xE4rdligt."
+  start: !human_time '00:48:11.160'
+- end: !human_time '00:48:19.881'
+  lines:
+  - "God afton, fr\xF6ken Erstwhile."
+  - ''
+  start: !human_time '00:48:16.160'
+- end: !human_time '00:48:22.643'
+  lines:
+  - God afton,
+  - herr Wattlesbrook.
+  start: !human_time '00:48:20.800'
+- end: !human_time '00:48:27.169'
+  lines:
+  - Fortfarande vaken?
+  - "H\xE5ller p\xE5 med n\xE5got upps\xE5t, eller hur?"
+  start: !human_time '00:48:22.720'
+- end: !human_time '00:48:31.010'
+  lines:
+  - "Jag beh\xF6vde bara lite frisk luft."
+  - "Urs\xE4kta mig."
+  start: !human_time '00:48:28.120'
+- end: !human_time '00:48:33.163'
+  lines:
+  - Nej ni, stanna ett slag.
+  start: !human_time '00:48:31.320'
+- end: !human_time '00:48:37.441'
+  lines:
+  - "Vi kan k\xF6ra en omg\xE5ng whist."
+  start: !human_time '00:48:33.720'
+- end: !human_time '00:48:39.606'
+  lines:
+  - "Det \xE4r till f\xF6r fyra personer."
+  start: !human_time '00:48:38.320'
+- end: !human_time '00:48:41.205'
+  lines:
+  - Vi kan vara ett lag.
+  start: !human_time '00:48:39.680'
+- end: !human_time '00:48:45.531'
+  lines:
+  - "Lite t\xE5fl\xF6rtande under bordet."
+  - ''
+  start: !human_time '00:48:41.640'
+- end: !human_time '00:48:47.204'
+  lines:
+  - "Jag skall nog g\xE5 till s\xE4ngs nu."
+  start: !human_time '00:48:45.600'
+- end: !human_time '00:48:48.850'
+  lines:
+  - "-Det tycker jag ocks\xE5."
+  - -Nej.
+  - ''
+  start: !human_time '00:48:47.280'
+- end: !human_time '00:48:51.287'
+  lines:
+  - "Det h\xE4r \xE4r inte likt Romantiken!"
+  - ''
+  start: !human_time '00:48:48.920'
+- end: !human_time '00:48:54.284'
+  lines:
+  - Det kan bli en del av epoken,
+  - lite rollspel.
+  start: !human_time '00:48:51.360'
+- end: !human_time '00:48:56.806'
+  lines:
+  - "Bort fr\xE5n mig."
+  - "Bort fr\xE5n mig!"
+  - ''
+  start: !human_time '00:48:54.360'
+- end: !human_time '00:48:59.930'
+  lines:
+  - "Fr\xF6ken Erstwhile?"
+  start: !human_time '00:48:58.360'
+- end: !human_time '00:49:01.690'
+  lines:
+  - "\xC4r allt v\xE4l?"
+  start: !human_time '00:49:00.040'
+- end: !human_time '00:49:05.329'
+  lines:
+  - "Vad \xE4r det som p\xE5g\xE5r?"
+  - "Jag fann inte mina kn\xE4byxor."
+  start: !human_time '00:49:02.200'
+- end: !human_time '00:49:08.684'
+  lines:
+  - Herr Wattlesbrook, inte nu igen.
+  - ''
+  start: !human_time '00:49:07.000'
+- end: !human_time '00:49:10.689'
+  lines:
+  - "Slynan anf\xF6ll mig!"
+  start: !human_time '00:49:08.960'
+- end: !human_time '00:49:13.566'
+  lines:
+  - "Sj\xE4lvfallet, hon \xE4r ju en ninja."
+  start: !human_time '00:49:11.040'
+- end: !human_time '00:49:19.446'
+  lines:
+  - Kom hit.
+  start: !human_time '00:49:18.160'
+- end: !human_time '00:49:21.763'
+  lines:
+  - "Lyssna h\xE4r, pojkarna kommer inte-"
+  - ''
+  start: !human_time '00:49:19.920'
+- end: !human_time '00:49:23.251'
+  lines:
+  - "-att skyla f\xF6r er l\xE4ngre."
+  - ''
+  start: !human_time '00:49:21.840'
+- end: !human_time '00:49:24.970'
+  lines:
+  - "Ber\xE4tta inte f\xF6r frun bara!"
+  - ''
+  start: !human_time '00:49:23.320'
+- end: !human_time '00:49:26.963'
+  lines:
+  - "Jag skall inte ber\xE4tta"
+  - "f\xF6r frun, men..."
+  - ''
+  start: !human_time '00:49:25.040'
+- end: !human_time '00:49:28.087'
+  lines:
+  - "L\xE5t mig f\xF6lja er till rummet."
+  start: !human_time '00:49:27.040'
+- end: !human_time '00:49:29.281'
+  lines:
+  - "Jag m\xE5r bra nu."
+  start: !human_time '00:49:28.200'
+- end: !human_time '00:49:31.084'
+  lines:
+  - Tack. Jag bara...
+  start: !human_time '00:49:29.400'
+- end: !human_time '00:49:35.247'
+  lines:
+  - "Bara det inte finns n\xE5gra andra"
+  - "herr Wattlesbrook-typer h\xE4r omkring."
+  start: !human_time '00:49:31.720'
+- end: !human_time '00:49:37.084'
+  lines:
+  - "Jag kan inte ber\xF6mma Andrews,-"
+  start: !human_time '00:49:35.320'
+- end: !human_time '00:49:40.204'
+  lines:
+  - -men jag tror allt att ni kan
+  - "sl\xE5 ned honom."
+  - ''
+  start: !human_time '00:49:37.200'
+- end: !human_time '00:49:46.804'
+  lines:
+  - "Finns det inget jag kan g\xF6ra f\xF6r er?"
+  start: !human_time '00:49:42.480'
+- end: !human_time '00:49:48.570'
+  lines:
+  - "Jag m\xE5r bra."
+  start: !human_time '00:49:46.920'
+- end: !human_time '00:49:52.128'
+  lines:
+  - "Jag skall bara g\xE5 och l\xE4gga mig."
+  start: !human_time '00:49:50.160'
+- end: !human_time '00:49:55.291'
+  lines:
+  - God natt.
+  start: !human_time '00:49:53.960'
+- end: !human_time '00:50:01.404'
+  lines:
+  - "Jag har visst k\xF6pt det billiga paketet."
+  - ''
+  start: !human_time '00:49:59.640'
+- end: !human_time '00:50:03.628'
+  lines:
+  - <i>Det billiga paketet? Skojar du?</i>
+  start: !human_time '00:50:01.480'
+- end: !human_time '00:50:04.190'
+  lines:
+  - Nej.
+  start: !human_time '00:50:03.654'
+- end: !human_time '00:50:05.730'
+  lines:
+  - "Min karakt\xE4r f\xE5r nog inte ens-"
+  start: !human_time '00:50:04.240'
+- end: !human_time '00:50:07.564'
+  lines:
+  - -ett lyckligt slut.
+  - ''
+  start: !human_time '00:50:05.800'
+- end: !human_time '00:50:09.290'
+  lines:
+  - "<i>Jag ska d\xF6da resekillen.</i>"
+  start: !human_time '00:50:07.640'
+- end: !human_time '00:50:11.641'
+  lines:
+  - "Jag \xE4r s\xE5 arg p\xE5 att jag sl\xF6sade"
+  - bort alla mina pengar.
+  - ''
+  start: !human_time '00:50:09.400'
+- end: !human_time '00:50:13.370'
+  lines:
+  - "<i>Okej, det r\xE4cker.</i>"
+  start: !human_time '00:50:11.720'
+- end: !human_time '00:50:17.411'
+  lines:
+  - <i>Du kan bara fara hem och
+  - "k\xF6pa tillbaka din bil.</i>"
+  start: !human_time '00:50:13.440'
+- end: !human_time '00:50:22.009'
+  lines:
+  - "Molly, hela jag \xE4r en r\xF6ra, inte sant?"
+  start: !human_time '00:50:18.800'
+- end: !human_time '00:50:23.281'
+  lines:
+  - "<i>Det \xE4r en underdrift.</i>"
+  start: !human_time '00:50:22.120'
+- end: !human_time '00:50:26.523'
+  lines:
+  - "Jag vill ju komma \xF6ver allt s\xE5nt h\xE4r,-"
+  - ''
+  start: !human_time '00:50:23.360'
+- end: !human_time '00:50:29.524'
+  lines:
+  - "-men om jag g\xE5r nu kommer jag"
+  - "alltid undra \"T\xE4nk om?\"."
+  - ''
+  start: !human_time '00:50:26.600'
+- end: !human_time '00:50:31.648'
+  lines:
+  - "<i>Vad ska du g\xF6ra?</i>"
+  start: !human_time '00:50:29.600'
+- end: !human_time '00:50:38.082'
+  lines:
+  - "Jag ska ta kontroll \xF6ver mitt liv."
+  - ''
+  start: !human_time '00:50:36.080'
+- end: !human_time '00:50:40.527'
+  lines:
+  - "Hj\xE4ltinnorna i Austens b\xF6cker blir"
+  - "alltid f\xF6rlovade i slutet,"
+  start: !human_time '00:50:38.160'
+- end: !human_time '00:50:42.210'
+  lines:
+  - "s\xE5 det \xE4r det jag ska bli."
+  - ''
+  start: !human_time '00:50:40.640'
+- end: !human_time '00:50:44.089'
+  lines:
+  - "Du borde satsa p\xE5 Kapten East."
+  start: !human_time '00:50:42.280'
+- end: !human_time '00:50:45.886'
+  lines:
+  - "Se s\xE5 het han \xE4r."
+  start: !human_time '00:50:44.600'
+- end: !human_time '00:50:47.724'
+  lines:
+  - "Och han \xE4r en s\xE5poperastj\xE4rna."
+  start: !human_time '00:50:45.960'
+- end: !human_time '00:50:53.970'
+  lines:
+  - Kapten East?
+  start: !human_time '00:50:52.480'
+- end: !human_time '00:50:57.129'
+  lines:
+  - "Han f\xE5r det bli."
+  start: !human_time '00:50:55.320'
+- end: !human_time '00:50:59.323'
+  lines:
+  - "Kan du hj\xE4lpa mig, sn\xE4lla?"
+  start: !human_time '00:50:57.480'
+- end: !human_time '00:51:01.687'
+  lines:
+  - "Det h\xE4r kommer inte funka."
+  start: !human_time '00:50:59.400'
+- end: !human_time '00:51:08.361'
+  lines:
+  - "Jag har f\xF6rberett hela livet"
+  - "f\xF6r den h\xE4r stunden."
+  - ''
+  start: !human_time '00:51:03.560'
+- end: !human_time '00:51:11.560'
+  lines:
+  - "N\xE5n kommer, skynda."
+  - ''
+  start: !human_time '00:51:10.320'
+- end: !human_time '00:51:21.281'
+  lines:
+  - Heartwright har massvis av dem.
+  start: !human_time '00:51:18.880'
+- end: !human_time '00:51:24.923'
+  lines:
+  - "Hon \xE4r stenkorkad, hon kommer"
+  - "inte att m\xE4rka n\xE5t."
+  start: !human_time '00:51:21.840'
+- end: !human_time '00:51:26.411'
+  lines:
+  - "\xC5h, herregud."
+  start: !human_time '00:51:25.000'
+- end: !human_time '00:51:28.010'
+  lines:
+  - "Titta p\xE5 den h\xE4r."
+  start: !human_time '00:51:26.520'
+- end: !human_time '00:51:31.281'
+  lines:
+  - "Jag \xE4lskar att stj\xE4la saker fr\xE5n henne."
+  start: !human_time '00:51:28.960'
+- end: !human_time '00:51:34.763'
+  lines:
+  - "Se p\xE5 min mun."
+  start: !human_time '00:51:32.920'
+- end: !human_time '00:51:36.001'
+  lines:
+  - "J\xE4klar."
+  start: !human_time '00:51:34.840'
+- end: !human_time '00:51:38.441'
+  lines:
+  - "J\xE4klar."
+  start: !human_time '00:51:37.440'
+- end: !human_time '00:51:39.607'
+  lines:
+  - Bra.
+  start: !human_time '00:51:38.560'
+- end: !human_time '00:51:43.643'
+  lines:
+  - "J\xE4kla amerikaner."
+  start: !human_time '00:51:40.480'
+- end: !human_time '00:51:50.208'
+  lines:
+  - "J\xE4kla amerikaner."
+  start: !human_time '00:51:46.920'
+- end: !human_time '00:51:54.006'
+  lines:
+  - Du kan det ju.
+  start: !human_time '00:51:51.560'
+- end: !human_time '00:51:55.286'
+  lines:
+  - Verkligen?
+  start: !human_time '00:51:54.080'
+- end: !human_time '00:52:13.211'
+  lines:
+  - "<i>\u266A Her hair is Harlow gold</i>"
+  start: !human_time '00:52:10.480'
+- end: !human_time '00:52:17.086'
+  lines:
+  - "<i>\u266A Her lips sweet surprise</i>"
+  start: !human_time '00:52:14.640'
+- end: !human_time '00:52:21.366'
+  lines:
+  - "<i>\u266A Her hands are never cold</i>"
+  start: !human_time '00:52:18.760'
+- end: !human_time '00:52:24.847'
+  lines:
+  - "<i>\u266A She's got Bette Davis eyes</i>"
+  start: !human_time '00:52:22.640'
+- end: !human_time '00:52:27.571'
+  lines:
+  - "<i>\u266A She'll turn the music on you</i>"
+  start: !human_time '00:52:24.920'
+- end: !human_time '00:52:31.731'
+  lines:
+  - "<i>\u266A You won't have"
+  - to think twice</i>
+  start: !human_time '00:52:29.080'
+- end: !human_time '00:52:35.527'
+  lines:
+  - "<i>\u266A She's pure as New York snow</i>"
+  start: !human_time '00:52:33.160'
+- end: !human_time '00:52:39.646'
+  lines:
+  - "<i>\u266A She got Bette Davis eyes</i>"
+  start: !human_time '00:52:37.120'
+- end: !human_time '00:52:45.923'
+  lines:
+  - "<i>\u266A And she'll tease you"
+  - She'll unease you</i>
+  start: !human_time '00:52:42.760'
+- end: !human_time '00:52:50.361'
+  lines:
+  - "<i>\u266A All the better"
+  - just to please you</i>
+  start: !human_time '00:52:46.720'
+- end: !human_time '00:52:52.683'
+  lines:
+  - "<i>\u266A She's precocious</i>"
+  start: !human_time '00:52:50.840'
+- end: !human_time '00:52:54.683'
+  lines:
+  - "<i>\u266A And she knows just</i>"
+  start: !human_time '00:52:52.760'
+- end: !human_time '00:52:58.890'
+  lines:
+  - "<i>\u266A What it takes"
+  - "to make a pro blush \u266A</i>"
+  start: !human_time '00:52:54.760'
+- end: !human_time '00:53:02.923'
+  lines:
+  - "...efternamnet \xE4r egentligen inte Nobley."
+  - ''
+  start: !human_time '00:53:01.080'
+- end: !human_time '00:53:06.083'
+  lines:
+  - "Nobley \xE4r en fransk f\xF6rsk\xF6ning."
+  - "Egentligen \xE4r det Knobble."
+  start: !human_time '00:53:03.000'
+- end: !human_time '00:53:08.123'
+  lines:
+  - Endast Knobble.
+  start: !human_time '00:53:06.200'
+- end: !human_time '00:53:14.570'
+  lines:
+  - "Man kan se p\xE5 hur han anv\xE4nder kritan"
+  - "att han \xE4r en kvinnokarl."
+  start: !human_time '00:53:10.520'
+- end: !human_time '00:53:17.246'
+  lines:
+  - "Han har inte tid f\xF6r den h\xE4r sortens samtal."
+  start: !human_time '00:53:14.640'
+- end: !human_time '00:53:19.243'
+  lines:
+  - Bry er inte om mig.
+  start: !human_time '00:53:17.320'
+- end: !human_time '00:53:21.482'
+  lines:
+  - "Det \xE4r ovanligt ibland,"
+  - "men han \xE4r t\xE4mligen blyg."
+  start: !human_time '00:53:19.320'
+- end: !human_time '00:53:24.322'
+  lines:
+  - "Tror ni han h\xF6r oss?"
+  start: !human_time '00:53:22.240'
+- end: !human_time '00:53:30.406'
+  lines:
+  - "Hans uttryck och uppf\xF6rande ser ju"
+  - "lite f\xF6r best\xE4mda ut, inte sant?"
+  start: !human_time '00:53:24.400'
+- end: !human_time '00:53:32.369'
+  lines:
+  - "Alldeles r\xE4tt, fr\xF6ken Erstwhile."
+  start: !human_time '00:53:30.480'
+- end: !human_time '00:53:34.888'
+  lines:
+  - "S\xE5klart h\xF6r jag er."
+  start: !human_time '00:53:32.840'
+- end: !human_time '00:53:38.726'
+  lines:
+  - "Man hade beh\xF6vt vara d\xF6v"
+  - "f\xF6r att inte h\xF6ra er."
+  start: !human_time '00:53:34.960'
+- end: !human_time '00:53:42.805'
+  lines:
+  - "Jag m\xE5 s\xE4ga, Nobley, ni \xE4r"
+  - "skamligt tr\xE5kig idag."
+  start: !human_time '00:53:38.800'
+- end: !human_time '00:53:44.806'
+  lines:
+  - "Bra d\xE4r."
+  start: !human_time '00:53:43.520'
+- end: !human_time '00:53:47.720'
+  lines:
+  - "Ensam med pojkarna \xE4r han faktiskt"
+  - en ganska trevlig karl.
+  start: !human_time '00:53:45.080'
+- end: !human_time '00:53:49.768'
+  lines:
+  - -Verkligen?
+  - -Ja.
+  start: !human_time '00:53:47.800'
+- end: !human_time '00:53:51.251'
+  lines:
+  - "\xC5nej, \xE4lskling."
+  start: !human_time '00:53:49.840'
+- end: !human_time '00:53:54.563'
+  lines:
+  - Mina lilla pussgurka.
+  - "Ni \xE4r ju alldeles bl\xF6t."
+  start: !human_time '00:53:51.320'
+- end: !human_time '00:53:56.005'
+  lines:
+  - "L\xE5t mig."
+  start: !human_time '00:53:54.640'
+- end: !human_time '00:53:57.846'
+  lines:
+  - ''
+  start: !human_time '00:53:56.640'
+- end: !human_time '00:54:00.930'
+  lines:
+  - "Se s\xE5 fuktig ni \xE4r."
+  start: !human_time '00:53:59.360'
+- end: !human_time '00:54:07.486'
+  lines:
+  - "Ni kunde v\xE4l anv\xE4nt en n\xE4sduk?"
+  start: !human_time '00:54:04.880'
+- end: !human_time '00:54:09.765'
+  lines:
+  - Kaptenen.
+  start: !human_time '00:54:08.320'
+- end: !human_time '00:54:19.001'
+  lines:
+  - Jag kanske inte tycker att
+  - "kvinnliga samtal \xE4r s\xE5 stimulerande."
+  start: !human_time '00:54:11.800'
+- end: !human_time '00:54:21.367'
+  lines:
+  - "Jag kan verkligen inte f\xF6rst\xE5"
+  - "varf\xF6r ni fortfarande \xE4r ensam."
+  start: !human_time '00:54:19.080'
+- end: !human_time '00:54:24.086'
+  lines:
+  - "Ni har ju ingen ring p\xE5 fingret, precis."
+  start: !human_time '00:54:21.640'
+- end: !human_time '00:54:25.491'
+  lines:
+  - "Nej, det g\xE5r bra."
+  start: !human_time '00:54:24.160'
+- end: !human_time '00:54:27.608'
+  lines:
+  - Jag bad om det.
+  start: !human_time '00:54:25.560'
+- end: !human_time '00:54:31.602'
+  lines:
+  - "Jag \xE4r ensam eftersom de"
+  - "enda bra m\xE4nnen \xE4r p\xE5hittade."
+  - ''
+  start: !human_time '00:54:27.680'
+- end: !human_time '00:54:32.727'
+  lines:
+  - "<i>Touch\xE9</i>"
+  start: !human_time '00:54:31.680'
+- end: !human_time '00:54:36.122'
+  lines:
+  - "S\xE5 ni tror att det finns bra kvinnor?"
+  start: !human_time '00:54:32.800'
+- end: !human_time '00:54:37.770'
+  lines:
+  - "Nejd\xE5."
+  start: !human_time '00:54:36.200'
+- end: !human_time '00:54:40.286'
+  lines:
+  - "De utstr\xE5lar \xE4rlighet och \xE5terh\xE5llsamhet,-"
+  start: !human_time '00:54:37.840'
+- end: !human_time '00:54:45.081'
+  lines:
+  - "-men n\xE4r man undervisar i Schweiz,"
+  - "flyr de iv\xE4g med ens kompis till Brasilien."
+  start: !human_time '00:54:40.360'
+- end: !human_time '00:54:48.004'
+  lines:
+  - Spela ordentligt, din toffel!
+  start: !human_time '00:54:45.160'
+- end: !human_time '00:54:51.004'
+  lines:
+  - "N\xE5n som skall l\xE4mna oss?"
+  start: !human_time '00:54:49.320'
+- end: !human_time '00:55:01.090'
+  lines:
+  - "Det \xE4r min koffert."
+  start: !human_time '00:54:59.520'
+- end: !human_time '00:55:05.688'
+  lines:
+  - "Jag har uppt\xE4ckt en on\xE4mnbar bland era saker."
+  start: !human_time '00:55:01.160'
+- end: !human_time '00:55:09.484'
+  lines:
+  - "Jag tror allt att jag ber\xE4ttade"
+  - "reglerna f\xF6r er, fr\xF6ken Erstwhile."
+  start: !human_time '00:55:05.760'
+- end: !human_time '00:55:11.449'
+  lines:
+  - "Vi tackar er f\xF6r bes\xF6ket men"
+  - "tyv\xE4rr-"
+  start: !human_time '00:55:09.560'
+- end: !human_time '00:55:13.568'
+  lines:
+  - -har era handlingar
+  - "tvingat er en tidig hemg\xE5ng."
+  start: !human_time '00:55:11.520'
+- end: !human_time '00:55:15.047'
+  lines:
+  - Vad?
+  start: !human_time '00:55:14.000'
+- end: !human_time '00:55:16.724'
+  lines:
+  - "F\xF6rst er lilla hemska l\xE5t och nu detta."
+  start: !human_time '00:55:15.120'
+- end: !human_time '00:55:18.165'
+  lines:
+  - Ska du kasta ut mig?
+  start: !human_time '00:55:16.800'
+- end: !human_time '00:55:20.971'
+  lines:
+  - "Jag \xE4r r\xE4dd f\xF6r att ni nu m\xE5ste fara."
+  start: !human_time '00:55:18.240'
+- end: !human_time '00:55:27.611'
+  lines:
+  - "Nu f\xE5r du ta dom, Charming."
+  start: !human_time '00:55:26.200'
+- end: !human_time '00:55:29.571'
+  lines:
+  - Jag beklagar, Jane.
+  start: !human_time '00:55:28.240'
+- end: !human_time '00:55:35.121'
+  lines:
+  - "Om ni kunde g\xE5 ombord p\xE5 vagnen."
+  start: !human_time '00:55:31.560'
+- end: !human_time '00:55:39.891'
+  lines:
+  - Fru Wattlesbrook.
+  start: !human_time '00:55:38.480'
+- end: !human_time '00:55:41.450'
+  lines:
+  - "V\xE4nta, sn\xE4lla."
+  start: !human_time '00:55:39.960'
+- end: !human_time '00:55:46.804'
+  lines:
+  - "Allt detta \xE4r mitt fel."
+  start: !human_time '00:55:45.120'
+- end: !human_time '00:55:49.929'
+  lines:
+  - "Den nutida saken \xE4r min."
+  start: !human_time '00:55:46.880'
+- end: !human_time '00:55:53.044'
+  lines:
+  - Jag visste inte att jag hade
+  - "den med mig f\xF6rrr\xE4n jag anl\xE4nt hit."
+  start: !human_time '00:55:51.280'
+- end: !human_time '00:55:55.561'
+  lines:
+  - "Jag blev s\xE5 uppr\xF6rd och-"
+  start: !human_time '00:55:53.160'
+- end: !human_time '00:56:03.243'
+  lines:
+  - "fr\xF6ken Erstwhile sade att hon kunde"
+  - "ta hand om den s\xE5 jag slapp att se den..."
+  start: !human_time '00:55:55.640'
+- end: !human_time '00:56:05.049'
+  lines:
+  - "\xC5h, jaha."
+  start: !human_time '00:56:03.320'
+- end: !human_time '00:56:06.360'
+  lines:
+  - "Jag f\xF6rst\xE5r."
+  start: !human_time '00:56:05.120'
+- end: !human_time '00:56:09.444'
+  lines:
+  - "Det h\xE4r \xE4r allts\xE5 ett misstag-"
+  start: !human_time '00:56:06.440'
+- end: !human_time '00:56:14.529'
+  lines:
+  - "-och jag tycker att vi l\xE5tsas som"
+  - "det aldrig h\xE4nt."
+  start: !human_time '00:56:10.160'
+- end: !human_time '00:56:21.760'
+  lines:
+  - Lady Heartwright,
+  - "jag hoppas att ni forts\xE4tter-"
+  start: !human_time '00:56:19.280'
+- end: !human_time '00:56:24.241'
+  lines:
+  - "-hedra oss med din n\xE4rvaro."
+  start: !human_time '00:56:21.840'
+- end: !human_time '00:56:26.489'
+  lines:
+  - "Ja, sj\xE4lvfallet."
+  start: !human_time '00:56:24.680'
+- end: !human_time '00:56:28.206'
+  lines:
+  - "Tack s\xE5 mycket,"
+  start: !human_time '00:56:26.920'
+- end: !human_time '00:56:36.770'
+  lines:
+  - "Jag f\xF6rbjuder er att n\xE5nsin"
+  - "l\xE4mna oss, fr\xF6ken Erstwhile."
+  - ''
+  start: !human_time '00:56:33.800'
+- end: !human_time '00:56:41.325'
+  lines:
+  - "Vi har ju precis l\xE4rt k\xE4nna varandra."
+  start: !human_time '00:56:38.560'
+- end: !human_time '00:56:49.250'
+  lines:
+  - "Fr\xF6ken Erstwhile."
+  start: !human_time '00:56:47.680'
+- end: !human_time '00:56:52.082'
+  lines:
+  - Ja. Hej.
+  start: !human_time '00:56:50.000'
+- end: !human_time '00:56:55.164'
+  lines:
+  - "Tack f\xF6r det ni gjorde f\xF6rut,"
+  - mot fru Wattlesbrook.
+  start: !human_time '00:56:52.160'
+- end: !human_time '00:56:56.844'
+  lines:
+  - "Det var ett rent n\xF6je att r\xE4dda er."
+  start: !human_time '00:56:55.240'
+- end: !human_time '00:56:59.844'
+  lines:
+  - "Sn\xE4lla, kalla mig Amelia."
+  start: !human_time '00:56:56.920'
+- end: !human_time '00:57:02.286'
+  lines:
+  - Verkligen?
+  start: !human_time '00:57:01.080'
+- end: !human_time '00:57:04.331'
+  lines:
+  - Skynda nu.
+  start: !human_time '00:57:03.000'
+- end: !human_time '00:57:06.640'
+  lines:
+  - Fort.
+  start: !human_time '00:57:05.400'
+- end: !human_time '00:57:15.005'
+  lines:
+  - Amelia?
+  start: !human_time '00:57:13.640'
+- end: !human_time '00:57:23.486'
+  lines:
+  - "K\xE4ra Jane, nu n\xE4r vi \xE4r hj\xE4rtesystrar"
+  - "kan jag \xE4ntligen lita p\xE5 n\xE5n."
+  start: !human_time '00:57:18.520'
+- end: !human_time '00:57:27.486'
+  lines:
+  - "\xC5h, Jane."
+  start: !human_time '00:57:26.200'
+- end: !human_time '00:57:31.201'
+  lines:
+  - "F\xF6rra \xE5ret, p\xE5 balen."
+  start: !human_time '00:57:28.960'
+- end: !human_time '00:57:33.040'
+  lines:
+  - Georgie...
+  start: !human_time '00:57:31.800'
+- end: !human_time '00:57:36.971'
+  lines:
+  - blev George East och jag-
+  start: !human_time '00:57:34.320'
+- end: !human_time '00:57:39.963'
+  lines:
+  - "-f\xF6rlovade."
+  start: !human_time '00:57:38.120'
+- end: !human_time '00:57:42.921'
+  lines:
+  - "Det \xE4r sanning."
+  start: !human_time '00:57:41.840'
+- end: !human_time '00:57:47.490'
+  lines:
+  - "Men ock, han var en fattig sj\xF6man-"
+  - ''
+  start: !human_time '00:57:44.520'
+- end: !human_time '00:57:52.047'
+  lines:
+  - och min fader slog av
+  - "f\xF6rlovningen utan mitt samtycke."
+  start: !human_time '00:57:48.520'
+- end: !human_time '00:57:56.883'
+  lines:
+  - "Om jag skall f\xF6rklara det h\xE4r"
+  - "f\xF6r honom nu-"
+  start: !human_time '00:57:53.800'
+- end: !human_time '00:57:59.649'
+  lines:
+  - -kommer George att tro att jag
+  - bara vill ha tillbaka honom-
+  start: !human_time '00:57:57.920'
+- end: !human_time '00:58:02.485'
+  lines:
+  - "-f\xF6r att han nu \xE4r en f\xF6rm\xF6gen kapten."
+  - ''
+  start: !human_time '00:57:59.720'
+- end: !human_time '00:58:06.327'
+  lines:
+  - "Vad skall jag g\xF6ra?"
+  start: !human_time '00:58:04.040'
+- end: !human_time '00:58:10.291'
+  lines:
+  - Jag trodde att ni
+  - gillade Nobley, eller inte?
+  start: !human_time '00:58:06.400'
+- end: !human_time '00:58:12.130'
+  lines:
+  - Nej, nej, nej!
+  start: !human_time '00:58:10.560'
+- end: !human_time '00:58:16.367'
+  lines:
+  - "K\xE4ra Jane, jag vet att ni"
+  - "kommer att hj\xE4lpa mig-"
+  - ''
+  start: !human_time '00:58:12.920'
+- end: !human_time '00:58:19.011'
+  lines:
+  - -bli ensam med kapten East.
+  - ''
+  start: !human_time '00:58:16.440'
+- end: !human_time '00:58:22.402'
+  lines:
+  - Jag vet inte vad jag
+  - "kan g\xF6ra \xE5t saken."
+  - ''
+  start: !human_time '00:58:19.080'
+- end: !human_time '00:58:28.082'
+  lines:
+  - "Det var sm\xE4rtsamt att ljuga f\xF6r"
+  - "fru Wattlesbrook f\xF6rut."
+  start: !human_time '00:58:22.560'
+- end: !human_time '00:58:31.368'
+  lines:
+  - "Men eftersom ni \xE4r min-"
+  start: !human_time '00:58:29.320'
+- end: !human_time '00:58:35.128'
+  lines:
+  - "-mycket k\xE4ra v\xE4n,"
+  start: !human_time '00:58:33.080'
+- end: !human_time '00:58:38.288'
+  lines:
+  - "-skall jag beh\xE5lla er hemlighet."
+  start: !human_time '00:58:36.240'
+- end: !human_time '00:58:40.566'
+  lines:
+  - "\xC5."
+  start: !human_time '00:58:39.440'
+- end: !human_time '00:58:44.649'
+  lines:
+  - Eller kanske hemlighet<i>er</i>?
+  start: !human_time '00:58:41.600'
+- end: !human_time '00:58:50.801'
+  lines:
+  - "Farv\xE4l, hj\xE4rtesyster."
+  start: !human_time '00:58:48.560'
+- end: !human_time '00:59:04.608'
+  lines:
+  - "Jag tycker att kreativitet \xE4r"
+  - "sl\xF6seri med tid och pengar."
+  - ''
+  start: !human_time '00:59:00.080'
+- end: !human_time '00:59:08.284'
+  lines:
+  - "Jag d\xE4remot,"
+  - "\xE4lskar rosetter, fj\xE4drar och f\xE4rger."
+  - ''
+  start: !human_time '00:59:05.280'
+- end: !human_time '00:59:11.731'
+  lines:
+  - "Skcka en till bl\xE5 f\xE5gel,"
+  - "fr\xF6ken Charming."
+  start: !human_time '00:59:09.000'
+- end: !human_time '00:59:14.883'
+  lines:
+  - "Visst, men h\xE4rma inte allt jag g\xF6r."
+  - ''
+  start: !human_time '00:59:11.800'
+- end: !human_time '00:59:16.200'
+  lines:
+  - "Jag skall f\xF6rs\xF6ka."
+  start: !human_time '00:59:14.960'
+- end: !human_time '00:59:17.810'
+  lines:
+  - "Det \xE4r vi inte v\xE4rda,"
+  - fru Wattlesbrook.
+  start: !human_time '00:59:16.320'
+- end: !human_time '00:59:20.804'
+  lines:
+  - "Deras hj\xE4rtan kommer att"
+  - "brista av h\xE4nryckningen."
+  start: !human_time '00:59:17.880'
+- end: !human_time '00:59:25.323'
+  lines:
+  - "Jag har n\xE5got mycket akut"
+  - att rapportera.
+  - ''
+  start: !human_time '00:59:22.160'
+- end: !human_time '00:59:27.845'
+  lines:
+  - "Vem vill ha lite underh\xE5llning?"
+  - ''
+  start: !human_time '00:59:26.320'
+- end: !human_time '00:59:30.446'
+  lines:
+  - "Jag! Jag! Jag \xE4r s\xE5 uttr\xE5kad."
+  - ''
+  start: !human_time '00:59:27.920'
+- end: !human_time '00:59:33.205'
+  lines:
+  - "D\xE5s\xE5, min lilla gurka."
+  start: !human_time '00:59:30.520'
+- end: !human_time '00:59:36.602'
+  lines:
+  - "Fru Wattlesbrook har \xF6vertr\xE4ffat"
+  - "sig sj\xE4lv-"
+  - ''
+  start: !human_time '00:59:33.280'
+- end: !human_time '00:59:40.321'
+  lines:
+  - "-genom att skriva en utm\xE4rkt pj\xE4s."
+  - ''
+  start: !human_time '00:59:36.680'
+- end: !human_time '00:59:42.723'
+  lines:
+  - "Ni verkar inte kunna l\xE4sa eller skriva."
+  start: !human_time '00:59:40.800'
+- end: !human_time '00:59:43.961'
+  lines:
+  - "Det \xE4r bara lappri."
+  start: !human_time '00:59:42.800'
+- end: !human_time '00:59:46.726'
+  lines:
+  - "Det \xE4r sex delar."
+  start: !human_time '00:59:44.280'
+- end: !human_time '00:59:48.610'
+  lines:
+  - "Tre k\xE4rlekspar."
+  start: !human_time '00:59:46.960'
+- end: !human_time '00:59:52.446'
+  lines:
+  - "F\xF6r att ha n\xE5got och underh\xE5lla"
+  - oss med till balen,-
+  start: !human_time '00:59:48.680'
+- end: !human_time '00:59:54.648'
+  lines:
+  - -tycker jag att vi kan
+  - "\xF6va och framf\xF6ra det-"
+  start: !human_time '00:59:52.520'
+- end: !human_time '00:59:58.441'
+  lines:
+  - "-inf\xF6r v\xE5r utomordentliga f\xF6rfattarinna."
+  - ''
+  start: !human_time '00:59:54.720'
+- end: !human_time '01:00:00.090'
+  lines:
+  - "N\xE5gra fr\xE5gor?"
+  start: !human_time '00:59:58.520'
+- end: !human_time '01:00:02.289'
+  lines:
+  - -Nej.
+  - "-Nej vad\xE5?"
+  - ''
+  start: !human_time '01:00:00.560'
+- end: !human_time '01:00:04.488'
+  lines:
+  - Ni kan inte tvinga mig.
+  - "Det \xE4r f\xF6rnedrande."
+  start: !human_time '01:00:02.360'
+- end: !human_time '01:00:07.609'
+  lines:
+  - "Det kommer inte p\xE5 fr\xE5ga, \xE4r jag r\xE4dd."
+  start: !human_time '01:00:04.560'
+- end: !human_time '01:00:09.603'
+  lines:
+  - "Jag har en fr\xE5ga."
+  start: !human_time '01:00:07.680'
+- end: !human_time '01:00:11.569'
+  lines:
+  - "Vem v\xE4ljer paren?"
+  start: !human_time '01:00:09.680'
+- end: !human_time '01:00:15.130'
+  lines:
+  - "Jag tycker att damerna f\xE5r v\xE4lja."
+  start: !human_time '01:00:12.160'
+- end: !human_time '01:00:16.725'
+  lines:
+  - I alfabetisk ordning.
+  start: !human_time '01:00:15.200'
+- end: !human_time '01:00:18.444'
+  lines:
+  - Bra, bra.
+  start: !human_time '01:00:16.840'
+- end: !human_time '01:00:21.046'
+  lines:
+  - Ole, dole, doff... Dig!
+  start: !human_time '01:00:18.520'
+- end: !human_time '01:00:23.526'
+  lines:
+  - "<i>Ma ch\xE9rie.</i>"
+  start: !human_time '01:00:22.240'
+- end: !human_time '01:00:25.764'
+  lines:
+  - "Och ni, fr\xF6ken Erstwhile."
+  start: !human_time '01:00:24.080'
+- end: !human_time '01:00:27.490'
+  lines:
+  - "V\xE4lj klokt, Jane."
+  start: !human_time '01:00:25.840'
+- end: !human_time '01:00:39.722'
+  lines:
+  - Herr Nobley, antar jag.
+  start: !human_time '01:00:37.720'
+- end: !human_time '01:00:49.204'
+  lines:
+  - "-F\xF6rl\xE5t. F\xF6rl\xE5t."
+  - "-Det \xE4r okej."
+  - ''
+  start: !human_time '01:00:47.440'
+- end: !human_time '01:00:50.441'
+  lines:
+  - "F\xF6rl\xE5t."
+  start: !human_time '01:00:49.280'
+- end: !human_time '01:00:55.130'
+  lines:
+  - "Nu m\xE5ste vi ju tillbringa mycket"
+  - tid tillsammans,
+  start: !human_time '01:00:52.320'
+- end: !human_time '01:00:58.329'
+  lines:
+  - "s\xE5 jag tycker jag att vi ska"
+  - undvika att irritera varandra.
+  - ''
+  start: !human_time '01:00:55.200'
+- end: !human_time '01:01:00.129'
+  lines:
+  - Ni irriterar inte mig.
+  start: !human_time '01:00:58.400'
+- end: !human_time '01:01:04.963'
+  lines:
+  - "Ni g\xF6r mig nerv\xF6s."
+  - ''
+  start: !human_time '01:01:03.040'
+- end: !human_time '01:01:19.001'
+  lines:
+  - "Njuter du av bes\xF6ket?"
+  start: !human_time '01:01:16.760'
+- end: !human_time '01:01:24.083'
+  lines:
+  - Verkligen?
+  - "Dags f\xF6r kallprat nu?"
+  - ''
+  start: !human_time '01:01:20.920'
+- end: !human_time '01:01:28.761'
+  lines:
+  - Visst.
+  start: !human_time '01:01:27.680'
+- end: !human_time '01:01:36.604'
+  lines:
+  - "Herrg\xE5rden \xE4r otrolig, men det \xE4r"
+  - lite som en korsett.
+  start: !human_time '01:01:31.120'
+- end: !human_time '01:01:38.648'
+  lines:
+  - Jag tycker om utseendet,
+  - "men det \xE4r bara..."
+  start: !human_time '01:01:36.680'
+- end: !human_time '01:01:40.728'
+  lines:
+  - "Sv\xE5rt att slappna av."
+  start: !human_time '01:01:38.760'
+- end: !human_time '01:01:42.285'
+  lines:
+  - Ja, precis.
+  start: !human_time '01:01:40.840'
+- end: !human_time '01:01:45.847'
+  lines:
+  - "Men det finns s\xE5 mycket"
+  - "att gilla h\xE4r."
+  - ''
+  start: !human_time '01:01:43.560'
+- end: !human_time '01:01:48.486'
+  lines:
+  - "H\xF6vligheten."
+  start: !human_time '01:01:45.960'
+- end: !human_time '01:01:49.721'
+  lines:
+  - "Uppf\xF6randet."
+  start: !human_time '01:01:48.560'
+- end: !human_time '01:01:51.768'
+  lines:
+  - Storheten, du vet.
+  start: !human_time '01:01:49.800'
+- end: !human_time '01:01:53.365'
+  lines:
+  - Enkelheten.
+  start: !human_time '01:01:51.840'
+- end: !human_time '01:01:57.485'
+  lines:
+  - "M\xE4nnen."
+  start: !human_time '01:01:55.960'
+- end: !human_time '01:02:00.645'
+  lines:
+  - Kvinnorna.
+  start: !human_time '01:01:59.280'
+- end: !human_time '01:02:04.691'
+  lines:
+  - "M\xE5lningarna."
+  - "De \xE4r verkligen..."
+  start: !human_time '01:02:02.040'
+- end: !human_time '01:02:06.407'
+  lines:
+  - "Ja, du \xE4r ju en konstn\xE4r."
+  start: !human_time '01:02:05.360'
+- end: !human_time '01:02:07.567'
+  lines:
+  - Nej, nej, nej.
+  start: !human_time '01:02:06.520'
+- end: !human_time '01:02:10.849'
+  lines:
+  - "Det \xE4r bara sketcher."
+  start: !human_time '01:02:07.640'
+- end: !human_time '01:02:12.809'
+  lines:
+  - "-Vem \xE4r det?"
+  - -Precis.
+  start: !human_time '01:02:10.920'
+- end: !human_time '01:02:14.723'
+  lines:
+  - "F\xF6rl\xE5t."
+  - "De \xE4r inte alla s\xE5 d\xE4r."
+  start: !human_time '01:02:12.880'
+- end: !human_time '01:02:16.006'
+  lines:
+  - "Nej, det \xE4r..."
+  start: !human_time '01:02:14.800'
+- end: !human_time '01:02:18.800'
+  lines:
+  - "Det \xE4r en uppriktig likhet."
+  - "Du beh\xF6ver inte urs\xE4kta dig."
+  start: !human_time '01:02:16.320'
+- end: !human_time '01:02:25.284'
+  lines:
+  - "Det \xE4r dock underligt."
+  start: !human_time '01:02:22.440'
+- end: !human_time '01:02:28.489'
+  lines:
+  - "Det finns mer bilder p\xE5"
+  - "mig \xE4n n\xE5n annan."
+  - ''
+  start: !human_time '01:02:25.360'
+- end: !human_time '01:02:33.844'
+  lines:
+  - "Jag har v\xE4l f\xF6rs\xF6kt klura ut dig."
+  - Utan att lyckas.
+  start: !human_time '01:02:29.680'
+- end: !human_time '01:02:36.609'
+  lines:
+  - "Du m\xE5ste v\xE4l kommit fram till n\xE5got?"
+  - ''
+  start: !human_time '01:02:34.880'
+- end: !human_time '01:02:39.448'
+  lines:
+  - "Du \xE4r ju husets herr Darcy."
+  - ''
+  start: !human_time '01:02:37.320'
+- end: !human_time '01:02:42.126'
+  lines:
+  - "Du \xE4r ju alla flickors dr\xF6m."
+  start: !human_time '01:02:39.520'
+- end: !human_time '01:02:45.844'
+  lines:
+  - "\xC4ven din dr\xF6m?"
+  start: !human_time '01:02:44.080'
+- end: !human_time '01:02:50.200'
+  lines:
+  - "Du spelar v\xE4ldigt bra."
+  start: !human_time '01:02:47.720'
+- end: !human_time '01:02:54.841'
+  lines:
+  - Visst.
+  start: !human_time '01:02:53.680'
+- end: !human_time '01:02:58.441'
+  lines:
+  - "Skall vi \xF6va?"
+  start: !human_time '01:02:57.360'
+- end: !human_time '01:02:59.607'
+  lines:
+  - Ja.
+  start: !human_time '01:02:58.560'
+- end: !human_time '01:03:00.886'
+  lines:
+  - ''
+  start: !human_time '01:02:59.680'
+- end: !human_time '01:03:11.450'
+  lines:
+  - Spelar dom?
+  start: !human_time '01:03:09.880'
+- end: !human_time '01:03:18.130'
+  lines:
+  - "Jag vet inte l\xE4ngre vad som \xE4r verkligt."
+  start: !human_time '01:03:15.160'
+- end: !human_time '01:03:19.725'
+  lines:
+  - "T\xE4nk om hon verkligen \xE4r..."
+  - ''
+  start: !human_time '01:03:18.200'
+- end: !human_time '01:03:21.285'
+  lines:
+  - "K\xE4r i honom?"
+  start: !human_time '01:03:19.840'
+- end: !human_time '01:03:24.722'
+  lines:
+  - Tror du inte att man kan missta
+  - "sanningen f\xF6r dr\xF6mmen?"
+  - ''
+  start: !human_time '01:03:21.400'
+- end: !human_time '01:03:28.407'
+  lines:
+  - "Vad kommer att h\xE4nda n\xE4r"
+  - "pj\xE4sen \xE4r klar?"
+  start: !human_time '01:03:24.800'
+- end: !human_time '01:03:31.804'
+  lines:
+  - "Det \xE4r ju ett farligt spel."
+  start: !human_time '01:03:28.960'
+- end: !human_time '01:03:35.805'
+  lines:
+  - "Tror du inte att deras k\xE4nslor kan,"
+  start: !human_time '01:03:31.880'
+- end: !human_time '01:03:38.804'
+  lines:
+  - bli djupare och...
+  start: !human_time '01:03:35.880'
+- end: !human_time '01:03:40.405'
+  lines:
+  - "Ojd\xE5."
+  start: !human_time '01:03:38.880'
+- end: !human_time '01:03:44.007'
+  lines:
+  - "F\xF6r en vecka sedan hade jag sagt nej."
+  start: !human_time '01:03:40.560'
+- end: !human_time '01:03:48.168'
+  lines:
+  - "-Fr\xF6ken Erstwhile."
+  - -Ja.
+  start: !human_time '01:03:46.200'
+- end: !human_time '01:03:52.730'
+  lines:
+  - Du skakar ju.
+  start: !human_time '01:03:51.080'
+- end: !human_time '01:03:58.011'
+  lines:
+  - Tack.
+  start: !human_time '01:03:56.680'
+- end: !human_time '01:04:14.290'
+  lines:
+  - "<i>Damer, kom ih\xE5g att knyta"
+  - korsetterna ordentligt.</i>
+  start: !human_time '01:04:10.080'
+- end: !human_time '01:04:16.404'
+  lines:
+  - -Jane, hej.
+  - -Martin.
+  start: !human_time '01:04:14.720'
+- end: !human_time '01:04:18.566'
+  lines:
+  - "Var \xE4r de andra?"
+  start: !human_time '01:04:17.280'
+- end: !human_time '01:04:20.961'
+  lines:
+  - De spelar whist.
+  start: !human_time '01:04:18.640'
+- end: !human_time '01:04:23.930'
+  lines:
+  - "Det \xE4r en del av Platinapaketet."
+  - ''
+  start: !human_time '01:04:21.040'
+- end: !human_time '01:04:25.650'
+  lines:
+  - Jag saknar inte precis det.
+  start: !human_time '01:04:24.000'
+- end: !human_time '01:04:27.567'
+  lines:
+  - "Scenrid\xE5."
+  start: !human_time '01:04:26.600'
+- end: !human_time '01:04:29.324'
+  lines:
+  - Just det, ja.
+  start: !human_time '01:04:27.640'
+- end: !human_time '01:04:32.963'
+  lines:
+  - "Du f\xE5r v\xE4l forts\xE4tta d\xE5."
+  start: !human_time '01:04:31.040'
+- end: !human_time '01:04:35.645'
+  lines:
+  - "\xC5h."
+  start: !human_time '01:04:34.280'
+- end: !human_time '01:04:37.805'
+  lines:
+  - "Urs\xE4kta."
+  start: !human_time '01:04:36.280'
+- end: !human_time '01:05:08.563'
+  lines:
+  - "Jag \xE4r gudinnan Afrodite."
+  start: !human_time '01:05:04.160'
+- end: !human_time '01:05:13.368'
+  lines:
+  - "Som \xE4r mycket ombytlig"
+  - "i min stj\xE4rt..."
+  start: !human_time '01:05:08.680'
+- end: !human_time '01:05:15.528'
+  lines:
+  - "-hj\xE4rtlighet."
+  - "-hj\xE4rtlighet."
+  start: !human_time '01:05:13.480'
+- end: !human_time '01:05:19.642'
+  lines:
+  - "Jag ser d\xE4r n\xE5gra d\xF6dliga."
+  start: !human_time '01:05:16.320'
+- end: !human_time '01:05:24.690'
+  lines:
+  - "Tv\xE5 f\xF6r\xE4lskade,"
+  - "fast i f\xF6rtvivlan."
+  start: !human_time '01:05:20.480'
+- end: !human_time '01:05:29.650'
+  lines:
+  - "Pirthee, min k\xE4ra hemhj\xE4lp."
+  - "Har ni sett mitt f\xF6rsvunna lamm?"
+  start: !human_time '01:05:25.520'
+- end: !human_time '01:05:35.121'
+  lines:
+  - Nej. Ni kanske skall lyssna till
+  - "dess br\xE4kande."
+  start: !human_time '01:05:30.320'
+- end: !human_time '01:05:36.765'
+  lines:
+  - "B\xE4\xE4. B\xE4\xE4."
+  start: !human_time '01:05:35.400'
+- end: !human_time '01:05:44.561'
+  lines:
+  - Far ej till Aten, jag ber er,
+  - "f\xF6r d\xE5 brister mitt hj\xE4rta."
+  start: !human_time '01:05:39.680'
+- end: !human_time '01:05:46.949'
+  lines:
+  - I tro och sanning, jag har inte
+  - "tid att \xE4lska..."
+  start: !human_time '01:05:45.520'
+- end: !human_time '01:05:47.627'
+  lines:
+  - "H\xF6r dig inte."
+  start: !human_time '01:05:46.975'
+- end: !human_time '01:05:48.681'
+  lines:
+  - "Nej, h\xF6gre."
+  start: !human_time '01:05:47.680'
+- end: !human_time '01:05:49.881'
+  lines:
+  - Vad?
+  start: !human_time '01:05:48.880'
+- end: !human_time '01:05:51.485'
+  lines:
+  - "-H\xF6gre."
+  - "-Tala h\xF6gre!"
+  start: !human_time '01:05:49.960'
+- end: !human_time '01:05:53.801'
+  lines:
+  - I tro och sanning, jag har inte
+  - "tid att \xE4lska en dam."
+  start: !human_time '01:05:51.560'
+- end: !human_time '01:05:55.370'
+  lines:
+  - "Krigandet \xE4r min \xE4lskarinna."
+  start: !human_time '01:05:53.880'
+- end: !human_time '01:06:01.645'
+  lines:
+  - -Replik?
+  - "-Jag skriver k\xE4rleksdikter."
+  start: !human_time '01:06:00.200'
+- end: !human_time '01:06:07.206'
+  lines:
+  - "Jag skriver k\xE4rleksdikter som"
+  - "inga damer h\xF6r."
+  start: !human_time '01:06:02.040'
+- end: !human_time '01:06:11.167'
+  lines:
+  - "Och jag f\xE4ller t\xE5rar som"
+  - faller till marken-
+  - ''
+  start: !human_time '01:06:07.560'
+- end: !human_time '01:06:14.130'
+  lines:
+  - "-utan n\xE5got ljud vid fallet..."
+  start: !human_time '01:06:11.240'
+- end: !human_time '01:06:17.369'
+  lines:
+  - Du suger.
+  - "G\xE5 av scenen, idiot."
+  - ''
+  start: !human_time '01:06:14.240'
+- end: !human_time '01:06:19.487'
+  lines:
+  - "Jas\xE5!"
+  start: !human_time '01:06:18.440'
+- end: !human_time '01:06:20.891'
+  lines:
+  - Philistines!
+  start: !human_time '01:06:19.560'
+- end: !human_time '01:06:24.722'
+  lines:
+  - "Jag skall st\xE4lla allt till r\xE4tta,"
+  - ''
+  start: !human_time '01:06:21.240'
+- end: !human_time '01:06:30.125'
+  lines:
+  - "eftersom jag \xE4r den vackra Afrodite."
+  start: !human_time '01:06:24.800'
+- end: !human_time '01:06:40.002'
+  lines:
+  - "Jag ber er, fr\xE4mling,"
+  - "g\xF6r mig till er fru."
+  start: !human_time '01:06:35.920'
+- end: !human_time '01:06:44.247'
+  lines:
+  - "Jag s\xF6ker inte n\xE5t gifterm\xE5l"
+  - "f\xF6rutom klyftan..."
+  start: !human_time '01:06:41.880'
+- end: !human_time '01:06:48.245'
+  lines:
+  - Klyvningen av min fiendes kropp.
+  - ''
+  start: !human_time '01:06:44.320'
+- end: !human_time '01:06:51.403'
+  lines:
+  - "D\xE5 skall jag d\xF6 i denna stund."
+  start: !human_time '01:06:49.480'
+- end: !human_time '01:06:52.845'
+  lines:
+  - ''
+  start: !human_time '01:06:51.480'
+- end: !human_time '01:06:57.605'
+  lines:
+  - "Om ni krossar denna dams hj\xE4rta,"
+  - krossar jag ert huvud.
+  start: !human_time '01:06:53.600'
+- end: !human_time '01:07:13.530'
+  lines:
+  - "-H\xE4mta en isp\xE5se."
+  - "-F\xF6rl\xE5t."
+  start: !human_time '01:07:11.960'
+- end: !human_time '01:07:15.886'
+  lines:
+  - "F\xF6rl\xE5t."
+  start: !human_time '01:07:14.680'
+- end: !human_time '01:07:27.324'
+  lines:
+  - "-Forts\xE4tt nu."
+  - "-F\xF6rl\xE5t."
+  start: !human_time '01:07:25.720'
+- end: !human_time '01:07:31.761'
+  lines:
+  - "Jag har fallit p\xE5 mitt sv\xE4rd."
+  start: !human_time '01:07:29.440'
+- end: !human_time '01:07:34.923'
+  lines:
+  - "\xC4r det blod p\xE5 ditt br\xF6st?"
+  start: !human_time '01:07:33.000'
+- end: !human_time '01:07:37.446'
+  lines:
+  - "Ack, jag d\xF6dens."
+  start: !human_time '01:07:35.000'
+- end: !human_time '01:07:45.130'
+  lines:
+  - "L\xE5t mig d\xE5 h\xE5lla er tills"
+  - "er ande er l\xE4mnar."
+  start: !human_time '01:07:42.160'
+- end: !human_time '01:07:49.130'
+  lines:
+  - "Det k\xE4nns som om jag aldrig"
+  - "k\xE4nt er f\xF6rr\xE4n nu."
+  - ''
+  start: !human_time '01:07:46.160'
+- end: !human_time '01:07:52.568'
+  lines:
+  - "Och inget annat betyder n\xE5got"
+  - "f\xF6rutom ni,"
+  start: !human_time '01:07:49.200'
+- end: !human_time '01:07:55.450'
+  lines:
+  - "och mitt hj\xE4rtas lust f\xF6r er."
+  start: !human_time '01:07:52.640'
+- end: !human_time '01:07:57.126'
+  lines:
+  - "Jag \xE4lskar dig."
+  start: !human_time '01:07:55.840'
+- end: !human_time '01:08:02.331'
+  lines:
+  - "Dags att d\xF6, Nobley."
+  start: !human_time '01:08:00.920'
+- end: !human_time '01:08:05.127'
+  lines:
+  - "F\xF6rl\xE5t. F\xF6rl\xE5t."
+  start: !human_time '01:08:02.920'
+- end: !human_time '01:08:14.042'
+  lines:
+  - "Nej, vi har alla d\xF6tt."
+  start: !human_time '01:08:10.560'
+- end: !human_time '01:08:17.201'
+  lines:
+  - Nej!
+  start: !human_time '01:08:16.200'
+- end: !human_time '01:08:24.361'
+  lines:
+  - "Sedan dog de, f\xF6r evigt."
+  start: !human_time '01:08:20.720'
+- end: !human_time '01:08:31.650'
+  lines:
+  - "Dog f\xF6r evigt."
+  start: !human_time '01:08:28.760'
+- end: !human_time '01:08:34.169'
+  lines:
+  - "H\xE5ll k\xE4ften, Fj\xE4rtwright."
+  start: !human_time '01:08:32.360'
+- end: !human_time '01:08:38.371'
+  lines:
+  - "\xC5h!"
+  start: !human_time '01:08:37.040'
+- end: !human_time '01:08:43.042'
+  lines:
+  - Bravo. Bravo!
+  start: !human_time '01:08:41.040'
+- end: !human_time '01:08:46.283'
+  lines:
+  - "Fru Wattlesbrook, du \xE4r magnifik!"
+  start: !human_time '01:08:44.360'
+- end: !human_time '01:08:48.124'
+  lines:
+  - "Vilken beg\xE5vning."
+  start: !human_time '01:08:46.360'
+- end: !human_time '01:08:50.601'
+  lines:
+  - "Lady Heartwright, du \xE4r ett"
+  - "s\xE5nt vackert lik."
+  start: !human_time '01:08:48.200'
+- end: !human_time '01:08:53.005'
+  lines:
+  - Du!
+  start: !human_time '01:08:51.560'
+- end: !human_time '01:08:55.606'
+  lines:
+  - "Jag siktade egentligen p\xE5 dina br\xF6st,"
+  - ''
+  start: !human_time '01:08:53.080'
+- end: !human_time '01:08:58.200'
+  lines:
+  - "men de var en f\xF6r liten m\xE5ltavla."
+  start: !human_time '01:08:55.720'
+- end: !human_time '01:09:01.131'
+  lines:
+  - "\xC5h!"
+  start: !human_time '01:08:59.800'
+- end: !human_time '01:09:11.481'
+  lines:
+  - Jag kommer aldrig att kunna se igen.
+  start: !human_time '01:09:09.160'
+- end: !human_time '01:09:13.971'
+  lines:
+  - "Det g\xE5r bra, \xE4lskling."
+  start: !human_time '01:09:12.640'
+- end: !human_time '01:09:20.562'
+  lines:
+  - "Vi sticker h\xE4rifr\xE5n."
+  - Kom nu.
+  start: !human_time '01:09:18.560'
+- end: !human_time '01:09:25.444'
+  lines:
+  - "<i>\u266A You great,"
+  - "big beautiful door \u266A</i>"
+  start: !human_time '01:09:22.520'
+- end: !human_time '01:09:37.965'
+  lines:
+  - Kom nu.
+  start: !human_time '01:09:36.440'
+- end: !human_time '01:09:42.610'
+  lines:
+  - "Hit\xE5t."
+  start: !human_time '01:09:41.120'
+- end: !human_time '01:09:45.200'
+  lines:
+  - "Varf\xF6r springer vi?"
+  start: !human_time '01:09:43.960'
+- end: !human_time '01:09:47.009'
+  lines:
+  - "F\xF6r en man och en kvinna f\xE5r aldrig-"
+  start: !human_time '01:09:45.280'
+- end: !human_time '01:09:49.128'
+  lines:
+  - -ses tillsammans om
+  - "de inte \xE4r i r\xF6relse."
+  start: !human_time '01:09:47.080'
+- end: !human_time '01:09:59.642'
+  lines:
+  - "Vad \xE4r reglerna f\xF6r att vara ensamma-"
+  start: !human_time '01:09:56.240'
+- end: !human_time '01:10:01.165'
+  lines:
+  - i ditt sovrum?
+  start: !human_time '01:09:59.720'
+- end: !human_time '01:10:03.571'
+  lines:
+  - Just det, ja.
+  start: !human_time '01:10:02.160'
+- end: !human_time '01:10:09.122'
+  lines:
+  - "Du f\xE5r nog g\xE5 nu, innan"
+  - "vi f\xE5r bekymmer."
+  start: !human_time '01:10:04.400'
+- end: !human_time '01:10:16.089'
+  lines:
+  - "Jag hade verkligen s\xE5 roligt ikv\xE4ll."
+  start: !human_time '01:10:12.960'
+- end: !human_time '01:10:17.645'
+  lines:
+  - Jag med.
+  start: !human_time '01:10:16.200'
+- end: !human_time '01:10:31.806'
+  lines:
+  - "Fr\xF6ken Erstwhile?"
+  start: !human_time '01:10:30.520'
+- end: !human_time '01:10:37.009'
+  lines:
+  - Ja, herr Nobley?
+  start: !human_time '01:10:35.200'
+- end: !human_time '01:10:40.528'
+  lines:
+  - Imorgon afton...
+  start: !human_time '01:10:38.560'
+- end: !human_time '01:10:43.206'
+  lines:
+  - "Kan jag f\xE5 de tv\xE5 f\xF6rsta"
+  - danserna med er?
+  start: !human_time '01:10:40.680'
+- end: !human_time '01:10:46.171'
+  lines:
+  - Ja, herr Nobley.
+  start: !human_time '01:10:44.840'
+- end: !human_time '01:10:51.760'
+  lines:
+  - "Fr\xF6ken Erstwhile, kan ni \xF6ppna d\xF6rren igen?"
+  start: !human_time '01:10:49.280'
+- end: !human_time '01:11:06.681'
+  lines:
+  - "N\xE4r jag ser p\xE5 dig, k\xE4nner jag mig-"
+  - ''
+  start: !human_time '01:11:04.280'
+- end: !human_time '01:11:09.330'
+  lines:
+  - "-s\xE4ker p\xE5 n\xE5got."
+  - ''
+  start: !human_time '01:11:07.680'
+- end: !human_time '01:11:35.841'
+  lines:
+  - "-H\xF6r h\xE4r."
+  - -Vad?
+  start: !human_time '01:11:34.840'
+- end: !human_time '01:11:40.801'
+  lines:
+  - "Jag har p\xE5 mig ett par"
+  - rosa mamelucker, bara ifall att.
+  start: !human_time '01:11:35.920'
+- end: !human_time '01:11:45.843'
+  lines:
+  - Herregud.
+  - "Se d\xE4r."
+  start: !human_time '01:11:43.920'
+- end: !human_time '01:11:50.450'
+  lines:
+  - Vi kommer att vara de vackraste
+  - "kvinnorna p\xE5 balen."
+  - ''
+  start: !human_time '01:11:47.560'
+- end: !human_time '01:11:56.684'
+  lines:
+  - "Ha en trevlig kv\xE4ll, Amelia."
+  start: !human_time '01:11:55.080'
+- end: !human_time '01:11:58.807'
+  lines:
+  - "\xC5h."
+  start: !human_time '01:11:57.760'
+- end: !human_time '01:12:00.769'
+  lines:
+  - "Du \xE4r s\xE5 vacker."
+  start: !human_time '01:11:58.880'
+- end: !human_time '01:12:03.771'
+  lines:
+  - "Som en vacker sj\xF6r\xF6vare."
+  start: !human_time '01:12:01.120'
+- end: !human_time '01:12:05.723'
+  lines:
+  - Det har blivit infekterat.
+  start: !human_time '01:12:03.880'
+- end: !human_time '01:12:07.769'
+  lines:
+  - "F\xF6rl\xE5t mig."
+  - "Vi ska nog g\xE5."
+  - ''
+  start: !human_time '01:12:05.880'
+- end: !human_time '01:12:09.446'
+  lines:
+  - Skepp o'hoj!
+  start: !human_time '01:12:08.160'
+- end: !human_time '01:12:10.891'
+  lines:
+  - "\xC4lskling."
+  start: !human_time '01:12:09.560'
+- end: !human_time '01:12:12.445'
+  lines:
+  - Du ser bra ut.
+  start: !human_time '01:12:11.080'
+- end: !human_time '01:12:13.760'
+  lines:
+  - Det ser hemskt ut.
+  start: !human_time '01:12:12.520'
+- end: !human_time '01:12:15.166'
+  lines:
+  - Det ser inte alls bra ut.
+  start: !human_time '01:12:13.960'
+- end: !human_time '01:12:19.643'
+  lines:
+  - "Jag hoppas f\xE5 dansa med en"
+  - "gudinna ikv\xE4ll."
+  start: !human_time '01:12:15.240'
+- end: !human_time '01:12:23.410'
+  lines:
+  - Herre.
+  start: !human_time '01:12:21.760'
+- end: !human_time '01:12:26.165'
+  lines:
+  - "Sm\xF6rj mig i sm\xF6r och l\xE4gg mig"
+  - i en stekpanna.
+  start: !human_time '01:12:23.480'
+- end: !human_time '01:12:29.881'
+  lines:
+  - "D\xE4r \xE4r min \"Venus de Milo\"."
+  start: !human_time '01:12:26.240'
+- end: !human_time '01:12:33.441'
+  lines:
+  - "\xD6verste Andrews."
+  start: !human_time '01:12:32.360'
+- end: !human_time '01:12:34.567'
+  lines:
+  - "Fr\xF6ken Charming."
+  start: !human_time '01:12:33.520'
+- end: !human_time '01:12:47.490'
+  lines:
+  - "Buss p\xE5!"
+  start: !human_time '01:12:45.920'
+- end: !human_time '01:12:50.928'
+  lines:
+  - "Jag vill g\xE4rna se ert sovrum."
+  - ''
+  start: !human_time '01:12:48.880'
+- end: !human_time '01:13:02.367'
+  lines:
+  - Hej.
+  start: !human_time '01:13:01.320'
+- end: !human_time '01:13:03.521'
+  lines:
+  - Hej.
+  start: !human_time '01:13:02.520'
+- end: !human_time '01:13:09.168'
+  lines:
+  - Du ser fantastisk ut.
+  start: !human_time '01:13:05.880'
+- end: !human_time '01:13:12.923'
+  lines:
+  - Tack.
+  - "Du ser mycket bra ut ocks\xE5."
+  start: !human_time '01:13:09.760'
+- end: !human_time '01:13:15.324'
+  lines:
+  - "Fr\xE5n H&M."
+  start: !human_time '01:13:13.640'
+- end: !human_time '01:13:17.682'
+  lines:
+  - "Vart kommer alla m\xE4nniskor ifr\xE5n?"
+  start: !human_time '01:13:15.600'
+- end: !human_time '01:13:21.845'
+  lines:
+  - "Det \xE4r tr\xE4dg\xE5rdsm\xE4staren,"
+  - "hemhj\xE4lpen, betj\xE4nterna."
+  start: !human_time '01:13:17.760'
+- end: !human_time '01:13:24.491'
+  lines:
+  - "Han d\xE4r \xE4r l\xE4dermakaren."
+  start: !human_time '01:13:21.920'
+- end: !human_time '01:13:26.050'
+  lines:
+  - "Han \xE4r v\xE4ldigt l\xE4skig."
+  start: !human_time '01:13:24.560'
+- end: !human_time '01:13:29.000'
+  lines:
+  - "Hur m\xE5r bebish\xE4sten?"
+  start: !human_time '01:13:27.760'
+- end: !human_time '01:13:30.321'
+  lines:
+  - Bara bra.
+  start: !human_time '01:13:29.160'
+- end: !human_time '01:13:32.289'
+  lines:
+  - Han kan prata och allt.
+  start: !human_time '01:13:30.400'
+- end: !human_time '01:13:34.289'
+  lines:
+  - "-Han fr\xE5gade efter dig."
+  - -Verkligen?
+  - ''
+  start: !human_time '01:13:32.400'
+- end: !human_time '01:13:36.408'
+  lines:
+  - "Han fr\xE5gade, \"Var \xE4r halmtjejen?\""
+  start: !human_time '01:13:34.360'
+- end: !human_time '01:13:42.211'
+  lines:
+  - Jag gjorde nog ett intryck.
+  start: !human_time '01:13:39.560'
+- end: !human_time '01:13:45.162'
+  lines:
+  - Jane, jag gillar verkligen dig.
+  start: !human_time '01:13:43.080'
+- end: !human_time '01:13:47.971'
+  lines:
+  - "Om du vill dra h\xE4rifr\xE5n, s\xE5..."
+  start: !human_time '01:13:45.240'
+- end: !human_time '01:13:49.610'
+  lines:
+  - "Fr\xF6ken Erstwhile."
+  start: !human_time '01:13:48.040'
+- end: !human_time '01:13:51.805'
+  lines:
+  - Ska vi?
+  start: !human_time '01:13:50.360'
+- end: !human_time '01:14:22.088'
+  lines:
+  - -Ska vi?
+  - -Ja.
+  start: !human_time '01:14:20.040'
+- end: !human_time '01:14:29.641'
+  lines:
+  - Ni ser otrolig ut.
+  start: !human_time '01:14:28.640'
+- end: !human_time '01:14:30.761'
+  lines:
+  - Verkligen?
+  start: !human_time '01:14:29.760'
+- end: !human_time '01:14:51.250'
+  lines:
+  - "M\xE5r ni bra?"
+  start: !human_time '01:14:49.600'
+- end: !human_time '01:14:54.410'
+  lines:
+  - "Jag m\xE5r bra."
+  - Har ni roligt?
+  start: !human_time '01:14:51.520'
+- end: !human_time '01:14:57.731'
+  lines:
+  - "Jag har det v\xE4ldigt n\xF6jesfullt"
+  - "den h\xE4r aftonen."
+  start: !human_time '01:14:55.080'
+- end: !human_time '01:15:01.364'
+  lines:
+  - "Du hoppar l\xE4tt som en n\xF6tkn\xE4ppare."
+  start: !human_time '01:14:58.360'
+- end: !human_time '01:15:05.322'
+  lines:
+  - "Men inte p\xE5 grund av balen."
+  start: !human_time '01:15:03.240'
+- end: !human_time '01:15:08.207'
+  lines:
+  - Du gav mig precis en komplimang.
+  start: !human_time '01:15:06.000'
+- end: !human_time '01:15:10.282'
+  lines:
+  - "Jane, jag m\xE5ste s\xE4ga dig n\xE5t."
+  start: !human_time '01:15:08.280'
+- end: !human_time '01:15:12.289'
+  lines:
+  - "Jag skall egentligen inte s\xE4ga"
+  - detta,
+  start: !human_time '01:15:10.400'
+- end: !human_time '01:15:14.767'
+  lines:
+  - "faster skulle d\xF6da mig, men..."
+  - ''
+  start: !human_time '01:15:12.400'
+- end: !human_time '01:15:16.525'
+  lines:
+  - "Ni \xE4r min sol och min m\xE5ne."
+  start: !human_time '01:15:15.000'
+- end: !human_time '01:15:19.126'
+  lines:
+  - "Min jord och mina stj\xE4rnor."
+  start: !human_time '01:15:16.600'
+- end: !human_time '01:15:20.526'
+  lines:
+  - Gift er med mig.
+  start: !human_time '01:15:19.240'
+- end: !human_time '01:15:24.127'
+  lines:
+  - Gifta mig med dig?
+  - "S\xE5klart vill jag det!"
+  - ''
+  start: !human_time '01:15:20.600'
+- end: !human_time '01:15:27.481'
+  lines:
+  - "Jag \xE4lskar dig."
+  - "Jag \xE4lskar dig."
+  - ''
+  start: !human_time '01:15:25.160'
+- end: !human_time '01:15:30.530'
+  lines:
+  - "Ni g\xF6r mig till den lyckligaste"
+  - "personen n\xE5nsin, Amelia,"
+  - ''
+  start: !human_time '01:15:27.560'
+- end: !human_time '01:15:33.126'
+  lines:
+  - om ni gifter er med mig.
+  start: !human_time '01:15:30.600'
+- end: !human_time '01:15:34.969'
+  lines:
+  - "\xC5h, George."
+  start: !human_time '01:15:33.240'
+- end: !human_time '01:15:41.891'
+  lines:
+  - Jane.
+  - "Kommer du ih\xE5g v\xE5r f\xF6rsta kv\xE4ll?"
+  start: !human_time '01:15:39.320'
+- end: !human_time '01:15:46.010'
+  lines:
+  - "N\xE5got om d\xE5liga f\xF6rsta intryck?"
+  start: !human_time '01:15:43.040'
+- end: !human_time '01:15:48.567'
+  lines:
+  - "Din \xE5sikt om mig var hemsk."
+  start: !human_time '01:15:46.360'
+- end: !human_time '01:15:51.007'
+  lines:
+  - Jag <i>var</i> hemsk.
+  start: !human_time '01:15:48.640'
+- end: !human_time '01:15:52.445'
+  lines:
+  - "Jag var nerv\xF6s."
+  start: !human_time '01:15:51.080'
+- end: !human_time '01:15:56.207'
+  lines:
+  - "Jag k\xE4nde mig inte hemma"
+  - "och jag t\xE4nkte verkligen inte bli k\xE4r, men..."
+  - ''
+  start: !human_time '01:15:52.520'
+- end: !human_time '01:15:57.681'
+  lines:
+  - Men det har jag.
+  start: !human_time '01:15:56.680'
+- end: !human_time '01:16:00.726'
+  lines:
+  - "Jag vill inte l\xE4mna"
+  - "den h\xE4r platsen utan dig."
+  start: !human_time '01:15:58.280'
+- end: !human_time '01:16:04.811'
+  lines:
+  - "Ber\xE4tta f\xF6r mig om jag"
+  - "har n\xE5got som helst hopp."
+  - ''
+  start: !human_time '01:16:00.840'
+- end: !human_time '01:16:09.721'
+  lines:
+  - Jag trodde inte...
+  start: !human_time '01:16:07.480'
+- end: !human_time '01:16:12.371'
+  lines:
+  - "Att jag skulle k\xE4nna s\xE5h\xE4r"
+  - "vid den h\xE4r delen."
+  start: !human_time '01:16:09.800'
+- end: !human_time '01:16:15.162'
+  lines:
+  - "K\xE4nna vad\xE5?"
+  start: !human_time '01:16:13.080'
+- end: !human_time '01:16:23.000'
+  lines:
+  - "Du hade r\xE4tt, det \xE4r ett farligt spel."
+  start: !human_time '01:16:19.200'
+- end: !human_time '01:16:27.561'
+  lines:
+  - "Jag vill inte spela l\xE4ngre."
+  start: !human_time '01:16:25.320'
+- end: !human_time '01:16:30.804'
+  lines:
+  - "Vad vill du d\xE5?"
+  start: !human_time '01:16:29.200'
+- end: !human_time '01:16:33.524'
+  lines:
+  - "Jag vill ha n\xE5got \xE4kta."
+  start: !human_time '01:16:31.840'
+- end: !human_time '01:16:38.646'
+  lines:
+  - "Urs\xE4kta mig."
+  start: !human_time '01:16:37.520'
+- end: !human_time '01:16:41.170'
+  lines:
+  - "Urs\xE4kta mig."
+  start: !human_time '01:16:39.520'
+- end: !human_time '01:16:43.725'
+  lines:
+  - Hej, du.
+  start: !human_time '01:16:42.360'
+- end: !human_time '01:16:45.126'
+  lines:
+  - "Vill du fortfarande dra h\xE4rifr\xE5n?"
+  start: !human_time '01:16:44.000'
+- end: !human_time '01:16:46.281'
+  lines:
+  - Ja.
+  start: !human_time '01:16:45.200'
+- end: !human_time '01:16:48.200'
+  lines:
+  - "Urs\xE4kta."
+  start: !human_time '01:16:46.960'
+- end: !human_time '01:16:49.406'
+  lines:
+  - "God natt, ers majest\xE4t."
+  start: !human_time '01:16:48.280'
+- end: !human_time '01:16:54.083'
+  lines:
+  - "Jag r\xF6rde v\xE4l inte vid er ol\xE4mpligt?"
+  start: !human_time '01:16:50.840'
+- end: !human_time '01:16:55.650'
+  lines:
+  - Jo.
+  - Och om vi skall vara tillsammans-
+  - ''
+  start: !human_time '01:16:54.160'
+- end: !human_time '01:16:58.166'
+  lines:
+  - "f\xE5r du aldrig r\xF6ra p\xE5 mig s\xE5d\xE4r igen,"
+  start: !human_time '01:16:55.720'
+- end: !human_time '01:16:59.969'
+  lines:
+  - "om vi ska vara tillsammans, det vill s\xE4ga."
+  start: !human_time '01:16:58.240'
+- end: !human_time '01:17:03.525'
+  lines:
+  - "Till och med Prudence f\xE5r r\xF6ra."
+  start: !human_time '01:17:00.760'
+- end: !human_time '01:17:12.963'
+  lines:
+  - "-\xC4r du klar?"
+  - -Ja.
+  start: !human_time '01:17:11.040'
+- end: !human_time '01:17:23.326'
+  lines:
+  - Fru Wattlesbrook fick Nobley
+  - "att fria till mig ikv\xE4ll."
+  start: !human_time '01:17:19.560'
+- end: !human_time '01:17:24.561'
+  lines:
+  - Klassiskt av dem.
+  start: !human_time '01:17:23.400'
+- end: !human_time '01:17:25.766'
+  lines:
+  - Japp.
+  start: !human_time '01:17:24.640'
+- end: !human_time '01:17:28.002'
+  lines:
+  - "Gick du d\xE4rifr\xE5n d\xE5?"
+  start: !human_time '01:17:25.840'
+- end: !human_time '01:17:30.487'
+  lines:
+  - Fan vad elakt.
+  start: !human_time '01:17:28.120'
+- end: !human_time '01:17:31.800'
+  lines: []
+  start: !human_time '01:17:30.560'
+- end: !human_time '01:17:36.645'
+  lines:
+  - "Hans roll var ju \xE4nd\xE5 som en dr\xF6m."
+  start: !human_time '01:17:32.560'
+- end: !human_time '01:17:38.731'
+  lines:
+  - Ja.
+  start: !human_time '01:17:37.400'
+- end: !human_time '01:17:41.085'
+  lines:
+  - Jag skulle inte gifta mig med honom.
+  start: !human_time '01:17:39.560'
+- end: !human_time '01:17:45.441'
+  lines:
+  - "Han har d\xE5liga kn\xE4n."
+  start: !human_time '01:17:43.040'
+- end: !human_time '01:17:47.887'
+  lines:
+  - "-D\xE5liga kn\xE4n?"
+  - "-Har han pratat om sina kn\xE4n?"
+  start: !human_time '01:17:45.520'
+- end: !human_time '01:17:50.369'
+  lines:
+  - "Jag \xE4r visst en st\xF6rre n\xF6rd"
+  - "\xE4n vad jag trodde."
+  start: !human_time '01:17:48.480'
+- end: !human_time '01:17:53.284'
+  lines:
+  - "Det var faktiskt stunder d\xE5-"
+  start: !human_time '01:17:50.440'
+- end: !human_time '01:17:55.681'
+  lines:
+  - -jag verkligen trodde
+  - "att det var \xE4kta."
+  - ''
+  start: !human_time '01:17:53.360'
+- end: !human_time '01:17:59.401'
+  lines:
+  - "Fru Wattlesbrook anst\xE4ller ju"
+  - "de b\xE4sta sk\xE5despelarna."
+  start: !human_time '01:17:55.760'
+- end: !human_time '01:18:01.010'
+  lines:
+  - Ja.
+  start: !human_time '01:17:59.520'
+- end: !human_time '01:18:03.081'
+  lines:
+  - Och...
+  start: !human_time '01:18:02.080'
+- end: !human_time '01:18:08.162'
+  lines:
+  - "Hennes kunder \xE4r inte s\xE5"
+  - "pj\xE5kiga heller."
+  start: !human_time '01:18:04.680'
+- end: !human_time '01:18:16.006'
+  lines:
+  - "Det \xE4r bra att du inte \xE4r en del av allt det d\xE4r."
+  - ''
+  start: !human_time '01:18:13.400'
+- end: !human_time '01:18:18.606'
+  lines:
+  - "Du g\xF6r det l\xE4ttare f\xF6r mig att"
+  - "bara l\xE4mna allt."
+  start: !human_time '01:18:16.080'
+- end: !human_time '01:18:22.524'
+  lines:
+  - "Mitt flyg g\xE5r ju imorgon,"
+  - ''
+  start: !human_time '01:18:20.840'
+- end: !human_time '01:18:25.080'
+  lines:
+  - "men jag kanske kan \xE4ndra det."
+  start: !human_time '01:18:22.600'
+- end: !human_time '01:18:27.288'
+  lines:
+  - "Kanske stanna lite l\xE4ngre i London."
+  start: !human_time '01:18:25.160'
+- end: !human_time '01:18:33.970'
+  lines:
+  - "Det \xE4r ett bud som jag..."
+  - "Inte ska s\xE4ga nej till."
+  start: !human_time '01:18:31.080'
+- end: !human_time '01:18:38.287'
+  lines:
+  - "Jag vill g\xE4rna se dig i..."
+  start: !human_time '01:18:36.080'
+- end: !human_time '01:18:41.366'
+  lines:
+  - Kanske ett par byxor?
+  start: !human_time '01:18:38.760'
+- end: !human_time '01:18:45.407'
+  lines:
+  - "Har du n\xE5t lite mindre 1800-tal?"
+  start: !human_time '01:18:41.960'
+- end: !human_time '01:18:46.720'
+  lines:
+  - Har du?
+  start: !human_time '01:18:45.480'
+- end: !human_time '01:18:49.485'
+  lines:
+  - "Ja, jag har n\xE5gra korta shorts."
+  start: !human_time '01:18:46.800'
+- end: !human_time '01:18:52.691'
+  lines:
+  - "<i>Var v\xE4nlig tag med smutsiga"
+  - "kjolar och underkl\xE4der...</i>"
+  start: !human_time '01:18:49.960'
+- end: !human_time '01:18:54.569'
+  lines:
+  - Jane.
+  - Lizzie.
+  start: !human_time '01:18:52.760'
+- end: !human_time '01:18:56.369'
+  lines:
+  - "Ska du \xE5ka?"
+  start: !human_time '01:18:54.640'
+- end: !human_time '01:18:58.488'
+  lines:
+  - Ja, jag packar nu.
+  start: !human_time '01:18:56.440'
+- end: !human_time '01:19:01.721'
+  lines:
+  - Jag vill bara att du ska veta...
+  - ''
+  start: !human_time '01:18:59.320'
+- end: !human_time '01:19:03.440'
+  lines:
+  - "Tack f\xF6r allt."
+  start: !human_time '01:19:02.200'
+- end: !human_time '01:19:05.648'
+  lines:
+  - Och jag har gjort denna till dig.
+  start: !human_time '01:19:03.520'
+- end: !human_time '01:19:08.364'
+  lines:
+  - All broderi.
+  start: !human_time '01:19:06.760'
+- end: !human_time '01:19:10.442'
+  lines:
+  - "Den \xE4r vacker."
+  start: !human_time '01:19:08.440'
+- end: !human_time '01:19:14.243'
+  lines:
+  - "Jag tycker att hon \xE4r vackrare"
+  - "\xE4n mig, inte sant?"
+  start: !human_time '01:19:11.080'
+- end: !human_time '01:19:19.081'
+  lines:
+  - "V\xE4ldig fin brodering."
+  - ''
+  start: !human_time '01:19:16.680'
+- end: !human_time '01:19:21.920'
+  lines:
+  - "Vad ska du g\xF6ra nu?"
+  start: !human_time '01:19:19.440'
+- end: !human_time '01:19:24.480'
+  lines:
+  - Jag tror att jag stannar-
+  - ''
+  start: !human_time '01:19:22.000'
+- end: !human_time '01:19:25.925'
+  lines:
+  - -och kollar in alla nya rekryter.
+  - ''
+  start: !human_time '01:19:24.560'
+- end: !human_time '01:19:30.962'
+  lines:
+  - Se till att alla vet att
+  - "\xF6verste Andrews \xE4r upptagen."
+  - ''
+  start: !human_time '01:19:26.000'
+- end: !human_time '01:19:35.443'
+  lines:
+  - "Sen ska jag fr\xE5ga fru Wattlesbrook-"
+  start: !human_time '01:19:31.040'
+- end: !human_time '01:19:38.000'
+  lines:
+  - "-om jag f\xE5r k\xF6pa st\xE4llet."
+  - ''
+  start: !human_time '01:19:35.520'
+- end: !human_time '01:19:39.286'
+  lines:
+  - "L\xE5ter bra."
+  start: !human_time '01:19:38.080'
+- end: !human_time '01:19:41.283'
+  lines:
+  - Ja, jag ska nog det.
+  start: !human_time '01:19:39.360'
+- end: !human_time '01:19:44.091'
+  lines:
+  - Lizzie, jag tror att...
+  start: !human_time '01:19:41.360'
+- end: !human_time '01:19:46.367'
+  lines:
+  - "Jag tror att \xF6verste Andrews \xE4r..."
+  start: !human_time '01:19:44.160'
+- end: !human_time '01:19:50.764'
+  lines:
+  - "Jag tror att han kanske \xE4r..."
+  - ''
+  start: !human_time '01:19:47.760'
+- end: !human_time '01:19:57.649'
+  lines:
+  - Perfekt till dig.
+  start: !human_time '01:19:55.920'
+- end: !human_time '01:19:59.964'
+  lines:
+  - Jane, tack.
+  start: !human_time '01:19:58.280'
+- end: !human_time '01:20:03.203'
+  lines:
+  - "Jag trodde du skulle s\xE4ga att"
+  - "han var b\xF6g."
+  start: !human_time '01:20:00.040'
+- end: !human_time '01:20:05.971'
+  lines:
+  - "Adj\xF6."
+  start: !human_time '01:20:04.560'
+- end: !human_time '01:20:08.485'
+  lines:
+  - "Farv\xE4l."
+  start: !human_time '01:20:07.040'
+- end: !human_time '01:20:14.965'
+  lines:
+  - "Det h\xE4r var det b\xE4sta hittils."
+  start: !human_time '01:20:10.880'
+- end: !human_time '01:20:16.969'
+  lines:
+  - "F\xF6rutom \xF6gonurholkningen."
+  start: !human_time '01:20:15.080'
+- end: !human_time '01:20:18.491'
+  lines:
+  - "\xC4r du inte brittisk?"
+  start: !human_time '01:20:17.080'
+- end: !human_time '01:20:19.891'
+  lines:
+  - Nej, precis.
+  start: !human_time '01:20:18.560'
+- end: !human_time '01:20:23.607'
+  lines:
+  - "Tv\xE5 \xE5rs dramakurser l\xE4r dig allt detta."
+  start: !human_time '01:20:20.000'
+- end: !human_time '01:20:26.084'
+  lines:
+  - Du fick Nobley tillslut, va?
+  start: !human_time '01:20:24.400'
+- end: !human_time '01:20:28.447'
+  lines:
+  - "Han var skittr\xE5kig, men..."
+  start: !human_time '01:20:26.160'
+- end: !human_time '01:20:30.642'
+  lines:
+  - "Han var duktig p\xE5 att"
+  - "l\xE5tsas vara k\xE4r i dig."
+  start: !human_time '01:20:28.560'
+- end: !human_time '01:20:33.161'
+  lines:
+  - "Han bad mig s\xE4ga att din mobil var min."
+  start: !human_time '01:20:30.760'
+- end: !human_time '01:20:37.605'
+  lines:
+  - "Det \xE4r s\xE5 sorgligt n\xE4r allt \xE4r \xF6ver."
+  start: !human_time '01:20:34.920'
+- end: !human_time '01:20:40.411'
+  lines:
+  - Men jag vill verkligen ha en massage.
+  start: !human_time '01:20:37.760'
+- end: !human_time '01:20:44.851'
+  lines:
+  - "Min man \xE4r gammal."
+  start: !human_time '01:20:43.440'
+- end: !human_time '01:20:47.526'
+  lines:
+  - "V\xE4ldigt gammal."
+  start: !human_time '01:20:46.400'
+- end: !human_time '01:20:53.762'
+  lines:
+  - Jag tror allt att ni hade en-
+  - ''
+  start: !human_time '01:20:51.680'
+- end: !human_time '01:20:56.002'
+  lines:
+  - "-tillfredsst\xE4llande romans"
+  - "med en av m\xE4nnen?"
+  start: !human_time '01:20:53.920'
+- end: !human_time '01:21:04.443'
+  lines:
+  - Ja, men inte med Nobley.
+  - "Som ni s\xE4kert velat."
+  start: !human_time '01:20:57.960'
+- end: !human_time '01:21:07.728'
+  lines:
+  - "K\xE4ra Jane, Henry var aldrig er romans."
+  start: !human_time '01:21:05.600'
+- end: !human_time '01:21:10.889'
+  lines:
+  - Hans uppdrag var att ta hand om
+  - Lady Heartwright-
+  - ''
+  start: !human_time '01:21:07.840'
+- end: !human_time '01:21:13.440'
+  lines:
+  - "-tills George East var klar med sin s\xE5pa."
+  start: !human_time '01:21:10.960'
+- end: !human_time '01:21:17.083'
+  lines:
+  - "Nej, Martin var er romans fr\xE5n b\xF6rjan."
+  start: !human_time '01:21:14.000'
+- end: !human_time '01:21:21.370'
+  lines:
+  - "Nej men han \xE4r ju..."
+  start: !human_time '01:21:19.880'
+- end: !human_time '01:21:23.361'
+  lines:
+  - "Han \xE4r ju en betj\xE4nt?"
+  start: !human_time '01:21:22.360'
+- end: !human_time '01:21:27.804'
+  lines:
+  - "Ni har ju sett mina betj\xE4nter."
+  start: !human_time '01:21:24.880'
+- end: !human_time '01:21:32.280'
+  lines:
+  - "Jag var bara tvungen att s\xE4ra p\xE5 er"
+  - eftersom saker blev-
+  start: !human_time '01:21:28.480'
+- end: !human_time '01:21:34.610'
+  lines:
+  - "-lite f\xF6r varma."
+  start: !human_time '01:21:33.120'
+- end: !human_time '01:21:38.288'
+  lines:
+  - Men jag trodde allt att han
+  - kunde vinna tillbaks er.
+  - ''
+  start: !human_time '01:21:34.920'
+- end: !human_time '01:21:40.408'
+  lines:
+  - Och er tajmning var perfekt.
+  start: !human_time '01:21:38.360'
+- end: !human_time '01:21:42.926'
+  lines:
+  - "De flesta f\xE5r bara se n\xE5gra kattungar."
+  start: !human_time '01:21:40.480'
+- end: !human_time '01:21:46.010'
+  lines:
+  - "Ett f\xF6l \xE4r ett succ\xE9nummer."
+  start: !human_time '01:21:43.200'
+- end: !human_time '01:21:48.210'
+  lines:
+  - "F\xF6let?"
+  start: !human_time '01:21:46.640'
+- end: !human_time '01:21:51.170'
+  lines:
+  - "Ni vill nog fara iv\xE4g nu, Jane?"
+  start: !human_time '01:21:48.280'
+- end: !human_time '01:21:53.120'
+  lines:
+  - Absolut.
+  - ''
+  start: !human_time '01:21:51.880'
+- end: !human_time '01:21:54.480'
+  lines:
+  - "\xC4r ni uppr\xF6rd?"
+  start: !human_time '01:21:53.240'
+- end: !human_time '01:21:56.645'
+  lines:
+  - Nej inte alls.
+  start: !human_time '01:21:55.120'
+- end: !human_time '01:21:59.769'
+  lines:
+  - "Ta det inte personligt n\xE4r"
+  - "jag st\xE4nger ner st\xE4llet."
+  - ''
+  start: !human_time '01:21:56.720'
+- end: !human_time '01:22:00.921'
+  lines:
+  - "St\xE4nger ner?"
+  start: !human_time '01:21:59.840'
+- end: !human_time '01:22:03.970'
+  lines:
+  - "Herr Wattlesbrook har v\xE4l anfallit"
+  - "fler g\xE4ster \xE4n mig?"
+  start: !human_time '01:22:01.000'
+- end: !human_time '01:22:06.884'
+  lines:
+  - "Jag kan nog hitta fler klagom\xE5l."
+  start: !human_time '01:22:04.040'
+- end: !human_time '01:22:08.007'
+  lines:
+  - Men...
+  start: !human_time '01:22:06.960'
+- end: !human_time '01:22:19.044'
+  lines:
+  - "<i>\u266A Bright eyes</i>"
+  start: !human_time '01:22:17.360'
+- end: !human_time '01:22:22.528'
+  lines:
+  - "<i>\u266A Every now and then"
+  - "I fall apart \u266A</i>"
+  start: !human_time '01:22:19.160'
+- end: !human_time '01:22:23.840'
+  lines:
+  - "Nobley, allts\xE5?"
+  start: !human_time '01:22:22.600'
+- end: !human_time '01:22:28.129'
+  lines:
+  - "Du kn\xF6t kanske kravatten"
+  - "lite f\xF6r h\xE5rt."
+  start: !human_time '01:22:25.000'
+- end: !human_time '01:22:31.522'
+  lines:
+  - Jag kan inte tro att du inte fick Jane.
+  start: !human_time '01:22:29.360'
+- end: !human_time '01:22:34.046'
+  lines:
+  - "Han var ju j\xE4tteenkel."
+  start: !human_time '01:22:31.600'
+- end: !human_time '01:22:37.329'
+  lines:
+  - ''
+  start: !human_time '01:22:35.520'
+- end: !human_time '01:22:49.891'
+  lines:
+  - "F\xF6rbannad man d\xE4r."
+  start: !human_time '01:22:48.560'
+- end: !human_time '01:22:53.722'
+  lines:
+  - "Detta \xE4r \xF6verste Andrews."
+  - Ja.
+  start: !human_time '01:22:51.560'
+- end: !human_time '01:22:56.806'
+  lines:
+  - "Jag s\xE4ger \xE5t honom p\xE5 direkten."
+  start: !human_time '01:22:54.280'
+- end: !human_time '01:23:01.761'
+  lines:
+  - Ha en bra dag.
+  - "Hejd\xE5."
+  - ''
+  start: !human_time '01:22:58.200'
+- end: !human_time '01:23:04.847'
+  lines:
+  - "Det var frun fr\xE5n herrg\xE5rden."
+  - ''
+  start: !human_time '01:23:02.560'
+- end: !human_time '01:23:06.604'
+  lines:
+  - "Ni skall visst forts\xE4tta med arbetet."
+  - ''
+  start: !human_time '01:23:04.920'
+- end: !human_time '01:23:10.969'
+  lines:
+  - Far till flygplatsen och
+  - "stryk n\xE5gon medh\xE5rs."
+  - ''
+  start: !human_time '01:23:06.680'
+- end: !human_time '01:23:14.528'
+  lines:
+  - "De vackra f\xE5r ingen rast."
+  start: !human_time '01:23:12.560'
+- end: !human_time '01:23:21.809'
+  lines:
+  - Inget bagage. Nej.
+  start: !human_time '01:23:18.760'
+- end: !human_time '01:23:30.161'
+  lines:
+  - "<i>Detta \xE4r ett kundmeddelande.</i>"
+  start: !human_time '01:23:27.920'
+- end: !human_time '01:23:34.564'
+  lines:
+  - "<i>Kan Jane Erstwhile g\xE5 till informationen.</i>"
+  start: !human_time '01:23:30.240'
+- end: !human_time '01:23:37.689'
+  lines:
+  - <i>Jane Erstwhile till informationen..</i>
+  start: !human_time '01:23:34.640'
+- end: !human_time '01:23:48.085'
+  lines:
+  - Jag tror att...
+  start: !human_time '01:23:46.720'
+- end: !human_time '01:23:49.446'
+  lines:
+  - Jane. Hej.
+  start: !human_time '01:23:48.160'
+- end: !human_time '01:23:52.729'
+  lines:
+  - "F\xF6rl\xE5t f\xF6r att du inte visste."
+  - ''
+  start: !human_time '01:23:49.600'
+- end: !human_time '01:23:55.971'
+  lines:
+  - "Vi kan v\xE4l tillbringa"
+  - "natten tillsammans \xE4nd\xE5?"
+  - ''
+  start: !human_time '01:23:53.240'
+- end: !human_time '01:23:59.962'
+  lines:
+  - "Du \xE4r en sk\xE5despelare!"
+  start: !human_time '01:23:57.960'
+- end: !human_time '01:24:02.210'
+  lines:
+  - Ja, men...
+  start: !human_time '01:24:00.720'
+- end: !human_time '01:24:04.965'
+  lines:
+  - "Du \xE4lskar mig \xE4nd\xE5?"
+  - ''
+  start: !human_time '01:24:02.280'
+- end: !human_time '01:24:12.570'
+  lines:
+  - Och det har inget med att
+  - "jag ska anm\xE4la fruns brottslige make?"
+  - ''
+  - ''
+  start: !human_time '01:24:05.040'
+- end: !human_time '01:24:14.608'
+  lines:
+  - "-S\xE5klart inte."
+  - -Visst.
+  - ''
+  start: !human_time '01:24:12.640'
+- end: !human_time '01:24:16.205'
+  lines:
+  - "Det kanske verkar skumt men k\xE4rlek-"
+  - ''
+  start: !human_time '01:24:14.680'
+- end: !human_time '01:24:18.402'
+  lines:
+  - -har faktiskt
+  - "blommat p\xE5 stenigare mark."
+  - ''
+  start: !human_time '01:24:16.320'
+- end: !human_time '01:24:23.202'
+  lines:
+  - "Fru Wattlesbrook skrev v\xE4l den repliken?"
+  start: !human_time '01:24:19.800'
+- end: !human_time '01:24:25.484'
+  lines:
+  - -Ja, det gjorde hon.
+  - -Visst.
+  start: !human_time '01:24:23.720'
+- end: !human_time '01:24:27.324'
+  lines:
+  - "Men jag \xE4r den som utf\xF6r den."
+  - ''
+  start: !human_time '01:24:25.560'
+- end: !human_time '01:24:28.561'
+  lines:
+  - Jane!
+  start: !human_time '01:24:27.560'
+- end: !human_time '01:24:31.407'
+  lines:
+  - "Bra, domar'n \xE4r h\xE4r f\xF6r att r\xE4dda dagen."
+  start: !human_time '01:24:29.120'
+- end: !human_time '01:24:33.926'
+  lines:
+  - "Tro inte p\xE5 n\xE5t han s\xE4ger."
+  start: !human_time '01:24:31.480'
+- end: !human_time '01:24:36.401'
+  lines:
+  - Martin var ju din romans.
+  start: !human_time '01:24:34.000'
+- end: !human_time '01:24:38.289'
+  lines:
+  - Jag vet.
+  start: !human_time '01:24:36.480'
+- end: !human_time '01:24:39.691'
+  lines:
+  - Hon vet.
+  start: !human_time '01:24:38.360'
+- end: !human_time '01:24:41.564'
+  lines:
+  - "Vad g\xF6r du h\xE4r?"
+  start: !human_time '01:24:39.800'
+- end: !human_time '01:24:44.008'
+  lines:
+  - "Jag tror inte att du f\xF6rst\xE5r-"
+  start: !human_time '01:24:41.880'
+- end: !human_time '01:24:46.128'
+  lines:
+  - "-att jag inte \xE4r den du tror jag \xE4r."
+  start: !human_time '01:24:44.080'
+- end: !human_time '01:24:48.168'
+  lines:
+  - "-Jag <i>\xE4r</i> k\xE4r i dig."
+  - -Visst.
+  start: !human_time '01:24:46.200'
+- end: !human_time '01:24:50.124'
+  lines:
+  - "Faster \xE4r en sk\xE5despelerska, visst."
+  start: !human_time '01:24:48.360'
+- end: !human_time '01:24:53.682'
+  lines:
+  - "Han \xE4r lite underlig men hon var"
+  - desperat.
+  - ''
+  start: !human_time '01:24:50.200'
+- end: !human_time '01:24:55.285'
+  lines:
+  - "Din f\xF6rsta vecka i herrg\xE5rden var-"
+  start: !human_time '01:24:53.760'
+- end: !human_time '01:24:56.890'
+  lines:
+  - "min f\xF6rsta vecka ocks\xE5."
+  - ''
+  start: !human_time '01:24:55.400'
+- end: !human_time '01:24:58.650'
+  lines:
+  - "Jag \xE4r ingen sk\xE5despelare."
+  start: !human_time '01:24:57.080'
+- end: !human_time '01:25:00.449'
+  lines:
+  - "Lyssna inte p\xE5 honom, Janey."
+  start: !human_time '01:24:58.720'
+- end: !human_time '01:25:03.603'
+  lines:
+  - Kalla mig inte Janey!
+  - "Du fick betalt f\xF6r att kyssa mig!"
+  start: !human_time '01:25:00.520'
+- end: !human_time '01:25:06.604'
+  lines:
+  - "F\xF6r dig heter jag fr\xF6ken Erstwhile."
+  start: !human_time '01:25:03.680'
+- end: !human_time '01:25:08.728'
+  lines:
+  - "Det \xE4r s\xE5 pinsamt."
+  start: !human_time '01:25:06.680'
+- end: !human_time '01:25:12.529'
+  lines:
+  - "Har ni liksom havande h\xE4star"
+  - "p\xE5 lager, eller?"
+  - ''
+  start: !human_time '01:25:08.800'
+- end: !human_time '01:25:14.648'
+  lines:
+  - -Vad?
+  - "-Du \xE4r ingen veterin\xE4r!"
+  start: !human_time '01:25:12.600'
+- end: !human_time '01:25:16.290'
+  lines:
+  - "Jag l\xE4ste biologi i skolan."
+  start: !human_time '01:25:14.720'
+- end: !human_time '01:25:17.600'
+  lines:
+  - "Du spelade ju ocks\xE5."
+  start: !human_time '01:25:16.360'
+- end: !human_time '01:25:19.250'
+  lines:
+  - "Innan du anm\xE4ler,"
+  - ''
+  start: !human_time '01:25:17.680'
+- end: !human_time '01:25:21.764'
+  lines:
+  - "b\xF6r du veta att, \xE4lskling,"
+  - ''
+  start: !human_time '01:25:20.160'
+- end: !human_time '01:25:25.128'
+  lines:
+  - "det vi hade var \xE4kta."
+  start: !human_time '01:25:23.160'
+- end: !human_time '01:25:28.364'
+  lines:
+  - "Nej. Det <i>vi</i> hade var \xE4kta."
+  - Inte sant?
+  start: !human_time '01:25:25.520'
+- end: !human_time '01:25:34.131'
+  lines:
+  - "Du k\xE4nde v\xE4l det genom"
+  - alla dessa kostymer?
+  - ''
+  start: !human_time '01:25:29.000'
+- end: !human_time '01:25:35.929'
+  lines:
+  - Han spelar fortfarande.
+  - ''
+  start: !human_time '01:25:34.200'
+- end: !human_time '01:25:37.804'
+  lines:
+  - "Se p\xE5 kostymen."
+  - "Han \xE4r sk\xE5despelare."
+  - ''
+  start: !human_time '01:25:36.040'
+- end: !human_time '01:25:39.530'
+  lines:
+  - "Du \xE4r bara svartsjuk, eller hur?"
+  - ''
+  start: !human_time '01:25:37.880'
+- end: !human_time '01:25:41.125'
+  lines:
+  - Faster tog mycket
+  - "hellre in en nyb\xF6rjare-"
+  start: !human_time '01:25:39.600'
+- end: !human_time '01:25:45.807'
+  lines:
+  - "-\xE4n att flytta n\xE5n"
+  - "kiwi-sk\xE5despelare till herrg\xE5rden."
+  - ''
+  start: !human_time '01:25:41.200'
+- end: !human_time '01:25:47.331'
+  lines:
+  - "\xC4r inte du heller brittisk?"
+  start: !human_time '01:25:46.000'
+- end: !human_time '01:25:48.481'
+  lines:
+  - "Det \xE4r ju en del av republiken."
+  start: !human_time '01:25:47.400'
+- end: !human_time '01:25:49.681'
+  lines:
+  - Fick du inte vara med i<i>The Hobbit?</i>
+  start: !human_time '01:25:48.600'
+- end: !human_time '01:25:51.571'
+  lines:
+  - Det var droppen.
+  start: !human_time '01:25:50.160'
+- end: !human_time '01:25:52.881'
+  lines:
+  - Nej!
+  start: !human_time '01:25:51.880'
+- end: !human_time '01:25:55.444'
+  lines:
+  - "H\xF6rru ni!"
+  start: !human_time '01:25:53.760'
+- end: !human_time '01:25:57.648'
+  lines:
+  - Stryp honom bara inte.
+  start: !human_time '01:25:55.520'
+- end: !human_time '01:25:59.165'
+  lines:
+  - Okej, lugnt.
+  start: !human_time '01:25:57.720'
+- end: !human_time '01:26:00.605'
+  lines:
+  - "D\xE4r f\xE5r du, England."
+  start: !human_time '01:25:59.240'
+- end: !human_time '01:26:02.125'
+  lines:
+  - "Var f\xF6rsiktig med tr\xF6jan."
+  start: !human_time '01:26:00.680'
+- end: !human_time '01:26:03.645'
+  lines:
+  - Min fot!
+  start: !human_time '01:26:02.200'
+- end: !human_time '01:26:07.048'
+  lines:
+  - Okej.
+  - "Jag \xE4r..."
+  start: !human_time '01:26:03.760'
+- end: !human_time '01:26:08.485'
+  lines:
+  - Sluta! Nej.
+  start: !human_time '01:26:07.120'
+- end: !human_time '01:26:12.605'
+  lines:
+  - "Jag \xE4r less p\xE5 allt det h\xE4r!"
+  start: !human_time '01:26:08.600'
+- end: !human_time '01:26:17.324'
+  lines:
+  - "Det k\xE4ndes bra. Jag skulle gjort"
+  - "det f\xF6r l\xE4ngesen."
+  start: !human_time '01:26:14.400'
+- end: !human_time '01:26:18.771'
+  lines:
+  - Ja.
+  start: !human_time '01:26:17.440'
+- end: !human_time '01:26:20.810'
+  lines:
+  - "Urs\xE4kta."
+  start: !human_time '01:26:19.240'
+- end: !human_time '01:26:23.044'
+  lines:
+  - "H\xF6rde ni det, England!"
+  start: !human_time '01:26:21.440'
+- end: !human_time '01:26:25.487'
+  lines:
+  - "Jag \xE4r klar med allt detta!"
+  start: !human_time '01:26:23.120'
+- end: !human_time '01:26:30.170'
+  lines:
+  - <i>Southwest Airlines-flyget SA435
+  - skall nu borda vid Gate 20.</i>
+  start: !human_time '01:26:27.280'
+- end: !human_time '01:26:31.526'
+  lines:
+  - "Det \xE4r mitt plan."
+  start: !human_time '01:26:30.240'
+- end: !human_time '01:26:33.045'
+  lines:
+  - Pojkar,
+  start: !human_time '01:26:31.600'
+- end: !human_time '01:26:35.805'
+  lines:
+  - "det har varit ett n\xF6je."
+  start: !human_time '01:26:33.120'
+- end: !human_time '01:26:38.121'
+  lines:
+  - "Tack och urs\xE4kta mig."
+  - ''
+  start: !human_time '01:26:35.880'
+- end: !human_time '01:26:44.241'
+  lines:
+  - "Jane, v\xE4nta."
+  - "Jag har aldrig ljugit f\xF6r dig."
+  start: !human_time '01:26:39.440'
+- end: !human_time '01:26:50.046'
+  lines:
+  - Det spelar ingen roll att du inte
+  - var verklig.
+  - ''
+  start: !human_time '01:26:47.440'
+- end: !human_time '01:26:54.286'
+  lines:
+  - Du var perfekt. Tack.
+  start: !human_time '01:26:50.600'
+- end: !human_time '01:27:03.886'
+  lines:
+  - "<i>\u266A Somewhere there's a light</i>"
+  start: !human_time '01:27:00.120'
+- end: !human_time '01:27:09.404'
+  lines:
+  - "<i>\u266A That meets a shoreless tide</i>"
+  start: !human_time '01:27:05.080'
+- end: !human_time '01:27:14.047'
+  lines:
+  - "<i>\u266A But I guess I'm resigned</i>"
+  start: !human_time '01:27:10.520'
+- end: !human_time '01:27:19.326'
+  lines:
+  - "<i>\u266A To never seeing mine</i>"
+  start: !human_time '01:27:15.640'
+- end: !human_time '01:27:24.600'
+  lines:
+  - "<i>\u266A I never lied</i>"
+  start: !human_time '01:27:20.800'
+- end: !human_time '01:27:29.527'
+  lines:
+  - "<i>\u266A All these teenage dreams</i>"
+  start: !human_time '01:27:26.000'
+- end: !human_time '01:27:35.245'
+  lines:
+  - "<i>\u266A Put them all aside</i>"
+  start: !human_time '01:27:31.240'
+- end: !human_time '01:27:39.881'
+  lines:
+  - "<i>\u266A They hurt like kryptonite</i>"
+  start: !human_time '01:27:36.160'
+- end: !human_time '01:28:07.170'
+  lines:
+  - "<i>\u266A And you lost a piece of me \u266A</i>"
+  start: !human_time '01:28:01.640'
+- end: !human_time '01:28:09.288'
+  lines:
+  - "<i>\xC4r du hemma?</i>"
+  - "Hej p\xE5 dig ocks\xE5."
+  start: !human_time '01:28:07.240'
+- end: !human_time '01:28:10.771'
+  lines:
+  - <i>Jag kommer dit nu.</i>
+  start: !human_time '01:28:09.360'
+- end: !human_time '01:28:12.171'
+  lines:
+  - Visst, ses om en stund.
+  start: !human_time '01:28:10.840'
+- end: !human_time '01:28:46.206'
+  lines:
+  - Vad snabbt. Kom in.
+  - ''
+  start: !human_time '01:28:43.760'
+- end: !human_time '01:28:55.009'
+  lines:
+  - Vill du ha te?
+  start: !human_time '01:28:53.200'
+- end: !human_time '01:28:56.846'
+  lines:
+  - "G\xE4rna, tack."
+  start: !human_time '01:28:55.640'
+- end: !human_time '01:29:00.250'
+  lines:
+  - "Vad g\xF6r du h\xE4r?"
+  - ''
+  start: !human_time '01:28:58.600'
+- end: !human_time '01:29:02.924'
+  lines:
+  - Ja...
+  start: !human_time '01:29:01.320'
+- end: !human_time '01:29:07.446'
+  lines:
+  - "Du gl\xF6mde den h\xE4r..."
+  start: !human_time '01:29:06.160'
+- end: !human_time '01:29:12.610'
+  lines:
+  - Tack.
+  start: !human_time '01:29:11.120'
+- end: !human_time '01:29:15.844'
+  lines:
+  - Du kunde ha postat den.
+  - ''
+  start: !human_time '01:29:14.080'
+- end: !human_time '01:29:19.331'
+  lines:
+  - Ja...
+  start: !human_time '01:29:17.920'
+- end: !human_time '01:29:22.451'
+  lines:
+  - Det kunde jag.
+  start: !human_time '01:29:21.040'
+- end: !human_time '01:29:25.491'
+  lines:
+  - "Du har r\xE4tt."
+  start: !human_time '01:29:24.160'
+- end: !human_time '01:29:28.609'
+  lines:
+  - "Vad t\xE4nkte jag p\xE5?"
+  start: !human_time '01:29:26.880'
+- end: !human_time '01:29:38.802'
+  lines:
+  - "V\xE4nta lite."
+  start: !human_time '01:29:36.720'
+- end: !human_time '01:29:42.727'
+  lines:
+  - "Jag t\xE4nker inte anm\xE4la din faster."
+  - ''
+  start: !human_time '01:29:40.360'
+- end: !human_time '01:29:46.249'
+  lines:
+  - "S\xE5 det var lite on\xF6digt att"
+  - "skicka dig \xE4nda hit."
+  - ''
+  start: !human_time '01:29:43.200'
+- end: !human_time '01:29:48.007'
+  lines:
+  - Hon skickade mig inte.
+  start: !human_time '01:29:46.960'
+- end: !human_time '01:29:52.851'
+  lines:
+  - Herr Nobley, eller vem du
+  - "egentligen \xE4r."
+  start: !human_time '01:29:48.960'
+- end: !human_time '01:29:54.206'
+  lines:
+  - Jag heter Henry.
+  start: !human_time '01:29:52.920'
+- end: !human_time '01:29:57.290'
+  lines:
+  - "Mitt namn \xE4r Henry Nobley."
+  start: !human_time '01:29:55.640'
+- end: !human_time '01:29:59.601'
+  lines:
+  - "Jag \xE4r historieprofessor."
+  - ''
+  start: !human_time '01:29:57.360'
+- end: !human_time '01:30:03.241'
+  lines:
+  - "Det \xE4r bra."
+  start: !human_time '01:30:02.160'
+- end: !human_time '01:30:07.245'
+  lines:
+  - Jag har alltid tyckt att min fasters
+  - "arbete \xE4r lite v\xE4l groteskt."
+  start: !human_time '01:30:03.320'
+- end: !human_time '01:30:09.721'
+  lines:
+  - Men jag tyckte verkligen om
+  - att bli en del av historien.
+  start: !human_time '01:30:07.320'
+- end: !human_time '01:30:12.002'
+  lines:
+  - "Tanken p\xE5 en enklare v\xE4rld d\xE4r-"
+  start: !human_time '01:30:09.840'
+- end: !human_time '01:30:15.445'
+  lines:
+  - "-k\xE4rleken \xE4r r\xE4ttfram och f\xF6r evig."
+  start: !human_time '01:30:12.760'
+- end: !human_time '01:30:17.443'
+  lines:
+  - Vi har nog det gemensamt.
+  start: !human_time '01:30:15.520'
+- end: !human_time '01:30:21.248'
+  lines:
+  - "Men det \xE4r egentligen underordnat"
+  - det faktum att-
+  start: !human_time '01:30:19.120'
+- end: !human_time '01:30:24.608'
+  lines:
+  - "-jag \xE4r helt och h\xE5llet"
+  - galen i dig.
+  start: !human_time '01:30:21.320'
+- end: !human_time '01:30:26.965'
+  lines:
+  - Jaha.
+  - Du var kanske-
+  start: !human_time '01:30:25.520'
+- end: !human_time '01:30:30.010'
+  lines:
+  - "-galen i fr\xF6ken Erstwhile men..."
+  start: !human_time '01:30:27.040'
+- end: !human_time '01:30:32.128'
+  lines:
+  - "Du k\xE4nner inte ens mig."
+  - Jag...
+  - ''
+  start: !human_time '01:30:30.080'
+- end: !human_time '01:30:34.563'
+  lines:
+  - "Du \xE4r fr\xF6ken Erstwhile."
+  start: !human_time '01:30:32.720'
+- end: !human_time '01:30:37.761'
+  lines:
+  - "Jag var med dig i pj\xE4sen."
+  - Du var hemsk.
+  start: !human_time '01:30:35.360'
+- end: !human_time '01:30:41.287'
+  lines:
+  - "V\xE4nta, du var hemsk."
+  - Jag var...
+  start: !human_time '01:30:37.840'
+- end: !human_time '01:30:42.887'
+  lines:
+  - "Jag var inte v\xE4ldigt duktig."
+  start: !human_time '01:30:41.840'
+- end: !human_time '01:30:44.121'
+  lines:
+  - Precis.
+  start: !human_time '01:30:43.040'
+- end: !human_time '01:30:46.680'
+  lines:
+  - "Vi b\xE5da \xE4r d\xE5liga p\xE5 att l\xE5tsas."
+  start: !human_time '01:30:44.200'
+- end: !human_time '01:30:48.610'
+  lines:
+  - "Nobley, jag tror inte att det h\xE4r \xE4r..."
+  start: !human_time '01:30:46.960'
+- end: !human_time '01:30:51.763'
+  lines:
+  - "P\xE5 balen sa du att du ville ha n\xE5got \xE4kta."
+  start: !human_time '01:30:48.680'
+- end: !human_time '01:30:53.803'
+  lines:
+  - "Jag anser mig sj\xE4lv vara \xE4kta."
+  start: !human_time '01:30:51.880'
+- end: !human_time '01:30:56.530'
+  lines:
+  - "\xC4r det m\xF6jligt att-"
+  start: !human_time '01:30:54.880'
+- end: !human_time '01:30:59.443'
+  lines:
+  - "-n\xE5n som jag kan"
+  - "g\xF6ra dig lycklig?"
+  - ''
+  start: !human_time '01:30:57.520'
+- end: !human_time '01:31:02.365'
+  lines:
+  - Kan du ge mig en chans?
+  start: !human_time '01:31:00.920'
+- end: !human_time '01:31:09.971'
+  lines:
+  - Nej.
+  - "S\xE5nt h\xE4r h\xE4nder bara inte."
+  - ''
+  start: !human_time '01:31:08.560'
+- end: !human_time '01:31:12.486'
+  lines:
+  - "Det h\xE4r \xE4r min dr\xF6m."
+  - "Det \xE4r inte..."
+  start: !human_time '01:31:10.040'
+- end: !human_time '01:31:13.766'
+  lines:
+  - "Har du n\xE5nsin t\xE4nkt att-"
+  start: !human_time '01:31:12.560'
+- end: !human_time '01:31:15.763'
+  lines:
+  - "-du kanske f\xE5tt allt om bakfoten?"
+  start: !human_time '01:31:13.840'
+- end: !human_time '01:31:17.330'
+  lines:
+  - Jane...
+  start: !human_time '01:31:15.840'
+- end: !human_time '01:31:21.008'
+  lines:
+  - "Du \xE4r min dr\xF6m."
+  start: !human_time '01:31:18.880'
+- end: !human_time '01:31:36.650'
+  lines:
+  - "Buss p\xE5!"
+  start: !human_time '01:31:35.160'
+- end: !human_time '01:31:39.005'
+  lines:
+  - "Buss p\xE5."
+  start: !human_time '01:31:37.560'
+- end: !human_time '01:32:10.489'
+  lines:
+  - "V\xE4lkommen till Austenland."
+  start: !human_time '01:32:07.280'
+- end: !human_time '01:32:18.201'
+  lines:
+  - Hej, allihopa.
+  - "Ha s\xE5 kul."
+  start: !human_time '01:32:14.480'
+- end: !human_time '01:32:22.810'
+  lines:
+  - Herregud. Hej.
+  start: !human_time '01:32:20.000'
+- end: !human_time '01:32:28.285'
+  lines:
+  - ''
+  start: !human_time '01:32:26.840'
+- end: !human_time '01:32:32.284'
+  lines:
+  - "<i>\u266A If you lived in"
+  - a world of love</i>
+  start: !human_time '01:32:29.280'
+- end: !human_time '01:32:35.047'
+  lines:
+  - "<i>\u266A Would you forget"
+  - who you were?</i>
+  start: !human_time '01:32:32.760'
+- end: !human_time '01:32:39.250'
+  lines:
+  - "<i>\u266A Before you get taken in"
+  - by a sight of hand</i>
+  start: !human_time '01:32:35.120'
+- end: !human_time '01:32:43.609'
+  lines:
+  - "<i>\u266A You've got to watch"
+  - your step In Austenland</i>
+  start: !human_time '01:32:39.320'
+- end: !human_time '01:32:50.406'
+  lines:
+  - "Fl\xF6!"
+  start: !human_time '01:32:47.960'
+- end: !human_time '01:32:53.768'
+  lines:
+  - "\xC4lskling."
+  - "Inte r\xF6ra."
+  - ''
+  start: !human_time '01:32:50.480'
+- end: !human_time '01:32:57.084'
+  lines:
+  - Georgie.
+  start: !human_time '01:32:55.480'
+- end: !human_time '01:32:58.650'
+  lines:
+  - Georgie!
+  start: !human_time '01:32:57.160'
+- end: !human_time '01:33:01.529'
+  lines:
+  - "Sl\xE4pp den!"
+  start: !human_time '01:32:59.640'
+- end: !human_time '01:33:06.730'
+  lines:
+  - "Jag \xE4lskar dig, kaptenen! Georgie!"
+  start: !human_time '01:33:03.840'
+- end: !human_time '01:33:12.049'
+  lines:
+  - "<i>\u266A \"I know I feel that way too\"</i>"
+  start: !human_time '01:33:09.000'
+- end: !human_time '01:33:15.602'
+  lines:
+  - Vilken sexig bahytt du har.
+  - ''
+  start: !human_time '01:33:13.600'
+- end: !human_time '01:33:17.091'
+  lines:
+  - "Stick h\xE4rifr\xE5n."
+  start: !human_time '01:33:15.680'
+- end: !human_time '01:33:26.524'
+  lines:
+  - "...och vi f\xF6rlorade allt p\xE5 grund av..."
+  - "L\xE4mna mig ifred!"
+  start: !human_time '01:33:23.600'
+- end: !human_time '01:33:29.686'
+  lines:
+  - "Det h\xE4r \xE4r min dr\xF6m."
+  start: !human_time '01:33:27.160'
+- end: !human_time '01:33:35.567'
+  lines:
+  - "<i>\u266A You can bend your soul"
+  - bend your back, your heart</i>
+  start: !human_time '01:33:32.120'
+- end: !human_time '01:33:40.043'
+  lines:
+  - "<i>\u266A So if you're gonna play"
+  - then you better play hard</i>
+  start: !human_time '01:33:35.640'
+- end: !human_time '01:33:45.927'
+  lines:
+  - "<i>\u266A Austenland won't you come</i>"
+  start: !human_time '01:33:43.720'
+- end: !human_time '01:33:50.164'
+  lines:
+  - "<i>\u266A Where the sun shines"
+  - on your face?</i>
+  start: !human_time '01:33:46.000'
+- end: !human_time '01:33:56.484'
+  lines:
+  - "<i>\u266A Austenland take your"
+  - dancing partner by the waist</i>
+  start: !human_time '01:33:51.080'
+- end: !human_time '01:34:00.681'
+  lines:
+  - "<i>\u266A Oh, with your heart"
+  - in your hand</i>
+  start: !human_time '01:33:58.440'
+- end: !human_time '01:34:05.402'
+  lines:
+  - "<i>\u266A Now you try and catch her"
+  - gaze and say "Who, me?"</i>
+  start: !human_time '01:34:00.760'
+- end: !human_time '01:34:08.484'
+  lines:
+  - "<i>\u266A \"I know"
+  - "I feel that way too\" \u266A</i>"
+  start: !human_time '01:34:05.640'
+- end: !human_time '01:34:18.403'
+  lines:
+  - "<i>\u266A Come on, a little bit"
+  - of hot, hot</i>
+  start: !human_time '01:34:16.560'
+- end: !human_time '01:34:19.925'
+  lines:
+  - "<i>\u266A And a little bit of hot, hot</i>"
+  start: !human_time '01:34:18.480'
+- end: !human_time '01:34:24.525'
+  lines:
+  - "<i>\u266A Just a little bit of</i>"
+  start: !human_time '01:34:23.080'
+- end: !human_time '01:34:27.245'
+  lines:
+  - "<i>\u266A Just a little bit of</i>"
+  start: !human_time '01:34:25.880'
+- end: !human_time '01:34:29.085'
+  lines:
+  - "<i>\u266A Just a little bit of</i>"
+  start: !human_time '01:34:27.560'
+- end: !human_time '01:34:32.648'
+  lines:
+  - "<i>\u266A I was like, good gracious,"
+  - ass is bodacious</i>
+  start: !human_time '01:34:29.360'
+- end: !human_time '01:34:34.722'
+  lines:
+  - "<i>\u266A Flirtatious,"
+  - trying to show faces</i>
+  start: !human_time '01:34:32.720'
+- end: !human_time '01:34:37.007'
+  lines:
+  - "<i>\u266A I'm waiting for the right"
+  - time to shoot my steez you know</i>
+  start: !human_time '01:34:34.800'
+- end: !human_time '01:34:39.606'
+  lines:
+  - "<i>\u266A Waiting for the right"
+  - time to flash them ki's,</i>
+  start: !human_time '01:34:37.080'
+- end: !human_time '01:34:42.126'
+  lines:
+  - "<i>\u266A I'm leaving,"
+  - please believing</i>
+  start: !human_time '01:34:39.680'
+- end: !human_time '01:34:43.929'
+  lines:
+  - "<i>\u266A Me and the rest"
+  - of my heathens</i>
+  start: !human_time '01:34:42.200'
+- end: !human_time '01:34:46.082'
+  lines:
+  - "<i>\u266A Check it, got it locked at"
+  - the top of the Four Seasons</i>
+  start: !human_time '01:34:44.000'
+- end: !human_time '01:34:48.487'
+  lines:
+  - "<i>\u266A Penthouse, roof top,"
+  - birds I'm feeding</i>
+  start: !human_time '01:34:46.200'
+- end: !human_time '01:34:51.006'
+  lines:
+  - "<i>\u266A No deceiving,"
+  - nothing up my sleeve and</i>
+  start: !human_time '01:34:48.560'
+- end: !human_time '01:34:52.963'
+  lines:
+  - "<i>\u266A No teasing I need you to</i>"
+  start: !human_time '01:34:51.120'
+- end: !human_time '01:34:55.321'
+  lines:
+  - "<i>\u266A Get up up on the dance floor</i>"
+  start: !human_time '01:34:53.080'
+- end: !human_time '01:34:57.641'
+  lines:
+  - "<i>\u266A Give that man"
+  - what he asking for</i>
+  start: !human_time '01:34:55.400'
+- end: !human_time '01:34:59.529'
+  lines:
+  - "<i>\u266A 'Cause I feel"
+  - like busting loose</i>
+  start: !human_time '01:34:57.720'
+- end: !human_time '01:35:01.364'
+  lines:
+  - "<i>\u266A And I feel like touching you</i>"
+  start: !human_time '01:34:59.600'
+- end: !human_time '01:35:04.209'
+  lines:
+  - "<i>\u266A And can't nobody"
+  - stop the juice</i>
+  start: !human_time '01:35:02.320'
+- end: !human_time '01:35:05.884'
+  lines:
+  - "<i>\u266A So baby tell me"
+  - what's the use?</i>
+  start: !human_time '01:35:04.280'
+- end: !human_time '01:35:08.725'
+  lines:
+  - "<i>\u266A I said"
+  - It's getting hot in here</i>
+  start: !human_time '01:35:05.960'
+- end: !human_time '01:35:11.371'
+  lines:
+  - "<i>\u266A So hot"
+  - "\u266A So take off all your clothes</i>"
+  start: !human_time '01:35:08.800'
+- end: !human_time '01:35:16.241'
+  lines:
+  - "<i>\u266A I am getting so hot"
+  - I wanna take my clothes off</i>
+  start: !human_time '01:35:11.440'
+- end: !human_time '01:35:18.209'
+  lines:
+  - "<i>\u266A It's getting hot in here</i>"
+  start: !human_time '01:35:16.320'
+- end: !human_time '01:35:20.726'
+  lines:
+  - "<i>\u266A So hot"
+  - "\u266A So take off all your clothes</i>"
+  start: !human_time '01:35:18.280'
+- end: !human_time '01:35:25.362'
+  lines:
+  - "<i>\u266A I am getting so hot"
+  - I wanna take my clothes off</i>
+  start: !human_time '01:35:20.800'
+- end: !human_time '01:35:27.244'
+  lines:
+  - "<i>\u266A I like it when you \u266A"
+  - Ah, ah</i>
+  start: !human_time '01:35:25.560'
+- end: !human_time '01:35:28.970'
+  lines:
+  - "<i>\u266A Girl, baby make it"
+  - "\u266A Ah, ah \u266A</i>"
+  start: !human_time '01:35:27.320'

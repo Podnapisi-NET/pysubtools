@@ -31,7 +31,7 @@ class SubRipStateMachine(object):
 
   # Parts of unit
   _sequence = re.compile(r'^\s*\d+\s*$')
-  _header = re.compile(r'^\s*[0-9:,.]+\s*-->\s*[0-9:,.]+\s*$')
+  _header = re.compile(r'^\s*([0-9:,.]+\s*-->\s*[0-9:,.]+)\s*(.*)$')
   _tagged_header = re.compile(r'^\{([^}]*)\}')
 
   # Tagged properties
@@ -140,6 +140,16 @@ class SubRipStateMachine(object):
       col = self.current_line.index('.')
       self.current_line = self.current_line.replace('.', ',', 1)
       raise ParseWarning(self.current_line_num + 1, col + 1, original, 'Used dot as decimal separator instead of comma.')
+    # Re-check header
+    m = self._header.match(self.current_line)
+    if m.group(2):
+      original = self.fetch_line(self.current_line_num)
+      # Found garbage
+      column = self.current_line.index(m.group(2)) + 1
+      self.current_line = m.group(1)
+      # Re-try
+      self.pause()
+      raise ParseWarning(self.current_line_num + 1, column, original, 'Header has unrecognized content at the end.')
 
     return True
 
