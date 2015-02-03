@@ -293,3 +293,11 @@ Yes, I  said two liner! \x9e
     assert sub[0][1].styles == {
       'color': 'blue'
     }
+
+  def test_lookup(self):
+    """Some encoding python cannot read, we need to make sure it won't make a low-level error."""
+    f = open('./tests/data/corner/lookup_error.srt', 'rb')
+    parser = Parser.from_format('SubRip')
+
+    # This should work now (also, this subtitle has some special chars that without EUC-TW => BIG5-TW would not work)
+    sub = parser.parse(f, encoding = 'bullshit')
