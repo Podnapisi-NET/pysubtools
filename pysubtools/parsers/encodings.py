@@ -53,7 +53,7 @@ def can_decode(data, encoding):
         if char in line:
           proper = False
           break
-  except UnicodeDecodeError:
+  except (UnicodeDecodeError, LookupError):
     proper = False
 
   if reader:
