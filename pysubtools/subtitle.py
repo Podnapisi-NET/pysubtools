@@ -298,7 +298,7 @@ class SubtitleUnit(object):
     # Get known attributes
     start = d.pop('start')
     end = d.pop('end')
-    lines = d.pop('lines')
+    lines = d.pop('_lines')
     return "SubtitleUnit({}, {}, {}, {})".format(start, end, lines, d)
 
   def to_dict(self, human_time = True):
