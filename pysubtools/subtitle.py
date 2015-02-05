@@ -137,7 +137,7 @@ class SubtitleLine(object):
     text = d.pop('text', u'').encode('utf8')
     return "SubtitleLine({}{})".format(
       text,
-      (', ' + ', '.join([' = '.join([k, str(v)]) for k, v in d.items()])) if d else ''
+      (', ' + ', '.join([' = '.join([k, unicode(v).encode('utf-8')]) for k, v in d.items()])) if d else ''
     )
 
   def __eq__(self, other):
