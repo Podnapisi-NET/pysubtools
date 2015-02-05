@@ -1,0 +1,4525 @@
+---
+units:
+- end: !human_time '00:00:07.900'
+  lines:
+  - "\u5927 \u7269"
+  start: !human_time '00:00:05.200'
+- end: !human_time '00:00:13.300'
+  lines:
+  - "\u9AD8"
+  - "\u8D24"
+  - "\u5EF7"
+  start: !human_time '00:00:11.000'
+- end: !human_time '00:00:18.600'
+  lines:
+  - "\u6743"
+  - "\u76F8"
+  - "\u4F51"
+  start: !human_time '00:00:16.800'
+- end: !human_time '00:00:22.100'
+  lines:
+  - "\u8F66"
+  - "\u4EC1"
+  - "\u8868"
+  start: !human_time '00:00:20.500'
+- end: !human_time '00:00:25.800'
+  lines:
+  - "\u674E"
+  - "\u79C0"
+  - "\u666F"
+  start: !human_time '00:00:24.200'
+- end: !human_time '00:00:28.400'
+  lines:
+  - "\u674E\u987A\u8F7D     \u6734\u6839\u6EE2"
+  start: !human_time '00:00:27.200'
+- end: !human_time '00:00:48.500'
+  lines:
+  - "\u5927 \u7269"
+  start: !human_time '00:00:46.500'
+- end: !human_time '00:01:06.790'
+  lines:
+  - "\u6211\u4EEC\u6C11\u53CB\u515A\u5728\u8FD9\u6B21\u8865\u7F3A\u9009\u4E3E\u4E2D"
+  - "\u53D6\u5F97\u4E86\u4F1F\u5927\u7684\u80DC\u5229"
+  start: !human_time '00:00:58.650'
+- end: !human_time '00:01:01.790'
+  lines:
+  - "-=\u7B2C7\u96C6=-"
+  start: !human_time '00:00:58.350'
+- end: !human_time '00:01:12.390'
+  lines:
+  - "\u6211\u4EEC\u6C11\u53CB\u515A\u7684\u80DC\u5229"
+  - "\u662F\u7EFF\u8272\u653F\u6CBB\u7684\u80DC\u5229"
+  start: !human_time '00:01:06.790'
+- end: !human_time '00:01:18.930'
+  lines:
+  - "\u4E3A\u4E86\u62A5\u7B54\u56FD\u6C11\u5BF9\u7EFF\u8272\u653F\u6CBB\u7684\u652F\
+    \u6301"
+  start: !human_time '00:01:12.390'
+- end: !human_time '00:01:31.340'
+  lines:
+  - "\u660E\u5E74\u7684\u603B\u9009\u6211\u4EEC\u4E00\u5B9A\u8981\u5168\u529B\u4EE5\
+    \u8D74"
+  start: !human_time '00:01:18.930'
+- end: !human_time '00:01:36.150'
+  lines:
+  - "\u4E00\u8D77\u5E72\u676F\u5427"
+  start: !human_time '00:01:31.340'
+- end: !human_time '00:01:43.690'
+  lines:
+  - "\u4E3A\u5927\u97E9\u6C11\u56FD\u7EFF\u8272\u653F\u6CBB\u5E72\u676F"
+  start: !human_time '00:01:38.950'
+- end: !human_time '00:01:45.760'
+  lines:
+  - "\u5E72\u676F"
+  start: !human_time '00:01:43.690'
+- end: !human_time '00:02:04.310'
+  lines:
+  - "\u606D\u559C \u606D\u559C"
+  start: !human_time '00:02:01.440'
+- end: !human_time '00:02:06.850'
+  lines:
+  - "\u771F\u662F\u8F9B\u82E6\u4E86"
+  start: !human_time '00:02:04.310'
+- end: !human_time '00:02:09.380'
+  lines:
+  - "\u5F90\u8BAE\u5458\u606D\u559C\u4F60"
+  start: !human_time '00:02:06.850'
+- end: !human_time '00:02:14.250'
+  lines:
+  - "\u542C\u8BF4\u5357\u677E\u6D77\u677E\u5730\u533A\u5230\u6700\u540E"
+  - "\u7968\u6570\u8FD8\u662F\u4E0D\u76F8\u4E0A\u4E0B"
+  start: !human_time '00:02:09.380'
+- end: !human_time '00:02:15.720'
+  lines:
+  - "\u5DEE12\u7968\u7684\u5427"
+  start: !human_time '00:02:14.250'
+- end: !human_time '00:02:18.060'
+  lines:
+  - "11\u7968 \u6211\u53EA\u662F\u8D70\u8FD0\u800C\u5DF2"
+  start: !human_time '00:02:15.720'
+- end: !human_time '00:02:19.930'
+  lines:
+  - "\u800C\u4E14\u591A\u4E8F\u59DC\u8BAE\u5458\u7684\u5E2E\u52A9"
+  start: !human_time '00:02:18.060'
+- end: !human_time '00:02:22.600'
+  lines:
+  - "\u653F\u6CBB\u4E2D\u8FD0\u6C14\u4E5F\u7B97\u5B9E\u529B"
+  start: !human_time '00:02:19.930'
+- end: !human_time '00:02:23.860'
+  lines:
+  - "\u8FD9\u6B21\u9009\u4E3E\u4E2D\u7684\u8270\u8F9B"
+  start: !human_time '00:02:22.600'
+- end: !human_time '00:02:26.000'
+  lines:
+  - "\u4EE5\u540E\u5728\u8BAE\u653F\u65F6\u4F1A\u6709\u6240\u5E2E\u52A9\u7684"
+  start: !human_time '00:02:23.860'
+- end: !human_time '00:02:27.400'
+  lines:
+  - "\u4E0D\u662F\u5417 \u59DC\u8BAE\u5458"
+  start: !human_time '00:02:26.000'
+- end: !human_time '00:02:30.470'
+  lines:
+  - "\u5F90\u8BAE\u5458\u4EE5\u540E\u4F1A\u6210\u4E3A\u6211\u4EEC\u515A\u7684\u6881\
+    \u67F1\u7684"
+  - "\u4EE3\u8868"
+  start: !human_time '00:02:27.400'
+- end: !human_time '00:02:32.540'
+  lines:
+  - "\u90A3\u5F53\u7136\u4E86"
+  start: !human_time '00:02:30.470'
+- end: !human_time '00:02:36.740'
+  lines:
+  - "\u59DC\u8BAE\u5458\u628A\u81EA\u5DF1\u7684\u653F\u6CBB\u751F\u6DAF"
+  - "\u90FD\u642D\u4E0A\u53BB\u4E86"
+  start: !human_time '00:02:32.540'
+- end: !human_time '00:02:39.680'
+  lines:
+  - "\u518D\u6B21\u795D\u8D3A\u4F60"
+  start: !human_time '00:02:36.740'
+- end: !human_time '00:02:42.350'
+  lines:
+  - "\u8D75\u500D\u8C6A\u4EE3\u8868"
+  start: !human_time '00:02:40.280'
+- end: !human_time '00:02:49.290'
+  lines:
+  - "\u6211\u662F\u5357\u677E\u652F\u5385\u6CB3\u60BC\u4E5F\u68C0\u5BDF\u5B98"
+  start: !human_time '00:02:46.550'
+- end: !human_time '00:02:51.090'
+  lines:
+  - "\u73B0\u5728\u603B\u7B97\u8BA4\u51FA\u6211\u4E86\u5427"
+  start: !human_time '00:02:49.290'
+- end: !human_time '00:02:53.560'
+  lines:
+  - "\u4F60\u6765\u8FD9\u91CC\u505A\u4EC0\u4E48"
+  start: !human_time '00:02:51.090'
+- end: !human_time '00:02:55.960'
+  lines:
+  - "\u8BF7\u6536\u4E0B"
+  start: !human_time '00:02:54.090'
+- end: !human_time '00:02:58.100'
+  lines:
+  - "\u8FD9\u662F\u4EC0\u4E48"
+  start: !human_time '00:02:55.960'
+- end: !human_time '00:03:03.640'
+  lines:
+  - "\u4E0D\u662F\u7ED9\u5434\u8BAE\u5458\u800C\u662F\u7ED9\u8D75\u4EE3\u8868\u7684"
+  start: !human_time '00:02:59.430'
+- end: !human_time '00:03:08.240'
+  lines:
+  - "\u662F\u88AB\u544A\u4F20\u7968"
+  start: !human_time '00:03:05.640'
+- end: !human_time '00:03:11.980'
+  lines:
+  - "\u4EC0\u4E48 \u4F20\u7968"
+  start: !human_time '00:03:09.710'
+- end: !human_time '00:03:16.320'
+  lines:
+  - "\u4E0D\u662F\u50CF\u4E0A\u6B21\u90A3\u79CD"
+  - "\u6CA1\u6709\u6CD5\u5F8B\u62D8\u675F\u529B\u7684\u88AB\u544A\u9648\u8FF0\u8C03\
+    \u67E5"
+  start: !human_time '00:03:11.980'
+- end: !human_time '00:03:22.290'
+  lines:
+  - "\u6709\u8DB3\u591F\u8BC1\u636E\u901A\u8FC7\u6CD5\u9662\u7684\u88AB\u544A\u4F20\
+    \u7968"
+  start: !human_time '00:03:16.320'
+- end: !human_time '00:03:26.960'
+  lines:
+  - "\u867D\u7136\u4E0D\u9700\u8981\u4EB2\u81EA\u51FA\u5EAD"
+  start: !human_time '00:03:23.890'
+- end: !human_time '00:03:31.300'
+  lines:
+  - "\u4F46\u662F\u8C01\u77E5\u9053\u5462 \u4F60\u4F1A\u4E0D\u4F1A\u4EB2\u81EA\u51FA\
+    \u5EAD"
+  start: !human_time '00:03:26.960'
+- end: !human_time '00:03:34.430'
+  lines:
+  - "\u4E3A\u4E86\u5927\u97E9\u6C11\u56FD\u7EFF\u8272\u653F\u6CBB"
+  start: !human_time '00:03:31.300'
+- end: !human_time '00:03:39.970'
+  lines:
+  - "\u554A\u5BF9\u4E86 \u795D\u8D3A\u6C11\u53CB\u515A\u7684\u9009\u4E3E\u80DC\u5229"
+  start: !human_time '00:03:35.770'
+- end: !human_time '00:03:42.040'
+  lines:
+  - "\u5434\u8BAE\u5458"
+  start: !human_time '00:03:39.970'
+- end: !human_time '00:03:56.860'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98 \u6CB3\u68C0\u5BDF\u5B98 \u7B49\u7B49"
+  start: !human_time '00:03:53.190'
+- end: !human_time '00:03:58.390'
+  lines:
+  - "\u4F60\u8FD9\u662F\u5728\u5E72\u561B"
+  start: !human_time '00:03:57.320'
+- end: !human_time '00:04:01.190'
+  lines:
+  - "\u6709\u70B9\u8FC7\u4EFD\u554A \u50CF\u4ECA\u5929\u8FD9\u6837\u7684\u65E5\u5B50"
+  start: !human_time '00:03:58.390'
+- end: !human_time '00:04:02.860'
+  lines:
+  - "\u4ECA\u5929\u662F\u4EC0\u4E48\u65E5\u5B50\u554A"
+  start: !human_time '00:04:01.190'
+- end: !human_time '00:04:08.130'
+  lines:
+  - "\u6C11\u53CB\u515A\u9009\u4E3E\u795D\u8D3A\u7EAA\u5FF5\u65E5"
+  - "\u53C8\u4E0D\u662F\u56FD\u5BB6\u6CD5\u5B9A\u65E5"
+  start: !human_time '00:04:02.860'
+- end: !human_time '00:04:12.070'
+  lines:
+  - "\u5927\u5A76\u8BE5\u4E0D\u4F1A\u662F\u53D8\u6210"
+  - "\u515A\u6307\u5BFC\u90E8\u7684\u5C0F\u55BD\u5570\u5427"
+  start: !human_time '00:04:08.670'
+- end: !human_time '00:04:13.210'
+  lines:
+  - "\u4EC0\u4E48"
+  start: !human_time '00:04:12.070'
+- end: !human_time '00:04:18.350'
+  lines:
+  - "\u5927\u5A76 \u522B\u60F3\u6EE5\u7528\u6211\u73CD\u8D35\u7684\u4E00\u7968"
+  start: !human_time '00:04:13.210'
+- end: !human_time '00:04:21.480'
+  lines:
+  - "\u6211\u4EE5\u9009\u6C11\u7684\u8EAB\u4EFD\u4F1A\u4E00\u76F4\u76D1\u7763\u4F60\
+    \u7684"
+  start: !human_time '00:04:18.350'
+- end: !human_time '00:04:23.620'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98"
+  start: !human_time '00:04:21.480'
+- end: !human_time '00:04:26.890'
+  lines:
+  - "\u8BF4\u7684\u6709\u70B9\u8FC7\u4EFD\u4E86\u5427"
+  start: !human_time '00:04:24.020'
+- end: !human_time '00:04:28.490'
+  lines:
+  - "\u59DC\u8BAE\u5458"
+  start: !human_time '00:04:26.890'
+- end: !human_time '00:04:32.660'
+  lines:
+  - "\u4F60\u77E5\u9053\u6211\u6700\u8BA8\u538C\u4EC0\u4E48\u6837\u7684\u4EBA\u5417"
+  start: !human_time '00:04:28.490'
+- end: !human_time '00:04:36.100'
+  lines:
+  - "\u68C0\u5BDF\u5B98\u65F6\u558A\u7740\u8C28\u614E\u8C03\u67E5\u68C0\u5BDF\u72EC\
+    \u7ACB"
+  start: !human_time '00:04:32.660'
+- end: !human_time '00:04:41.500'
+  lines:
+  - "\u641E\u653F\u6CBB\u65F6\u73A9\u8D3F\u8D42\u7684\u8FD9\u79CD\u4EBA"
+  start: !human_time '00:04:36.100'
+- end: !human_time '00:04:45.540'
+  lines:
+  - "\u8BF7\u60A8\u5C0F\u5FC3\u4E86"
+  - "\u6211\u4E0D\u4F1A\u56E0\u4E3A\u60A8\u662F\u68C0\u5BDF\u5B98\u524D\u8F88\u5C31\
+    \u504F\u5FC3\u7684"
+  start: !human_time '00:04:41.500'
+- end: !human_time '00:04:51.550'
+  lines:
+  - "\u771F\u662F"
+  start: !human_time '00:04:48.610'
+- end: !human_time '00:04:53.610'
+  lines:
+  - "\u59DC\u8BAE\u5458\u4E0D\u8981\u751F\u6C14"
+  start: !human_time '00:04:51.550'
+- end: !human_time '00:04:57.080'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98\u8BED\u6C14\u672C\u6765\u5C31\u90A3\u6837"
+  start: !human_time '00:04:53.610'
+- end: !human_time '00:05:01.890'
+  lines:
+  - "\u505A\u68C0\u5BDF\u5B98\u5FC5\u987B\u8981\u6709\u90A3\u79CD\u80C6\u8BC6\u4E0E\
+    \u4E3B\u89C1"
+  start: !human_time '00:04:57.350'
+- end: !human_time '00:05:04.360'
+  lines:
+  - "\u6BD4\u8D77\u90A3\u4E2A\u6211\u4E00\u76F4\u6709\u4E00\u4E2A\u7591\u95EE"
+  start: !human_time '00:05:01.890'
+- end: !human_time '00:05:07.390'
+  lines:
+  - "\u4F60\u8DDF\u6CB3\u68C0\u5BDF\u5B98\u662F\u4EC0\u4E48\u5173\u7CFB"
+  start: !human_time '00:05:04.360'
+- end: !human_time '00:05:13.230'
+  lines:
+  - "\u4EC0\u4E48\u5173\u7CFB \u6545\u4E61\u524D\u540E\u8F88\u5173\u7CFB\u800C\u5DF2"
+  start: !human_time '00:05:08.760'
+- end: !human_time '00:05:16.240'
+  lines:
+  - "\u4F60\u7684\u610F\u601D\u662F"
+  start: !human_time '00:05:13.770'
+- end: !human_time '00:05:17.440'
+  lines:
+  - "\u968F\u53E3\u95EE\u95EE\u800C\u5DF2"
+  start: !human_time '00:05:16.240'
+- end: !human_time '00:05:19.840'
+  lines:
+  - "\u8FD8\u4EE5\u4E3A\u662F\u7279\u522B\u7684\u5173\u7CFB"
+  start: !human_time '00:05:17.440'
+- end: !human_time '00:05:20.910'
+  lines:
+  - "\u8FDB\u53BB\u5427"
+  start: !human_time '00:05:19.840'
+- end: !human_time '00:05:22.840'
+  lines:
+  - "\u597D"
+  start: !human_time '00:05:20.910'
+- end: !human_time '00:05:32.120'
+  lines:
+  - "\u8FD9\u5C0F\u5B50\u4E00\u5B9A\u662F\u5B58\u5FC3\u60F3\u8BA9\u6211\u4EEC\u51FA\
+    \u4E11"
+  start: !human_time '00:05:29.150'
+- end: !human_time '00:05:35.320'
+  lines:
+  - "\u8D76\u7D27\u53EB\u6CD5\u52A1\u90E8\u957F\u64A4\u4ED6\u7684\u804C\u5427"
+  start: !human_time '00:05:32.120'
+- end: !human_time '00:05:36.790'
+  lines:
+  - "\u80FD\u64A4\u4ED6\u7684\u804C\u5417"
+  start: !human_time '00:05:35.320'
+- end: !human_time '00:05:39.190'
+  lines:
+  - "\u4EE3\u8868 \u8FD9\u91CC\u9762\u80AF\u5B9A\u53E6\u6709\u9690\u60C5"
+  start: !human_time '00:05:36.790'
+- end: !human_time '00:05:43.200'
+  lines:
+  - "\u4E00\u4E2A\u5C0F\u68C0\u5BDF\u5B98"
+  - "\u7ADF\u7136\u80FD\u51FA\u793A\u6267\u653F\u515A\u4EE3\u8868\u7684\u4F20\u7968"
+  start: !human_time '00:05:39.190'
+- end: !human_time '00:05:47.500'
+  lines:
+  - "\u4E0A\u5934\u5141\u8BB8\u4E86\u4F20\u7968"
+  - "\u8BF4\u660E\u638C\u63E1\u4E86\u51B3\u5B9A\u6027\u7684\u8BC1\u636E\u554A"
+  start: !human_time '00:05:43.200'
+- end: !human_time '00:05:52.440'
+  lines:
+  - "\u5373\u4F7F\u6709\u8BC1\u636E\u5B83\u7237\u7237\u4E5F\u662F"
+  - "\u7ADF\u7136\u6562\u7ED9\u4EE3\u8868..."
+  start: !human_time '00:05:47.500'
+- end: !human_time '00:05:53.710'
+  lines:
+  - "\u8FD9\u6DF7\u86CB\u5C0F\u5B50"
+  start: !human_time '00:05:52.440'
+- end: !human_time '00:05:57.910'
+  lines:
+  - "\u6709\u53EF\u80FD\u662F"
+  - "\u4E00\u4E2A\u6B63\u4E49\u68C0\u5BDF\u5B98\u7684\u4E2A\u4EBA\u884C\u4E3A"
+  start: !human_time '00:05:53.710'
+- end: !human_time '00:06:00.250'
+  lines:
+  - "\u6240\u4EE5\u6BD4\u8D77\u8EB2\u907F \u8FD8\u662F\u6B63\u9762\u5BF9\u5E94"
+  start: !human_time '00:05:57.910'
+- end: !human_time '00:06:04.380'
+  lines:
+  - "\u90A3\u8BA9\u6211\u4F20\u7968\u5230\u4E61\u4E0B\u51FA\u6D0B\u76F8\u5417"
+  start: !human_time '00:06:00.250'
+- end: !human_time '00:06:08.390'
+  lines:
+  - "\u67E5\u67E5\u68C0\u5BDF\u5B98\u7684\u80CC\u540E"
+  start: !human_time '00:06:05.390'
+- end: !human_time '00:06:13.130'
+  lines:
+  - "\u8FD8\u6709\u8C01\u662F\u8FD9\u4E2A\u4F20\u7968\u80CC\u540E\u7684\u653F\u6CBB\
+    \u540E\u53F0"
+  start: !human_time '00:06:08.390'
+- end: !human_time '00:06:28.610'
+  lines:
+  - "\u666F\u8272\u4E0D\u9519\u554A"
+  start: !human_time '00:06:25.670'
+- end: !human_time '00:06:32.810'
+  lines:
+  - "\u5FC3\u60C5\u4E00\u4E0B\u5B50\u53D8\u8212\u7545\u4E86"
+  start: !human_time '00:06:28.610'
+- end: !human_time '00:06:49.960'
+  lines:
+  - "\u6211\u4E0D\u4F1A\u8FDD\u80CC\u8001\u516C\u7684\u671F\u5F85\u597D\u597D\u5E72\
+    \u7684"
+  start: !human_time '00:06:43.220'
+- end: !human_time '00:07:01.410'
+  lines:
+  - "\u7ED9\u8D75\u500D\u8C6A \u53D1\u4E86\u4F20\u7968 \u4F20\u7968"
+  start: !human_time '00:06:53.070'
+- end: !human_time '00:07:07.010'
+  lines:
+  - "\u59DC\u8BAE\u5458 \u6709\u65F6\u95F4\u5417"
+  start: !human_time '00:07:04.680'
+- end: !human_time '00:07:09.550'
+  lines:
+  - "\u8BF7\u5750 \u4E16\u73CD\u5C0F\u59D0"
+  start: !human_time '00:07:07.010'
+- end: !human_time '00:07:21.960'
+  lines:
+  - "\u8FD9\u662F\u795D\u8D3A\u8865\u7F3A\u9009\u4E3E\u80DC\u5229\u7684\u793C\u7269"
+  start: !human_time '00:07:17.890'
+- end: !human_time '00:07:24.100'
+  lines:
+  - "\u5F88\u5408\u9002\u554A"
+  start: !human_time '00:07:21.960'
+- end: !human_time '00:07:26.100'
+  lines:
+  - "\u8C22\u8C22"
+  start: !human_time '00:07:24.100'
+- end: !human_time '00:07:31.910'
+  lines:
+  - "\u542C\u8BF4\u59DC\u8BAE\u5458"
+  - "\u8F9B\u8F9B\u82E6\u82E6\u6458\u4E0B\u7684\u80DC\u5229\u679C\u5B9E"
+  start: !human_time '00:07:28.700'
+- end: !human_time '00:07:35.380'
+  lines:
+  - "\u88AB\u8D75\u4EE3\u8868\u62A2\u53BB\u4E86 \u4ECE\u59E8\u5988\u90A3\u91CC\u542C\
+    \u8BF4\u7684"
+  start: !human_time '00:07:31.910'
+- end: !human_time '00:07:36.580'
+  lines:
+  - "\u662F\u5417"
+  start: !human_time '00:07:35.380'
+- end: !human_time '00:07:43.120'
+  lines:
+  - "\u6211\u5F88\u60F3\u5728\u59DC\u8BAE\u5458\u8BBE\u60F3\u7684\u653F\u6CBB\u6539\
+    \u9769\u4E2D"
+  - "\u51FA\u4E00\u4EFD\u529B"
+  start: !human_time '00:07:36.580'
+- end: !human_time '00:07:45.850'
+  lines:
+  - "\u8C22\u8C22\u4F60\u7684\u8BDA\u610F"
+  start: !human_time '00:07:44.120'
+- end: !human_time '00:07:51.390'
+  lines:
+  - "Heritage Club\u91CC\u9762\u4EA4\u6613\u7684\u753B"
+  - "\u8DDF\u653F\u6CBB\u6709\u5173\u8054"
+  start: !human_time '00:07:45.850'
+- end: !human_time '00:07:53.630'
+  lines:
+  - "\u8FD9\u4E2A\u59DC\u8BAE\u5458\u5E94\u8BE5\u77E5\u9053\u5427"
+  start: !human_time '00:07:51.390'
+- end: !human_time '00:07:58.930'
+  lines:
+  - "\u4E0A\u6B21\u6CB3\u60BC\u4E5F\u68C0\u5BDF\u5B98\u6765\u8FC7\u753B\u5ECA"
+  start: !human_time '00:07:54.330'
+- end: !human_time '00:08:00.000'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98\u5417"
+  start: !human_time '00:07:58.930'
+- end: !human_time '00:08:08.240'
+  lines:
+  - "\u91D1\u6CF0\u5CF0\u8BAE\u5458\u9001\u7ED9\u8D75\u500D\u8C6A\u4EE3\u8868"
+  - "\u753B\u7684\u9001\u8D27\u5355\u7ED9\u6CB3\u68C0\u5BDF\u5B98\u4E86"
+  start: !human_time '00:08:00.000'
+- end: !human_time '00:08:17.020'
+  lines:
+  - "\u4E0D\u53EA\u662F\u91D1\u6CF0\u5CF0\u8BAE\u5458\u8FD8\u6709"
+  - "\u5176\u4ED6\u4E00\u4E9B\u4EBA\u7684\u4EA4\u6613\u8D44\u6599\u4E5F\u80FD\u627E\
+    \u5F97\u5230"
+  start: !human_time '00:08:09.640'
+- end: !human_time '00:08:19.750'
+  lines:
+  - "\u4E0D\u4F1A\u88AB\u59E8\u5988\u53D1\u73B0\u7684"
+  start: !human_time '00:08:17.020'
+- end: !human_time '00:08:42.780'
+  lines:
+  - "\u5F90\u6167\u7433\u8BAE\u5458"
+  start: !human_time '00:08:41.580'
+- end: !human_time '00:08:44.240'
+  lines:
+  - "\u59DC\u8BAE\u5458"
+  start: !human_time '00:08:42.780'
+- end: !human_time '00:08:48.180'
+  lines:
+  - "\u7B2C\u4E00\u5929\u4E0A\u73ED\u6211\u9001\u4F60\u5230\u56FD\u4F1A\u5427 \u8BF7\
+    \u4E0A\u8F66"
+  start: !human_time '00:08:44.240'
+- end: !human_time '00:08:54.920'
+  lines:
+  - "\u8FC7\u9A6C\u8DEF\u5C31\u5230\u56FD\u4F1A\u4E86\u8FD8\u8981\u5750\u8F66\u5417"
+  start: !human_time '00:08:50.320'
+- end: !human_time '00:09:00.190'
+  lines:
+  - "\u7B2C\u4E00\u5929\u4E0A\u73ED\u6015\u4F60\u8FF7\u8DEF\u554A"
+  - "\u6211\u8FD8\u662F\u9001\u4F60\u5427\u5750\u5427"
+  start: !human_time '00:08:55.320'
+- end: !human_time '00:09:02.460'
+  lines:
+  - "\u662F"
+  start: !human_time '00:09:00.190'
+- end: !human_time '00:09:31.220'
+  lines:
+  - "\u4F60\u597D \u4F60\u597D"
+  start: !human_time '00:09:27.550'
+- end: !human_time '00:09:47.510'
+  lines:
+  - "\u5F90\u8BAE\u5458"
+  start: !human_time '00:09:45.710'
+- end: !human_time '00:09:50.180'
+  lines:
+  - "\u554A \u738B\u7EC4\u957F"
+  start: !human_time '00:09:47.510'
+- end: !human_time '00:09:53.380'
+  lines:
+  - "\u4ECA\u5929\u5F00\u59CB"
+  - "\u6B63\u5F0F\u8F85\u52A9\u5F90\u8BAE\u5458\u8BAE\u653F\u6D3B\u52A8"
+  start: !human_time '00:09:50.180'
+- end: !human_time '00:09:54.980'
+  lines:
+  - "\u662F\u59DC\u8BAE\u5458\u7279\u522B\u6307\u4F7F\u7684"
+  start: !human_time '00:09:53.380'
+- end: !human_time '00:09:57.720'
+  lines:
+  - "\u662F\u8FD9\u6837\u554A \u90A3\u771F\u7684\u5F88\u597D\u554A"
+  start: !human_time '00:09:54.980'
+- end: !human_time '00:10:00.790'
+  lines:
+  - "\u8FD9\u4E9B\u662F\u8981\u5E2E\u52A9\u8BAE\u5458\u60A8\u7684 \u8F85\u4F50\u5B98\
+    \u4EEC"
+  start: !human_time '00:09:57.720'
+- end: !human_time '00:10:03.390'
+  lines:
+  - "\u89C1\u5230\u4F60\u5F88\u9AD8\u5174 \u6211\u53EB\u5F90\u6167\u7433"
+  start: !human_time '00:10:00.790'
+- end: !human_time '00:10:04.990'
+  lines:
+  - "\u4EE5\u540E\u62DC\u6258\u60A8\u4E86"
+  start: !human_time '00:10:03.390'
+- end: !human_time '00:10:09.600'
+  lines:
+  - "\u770B\u6765\u6709\u5F88\u591A\u4EBA\u5728\u5E2E\u6211"
+  - "\u6211\u4E00\u5B9A\u4F1A\u7CBE\u795E\u767E\u500D\u5DE5\u4F5C\u7684"
+  start: !human_time '00:10:04.990'
+- end: !human_time '00:10:23.010'
+  lines:
+  - "\u8FD9\u662F\u5927\u97E9\u6C11\u56FD"
+  - "\u56FD\u4F1A\u8BAE\u5458\u8C61\u5F81\u7684\u91D1\u5FBD\u7AE0"
+  start: !human_time '00:10:18.610'
+- end: !human_time '00:10:28.420'
+  lines:
+  - "\u8FD9\u4E2A\u771F\u7684\u662F\u91D1\u5B50\u7684\u5417"
+  start: !human_time '00:10:25.810'
+- end: !human_time '00:10:32.820'
+  lines:
+  - "\u554A\u54C8 \u90A3\u4E2A\u662F\u9540\u91D1\u7684\u5440"
+  start: !human_time '00:10:29.350'
+- end: !human_time '00:10:34.150'
+  lines:
+  - "\u5982\u679C\u4E22\u5931\u4E86"
+  start: !human_time '00:10:32.820'
+- end: !human_time '00:10:37.360'
+  lines:
+  - "\u53EA\u8981\u5230\u56FD\u4F1A\u529E\u516C\u5BA4"
+  - "\u4EA4\u4E00\u4E07\u4E5D\u5343\u4E94\u767E\u5143\u91CD\u65B0\u4E70\u5C31\u884C\
+    \u4E86"
+  start: !human_time '00:10:34.150'
+- end: !human_time '00:10:40.560'
+  lines:
+  - "\u5982\u679C\u5728\u522B\u7684\u5730\u65B9\u4E70\u5C31\u662F\u4E24\u4E07\u4E94\
+    \u5343\u5143"
+  start: !human_time '00:10:37.360'
+- end: !human_time '00:10:51.970'
+  lines:
+  - "\u5F90\u6167\u7433\u8BAE\u5458"
+  - "\u795D\u8D3A\u4F60\u6210\u4E3A\u5927\u97E9\u6C11\u56FD\u56FD\u6C11\u7684\u4EE3\
+    \u8868"
+  start: !human_time '00:10:47.370'
+- end: !human_time '00:10:53.570'
+  lines:
+  - "\u795D\u8D3A\u4F60"
+  start: !human_time '00:10:51.970'
+- end: !human_time '00:10:56.640'
+  lines:
+  - "\u795D\u8D3A\u60A8"
+  start: !human_time '00:10:53.840'
+- end: !human_time '00:11:02.120'
+  lines:
+  - "\u8C22\u8C22\u5927\u5BB6 \u6211\u4E00\u5B9A\u4F1A\u52AA\u529B\u7684"
+  start: !human_time '00:10:58.710'
+- end: !human_time '00:11:08.590'
+  lines:
+  - "\u65CF\u8C31\u4E0A\u8FDE\u6700\u8FDC\u7684\u8FDC\u65B9\u4EB2\u621A\u90FD\u7B97\
+    \u4E0A"
+  start: !human_time '00:11:05.250'
+- end: !human_time '00:11:10.460'
+  lines:
+  - "\u6211\u4E5F\u662F\u8111\u888B\u6700\u597D\u4F7F\u7684"
+  start: !human_time '00:11:08.590'
+- end: !human_time '00:11:12.730'
+  lines:
+  - "\u4E5F\u662F\u6700\u6709\u51FA\u606F\u7684\u4E00\u4E2A"
+  start: !human_time '00:11:10.460'
+- end: !human_time '00:11:15.660'
+  lines:
+  - "\u6CA1\u6709\u4EBA\u63D0\u62D4\u6211"
+  start: !human_time '00:11:12.730'
+- end: !human_time '00:11:18.600'
+  lines:
+  - "\u505A\u4E86\u68C0\u5BDF\u5B98\u6709\u4EC0\u4E48\u4E86\u4E0D\u8D77\u7684"
+  start: !human_time '00:11:15.660'
+- end: !human_time '00:11:20.200'
+  lines:
+  - "\u53C8\u6CA1\u6709\u5FBD\u7AE0 \u53C8\u6CA1\u6709\u94B1"
+  start: !human_time '00:11:18.600'
+- end: !human_time '00:11:23.000'
+  lines:
+  - "\u53EF\u6545\u4E61\u7684\u4EB2\u621A\u4EEC\u8FD8\u603B\u662F\u62DC\u6258\u6211"
+  start: !human_time '00:11:20.200'
+- end: !human_time '00:11:24.940'
+  lines:
+  - "\u53C8\u4E0D\u80FD\u4E0D\u7406\u4ED6\u4EEC"
+  start: !human_time '00:11:23.000'
+- end: !human_time '00:11:27.610'
+  lines:
+  - "\u6211\u90FD\u5FEB\u75AF\u6389\u4E86"
+  start: !human_time '00:11:24.940'
+- end: !human_time '00:11:33.950'
+  lines:
+  - "\u5DE6\u53F3\u4E0D\u5F97\u7F6A\u4EFB\u4F55\u4E00\u8FB9"
+  - "\u6211\u8D70\u4E86\u4ECA\u5929\u8FD9\u4F4D\u7F6E"
+  start: !human_time '00:11:27.940'
+- end: !human_time '00:11:37.680'
+  lines:
+  - "\u4EC0\u4E48\u65F6\u5019\u542C"
+  - "\u90FD\u8FD9\u4E48\u50AC\u4EBA\u6CEA\u4E0B\u7684\u6545\u4E8B"
+  start: !human_time '00:11:33.950'
+- end: !human_time '00:11:39.090'
+  lines:
+  - "\u4ECA\u5929\u7684\u91CD\u70B9\u662F\u4EC0\u4E48"
+  start: !human_time '00:11:37.680'
+- end: !human_time '00:11:42.960'
+  lines:
+  - "\u8206\u8BBA\u5435\u7740\u8981\u8C03\u67E5\u653F\u6CBB\u527D\u7A83"
+  start: !human_time '00:11:39.090'
+- end: !human_time '00:11:48.160'
+  lines:
+  - "\u4E0A\u5934\u8BF4\u4F60\u8C03\u67E5\u653F\u6CBB\u9ED1\u624B\u90FD\u4E71\u5957\
+    \u4E86"
+  start: !human_time '00:11:42.960'
+- end: !human_time '00:11:54.030'
+  lines:
+  - "\u5C0F\u5B50 \u56E0\u4E3A\u4F60\u6211\u90FD\u5FEB\u6D3B\u4E0D\u4E0B\u53BB\u4E86"
+  start: !human_time '00:11:48.160'
+- end: !human_time '00:11:56.000'
+  lines:
+  - "\u5200\u5B50\u5DF2\u7ECF\u51FA\u9798\u4E86"
+  start: !human_time '00:11:54.030'
+- end: !human_time '00:11:57.470'
+  lines:
+  - "\u652F\u5385\u957F\u4E5F\u597D \u6211\u4E5F\u597D"
+  start: !human_time '00:11:56.000'
+- end: !human_time '00:12:00.340'
+  lines:
+  - "\u5DF2\u7ECF\u6CA1\u5730\u65B9\u518D\u964D\u4E86"
+  start: !human_time '00:11:57.470'
+- end: !human_time '00:12:02.810'
+  lines:
+  - "\u54CE \u6CB3\u68C0\u5BDF\u5B98"
+  start: !human_time '00:12:01.210'
+- end: !human_time '00:12:05.780'
+  lines:
+  - "\u80FD\u4E0D\u80FD\u50CF\u4E2A\u7537\u5B50\u6C49\u4E00\u6837"
+  - "\u6F47\u6D12\u7684\u653E\u624B\u554A"
+  start: !human_time '00:12:02.810'
+- end: !human_time '00:12:09.250'
+  lines:
+  - "\u62DC\u6258\u8BA9\u6211\u6D3B\u7684\u8F7B\u677E\u70B9\u5427"
+  start: !human_time '00:12:05.780'
+- end: !human_time '00:12:10.520'
+  lines:
+  - "\u9690\u533F\u8BC1\u636E"
+  start: !human_time '00:12:09.250'
+- end: !human_time '00:12:12.390'
+  lines:
+  - "\u5211\u6CD5\u7B2C155\u6761\u7B2C\u4E00\u9879"
+  start: !human_time '00:12:10.520'
+- end: !human_time '00:12:13.850'
+  lines:
+  - "\u77E5\u9053\u662F\u8FDD\u6CD5\u7684\u5427"
+  start: !human_time '00:12:12.390'
+- end: !human_time '00:12:15.320'
+  lines:
+  - "\u771F\u7684\u4E0D\u884C\u5417"
+  start: !human_time '00:12:13.850'
+- end: !human_time '00:12:17.790'
+  lines:
+  - "\u771F\u7684\u771F\u7684\u4E0D\u884C"
+  start: !human_time '00:12:15.320'
+- end: !human_time '00:12:21.430'
+  lines:
+  - "\u5927\u5A76\u4E5F\u662F\u4EC5\u9760\u4E00\u53CC\u62F3\u5934"
+  - "\u5F53\u9009\u4E3A\u56FD\u4F1A\u8BAE\u5458\u4E86"
+  start: !human_time '00:12:17.790'
+- end: !human_time '00:12:22.900'
+  lines:
+  - "\u53EA\u8981\u4E0B\u5B9A\u51B3\u5FC3"
+  start: !human_time '00:12:21.430'
+- end: !human_time '00:12:24.160'
+  lines:
+  - "\u4E0D\u7BA1\u518D\u600E\u4E48\u4E0D\u53EF\u80FD\u7684\u4E8B\u60C5"
+  start: !human_time '00:12:22.900'
+- end: !human_time '00:12:26.300'
+  lines:
+  - "\u4E5F\u90FD\u662F\u6709\u53EF\u80FD\u6210\u529F\u7684"
+  start: !human_time '00:12:24.160'
+- end: !human_time '00:12:27.700'
+  lines:
+  - "\u8981\u4E0D\u8981\u8D4C\u4E0A\u4E2A\u4E00\u4E07\u5757\u5462"
+  start: !human_time '00:12:26.300'
+- end: !human_time '00:12:28.900'
+  lines:
+  - "\u81ED\u5C0F\u5B50"
+  start: !human_time '00:12:27.700'
+- end: !human_time '00:12:30.570'
+  lines:
+  - "\u4F60\u8131\u4E0B\u5236\u670D"
+  start: !human_time '00:12:28.900'
+- end: !human_time '00:12:33.570'
+  lines:
+  - "\u8FD8\u6709\u4E2A\u725B\u8089\u6C64\u5E97\u53EF\u4EE5\u7EE7\u627F"
+  - "\u80FD\u5403\u9971\u559D\u8DB3\u4E86"
+  start: !human_time '00:12:30.570'
+- end: !human_time '00:12:36.380'
+  lines:
+  - "\u6211\u662F\u4E2A\u6709\u597D\u51E0\u4E2A\u5973\u513F\u7684\u7238\u7238"
+  - "\u4F60\u8BA9\u6211\u600E\u4E48\u529E\u554A\u4F60\u8FD9\u81ED\u5C0F\u5B50"
+  start: !human_time '00:12:33.570'
+- end: !human_time '00:12:37.710'
+  lines:
+  - "\u8BF7\u60A8\u76F8\u4FE1\u6211\u554A"
+  start: !human_time '00:12:36.380'
+- end: !human_time '00:12:40.510'
+  lines:
+  - "\u6211\u80FD\u591F\u8BA9\u60A8\u664B\u5347\u5230\u9996\u5C14\u5E02\u91CC\u554A"
+  start: !human_time '00:12:37.710'
+- end: !human_time '00:12:43.720'
+  lines:
+  - "\u591A\u5403\u70B9\u9C7F\u9C7C\u5427"
+  start: !human_time '00:12:40.510'
+- end: !human_time '00:12:48.020'
+  lines:
+  - "-\u5BA3\u8A93"
+  - "-\u5BA3\u8A93"
+  start: !human_time '00:12:46.490'
+- end: !human_time '00:12:50.020'
+  lines:
+  - "\u6211\u5C06\u9075\u5B88\u5BAA\u6CD5"
+  start: !human_time '00:12:48.020'
+- end: !human_time '00:12:52.630'
+  lines:
+  - "\u5C06\u4E3A\u589E\u8FDB\u56FD\u6C11\u81EA\u7531\u4E0E\u798F\u5229"
+  start: !human_time '00:12:50.020'
+- end: !human_time '00:12:55.630'
+  lines:
+  - "\u53CA\u7956\u56FD\u7684\u548C\u5E73\u7EDF\u4E00\u800C\u52AA\u529B"
+  start: !human_time '00:12:52.630'
+- end: !human_time '00:12:57.630'
+  lines:
+  - "\u4EE5\u56FD\u5BB6\u5229\u76CA\u4E3A\u5148"
+  start: !human_time '00:12:55.630'
+- end: !human_time '00:13:01.370'
+  lines:
+  - "\u51ED\u826F\u5FC3\u5C65\u884C\u56FD\u4F1A\u8BAE\u5458\u804C\u52A1"
+  - "\u505A\u5230\u8BA4\u771F\u8BDA\u5B9E"
+  start: !human_time '00:12:57.630'
+- end: !human_time '00:13:04.770'
+  lines:
+  - "\u5728\u6B64\u9762\u5BF9\u56FD\u6C11\u5E84\u4E25\u5BA3\u8A93"
+  start: !human_time '00:13:01.370'
+- end: !human_time '00:13:17.280'
+  lines:
+  - "\u73B0\u5728\u5F00\u59CB\u554A"
+  - "\u5927\u5BB6\u90FD\u662F\u7B2C\u4E00\u6B21\u767B\u9662\u4E0A\u73ED"
+  start: !human_time '00:13:14.710'
+- end: !human_time '00:13:20.020'
+  lines:
+  - "\u6211\u5C31\u4F5C\u4E3A\u524D\u8F88 \u5BF9\u5927\u5BB6\u8BF4\u4E00\u4E0B"
+  start: !human_time '00:13:17.280'
+- end: !human_time '00:13:25.090'
+  lines:
+  - "\u4F5C\u4E3A\u6C11\u53CB\u515A\u8BAE\u5458\u5FC5\u987B\u8981\u575A\u5B88\u7684\
+    \u539F\u5219"
+  start: !human_time '00:13:20.020'
+- end: !human_time '00:13:30.160'
+  lines:
+  - "\u7B2C\u4E00\u4E2A\u539F\u5219 \u5F7B\u5E95\u7684\u4E0A\u547D\u4E0B\u670D"
+  start: !human_time '00:13:25.630'
+- end: !human_time '00:13:33.070'
+  lines:
+  - "\u515A\u6307\u5BFC\u90E8\u7684\u547D\u4EE4\u8981\u65E0\u6761\u4EF6\u670D\u4ECE"
+  start: !human_time '00:13:30.160'
+- end: !human_time '00:13:35.470'
+  lines:
+  - "\u5BF9\u4E8E\u521D\u9009\u8BAE\u5458 \u518D\u9009\u8BAE\u5458\u5C31"
+  start: !human_time '00:13:33.070'
+- end: !human_time '00:13:37.600'
+  lines:
+  - "\u5144\u957F\u6216\u8005\u8001\u5927\u59D0"
+  start: !human_time '00:13:35.470'
+- end: !human_time '00:13:39.540'
+  lines:
+  - "\u4E09\u9009\u8BAE\u5458\u5C31\u8DDF\u7236\u6BCD\u662F\u540C\u7EA7"
+  start: !human_time '00:13:37.600'
+- end: !human_time '00:13:41.110'
+  lines:
+  - "\u56DB\u9009\u5C31\u662F\u56FD\u738B"
+  start: !human_time '00:13:39.540'
+- end: !human_time '00:13:44.310'
+  lines:
+  - "\u4EE3\u8868\u548C\u4E0A\u5E1D\u5C31\u662F\u540C\u7EA7\u522B"
+  start: !human_time '00:13:41.110'
+- end: !human_time '00:13:45.980'
+  lines:
+  - "\u90FD\u660E\u767D\u4E86\u5417"
+  start: !human_time '00:13:44.310'
+- end: !human_time '00:13:50.580'
+  lines:
+  - "\u7A0D\u7B49\u4E00\u4E0B \u8FD9\u91CC\u662F\u519B\u961F\u5417"
+  start: !human_time '00:13:45.980'
+- end: !human_time '00:13:53.220'
+  lines:
+  - "\u6211\u4EEC\u90FD\u662F\u6295\u7968\u9009\u4E3E\u51FA\u6765\u7684"
+  start: !human_time '00:13:50.580'
+- end: !human_time '00:13:55.420'
+  lines:
+  - "\u4E5F\u8981\u8BB2\u7A76\u9636\u7EA7\u5417"
+  start: !human_time '00:13:53.220'
+- end: !human_time '00:13:59.230'
+  lines:
+  - "\u54C8\u54C8 \u5F90\u6167\u7433\u8BAE\u5458"
+  start: !human_time '00:13:55.820'
+- end: !human_time '00:14:04.300'
+  lines:
+  - "\u4E0A\u547D\u4E0B\u670D\u5C31\u662F"
+  - "\u4E3A\u4E86\u6574\u987F\u6DF7\u4E71\u7684\u79E9\u5E8F\u800C\u8BBE\u7ACB\u7684\
+    \u539F\u5219"
+  start: !human_time '00:13:59.230'
+- end: !human_time '00:14:07.430'
+  lines:
+  - "\u4F60\u5C31\u4E0D\u8981\u518D\u7EA0\u9519\u4E86"
+  start: !human_time '00:14:04.300'
+- end: !human_time '00:14:10.240'
+  lines:
+  - "\u7B2C\u4E8C\u4E2A\u539F\u5219"
+  start: !human_time '00:14:08.840'
+- end: !human_time '00:14:12.570'
+  lines:
+  - "\u6253\u6270\u4E00\u4E0B"
+  start: !human_time '00:14:10.240'
+- end: !human_time '00:14:16.710'
+  lines:
+  - "\u5982\u679C\u5C45\u6C11\u4EEC\u7684\u610F\u613F"
+  - "\u548C\u515A\u6307\u5BFC\u90E8\u7684\u547D\u4EE4\u76F8\u53CD\u65F6\u5019"
+  start: !human_time '00:14:13.040'
+- end: !human_time '00:14:18.110'
+  lines:
+  - "\u90A3\u6211\u4EEC\u8981\u600E\u4E48\u529E"
+  start: !human_time '00:14:16.710'
+- end: !human_time '00:14:20.450'
+  lines:
+  - "\u6211\u8BF4 \u5F90\u8BAE\u5458"
+  start: !human_time '00:14:18.110'
+- end: !human_time '00:14:23.020'
+  lines:
+  - "\u4F60\u7684\u653F\u6CBB\u751F\u6D3B\u96BE\u9053\u5C31\u53EA\u6709\u8FD9\u4E00\
+    \u5E74\u5417"
+  start: !human_time '00:14:20.450'
+- end: !human_time '00:14:26.790'
+  lines:
+  - "\u660E\u5E74\u603B\u9009\u7684\u65F6\u5019\u4F60\u5C31\u6309\u7167"
+  - "\u6C11\u53CB\u515A\u7684\u5429\u5490\u51FA\u9A6C\u5C31\u884C\u4E86"
+  start: !human_time '00:14:23.020'
+- end: !human_time '00:14:30.460'
+  lines:
+  - "\u4E0D\u8981\u95EE\u90A3\u4E48\u591A"
+  start: !human_time '00:14:26.790'
+- end: !human_time '00:14:34.330'
+  lines:
+  - "\u542C\u61C2\u4E86\u5417 \u5F90\u8BAE\u5458"
+  start: !human_time '00:14:30.460'
+- end: !human_time '00:14:40.070'
+  lines:
+  - "\u56FD\u4F1A\u662F\u519B\u961F\u554A \u8FD8\u662F\u4EC0\u4E48\u554A"
+  start: !human_time '00:14:38.130'
+- end: !human_time '00:14:43.300'
+  lines:
+  - "\u56FD\u4F1A\u8BAE\u5458\u53C8\u4E0D\u662F\u5C0F\u5B66\u751F"
+  start: !human_time '00:14:40.070'
+- end: !human_time '00:14:49.510'
+  lines:
+  - "\u8FD9\u90FD\u662F\u4E9B\u4EC0\u4E48\u554A \u738B\u8F85\u4F50\u5B98"
+  start: !human_time '00:14:47.710'
+- end: !human_time '00:14:50.640'
+  lines:
+  - "\u662F\u8FD9\u6B21\u4E34\u65F6\u56FD\u4F1A\u65F6"
+  start: !human_time '00:14:49.510'
+- end: !human_time '00:14:53.050'
+  lines:
+  - "\u8981\u5904\u7406\u7684\u6CD5\u6848\u76F8\u5173\u8D44\u6599"
+  start: !human_time '00:14:50.640'
+- end: !human_time '00:14:55.250'
+  lines:
+  - "\u6211\u7684\u5929\u554A"
+  start: !human_time '00:14:53.910'
+- end: !human_time '00:14:56.780'
+  lines:
+  - "\u8FD9\u4E48\u591A\u554A"
+  start: !human_time '00:14:55.580'
+- end: !human_time '00:14:58.720'
+  lines:
+  - "\u8FD9\u5F97\u8BFB\u5230\u54EA\u5E74\u554A"
+  start: !human_time '00:14:56.780'
+- end: !human_time '00:15:01.050'
+  lines:
+  - "\u60A8\u4E00\u4E2A\u90FD\u4E0D\u5FC5\u8BFB\u7684\u8BAE\u5458"
+  start: !human_time '00:14:58.790'
+- end: !human_time '00:15:02.190'
+  lines:
+  - "\u4EC0\u4E48"
+  start: !human_time '00:15:01.050'
+- end: !human_time '00:15:05.590'
+  lines:
+  - "\u515A\u8BBA\u786E\u5B9A\u4E0B\u6765\u540E\u515A\u6307\u5BFC\u90E8\u4F1A\u4E0B\
+    \u6307\u793A"
+  start: !human_time '00:15:02.190'
+- end: !human_time '00:15:09.230'
+  lines:
+  - "\u6309\u7167\u6307\u793A\u6295\u8D5E\u6210\u6216\u5426\u51B3\u7968\u5C31\u53EF\
+    \u4EE5"
+  start: !human_time '00:15:05.590'
+- end: !human_time '00:15:11.800'
+  lines:
+  - "\u60A8\u73B0\u5728\u662F\u8BA9\u6211"
+  start: !human_time '00:15:09.930'
+- end: !human_time '00:15:14.200'
+  lines:
+  - "\u5F53\"\u4E3E\u624B\u673A\"\u7684\u610F\u601D\u5417"
+  start: !human_time '00:15:11.800'
+- end: !human_time '00:15:17.140'
+  lines:
+  - "\u522B\u7684\u8BAE\u5458\u4E5F\u662F\u4E00\u6837\u7684"
+  start: !human_time '00:15:14.270'
+- end: !human_time '00:15:52.910'
+  lines:
+  - "\u5927\u5A76"
+  start: !human_time '00:15:51.300'
+- end: !human_time '00:15:56.310'
+  lines:
+  - "\u8FD9\u53EF\u600E\u4E48\u529E \u5DF2\u7ECF\u6E7F\u900F\u4E86"
+  start: !human_time '00:15:53.710'
+- end: !human_time '00:15:57.840'
+  lines:
+  - "\u600E\u4E48\u529E\u554A"
+  start: !human_time '00:15:56.310'
+- end: !human_time '00:16:01.050'
+  lines:
+  - "\u8BAE\u5458 \u62DC\u6258\u60A8\u542C\u542C\u6211\u7684\u51A4\u5C48\u5427"
+  start: !human_time '00:15:57.840'
+- end: !human_time '00:16:04.450'
+  lines:
+  - "\u597D\u7684 \u4F46\u6211\u4EEC\u5148\u79BB\u5F00\u8FD9\u91CC\u5427"
+  start: !human_time '00:16:01.050'
+- end: !human_time '00:16:06.650'
+  lines:
+  - "\u8FD9\u6837\u4E0B\u53BB\u5B69\u5B50\u4F1A\u611F\u5192\u7684"
+  start: !human_time '00:16:04.450'
+- end: !human_time '00:16:10.260'
+  lines:
+  - "\u5B54\u652F\u5385\u957F"
+  start: !human_time '00:16:08.590'
+- end: !human_time '00:16:12.990'
+  lines:
+  - "\u5982\u679C\u8FD9\u662F\u6CA1\u6709\u786E\u51FF\u8BC1\u636E\u7684\u4F20\u5524"
+  start: !human_time '00:16:10.520'
+- end: !human_time '00:16:15.130'
+  lines:
+  - "\u90A3\u6211\u4EEC\u4E5F\u4E0D\u662F\u597D\u6B3A\u8D1F\u7684"
+  start: !human_time '00:16:12.990'
+- end: !human_time '00:16:19.430'
+  lines:
+  - "\u77E5\u9053\u4E86 \u6211\u660E\u5929\u5C31\u53BB\u5357\u677E\u652F\u5385"
+  start: !human_time '00:16:15.860'
+- end: !human_time '00:16:23.640'
+  lines:
+  - "\u8FD9\u4E9B\u5BB6\u4F19\u771F\u662F..."
+  start: !human_time '00:16:21.900'
+- end: !human_time '00:16:25.970'
+  lines:
+  - "\u8BF7\u8FDB"
+  start: !human_time '00:16:24.840'
+- end: !human_time '00:16:29.710'
+  lines:
+  - "\u5434\u8BAE\u5458"
+  start: !human_time '00:16:28.840'
+- end: !human_time '00:16:30.980'
+  lines:
+  - "\u54E6 \u5F90\u8BAE\u5458"
+  start: !human_time '00:16:29.710'
+- end: !human_time '00:16:32.980'
+  lines:
+  - "\u521A\u597D\u60A8\u5728"
+  start: !human_time '00:16:31.240'
+- end: !human_time '00:16:36.120'
+  lines:
+  - "\u5434\u8BAE\u5458 \u60A8\u7684\u9009\u4E3E\u533A\u662F\u5949\u57CE\u5427"
+  start: !human_time '00:16:33.580'
+- end: !human_time '00:16:38.320'
+  lines:
+  - "\u5BF9 \u786E\u5B9E\u662F\u5949\u57CE"
+  start: !human_time '00:16:36.120'
+- end: !human_time '00:16:41.250'
+  lines:
+  - "\u53EF\u5916\u9762\u5230\u5E95\u600E\u4E48\u4E86"
+  start: !human_time '00:16:38.990'
+- end: !human_time '00:16:43.320'
+  lines:
+  - "\u592A\u597D\u4E86 \u8BF7\u7A0D\u7B49"
+  start: !human_time '00:16:41.320'
+- end: !human_time '00:16:45.860'
+  lines:
+  - "\u8BF7\u8FDB\u6765\u5427"
+  start: !human_time '00:16:44.520'
+- end: !human_time '00:16:51.730'
+  lines:
+  - "\u8FD9\u4F4D\u5927\u5A76"
+  start: !human_time '00:16:50.330'
+- end: !human_time '00:16:54.470'
+  lines:
+  - "\u662F\u5434\u8BAE\u5458\u9009\u4E3E\u533A\u5949\u57CE\u4EBA"
+  start: !human_time '00:16:51.730'
+- end: !human_time '00:16:57.540'
+  lines:
+  - "\u6211\u542C\u5B8C\u53D1\u73B0 \u786E\u5B9E\u662F\u5F88\u5927\u51A4\u5C48"
+  start: !human_time '00:16:54.470'
+- end: !human_time '00:17:00.270'
+  lines:
+  - "\u5979\u7684\u4E08\u592B \u6765\u9996\u5C14\u627E\u5DE5\u4F5C"
+  start: !human_time '00:16:57.940'
+- end: !human_time '00:17:01.670'
+  lines:
+  - "\u8FC7\u7740\u9732\u5BBF\u8857\u5934\u7684\u751F\u6D3B"
+  start: !human_time '00:17:00.270'
+- end: !human_time '00:17:03.080'
+  lines:
+  - "\u53EF\u88AB\u7CBE\u795E\u75C5\u9662\u62C9\u53BB"
+  start: !human_time '00:17:01.670'
+- end: !human_time '00:17:05.280'
+  lines:
+  - "\u53D7\u5230\u66B4\u884C\u800C\u53BB\u4E16\u4E86"
+  start: !human_time '00:17:03.080'
+- end: !human_time '00:17:09.880'
+  lines:
+  - "\u8BF7\u5434\u8BAE\u5458 \u5F7B\u5E95\u8C03\u67E5\u5979\u4E08\u592B\u7684\u51A4\
+    \u5C48"
+  start: !human_time '00:17:05.950'
+- end: !human_time '00:17:11.820'
+  lines:
+  - "\u8FD8\u5979\u4E00\u4E2A\u516C\u9053\u5427"
+  start: !human_time '00:17:09.880'
+- end: !human_time '00:17:18.020'
+  lines:
+  - "\u554A \u539F\u6765\u5982\u6B64"
+  start: !human_time '00:17:13.420'
+- end: !human_time '00:17:20.490'
+  lines:
+  - "\u60A8\u5148\u51FA\u53BB\u7B49\u4E00\u4E0B"
+  start: !human_time '00:17:18.430'
+- end: !human_time '00:17:22.700'
+  lines:
+  - "\u6211\u8981\u8DDF\u5F90\u8BAE\u5458\u5355\u72EC\u8C08\u4E00\u8C08"
+  start: !human_time '00:17:20.490'
+- end: !human_time '00:17:32.970'
+  lines:
+  - "\u5F90\u8BAE\u5458"
+  start: !human_time '00:17:31.840'
+- end: !human_time '00:17:34.040'
+  lines:
+  - "\u4F60\u8FD9\u662F\u5E72\u4EC0\u4E48"
+  start: !human_time '00:17:32.970'
+- end: !human_time '00:17:36.180'
+  lines:
+  - "\u5E72\u561B\u5E26\u90A3\u5927\u5A76\u6765\u8FD9\u91CC"
+  start: !human_time '00:17:34.040'
+- end: !human_time '00:17:38.650'
+  lines:
+  - "\u56E0\u4E3A\u662F\u5434\u8BAE\u5458\u9009\u4E3E\u533A\u7684\u4EBA"
+  start: !human_time '00:17:36.580'
+- end: !human_time '00:17:42.050'
+  lines:
+  - "\u771F\u662F \u4F60\u628A\u56FD\u4F1A\u5F53\u505A\u4EC0\u4E48\u5730\u65B9\u4E86"
+  start: !human_time '00:17:39.380'
+- end: !human_time '00:17:44.920'
+  lines:
+  - "\u6709\u51A4\u5C48\u5C31\u53BB\u68C0\u5BDF\u9662\u4E0A\u8BC9"
+  start: !human_time '00:17:42.180'
+- end: !human_time '00:17:48.390'
+  lines:
+  - "\u56E0\u4E3A\u4E0A\u8BC9\u6CA1\u4EC0\u4E48\u7528"
+  start: !human_time '00:17:46.590'
+- end: !human_time '00:17:50.060'
+  lines:
+  - "\u6240\u4EE5\u624D\u5728\u56FD\u4F1A\u9762\u524D\u793A\u5A01\u554A"
+  start: !human_time '00:17:48.390'
+- end: !human_time '00:17:51.530'
+  lines:
+  - "\u5728\u56FD\u4F1A\u9762\u524D\u793A\u5A01\u7684\u4EBA"
+  start: !human_time '00:17:50.060'
+- end: !human_time '00:17:53.790'
+  lines:
+  - "\u90FD\u662F\u4E9B\u5BF9\u56FD\u5BB6\u4E0D\u6EE1\u7684\u5BB6\u4F19"
+  start: !human_time '00:17:51.530'
+- end: !human_time '00:17:56.330'
+  lines:
+  - "\u5C31\u7B97\u5F97\u4E2A\u611F\u5192"
+  - "\u4E5F\u4F1A\u57CB\u6028\u662F\u533B\u7597\u653F\u7B56\u7684\u9519"
+  start: !human_time '00:17:53.790'
+- end: !human_time '00:17:59.000'
+  lines:
+  - "\u53EA\u662F\u4E0B\u6C34\u9053\u5835\u4E86"
+  - "\u4E5F\u4F1A\u602A\u662F\u516C\u52A1\u5458\u5DE5\u4F5C\u6001\u5EA6\u6020\u6162"
+  start: !human_time '00:17:56.330'
+- end: !human_time '00:18:01.870'
+  lines:
+  - "\u5373\u4FBF\u9A6C\u8DEF\u4E0A\u6B7B\u4E86\u72D7 \u4E5F\u4F1A\u602A\u56FD\u5BB6\
+    \u7684\u4EBA"
+  start: !human_time '00:17:59.000'
+- end: !human_time '00:18:04.600'
+  lines:
+  - "\u5982\u679C\u6BCF\u4EF6\u4E8B\u90FD\u8981\u4EB2\u529B\u4EB2\u4E3A"
+  start: !human_time '00:18:03.000'
+- end: !human_time '00:18:06.410'
+  lines:
+  - "\u56FD\u4F1A\u7684\u673A\u80FD\u80AF\u5B9A\u4F1A\u762B\u75EA\u7684"
+  start: !human_time '00:18:04.600'
+- end: !human_time '00:18:08.140'
+  lines:
+  - "\u6CD5\u5F8B\u65E0\u6CD5\u89E3\u51B3\u7684\u4E8B\u60C5"
+  start: !human_time '00:18:06.410'
+- end: !human_time '00:18:10.480'
+  lines:
+  - "\u56FD\u4F1A\u8BAE\u5458\u4E5F\u6CA1\u6709\u529E\u6CD5"
+  start: !human_time '00:18:08.140'
+- end: !human_time '00:18:12.680'
+  lines:
+  - "\u5434\u8BAE\u5458"
+  start: !human_time '00:18:11.410'
+- end: !human_time '00:18:15.520'
+  lines:
+  - "\u60A8\u600E\u4E48\u80FD\u8FD9\u6837"
+  start: !human_time '00:18:13.480'
+- end: !human_time '00:18:19.190'
+  lines:
+  - "\u56FD\u4F1A\u8BAE\u5458"
+  - "\u7ADF\u7136\u5BF9\u56FD\u6C11\u7684\u51A4\u5C48\u89C6\u800C\u4E0D\u89C1"
+  start: !human_time '00:18:15.980'
+- end: !human_time '00:18:22.290'
+  lines:
+  - "\u60A8\u8FD9\u6837 \u8FD8\u80FD\u7B97\u662F\u4EE3\u8868\u56FD\u6C11\u7684\u4EE3\
+    \u8868\u5417"
+  start: !human_time '00:18:19.390'
+- end: !human_time '00:18:25.290'
+  lines:
+  - "\u60A8\u53EA\u628A\u56FD\u6C11"
+  - "\u5F53\u505A\u9009\u4E3E\u65F6\u7684\u9009\u7968\u800C\u5DF2\u5417"
+  start: !human_time '00:18:22.290'
+- end: !human_time '00:18:27.960'
+  lines:
+  - "\u8BF4\u8BDD\u6CE8\u610F\u70B9 \u5F90\u8BAE\u5458"
+  start: !human_time '00:18:25.360'
+- end: !human_time '00:18:30.830'
+  lines:
+  - "\u90A3\u4E2A\u5927\u5A76\u7684\u4E8B\u60C5"
+  start: !human_time '00:18:29.160'
+- end: !human_time '00:18:33.700'
+  lines:
+  - "\u6211\u90FD\u8C03\u67E5\u548C\u68C0\u8BA8\u4E86\u597D\u51E0\u904D"
+  start: !human_time '00:18:30.830'
+- end: !human_time '00:18:38.340'
+  lines:
+  - "\u53EF\u5979\u4E08\u592B\u7684\u4E8B\u60C5"
+  - "\u6CD5\u5F8B\u4E0A\u6CA1\u6709\u4EFB\u4F55\u7591\u70B9"
+  start: !human_time '00:18:33.700'
+- end: !human_time '00:18:43.040'
+  lines:
+  - "\u771F\u7684\u5417"
+  start: !human_time '00:18:41.610'
+- end: !human_time '00:18:48.380'
+  lines:
+  - "\u5F90\u8BAE\u5458 \u4F60\u8981\u5B66\u7684\u4E1C\u897F\u8FD8\u5F88\u591A"
+  start: !human_time '00:18:44.110'
+- end: !human_time '00:18:52.520'
+  lines:
+  - "\u522B\u62C5\u5FC3 \u6211\u4E00\u5B9A\u4F1A\u60F3\u529E\u6CD5\u7684"
+  start: !human_time '00:18:49.180'
+- end: !human_time '00:18:54.390'
+  lines:
+  - "\u8C22\u8C22"
+  start: !human_time '00:18:52.850'
+- end: !human_time '00:18:57.120'
+  lines:
+  - "\u8BAE\u5458\u60A8\u80FD\u542C\u6211\u7684\u51A4\u5C48"
+  start: !human_time '00:18:54.390'
+- end: !human_time '00:18:58.930'
+  lines:
+  - "\u6211\u5C31\u5DF2\u7ECF\u611F\u5230\u975E\u5E38\u611F\u8C22\u4E86"
+  start: !human_time '00:18:57.120'
+- end: !human_time '00:19:12.110'
+  lines:
+  - "\u60A8\u597D"
+  start: !human_time '00:19:10.770'
+- end: !human_time '00:19:14.570'
+  lines:
+  - "\u662F \u59DC\u8BAE\u5458"
+  start: !human_time '00:19:12.770'
+- end: !human_time '00:19:19.510'
+  lines:
+  - "\u4E0A\u6B21\u7684\u8282\u76EE\u7ED3\u675F\u8BED"
+  start: !human_time '00:19:16.910'
+- end: !human_time '00:19:20.980'
+  lines:
+  - "\u771F\u7684\u5F88\u5BF9\u4E0D\u8D77"
+  start: !human_time '00:19:19.510'
+- end: !human_time '00:19:22.520'
+  lines:
+  - "\u6211\u76F8\u4FE1\u5F90\u8BAE\u5458"
+  start: !human_time '00:19:20.980'
+- end: !human_time '00:19:26.350'
+  lines:
+  - "\u4F1A\u8BA9\u6211\u4EEC\u96C6\u56E2\u8D5A\u56DE\u635F\u5931\u7684\u4E00\u5343\
+    \u4EBF"
+  start: !human_time '00:19:22.520'
+- end: !human_time '00:19:33.630'
+  lines:
+  - "\u6211\u4EEC\u4E09\u597D\u96C6\u56E2\u4E5F\u4F1A\u6781\u529B\u4FC3\u8FDB"
+  - "\u5357\u677E\u56F4\u6D82\u5730LCD\u5DE5\u5382\u7684\u5EFA\u8BBE"
+  start: !human_time '00:19:27.750'
+- end: !human_time '00:19:35.900'
+  lines:
+  - "\u8FD8\u8BF7\u5F90\u6167\u7433\u8BAE\u5458\u591A\u591A\u5E2E\u52A9"
+  start: !human_time '00:19:33.630'
+- end: !human_time '00:19:39.400'
+  lines:
+  - "LCD\u5DE5\u5382\u7684\u5EFA\u8BBE"
+  - "\u662F\u5357\u677E\u5730\u533A\u957F\u4E45\u4EE5\u6765\u7684\u671F\u5F85"
+  start: !human_time '00:19:35.900'
+- end: !human_time '00:19:41.070'
+  lines:
+  - "\u6211\u5F53\u7136\u4F1A\u79EF\u6781\u534F\u52A9"
+  start: !human_time '00:19:39.400'
+- end: !human_time '00:19:43.940'
+  lines:
+  - "\u4F46\u662F \u6BD4\u8D77\u65E0\u5DEE\u522B\u7684\u5F00\u53D1"
+  start: !human_time '00:19:41.070'
+- end: !human_time '00:19:46.340'
+  lines:
+  - "\u6211\u4EEC\u9700\u8981\u7684\u662F\u73AF\u4FDD\u5F00\u53D1"
+  start: !human_time '00:19:43.940'
+- end: !human_time '00:19:47.810'
+  lines:
+  - "\u554A \u8FD9\u4E2A\u95EE\u9898..."
+  start: !human_time '00:19:46.340'
+- end: !human_time '00:19:51.010'
+  lines:
+  - "\u4F1A\u7531\u4F1A\u957F\u5408\u7406\u8C03\u8282"
+  start: !human_time '00:19:47.810'
+- end: !human_time '00:19:54.480'
+  lines:
+  - "\u7238\u7238 \u542C\u8BF4\u6765\u4E86\u5BA2\u4EBA"
+  start: !human_time '00:19:51.550'
+- end: !human_time '00:19:56.480'
+  lines:
+  - "\u6765 \u6253\u4E2A\u62DB\u547C\u5427"
+  start: !human_time '00:19:54.480'
+- end: !human_time '00:20:00.350'
+  lines:
+  - "\u8FD9\u4F4D\u662F\u8FD9\u6B21\u5728\u5357\u677E\u6D77\u677E\u5F53\u9009\u7684"
+  - "\u5F90\u6167\u7433\u8BAE\u5458"
+  start: !human_time '00:19:56.480'
+- end: !human_time '00:20:02.960'
+  lines:
+  - "\u60A8\u597D \u6211\u53EB\u91D1\u667A\u79C0"
+  start: !human_time '00:20:01.220'
+- end: !human_time '00:20:04.160'
+  lines:
+  - "\u6211\u53EB\u5F90\u6167\u7433"
+  start: !human_time '00:20:02.960'
+- end: !human_time '00:20:06.290'
+  lines:
+  - "\u6211\u4ECE\u4E08\u592B\u90A3\u91CC"
+  - "\u542C\u5230\u5F88\u591A\u6709\u5173\u60A8\u7684\u4E8B\u60C5"
+  start: !human_time '00:20:04.160'
+- end: !human_time '00:20:09.430'
+  lines:
+  - "\u8BF4\u4E3A\u4E86\u62DB\u63FD\u5F90\u8BAE\u5458 \u8D39\u4E86\u4E0D\u5C11\u529F\
+    \u592B\u5462"
+  start: !human_time '00:20:06.290'
+- end: !human_time '00:20:12.830'
+  lines:
+  - "\u6211\u5934\u4E00\u6B21\u770B\u5230"
+  start: !human_time '00:20:10.360'
+- end: !human_time '00:20:15.300'
+  lines:
+  - "\u4ED6\u4E3A\u4E86\u8BA9\u4E00\u4E2A\u5973\u4EBA\u56DE\u5FC3\u8F6C\u610F"
+  - "\u7EDE\u5C3D\u8111\u6C41"
+  start: !human_time '00:20:12.830'
+- end: !human_time '00:20:17.640'
+  lines:
+  - "\u4F60\u522B\u4E71\u8BF4"
+  start: !human_time '00:20:15.770'
+- end: !human_time '00:20:20.970'
+  lines:
+  - "\u4F60\u96BE\u9053\u4E0D\u77E5\u9053"
+  - "\u73A9\u7B11\u5F00\u8FC7\u5934\u5C31\u662F\u65E0\u793C\u5417"
+  start: !human_time '00:20:17.640'
+- end: !human_time '00:20:25.510'
+  lines:
+  - "\u6CA1\u5173\u7CFB \u6211\u5C31\u5F53\u5938\u5956\u4E86"
+  start: !human_time '00:20:22.580'
+- end: !human_time '00:20:41.900'
+  lines:
+  - "\u8D70\u5F00"
+  start: !human_time '00:20:40.890'
+- end: !human_time '00:20:59.380'
+  lines:
+  - "\u6211\u4E0D\u662F\u6765\u523A\u6740\u4F60 \u656C\u8BF7\u653E\u5FC3"
+  start: !human_time '00:20:56.380'
+- end: !human_time '00:21:03.550'
+  lines:
+  - "\u6211\u662F\u5357\u677E\u652F\u5385 \u6CB3\u60BC\u4E5F\u68C0\u5BDF\u5B98"
+  start: !human_time '00:21:01.010'
+- end: !human_time '00:21:09.320'
+  lines:
+  - "\u60A8\u662F\u4E1C\u4F2F\u6D3E\u7684\u8001\u5927\u674E\u4E1C\u4F2F\u5148\u751F\
+    \u5BF9\u5427"
+  start: !human_time '00:21:06.320'
+- end: !human_time '00:21:14.830'
+  lines:
+  - "\u8FD9\u4E2A\u4E0D\u662F\u6B66\u5668 \u800C\u662F\u8BC1\u7269"
+  start: !human_time '00:21:12.260'
+- end: !human_time '00:21:18.000'
+  lines:
+  - "\u4E24\u4E2A\u6708\u524D\u6709\u4EBA\u5728\u9A6C\u6765\u96A7\u9053"
+  start: !human_time '00:21:15.530'
+- end: !human_time '00:21:20.970'
+  lines:
+  - "\u6345\u4E86\u4E00\u4E2A\u68C0\u5BDF\u5B98\u7684\u6D88\u606F"
+  - "\u60A8\u4E5F\u542C\u8BF4\u8FC7\u5427"
+  start: !human_time '00:21:18.000'
+- end: !human_time '00:21:24.770'
+  lines:
+  - "\u8FD9\u5C31\u662F\u5F53\u65F6\u5728\u73B0\u573A\u6536\u96C6\u7684\u8BC1\u7269"
+  start: !human_time '00:21:21.640'
+- end: !human_time '00:21:27.740'
+  lines:
+  - "\u90A3\u4E48 \u5F53\u65F6\u90A3\u4E2A\u68C0\u5BDF\u5B98"
+  start: !human_time '00:21:24.770'
+- end: !human_time '00:21:29.540'
+  lines:
+  - "\u53EE\u549A\u53EE"
+  start: !human_time '00:21:27.940'
+- end: !human_time '00:21:33.810'
+  lines:
+  - "\u6211\u60F3\u60A8\u5468\u56F4\u7684\u670B\u53CB\u5F53\u4E2D"
+  start: !human_time '00:21:31.080'
+- end: !human_time '00:21:38.490'
+  lines:
+  - "\u6216\u8BB8\u6709\u7528\u8FD9\u79CD\u5BB6\u4F19\u7684\u4E13\u5BB6"
+  - "\u60F3\u641E\u70B9\u6D88\u606F"
+  start: !human_time '00:21:34.550'
+- end: !human_time '00:21:41.350'
+  lines:
+  - "\u628A\u5927\u97E9\u6C11\u56FD\u68C0\u5BDF\u5B98\u6345\u4E86\u4E00\u5200"
+  start: !human_time '00:21:38.950'
+- end: !human_time '00:21:44.420'
+  lines:
+  - "\u5403\u4E86\u718A\u5FC3\u8C79\u5B50\u80C6\u4E4B\u4EBA\u7684\u68C0\u4E3E"
+  start: !human_time '00:21:41.350'
+- end: !human_time '00:21:46.260'
+  lines:
+  - "\u5E0C\u671B\u60A8\u591A\u591A\u914D\u5408"
+  start: !human_time '00:21:44.420'
+- end: !human_time '00:21:47.660'
+  lines:
+  - "\u68C0\u5BDF\u5B98"
+  start: !human_time '00:21:46.260'
+- end: !human_time '00:21:52.200'
+  lines:
+  - "\u5728\u60A8\u773C\u91CC \u6211\u90A3\u4E48\u597D\u4F7F\u5524\u5417"
+  start: !human_time '00:21:47.960'
+- end: !human_time '00:21:56.540'
+  lines:
+  - "\u674E\u4E1C\u4F2F\u5148\u751F\u8FD0\u8425\u7684\u9886\u57DF\u4F01\u4E1A\u4E2D"
+  start: !human_time '00:21:54.000'
+- end: !human_time '00:21:58.840'
+  lines:
+  - "\u6700\u8FD1\u58F0\u8A89\u4E0D\u592A\u597D\u5427"
+  start: !human_time '00:21:56.540'
+- end: !human_time '00:22:02.110'
+  lines:
+  - "\u8BA9\u90A3\u4E9B\u4E2A\u5927\u5757\u5934"
+  start: !human_time '00:21:59.370'
+- end: !human_time '00:22:05.250'
+  lines:
+  - "\u5728\u5EFA\u8BBE\u73B0\u573A\u5A01\u80C1\u522B\u4EBA \u6765\u8C0B\u6743\u8C0B\
+    \u5229"
+  start: !human_time '00:22:02.110'
+- end: !human_time '00:22:08.720'
+  lines:
+  - "\u8FD9\u4E9B\u90FD\u662F \u6D41\u8A00\u871A\u8BED"
+  start: !human_time '00:22:05.250'
+- end: !human_time '00:22:10.250'
+  lines:
+  - "\u662F\u4E0D\u662F\u6D41\u8A00\u871A\u8BED"
+  start: !human_time '00:22:08.780'
+- end: !human_time '00:22:12.590'
+  lines:
+  - "\u8C03\u67E5\u4E00\u4E0B\u5C31\u6E05\u695A\u4E86"
+  start: !human_time '00:22:10.250'
+- end: !human_time '00:22:14.320'
+  lines:
+  - "\u6211\u554A"
+  start: !human_time '00:22:13.250'
+- end: !human_time '00:22:17.960'
+  lines:
+  - "\u8FD9\u88AB\u5200\u6345\u7684\u4F24\u53E3\u4E0D\u65F6\u7684\u9178\u75DB"
+  start: !human_time '00:22:15.120'
+- end: !human_time '00:22:19.790'
+  lines:
+  - "\u665A\u4E0A\u8FDE\u89C9\u4E5F\u7761\u4E0D\u597D"
+  start: !human_time '00:22:17.960'
+- end: !human_time '00:22:21.230'
+  lines:
+  - "\u5230\u5E95\u662F\u4EC0\u5BB6\u4F19"
+  start: !human_time '00:22:20.160'
+- end: !human_time '00:22:23.300'
+  lines:
+  - "\u8BF7\u60A8\u52A1\u5FC5\u5E2E\u6211\u5F04\u6E05"
+  start: !human_time '00:22:21.230'
+- end: !human_time '00:22:27.570'
+  lines:
+  - "\u7279\u522B\u662F \u8DDF\u653F\u6CBB\u5708\u5B50\u6709\u5173\u8054\u7684\u5730\
+    \u65B9"
+  start: !human_time '00:22:23.430'
+- end: !human_time '00:22:38.550'
+  lines:
+  - "\u4EE3\u8868\u8BF4"
+  - "\u4F1A\u8BAE\u7ED3\u675F\u540E\u4F1A\u7ACB\u5373\u8D77\u7A0B\u6765\u8FD9\u91CC"
+  start: !human_time '00:22:32.840'
+- end: !human_time '00:22:40.880'
+  lines:
+  - "\u611F\u8C22\u60A8\u7684\u534F\u52A9"
+  start: !human_time '00:22:38.910'
+- end: !human_time '00:22:42.350'
+  lines:
+  - "\u53EF\u662F \u8BA9\u6211\u8FD9\u4E2A\u5927\u5FD9\u4EBA"
+  start: !human_time '00:22:40.880'
+- end: !human_time '00:22:47.020'
+  lines:
+  - "\u6765\u8FD9\u4E48\u8FDC\u7684\u5730\u65B9\u7684\u7406\u7531 \u5230\u5E95\u662F\
+    \u4EC0\u4E48"
+  start: !human_time '00:22:44.950'
+- end: !human_time '00:22:51.090'
+  lines:
+  - "\u5C31\u662F\u56E0\u4E3A\u8FD9\u4E2A \u5434\u8BAE\u5458"
+  start: !human_time '00:22:48.490'
+- end: !human_time '00:22:54.760'
+  lines:
+  - "\u8FD9\u662F\u4EC0\u4E48\u554A"
+  start: !human_time '00:22:53.560'
+- end: !human_time '00:22:57.200'
+  lines:
+  - "\u6050\u6015\u8C03\u67E5\u4F1A\u9700\u8981\u4E9B\u65F6\u65E5"
+  start: !human_time '00:22:54.760'
+- end: !human_time '00:22:59.800'
+  lines:
+  - "\u6240\u4EE5\u79C9\u7740\u4E0D\u80FD\u5BF9\u4F1F\u5927\u7684\u8D75\u4EE3\u8868"
+  start: !human_time '00:22:57.200'
+- end: !human_time '00:23:03.600'
+  lines:
+  - "\u6709\u4E1D\u6BEB\u7684\u5931\u793C\u4E4B\u5904\u7684\u60F3\u6CD5"
+  start: !human_time '00:22:59.800'
+- end: !human_time '00:23:10.010'
+  lines:
+  - "\u4F11\u606F\u7A7A\u95F4\u5B9A\u4F4D6.75\u5E73\u65B9\u7C73"
+  start: !human_time '00:23:07.140'
+- end: !human_time '00:23:12.350'
+  lines:
+  - "\u8FD9\u7A0B\u5EA6\u60A8\u611F\u89C9\u5982\u4F55"
+  start: !human_time '00:23:10.010'
+- end: !human_time '00:23:14.350'
+  lines:
+  - "\u867D\u7136\u51C6\u5907\u4E86\u4E00\u5F20\u8F6F\u5E8A"
+  start: !human_time '00:23:12.350'
+- end: !human_time '00:23:17.350'
+  lines:
+  - "\u53EF\u8D75\u4EE3\u8868\u7684\u8EAB\u9AD8\u672C\u6765\u5C31\u5F88\u9AD8"
+  start: !human_time '00:23:14.350'
+- end: !human_time '00:23:20.150'
+  lines:
+  - "\u6050\u6015\u4F1A\u6709\u6240\u4E0D\u4FBF"
+  start: !human_time '00:23:17.350'
+- end: !human_time '00:23:23.160'
+  lines:
+  - "\u4F1A\u6709\u70B9\u7A84\u5427 \u4F46\u8FD8\u51D1\u5408"
+  start: !human_time '00:23:20.150'
+- end: !human_time '00:23:24.690'
+  lines:
+  - "\u8981\u600E\u4E48\u7528\u9910\u5462"
+  start: !human_time '00:23:23.290'
+- end: !human_time '00:23:27.360'
+  lines:
+  - "\u8FD9\u91CC\u6700\u6709\u540D\u7684"
+  - "\u5C31\u662F\u725B\u8089\u6C64\u548C\u6CE5\u9CC5\u6C64"
+  start: !human_time '00:23:24.690'
+- end: !human_time '00:23:28.830'
+  lines:
+  - "\u6211\u8981\u6CE5\u9CC5..."
+  start: !human_time '00:23:27.360'
+- end: !human_time '00:23:31.000'
+  lines:
+  - "\u4E0D\u5FC5\u4E86"
+  start: !human_time '00:23:29.530'
+- end: !human_time '00:23:33.530'
+  lines:
+  - "\u5403\u996D\u95EE\u9898\u6211\u4EEC\u4F1A\u81EA\u5DF1\u89E3\u51B3"
+  start: !human_time '00:23:31.200'
+- end: !human_time '00:23:37.140'
+  lines:
+  - "\u628A\u4EE3\u8868\u7684\u4F11\u606F\u65F6\u95F4\u597D\u597D\u5B9A\u4E00\u4E0B\
+    \u5427"
+  start: !human_time '00:23:33.530'
+- end: !human_time '00:23:42.880'
+  lines:
+  - "\u771F\u662F...\u8FD9\u90FD\u4EC0\u4E48\u7834\u4E8B"
+  start: !human_time '00:23:37.540'
+- end: !human_time '00:23:45.880'
+  lines:
+  - "\u9700\u4E0D\u9700\u8981Bidet(\u5750\u6D74\u6876)\u5462"
+  start: !human_time '00:23:43.280'
+- end: !human_time '00:23:48.150'
+  lines:
+  - "\u7528\u60EF\u4E86\u7A81\u7136\u4E0D\u7528\u7684\u8BDD"
+  - "\u4F1A\u89C9\u5F97\u5F88\u522B\u626D\u7684"
+  start: !human_time '00:23:46.080'
+- end: !human_time '00:24:01.700'
+  lines:
+  - "\u662F \u7238\u7238"
+  start: !human_time '00:24:00.360'
+- end: !human_time '00:24:04.630'
+  lines:
+  - "\u9752\u74E6\u53F0\u7684\u4E3B\u53A8\u505A\u7684\u5982\u4F55"
+  start: !human_time '00:24:02.500'
+- end: !human_time '00:24:08.170'
+  lines:
+  - "\u6211\u6700\u8FD1\u505A\u7684\u68A6\u90FD\u53EF\u574F\u4E86"
+  start: !human_time '00:24:04.630'
+- end: !human_time '00:24:10.240'
+  lines:
+  - "\u6240\u4EE5\u6211\u624D\u7ED9\u4F60\u6253\u7535\u8BDD"
+  start: !human_time '00:24:08.170'
+- end: !human_time '00:24:14.640'
+  lines:
+  - "\u542C\u8BF4\u4F60\u6700\u8FD1\u5728\u8C03\u67E5\u9AD8\u5B98\u4EEC\u554A"
+  start: !human_time '00:24:10.240'
+- end: !human_time '00:24:18.910'
+  lines:
+  - "\u62DC\u6258\u4F60\u5B89\u4EFD\u70B9\u5427"
+  start: !human_time '00:24:15.180'
+- end: !human_time '00:24:22.780'
+  lines:
+  - "\u6211\u6700\u8FD1\u56E0\u4E3A\u62C5\u5FC3\u4F60 \u8FDE\u89C9\u90FD\u7761\u4E0D\
+    \u597D"
+  start: !human_time '00:24:19.650'
+- end: !human_time '00:24:24.850'
+  lines:
+  - "\u7238\u7238\u60A8\u5C31\u752D\u62C5\u5FC3\u4E86"
+  start: !human_time '00:24:23.250'
+- end: !human_time '00:24:28.190'
+  lines:
+  - "\u725B\u8089\u6C64\u5E97"
+  - "\u76F8\u56FD\u54E5\u548C\u6210\u690D\u54E5\u8FD0\u8425\u7684\u5F88\u597D"
+  start: !human_time '00:24:24.850'
+- end: !human_time '00:24:31.460'
+  lines:
+  - "\u7238\u7238\u60A8\u5C31\u597D\u597D\u7167\u987E\u603B\u7EDF\u7684\u996E\u98DF\
+    \u5427"
+  start: !human_time '00:24:28.190'
+- end: !human_time '00:24:33.130'
+  lines:
+  - "\u597D\u7684 \u6211\u6302\u4E86"
+  start: !human_time '00:24:31.460'
+- end: !human_time '00:24:39.900'
+  lines:
+  - "\u5434\u518D\u5CF0"
+  start: !human_time '00:24:38.530'
+- end: !human_time '00:24:59.390'
+  lines:
+  - "\u8FD9\u6DF7\u5C0F\u5B50"
+  start: !human_time '00:24:58.050'
+- end: !human_time '00:25:12.130'
+  lines:
+  - "\u53C8\u6709\u4EC0\u4E48\u4E8B\u554A"
+  start: !human_time '00:25:10.400'
+- end: !human_time '00:25:16.000'
+  lines:
+  - "\u4E8B\u52A1\u7E41\u5FD9\u7684\u8BAE\u5458\u5148\u751F"
+  start: !human_time '00:25:14.600'
+- end: !human_time '00:25:18.070'
+  lines:
+  - "\u600E\u4E48\u4F1A\u6765\u5357\u677E\u5462"
+  start: !human_time '00:25:16.000'
+- end: !human_time '00:25:21.810'
+  lines:
+  - "\u662F\u6765\u5A01\u80C1\u91D1\u6CF0\u5CF0\u8BAE\u5458"
+  start: !human_time '00:25:20.010'
+- end: !human_time '00:25:23.280'
+  lines:
+  - "\u8BA9\u4ED6\u95ED\u5634\u7684\u5427"
+  start: !human_time '00:25:21.810'
+- end: !human_time '00:25:27.210'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98"
+  start: !human_time '00:25:25.750'
+- end: !human_time '00:25:30.350'
+  lines:
+  - "\u4F60\u8FD9\u6837\u4E0D\u5206\u5927\u9171\u548C\u5927\u4FBF\u5230\u5904\u4E71\
+    \u54AC"
+  start: !human_time '00:25:27.610'
+- end: !human_time '00:25:32.350'
+  lines:
+  - "\u65E9\u665A\u662F\u8981 \u5403\u4E8F\u7684"
+  start: !human_time '00:25:30.350'
+- end: !human_time '00:25:36.020'
+  lines:
+  - "\u54EA\u6709\u4E00\u4ECB\u5E73\u51E1\u7684\u68C0\u5BDF\u5B98"
+  - "\u8D77\u8BC9\u6267\u653F\u515A\u4EE3\u8868\u7684"
+  start: !human_time '00:25:32.350'
+- end: !human_time '00:25:40.030'
+  lines:
+  - "\u4E00\u4ECB\u5E73\u51E1\u7684\u68C0\u5BDF\u5B98"
+  start: !human_time '00:25:38.160'
+- end: !human_time '00:25:43.830'
+  lines:
+  - "\u662F\u554A \u6211\u6BCF\u5929\u7761\u7720\u4E0D\u8DB3\u4E24\u4E2A\u5C0F\u65F6"
+  start: !human_time '00:25:41.090'
+- end: !human_time '00:25:46.830'
+  lines:
+  - "\u54AC\u7259\u52AA\u529B\u5B66\u4E60\u4E86\u4E09\u5E74 \u8FC7\u4E86\u7B14\u8BD5"
+  start: !human_time '00:25:43.830'
+- end: !human_time '00:25:49.900'
+  lines:
+  - "\u53F8\u6CD5\u8FDE\u4EFB\u4E24\u5E74 \u8FD8\u505A\u4E86\u4E09\u5E74\u6CD5\u52A1"
+  start: !human_time '00:25:46.830'
+- end: !human_time '00:25:51.970'
+  lines:
+  - "\u624D\u6210\u4E86\u68C0\u5BDF\u5B98 \u4F60\u77E5\u9053\u4E3A\u4EC0\u4E48\u5417"
+  start: !human_time '00:25:49.900'
+- end: !human_time '00:25:54.510'
+  lines:
+  - "\u5C31\u662F\u60F3\u8981\u628A"
+  - "\u50CF\u4F60\u8FD9\u6837\u4E3A\u8D75\u500D\u8C6A\u62CE\u5305"
+  start: !human_time '00:25:51.970'
+- end: !human_time '00:25:57.510'
+  lines:
+  - "\u8FD8\u4E3A\u4ED6\u505A\u4E00\u5207\u80AE\u810F\u7684\u52FE\u5F53"
+  start: !human_time '00:25:54.510'
+- end: !human_time '00:25:59.250'
+  lines:
+  - "\u7136\u540E\u4EE5\u6B64\u4E3A\u4EE3\u4EF7 \u5F97\u5230\u516C\u8350"
+  start: !human_time '00:25:57.510'
+- end: !human_time '00:26:01.250'
+  lines:
+  - "\u4FDD\u8BC1\u4F60\u56FD\u4F1A\u8BAE\u5458\u7684\u4F4D\u7F6E\u7684\u8FD9\u79CD"
+  start: !human_time '00:25:59.250'
+- end: !human_time '00:26:04.620'
+  lines:
+  - "\u56FD\u5BB6\u7684\u5927\u86C0\u866B\u5168\u90E8\u90FD\u6293\u51FA\u6765"
+  start: !human_time '00:26:01.250'
+- end: !human_time '00:26:07.350'
+  lines:
+  - "\u8865\u7F3A\u9009\u4E3E\u65F6\u7684\u9ED1\u8272\u5BA3\u4F20"
+  start: !human_time '00:26:04.750'
+- end: !human_time '00:26:09.820'
+  lines:
+  - "\u6211\u539F\u6765\u60F3\u4EE5\u8FD9\u4E2A\u7F6A\u540D\u6765\u6293\u4F60\u7684"
+  start: !human_time '00:26:07.350'
+- end: !human_time '00:26:11.020'
+  lines:
+  - "\u73B0\u5728\u53EA\u662F\u6682\u65F6\u9976\u4E86\u4F60\u800C\u5DF2"
+  start: !human_time '00:26:09.890'
+- end: !human_time '00:26:11.890'
+  lines:
+  - "\u4EC0\u4E48"
+  start: !human_time '00:26:11.020'
+- end: !human_time '00:26:13.030'
+  lines:
+  - "\u6682\u65F6\u9976\u4E86\u6211"
+  start: !human_time '00:26:11.890'
+- end: !human_time '00:26:16.900'
+  lines:
+  - "\u7B49\u8D75\u500D\u8C6A\u88AB\u6293\u4F4F\u4E86 \u4F60\u4E5F\u5C31\u5B8C\u4E86"
+  start: !human_time '00:26:13.030'
+- end: !human_time '00:26:18.030'
+  lines:
+  - "\u77E5\u9053\u4E3A\u4EC0\u4E48\u5417"
+  start: !human_time '00:26:16.900'
+- end: !human_time '00:26:20.500'
+  lines:
+  - "\u56E0\u4E3A\u4F60\u662F\u4E2A\u5206\u4E0D\u6E05\u5927\u9171\u548C\u5927\u4FBF\
+    \u7684"
+  start: !human_time '00:26:18.030'
+- end: !human_time '00:26:21.840'
+  lines:
+  - "\u8D75\u500D\u8C6A\u7684\u8DDF\u73ED"
+  start: !human_time '00:26:20.500'
+- end: !human_time '00:26:26.640'
+  lines:
+  - "\u4F60 \u4F60 \u4F60\u7ED9\u6211\u8FC7\u6765"
+  start: !human_time '00:26:24.100'
+- end: !human_time '00:26:28.640'
+  lines:
+  - "\u4F60 \u4F60\u521A\u624D\u8BF4\u4EC0\u4E48\u4E86"
+  start: !human_time '00:26:26.640'
+- end: !human_time '00:26:29.910'
+  lines:
+  - "\u8DDF\u73ED"
+  start: !human_time '00:26:28.640'
+- end: !human_time '00:26:33.650'
+  lines:
+  - "\u5434\u8BAE\u5458\u5148\u751F \u725B\u90CE\u592B\u4EBA\u8FD8\u597D\u5427"
+  start: !human_time '00:26:29.910'
+- end: !human_time '00:26:35.720'
+  lines:
+  - "\u8BF7\u5E26\u6211\u5411\u5979\u95EE\u4E2A\u597D"
+  start: !human_time '00:26:33.910'
+- end: !human_time '00:26:36.850'
+  lines:
+  - "\u4F60 \u4F60 \u4F60\u4E2A\u81ED\u5C0F\u5B50"
+  start: !human_time '00:26:35.720'
+- end: !human_time '00:26:49.600'
+  lines:
+  - "\u6211 \u4E00\u5B9A\u8981\u628A\u4F60\u6740..."
+  start: !human_time '00:26:45.530'
+- end: !human_time '00:26:53.130'
+  lines:
+  - "\u60A8\u53EB\u6211\u4E86\u5417 \u4EE3\u8868"
+  start: !human_time '00:26:50.800'
+- end: !human_time '00:26:56.300'
+  lines:
+  - "\u4F60\u6709\u4F55\u5C45\u5FC3"
+  start: !human_time '00:26:53.330'
+- end: !human_time '00:26:59.570'
+  lines:
+  - "\u5C45\u5FC3 \u60A8\u8FD9\u662F\u8BF4\u4EC0\u4E48"
+  start: !human_time '00:26:56.970'
+- end: !human_time '00:27:01.480'
+  lines:
+  - "\u6211\u5728\u8BF4\u5F20\u4E16\u73CD"
+  start: !human_time '00:26:59.570'
+- end: !human_time '00:27:05.810'
+  lines:
+  - "\u4F60\u73B0\u5728\u628A\u5979\u5E26\u5230\u6211\u9762\u524D\u662F\u60F3\u5E72\
+    \u4EC0\u4E48"
+  start: !human_time '00:27:02.480'
+- end: !human_time '00:27:08.680'
+  lines:
+  - "\u6211\u53EA\u662F\u770B\u5728\u65E7\u60C5\u4EFD\u4E0A\u7167\u987E\u5979\u800C\
+    \u5DF2"
+  start: !human_time '00:27:05.810'
+- end: !human_time '00:27:11.150'
+  lines:
+  - "\u90A3\u4E2A\u5B69\u5B50\u4EC0\u4E48\u90FD\u4E0D\u77E5\u9053"
+  start: !human_time '00:27:08.680'
+- end: !human_time '00:27:13.490'
+  lines:
+  - "\u4EC0\u4E48\u90FD\u4E0D\u77E5\u9053"
+  start: !human_time '00:27:11.150'
+- end: !human_time '00:27:15.690'
+  lines:
+  - "\u662F\u771F\u7684 \u4EE3\u8868"
+  start: !human_time '00:27:13.490'
+- end: !human_time '00:27:26.700'
+  lines:
+  - "\u90A3\u5B69\u5B50 \u771F\u7684\u662F\u5979\u7684\u5973\u513F\u6CA1\u9519\u5417"
+  start: !human_time '00:27:21.430'
+- end: !human_time '00:27:28.840'
+  lines:
+  - "\u662F\u7684"
+  start: !human_time '00:27:27.300'
+- end: !human_time '00:27:32.910'
+  lines:
+  - "\u7ED9\u6211\u8BB0\u4F4F"
+  start: !human_time '00:27:31.240'
+- end: !human_time '00:27:39.650'
+  lines:
+  - "\u4E07\u4E00\u6709\u5173\u6211\u548C\u90A3\u5B69\u5B50\u7684\u8BDD\u9898"
+  - "\u88AB\u6CC4\u9732\u51FA\u53BB\u7684\u8BDD"
+  start: !human_time '00:27:33.440'
+- end: !human_time '00:27:43.620'
+  lines:
+  - "\u4F60\u8F9B\u8F9B\u82E6\u82E6\u5728\u8FD9\u57CB\u4E0B\u7684\u6839\u57FA"
+  start: !human_time '00:27:40.050'
+- end: !human_time '00:27:46.350'
+  lines:
+  - "\u4E5F\u4F1A\u88AB\u8FDE\u6839\u62D4\u8D77"
+  start: !human_time '00:27:43.620'
+- end: !human_time '00:28:05.310'
+  lines:
+  - "\u4F60\u597D"
+  start: !human_time '00:28:04.100'
+- end: !human_time '00:28:09.240'
+  lines:
+  - "\u8D75\u500D\u8C6A\u4EE3\u8868 \u60A8\u5403\u8FC7\u4E86\u6CA1"
+  start: !human_time '00:28:05.310'
+- end: !human_time '00:28:11.240'
+  lines:
+  - "\u6211\u662F\u6015\u60A8\u5FD8\u4E86\u4F20\u5524\u7684\u4E8B\u60C5"
+  start: !human_time '00:28:09.440'
+- end: !human_time '00:28:13.180'
+  lines:
+  - "\u624D\u7ED9\u60A8\u6253\u7684\u7535\u8BDD"
+  start: !human_time '00:28:11.240'
+- end: !human_time '00:28:14.050'
+  lines:
+  - "\u56E0\u4E3A\u641E\u653F\u6CBB\u7684\u4EBA"
+  start: !human_time '00:28:13.180'
+- end: !human_time '00:28:16.350'
+  lines:
+  - "\u7ECF\u5E38\u4F1A\u8BF4\u4EC0\u4E48"
+  - "\"\u4E0D\u77E5\u9053\"\"\u8BB0\u4E0D\u6E05\"\u4E4B\u7C7B\u7684\u8BDD"
+  start: !human_time '00:28:14.050'
+- end: !human_time '00:28:18.020'
+  lines:
+  - "\u6240\u4EE5\u6211\u8981\u518D\u544A\u8BC9\u60A8\u4E00\u6B21"
+  start: !human_time '00:28:16.350'
+- end: !human_time '00:28:20.920'
+  lines:
+  - "\u5E0C\u671B\u60A8\u80FD\u591F\u914D\u5408\u6211"
+  start: !human_time '00:28:18.020'
+- end: !human_time '00:28:31.400'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98 \u4EC0\u4E48\u4E8B\u628A\u4F60\u9AD8\u5174\u6210\u8FD9\
+    \u6837"
+  start: !human_time '00:28:27.390'
+- end: !human_time '00:28:35.800'
+  lines:
+  - "\u5F00\u5FC3\u5730\u7B11\u7740\u5DE5\u4F5C"
+  - "\u8FD9\u4E0D\u5C31\u662F\u6211\u7684\u5EA7\u53F3\u94ED\u5417"
+  start: !human_time '00:28:31.400'
+- end: !human_time '00:28:39.870'
+  lines:
+  - "\u652F\u5385\u957F"
+  - "\u60A8\u4E5F\u8212\u8212\u670D\u670D\u7684\u529E\u5B8C\u4E8B\u51FA\u53BB\u5427"
+  start: !human_time '00:28:35.870'
+- end: !human_time '00:28:46.250'
+  lines:
+  - "\u8FD9\u5C0F\u5B50"
+  start: !human_time '00:28:44.080'
+- end: !human_time '00:29:08.340'
+  lines:
+  - "\u4F60 \u627E\u8D75\u4EE3\u8868\u662F\u60F3\u5E72\u4EC0\u4E48\u554A"
+  start: !human_time '00:29:04.130'
+- end: !human_time '00:29:09.840'
+  lines:
+  - "\u4EC0\u4E48\u53EB\u5E72\u4EC0\u4E48"
+  start: !human_time '00:29:08.340'
+- end: !human_time '00:29:13.540'
+  lines:
+  - "\u4F60\u771F\u7684\u4EE5\u4E3A\u8D75\u4EE3\u8868\u662F\u4F60\u7684\u7238\u7238\
+    \u5417"
+  start: !human_time '00:29:09.840'
+- end: !human_time '00:29:17.140'
+  lines:
+  - "\u6211\u53EA\u662F\u60F3\u8981\u77E5\u9053\u771F\u76F8\u800C\u5DF2"
+  start: !human_time '00:29:13.610'
+- end: !human_time '00:29:18.610'
+  lines:
+  - "\u6211\u53EA\u662F\u8BF4\u4E07\u4E00"
+  start: !human_time '00:29:17.140'
+- end: !human_time '00:29:21.080'
+  lines:
+  - "\u5C31\u7B97\u8D75\u4EE3\u8868\u771F\u7684\u662F\u4F60\u7684\u7238\u7238"
+  start: !human_time '00:29:18.610'
+- end: !human_time '00:29:24.680'
+  lines:
+  - "\u4F60\u4EE5\u4E3A\u4ED6\u4F1A\u63A5\u7EB3\u4F60\u5417"
+  start: !human_time '00:29:21.210'
+- end: !human_time '00:29:30.160'
+  lines:
+  - "\u4F60\u5E94\u8BE5\u5F88\u6E05\u695A"
+  - "\u4F60\u5988\u5988\u662F\u600E\u4E48\u88AB\u8D76\u5230\u7F8E\u56FD\u7684"
+  start: !human_time '00:29:25.020'
+- end: !human_time '00:29:31.760'
+  lines:
+  - "\u4F60\u5988\u5988\u5728\u90A3\u91CC\u591A\u4E48\u59D4\u5C48"
+  start: !human_time '00:29:30.160'
+- end: !human_time '00:29:32.430'
+  lines:
+  - "\u591A\u4E48\u60B2\u60E8\u7684\u60C5\u51B5\u4E0B\u6B7B\u53BB\u7684\u5417"
+  start: !human_time '00:29:31.760'
+- end: !human_time '00:29:33.560'
+  lines:
+  - "\u4F60\u4E0D\u662F\u4E5F\u5F88\u6E05\u695A"
+  start: !human_time '00:29:32.430'
+- end: !human_time '00:29:35.230'
+  lines:
+  - "\u4F60\u4E5F\u60F3\u53D8\u6210\u90A3\u6837\u5417"
+  start: !human_time '00:29:33.560'
+- end: !human_time '00:29:37.830'
+  lines:
+  - "\u6211\u4E0D\u60F3\u88AB\u8C01\u8BA4\u53EF\u4E3A\u5973\u513F"
+  start: !human_time '00:29:35.230'
+- end: !human_time '00:29:39.670'
+  lines:
+  - "\u5982\u679C\u4ED6\u771F\u7684\u662F\u6211\u7238\u7238"
+  start: !human_time '00:29:37.830'
+- end: !human_time '00:29:42.400'
+  lines:
+  - "\u90A3\u4E48\u6211\u4E00\u5B9A\u4F1A\u8BA9\u4ED6\u4ED8\u51FA"
+  - "\u5BB3\u6B7B\u6211\u5988\u5988\u7684\u4EE3\u4EF7"
+  start: !human_time '00:29:39.670'
+- end: !human_time '00:29:43.540'
+  lines:
+  - "\u4E16\u73CD"
+  start: !human_time '00:29:42.400'
+- end: !human_time '00:29:47.810'
+  lines:
+  - "\u59E8\u6BCD \u8D75\u500D\u8C6A\u90A3\u4E2A\u4EBA"
+  - "\u662F\u6211\u7238\u7238\u6CA1\u9519\u5427"
+  start: !human_time '00:29:43.540'
+- end: !human_time '00:29:51.010'
+  lines:
+  - "\u544A\u8BC9\u6211\u5427 \u4ED6\u662F\u6211\u7238\u7238\u5BF9\u4E0D\u5BF9"
+  start: !human_time '00:29:47.810'
+- end: !human_time '00:29:56.020'
+  lines:
+  - "\u4E0D\u662F \u4F60\u95EE\u51E0\u6B21\u90FD\u4E00\u6837"
+  start: !human_time '00:29:52.080'
+- end: !human_time '00:29:58.320'
+  lines:
+  - "\u6240\u4EE5\u4E0D\u8981\u518D\u60F3\u4E86"
+  start: !human_time '00:29:56.020'
+- end: !human_time '00:30:01.250'
+  lines:
+  - "\u56E0\u4E3A\u4F60 \u6211\u4E5F\u6709\u53EF\u80FD\u53D7\u4F24"
+  start: !human_time '00:29:58.650'
+- end: !human_time '00:30:06.590'
+  lines:
+  - "\u6211 \u5206\u660E\u8B66\u544A\u8FC7\u4F60\u4E86"
+  start: !human_time '00:30:02.190'
+- end: !human_time '00:30:38.490'
+  lines:
+  - "\u60A8\u597D"
+  start: !human_time '00:30:36.890'
+- end: !human_time '00:30:44.970'
+  lines:
+  - "\u6700\u8FD1\u6C1B\u56F4\u6709\u70B9\u50F5\u554A"
+  start: !human_time '00:30:42.760'
+- end: !human_time '00:30:46.700'
+  lines:
+  - "\u662F\u6211\u7684\u9519\u89C9\u5417"
+  start: !human_time '00:30:44.970'
+- end: !human_time '00:30:50.100'
+  lines:
+  - "\u662F\u6211\u4EEC\u6C11\u53CB\u515A\u5546\u5B9A\u7684"
+  - "\u56FD\u5BB6\u8D22\u653F\u6CD5\u4FEE\u6B63\u6848\u7684\u4E8B\u60C5"
+  start: !human_time '00:30:46.700'
+- end: !human_time '00:30:51.510'
+  lines:
+  - "\u76EE\u524D\u662F\u66B4\u98CE\u96E8\u524D\u591C"
+  start: !human_time '00:30:50.100'
+- end: !human_time '00:30:53.440'
+  lines:
+  - "\u56FD\u5BB6\u8D22\u653F\u6CD5\u4FEE\u8BA2\u6848"
+  start: !human_time '00:30:51.510'
+- end: !human_time '00:30:55.780'
+  lines:
+  - "\u662F\u4E3A\u4E86\u63D0\u9AD8\u56FD\u5BB6\u6536\u5165\u7684"
+  - "\u7ADE\u4E89\u529B\u548C\u6548\u7387"
+  start: !human_time '00:30:53.440'
+- end: !human_time '00:30:59.750'
+  lines:
+  - "\u800C\u63D0\u51FA\u7684\u4FEE\u6B63\u6848"
+  start: !human_time '00:30:55.780'
+- end: !human_time '00:31:01.820'
+  lines:
+  - "\u90A3\u4E2A\u6CD5\u6848\u6709\u4EC0\u4E48\u95EE\u9898\u5417"
+  start: !human_time '00:30:59.810'
+- end: !human_time '00:31:04.280'
+  lines:
+  - "\u4E0D\u4EC5\u5E02\u6C11\u56E2\u4F53\u5728\u53CD\u5BF9"
+  start: !human_time '00:31:01.820'
+- end: !human_time '00:31:07.490'
+  lines:
+  - "\u5E73\u65E5\u770B\u56FD\u6C11\u773C\u8272"
+  - "\u7684\u5728\u91CE\u515A\u4E5F\u575A\u51B3\u53CD\u5BF9"
+  start: !human_time '00:31:04.280'
+- end: !human_time '00:31:11.690'
+  lines:
+  - "\u800C\u6C11\u53CB\u515A \u6682\u65F6\u51B3\u5B9A\u8981\u5F3A\u884C\u5904\u7406"
+  start: !human_time '00:31:07.490'
+- end: !human_time '00:31:15.360'
+  lines:
+  - "\u53EF\u662F\u6211\u600E\u4E48\u662F\u7B2C\u4E00\u6B21\u542C\u8BF4"
+  start: !human_time '00:31:13.090'
+- end: !human_time '00:31:19.100'
+  lines:
+  - "\u5982\u679C\u515A\u6307\u5BFC\u90E8\u51B3\u5B9A\u7684\u8BDD"
+  - "\u4E00\u5B9A\u4F1A\u901A\u77E5\u8BAE\u5458\u7684"
+  start: !human_time '00:31:15.360'
+- end: !human_time '00:31:22.840'
+  lines:
+  - "\u5728\u90A3\u4E4B\u524D \u60A8\u5C31\u5F53\u505A\u4E0D\u77E5\u9053\u5427"
+  start: !human_time '00:31:20.700'
+- end: !human_time '00:31:26.070'
+  lines:
+  - "\u4F60\u7ED9\u6211\u4E00\u4E9B\u4FEE\u8BA2\u6848\u7684\u8D44\u6599"
+  start: !human_time '00:31:23.940'
+- end: !human_time '00:31:33.810'
+  lines:
+  - "\u7ACB\u6CD5\u8BAE\u5458\u4E0D\u53EF\u80FD"
+  - "\u8FDE\u6CD5\u6848\u5185\u5BB9\u90FD\u4E0D\u77E5\u9053\u5C31\u6295\u7968\u554A"
+  start: !human_time '00:31:30.080'
+- end: !human_time '00:31:37.880'
+  lines:
+  - "\u8FD9\u6B21\u6C11\u53CB\u515A\u5546\u5B9A\u7684\u4FEE\u6B63\u6848"
+  start: !human_time '00:31:34.150'
+- end: !human_time '00:31:42.090'
+  lines:
+  - "\u6211\u7684\u60F3\u6CD5\u662F\u5E94\u8BE5\u7531\u671D\u91CE\u53CC\u65B9"
+  - "\u901A\u8FC7\u5BF9\u8BDD\u548C\u534F\u5546\u6765\u89E3\u51B3"
+  start: !human_time '00:31:37.880'
+- end: !human_time '00:31:45.330'
+  lines:
+  - "\u6211\u76F8\u4FE1\u59DC\u8BAE\u5458\u4F1A\u5728\u515A\u91CC\u53D1\u6325\u4F5C\
+    \u7528\u7684"
+  start: !human_time '00:31:42.090'
+- end: !human_time '00:31:48.200'
+  lines:
+  - "\u867D\u7136\u4FEE\u8BA2\u6848"
+  - "\u76EE\u524D\u56FD\u6C11\u4EEC\u4E0D\u4F1A\u9A6C\u4E0A\u63A5\u53D7"
+  start: !human_time '00:31:45.330'
+- end: !human_time '00:31:51.260'
+  lines:
+  - "\u4F46\u662F\u4EE5\u957F\u8FDC\u89D2\u5EA6\u6765\u8BF4 \u662F\u5FC5\u8981\u7684\
+    \u6CD5\u6848"
+  start: !human_time '00:31:48.200'
+- end: !human_time '00:31:53.530'
+  lines:
+  - "\u5728\u91CE\u515A\u7684\u5185\u5FC3\u80AF\u5B9A\u4E5F\u662F\u8FD9\u4E48\u60F3\
+    \u7684"
+  start: !human_time '00:31:51.260'
+- end: !human_time '00:31:56.840'
+  lines:
+  - "\u6240\u4EE5\u8BF4 \u4E3A\u4E86\u8BA9\u56FD\u6C11\u63A5\u53D7"
+  start: !human_time '00:31:53.530'
+- end: !human_time '00:31:59.840'
+  lines:
+  - "\u8981\u591A\u5BA3\u4F20\u6CD5\u6848\u7684\u59A5\u5F53\u6027"
+  start: !human_time '00:31:56.840'
+- end: !human_time '00:32:02.640'
+  lines:
+  - "\u8BA9\u4ED6\u4EEC\u652F\u6301\u4E0D\u5C31\u597D\u4E86\u5417"
+  start: !human_time '00:31:59.840'
+- end: !human_time '00:32:03.780'
+  lines:
+  - "\u4E0D\u8FC7\u524D\u63D0\u662F"
+  start: !human_time '00:32:02.710'
+- end: !human_time '00:32:06.980'
+  lines:
+  - "\u56FD\u6C11\u80AF\u5B9A\u4F1A\u4EE5\u4E3A\u6CD5\u6848\u672C\u8EAB\u6709\u95EE\
+    \u9898"
+  start: !human_time '00:32:03.780'
+- end: !human_time '00:32:09.780'
+  lines:
+  - "\u5728\u91CE\u515A\u7684\u76EE\u6807\u4E5F\u6B63\u662F\u8FD9\u4E00\u70B9"
+  start: !human_time '00:32:06.980'
+- end: !human_time '00:32:16.220'
+  lines:
+  - "\u603B\u7EDF \u5982\u679C\u6C11\u53CB\u515A\u5F3A\u884C\u5904\u7406\u7684\u8BDD"
+  start: !human_time '00:32:10.780'
+- end: !human_time '00:32:17.620'
+  lines:
+  - "\u60A8\u4F1A\u600E\u4E48\u529E"
+  start: !human_time '00:32:16.220'
+- end: !human_time '00:32:20.630'
+  lines:
+  - "\u867D\u7136\u56E0\u4E3A\u6211\u6240\u5BA3\u5E03\u7684\u515A\u653F\u5206\u79BB\
+    \u539F\u5219"
+  start: !human_time '00:32:17.620'
+- end: !human_time '00:32:23.800'
+  lines:
+  - "\u5230\u65F6"
+  - "\u9752\u74E6\u53F0\u53EA\u80FD\u7AD9\u5728\u65C1\u89C2\u7684\u7ACB\u573A\u4E4B\
+    \u4E0A"
+  start: !human_time '00:32:20.630'
+- end: !human_time '00:32:25.430'
+  lines:
+  - "\u4F46\u6211\u76F8\u4FE1\u90A3\u79CD\u4E8B\u662F\u4E0D\u4F1A\u53D1\u751F\u7684"
+  start: !human_time '00:32:23.800'
+- end: !human_time '00:32:29.070'
+  lines:
+  - "\u515A\u91CC\u5E0C\u671B\u80FD\u591F\u4E86\u89E3\u603B\u7EDF\u660E\u786E\u7684\
+    \u60F3\u6CD5"
+  start: !human_time '00:32:25.430'
+- end: !human_time '00:32:31.400'
+  lines:
+  - "\u4F60\u56DE\u53BB\u544A\u8BC9\u4ED6\u4EEC"
+  start: !human_time '00:32:29.070'
+- end: !human_time '00:32:32.810'
+  lines:
+  - "\u5728\u6211\u7684\u4EFB\u671F\u4E4B\u5185"
+  start: !human_time '00:32:31.400'
+- end: !human_time '00:32:36.610'
+  lines:
+  - "\u4E0D\u60F3\u518D\u8BA9\u56FD\u6C11\u770B\u5230"
+  - "\u653F\u6CBB\u754C\u4E0A\u6F14\u6597\u725B\u620F\u7801"
+  start: !human_time '00:32:32.810'
+- end: !human_time '00:32:40.010'
+  lines:
+  - "\u5404\u5927\u52BF\u529B\u72EC\u5584\u5176\u8EAB"
+  - "\u6211\u4E0D\u4F1A\u5750\u89C6\u4E0D\u7406\u7684"
+  start: !human_time '00:32:36.680'
+- end: !human_time '00:32:41.680'
+  lines:
+  - "\u8FD9\u5C31\u662F\u6211\u7684\u610F\u601D"
+  start: !human_time '00:32:40.010'
+- end: !human_time '00:32:45.920'
+  lines:
+  - "\u8FD9\u6B21\u7684\u4FEE\u6B63\u6848"
+  start: !human_time '00:32:44.320'
+- end: !human_time '00:32:48.760'
+  lines:
+  - "\u4E00\u5B9A\u8981\u575A\u6301 \u5927\u5BB6\u90FD\u77E5\u9053\u7684\u5427"
+  start: !human_time '00:32:45.920'
+- end: !human_time '00:32:53.260'
+  lines:
+  - "\u5931\u8D25\u7684\u8BDD"
+  - "\u4F1A\u88AB\u6C11\u53CB\u515A\u593A\u8D70\u653F\u5C40\u6307\u5BFC\u6743\u7684"
+  start: !human_time '00:32:48.760'
+- end: !human_time '00:32:54.930'
+  lines:
+  - "\u90A3\u6211\u4EEC\u798F\u7949\u515A"
+  start: !human_time '00:32:53.260'
+- end: !human_time '00:32:58.400'
+  lines:
+  - "\u5C31\u4F1A\u7ED9\u56FD\u6C11"
+  - "\u8425\u9020\u51FA\u5F3A\u52BF\u5728\u91CE\u515A\u7684\u5F62\u8C61"
+  start: !human_time '00:32:54.930'
+- end: !human_time '00:33:00.200'
+  lines:
+  - "\u4E0D\u4EC5\u660E\u5E74\u7684\u521D\u9009"
+  start: !human_time '00:32:58.400'
+- end: !human_time '00:33:02.140'
+  lines:
+  - "\u5C31\u8FDE\u4E0B\u5C4A\u7684\u9009\u4E3E"
+  start: !human_time '00:33:00.200'
+- end: !human_time '00:33:05.140'
+  lines:
+  - "\u4E5F\u4F1A\u4ECE\u6B64\u83B7\u5F97\u5DE8\u5927\u7684\u5E2E\u52A9"
+  start: !human_time '00:33:02.140'
+- end: !human_time '00:33:06.940'
+  lines:
+  - "\u4F60\u662F\u54EA\u4F4D"
+  start: !human_time '00:33:05.140'
+- end: !human_time '00:33:12.350'
+  lines:
+  - "\u662F"
+  start: !human_time '00:33:10.680'
+- end: !human_time '00:33:14.950'
+  lines:
+  - "\u6211\u662F\u6C11\u53CB\u515A \u5F90\u6167\u7433 \u8BAE\u5458"
+  start: !human_time '00:33:12.350'
+- end: !human_time '00:33:18.750'
+  lines:
+  - "\u6C11\u53CB\u515A\u7684\u8BAE\u5458"
+  - "\u4E3A\u4F55\u6084\u6084\u6E9C\u8FDB\u4ED6\u515A\u4F1A\u8BAE\u4E4B\u4E2D"
+  start: !human_time '00:33:14.950'
+- end: !human_time '00:33:21.450'
+  lines:
+  - "\u4F60\u662F\u6765\u5F53\u95F4\u8C0D\u7684\u5417"
+  start: !human_time '00:33:18.750'
+- end: !human_time '00:33:22.920'
+  lines:
+  - "\u4E0D\u662F\u90A3\u4E2A\u5566"
+  start: !human_time '00:33:21.450'
+- end: !human_time '00:33:23.520'
+  lines:
+  - "\u8D76\u7D27\u51FA\u53BB"
+  start: !human_time '00:33:22.920'
+- end: !human_time '00:33:25.260'
+  lines:
+  - "\u4E0D\u60F3\u4E22\u4EBA\u73B0\u773C\u7684\u8BDD"
+  start: !human_time '00:33:23.520'
+- end: !human_time '00:33:26.590'
+  lines:
+  - "\u7A0D\u7B49"
+  start: !human_time '00:33:25.260'
+- end: !human_time '00:33:33.200'
+  lines:
+  - "\u5F90\u8BAE\u5458 \u4F60\u6765\u8FD9\u91CC\u7684\u539F\u56E0\u662F\u4EC0\u4E48"
+  start: !human_time '00:33:28.130'
+- end: !human_time '00:33:37.140'
+  lines:
+  - "\u9996\u5148\u672A\u7ECF\u5141\u8BB8"
+  - "\u5C31\u6765\u53C2\u52A0\u4F1A\u8BAE\u6211\u611F\u5230\u5F88\u62B1\u6B49"
+  start: !human_time '00:33:33.200'
+- end: !human_time '00:33:41.040'
+  lines:
+  - "\u4F46\u662F\u56FD\u4F1A\u8BAE\u5458\u6CD5\u6848\u7684\u63D0\u4EA4"
+  - "\u5BF9\u56FD\u6C11\u6765\u8BF4\u662F\u5F88\u91CD\u8981\u7684\u4E8B\u60C5"
+  start: !human_time '00:33:37.140'
+- end: !human_time '00:33:43.440'
+  lines:
+  - "\u6211\u89C9\u5F97\u4E0D\u9700\u8981\u53E6\u4F5C\u6458\u8981"
+  start: !human_time '00:33:41.040'
+- end: !human_time '00:33:47.080'
+  lines:
+  - "\u8FD9\u6B21\u7684\u6CD5\u6848\u63D0\u6848\u4E2D"
+  - "\u65B0\u589E\u7684\u6458\u8981\u5185\u5BB9\u7565\u6709\u51B2\u7A81"
+  start: !human_time '00:33:43.440'
+- end: !human_time '00:33:49.950'
+  lines:
+  - "\u7A76\u7ADF \u8FD9\u5230\u5E95\u6709\u4EC0\u4E48\u5DEE\u5F02"
+  start: !human_time '00:33:47.080'
+- end: !human_time '00:33:52.490'
+  lines:
+  - "\u53E6\u5916"
+  - "\u7A76\u7ADF\u8C01\u7684\u610F\u89C1\u4F1A\u66F4\u6709\u76CA\u4E8E\u56FD\u6C11"
+  start: !human_time '00:33:49.950'
+- end: !human_time '00:33:54.750'
+  lines:
+  - "\u6211\u6765\u8FD9\u91CC\u662F\u4E3A\u4E86\u4E86\u89E3\u8FD9\u4E9B\u5185\u5BB9"
+  start: !human_time '00:33:52.490'
+- end: !human_time '00:33:57.290'
+  lines:
+  - "\u662F\u561B"
+  start: !human_time '00:33:55.490'
+- end: !human_time '00:33:58.760'
+  lines:
+  - "\u597D\u5427 \u90A3\u4F60\u5C31\u5750\u4E0B"
+  start: !human_time '00:33:57.290'
+- end: !human_time '00:34:00.530'
+  lines:
+  - "\u6162\u6162\u542C\u6211\u4EEC\u798F\u7949\u515A\u7684\u610F\u89C1"
+  start: !human_time '00:33:58.760'
+- end: !human_time '00:34:05.330'
+  lines:
+  - "\u56DE\u53BB\u540E \u597D\u597D\u5E2E\u6211\u8F6C\u8FF0\u7ED9\u8D75\u4EE3\u8868"
+  start: !human_time '00:34:00.530'
+- end: !human_time '00:34:07.000'
+  lines:
+  - "\u8C22\u8C22\u4F60 \u4EE3\u8868"
+  start: !human_time '00:34:05.330'
+- end: !human_time '00:34:10.270'
+  lines:
+  - "\u6253\u8D62\u4ED6 \u6253\u8D62\u4ED6"
+  start: !human_time '00:34:07.000'
+- end: !human_time '00:34:13.340'
+  lines:
+  - "\u6253\u8D62\u4ED6 \u6253\u8D62\u4ED6"
+  start: !human_time '00:34:10.340'
+- end: !human_time '00:34:16.280'
+  lines:
+  - "\u6253\u8D62\u4ED6 \u6253\u8D62\u4ED6"
+  start: !human_time '00:34:13.410'
+- end: !human_time '00:34:19.010'
+  lines:
+  - "\u6253\u8D62\u4ED6 \u6253\u8D62\u4ED6"
+  start: !human_time '00:34:16.340'
+- end: !human_time '00:34:21.480'
+  lines:
+  - "\u6253\u8D62\u4ED6 \u6253\u8D62\u4ED6"
+  start: !human_time '00:34:19.080'
+- end: !human_time '00:34:23.550'
+  lines:
+  - "\u4F60\u4EEC\u8FD9\u4E9B\u4E2A\u5C0F\u5C41\u5B69"
+  start: !human_time '00:34:21.480'
+- end: !human_time '00:34:25.420'
+  lines:
+  - "\u73B0\u5728\u8FD9\u90FD\u5728\u505A\u4EC0\u4E48\u5462"
+  start: !human_time '00:34:23.550'
+- end: !human_time '00:34:27.750'
+  lines:
+  - "\u670B\u53CB\u5C31\u8BE5\u597D\u597D\u76F8\u5904\u624D\u662F"
+  start: !human_time '00:34:25.420'
+- end: !human_time '00:34:29.760'
+  lines:
+  - "\u95EA\u5F00 \u5C0F\u5B50"
+  start: !human_time '00:34:28.290'
+- end: !human_time '00:34:32.290'
+  lines:
+  - "\u54E6 \u4E1C\u6CB3\u554A"
+  start: !human_time '00:34:29.760'
+- end: !human_time '00:34:34.030'
+  lines:
+  - "\u5440 \u4F60\u505C\u4E0B"
+  start: !human_time '00:34:32.290'
+- end: !human_time '00:34:35.830'
+  lines:
+  - "\u8D77\u6765"
+  start: !human_time '00:34:34.030'
+- end: !human_time '00:34:37.960'
+  lines:
+  - "\u5927\u53D4"
+  start: !human_time '00:34:35.830'
+- end: !human_time '00:34:46.640'
+  lines:
+  - "\u88AB\u544A\u5F90\u632F\u71EE"
+  start: !human_time '00:34:44.840'
+- end: !human_time '00:34:50.110'
+  lines:
+  - "\u539F\u544A\u65B9\u4E1C\u6CB3\u4E00\u5F00\u59CB\u70AB\u8000"
+  - "\u81EA\u5DF1\u5988\u5988\u5F53\u4E0A\u4E86\u56FD\u4F1A\u8BAE\u5458"
+  start: !human_time '00:34:46.640'
+- end: !human_time '00:34:53.250'
+  lines:
+  - "\u88AB\u544A\u5C31\u8BF4"
+  - "\u56FD\u4F1A\u8BAE\u5458\u6574\u5929\u53EA\u77E5\u9053\u6253\u67B6\u90FD\u662F\
+    \u574F\u4EBA"
+  start: !human_time '00:34:50.110'
+- end: !human_time '00:34:55.850'
+  lines:
+  - "\u56E0\u6B64\u6253\u8FC7\u539F\u544A\u65B9\u4E1C\u6CB3 \u8FD9\u662F\u4E8B\u5B9E\
+    \u5417"
+  start: !human_time '00:34:53.250'
+- end: !human_time '00:34:59.320'
+  lines:
+  - "\u6211\u7238\u770B\u4E86\u65B0\u95FB\u8FD9\u4E48\u8BF4\u7684 \u5927\u53D4"
+  start: !human_time '00:34:55.850'
+- end: !human_time '00:35:01.860'
+  lines:
+  - "\u54CE \u4F60\u8BE5\u53EB\u6211\u68C0\u5BDF\u5B98"
+  start: !human_time '00:34:59.320'
+- end: !human_time '00:35:04.060'
+  lines:
+  - "\u662F\u771F\u7684\u5566 \u68C0\u5BDF\u5B98"
+  start: !human_time '00:35:01.860'
+- end: !human_time '00:35:05.860'
+  lines:
+  - "\u539F\u544A\u65B9\u4E1C\u6CB3"
+  start: !human_time '00:35:04.060'
+- end: !human_time '00:35:07.730'
+  lines:
+  - "\u66FE\u7ECF\u8BF4\u8FC7\u56FD\u4F1A\u8BAE\u5458\u5988\u5988\u662F\u4E2A\u5F88\
+    \u5584\u826F"
+  start: !human_time '00:35:05.860'
+- end: !human_time '00:35:09.760'
+  lines:
+  - "\u5F88\u4F18\u79C0\u7684\u4EBA"
+  start: !human_time '00:35:07.730'
+- end: !human_time '00:35:11.200'
+  lines:
+  - "\u4E0D\u8981\u8BF4\u5979\u7684\u574F\u8BDD"
+  start: !human_time '00:35:09.760'
+- end: !human_time '00:35:13.600'
+  lines:
+  - "\u56E0\u6B64\u6253\u8FC7\u88AB\u544A\u5F90\u632F\u71EE \u8FD9\u662F\u4E8B\u5B9E\
+    \u5417"
+  start: !human_time '00:35:11.200'
+- end: !human_time '00:35:19.540'
+  lines:
+  - "\u662F\u632F\u71EE\u5148\u6765\u6253\u6211\u7684 \u68C0\u5BDF\u5B98"
+  start: !human_time '00:35:13.600'
+- end: !human_time '00:35:22.510'
+  lines:
+  - "\u5F90\u632F\u71EE\u548C\u65B9\u4E1C\u6CB3"
+  start: !human_time '00:35:19.540'
+- end: !human_time '00:35:26.480'
+  lines:
+  - "\u4ED6\u4EEC\u4E24\u4E2A\u90FD\u662F\u76F8\u5F53\u4F18\u79C0\u7684\u5C0F\u670B\
+    \u53CB"
+  start: !human_time '00:35:22.510'
+- end: !human_time '00:35:29.280'
+  lines:
+  - "\u867D\u7136\u6700\u521D"
+  - "\u90FD\u662F\u56E0\u4E3A\u611F\u60C5\u51B2\u52A8\u624D\u6253\u67B6\u7684"
+  start: !human_time '00:35:26.480'
+- end: !human_time '00:35:31.490'
+  lines:
+  - "\u4F46\u5374\u4E0D\u518D\u7EE7\u7EED\u4F7F\u7528\u66B4\u529B"
+  start: !human_time '00:35:29.280'
+- end: !human_time '00:35:33.720'
+  lines:
+  - "\u5728\u6CD5\u5F8B\u9762\u524D\u8FA8\u522B\u662F\u975E\u8FD9\u4E00\u70B9"
+  start: !human_time '00:35:31.490'
+- end: !human_time '00:35:36.390'
+  lines:
+  - "\u5C31\u8FDE\u5927\u4EBA\u4EEC\u90FD\u8BE5\u5411\u4F60\u4EEC\u5B66\u4E60"
+  start: !human_time '00:35:33.720'
+- end: !human_time '00:35:38.530'
+  lines:
+  - "\u56E0\u4E3A\u6709\u4F60\u4EEC"
+  start: !human_time '00:35:36.390'
+- end: !human_time '00:35:40.990'
+  lines:
+  - "\u5927\u97E9\u6C11\u56FD\u7684\u672A\u6765\u771F\u662F\u4E00\u7247\u5149\u660E\
+    \u554A"
+  start: !human_time '00:35:38.530'
+- end: !human_time '00:35:42.660'
+  lines:
+  - "\u5C0F\u5BB6\u4F19\u4EEC"
+  start: !human_time '00:35:40.990'
+- end: !human_time '00:35:49.240'
+  lines:
+  - "\u4F46\u662F\u4E1C\u6CB3\u548C\u632F\u71EE"
+  - "\u8C01\u7684\u8BDD\u624D\u6B63\u786E\u5462\u68C0\u5BDF\u5B98"
+  start: !human_time '00:35:45.530'
+- end: !human_time '00:35:52.510'
+  lines:
+  - "\u6211\u4E0D\u4E86\u89E3\u5176\u4ED6\u7684\u56FD\u4F1A\u8BAE\u5458\u5982\u4F55"
+  start: !human_time '00:35:49.240'
+- end: !human_time '00:35:53.840'
+  lines:
+  - "\u50CF\u4E1C\u6CB3\u7684\u5988\u5988\u8FD9\u6837\u7684"
+  start: !human_time '00:35:52.510'
+- end: !human_time '00:35:56.440'
+  lines:
+  - "\u4E1C\u6CB3\u5012\u662F\u6CA1\u6709\u8BF4\u9519 \u767E\u5206\u4E4B\u767E"
+  start: !human_time '00:35:53.840'
+- end: !human_time '00:36:02.650'
+  lines:
+  - "\u662F \u5988\u5988"
+  start: !human_time '00:36:00.850'
+- end: !human_time '00:36:06.520'
+  lines:
+  - "\u660E\u5929\u5F97\u5F88\u65E9\u53BB\u5730\u65B9\u5904\u7406\u4E8B\u60C5"
+  - "\u6211\u73B0\u5728\u6B63\u5F80\u90A3\u8FB9\u8D76\u5462"
+  start: !human_time '00:36:02.650'
+- end: !human_time '00:36:08.190'
+  lines:
+  - "\u662F\u5417"
+  start: !human_time '00:36:06.520'
+- end: !human_time '00:36:10.790'
+  lines:
+  - "\u90A3\u6211\u4EEC\u7B49\u7740"
+  start: !human_time '00:36:08.190'
+- end: !human_time '00:36:12.260'
+  lines:
+  - "\u7B49\u4E0B\u554A"
+  start: !human_time '00:36:10.790'
+- end: !human_time '00:36:15.400'
+  lines:
+  - "\u4E1C\u6CB3\u554A \u4F60\u5988 \u63A5\u7535\u8BDD"
+  start: !human_time '00:36:12.260'
+- end: !human_time '00:36:16.730'
+  lines:
+  - "\u5988\u5988"
+  start: !human_time '00:36:15.400'
+- end: !human_time '00:36:18.800'
+  lines:
+  - "\u6211\u4EEC\u5BB6\u4E1C\u6CB3\u6CA1\u4E8B\u5427"
+  start: !human_time '00:36:16.730'
+- end: !human_time '00:36:21.940'
+  lines:
+  - "\u5E72\u561B\u8981\u548C\u632F\u71EE\u6253\u67B6\u554A \u5F97\u597D\u597D\u76F8\
+    \u5904\u561B"
+  start: !human_time '00:36:18.800'
+- end: !human_time '00:36:28.010'
+  lines:
+  - "\u632F\u71EE\u8BF4"
+  - "\u56FD\u4F1A\u8BAE\u5458\u5C31\u662F\u53EA\u4F1A\u6253\u67B6\u7684\u8C0E\u8BDD\
+    \u7CBE"
+  start: !human_time '00:36:21.940'
+- end: !human_time '00:36:28.880'
+  lines:
+  - "\u4EC0\u4E48"
+  start: !human_time '00:36:28.010'
+- end: !human_time '00:36:31.610'
+  lines:
+  - "\u5988\u5988 \u56FD\u4F1A\u8BAE\u5458\u4E0D\u662F\u90A3\u79CD\u4EBA\u5427"
+  start: !human_time '00:36:28.880'
+- end: !human_time '00:36:33.750'
+  lines:
+  - "\u662F\u5F88\u4F18\u79C0\u7684\u4EBA\u5427"
+  start: !human_time '00:36:31.610'
+- end: !human_time '00:36:36.480'
+  lines:
+  - "\u5F53\u7136 \u4E1C\u6CB3\u8BF4\u7684\u6CA1\u9519"
+  start: !human_time '00:36:33.750'
+- end: !human_time '00:36:40.150'
+  lines:
+  - "\u5988\u5988\u6211\u73B0\u5728\u6B63\u5F80\u5BB6\u8D76\u5462 \u4F60\u7B49\u7740\
+    \u554A"
+  start: !human_time '00:36:36.480'
+- end: !human_time '00:36:42.290'
+  lines:
+  - "\u9752\u74E6\u53F0\u8BAE\u653F\u4E5F\u662F\u5982\u6B64"
+  start: !human_time '00:36:40.150'
+- end: !human_time '00:36:46.160'
+  lines:
+  - "\u548C\u798F\u7949\u515A\u95F5\u4EE3\u8868 \u91CD\u65B0\u534F\u5546\u4E00\u756A\
+    \u5982\u4F55"
+  start: !human_time '00:36:42.290'
+- end: !human_time '00:36:48.500'
+  lines:
+  - "\u5728\u91CE\u515A\u8BAE\u5458\u4EEC\u548C\u5176\u5B83\u4E13\u52A1\u4EEC"
+  start: !human_time '00:36:46.160'
+- end: !human_time '00:36:50.160'
+  lines:
+  - "\u672C\u5C31\u88AB\u5C01\u9501\u8FDB\u51FA"
+  start: !human_time '00:36:48.500'
+- end: !human_time '00:36:54.130'
+  lines:
+  - "\u5012\u662F\u4F1A\u8BA9\u6211\u515A\u7684\u5F62\u8C61"
+  - "\u53D8\u5F97\u72EC\u65AD\u4E13\u884C\u8D77\u6765"
+  start: !human_time '00:36:50.160'
+- end: !human_time '00:36:57.540'
+  lines:
+  - "\u59DC\u8BAE\u5458\u89C9\u5F97\u5982\u4F55"
+  start: !human_time '00:36:54.130'
+- end: !human_time '00:37:00.440'
+  lines:
+  - "\u6211\u4E2A\u4EBA\u53CD\u5BF9\u4FEE\u6B63\u7684\u5904\u7406\u6CD5\u6848"
+  start: !human_time '00:36:57.540'
+- end: !human_time '00:37:02.110'
+  lines:
+  - "\u4E0D\u8FC7 \u6211\u89C9\u5F97\u82E5\u662F\u80FD\u901A\u8FC7\u7684\u8BDD"
+  start: !human_time '00:37:00.440'
+- end: !human_time '00:37:03.910'
+  lines:
+  - "\u4ECE\u515A\u7684\u89D2\u5EA6\u6765\u770B \u5C31\u4E0D\u8981\u518D\u505A\u62D6\
+    \u5EF6"
+  start: !human_time '00:37:02.110'
+- end: !human_time '00:37:06.750'
+  lines:
+  - "\u5F97\u505A\u51FA\u51B3\u65AD\u624D\u884C"
+  start: !human_time '00:37:03.910'
+- end: !human_time '00:37:08.480'
+  lines:
+  - "\u4F60\u662F\u8BF4\u8981\u8FCE\u5934\u8D76\u4E0A\u5417"
+  start: !human_time '00:37:06.750'
+- end: !human_time '00:37:10.120'
+  lines:
+  - "\u9700\u8981\u534F\u5546\u7684\u65F6\u5019\u5C31\u8FDB\u884C\u534F\u5546"
+  start: !human_time '00:37:08.480'
+- end: !human_time '00:37:12.420'
+  lines:
+  - "\u9700\u8981\u534F\u529B\u7684\u65F6\u5019\u5C31\u5F97\u8FCE\u5934\u8D76\u4E0A\
+    \u554A"
+  start: !human_time '00:37:10.120'
+- end: !human_time '00:37:15.090'
+  lines:
+  - "\u8FD9\u6B21 \u8981\u5C55\u793A\u6211\u515A\u5F3A\u608D\u7684\u6267\u653F\u515A\
+    \u5F62\u8C61"
+  start: !human_time '00:37:12.420'
+- end: !human_time '00:37:17.560'
+  lines:
+  - "\u9664\u4E86\u56E0\u4E3A\u4E2A\u4EBA\u539F\u56E0"
+  - "\u6B63\u51FA\u95E8\u5728\u5916\u7684\u8BAE\u5458"
+  start: !human_time '00:37:15.090'
+- end: !human_time '00:37:20.930'
+  lines:
+  - "\u548C\u4F4F\u8FDB\u91CD\u75C7\u76D1\u62A4\u5BA4\u7684\u8BAE\u5458"
+  - "\u8FD8\u5269152\u5E2D"
+  start: !human_time '00:37:17.560'
+- end: !human_time '00:37:23.530'
+  lines:
+  - "\u963B\u6B62\u4E8C\u6B21\u6295\u7968 \u5728\u73B0\u573A\u5F15\u8D77\u9A9A\u4E71"
+  start: !human_time '00:37:20.930'
+- end: !human_time '00:37:26.230'
+  lines:
+  - "\u6CD5\u6848\u7684\u901A\u8FC7\u4E5F\u662F\u53EF\u80FD\u7684"
+  start: !human_time '00:37:23.530'
+- end: !human_time '00:37:28.840'
+  lines:
+  - "\u5C31\u4EA4\u7ED9\u6211\u5427"
+  start: !human_time '00:37:27.300'
+- end: !human_time '00:37:31.910'
+  lines:
+  - "\u5728\u91CE\u515A\u90A3\u4E9B\u5BB6\u4F19\u6211\u4F1A\u4E00\u7F51\u6253\u5C3D\
+    \u7684"
+  start: !human_time '00:37:28.840'
+- end: !human_time '00:37:35.410'
+  lines:
+  - "\u53EC\u56DE\u53BB\u5730\u65B9\u7684\u5168\u90E8\u8BAE\u5458"
+  start: !human_time '00:37:31.910'
+- end: !human_time '00:37:38.680'
+  lines:
+  - "\u5206\u7EC4\u96C6\u5408 \u8981\u8BA9\u4E8C\u6B21\u6295\u7968\u53D6\u6D88"
+  start: !human_time '00:37:35.410'
+- end: !human_time '00:37:47.190'
+  lines:
+  - "\u4F60\u73B0\u5728\u8FD9\u662F\u5728\u5E72\u4EC0\u4E48"
+  start: !human_time '00:37:45.090'
+- end: !human_time '00:37:51.290'
+  lines:
+  - "\u8D75\u500D\u8C6A\u4EE3\u8868 \u60A8\u6CA1\u5FD8\u8BB0\u4F20\u5524\u5427"
+  start: !human_time '00:37:47.190'
+- end: !human_time '00:37:54.360'
+  lines:
+  - "\u6211\u6015\u60A8\u56E0\u4E3A\u5FD9\u7740\u5F3A\u884C\u8868\u51B3 \u5FD8\u4E86\
+    \u8FD9\u4E8B"
+  start: !human_time '00:37:51.290'
+- end: !human_time '00:37:56.730'
+  lines:
+  - "\u6240\u4EE5\u624D\u7ED9\u60A8\u6253\u7535\u8BDD\u7684"
+  start: !human_time '00:37:54.360'
+- end: !human_time '00:37:58.300'
+  lines:
+  - "\u90A3\u5C31\u62DC\u6258\u60A8\u4E86"
+  start: !human_time '00:37:56.730'
+- end: !human_time '00:38:09.180'
+  lines:
+  - "\u8FD9\u4E2A\u65F6\u5019\u8BE5\u7838\u70C2\u4E00\u5806\u4E1C\u897F\u4E86"
+  start: !human_time '00:38:06.170'
+- end: !human_time '00:38:12.110'
+  lines:
+  - "\u5927\u5A76\u7A0D\u5FAE\u6709\u70B9\u665A\u4E86\u5462"
+  start: !human_time '00:38:10.510'
+- end: !human_time '00:38:13.580'
+  lines:
+  - "\u8981\u4E0D\u8981\u6253\u4E2A\u7535\u8BDD\u554A"
+  start: !human_time '00:38:12.110'
+- end: !human_time '00:38:14.980'
+  lines:
+  - "\u5C31\u662F\u8BF4\u554A"
+  start: !human_time '00:38:13.580'
+- end: !human_time '00:38:21.050'
+  lines:
+  - "\u5582"
+  start: !human_time '00:38:19.120'
+- end: !human_time '00:38:23.590'
+  lines:
+  - "\u54E6"
+  start: !human_time '00:38:21.050'
+- end: !human_time '00:38:27.290'
+  lines:
+  - "\u4EC0\u4E48 \u4F60\u8981\u56DE\u9996\u5C14"
+  start: !human_time '00:38:23.590'
+- end: !human_time '00:38:30.100'
+  lines:
+  - "\u4F60\u8FD9\u662F"
+  start: !human_time '00:38:27.290'
+- end: !human_time '00:38:33.700'
+  lines:
+  - "\u56E0\u4E3A\u4E8B\u60C5\u7D27\u6025"
+  start: !human_time '00:38:30.100'
+- end: !human_time '00:38:35.870'
+  lines:
+  - "\u5BF9\u4E0D\u8D77 \u5988\u5988"
+  start: !human_time '00:38:33.700'
+- end: !human_time '00:38:38.940'
+  lines:
+  - "\u5E2E\u6211\u544A\u8BC9\u4E1C\u6CB3 \u6211\u4E0B\u5468\u4F1A\u56DE\u53BB\u7684"
+  start: !human_time '00:38:35.870'
+- end: !human_time '00:38:40.540'
+  lines:
+  - "\u597D"
+  start: !human_time '00:38:38.940'
+- end: !human_time '00:38:44.380'
+  lines:
+  - "\u5F53\u7136\u662F\u56FD\u5BB6\u7684\u4E8B\u60C5\u8981\u7D27 \u4F60\u5F97\u56DE\
+    \u554A"
+  start: !human_time '00:38:40.540'
+- end: !human_time '00:38:46.710'
+  lines:
+  - "\u77E5\u9053\u5566"
+  start: !human_time '00:38:44.380'
+- end: !human_time '00:38:49.620'
+  lines:
+  - "\u5927\u5A76\u8981\u56DE\u9996\u5C14\u554A"
+  start: !human_time '00:38:48.350'
+- end: !human_time '00:38:51.550'
+  lines:
+  - "\u54E6"
+  start: !human_time '00:38:49.620'
+- end: !human_time '00:38:55.260'
+  lines:
+  - "\u770B\u6765\u56FD\u4F1A\u7684\u4E8B\u60C5\u4E5F\u4E0D\u662F\u95F9\u7740\u73A9\
+    \u7684\u554A"
+  start: !human_time '00:38:52.150'
+- end: !human_time '00:38:57.160'
+  lines:
+  - "\u8D8A\u662F\u8FD9\u79CD\u65F6\u5019 \u5927\u5A76\u8D8A\u662F\u4E0D\u80FD\u52A8\
+    \u6447"
+  start: !human_time '00:38:55.260'
+- end: !human_time '00:38:59.090'
+  lines:
+  - "\u5F97\u627E\u51C6\u91CD\u5FC3\u624D\u662F"
+  start: !human_time '00:38:57.160'
+- end: !human_time '00:39:03.330'
+  lines:
+  - "\u68C0\u5BDF\u5B98 \u4F60\u5F97\u56DE\u5BB6\u554A"
+  start: !human_time '00:38:59.090'
+- end: !human_time '00:39:06.800'
+  lines:
+  - "\u4F60\u660E\u5929\u4E0D\u662F\u8FD8\u5F97\u4E0A\u73ED\u561B"
+  start: !human_time '00:39:03.330'
+- end: !human_time '00:39:08.940'
+  lines:
+  - "\u6211\u4E5F\u6CA1\u5728\u7B49\u5927\u5A76\u554A"
+  start: !human_time '00:39:06.800'
+- end: !human_time '00:39:13.970'
+  lines:
+  - "\u96BE\u4E0D\u6210\u4ECA\u513F\u5F97\u5728\u8FD9\u91CC\u4F11\u606F"
+  start: !human_time '00:39:11.570'
+- end: !human_time '00:39:15.840'
+  lines:
+  - "-\u6211\u8D70\u4E86"
+  - "-\u597D"
+  start: !human_time '00:39:13.970'
+- end: !human_time '00:39:19.080'
+  lines:
+  - "\u5927\u665A\u4E0A\u7684\u5C45\u7136\u6709\u7D27\u6025\u4E8B\u6001"
+  - "\u5230\u5E95\u662F\u4EC0\u4E48\u4E8B\u554A"
+  start: !human_time '00:39:15.840'
+- end: !human_time '00:39:22.550'
+  lines:
+  - "\u957F\u5B98\u4EEC\u4ECA\u5929\u665A\u4E0A \u770B\u6765\u8981\u5F3A\u5236\u6267\
+    \u884C\u4E86"
+  start: !human_time '00:39:19.080'
+- end: !human_time '00:39:25.220'
+  lines:
+  - "\u5230\u9996\u5C14\u4E4B\u524D \u60A8\u5148\u772F\u4E00\u4F1A\u513F\u5427"
+  start: !human_time '00:39:22.550'
+- end: !human_time '00:39:27.550'
+  lines:
+  - "\u4ECA\u5929\u4E00\u5929\u65E5\u7A0B\u6392\u6EE1\u4E86 \u60A8\u4E5F\u7D2F\u4E86"
+  start: !human_time '00:39:25.220'
+- end: !human_time '00:39:34.630'
+  lines:
+  - "\u6211\u53EF\u4EE5\u6253\u5F00\u540E\u5EA7\u7684\u706F\u5427"
+  start: !human_time '00:39:31.360'
+- end: !human_time '00:40:02.920'
+  lines:
+  - "\u8BAE\u5458"
+  start: !human_time '00:40:00.890'
+- end: !human_time '00:40:05.460'
+  lines:
+  - "\u60A8\u5230\u73B0\u5728\u8FD8\u6CA1\u7761\u5417"
+  start: !human_time '00:40:02.920'
+- end: !human_time '00:40:07.660'
+  lines:
+  - "\u65E5\u540E\u4E5F\u53EF\u4EE5\u7761\u4E2A\u9971"
+  start: !human_time '00:40:05.460'
+- end: !human_time '00:40:09.760'
+  lines:
+  - "\u6211\u770B\u4F60\u4E5F\u7D2F\u4E86 \u4F60\u518D\u7761\u4F1A\u513F\u5427"
+  start: !human_time '00:40:07.660'
+- end: !human_time '00:40:24.510'
+  lines:
+  - "\u8FD9\u6B21\u8981\u5411\u56FD\u6C11\u5C55\u793A"
+  - "\u6211\u4EEC\u6C11\u53CB\u515A\u56E2\u7ED3\u4E00\u81F4\u7684\u5F62\u8C61"
+  start: !human_time '00:40:19.910'
+- end: !human_time '00:40:26.850'
+  lines:
+  - "\u5728\u91CE\u515A\u4E00\u5B9A\u4F1A\u5C01\u9501\u4E3B\u4F1A\u573A\u7684 \u53EF\
+    \u884C\u5417"
+  start: !human_time '00:40:24.510'
+- end: !human_time '00:40:28.450'
+  lines:
+  - "\u8FD8\u6709\u9884\u5907\u4F1A\u8BAE"
+  start: !human_time '00:40:26.850'
+- end: !human_time '00:40:31.790'
+  lines:
+  - "\u8BF8\u4F4D\u8981\u8FC5\u901F\u6295\u4E0A\u8D5E\u6210\u7968\u540E\u9000\u573A\
+    \u5C31\u884C"
+  start: !human_time '00:40:28.450'
+- end: !human_time '00:40:33.320'
+  lines:
+  - "\u77E5\u9053\u4E86"
+  start: !human_time '00:40:31.790'
+- end: !human_time '00:40:35.190'
+  lines:
+  - "\u7A0D\u7B49\u4E00\u4E0B"
+  start: !human_time '00:40:33.320'
+- end: !human_time '00:40:37.190'
+  lines:
+  - "\u8FD9\u662F\u4E3A\u4EC0\u4E48\u5462"
+  start: !human_time '00:40:35.190'
+- end: !human_time '00:40:42.160'
+  lines:
+  - "\u4FEE\u6B63\u6848"
+  - "\u5728\u91CE\u515A\u7684\u4E3B\u5F20\u4F3C\u4E4E\u4E5F\u633A\u6709\u7406\u7684"
+  start: !human_time '00:40:39.090'
+- end: !human_time '00:40:43.830'
+  lines:
+  - "\u5F90\u8BAE\u5458"
+  start: !human_time '00:40:42.160'
+- end: !human_time '00:40:45.430'
+  lines:
+  - "\u8FD9\u6B21\u6211\u4EEC\u82E5\u662F\u5BF9\u5728\u91CE\u515A\u8BA9\u6B65\u7684\
+    \u8BDD"
+  start: !human_time '00:40:43.830'
+- end: !human_time '00:40:47.370'
+  lines:
+  - "\u4E0B\u6B21\u4ED6\u4EEC\u7684\u8981\u6C42\u4F1A\u66F4\u5927\u7684"
+  start: !human_time '00:40:45.430'
+- end: !human_time '00:40:48.770'
+  lines:
+  - "\u4F46\u662F\u8FD9\u4E2A\u6CD5\u6848\u662F\u5BF9\u56FD\u6C11"
+  start: !human_time '00:40:47.370'
+- end: !human_time '00:40:51.240'
+  lines:
+  - "\u73B0\u5728\u6211\u4EEC\u6CA1\u6709\u65F6\u95F4\u8BA8\u8BBA"
+  start: !human_time '00:40:48.770'
+- end: !human_time '00:40:55.040'
+  lines:
+  - "\u5728\u515A\u804C\u5DE5\u4F5C\u8005\u7684\u6307\u6325\u4E0B"
+  - "\u8FC5\u901F\u7968\u51B3\u5904\u7406\u662F\u6211\u4EEC\u6700\u5927\u7684\u52AA\
+    \u529B"
+  start: !human_time '00:40:51.240'
+- end: !human_time '00:41:03.850'
+  lines:
+  - "\u597D \u8BF8\u4F4D\u90FD\u51C6\u5907\u597D\u4E86\u5417"
+  start: !human_time '00:41:00.310'
+- end: !human_time '00:41:17.730'
+  lines:
+  - "\u6700\u7EC8\u534F\u5546\u5DF2\u7ECF\u7834\u88C2\u4E86"
+  start: !human_time '00:41:15.200'
+- end: !human_time '00:41:27.810'
+  lines:
+  - "\u63A5\u8FD1\u4E3B\u5E2D\u53F0\u5C31\u7531\u6454\u8DE4\u793E\u56E2\u51FA\u8EAB\
+    \u7684"
+  - "\u5D14\u8BAE\u5458\u548C\u6734\u8BAE\u5458\u8D1F\u8D23"
+  start: !human_time '00:41:23.740'
+- end: !human_time '00:41:30.080'
+  lines:
+  - "\u8FD8\u6709\u9AD8\u8BAE\u5458 \u5168\u8BAE\u5458\u5728\u901A\u9053\u5907\u6218"
+  start: !human_time '00:41:27.810'
+- end: !human_time '00:41:33.150'
+  lines:
+  - "\u8FD8\u6709\u5168\u8BAE\u5458\u6700\u540E\u90A3\u4E00\u9053"
+  - "\u4E00\u5B9A\u8981\u8EBA\u5728\u5730\u4E0A\u6253\u6EDA"
+  start: !human_time '00:41:30.080'
+- end: !human_time '00:41:33.880'
+  lines:
+  - "\u662F"
+  start: !human_time '00:41:33.150'
+- end: !human_time '00:41:35.820'
+  lines:
+  - "\u6211\u6765\u5F53\u524D\u950B"
+  start: !human_time '00:41:33.880'
+- end: !human_time '00:41:40.220'
+  lines:
+  - "\u8FD8\u6709\u5973\u8BAE\u5458"
+  - "\u5C31\u5728\u6444\u50CF\u673A\u524D\u75DB\u54ED\u6D41\u6D95\u54C0\u568E\u63A7\
+    \u8BC9"
+  start: !human_time '00:41:35.820'
+- end: !human_time '00:41:42.490'
+  lines:
+  - "\u554A \u5F90\u6167\u7433\u8BAE\u5458\u53BB\u54EA\u4E86"
+  start: !human_time '00:41:40.220'
+- end: !human_time '00:41:43.890'
+  lines:
+  - "\u662F \u8BAE\u5458"
+  start: !human_time '00:41:42.490'
+- end: !human_time '00:41:45.630'
+  lines:
+  - "\u5F90\u8BAE\u5458"
+  start: !human_time '00:41:43.890'
+- end: !human_time '00:41:48.630'
+  lines:
+  - "\u4F60\u6253\u5934\u9635 \u94F2\u9664\u4F59\u515A"
+  start: !human_time '00:41:45.630'
+- end: !human_time '00:41:51.630'
+  lines:
+  - "\u4EC0\u4E48 \u6211\u5417"
+  start: !human_time '00:41:48.630'
+- end: !human_time '00:41:55.440'
+  lines:
+  - "\u77A7\u4F60\u5413\u7684"
+  start: !human_time '00:41:53.300'
+- end: !human_time '00:41:57.900'
+  lines:
+  - "\u771F\u662F\u6709\u5931\u519B\u7EAA"
+  start: !human_time '00:41:55.770'
+- end: !human_time '00:42:03.710'
+  lines:
+  - "\u662F \u4EE3\u8868"
+  start: !human_time '00:42:02.240'
+- end: !human_time '00:42:07.780'
+  lines:
+  - "\u6211\u77E5\u9053\u4E86"
+  start: !human_time '00:42:05.980'
+- end: !human_time '00:42:12.250'
+  lines:
+  - "\u4E0A\u7EA7\u4E0B\u547D\u4EE4\u4E86"
+  start: !human_time '00:42:09.720'
+- end: !human_time '00:42:15.190'
+  lines:
+  - "\u5927\u5BB6\u5C31\u4EE5"
+  - "\u9636\u4F2F\u5C06\u519B\u524D\u5F80\u9EC4\u5C71\u4F10\u6218\u573A\u7684\u5FC3\
+    \u60C5"
+  start: !human_time '00:42:12.250'
+- end: !human_time '00:42:17.790'
+  lines:
+  - "\u5168\u4F53\u51FA\u51FB"
+  start: !human_time '00:42:15.920'
+- end: !human_time '00:42:51.120'
+  lines:
+  - "\u653B\u51FB"
+  start: !human_time '00:42:48.520'
+- end: !human_time '00:43:15.080'
+  lines:
+  - "\u5982\u679C\u770B\u65E2\u5B9A\u7684\u6750\u6599\u7684\u8BDD"
+  start: !human_time '00:43:13.550'
+- end: !human_time '00:43:19.220'
+  lines:
+  - "\u6267\u653F\u515A\u548C\u5728\u91CE\u515A\u4E4B\u95F4"
+  - "\u6709\u5145\u5206\u7684\u65F6\u95F4\u8FDB\u884C\u59A5\u534F"
+  start: !human_time '00:43:15.080'
+- end: !human_time '00:43:22.090'
+  lines:
+  - "\u59DC\u8BAE\u5458 \u6211\u4EEC\u4E00\u5B9A\u8981\u8FD9\u6837\u5417"
+  start: !human_time '00:43:19.220'
+- end: !human_time '00:43:25.490'
+  lines:
+  - "\u6211\u4EEC\u6BCF\u4E2A\u4EBA\u4E0D\u90FD\u662F\u4EE3\u8868\u7740\u56FD\u6C11\
+    \u5417"
+  start: !human_time '00:43:22.090'
+- end: !human_time '00:43:27.490'
+  lines:
+  - "\u800C\u4E0D\u662F\u515A\u6307\u5BFC\u90E8\u7684\u5080\u5121"
+  start: !human_time '00:43:25.490'
+- end: !human_time '00:43:29.760'
+  lines:
+  - "\u90A3\u662F\u56E0\u4E3A\u5F90\u8BAE\u5458\u8FD8\u4E0D\u61C2\u4EC0\u4E48\u662F\
+    \u653F\u6CBB"
+  start: !human_time '00:43:27.490'
+- end: !human_time '00:43:33.100'
+  lines:
+  - "\u653F\u6CBB \u6709\u65F6\u5019\u4E5F\u662F\u9700\u8981\u529B\u91CF\u7684"
+  start: !human_time '00:43:29.760'
+- end: !human_time '00:43:34.700'
+  lines:
+  - "\u73B0\u5728\u6B63\u662F\u90A3\u4E2A\u65F6\u5019"
+  start: !human_time '00:43:33.100'
+- end: !human_time '00:43:37.900'
+  lines:
+  - "\u73B0\u5728\u4E5F\u6765\u5F97\u53CA"
+  - "\u671D\u91CE\u4E4B\u95F4\u655E\u5F00\u5FC3\u6249\u8FDB\u884C\u8BA8\u8BBA\u7684\
+    \u8BDD"
+  start: !human_time '00:43:34.700'
+- end: !human_time '00:43:39.570'
+  lines:
+  - "\u542C\u8BF4\u95E8\u6253\u5F00\u4E86"
+  start: !human_time '00:43:37.900'
+- end: !human_time '00:43:42.980'
+  lines:
+  - "\u6CA1\u6709\u65F6\u95F4\u4E86 \u6211\u4EEC\u51FA\u53BB\u5427"
+  start: !human_time '00:43:40.640'
+- end: !human_time '00:43:45.180'
+  lines:
+  - "\u5F90\u8BAE\u5458"
+  start: !human_time '00:43:43.580'
+- end: !human_time '00:43:47.980'
+  lines:
+  - "\u8BF7\u76F8\u4FE1\u6211 \u8DDF\u6211\u8D70"
+  start: !human_time '00:43:45.910'
+- end: !human_time '00:44:45.940'
+  lines:
+  - "\u6211\u8981\u53BB\u6F14\u8BF4\u73B0\u573A \u5988\u5988"
+  start: !human_time '00:44:43.940'
+- end: !human_time '00:44:48.810'
+  lines:
+  - "\u6211\u4E5F\u6CA1\u5730\u65B9\u5E26\u7740\u4E1C\u6CB3\u9003\u8DD1"
+  start: !human_time '00:44:45.940'
+- end: !human_time '00:44:51.550'
+  lines:
+  - "\u6211\u72AF\u4E86\u4EC0\u4E48\u9519"
+  start: !human_time '00:44:48.810'
+- end: !human_time '00:44:54.610'
+  lines:
+  - "\u8981\u906D\u9047\u8FD9\u79CD\u4E8B\u554A \u5988\u5988"
+  start: !human_time '00:44:51.550'
+- end: !human_time '00:44:57.480'
+  lines:
+  - "\u6211\u8981\u544A\u8BC9\u6211\u513F\u5B50"
+  start: !human_time '00:44:54.610'
+- end: !human_time '00:45:00.150'
+  lines:
+  - "\u8FD9\u4E2A\u56FD\u5BB6"
+  start: !human_time '00:44:57.480'
+- end: !human_time '00:45:02.360'
+  lines:
+  - "\u592A\u6781\u65D7"
+  start: !human_time '00:45:00.150'
+- end: !human_time '00:45:05.230'
+  lines:
+  - "\u662F\u503C\u5F97\u9A84\u50B2\u7684 \u4E3A\u4E86\u8BF4\u51FA\u8FD9\u53E5\u8BDD"
+  start: !human_time '00:45:02.360'
+- end: !human_time '00:45:06.830'
+  lines:
+  - "\u5F90\u8BAE\u5458"
+  start: !human_time '00:45:05.230'
+- end: !human_time '00:45:09.700'
+  lines:
+  - "\u5FEB\u70B9\u6295\u5B8C\u7968\u9000\u573A\u5427"
+  start: !human_time '00:45:07.960'
+- end: !human_time '00:45:11.500'
+  lines:
+  - "\u597D"
+  start: !human_time '00:45:09.700'
+- end: !human_time '00:45:19.040'
+  lines:
+  - "\u6551\u4EBA\u554A"
+  start: !human_time '00:45:17.170'
+- end: !human_time '00:45:29.980'
+  lines:
+  - "\u4EE5\u4E3A\u52A8\u624B\u5C31\u80FD\u6539\u53D8\u4EC0\u4E48\u5417"
+  start: !human_time '00:45:27.380'
+- end: !human_time '00:45:53.310'
+  lines:
+  - "\u8FD9\u6B21\u5434\u8BAE\u5458\u7684\u529F\u52B3\u5F88\u5927\u554A"
+  start: !human_time '00:45:50.170'
+- end: !human_time '00:45:56.710'
+  lines:
+  - "\u60A8\u8FC7\u5956\u4E86 \u4EE3\u8868"
+  start: !human_time '00:45:54.570'
+- end: !human_time '00:46:00.450'
+  lines:
+  - "\u6211\u6C38\u8FDC\u662F\u4EE3\u8868\u60A8\u7684\u5148\u950B\u90E8\u961F\u554A"
+  start: !human_time '00:45:56.710'
+- end: !human_time '00:46:06.250'
+  lines:
+  - "\u59DC\u8BAE\u5458 \u90A3\u4E2A\u5F90\u6167\u7433\u662F\u600E\u4E48\u56DE\u4E8B\
+    \u554A"
+  start: !human_time '00:46:02.920'
+- end: !human_time '00:46:09.060'
+  lines:
+  - "\u662F\u6309\u9519\u4E86\u8D5E\u6210\u53CD\u5BF9\u952E\u5417"
+  start: !human_time '00:46:06.250'
+- end: !human_time '00:46:11.660'
+  lines:
+  - "\u73B0\u5728\u8FD8\u6CA1\u6709\u641E\u6E05\u695A\u5177\u4F53\u72B6\u51B5"
+  start: !human_time '00:46:09.060'
+- end: !human_time '00:46:14.930'
+  lines:
+  - "\u59DC\u8BAE\u5458 \u6D3E\u7CFB\u7BA1\u7406\u662F\u600E\u4E48\u641E\u7684"
+  start: !human_time '00:46:11.660'
+- end: !human_time '00:46:19.070'
+  lines:
+  - "\u5F90\u6167\u7433\u4E0D\u662F\u59DC\u8BAE\u5458\u4F60\u516C\u8350\u7684\u4EBA\
+    \u5417"
+  start: !human_time '00:46:14.930'
+- end: !human_time '00:46:21.070'
+  lines:
+  - "\u4EC0\u4E48\u53EB\u6D3E\u7CFB"
+  start: !human_time '00:46:19.070'
+- end: !human_time '00:46:23.470'
+  lines:
+  - "\u5434\u8BAE\u5458 \u4E0D\u8981\u4FE1\u53E3\u5F00\u6CB3"
+  start: !human_time '00:46:21.070'
+- end: !human_time '00:46:26.540'
+  lines:
+  - "\u4F60\u7ED9\u4EE3\u8868\u5F00\u8F66\u800C\u540E\u88AB\u516C\u8350\u7684\u65F6\
+    \u5019"
+  start: !human_time '00:46:23.470'
+- end: !human_time '00:46:29.410'
+  lines:
+  - "\u6211\u662F\u767D\u624B\u8D77\u5BB6\u4ECE\u5730\u533A\u5347\u5230\u56FD\u4F1A\
+    \u6765\u7684"
+  start: !human_time '00:46:26.540'
+- end: !human_time '00:46:36.580'
+  lines:
+  - "\u5148\u542C\u542C\u5F90\u6167\u7433\u8BAE\u5458\u672C\u4EBA\u7684\u89E3\u91CA"
+  start: !human_time '00:46:33.450'
+- end: !human_time '00:46:39.050'
+  lines:
+  - "\u518D\u51B3\u5B9A\u5982\u4F55\u60E9\u6CBB\u5427"
+  start: !human_time '00:46:36.580'
+- end: !human_time '00:46:58.870'
+  lines:
+  - "\u4EE3\u8868\u53EB\u60A8\u8FC7\u53BB"
+  start: !human_time '00:46:55.600'
+- end: !human_time '00:47:01.070'
+  lines:
+  - "\u8981\u65E0\u6761\u4EF6\u8BF4\u662F\u5931\u8BEF\u4E86"
+  start: !human_time '00:46:58.870'
+- end: !human_time '00:47:02.880'
+  lines:
+  - "\u65E0\u6761\u4EF6\u7684"
+  start: !human_time '00:47:01.070'
+- end: !human_time '00:47:05.150'
+  lines:
+  - "\u5931\u8BEF\u5417"
+  start: !human_time '00:47:02.880'
+- end: !human_time '00:47:09.480'
+  lines:
+  - "\u8F85\u4F50\u5B98\u4E5F\u8BA4\u4E3A\u6211\u72AF\u4E86\u5F88\u5927\u9519\u5417"
+  start: !human_time '00:47:05.150'
+- end: !human_time '00:47:19.830'
+  lines:
+  - "\u5F90\u8BAE\u5458 \u8FD9\u6B21\u7684\u53CD\u5BF9\u7968\u662F\u600E\u4E48\u56DE\
+    \u4E8B"
+  start: !human_time '00:47:15.360'
+- end: !human_time '00:47:22.860'
+  lines:
+  - "\u542C\u8BF4\u6295\u7968\u524D\u8FD8\u505A\u4E86\u51B3\u5B9A\u554A"
+  start: !human_time '00:47:19.830'
+- end: !human_time '00:47:24.330'
+  lines:
+  - "\u5BF9\u4E0D\u8D77"
+  start: !human_time '00:47:22.860'
+- end: !human_time '00:47:27.600'
+  lines:
+  - "\u5728\u53C2\u8BAE\u8FC7\u7A0B\u4E2D\u53D1\u751F\u4E86\u7A81\u53D1\u4E8B\u4EF6\
+    \u5427"
+  start: !human_time '00:47:24.330'
+- end: !human_time '00:47:29.070'
+  lines:
+  - "\u662F\u4E0D\u662F\u5931\u8BEF\u4E86\u554A"
+  start: !human_time '00:47:27.600'
+- end: !human_time '00:47:30.440'
+  lines:
+  - "\u56E0\u4E3A\u662F\u7B2C\u4E00\u6B21\u6295\u7968"
+  start: !human_time '00:47:29.070'
+- end: !human_time '00:47:34.140'
+  lines:
+  - "\u800C\u4E14\u53EA\u6709\u5728\u7535\u89C6\u4E0A"
+  - "\u770B\u89C1\u7684\u573A\u9762\u5728\u773C\u524D\u4E0A\u6F14"
+  start: !human_time '00:47:30.440'
+- end: !human_time '00:47:37.140'
+  lines:
+  - "\u5F88\u4E71 \u800C\u4E14\u5F88\u614C\u5F20"
+  start: !human_time '00:47:34.140'
+- end: !human_time '00:47:39.210'
+  lines:
+  - "\u4EE5\u540E\u6709\u7ECF\u9A8C\u5C31\u597D\u4E86"
+  start: !human_time '00:47:37.140'
+- end: !human_time '00:47:40.480'
+  lines:
+  - "\u6CA1\u4E8B"
+  start: !human_time '00:47:39.210'
+- end: !human_time '00:47:43.120'
+  lines:
+  - "\u65E2\u7136\u542C\u5230\u4E86\u672C\u4EBA\u8BF4\u662F\u5931\u8BEF\u7684\u89E3\
+    \u91CA"
+  start: !human_time '00:47:40.480'
+- end: !human_time '00:47:46.050'
+  lines:
+  - "\u8FD9\u6B21\u7684\u4E8B\u5C31\u8FD9\u4E48\u7B97\u4E86\u5427"
+  start: !human_time '00:47:43.120'
+- end: !human_time '00:47:50.390'
+  lines:
+  - "\u6211\u662F\u6309\u7167\u6211\u7684\u4FE1\u5FF5\u6295\u7684\u53CD\u5BF9\u7968"
+  start: !human_time '00:47:46.050'
+- end: !human_time '00:47:52.860'
+  lines:
+  - "\u5F90\u8BAE\u5458 \u4F60\u8BF4\u4EC0\u4E48"
+  start: !human_time '00:47:50.390'
+- end: !human_time '00:47:54.930'
+  lines:
+  - "\u4F60\u662F\u8BF4\u62D2\u7EDD\u4E86\u515A\u7684\u51B3\u5B9A\u5417"
+  start: !human_time '00:47:52.860'
+- end: !human_time '00:47:57.730'
+  lines:
+  - "\u7ACB\u6CD5\u6D3B\u52A8"
+  - "\u8FD8\u6709\u6267\u653F\u515A\u548C\u5728\u91CE\u515A\u4E4B\u5206\u5417"
+  start: !human_time '00:47:54.930'
+- end: !human_time '00:48:00.900'
+  lines:
+  - "\u53D1\u8868\u4E86\u4E0E\u515A\u6307\u5BFC\u90E8\u4E0D\u540C\u7684\u610F\u89C1"
+  start: !human_time '00:47:57.730'
+- end: !human_time '00:48:03.100'
+  lines:
+  - "\u5C31\u72AF\u4E86\u6ED4\u5929\u5927\u7F6A\u5417"
+  start: !human_time '00:48:00.900'
+- end: !human_time '00:48:06.370'
+  lines:
+  - "\u56E0\u4E3A\u6C11\u53CB\u515A\u7684\u516C\u8350\u624D\u5F97\u4EE5\u5F53\u9009"
+  - "\u4F60\u8BF4\u7684\u4EC0\u4E48\u8BDD"
+  start: !human_time '00:48:03.100'
+- end: !human_time '00:48:08.780'
+  lines:
+  - "\u90A3\u5E72\u561B\u53C2\u52A0\u6267\u653F\u515A"
+  - "\u52A0\u5165\u5728\u91CE\u515A\u5C31\u597D\u4E86"
+  start: !human_time '00:48:06.370'
+- end: !human_time '00:48:12.280'
+  lines:
+  - "\u90A3\u5F90\u8BAE\u5458\u7684\u610F\u601D\u662F"
+  - "\u5728\u91CE\u515A\u7684\u4E3B\u5F20\u662F\u5BF9\u7684\u5417"
+  start: !human_time '00:48:08.780'
+- end: !human_time '00:48:14.820'
+  lines:
+  - "\u4F60\u6295\u53CD\u5BF9\u7968\u7684\u539F\u56E0\u662F\u4EC0\u4E48"
+  start: !human_time '00:48:12.280'
+- end: !human_time '00:48:18.020'
+  lines:
+  - "\u5C31\u5728\u4E00\u4E2A\u6708\u524D"
+  start: !human_time '00:48:16.680'
+- end: !human_time '00:48:21.150'
+  lines:
+  - "\u6211\u8FD8\u662F\u4E2A"
+  - "\u4E0D\u61C2\u653F\u6CBB\u7684\u653F\u662F\u4EC0\u4E48\u610F\u601D\u7684\u4EBA"
+  start: !human_time '00:48:18.020'
+- end: !human_time '00:48:24.220'
+  lines:
+  - "\u53CD\u8986\u7FFB\u770B\u4E86\u8FD9\u6B21\u901A\u8FC7\u7684\u4FEE\u6539\u6CD5\
+    \u6848"
+  start: !human_time '00:48:21.150'
+- end: !human_time '00:48:27.030'
+  lines:
+  - "\u8FD8\u627E\u5230\u5728\u91CE\u515A\u7684\u4F1A\u8BAE\u5BA4\u542C\u53D6\u4E86\
+    \u89E3\u91CA"
+  start: !human_time '00:48:24.220'
+- end: !human_time '00:48:29.030'
+  lines:
+  - "\u4F46\u662F\u671D\u91CE\u4E4B\u95F4\u5230\u5E95\u56E0\u4E3A\u4F55\u4E8B\u800C\
+    \u4E89\u5435"
+  start: !human_time '00:48:27.030'
+- end: !human_time '00:48:32.470'
+  lines:
+  - "\u6211\u8FD8\u662F\u6CA1\u6709\u641E\u6E05\u695A"
+  start: !human_time '00:48:29.030'
+- end: !human_time '00:48:36.640'
+  lines:
+  - "\u4F46\u662F\u4E0D\u7BA1\u6267\u653F\u515A\u6216\u8005\u5728\u91CE\u515A"
+  - "\u90FD\u662F\u56FD\u6C11\u7684\u4EE3\u8868"
+  start: !human_time '00:48:32.470'
+- end: !human_time '00:48:38.440'
+  lines:
+  - "\u65E2\u7136\u6709\u5BF9\u7ACB\u7684\u610F\u89C1"
+  start: !human_time '00:48:36.640'
+- end: !human_time '00:48:40.710'
+  lines:
+  - "\u5C31\u5E94\u8BE5\u901A\u8FC7\u5BF9\u8BDD\u548C\u8BA8\u8BBA\u6765\u89E3\u51B3\
+    \u95EE\u9898"
+  start: !human_time '00:48:38.440'
+- end: !human_time '00:48:44.910'
+  lines:
+  - "\u50CF\u73B0\u5728\u8FD9\u6837 \u7528\u5F3A\u8005\u7684\u529B\u91CF\u8DF5\u8E0F\
+    \u5BF9\u65B9"
+  start: !human_time '00:48:40.710'
+- end: !human_time '00:48:49.220'
+  lines:
+  - "\u800C\u8BA9\u6CD5\u6848\u901A\u8FC7 \u6211\u8BA4\u4E3A\u662F\u4E0D\u5BF9"
+  start: !human_time '00:48:44.910'
+- end: !human_time '00:48:52.950'
+  lines:
+  - "\u8FD9\u5C31\u662F\u6211\u6295\u53CD\u5BF9\u7968\u7684\u7406\u7531"
+  start: !human_time '00:48:49.220'
+- end: !human_time '00:48:55.490'
+  lines:
+  - "\u4F60\u8FD9\u4E2A\u4EBA\u95EE\u9898\u771F\u7684\u5F88\u5927\u554A"
+  start: !human_time '00:48:52.950'
+- end: !human_time '00:48:57.760'
+  lines:
+  - "\u4E0D\u7528\u518D\u542C\u4E0B\u53BB\u4E86 \u4EE3\u8868"
+  start: !human_time '00:48:55.490'
+- end: !human_time '00:48:59.460'
+  lines:
+  - "\u79FB\u4EA4\u7ED9\u515A\u7EAA\u59D4\u5458\u4F1A\u5427"
+  start: !human_time '00:48:57.760'
+- end: !human_time '00:49:01.230'
+  lines:
+  - "\u4E0D\u7BA1\u662F\u9664\u540D\u8FD8\u662F\u5F00\u9664\u515A\u7C4D"
+  start: !human_time '00:48:59.460'
+- end: !human_time '00:49:02.700'
+  lines:
+  - "\u4E00\u5B9A\u8981\u91C7\u53D6\u63AA\u65BD\u60E9\u7F5A\u5979"
+  start: !human_time '00:49:01.230'
+- end: !human_time '00:49:05.830'
+  lines:
+  - "\u628A\u4E00\u4E2A\u5F53\u9009\u4E0D\u5230\u4E00\u4E2A\u6708\u7684"
+  - "\u521D\u9009\u8BAE\u5458\u5F00\u9664\u515A\u7C4D"
+  start: !human_time '00:49:02.700'
+- end: !human_time '00:49:07.500'
+  lines:
+  - "\u8FD9\u60E9\u7F5A\u592A\u8FC7\u4E25\u91CD\u4E86 \u4EE3\u8868"
+  start: !human_time '00:49:05.830'
+- end: !human_time '00:49:10.900'
+  lines:
+  - "\u600E\u80FD\u4FDD\u8BC1\u4E0D\u4F1A\u518D\u6709\u8FD9\u79CD\u4E8B\u60C5\u554A"
+  start: !human_time '00:49:07.500'
+- end: !human_time '00:49:12.770'
+  lines:
+  - "\u6240\u6709\u7684\u8D23\u4EFB\u7531\u6211\u6765\u8D1F"
+  start: !human_time '00:49:10.900'
+- end: !human_time '00:49:14.710'
+  lines:
+  - "\u7B49\u4E00\u4E0B"
+  start: !human_time '00:49:12.770'
+- end: !human_time '00:49:18.380'
+  lines:
+  - "\u6211\u4E0D\u60F3\u628A\u6211\u60F9\u51FA\u7684\u4E8B\u60C5"
+  - "\u8BA9\u59DC\u8BAE\u5458\u6765\u8D1F\u8D23"
+  start: !human_time '00:49:14.710'
+- end: !human_time '00:49:21.110'
+  lines:
+  - "\u6211\u7684\u884C\u4E3A \u7531\u6211\u81EA\u5DF1\u6765\u8D1F\u8D23"
+  start: !human_time '00:49:18.380'
+- end: !human_time '00:49:23.050'
+  lines:
+  - "\u5F90\u8BAE\u5458 \u4F60\u5148\u4E0D\u8981\u8BF4\u8BDD"
+  start: !human_time '00:49:21.110'
+- end: !human_time '00:49:30.120'
+  lines:
+  - "\u6211\u4EE5\u4E3A\u5F90\u8BAE\u5458\u662F\u6E29\u5BA4\u4E2D\u7684\u82B1\u6735"
+  start: !human_time '00:49:25.720'
+- end: !human_time '00:49:31.120'
+  lines:
+  - "\u6CA1\u60F3\u5230\u5F88\u6709\u4E3B\u89C1\u554A"
+  start: !human_time '00:49:30.120'
+- end: !human_time '00:49:33.290'
+  lines:
+  - "\u521D\u9009\u5C31\u5E94\u8BE5\u6709\u81EA\u5DF1\u7684\u4FE1\u5FF5"
+  start: !human_time '00:49:31.120'
+- end: !human_time '00:49:37.030'
+  lines:
+  - "\u5F90\u8BAE\u5458 \u5C31\u5F53\u83B7\u5F97\u4E86\u4E00\u6B21\u5F88\u597D\u7684\
+    \u7ECF\u9A8C"
+  start: !human_time '00:49:33.290'
+- end: !human_time '00:49:39.370'
+  lines:
+  - "\u8FD9\u6B21\u7684\u4E8B \u5C31\u8FD9\u4E48\u8FC7\u53BB\u4E86"
+  start: !human_time '00:49:37.030'
+- end: !human_time '00:49:44.040'
+  lines:
+  - "\u4E0B\u6B21\u4F1A\u628A\u5F90\u8BAE\u5458\u7684\u610F\u89C1"
+  - "\u5728\u515A\u8BBA\u4E2D\u5145\u5206\u4F53\u73B0\u7684"
+  start: !human_time '00:49:39.370'
+- end: !human_time '00:49:54.250'
+  lines:
+  - "\u5BF9\u4E0D\u8D77 \u56E0\u4E3A\u6211\u8FDE\u59DC\u8BAE\u5458\u60A8\u4E5F\xB7\
+    \xB7\xB7"
+  start: !human_time '00:49:50.440'
+- end: !human_time '00:49:56.920'
+  lines:
+  - "\u6CA1\u6709\u8FBE\u6210\u5171\u8BC6\u624D\u662F\u95EE\u9898"
+  start: !human_time '00:49:54.250'
+- end: !human_time '00:49:59.250'
+  lines:
+  - "\u591A\u79EF\u7D2F\u4E9B\u8BAE\u653F\u6D3B\u52A8\u7684\u7ECF\u9A8C\u540E"
+  start: !human_time '00:49:56.920'
+- end: !human_time '00:50:01.450'
+  lines:
+  - "\u8FD9\u79CD\u72B6\u51B5 \u4F60\u5C31\u4F1A\u7406\u89E3\u4E86"
+  start: !human_time '00:49:59.250'
+- end: !human_time '00:50:07.530'
+  lines:
+  - "\u6211\u5411\u56FD\u4F1A\u5BA3\u8A93\u8FC7"
+  - "\u8981\u4EE5\u81EA\u5DF1\u7684\u826F\u5FC3\u5B88\u62A4\u56FD\u5BB6\u7684\u5229\
+    \u76CA"
+  start: !human_time '00:50:01.450'
+- end: !human_time '00:50:10.330'
+  lines:
+  - "\u6211\u4E0D\u60F3\u505A\u515A\u7684\u4E3E\u624B\u673A"
+  start: !human_time '00:50:07.530'
+- end: !human_time '00:50:18.840'
+  lines:
+  - "\u5F90\u8BAE\u5458\u6211\u4EEC\u5728\u505A\u56FD\u4F1A\u8BAE\u5458\u4E4B\u524D"
+  - "\u9996\u5148\u662F\u653F\u515A\u515A\u5458"
+  start: !human_time '00:50:12.930'
+- end: !human_time '00:50:19.810'
+  lines:
+  - "\u4E0D\u8BBA\u4F60\u6709\u4EC0\u4E48\u4E0D\u540C\u610F\u89C1"
+  start: !human_time '00:50:18.840'
+- end: !human_time '00:50:21.840'
+  lines:
+  - "\u4E3A\u4E86\u786E\u4FDD\u653F\u6743"
+  start: !human_time '00:50:19.810'
+- end: !human_time '00:50:25.250'
+  lines:
+  - "\u4E00\u5B9A\u8981\u8DDF\u968F\u515A\u6307\u6325\u90E8\u548C\u515A\u8BBA"
+  start: !human_time '00:50:21.840'
+- end: !human_time '00:50:25.780'
+  lines:
+  - "\u4F46\u662F"
+  start: !human_time '00:50:25.250'
+- end: !human_time '00:50:28.280'
+  lines:
+  - "\u5982\u679C\u4E0D\u60F3\u505A\u4E3E\u624B\u673A"
+  start: !human_time '00:50:25.780'
+- end: !human_time '00:50:30.620'
+  lines:
+  - "\u8FD8\u662F\u79BB\u5F00\u515A\u6BD4\u8F83\u597D"
+  start: !human_time '00:50:28.280'
+- end: !human_time '00:50:35.820'
+  lines:
+  - "\u4F46\u662F\u5F90\u8BAE\u5458"
+  - "\u662F\u56E0\u4E3A\u6C11\u53CB\u515A\u7684\u516C\u8350\u624D\u5F53\u9009\u7684"
+  start: !human_time '00:50:31.820'
+- end: !human_time '00:50:37.560'
+  lines:
+  - "\u8BF7\u4F60\u4E0D\u8981\u5FD8\u8BB0"
+  start: !human_time '00:50:35.820'
+- end: !human_time '00:50:52.740'
+  lines:
+  - "\u5927\u5A76"
+  start: !human_time '00:50:50.940'
+- end: !human_time '00:50:54.940'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98"
+  start: !human_time '00:50:53.810'
+- end: !human_time '00:50:57.210'
+  lines:
+  - "\u600E\u4E48\u8FD9\u4E48\u6CA1\u7CBE\u795E\u554A"
+  start: !human_time '00:50:54.940'
+- end: !human_time '00:51:01.820'
+  lines:
+  - "\u5927\u5A76 \u4F60\u53C8\u505A\u4E86\u4EF6\u5927\u4E8B\u554A"
+  start: !human_time '00:50:58.410'
+- end: !human_time '00:51:09.290'
+  lines:
+  - "\u5927\u5A76 \u62FF\u56FD\u6C11\u7684\u7A0E\u5C31\u662F\u8FD9\u4E48\u8F9B\u82E6\
+    \u7684"
+  start: !human_time '00:51:04.020'
+- end: !human_time '00:51:12.160'
+  lines:
+  - "\u4F60\u77E5\u9053\u5417"
+  start: !human_time '00:51:09.290'
+- end: !human_time '00:51:15.830'
+  lines:
+  - "\u524D\u9762\u597D\u50CF"
+  - "\u6709\u4E00\u5835\u5F88\u5927\u7684\u5899\u7684\u90A3\u79CD\u5FC3\u60C5"
+  start: !human_time '00:51:12.160'
+- end: !human_time '00:51:19.700'
+  lines:
+  - "\u8981\u505A\u4E9B\u4E8B\u60C5"
+  - "\u4F46\u662F\u53C8\u4E0D\u77E5\u9053\u8BE5\u505A\u4E9B\u4EC0\u4E48"
+  start: !human_time '00:51:15.830'
+- end: !human_time '00:51:21.900'
+  lines:
+  - "\u7D2F\u5C31\u4E0D\u8981\u5E72\u4E86"
+  start: !human_time '00:51:19.700'
+- end: !human_time '00:51:25.440'
+  lines:
+  - "\u5927\u5A76\u4F60\u548C"
+  - "\u8BA9\u4F60\u7AD9\u5C31\u7AD9\u5750\u5C31\u5750\u7684\u7EC4\u7EC7\u751F\u6D3B"
+  start: !human_time '00:51:21.900'
+- end: !human_time '00:51:28.580'
+  lines:
+  - "\u5F88\u4E0D\u9002\u5408"
+  start: !human_time '00:51:25.440'
+- end: !human_time '00:51:29.910'
+  lines:
+  - "\u8FD8\u597D\u610F\u601D\u8BF4\u522B\u4EBA"
+  start: !human_time '00:51:28.580'
+- end: !human_time '00:51:32.450'
+  lines:
+  - "\u6CB3\u68C0\u5BDF\u5B98\u548C\u6211\u90FD\u662F\u534A\u65A4\u516B\u4E24"
+  start: !human_time '00:51:29.910'
+- end: !human_time '00:51:44.060'
+  lines:
+  - "\u5E72\u561B"
+  start: !human_time '00:51:41.920'
+- end: !human_time '00:51:46.730'
+  lines:
+  - "\u6211\u8138\u4E0A \u6709\u4EC0\u4E48\u4E1C\u897F\u5417"
+  start: !human_time '00:51:44.060'
+- end: !human_time '00:51:54.200'
+  lines:
+  - "\u4F60\u5E72\u4EC0\u4E48\u5462"
+  start: !human_time '00:51:52.270'
+- end: !human_time '00:51:57.270'
+  lines:
+  - "\u8FD9\u4E48\u77ED\u65F6\u95F4 \u8138\u90FD\u7626\u4E86\u4E00\u5708\u4E86\u554A"
+  start: !human_time '00:51:54.200'
+- end: !human_time '00:52:01.740'
+  lines:
+  - "\u6211\u60F3\u7740\u5927\u5A76\u4F60"
+  start: !human_time '00:51:59.610'
+- end: !human_time '00:52:04.410'
+  lines:
+  - "\u7ED9\u4F60\u5E26\u6765\u4E86\u4E0D\u8981"
+  start: !human_time '00:52:03.080'
+- end: !human_time '00:52:07.280'
+  lines:
+  - "\u6253\u8FC7\u88AB\u544A\u5F90\u632F\u71EE \u8FD9\u662F\u4E8B\u5B9E\u5417"
+  start: !human_time '00:52:04.410'
+- end: !human_time '00:52:12.890'
+  lines:
+  - "\u662F\u632F\u71EE\u5148\u6765\u6253\u6211\u7684 \u68C0\u5BDF\u5B98"
+  start: !human_time '00:52:07.280'
+- end: !human_time '00:52:16.490'
+  lines:
+  - "\u5F90\u632F\u71EE\u548C\u65B9\u4E1C\u6CB3 \u4F60\u4EEC\u4E24\u4E2A\u90FD\u662F"
+  start: !human_time '00:52:12.890'
+- end: !human_time '00:52:19.230'
+  lines:
+  - "\u76F8\u5F53\u4F18\u79C0\u7684\u5C0F\u670B\u53CB"
+  start: !human_time '00:52:16.490'
+- end: !human_time '00:52:22.630'
+  lines:
+  - "\u8C22\u8C22\u68C0\u5BDF\u5B98"
+  start: !human_time '00:52:19.230'
+- end: !human_time '00:52:25.430'
+  lines:
+  - "-\u884C\u4E86\u5427 \u5927\u5A76"
+  - "-\u518D\u89C1"
+  start: !human_time '00:52:23.100'
+- end: !human_time '00:52:28.370'
+  lines:
+  - "\u8FD9\u8865\u836F\u591F\u52B2\u5427"
+  start: !human_time '00:52:25.430'
+- end: !human_time '00:52:30.170'
+  lines:
+  - "\u8865\u836F\u867D\u7136\u662F\u8865\u836F"
+  start: !human_time '00:52:28.370'
+- end: !human_time '00:52:32.370'
+  lines:
+  - "\u4F46\u662F\u5F88\u82E6\u554A"
+  start: !human_time '00:52:30.170'
+- end: !human_time '00:52:39.150'
+  lines:
+  - "\u5927\u5A76\u8C22\u8C22\u4E86"
+  start: !human_time '00:52:36.180'
+- end: !human_time '00:52:41.880'
+  lines:
+  - "\u4EC0\u4E48\u554A"
+  start: !human_time '00:52:39.150'
+- end: !human_time '00:52:46.790'
+  lines:
+  - "\u8BA9\u6211\u5BF9\u5927\u5A76\u4F60\u7684\u5224\u51B3\u6CA1\u6709\u9519"
+  start: !human_time '00:52:41.880'
+- end: !human_time '00:52:48.860'
+  lines:
+  - "\u6211\u9009\u4E2D\u7684\u56FD\u4F1A\u8BAE\u5458"
+  start: !human_time '00:52:46.790'
+- end: !human_time '00:52:51.160'
+  lines:
+  - "\u5E76\u6CA1\u6709\u505A\u4E3E\u624B\u673A"
+  start: !human_time '00:52:48.860'
+- end: !human_time '00:52:54.160'
+  lines:
+  - "\u4F46\u662F\u6211\u4E5F\u4E0D\u6E05\u695A\u554A"
+  start: !human_time '00:52:52.090'
+- end: !human_time '00:52:57.260'
+  lines:
+  - "\u4EE5\u540E\u8FD8\u80FD\u4E0D\u80FD\u4E00\u76F4\u575A\u6301\u6211\u7684\u4FE1\
+    \u5FF5"
+  start: !human_time '00:52:54.160'
+- end: !human_time '00:52:59.930'
+  lines:
+  - "\u4E0D\u8981\u8BF4\u6CC4\u6C14\u7684\u8BDD"
+  start: !human_time '00:52:57.260'
+- end: !human_time '00:53:02.740'
+  lines:
+  - "\u5C31\u7B97\u4E3A\u4E86\u4E1C\u6CB3 \u4E5F\u8981\u52A0\u6CB9"
+  start: !human_time '00:52:59.930'
+- end: !human_time '00:53:04.870'
+  lines:
+  - "\u5927\u5A76\u4F60\u7EDD\u5BF9\u53EF\u4EE5"
+  start: !human_time '00:53:02.740'
+- end: !human_time '00:53:07.510'
+  lines:
+  - "\u5927\u5A76\u52A0\u6CB9"
+  start: !human_time '00:53:04.870'
+- end: !human_time '00:53:09.240'
+  lines:
+  - "\u52A0\u6CB9 \u52A0\u6CB9 \u52A0\u6CB9"
+  start: !human_time '00:53:07.510'
+- end: !human_time '00:53:13.980'
+  lines:
+  - "\u52A0\u6CB9"
+  start: !human_time '00:53:10.240'
+- end: !human_time '00:53:17.120'
+  lines:
+  - "\u52A0\u6CB9"
+  start: !human_time '00:53:14.980'
+- end: !human_time '00:53:21.920'
+  lines:
+  - "\u5C31\u50CF\u9884\u60F3\u7684\u4E00\u6837 \u56FD\u6C11\u7684\u60C5\u7EEA"
+  start: !human_time '00:53:19.590'
+- end: !human_time '00:53:25.460'
+  lines:
+  - "\u8D85\u8FC7\u4E86\u4E0D\u4FE1\u8D56\u653F\u6CBB"
+  - "\u5DF2\u7ECF\u5F00\u59CB\u5ACC\u6076\u653F\u6CBB\u4E86"
+  start: !human_time '00:53:21.920'
+- end: !human_time '00:53:27.860'
+  lines:
+  - "\u8FD9\u4E0D\u4EC5\u662F\u4F60\u4EEC\u6C11\u53CB\u515A"
+  start: !human_time '00:53:25.460'
+- end: !human_time '00:53:30.730'
+  lines:
+  - "\u671D\u91CE\u4E4B\u95F4"
+  - "\u90FD\u5B58\u5728\u7740\u8FD9\u4E2A\u95EE\u9898\u4F60\u77E5\u9053\u5427"
+  start: !human_time '00:53:27.860'
+- end: !human_time '00:53:32.730'
+  lines:
+  - "\u7B56\u5212\u4E00\u671F\u7535\u89C6\u8BA8\u8BBA\u5427"
+  start: !human_time '00:53:30.730'
+- end: !human_time '00:53:35.840'
+  lines:
+  - "\u89E3\u9664\u56FD\u6C11\u7684\u8BEF\u4F1A \u8981\u505A\u51FA\u89E3\u91CA\u624D\
+    \u884C"
+  start: !human_time '00:53:32.730'
+- end: !human_time '00:53:39.770'
+  lines:
+  - "\u5E7F\u544A\u6211\u4F1A\u5E2E\u4F60\u641E\u5B9A"
+  start: !human_time '00:53:37.440'
+- end: !human_time '00:53:42.880'
+  lines:
+  - "\u8BA8\u8BBA\u4E3B\u9898\u8981\u5B9A\u505A\u4EC0\u4E48"
+  start: !human_time '00:53:39.770'
+- end: !human_time '00:53:44.780'
+  lines:
+  - "\u5C31\u7B97\u4F60\u518D\u600E\u4E48\u8FA9\u89E3"
+  start: !human_time '00:53:42.880'
+- end: !human_time '00:53:46.350'
+  lines:
+  - "\u56FD\u6C11\u4F1A\u76F8\u4FE1\u5417"
+  start: !human_time '00:53:44.780'
+- end: !human_time '00:53:48.220'
+  lines:
+  - "\u8981\u8BA9\u4ED6\u4EEC\u76F8\u4FE1\u624D\u884C"
+  start: !human_time '00:53:46.350'
+- end: !human_time '00:53:52.520'
+  lines:
+  - "\u653F\u6CBB\u4E16\u4EE3\u4EA4\u66FF\u600E\u4E48\u6837"
+  start: !human_time '00:53:49.380'
+- end: !human_time '00:53:55.190'
+  lines:
+  - "\u4E16\u4EE3\u4EA4\u66FF\u8BBA"
+  start: !human_time '00:53:52.850'
+- end: !human_time '00:53:59.030'
+  lines:
+  - "\u63A8\u7FFB\u73B0\u5728\u9E21\u9E23\u72D7\u76D7"
+  - "\u4E00\u7247\u6DF7\u4E71\u7684\u653F\u6CBB\u5C40\u9762"
+  start: !human_time '00:53:55.860'
+- end: !human_time '00:54:03.630'
+  lines:
+  - "\u59DC\u6CF0\u5C71\u8BAE\u5458"
+  - "\u4EE5\u633D\u6551\u9677\u5165\u5371\u673A\u7684\u56FD\u5BB6\u653F\u6CBB"
+  start: !human_time '00:53:59.030'
+- end: !human_time '00:54:06.870'
+  lines:
+  - "\u4E0B\u4E00\u4EE3\u9A91\u58EB\u5F62\u8C61\u767B\u573A \u8981\u90A3\u79CD\u611F\
+    \u89C9"
+  start: !human_time '00:54:03.630'
+- end: !human_time '00:54:08.970'
+  lines:
+  - "\u5BF9\u5417"
+  start: !human_time '00:54:06.870'
+- end: !human_time '00:54:11.840'
+  lines:
+  - "\u90A3\u4E48\u5BF9\u6211\u4F1A\u6709\u4EC0\u4E48\u597D\u5904\u5462"
+  start: !human_time '00:54:08.970'
+- end: !human_time '00:54:17.310'
+  lines:
+  - "\u4F60\u8BF4\u4EC0\u4E48"
+  start: !human_time '00:54:15.710'
+- end: !human_time '00:54:20.050'
+  lines:
+  - "\u4E16\u4EE3\u4EA4\u66FF\u8BBA"
+  start: !human_time '00:54:17.780'
+- end: !human_time '00:54:22.450'
+  lines:
+  - "\u59DC\u6CF0\u5C71\u8981\u6C42\u4F60\u90A3\u4E48\u505A\u5417"
+  start: !human_time '00:54:20.050'
+- end: !human_time '00:54:23.980'
+  lines:
+  - "\u6211\u8BE5\u600E\u4E48\u505A\u5462"
+  start: !human_time '00:54:22.450'
+- end: !human_time '00:54:26.290'
+  lines:
+  - "\u6211\u4F1A\u542C\u4ECE\u4EE3\u8868\u60A8\u7684\u5429\u5490"
+  start: !human_time '00:54:23.980'
+- end: !human_time '00:54:31.290'
+  lines:
+  - "\u55EF \u65F6\u673A\u8FD8\u7B97\u4E0D\u9519"
+  start: !human_time '00:54:26.290'
+- end: !human_time '00:54:33.830'
+  lines:
+  - "\u5B89\u6392\u4E00\u6B21\u7535\u89C6\u8FA9\u8BBA\u5427"
+  start: !human_time '00:54:31.290'
+- end: !human_time '00:54:37.160'
+  lines:
+  - "\u4F46\u662F\u6C11\u53CB\u515A\u7684\u4EE3\u8868\u4E0D\u80FD\u7528\u59DC\u6CF0\
+    \u5C71"
+  start: !human_time '00:54:33.830'
+- end: !human_time '00:54:38.770'
+  lines:
+  - "\u6211\u660E\u767D\u4E86 \u4EE3\u8868"
+  start: !human_time '00:54:37.160'
+- end: !human_time '00:54:40.630'
+  lines:
+  - "\u90A3\u4E48\u8BE5\u8BF7\u8C01\u6765\u5462"
+  start: !human_time '00:54:38.770'
+- end: !human_time '00:54:46.170'
+  lines:
+  - "\u6211\u7ED9\u4F60\u63A8\u8350\u4E00\u4E2A\u9002\u5F53\u7684\u4EBA\u9009\u5427"
+  start: !human_time '00:54:40.630'
+- end: !human_time '00:54:53.180'
+  lines:
+  - "\u54CE\u54DF \u53C8\u641E\u4E86\u4E2A\u4E71\u4E03\u516B\u7CDF"
+  start: !human_time '00:54:49.840'
+- end: !human_time '00:54:56.050'
+  lines:
+  - "\u6BCF\u5E74\u90FD\u5F97\u4E22\u8FD9\u4E48\u4E00\u6B21\u4EBA"
+  start: !human_time '00:54:53.180'
+- end: !human_time '00:54:58.050'
+  lines:
+  - "\u90FD\u662F\u4E9B\u6709\u5B66\u95EE\u7684\u4EBA"
+  start: !human_time '00:54:56.050'
+- end: !human_time '00:54:59.990'
+  lines:
+  - "\u8FD9\u662F\u5E72\u4EC0\u4E48\u5440"
+  start: !human_time '00:54:58.050'
+- end: !human_time '00:55:03.860'
+  lines:
+  - "\u5C31\u662F\u8BF4\u5462 \u53C8\u4E0D\u662F\u4E09\u5C81\u7684\u5C0F\u5B69\u5B50\
+    \u4E86"
+  start: !human_time '00:54:59.990'
+- end: !human_time '00:55:06.260'
+  lines:
+  - "\u5F88\u62B1\u6B49"
+  start: !human_time '00:55:03.860'
+- end: !human_time '00:55:10.130'
+  lines:
+  - "\u600E\u4E48\u80FD\u8BA9\u60A8\u9053\u6B49\u5462"
+  start: !human_time '00:55:07.590'
+- end: !human_time '00:55:12.130'
+  lines:
+  - "\u6CA1\u5173\u7CFB\u7684"
+  start: !human_time '00:55:10.800'
+- end: !human_time '00:55:15.670'
+  lines:
+  - "\u5728\u7528\u7A0E\u91D1\u5EFA\u6210\u7684\u56FD\u4F1A\u4E2D"
+  - "\u5F15\u53D1\u8FD9\u6837\u7684\u6DF7\u4E71"
+  start: !human_time '00:55:12.130'
+- end: !human_time '00:55:17.270'
+  lines:
+  - "\u6211\u8EAB\u4E3A\u56FD\u4F1A\u8BAE\u5458\u4E2D\u7684\u4E00\u5458"
+  start: !human_time '00:55:15.670'
+- end: !human_time '00:55:20.410'
+  lines:
+  - "\u771F\u5FC3\u611F\u8C22\u5F88\u62B1\u6B49"
+  start: !human_time '00:55:17.270'
+- end: !human_time '00:55:28.220'
+  lines:
+  - "\u5582 \u6211\u662F\u5F90\u6167\u7433"
+  start: !human_time '00:55:25.950'
+- end: !human_time '00:55:32.850'
+  lines:
+  - "\u7535\u89C6\u8FA9\u8BBA\u5417"
+  start: !human_time '00:55:30.550'
+- end: !human_time '00:55:34.120'
+  lines:
+  - "\u4EC0\u4E48\u610F\u601D"
+  start: !human_time '00:55:32.850'
+- end: !human_time '00:55:36.690'
+  lines:
+  - "\u600E\u4E48\u4F1A\u9009\u62E9\u5F90\u6167\u7433\u8BAE\u5458\u4F5C\u4EE3\u8868"
+  start: !human_time '00:55:34.120'
+- end: !human_time '00:55:38.460'
+  lines:
+  - "\u8BF4\u5979\u80FD\u5FE0\u4E8E\u4FE1\u5FF5\u53BB\u6295\u7968"
+  start: !human_time '00:55:36.690'
+- end: !human_time '00:55:40.460'
+  lines:
+  - "\u8206\u8BBA\u7684\u53CD\u54CD\u7279\u522B\u597D"
+  start: !human_time '00:55:38.460'
+- end: !human_time '00:55:43.600'
+  lines:
+  - "\u8DDF\u8FA9\u8BBA\u7684\u4E3B\u9898\u4E5F\u5F88\u5408\u9002"
+  start: !human_time '00:55:41.130'
+- end: !human_time '00:55:48.400'
+  lines:
+  - "\u53CD\u6B63\u5F90\u6167\u7433"
+  - "\u662F\u59DC\u8BAE\u5458\u516C\u8350\u7684\u4EBA\u4E0D\u662F\u5417"
+  start: !human_time '00:55:44.600'
+- end: !human_time '00:56:07.250'
+  lines:
+  - "\u59DC\u8BAE\u5458 \u60A8\u627E\u6211\u5417"
+  start: !human_time '00:56:03.380'
+- end: !human_time '00:56:12.130'
+  lines:
+  - "\u6211\u4F1A\u6D3E\u4F60\u53BB\u505A\u5F90\u6167\u7433\u8BAE\u5458\u7684"
+  - "\u8F85\u4F50\u5B98\u7684\u7406\u7531\u4F60\u660E\u767D\u5427"
+  start: !human_time '00:56:07.590'
+- end: !human_time '00:56:13.590'
+  lines:
+  - "\u662F\u7684"
+  start: !human_time '00:56:12.130'
+- end: !human_time '00:56:18.060'
+  lines:
+  - "\u662F\u8BA9\u6211\u628A\u5979\u6253\u9020\u6210"
+  - "\u60A8\u6240\u63A8\u8FDB\u7684\u653F\u6CBB\u6539\u9769\u7684\u6807\u5FD7\u4EBA\
+    \u7269"
+  start: !human_time '00:56:13.590'
+- end: !human_time '00:56:21.540'
+  lines:
+  - "\u76EE\u524D\u5F90\u8BAE\u5458"
+  - "\u8FD8\u662F\u4E2A\u4E0D\u6309\u89C4\u77E9\u51FA\u724C\u7684\u4EBA"
+  start: !human_time '00:56:18.060'
+- end: !human_time '00:56:23.870'
+  lines:
+  - "\u8FD9\u662F\u7535\u89C6\u8FA9\u8BBA\u7684\u8D44\u6599"
+  start: !human_time '00:56:21.540'
+- end: !human_time '00:56:29.080'
+  lines:
+  - "\u4F60\u5E2E\u5979\u6253\u4E2A\u5E95\u7A3F"
+  start: !human_time '00:56:27.140'
+- end: !human_time '00:56:30.610'
+  lines:
+  - "\u597D\u597D\u7F16\u5BFC\u4E00\u4E0B"
+  start: !human_time '00:56:29.080'
+- end: !human_time '00:56:32.210'
+  lines:
+  - "\u628A\u4E16\u4EE3\u4EA4\u66FF\u8BBA"
+  start: !human_time '00:56:30.610'
+- end: !human_time '00:56:34.150'
+  lines:
+  - "\u52A0\u8FDB\u91CC\u9762\u53BB"
+  start: !human_time '00:56:32.210'
+- end: !human_time '00:56:36.650'
+  lines:
+  - "\u7B2C\u4E00\u4E2A\u8FA9\u8BBA\u4E3B\u9898\u662F"
+  start: !human_time '00:56:34.780'
+- end: !human_time '00:56:39.790'
+  lines:
+  - "\u671D\u91CE\u5BF9\u5CD9\u653F\u5E9C\u7684\u89E3\u51B3\u65B9\u6848"
+  start: !human_time '00:56:36.650'
+- end: !human_time '00:56:42.660'
+  lines:
+  - "\u671D\u91CE\u53CC\u65B9\u901A\u8FC7\u5BF9\u8BDD..."
+  start: !human_time '00:56:39.790'
+- end: !human_time '00:56:45.060'
+  lines:
+  - "\u671D\u91CE\u53CC\u65B9\u901A\u8FC7\u5BF9\u8BDD"
+  start: !human_time '00:56:43.320'
+- end: !human_time '00:56:48.130'
+  lines:
+  - "\u6765\u5BFB\u627E\u89E3\u51B3\u65B9\u6CD5"
+  - "\u5E94\u8BE5\u662F\u7B2C\u4E00\u79CD\u65B9\u6848\u5427"
+  start: !human_time '00:56:45.060'
+- end: !human_time '00:56:48.800'
+  lines:
+  - "\u800C\u4E14..."
+  start: !human_time '00:56:48.130'
+- end: !human_time '00:56:52.600'
+  lines:
+  - "\u54CE\u54DF \u5F90\u6167\u7433\u5C0F\u59D0"
+  - "\u8FD9\u4E48\u5FEB\u5C31\u5B66\u4F1A\u5F53\u9E66\u9E49\u5566"
+  start: !human_time '00:56:48.800'
+- end: !human_time '00:56:56.740'
+  lines:
+  - "\u8FD9\u6837\u4E0B\u53BB\u4E0D\u77E5\u9053\u4F1A\u4E0D\u4F1A\u505A\u51FA"
+  - "\u7528\u62F3\u5934\u7838\u684C\u5B50\u8FD9\u79CD\u4E3E\u52A8\u5462"
+  start: !human_time '00:56:52.600'
+- end: !human_time '00:56:59.670'
+  lines:
+  - "\u60A8\u8FD8\u662F\u4E00\u70B9\u6CA1\u53D8\u554A \u8FD8\u662F\u4E0D\u770B\u597D\
+    \u6211"
+  start: !human_time '00:56:56.740'
+- end: !human_time '00:57:01.070'
+  lines:
+  - "\u5C40\u957F"
+  start: !human_time '00:56:59.670'
+- end: !human_time '00:57:02.880'
+  lines:
+  - "\u5979\u4EE5\u524D\u867D\u7136\u66FE\u662F\u60A8\u7684\u90E8\u4E0B\u804C\u5458"
+  start: !human_time '00:57:01.070'
+- end: !human_time '00:57:05.210'
+  lines:
+  - "\u4F46\u73B0\u5728\u5979\u5DF2\u7ECF\u662F\u56FD\u4F1A\u8BAE\u5458\u4E86"
+  start: !human_time '00:57:02.880'
+- end: !human_time '00:57:06.480'
+  lines:
+  - "\u8BF7\u60A8\u6CE8\u610F\u4E00\u4E0B\u793C\u8282"
+  start: !human_time '00:57:05.210'
+- end: !human_time '00:57:10.050'
+  lines:
+  - "\u554A \u5F53\u4E0A\u8BAE\u5458\u4E86 \u6CA1\u9519"
+  start: !human_time '00:57:06.480'
+- end: !human_time '00:57:13.290'
+  lines:
+  - "\u6655\u955C\u5934\u7684\u6BDB\u75C5 \u60A8\u5DF2\u7ECF\u6539\u4E86\u5427"
+  start: !human_time '00:57:10.380'
+- end: !human_time '00:57:15.420'
+  lines:
+  - "\u6253\u55DD"
+  start: !human_time '00:57:13.290'
+- end: !human_time '00:57:20.960'
+  lines:
+  - "\u60A8\u8FD8\u6655\u955C\u5934\u554A"
+  start: !human_time '00:57:18.230'
+- end: !human_time '00:57:25.170'
+  lines:
+  - "\u4EE5\u524D..."
+  start: !human_time '00:57:23.300'
+- end: !human_time '00:57:27.430'
+  lines:
+  - "\u4E00\u70B9\u70B9\u5566"
+  start: !human_time '00:57:25.170'
+- end: !human_time '00:57:31.710'
+  lines:
+  - "\u51C6\u5907"
+  start: !human_time '00:57:31.300'
+- end: !human_time '00:57:34.910'
+  lines:
+  - "\u5F00\u59CB"
+  start: !human_time '00:57:32.240'
+- end: !human_time '00:57:40.650'
+  lines:
+  - "\u5404\u4F4D\u89C2\u4F17 \u5927\u5BB6\u597D"
+  start: !human_time '00:57:38.510'
+- end: !human_time '00:57:43.880'
+  lines:
+  - "\u6211\u662F\u5E7F\u573A\u8FA9\u8BBA\u7684 \u8881\u5927\u97E9"
+  start: !human_time '00:57:40.650'
+- end: !human_time '00:57:46.120'
+  lines:
+  - "\u4ECA\u5929\u8FA9\u8BBA\u7684\u4E3B\u9898\u662F"
+  start: !human_time '00:57:43.880'
+- end: !human_time '00:57:50.290'
+  lines:
+  - "\u5927\u97E9\u6C11\u56FD\u653F\u6CBB \u8FD9\u6837\u4E0B\u53BB\u53EF\u4EE5\u5417"
+  start: !human_time '00:57:46.120'
+- end: !human_time '00:57:54.560'
+  lines:
+  - "\u4E3A\u5BFB\u627E\u5BF9"
+  - "\u5F3A\u884C\u5904\u7406\u56FD\u5BB6\u8D22\u653F\u6CD5\u4FEE\u6B63\u6848\u4E4B\
+    \u540E"
+  start: !human_time '00:57:50.290'
+- end: !human_time '00:57:58.170'
+  lines:
+  - "\u5904\u4E8E\u51B0\u51BB\u671F\u7684"
+  - "\u671D\u91CE\u5BF9\u5CD9\u653F\u5E9C\u7684\u89E3\u51B3\u65B9\u6848"
+  start: !human_time '00:57:54.560'
+- end: !human_time '00:58:00.500'
+  lines:
+  - "\u4EE5\u53CA\u5C55\u671B\u672A\u6765\u7684\u5F62\u52BF"
+  start: !human_time '00:57:58.170'
+- end: !human_time '00:58:02.340'
+  lines:
+  - "\u6211\u4EEC\u5B89\u6392\u4E86\u8FD9\u6B21\u8FA9\u8BBA"
+  start: !human_time '00:58:00.500'
+- end: !human_time '00:58:04.700'
+  lines:
+  - "-\u5207"
+  - "-\u6C11\u53CB\u515A\u4E2D\u552F\u4E001\u4F4D\u6295\u4E86\u53CD\u5BF9\u7968\u7684"
+  start: !human_time '00:58:02.340'
+- end: !human_time '00:58:07.340'
+  lines:
+  - "\u5F90\u6167\u7433\u8BAE\u5458\u6765\u5230\u4E86\u73B0\u573A"
+  start: !human_time '00:58:04.700'
+- end: !human_time '00:58:14.150'
+  lines:
+  - "\u90D1\u6559\u6388"
+  start: !human_time '00:58:12.480'
+- end: !human_time '00:58:17.850'
+  lines:
+  - "\u8BF7\u95EE\u8981\u89E3\u51B3\u5F3A\u786C\u7684\u671D\u91CE\u5173\u7CFB"
+  - "\u6709\u4EC0\u4E48\u529E\u6CD5\u5417"
+  start: !human_time '00:58:14.150'
+- end: !human_time '00:58:19.250'
+  lines:
+  - "\u505A\u4E3A\u56FD\u6C11\u4E2D\u7684\u4E00\u5458"
+  start: !human_time '00:58:17.850'
+- end: !human_time '00:58:22.560'
+  lines:
+  - "\u770B\u5230\u5F3A\u884C\u5904\u7406\u4FEE\u6B63\u6CD5\u6848\u8FD9\u79CD\u4E8B\
+    \u6001"
+  start: !human_time '00:58:19.250'
+- end: !human_time '00:58:25.830'
+  lines:
+  - "\u5B9E\u5728\u662F\u65E0\u6CD5\u6291\u5236\u9519\u6742\u7684\u5FC3\u60C5"
+  start: !human_time '00:58:22.560'
+- end: !human_time '00:58:29.760'
+  lines:
+  - "-\u6211\u8BA4\u4E3A\u671D\u91CE\u53CC\u65B9\u90FD\u8BE5\u4E3A\u6B64\u6B21\u4E8B\
+    \u6001\u8FDB\u884C\u53CD\u7701"
+  - "-\u8BAE\u5458\u60A8\u5728\u5E72\u4EC0\u4E48\u81F3\u5C11\u88C5\u51FA\u503E\u542C\
+    \u7684\u6837\u5B50\u6765\u5440"
+  start: !human_time '00:58:25.830'
+- end: !human_time '00:58:33.770'
+  lines:
+  - "\u800C\u4E14\u5FC5\u987B\u91C7\u53D6\u7279\u522B\u63AA\u65BD"
+  - "\u9632\u6B62\u540C\u6837\u7684\u4E8B\u6001\u518D\u6B21\u590D\u53D1"
+  start: !human_time '00:58:29.760'
+- end: !human_time '00:58:41.440'
+  lines:
+  - "\u53C8\u641E\u4E86\u4E2A\u4E71\u4E03\u516B\u7CDF"
+  start: !human_time '00:58:39.240'
+- end: !human_time '00:58:43.380'
+  lines:
+  - "\u90FD\u662F\u4E9B\u6709\u5B66\u95EE\u7684\u4EBA"
+  start: !human_time '00:58:41.440'
+- end: !human_time '00:58:45.450'
+  lines:
+  - "\u8FD9\u662F\u5E72\u4EC0\u4E48\u5440"
+  start: !human_time '00:58:43.380'
+- end: !human_time '00:58:48.580'
+  lines:
+  - "\u5C31\u662F\u8BF4\u5462 \u53C8\u4E0D\u662F\u4E09\u5C81\u7684\u5C0F\u5B69\u5B50\
+    \u4E86"
+  start: !human_time '00:58:45.450'
+- end: !human_time '00:58:51.120'
+  lines:
+  - "\u5BF9\u56FD\u4F1A\u8BAE\u5458\u6765\u8BF4 \u56FD\u6C11\u4EEC"
+  start: !human_time '00:58:48.580'
+- end: !human_time '00:58:54.320'
+  lines:
+  - "\u5C31\u662F\u9009\u4E3E\u65F6\u6295\u8FDB\u6765\u7684\u4E00\u5F20\u5F20\u9009\
+    \u7968\u5417"
+  start: !human_time '00:58:51.120'
+- end: !human_time '00:58:57.460'
+  lines:
+  - "\u4ED6\u4EEC\u5C31\u53EA\u662F\u9009\u7968\u5417"
+  start: !human_time '00:58:54.320'
+- end: !human_time '00:58:59.730'
+  lines:
+  - "\u5F90\u6167\u7433\u8BAE\u5458"
+  start: !human_time '00:58:57.460'
+- end: !human_time '00:59:01.460'
+  lines:
+  - "\u5F90\u8BAE\u5458"
+  start: !human_time '00:58:59.730'
+- end: !human_time '00:59:04.870'
+  lines:
+  - "\u662F"
+  start: !human_time '00:59:04.200'
+- end: !human_time '00:59:07.270'
+  lines:
+  - "\u5C31\u6B64\u6B21\u4E8B\u6001 \u6709\u4E00\u90E8\u4EFD\u4EBA"
+  start: !human_time '00:59:04.870'
+- end: !human_time '00:59:10.470'
+  lines:
+  - "\u751A\u81F3\u9690\u7EA6\u63D0\u5230\u4E86\u653F\u6CBB\u5708\u4E16\u4EE3\u4EA4\
+    \u66FF\u8BBA"
+  start: !human_time '00:59:07.270'
+- end: !human_time '00:59:14.070'
+  lines:
+  - "\u60A8\u505A\u4E3A\u521D\u6B21\u5F53\u9009\u7684\u8BAE\u5458"
+  - "\u5BF9\u6B64\u6709\u4F55\u770B\u6CD5\u5462"
+  start: !human_time '00:59:10.470'
+- end: !human_time '00:59:16.010'
+  lines:
+  - "\u4E16\u4EE3\u4EA4\u66FF\u8BBA\u5417"
+  start: !human_time '00:59:14.470'
+- end: !human_time '00:59:17.810'
+  lines:
+  - "\u662F\u7684"
+  start: !human_time '00:59:16.010'
+- end: !human_time '00:59:21.950'
+  lines:
+  - "\u5E7F\u5927\u56FD\u6C11\u8BA4\u4E3A"
+  - "\u8FD9\u6B21\u5F90\u8BAE\u5458\u53CD\u5BF9\u515A\u8BBA\u800C\u6295\u51FA\u7684\
+    \u4E00\u7968"
+  start: !human_time '00:59:17.810'
+- end: !human_time '00:59:25.290'
+  lines:
+  - "\u5F88\u6709\u65B0\u610F \u5177\u6709\u5F88\u5927\u7684\u610F\u4E49"
+  start: !human_time '00:59:21.950'
+- end: !human_time '00:59:28.160'
+  lines:
+  - "\u8BF7\u60A8\u5BF9\u6B64\u4E5F\u53D1\u8868\u4E00\u4E0B\u770B\u6CD5"
+  start: !human_time '00:59:25.290'
+- end: !human_time '00:59:32.230'
+  lines:
+  - "\u5F90\u8BAE\u5458 \u6309\u80CC\u597D\u7684\u8BF4"
+  start: !human_time '00:59:30.090'
+- end: !human_time '00:59:34.090'
+  lines:
+  - "\u6309\u80CC\u597D\u7684\u8BF4"
+  start: !human_time '00:59:32.230'
+- end: !human_time '00:59:38.170'
+  lines:
+  - "\u5F53\u65F6\u6211\u7684\u884C\u4E3A"
+  start: !human_time '00:59:34.760'
+- end: !human_time '00:59:46.310'
+  lines:
+  - "\u5927\u5A76 \u51ED\u81EA\u5DF1\u7684\u4FE1\u5FF5\u5927\u80C6\u8BF4\u554A"
+  start: !human_time '00:59:43.840'
+- end: !human_time '00:59:49.310'
+  lines:
+  - "\u8BF4\u60F3\u628A\u5DE8\u5934\u4EEC\u64CD\u7EB5\u7684"
+  - "\u80AE\u810F\u7684\u653F\u6CBB\u5708\u5F7B\u5E95\u63A8\u7FFB"
+  start: !human_time '00:59:46.310'
+- end: !human_time '00:59:50.710'
+  lines:
+  - "\u5C31\u8FD9\u4E48\u8BF4\u554A"
+  start: !human_time '00:59:49.310'
+- end: !human_time '00:59:51.810'
+  lines:
+  - "\u5F90\u6167\u7433\u8BAE\u5458"
+  start: !human_time '00:59:50.710'
+- end: !human_time '00:59:54.150'
+  lines:
+  - "\u60A8\u6CA1\u6709\u8BDD\u8981\u8BF4\u5417"
+  start: !human_time '00:59:51.810'
+- end: !human_time '00:59:56.950'
+  lines:
+  - "\u770B\u6765\u56E0\u4E3A\u95EE\u9898\u6BD4\u8F83\u654F\u611F..."
+  start: !human_time '00:59:54.950'
+- end: !human_time '01:00:00.490'
+  lines:
+  - "\u662F\u5426\u53EF\u4EE5\u7406\u89E3\u4E3A"
+  - "\u60A8\u662F\u65E0\u53EF\u5949\u544A\u7684\u610F\u601D\u5462"
+  start: !human_time '00:59:56.950'
+- end: !human_time '01:00:02.690'
+  lines:
+  - "\u90A3\u4E48\u63A5\u4E0B\u6765..."
+  start: !human_time '01:00:01.390'
+- end: !human_time '01:00:04.720'
+  lines:
+  - "\u8BF7\u7B49\u4E00\u4E0B"
+  start: !human_time '01:00:02.690'
+- end: !human_time '01:00:11.730'
+  lines:
+  - "\u60A8\u8BF4\u5F97\u5BF9"
+  start: !human_time '01:00:09.860'
+- end: !human_time '01:00:16.140'
+  lines:
+  - "\u6211\u4EEC\u7684\u653F\u6CBB\u5FC5\u987B\u6709\u6240\u6539\u53D8"
+  start: !human_time '01:00:13.400'
+- end: !human_time '01:00:21.810'
+  lines:
+  - "\u5E94\u8BE5\u4ECE\u653F\u6CBB\u4EBA\u5F00\u59CB"
+  - "\u9996\u5148\u653E\u4F4E\u59FF\u6001\u865A\u5FC3\u53CD\u7701"
+  start: !human_time '01:00:16.800'
+- end: !human_time '01:00:25.610'
+  lines:
+  - "\u5927\u97E9\u6C11\u56FD\u7684\u56FD\u4F1A"
+  - "\u5DF2\u7ECF\u5EFA\u7ACB\u516D\u5341\u591A\u5E74\u4E86"
+  start: !human_time '01:00:21.810'
+- end: !human_time '01:00:31.750'
+  lines:
+  - "\u5176\u95F4\u6709\u65E0\u6570\u7684\u653F\u6CBB\u4EBA"
+  - "\u6000\u63E3\u7740\u653F\u6CBB\u6539\u9769\u7684\u68A6\u60F3\u8D70\u8FDB\u4E86\
+    \u56FD\u4F1A"
+  start: !human_time '01:00:25.610'
+- end: !human_time '01:00:34.620'
+  lines:
+  - "\u867D\u7136\u4ED6\u4EEC\u540E\u6765\u6210\u4E3A\u4E86\u6709\u4F5C\u4E3A\u7684\
+    \u653F\u6CBB\u4EBA"
+  start: !human_time '01:00:31.750'
+- end: !human_time '01:00:37.160'
+  lines:
+  - "\u6210\u4E3A\u4E86\u6743\u5229\u7684\u4E2D\u5FC3"
+  start: !human_time '01:00:34.620'
+- end: !human_time '01:00:41.500'
+  lines:
+  - "\u4F46\u662F\u65E7\u6001\u4F9D\u7136\u7684\u653F\u6CBB\u73B0\u5B9E\u5374\u6CA1\
+    \u6709\u6539\u53D8"
+  start: !human_time '01:00:37.160'
+- end: !human_time '01:00:43.430'
+  lines:
+  - "\u8FD9\u662F\u4E3A\u4EC0\u4E48\u5462"
+  start: !human_time '01:00:41.500'
+- end: !human_time '01:00:48.700'
+  lines:
+  - "\u56E0\u4E3A\u770B\u7740\u515A\u6307\u5BFC\u90E8\u7684\u773C\u8272\u884C\u4E8B"
+  - "\u4E0D\u5F97\u4E0D\u6B6A\u66F2\u4E2A\u4EBA\u7684\u4FE1\u5FF5"
+  start: !human_time '01:00:44.230'
+- end: !human_time '01:00:52.240'
+  lines:
+  - "\u5728\u53EA\u6709\u7559\u5728\u6743\u529B\u7684\u5E87\u62A4\u6240\u4E4B\u4E0B"
+  - "\u624D\u80FD\u4FDD\u5168\u653F\u6CBB\u751F\u547D\u7684"
+  start: !human_time '01:00:48.700'
+- end: !human_time '01:00:53.970'
+  lines:
+  - "\u8FD9\u79CD\u53EF\u60B2\u7684\u73B0\u5B9E\u4E4B\u4E2D"
+  start: !human_time '01:00:52.240'
+- end: !human_time '01:00:55.980'
+  lines:
+  - "\u5C31\u7B97\u8FDB\u884C\u4E16\u4EE3\u4EA4\u66FF"
+  start: !human_time '01:00:53.970'
+- end: !human_time '01:00:57.980'
+  lines:
+  - "\u5C06\u7528\u7A0E\u91D1\u5EFA\u6210\u7684\u795E\u5723\u7684\u56FD\u4F1A"
+  start: !human_time '01:00:55.980'
+- end: !human_time '01:00:59.910'
+  lines:
+  - "\u53D8\u6210\u9E21\u9E23\u72D7\u76D7\u7684\u73B0\u573A\u7684\u60B2\u5267"
+  start: !human_time '01:00:57.980'
+- end: !human_time '01:01:02.850'
+  lines:
+  - "\u4E5F\u662F\u65E0\u6CD5\u6539\u53D8\u7684"
+  start: !human_time '01:00:59.910'
+- end: !human_time '01:01:05.920'
+  lines:
+  - "\u6211"
+  start: !human_time '01:01:04.320'
+- end: !human_time '01:01:08.360'
+  lines:
+  - "\u66FE\u7ECF\u662FBololo\u59D0\u59D0"
+  start: !human_time '01:01:05.920'
+- end: !human_time '01:01:10.820'
+  lines:
+  - "\u5BF9\u5B69\u5B50\u4EEC\u8BF4\u8FC7\u4E0D\u8981\u6253\u67B6"
+  start: !human_time '01:01:08.360'
+- end: !human_time '01:01:12.860'
+  lines:
+  - "\u8981\u597D\u597D\u76F8\u5904"
+  start: !human_time '01:01:10.820'
+- end: !human_time '01:01:16.560'
+  lines:
+  - "\u8981\u5F53\u4E00\u4E2A\u5B88\u4FE1\u7528\u7684\u597D\u5B69\u5B50"
+  start: !human_time '01:01:12.860'
+- end: !human_time '01:01:18.370'
+  lines:
+  - "\u4F46\u662F \u5927\u4EBA\u4EEC"
+  start: !human_time '01:01:16.560'
+- end: !human_time '01:01:22.570'
+  lines:
+  - "-\u54C7 \u5988\u5988\u8BF4\u5F97\u771F\u597D"
+  - "-\u7279\u522B\u662F\u5728\u56FD\u6C11\u9762\u524D\u6253\u67B6\u7684\u6837\u5B50"
+  start: !human_time '01:01:18.370'
+- end: !human_time '01:01:26.110'
+  lines:
+  - "-\u5BF9\u5427 \u59E5\u59E5"
+  - "-\u5B69\u5B50\u4EEC\u4F1A\u5B66\u5230\u4EC0\u4E48\u5462"
+  start: !human_time '01:01:22.570'
+- end: !human_time '01:01:28.780'
+  lines:
+  - "\u653F\u6CBB\u4EBA\u6BCF\u6B21\u5728\u9009\u4E3E\u7684\u65F6\u5019"
+  start: !human_time '01:01:26.440'
+- end: !human_time '01:01:31.580'
+  lines:
+  - "\u4E3A\u4E86\u5F97\u5230\u9009\u7968"
+  start: !human_time '01:01:28.780'
+- end: !human_time '01:01:35.580'
+  lines:
+  - "\u90FD\u4F1A\u8BF4\"\u5C0A\u656C\u7684\u5404\u4F4D\u56FD\u6C11\"\u8FD9\u79CD\u8BDD"
+  start: !human_time '01:01:31.580'
+- end: !human_time '01:01:38.590'
+  lines:
+  - "\u4F46\u662F\u6211\u6597\u80C6\u5728\u8FD9\u91CC\u8868\u767D"
+  start: !human_time '01:01:35.980'
+- end: !human_time '01:01:44.120'
+  lines:
+  - "\u6211\u4EEC\u653F\u6CBB\u4EBA"
+  - "\u5E76\u4E0D\u662F\u771F\u7684\u5C0A\u656C\u5404\u4F4D\u56FD\u6C11"
+  start: !human_time '01:01:38.590'
+- end: !human_time '01:01:47.590'
+  lines:
+  - "\u5BF9\u4E8E\u653F\u6CBB\u4EBA\u4E0D\u754F\u60E7\u56FD\u6C11"
+  start: !human_time '01:01:45.230'
+- end: !human_time '01:01:50.900'
+  lines:
+  - "\u8868\u73B0\u51FA\u50B2\u6162\u4E0D\u7F81\u7684\u6001\u5EA6"
+  start: !human_time '01:01:47.590'
+- end: !human_time '01:01:55.300'
+  lines:
+  - "\u6211\u8BA4\u4E3A\u5404\u4F4D\u56FD\u6C11\u4E5F\u662F\u6709\u8D23\u4EFB\u7684"
+  start: !human_time '01:01:50.900'
+- end: !human_time '01:01:58.470'
+  lines:
+  - "\u56FD\u6C11\u9A82\u653F\u6CBB\u8150\u8D25 \u6307\u624B\u5212\u811A\u7684\u65F6\
+    \u5019"
+  start: !human_time '01:01:55.770'
+- end: !human_time '01:02:00.940'
+  lines:
+  - "\u5632\u7B11\u8BBD\u523A \u8896\u624B\u65C1\u89C2\u7684\u65F6\u5019"
+  start: !human_time '01:01:58.470'
+- end: !human_time '01:02:05.250'
+  lines:
+  - "\u653F\u6CBB\u4EBA\u662F\u4E0D\u4F1A\u5BB3\u6015\u7684"
+  start: !human_time '01:02:00.940'
+- end: !human_time '01:02:07.310'
+  lines:
+  - "\u6B63\u56E0\u4E3A\u6CA1\u4EBA\u8BA9\u4ED6\u4EEC\u5BB3\u6015"
+  start: !human_time '01:02:05.250'
+- end: !human_time '01:02:09.650'
+  lines:
+  - "\u6240\u4EE5\u624D\u4F1A\u8D2A\u6C61\u8150\u8D25"
+  start: !human_time '01:02:07.310'
+- end: !human_time '01:02:10.920'
+  lines:
+  - "\u624D\u4F1A\u628A\u56FD\u5BB6\u7684\u672A\u6765"
+  start: !human_time '01:02:09.650'
+- end: !human_time '01:02:13.120'
+  lines:
+  - "\u653E\u5728\u515A\u5229\u515A\u7565\u4E4B\u540E"
+  start: !human_time '01:02:10.920'
+- end: !human_time '01:02:16.190'
+  lines:
+  - "\u800C\u4E14\u6BEB\u4E0D\u6127\u759A"
+  start: !human_time '01:02:13.120'
+- end: !human_time '01:02:17.720'
+  lines:
+  - "\u5404\u4F4D\u56FD\u6C11"
+  start: !human_time '01:02:16.190'
+- end: !human_time '01:02:21.330'
+  lines:
+  - "\u624D\u662F\u5927\u97E9\u6C11\u56FD\u7684\u4E3B\u4EBA"
+  start: !human_time '01:02:17.720'
+- end: !human_time '01:02:23.930'
+  lines:
+  - "\u5404\u4F4D\u56FD\u6C11"
+  start: !human_time '01:02:22.860'
+- end: !human_time '01:02:27.600'
+  lines:
+  - "\u624D\u662F\u517B\u6D3B\u653F\u6CBB\u4EBA\u7684\u8863\u98DF\u7236\u6BCD"
+  start: !human_time '01:02:23.930'
+- end: !human_time '01:02:31.610'
+  lines:
+  - "\u7236\u6BCD\u5728\u5B69\u5B50\u4E0D\u542C\u8BDD\u7684\u65F6\u5019"
+  - "\u4F1A\u6559\u8BAD\u4ED6\u4EEC"
+  start: !human_time '01:02:27.870'
+- end: !human_time '01:02:33.940'
+  lines:
+  - "\u5982\u679C\u8FD8\u4E0D\u542C\u8BDD"
+  start: !human_time '01:02:31.610'
+- end: !human_time '01:02:36.680'
+  lines:
+  - "\u5C31\u8BE5\u8FDB\u884C\u7231\u7684\u60E9\u7F5A"
+  start: !human_time '01:02:33.940'
+- end: !human_time '01:02:37.940'
+  lines:
+  - "\u53EA\u6709\u5404\u4F4D\u56FD\u6C11"
+  start: !human_time '01:02:36.680'
+- end: !human_time '01:02:40.780'
+  lines:
+  - "\u624D\u662F\u8FD9\u4E2A\u56FD\u5BB6\u653F\u6CBB\u7684\u5E0C\u671B"
+  start: !human_time '01:02:37.940'
+- end: !human_time '01:02:43.220'
+  lines:
+  - "\u5404\u4F4D\u56FD\u6C11"
+  start: !human_time '01:02:40.780'
+- end: !human_time '01:02:45.550'
+  lines:
+  - "\u8BF7\u62FF\u8D77\u85E4\u6761\u6765\u5427"
+  start: !human_time '01:02:43.220'
+- end: !human_time '01:02:47.490'
+  lines:
+  - "\u5BF9\u4E0D\u542C\u8BDD\u7684\u653F\u6CBB\u4EBA"
+  start: !human_time '01:02:45.550'
+- end: !human_time '01:02:51.390'
+  lines:
+  - "\u8981\u7528\u7231\u7684\u85E4\u6761\u6765\u62BD\u6253\u4ED6\u4EEC\u624D\u884C"
+  start: !human_time '01:02:47.490'
+- end: !human_time '01:02:57.060'
+  lines:
+  - "\u5927\u5BB6\u8981\u7528\u85E4\u6761\u53BB\u62BD\u6253\u653F\u6CBB\u4EBA\u7684\
+    \u5C0F\u817F"
+  start: !human_time '01:02:52.630'
+- end: !human_time '01:03:02.440'
+  lines:
+  - "\u628A\u4ED6\u4EEC\u53EA\u62FF\u56FD\u6C11"
+  - "\u5F53\u6295\u9009\u7968\u7684\u4EBA\u6765\u770B\u7684\u50B2\u6162\u6001\u5EA6"
+  start: !human_time '01:02:58.330'
+- end: !human_time '01:03:04.700'
+  lines:
+  - "\u7BA1\u597D \u6559\u597D"
+  start: !human_time '01:03:02.440'
+- end: !human_time '01:03:07.040'
+  lines:
+  - "\u8FD9\u4E2A\u56FD\u5BB6\u7684\u4E3B\u4EBA\u5230\u5E95\u662F\u8C01"
+  start: !human_time '01:03:04.700'
+- end: !human_time '01:03:09.840'
+  lines:
+  - "\u8981\u8BA9\u4ED6\u4EEC\u660E\u767D\u624D\u884C"
+  start: !human_time '01:03:07.040'
+- end: !human_time '01:03:16.980'
+  lines:
+  - "\u8BF7\u5404\u4F4D\u56FD\u6C11"
+  - "\u7528\u85E4\u6761\u7EA0\u6B63\u8FD9\u4E2A\u56FD\u5BB6\u7684\u653F\u6CBB\u5427"
+  start: !human_time '01:03:11.240'
+- end: !human_time '01:03:34.370'
+  lines:
+  - "\u5E72\u5F97\u597D \u5927\u5A76"
+  start: !human_time '01:03:33.500'
+- end: !human_time '01:03:36.170'
+  lines:
+  - "\u5C31\u8981\u8FD9\u6837\u624D\u884C"
+  start: !human_time '01:03:34.370'
+- end: !human_time '01:04:16.140'
+  lines:
+  - "-=\u4E0B\u96C6\u9884\u544A=-"
+  start: !human_time '01:04:13.610'
+- end: !human_time '01:04:17.980'
+  lines:
+  - "\u653F\u6CBB\u754C\u7684\u65B0\u5175\u554A"
+  start: !human_time '01:04:16.140'
+- end: !human_time '01:04:20.310'
+  lines:
+  - "\u5C31\u8DDF\u5B97\u5BB6\u5E9C\u7684\u65B0\u5AB3\u5987\u662F\u4E00\u6837\u7684"
+  start: !human_time '01:04:17.980'
+- end: !human_time '01:04:21.980'
+  lines:
+  - "\u60A8\u7684\u610F\u601D \u6211\u4E0D\u660E\u767D"
+  start: !human_time '01:04:20.310'
+- end: !human_time '01:04:23.380'
+  lines:
+  - "\u4F60\u75AF\u5566"
+  start: !human_time '01:04:21.980'
+- end: !human_time '01:04:25.920'
+  lines:
+  - "\u641E\u8D2A\u6C61\u8150\u8D25\u7684\u653F\u6CBB\u4EBA"
+  start: !human_time '01:04:23.380'
+- end: !human_time '01:04:28.520'
+  lines:
+  - "\u5C31\u662F\u7ED9\u68C0\u5BDF\u5B98\u70ED\u6577\u8EAB\u5B50\u7684\u826F\u836F"
+  start: !human_time '01:04:25.920'
+- end: !human_time '01:04:30.790'
+  lines:
+  - "\u5BF9\u56FD\u5BB6\u8D22\u653F\u4FEE\u6B63\u6CD5\u6848"
+  start: !human_time '01:04:28.520'
+- end: !human_time '01:04:32.530'
+  lines:
+  - "\u6211\u8981\u884C\u4F7F\u62D2\u7EDD\u6743"
+  start: !human_time '01:04:30.790'
+- end: !human_time '01:04:33.590'
+  lines:
+  - "\u5168\u9762\u5F00\u6218\u4E86"
+  start: !human_time '01:04:32.530'
+- end: !human_time '01:04:35.330'
+  lines:
+  - "\u767D\u6210\u6C11\u603B\u7EDF"
+  start: !human_time '01:04:33.590'
+- end: !human_time '01:04:37.330'
+  lines:
+  - "\u8981\u5BF9\u6B64\u6B21\u4E8B\u6001\u8D1F\u8D23"
+  start: !human_time '01:04:35.330'
+- end: !human_time '01:04:39.330'
+  lines:
+  - "\u8981\u6C42\u4ED6\u9000\u515A"
+  start: !human_time '01:04:37.330'
+- end: !human_time '01:04:41.600'
+  lines:
+  - "\u5F90\u6167\u7433\u8BAE\u5458\u4E0D\u9700\u8981\u6709\u4EC0\u4E48\u60F3\u6CD5"
+  start: !human_time '01:04:39.330'
+- end: !human_time '01:04:44.800'
+  lines:
+  - "\u5C31\u6309\u7167\u5199\u597D\u7684\u5FF5 \u6309\u5199\u597D\u7684\u5FF5"
+  start: !human_time '01:04:41.600'
+- end: !human_time '01:04:46.740'
+  lines:
+  - "\u8BF7\u60A8\u901A\u8FC7\u5BF9\u8BDD\u548C\u534F\u5546\u597D\u597D\u5904\u7406"
+  start: !human_time '01:04:44.800'
+- end: !human_time '01:04:49.940'
+  lines:
+  - "\u56E0\u4E3A\u56FD\u6C11\u53D7\u4E86\u4F24\u7684\u5FC3\u662F\u5F88\u96BE\u5B89\
+    \u629A\u7684"
+  start: !human_time '01:04:46.740'
+- end: !human_time '01:04:50.680'
+  lines:
+  - "\u9001\u8FC7\u53BB"
+  start: !human_time '01:04:49.940'
+- end: !human_time '01:04:53.080'
+  lines:
+  - "\u6240\u6709\u7684\u8D23\u4EFB \u6211\u6765\u8D1F"
+  start: !human_time '01:04:50.680'
+- end: !human_time '01:04:55.550'
+  lines:
+  - "\u628A\u8D44\u6599\u4EA4\u7ED9\u6211\u7684\u771F\u6B63\u7406\u7531\u662F\u4EC0\
+    \u4E48"
+  start: !human_time '01:04:53.080'
+- end: !human_time '01:04:59.690'
+  lines:
+  - "\u6CB3\u60BC\u4E5F\u68C0\u5BDF\u5B98"
+  - "\u771F\u7684\u80FD\u6273\u5012\u8D75\u500D\u8C6A\u4EE3\u8868\u5417"
+  start: !human_time '01:04:55.550'
+- end: !human_time '01:05:03.360'
+  lines:
+  - "\u60A8\u89C9\u5F97\u5927\u97E9\u6C11\u56FD\u7684\u68C0\u5BDF\u5B98"
+  - "\u5728\u5F00\u73A9\u7B11\u5417"
+  start: !human_time '01:04:59.690'
+- end: !human_time '01:05:07.160'
+  lines:
+  - "=\u611F\u8C22\u51E4\u51F0\u5929\u4F7FTSKS\u8BD1\u5236="
+  start: !human_time '01:05:03.860'
+- end: !human_time '01:04:00.930'
+  lines:
+  - "\u6211\u7231\u4F60 \u6211\u7231\u4F60"
+  start: !human_time '01:03:56.720'
+- end: !human_time '01:04:03.660'
+  lines:
+  - "\u6211\u7684\u8BDD\u4F60\u542C\u4E0D\u5230\u5417"
+  start: !human_time '01:04:00.930'
+- end: !human_time '01:04:08.000'
+  lines:
+  - "\u7231\u4F60\u7231\u5230\u54ED\u6CE3"
+  start: !human_time '01:04:03.660'
+- end: !human_time '01:04:10.940'
+  lines:
+  - "\u6211\u7684\u5FC3\u4F60\u770B\u4E0D\u89C1\u5417"
+  start: !human_time '01:04:08.000'
+- end: !human_time '01:04:14.670'
+  lines:
+  - "\u5373\u4F7F\u4E00\u5207\u6709\u547C\u5438\u7684\u4E1C\u897F"
+  start: !human_time '01:04:10.940'
+- end: !human_time '01:04:24.450'
+  lines:
+  - "\u5168\u90E8\u6B7B\u6389\u4E5F\u4E0D\u5728\u610F \u6211\u53EA\u7231\u4F60\u4E00\
+    \u4E2A"
+  start: !human_time '01:04:14.670'
+- end: !human_time '01:04:44.140'
+  lines:
+  - "\u62C5\u5FC3\u8FD9\u5E78\u798F\u662F\u5426\u4F1A\u50CF\u7070\u5C18\u4E00\u6837\
+    \u98DE\u6563"
+  start: !human_time '01:04:36.600'
+- end: !human_time '01:04:53.150'
+  lines:
+  - "\u8BF7\u62B1\u7D27\u72EC\u81EA\u4E0D\u5B89\u7684\u6211"
+  start: !human_time '01:04:44.140'
+- end: !human_time '00:13:36.470'
+  lines:
+  - "-=\u521D\u9009\u8BAE\u5458:\u521A\u521A\u5F53\u9009\u7684\u8BAE\u5458;\u518D\u9009\
+    \u8BAE\u5458:\u4EFB\u4E24\u5C4A\u7684\u8BAE\u5458=-"
+  start: !human_time '00:13:33.070'
+- end: !human_time '00:13:39.540'
+  lines:
+  - "-=\u4E09\u9009\u8BAE\u5458:\u4EFB\u4E09\u5C4A\u7684\u8BAE\u5458=-"
+  start: !human_time '00:13:37.600'
+- end: !human_time '00:13:41.110'
+  lines:
+  - "-=\u56DB\u9009\u8BAE\u5458:\u4EFB\u56DB\u5C4A\u7684\u8BAE\u5458=-"
+  start: !human_time '00:13:39.540'
+- end: !human_time '00:15:05.590'
+  lines:
+  - "-=\u515A\u8BBA:\u4EE3\u8868\u515A\u6D3E\u7ACB\u573A\u7684\u8A00\u8BBA\u53CA\u8BBA\
+    \u8C03=-"
+  start: !human_time '00:15:02.190'
+- end: !human_time '00:15:14.270'
+  lines:
+  - "-=\u4E3E\u624B\u673A:\u8D2C\u4F4E\u5F00\u4F1A\u65F6\u6CA1\u6709\u4E3B\u89C1\u6309\
+    \u7167\u522B\u4EBA\u5429\u5490\u4E3E\u624B\u7684\u4EBA=-"
+  start: !human_time '00:15:11.800'
+- end: !human_time '00:46:42.720'
+  lines:
+  - "-=\u6C11\u53CB\u515A\u56FD\u5BB6\u8D22\u653F\u6CD5\u4FEE\u6B63\u6848:\u5077\u6765\
+    \u7684\u901A\u8FC7=-"
+  - "-=\u5F90\u6167\u7433\u8BAE\u5458:\u6267\u653F\u515A\u5185\u552F\u4E001\u7968\u53CD\
+    \u5BF9=-"
+  start: !human_time '00:46:39.050'
