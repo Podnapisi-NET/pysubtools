@@ -135,20 +135,14 @@ class Parser(object):
     raise NoParserError("Could not find parser.")
 
   # Iteration methods
-  def _previous_line(self):
-    self._current_line_num -= 1
-    self._data.seek(-self._read_lines[self._current_line_num], io.SEEK_CUR)
-    self._current_line = self._data.readline().rstrip()
-
   def _next_line(self):
     line = self._data.readline()
     if not line:
       return False
     self._current_line_num += 1
 
-    if len(self._read_lines) == self._current_line_num:
-      self._read_lines.append(len(line))
-    self._current_line = line
+    self._current_line = line.rstrip()
+    self._read_lines.append(line)
 
     return True
 
@@ -156,12 +150,7 @@ class Parser(object):
     if line > self._current_line_num:
       raise ValueError("Cannot seek forward.")
 
-    offset = self._current_line_num - line
-    offset = sum(self._read_lines[self._current_line_num - offset:self._current_line_num + 1])
-    new_pos = self._data.seek(self._data.tell() - offset)
-    line = self._data.readline().rstrip()
-    self._data.seek(new_pos + offset)
-    return line.rstrip()
+    return self._read_lines[line].rstrip()
 
   def _rewind(self):
     self._current_line_num = -1

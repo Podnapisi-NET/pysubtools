@@ -2,7 +2,7 @@
 - ISO-8859-2
 - - col: 1
     description: !!python/unicode 'New unit starts without a sequence.'
-    line: !!python/unicode "00:00:40,559 --> 00:01:00,859\r\n"
+    line: !!python/unicode '00:00:40,559 --> 00:01:00,859'
     line_number: 1
   - col: 1
     description: !!python/unicode 'Sequence number out of sync'
@@ -2878,11 +2878,11 @@
     line_number: 3079
   - col: 1
     description: !!python/unicode 'Duplicated time information, ignoring.'
-    line: !!python/unicode "01:00:41,037 --> 01:00:42,629\r\n"
+    line: !!python/unicode '01:00:41,037 --> 01:00:42,629'
     line_number: 3083
   - col: 1
     description: !!python/unicode 'Duplicated time information, ignoring.'
-    line: !!python/unicode "01:15:03,690 --> 01:15:04,657\r\n"
+    line: !!python/unicode '01:15:03,690 --> 01:15:04,657'
     line_number: 3694
   - col: 1
     description: !!python/unicode 'Sequence number out of sync'

@@ -5936,7 +5936,7 @@
     description: !!python/unicode 'Used dot as decimal separator instead of comma.'
     line: !!python/unicode '01:27:10.320 --> 01:27:13.320'
     line_number: 3128
-  - col: 39
+  - col: 37
     description: !!python/unicode 'Missing empty line after unit.'
     line: "to\u0163i aceia care cred cu adev\u0103rat.</i>"
     line_number: 3130

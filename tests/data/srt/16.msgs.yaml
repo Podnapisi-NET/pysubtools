@@ -4718,7 +4718,7 @@
     line_number: 5843
   - col: 1
     description: !!python/unicode 'New unit starts without a sequence.'
-    line: !!python/unicode "01:20:30,760 --> 01:20:33,161\r\n"
+    line: !!python/unicode '01:20:30,760 --> 01:20:33,161'
     line_number: 5848
   - col: 1
     description: !!python/unicode 'Sequence number out of sync'
@@ -5688,7 +5688,7 @@
     description: !!python/unicode 'Sequence number out of sync'
     line: !!python/unicode '1557'
     line_number: 6936
-  - col: 16
+  - col: 14
     description: !!python/unicode 'Missing empty line after unit.'
-    line: "Ah, ah \u266A</i>"
+    line: "\u266A Ah, ah \u266A</i>"
     line_number: 6939

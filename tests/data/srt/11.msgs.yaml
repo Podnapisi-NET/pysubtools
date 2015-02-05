@@ -26,7 +26,7 @@
     line_number: 2118
   - col: 1
     description: !!python/unicode 'New unit starts without a sequence.'
-    line: !!python/unicode "00:46:19,900 --> 00:46:22,500\r\n"
+    line: !!python/unicode '00:46:19,900 --> 00:46:22,500'
     line_number: 2310
   - col: 1
     description: !!python/unicode 'Have empty line between sequence number and timings.'

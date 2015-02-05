@@ -59,9 +59,6 @@ class SubRipStateMachine(object):
   def current_line(self, value):
     self.parser._current_line = value
 
-  def previous_line(self):
-    self.parser._previous_line()
-
   def next_line(self):
     return self.parser._next_line()
 
