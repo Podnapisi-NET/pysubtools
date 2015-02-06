@@ -181,7 +181,7 @@ class MicroDVDParser(Parser):
 
       m = self.FORMAT_RE.match(self._current_line.strip())
       if not m:
-        self.add_error(i + 1, 1, self._current_line, "Could not parse line")
+        raise ParseError(i + 1, 1, self._current_line, "Could not parse line")
       else:
         start, end = int(m.group('start')), int(m.group('end'))
         if fps:
