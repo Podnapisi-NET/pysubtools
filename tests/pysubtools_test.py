@@ -121,9 +121,10 @@ class TestCase(unittest.TestCase):
 
     # Load it and test
     tmpf = GzipFile(tmp, mode = 'rb')
-    assert Subtitle.from_file(tmpf, multi = True) == [subtitle,
-                                                      subtitle2,
-                                                      subtitle3]
+    assert list(Subtitle.from_file_multi(tmpf)) == [subtitle,
+                                                    subtitle2,
+                                                    subtitle3]
+    tmpf.close()
 
     # Remove temp files
     os.unlink(tmp)

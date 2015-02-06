@@ -3,7 +3,28 @@ from __future__ import absolute_import
 import io
 import yaml
 
-class HumanTime(yaml.YAMLObject):
+def prepare_reader(f):
+  try:
+    is_str = isinstance(f, basestring)
+  except NameError:
+    # Python3 compat
+    is_str = isinstance(f, str)
+
+  if is_str:
+    f = io.BufferedReader(io.open(f, 'rb'))
+
+  try:
+    if isinstance(f, file):
+      f = io.BufferedReader(io.FileIO(f.fileno(), closefd = False))
+  except NameError:
+      # No need in Python3
+      pass
+
+  if not isinstance(f, io.BufferedIOBase):
+    raise TypeError("Load method accepts filename or file object.")
+  return io.TextIOWrapper(f)
+
+class HumanTime(yaml.YAMLObject, UnicodeMixin):
   yaml_loader = yaml.SafeLoader
   yaml_dumper = yaml.SafeDumper
 
@@ -441,29 +462,37 @@ class Subtitle(object):
     return cls(**data)
 
   @classmethod
-  def from_file(cls, input, multi = False):
+  def from_file(cls, input):
     """
     Loads a subtitle from file in YAML format. If have multiple documents,
-    set 'multi' to True. Do note, it loads _all_ subtitles at once.
+    set 'multi' to True. Do note, when multi is set to True, this method
+    returns a generator object.
     """
-    if isinstance(input, basestring):
-      input = io.BufferedReader(io.open(input, 'rb'))
-    if isinstance(input, file):
-      input = io.BufferedReader(io.FileIO(input.fileno(), closefd = False))
-    if not isinstance(input, io.BufferedIOBase):
-      raise TypeError("Load method accepts filename or file object.")
-    input = io.TextIOWrapper(input)
+    input = prepare_reader(input)
 
-    if multi:
-      obj = cls.from_multi_yaml(input)
-    else:
-      obj = cls.from_yaml(input)
+    # Read
+    obj = cls.from_yaml(input)
 
     # Detach wrapper
     input.detach()
 
-    # Return our subtitle
-    return obj
+    # Done
+    if obj:
+      return obj
+
+  @classmethod
+  def from_file_multi(cls, input):
+    """Loads multiple subtitles from file 'input'. It returns a generator object."""
+    input = prepare_reader(input)
+
+    for i in cls.from_multi_yaml(input):
+      # Needed to prevent input from closing
+      yield i
+
+    # Detach wrapper
+    input.detach()
+
+    # Done
 
   @classmethod
   def from_yaml(cls, input):
@@ -477,12 +506,8 @@ class Subtitle(object):
   @classmethod
   def from_multi_yaml(cls, input):
     """Loads multiple subtitles from YAML format, uses safe loader."""
-    output = []
     for data in yaml.safe_load_all(input):
-      output.append(cls.from_dict(data))
-
-    # Return our subtitle
-    return output
+      yield cls.from_dict(data)
 
   def dump(self, output = None, human_time = True, allow_unicode = True):
     """Dumps this subtitle in YAML format with safe dumper."""
