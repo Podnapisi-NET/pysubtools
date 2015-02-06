@@ -1,4 +1,7 @@
 from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 
 import io
 import functools
@@ -44,6 +47,7 @@ class Parser(object):
 
   def __init__(self):
     self.warnings = []
+    self._data = None
 
     # Part of the parser internals
     self._read_lines = []
@@ -51,21 +55,34 @@ class Parser(object):
     self._current_line = None
 
   def add_warning(self, e):
+    try:
+      line = unicode(e.line)
+      description = unicode(e.description)
+    except NameError:
+      # Python3 compat
+      line = str(e.line)
+      description = str(e.description)
+
     self.warnings.append({
       'line_number': int(e.line_number),
       'col': int(e.column),
-      'line': unicode(e.line),
-      'description': unicode(e.description)
+      'line': line,
+      'description': description
     })
 
   @staticmethod
   def _normalize_data(data):
-    if isinstance(data, str):
+    try:
+      if isinstance(data, file):
+        data = io.BufferedReader(io.FileIO(data.fileno(), closefd = False))
+    except NameError:
+      # Not needed in Python3
+      pass
+
+    if isinstance(data, bytes):
       data = io.BytesIO(data)
-    elif isinstance(data, file):
-      data = io.BufferedReader(io.FileIO(data.fileno(), closefd = False))
     elif not isinstance(data, (io.BytesIO, io.BufferedReader)):
-      raise TypeError("Needs to be a file object or raw string.")
+      raise TypeError("Needs to be a file object or bytes.")
     data.seek(0)
     return data
 
@@ -133,6 +150,15 @@ class Parser(object):
       if parser.FORMAT == format:
         return parser()
     raise NoParserError("Could not find parser.")
+
+  def __del__(self):
+    # Detach _data
+    if self._data:
+      try:
+        self._data.detach()
+      except ValueError:
+        # We may have an already closed underlying file object
+        pass
 
   # Iteration methods
   def _next_line(self):

@@ -1,4 +1,7 @@
 from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 
 import re
 import io
@@ -256,6 +259,9 @@ class SubRipParser(Parser):
     can = False
     for i in range(0, 10):
       line = data.readline()
+      if isinstance(line, bytes):
+        line = line.decode(errors = 'replace')
+
       can = bool(cls.FORMAT_RE.search(line))
       if can:
         break
@@ -275,7 +281,7 @@ class SubRipParser(Parser):
           yield parsed
         if machine.current_state == machine.finished:
           break
-      except ParseWarning, e:
+      except ParseWarning as e:
         self.add_warning(e)
       except InvalidStateTransition:
         raise ParseError(machine.current_line_num, 1, machine.current_line, "Got invalid state transition in {},"

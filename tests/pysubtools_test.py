@@ -1,4 +1,7 @@
 from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 
 import unittest
 import os
@@ -79,37 +82,37 @@ class TestCase(unittest.TestCase):
     subtitle.add_unit(SubtitleUnit(
       start = 15,
       end   = 30,
-      lines = [u'First line with \u0161']
+      lines = ['First line with \u0161']
     ))
     subtitle.add_unit(SubtitleUnit(
       start = 65,
       end   = 89,
-      lines = [u'Another, but a two liner \u010d',
-               u'Yes, I  said two liner! \u017e']
+      lines = ['Another, but a two liner \u010d',
+               'Yes, I  said two liner! \u017e']
     ))
     subtitle2 = Subtitle()
     subtitle2.add_unit(SubtitleUnit(
       start = 16,
       end   = 31,
-      lines = [u'First line with \u0161']
+      lines = ['First line with \u0161']
     ))
     subtitle2.add_unit(SubtitleUnit(
       start = 66,
       end   = 90,
-      lines = [u'Another, but a two liner \u010d',
-               u'Yes, I  said two liner! \u017e']
+      lines = ['Another, but a two liner \u010d',
+               'Yes, I  said two liner! \u017e']
     ))
     subtitle3 = Subtitle()
     subtitle3.add_unit(SubtitleUnit(
       start = 17,
       end   = 32,
-      lines = [u'First line with \u0161']
+      lines = ['First line with \u0161']
     ))
     subtitle3.add_unit(SubtitleUnit(
       start = 67,
       end   = 91,
-      lines = [u'Another, but a two liner \u010d',
-               u'Yes, I  said two liner! \u017e']
+      lines = ['Another, but a two liner \u010d',
+               'Yes, I  said two liner! \u017e']
     ))
 
     # Write it (several times)
@@ -166,18 +169,18 @@ class TestCase(unittest.TestCase):
     # As fileobj
     sub1 = parser.parse(f)
 
-    # As string
-    f.seek(0)
-    sub2 = parser.parse(f.read())
-
     # As from_data with fileobj
     f.seek(0)
     parser = parser.from_data(f)
     sub3 = parser.parse()
 
-    # As from_data with string
+    # As string
     f.seek(0)
-    parser = parser.from_data(f.read())
+    d = f.read()
+    sub2 = parser.parse(d)
+
+    # As from_data with string
+    parser = parser.from_data(d)
     sub4 = parser.parse()
 
     # All of them must be the same
@@ -186,7 +189,7 @@ class TestCase(unittest.TestCase):
     f = open('./tests/data/corner/encoding_error.srt', 'rb')
     try:
       sub = parser.parse(f)
-    except encodings.EncodingError, e:
+    except encodings.EncodingError as e:
       assert e.tried_encodings == []
 
   def test_subrip_export(self):
@@ -195,19 +198,19 @@ class TestCase(unittest.TestCase):
     subtitle.add_unit(SubtitleUnit(
       start = 15,
       end   = 30,
-      lines = [u'First line with \u0161']
+      lines = ['First line with \u0161']
     ))
     subtitle.add_unit(SubtitleUnit(
       start = 65,
       end   = 89,
-      lines = [u'Another, but a two liner \u010d',
-               u'Yes, I  said two liner! \u017e']
+      lines = ['Another, but a two liner \u010d',
+               'Yes, I  said two liner! \u017e']
     ))
     subtitle.add_unit(SubtitleUnit(
       start = 3665,
       end   = 3689,
-      lines = [u'Another, but a two liner \u010d',
-               u'Yes, I  said two liner! \u017e']
+      lines = ['Another, but a two liner \u010d',
+               'Yes, I  said two liner! \u017e']
     ))
 
     # Construct exporter
@@ -218,7 +221,7 @@ class TestCase(unittest.TestCase):
     exporter.export(buf, subtitle)
 
     # Now, check the outputted subtitle
-    assert buf.getvalue() == """1
+    assert buf.getvalue() == b"""1
 00:00:15,000 --> 00:00:30,000
 First line with \xc5\xa1
 
@@ -238,7 +241,7 @@ Yes, I  said two liner! \xc5\xbe
     exporter = Exporter.from_format('SubRip', encoding = 'cp1250')
     exporter.export(buf, subtitle)
 
-    assert buf.getvalue() == """1
+    assert buf.getvalue() == b"""1
 00:00:15,000 --> 00:00:30,000
 First line with \x9a
 
@@ -257,12 +260,12 @@ Yes, I  said two liner! \x9e
     """Tests API of the subtitle lines."""
     sub = Subtitle()
     sub.append(SubtitleUnit(
-      0, 1, [u'First line', u'Second line']
+      0, 1, ['First line', 'Second line']
     ))
 
     # Check line access
-    assert unicode(sub[0][0]) == u'First line'
-    assert unicode(sub[0][1]) == u'Second line'
+    assert str(sub[0][0]) == 'First line'
+    assert str(sub[0][1]) == 'Second line'
 
     # Add some metadata
     sub[0][0].styles = {
@@ -281,11 +284,11 @@ Yes, I  said two liner! \x9e
     }
 
     # Update lines
-    sub[0][0].text = u'Just a line'
-    sub[0][1].text = u'Just another line'
+    sub[0][0].text = 'Just a line'
+    sub[0][1].text = 'Just another line'
 
-    assert unicode(sub[0][0]) == u'Just a line'
-    assert unicode(sub[0][1]) == u'Just another line'
+    assert str(sub[0][0]) == 'Just a line'
+    assert str(sub[0][1]) == 'Just another line'
 
     # Metadata should still be there
     assert sub[0][0].styles == {

@@ -1,7 +1,11 @@
 from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 
 import io
 import yaml
+from .utils import UnicodeMixin
 
 def prepare_reader(f):
   try:
@@ -28,12 +32,12 @@ class HumanTime(yaml.YAMLObject, UnicodeMixin):
   yaml_loader = yaml.SafeLoader
   yaml_dumper = yaml.SafeDumper
 
-  yaml_tag = u'!human_time'
+  yaml_tag = '!human_time'
 
   def __init__(self, hours = 0, minutes = 0, seconds = 0.):
-    self.hours   = hours
-    self.minutes = minutes
-    self.seconds = seconds
+    self.hours   = int(hours)
+    self.minutes = int(minutes)
+    self.seconds = float(seconds)
 
   @classmethod
   def from_yaml(cls, loader, node):
@@ -45,14 +49,18 @@ class HumanTime(yaml.YAMLObject, UnicodeMixin):
     if isinstance(data, (int, float)):
       data = cls.from_seconds(data)
 
-    return dumper.represent_scalar(u'!human_time', unicode(data))
+    try:
+      return dumper.represent_scalar('!human_time', unicode(data))
+    except NameError:
+      return dumper.represent_scalar('!human_time', str(data))
 
   @classmethod
   def from_seconds(cls, time):
     obj = cls()
-    obj.hours = int(time / 3600)
+    time = float(time)
+    obj.hours = int(time // 3600)
     time -= obj.hours * 3600
-    obj.minutes = int(time / 60)
+    obj.minutes = int(time // 60)
     time -= obj.minutes * 60
     obj.seconds = time
     return obj
@@ -61,7 +69,12 @@ class HumanTime(yaml.YAMLObject, UnicodeMixin):
   def from_string(cls, time):
     obj = cls()
 
-    if isinstance(time, basestring):
+    try:
+      is_str = isinstance(time, basestring)
+    except NameError:
+      is_str = isinstance(time, str)
+
+    if is_str:
       time = time.split(':')
       obj.hours = int(time[0])
       obj.minutes = int(time[1])
@@ -72,9 +85,9 @@ class HumanTime(yaml.YAMLObject, UnicodeMixin):
     return obj
 
   def __unicode__(self):
-    return u'{:02d}:{:02d}:{:06.3f}'.format(self.hours,
-                                            self.minutes,
-                                            self.seconds)
+    return '{:02d}:{:02d}:{:06.3f}'.format(self.hours,
+                                           self.minutes,
+                                           self.seconds)
 
   def __float__(self):
     return self.to_seconds()
@@ -85,11 +98,11 @@ class HumanTime(yaml.YAMLObject, UnicodeMixin):
   def to_seconds(self):
     return self.hours * 3600 + self.minutes * 60 + self.seconds
 
-class Frame(yaml.YAMLObject):
+class Frame(yaml.YAMLObject, UnicodeMixin):
   yaml_loader = yaml.SafeLoader
   yaml_dumper = yaml.SafeDumper
 
-  yaml_tag = u'!frame'
+  yaml_tag = '!frame'
 
   def __init__(self, frame):
     self._frame = frame
@@ -104,7 +117,11 @@ class Frame(yaml.YAMLObject):
     if isinstance(data, int):
       data = cls(data)
 
-    return dumper.represent_scalar(u'!frame', unicode(data._frame))
+    try:
+      return dumper.represent_scalar('!frame', unicode(data._frame))
+    except NameError:
+      # Python3 compat
+      return dumper.represent_scalar('!frame', str(data._frame))
 
   def __int__(self):
     raise ValueError("Cannot convert frame to time without specified FPS.")
@@ -115,6 +132,9 @@ class Frame(yaml.YAMLObject):
   def __eq__(self, value):
     return self._frame == value
 
+  def __hash__(self):
+    return hash(self._frame)
+
   def __gt__(self, value):
     return self._frame > value
 
@@ -124,11 +144,13 @@ class Frame(yaml.YAMLObject):
   def __repr__(self):
     return 'Frame({})'.format(self._frame)
 
-class SubtitleLine(object):
+class SubtitleLine(UnicodeMixin, object):
   """
   Class representing a line inside SubtitleUnit. It acts as an ordinary
   unicode objects, but has an ability to store additional metadata.
   """
+  # Unhashable
+  __hash__ = None
 
   def __init__(self, text, **kwargs):
     self.text = text
@@ -138,7 +160,7 @@ class SubtitleLine(object):
   def export(self):
     """Returns line in format for export."""
     output = dict(self.__dict__)
-    text = output.pop('text', u'').encode('utf8')
+    text = output.pop('text', '').encode('utf8')
     if not output:
       output = text
     else:
@@ -147,7 +169,11 @@ class SubtitleLine(object):
 
   @classmethod
   def from_export(cls, obj):
-    obj['text'] = obj.get('text', '').decode('utf-8')
+    text = obj.get('text', b'')
+    if hasattr(text, 'decode'):
+      # Python3 compat
+      text = text.decode('utf-8')
+    obj['text'] = text
     return cls(**obj)
 
   def __unicode__(self):
@@ -155,7 +181,7 @@ class SubtitleLine(object):
 
   def __repr__(self):
     d = dict(self.__dict__)
-    text = d.pop('text', u'').encode('utf8')
+    text = d.pop('text', '').encode('utf8')
     return "SubtitleLine({}{})".format(
       text,
       (', ' + ', '.join([' = '.join([k, unicode(v).encode('utf-8')]) for k, v in d.items()])) if d else ''
@@ -181,8 +207,14 @@ class SubtitleLines(list):
 
   @staticmethod
   def _validate(value):
-    if isinstance(value, unicode):
-      value = SubtitleLine(value)
+    try:
+      if isinstance(value, unicode):
+        value = SubtitleLine(value)
+    except NameError:
+      # Python3 compat
+      if isinstance(value, str):
+        value = SubtitleLine(value)
+
     if not isinstance(value, SubtitleLine):
       raise TypeError("Subtitle line needs to be unicode instead of '{}'".format(type(value)))
     return value
@@ -197,6 +229,9 @@ class SubtitleLines(list):
 
 class SubtitleUnit(object):
   """Class for holding time and text data of a subtitle unit."""
+  # Unhashable
+  __hash__ = None
+
   def __init__(self, start, end, lines = None, **meta):
     self.start = float(start) if not isinstance(start, Frame) else start
     self.end = float(end) if not isinstance(end, Frame) else end
@@ -232,7 +267,11 @@ class SubtitleUnit(object):
 
   @property
   def lines(self):
-    return map(unicode, self._lines)
+    try:
+      return map(unicode, self._lines)
+    except NameError:
+      # Python3 compat
+      return map(str, self._lines)
 
   @property
   def duration(self):
@@ -340,10 +379,19 @@ class SubtitleUnit(object):
   def from_dict(cls, input):
     """Creates SubtitleUnit from specified 'input' dict."""
     input = dict(input)
+    lines = input.pop('lines', [])
+    try:
+      lines = [
+        i if isinstance(i, unicode) else i.decode('utf-8') if isinstance(i, bytes) else SubtitleLine.from_export(i) for i in lines
+      ]
+    except NameError:
+      # Python3 compat
+      lines = [
+        i if isinstance(i, str) else i.decode('utf-8') if isinstance(i, bytes) else SubtitleLine.from_export(i) for i in lines
+      ]
+
     return cls(
-      lines = SubtitleLines([
-        i.decode('utf-8') if isinstance(i, str) else i if isinstance(i, unicode) else SubtitleLine.from_export(i) for i in input.pop('lines', [])
-      ]),
+      lines = SubtitleLines(lines),
       **input
     )
 
@@ -353,6 +401,9 @@ class Subtitle(object):
 
   To load a subtitle in non-native format, use parsers.Parser.from_data.
   """
+  # Unhashable
+  __hash__ = None
+
   def __init__(self, units = [], **meta):
     self._units = []
     self.__dict__.update(meta)
@@ -438,6 +489,8 @@ class Subtitle(object):
 
   def __eq__(self, other):
     """Proxy for internal storage."""
+    if self.__dict__ != other.__dict__:
+      print(self.__dict__, other.__dict__)
     return self.__dict__ == other.__dict__
 
   def __contains__(self, unit):
@@ -526,14 +579,25 @@ class Subtitle(object):
     Saves the subtitle in native (YAML) format. If 'output' is file object, it will
     be closed if 'close' set to True after save is done.
     """
-    if isinstance(output, basestring):
+    try:
+      is_str = isinstance(output, basestring)
+    except NameError:
+      # Python3 compat
+      is_str = isinstance(output, str)
+
+    if is_str:
       try:
         output = io.BufferedWriter(io.open(output, 'wb'))
       except IOError:
         # TODO Custom exception
         raise
-    if isinstance(output, file):
-      output = io.BufferedWriter(io.FileIO(output.fileno()), closefd = close)
+    try:
+      if isinstance(output, file):
+        output = io.BufferedWriter(io.FileIO(output.fileno()), closefd = close)
+    except NameError:
+      # No need in Python3
+      pass
+
     if not isinstance(output, io.BufferedIOBase):
       raise TypeError("Save method accepts filename or file object.")
     # Put a text wrapper around it

@@ -1,4 +1,7 @@
 from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 
 import io
 
@@ -53,11 +56,23 @@ class Exporter(object):
     if not isinstance(subtitle, Subtitle):
       raise TypeError("Can export only Subtitle objects.")
 
+    try:
+      basestring
+    except NameError:
+      # Python3 compat
+      basestring = str
+
     if isinstance(output, basestring):
       output = io.BufferedWriter(io.open(output, 'wb'))
-    elif isinstance(output, file):
-      output = io.BufferedWriter(io.FileIO(output.fileno(), closefd = False, mode = output.mode))
-    elif not isinstance(output, io.BufferedIOBase):
+
+    try:
+      if isinstance(output, file):
+        output = io.BufferedWriter(io.FileIO(output.fileno(), closefd = False, mode = output.mode))
+    except NameError:
+      # Python3 does not need this
+      pass
+
+    if not isinstance(output, io.BufferedIOBase):
       raise TypeError("Output needs to be a filename, file or BufferedIOBase with write capability.")
 
     # Export subtitle metadata

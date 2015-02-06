@@ -1,4 +1,7 @@
 from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 
 import re
 
@@ -26,6 +29,8 @@ class MicroDVDParser(Parser):
     can = False
     for i in range(0, 10):
       line = data.readline()
+      if isinstance(line, bytes):
+        line = line.decode(errors = 'replace')
       can = bool(cls.FORMAT_RE.search(line))
       if can:
         break
@@ -180,8 +185,8 @@ class MicroDVDParser(Parser):
       else:
         start, end = int(m.group('start')), int(m.group('end'))
         if fps:
-          start /= float(fps)
-          end   /= float(fps)
+          start /= fps
+          end   /= fps
         else:
           start, end = Frame(start), Frame(end)
         # Parse main header
