@@ -20,7 +20,7 @@ class MicroDVDParser(Parser):
   """Parser for SubRip.
   """
   FORMAT = 'MicroDVD'
-  FORMAT_RE = re.compile(r'^\{(?P<start>\d+)\}\{(?P<end>\d+)\}(?P<header>(:?\{[^}]+\})*)(?P<text>.+)$', re.M)
+  FORMAT_RE = re.compile(r'^\{(?P<start>\d+)\}\{(?P<end>\d+)\}(?P<header>(:?\{[^}]+\})*)(?P<text>.*)$', re.M)
   HEADER_RE = re.compile(r'^\{DEFAULT\}(?P<header>(:?\{[^}]+\})*)$')
 
   @classmethod

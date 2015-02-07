@@ -1,0 +1,6891 @@
+---
+units:
+- end: !frame '476'
+  lines:
+  - Finally...
+  start: !frame '438'
+- end: !frame '556'
+  lines:
+  - the warring nations of earth had
+  - forgotten their differences...
+  start: !frame '477'
+- end: !frame '627'
+  lines:
+  - and banded together
+  - to save our planet.
+  start: !frame '557'
+- end: !frame '756'
+  lines:
+  - The United Global Space Force
+  - was searching the galaxy...
+  start: !frame '654'
+- end: !frame '832'
+  lines:
+  - for worlds rich with drinkable
+  - water and breathable air.
+  start: !frame '757'
+- end: !frame '928'
+  lines:
+  - The hypergate was our best hope
+  - to colonize space...
+  start: !frame '849'
+- end: !frame '968'
+  lines:
+  - our best hope for survival.
+  start: !frame '929'
+- end: !frame '1017'
+  lines:
+  - But as we prepared
+  - to launch ourselves...
+  start: !frame '969'
+- end: !frame '1053'
+  lines:
+  - into the black of space...
+  start: !frame '1018'
+- end: !frame '1180'
+  lines:
+  - terrorists, calling themselves
+  - '"The Global Sedition..."'
+  start: !frame '1073'
+- end: !frame '1229'
+  lines:
+  - were preparing to strike.
+  start: !frame '1181'
+- end: !frame '1329'
+  lines:
+  - Subtitles downloaded from Podnapisi.NET
+  start: !frame '1254'
+- end: !frame '1446'
+  lines:
+  - Grissom base, this is Cargo 7
+  - requesting landing clearance.
+  start: !frame '1363'
+- end: !frame '1493'
+  lines:
+  - Roger, transport.
+  - This is Grissom gate control.
+  start: !frame '1446'
+- end: !frame '1521'
+  lines:
+  - Please download security codes.
+  start: !frame '1494'
+- end: !frame '1551'
+  lines:
+  - Downloading.
+  start: !frame '1522'
+- end: !frame '1622'
+  lines:
+  - Transport, I've got two blips
+  - inside your radar signature.
+  start: !frame '1552'
+- end: !frame '1653'
+  lines:
+  - They're hiding in your shadow.
+  start: !frame '1622'
+- end: !frame '1686'
+  lines:
+  - I don't see anything.
+  start: !frame '1654'
+- end: !frame '1875'
+  lines:
+  - This is gate control.
+  - Battle stations.
+  start: !frame '1808'
+- end: !frame '1985'
+  lines:
+  - Battle stations.
+  start: !frame '1954'
+- end: !frame '2052'
+  lines:
+  - Two Sedition fighters
+  - are attacking the hypergate.
+  start: !frame '1986'
+- end: !frame '2086'
+  lines:
+  - Battle stations.
+  start: !frame '2053'
+- end: !frame '2139'
+  lines:
+  - Gate control, this is Eagle One.
+  - I'm locked and loaded.
+  start: !frame '2086'
+- end: !frame '2181'
+  lines:
+  - Ready to fly.
+  start: !frame '2140'
+- end: !frame '2237'
+  lines:
+  - Roger, Eagle One.
+  - You're clear to launch.
+  start: !frame '2182'
+- end: !frame '2395'
+  lines:
+  - Jeb, where are you, buddy?
+  start: !frame '2357'
+- end: !frame '2497'
+  lines:
+  - This cold war just got hot.
+  start: !frame '2433'
+- end: !frame '2532'
+  lines:
+  - They're Sedition raiders.
+  start: !frame '2498'
+- end: !frame '2591'
+  lines:
+  - It's another
+  - mutant suicide squad.
+  start: !frame '2533'
+- end: !frame '2678'
+  lines:
+  - Here we go. Man-to-man.
+  - Split them up.
+  start: !frame '2626'
+- end: !frame '2773'
+  lines:
+  - Last one to kill a bad guy
+  - buys the beer.
+  start: !frame '2679'
+- end: !frame '2901'
+  lines:
+  - I'm gonna go through the gate,
+  - get in front of him.
+  start: !frame '2850'
+- end: !frame '2964'
+  lines:
+  - That's not standard procedure,
+  - Don.
+  start: !frame '2902'
+- end: !frame '3085'
+  lines:
+  - I'm gettin' some heat.
+  start: !frame '3049'
+- end: !frame '3352'
+  lines:
+  - You gen-techs are ugly up close.
+  start: !frame '3311'
+- end: !frame '3386'
+  lines:
+  - Target lock.
+  start: !frame '3353'
+- end: !frame '3415'
+  lines:
+  - Show time.
+  start: !frame '3387'
+- end: !frame '3650'
+  lines:
+  - Bogey One dispatched.
+  start: !frame '3606'
+- end: !frame '3749'
+  lines:
+  - Don, he's right on my tail.
+  start: !frame '3670'
+- end: !frame '3782'
+  lines:
+  - Damn! Can't shake him.
+  start: !frame '3750'
+- end: !frame '3949'
+  lines:
+  - I've been hit!
+  start: !frame '3918'
+- end: !frame '3979'
+  lines:
+  - Weapons are off-line.
+  start: !frame '3950'
+- end: !frame '4041'
+  lines:
+  - I'm gonna jettison
+  - the main drive core.
+  start: !frame '3999'
+- end: !frame '4072'
+  lines:
+  - There you are.
+  start: !frame '4042'
+- end: !frame '4293'
+  lines:
+  - Am I good or what?
+  start: !frame '4246'
+- end: !frame '4358'
+  lines:
+  - Warning. Failure
+  - in redundant drive systems.
+  start: !frame '4294'
+- end: !frame '4415'
+  lines:
+  - Gate control,
+  - this is Ranger One.
+  start: !frame '4359'
+- end: !frame '4458'
+  lines:
+  - Engines will not respond.
+  start: !frame '4416'
+- end: !frame '4566'
+  lines:
+  - Don, I'm falling
+  - towards the hypergate.
+  start: !frame '4481'
+- end: !frame '4619'
+  lines:
+  - Breaking thrusters won't fire!
+  start: !frame '4567'
+- end: !frame '4690'
+  lines:
+  - Impact in 30 seconds.
+  start: !frame '4630'
+- end: !frame '4722'
+  lines:
+  - Ranger One, this is base.
+  start: !frame '4690'
+- end: !frame '4776'
+  lines:
+  - Rescue craft
+  - have been dispatched.
+  start: !frame '4723'
+- end: !frame '4906'
+  lines:
+  - Grissom, those pods will never
+  - reach him in time.
+  start: !frame '4821'
+- end: !frame '4935'
+  lines:
+  - I'm going in.
+  start: !frame '4907'
+- end: !frame '5003'
+  lines:
+  - Major West, you are not
+  - authorized to jeopardize--
+  start: !frame '4936'
+- end: !frame '5043'
+  lines:
+  - Never liked that station anyway.
+  start: !frame '5004'
+- end: !frame '5122'
+  lines:
+  - Warning. Proximity alert.
+  start: !frame '5044'
+- end: !frame '5246'
+  lines:
+  - Hang on, Jeb. I'm coming in.
+  start: !frame '5219'
+- end: !frame '5311'
+  lines:
+  - Abort. Abort!
+  start: !frame '5247'
+- end: !frame '5385'
+  lines:
+  - I'll give you a little kiss.
+  - Don't take this the wrong way.
+  start: !frame '5312'
+- end: !frame '5441'
+  lines:
+  - Impact in five seconds.
+  start: !frame '5386'
+- end: !frame '5946'
+  lines:
+  - Does this mean
+  - we're going steady?
+  start: !frame '5898'
+- end: !frame '6018'
+  lines:
+  - You're not getting out
+  - of buying those beers that easy.
+  start: !frame '5946'
+- end: !frame '6409'
+  lines:
+  - With intrepid pioneering spirit,
+  - the Robinson family...
+  start: !frame '6346'
+- end: !frame '6479'
+  lines:
+  - will journey to the distant
+  - world of Alpha Prime.
+  start: !frame '6410'
+- end: !frame '6553'
+  lines:
+  - What kind of future can
+  - our children look forward to?
+  start: !frame '6480'
+- end: !frame '6605'
+  lines:
+  - A future in paradise.
+  start: !frame '6554'
+- end: !frame '6638'
+  lines:
+  - The Jupiter mission...
+  start: !frame '6606'
+- end: !frame '6725'
+  lines:
+  - made possible by the Army and
+  - Silicon Graphics Corporation.
+  start: !frame '6638'
+- end: !frame '6830'
+  lines:
+  - S.G.I. Saving the future
+  - for our children.
+  start: !frame '6726'
+- end: !frame '6880'
+  lines:
+  - Give me a break.
+  start: !frame '6831'
+- end: !frame '6935'
+  lines:
+  - Holo-call
+  - from Houston middle school.
+  start: !frame '6881'
+- end: !frame '6965'
+  lines:
+  - Hello?
+  start: !frame '6936'
+- end: !frame '7010'
+  lines:
+  - Hello, Principal Cartwright.
+  start: !frame '6966'
+- end: !frame '7061'
+  lines:
+  - What has he done this time?
+  start: !frame '7010'
+- end: !frame '7168'
+  lines:
+  - He hacked our main power grid
+  - to run his experiment.
+  start: !frame '7062'
+- end: !frame '7227'
+  lines:
+  - The school was in chaos.
+  start: !frame '7188'
+- end: !frame '7277'
+  lines:
+  - Yeah, right.
+  start: !frame '7242'
+- end: !frame '7326'
+  lines:
+  - We didn't even have lights.
+  start: !frame '7278'
+- end: !frame '7505'
+  lines:
+  - This is no laughing matter,
+  - Professor Robinson.
+  start: !frame '7417'
+- end: !frame '7590'
+  lines:
+  - Will is terribly gifted.
+  start: !frame '7506'
+- end: !frame '7658'
+  lines:
+  - The changing shape of education.
+  start: !frame '7591'
+- end: !frame '7730'
+  lines:
+  - His little time machines,
+  - though pure fancy...
+  start: !frame '7658'
+- end: !frame '7802'
+  lines:
+  - are the products
+  - of a truly brilliant mind.
+  start: !frame '7730'
+- end: !frame '7889'
+  lines:
+  - No more monkey business.
+  start: !frame '7845'
+- end: !frame '7932'
+  lines:
+  - I mean it.
+  start: !frame '7890'
+- end: !frame '7995'
+  lines:
+  - The boy is starved
+  - for attention.
+  start: !frame '7933'
+- end: !frame '8076'
+  lines:
+  - I know your life is anything
+  - but normal right now...
+  start: !frame '7996'
+- end: !frame '8120'
+  lines:
+  - but wasn't there some way...
+  start: !frame '8077'
+- end: !frame '8202'
+  lines:
+  - his father could have
+  - attended the science fair?
+  start: !frame '8121'
+- end: !frame '8250'
+  lines:
+  - As you are aware...
+  start: !frame '8203'
+- end: !frame '8322'
+  lines:
+  - Alpha Prime is the only other
+  - habitable planet...
+  start: !frame '8251'
+- end: !frame '8416'
+  lines:
+  - yet detected
+  - by deep space recon.
+  start: !frame '8323'
+- end: !frame '8524'
+  lines:
+  - My crew will sleep away
+  - our 10-year journey there...
+  start: !frame '8439'
+- end: !frame '8569'
+  lines:
+  - in suspended animation.
+  start: !frame '8525'
+- end: !frame '8670'
+  lines:
+  - Once we have rendezvoused with
+  - the research colony on Alpha...
+  start: !frame '8593'
+- end: !frame '8736'
+  lines:
+  - I will supervise
+  - construction of a hypergate.
+  start: !frame '8671'
+- end: !frame '8812'
+  lines:
+  - By then,
+  - technicians here on Earth...
+  start: !frame '8737'
+- end: !frame '8893'
+  lines:
+  - will have completed
+  - the companion hypergate...
+  start: !frame '8813'
+- end: !frame '8945'
+  lines:
+  - in our planet's orbit.
+  start: !frame '8894'
+- end: !frame '9026'
+  lines:
+  - Once both gates are complete...
+  start: !frame '8983'
+- end: !frame '9162'
+  lines:
+  - ships will be able to pass
+  - instantaneously between them.
+  start: !frame '9051'
+- end: !frame '9254'
+  lines:
+  - Immediate colonization
+  - of Alpha Prime will be possible.
+  start: !frame '9163'
+- end: !frame '9330'
+  lines:
+  - Can't you just use
+  - the Jupiter's hyper-engine...
+  start: !frame '9255'
+- end: !frame '9377'
+  lines:
+  - to zap straight to Alpha Prime?
+  start: !frame '9331'
+- end: !frame '9462'
+  lines:
+  - Hyperspace exists
+  - beneath normal space.
+  start: !frame '9394'
+- end: !frame '9546'
+  lines:
+  - If you try to enter hyperspace
+  - without a gate...
+  start: !frame '9463'
+- end: !frame '9610'
+  lines:
+  - your exit factor is random.
+  start: !frame '9568'
+- end: !frame '9654'
+  lines:
+  - There's no telling
+  - where you'd come out.
+  start: !frame '9611'
+- end: !frame '9746'
+  lines:
+  - Ninety-eight percent of
+  - the galaxy is still uncharted.
+  start: !frame '9674'
+- end: !frame '9815'
+  lines:
+  - There's a lot of space
+  - to get lost in.
+  start: !frame '9747'
+- end: !frame '9929'
+  lines:
+  - How is Captain Daniels
+  - recovering from the flu?
+  start: !frame '9867'
+- end: !frame '9974'
+  lines:
+  - Will he pilot the mission?
+  start: !frame '9930'
+- end: !frame '10026'
+  lines:
+  - Ladies and gentlemen.
+  start: !frame '9975'
+- end: !frame '10127'
+  lines:
+  - You came to get your first look
+  - at the Jupiter 1.
+  start: !frame '10027'
+- end: !frame '10169'
+  lines:
+  - Don't you think
+  - you've waited long enough?
+  start: !frame '10128'
+- end: !frame '10238'
+  lines:
+  - Let's move into the launch dome.
+  start: !frame '10194'
+- end: !frame '10272'
+  lines:
+  - One more question, Professor.
+  start: !frame '10238'
+- end: !frame '10338'
+  lines:
+  - Now that the mission's
+  - been pushed up...
+  start: !frame '10273'
+- end: !frame '10410'
+  lines:
+  - how do your children feel
+  - about leaving the earth behind?
+  start: !frame '10339'
+- end: !frame '10473'
+  lines:
+  - They couldn't be more excited.
+  start: !frame '10411'
+- end: !frame '10551'
+  lines:
+  - This mission sucks!
+  start: !frame '10500'
+- end: !frame '10610'
+  lines:
+  - I don't wanna leave early.
+  - I don't wanna go at all.
+  start: !frame '10552'
+- end: !frame '10644'
+  lines:
+  - We will discuss this at dinner.
+  start: !frame '10611'
+- end: !frame '10753'
+  lines:
+  - For the last three years, I've
+  - missed everything training...
+  start: !frame '10673'
+- end: !frame '10821'
+  lines:
+  - so I can spend the next 10 years
+  - missing everything else.
+  start: !frame '10754'
+- end: !frame '10898'
+  lines:
+  - I'm not staying home for dinner.
+  start: !frame '10850'
+- end: !frame '10935'
+  lines:
+  - I'm seeing my friends.
+  start: !frame '10898'
+- end: !frame '10979'
+  lines:
+  - Penny.
+  start: !frame '10936'
+- end: !frame '11070'
+  lines:
+  - I'm going out to say good-bye
+  - to my entire life.
+  start: !frame '10980'
+- end: !frame '11161'
+  lines:
+  - Penny, I need you here tonight.
+  - Wait a minute.
+  start: !frame '11094'
+- end: !frame '11429'
+  lines:
+  - On this eve, before she's torn
+  - from everything she knows--
+  start: !frame '11334'
+- end: !frame '11477'
+  lines:
+  - kidnapped...
+  start: !frame '11430'
+- end: !frame '11553'
+  lines:
+  - hurled into deep space
+  - against her will--
+  start: !frame '11478'
+- end: !frame '11631'
+  lines:
+  - what thoughts fill the mind
+  - of the daring space captive?
+  start: !frame '11554'
+- end: !frame '11674'
+  lines:
+  - Are there boys on Alpha Prime?
+  start: !frame '11632'
+- end: !frame '11718'
+  lines:
+  - What will I wear?
+  start: !frame '11675'
+- end: !frame '11881'
+  lines:
+  - What will it be like to jettison
+  - your body into deep space?
+  start: !frame '11792'
+- end: !frame '12003'
+  lines:
+  - First...
+  - you'll try holding your breath.
+  start: !frame '11915'
+- end: !frame '12084'
+  lines:
+  - But your blood's
+  - already begun to boil.
+  start: !frame '12004'
+- end: !frame '12200'
+  lines:
+  - Then your skin inflates
+  - like a balloon.
+  start: !frame '12085'
+- end: !frame '12262'
+  lines:
+  - Then...pop.
+  start: !frame '12201'
+- end: !frame '12309'
+  lines:
+  - Do they have a name
+  - for what's wrong with you?
+  start: !frame '12263'
+- end: !frame '12441'
+  lines:
+  - Dad says don't bring them.
+  start: !frame '12400'
+- end: !frame '12499'
+  lines:
+  - Like anything I do
+  - matters to him.
+  start: !frame '12442'
+- end: !frame '12554'
+  lines:
+  - Don't sweat it, kid.
+  start: !frame '12500'
+- end: !frame '12650'
+  lines:
+  - I got apology videos
+  - for two birthdays.
+  start: !frame '12555'
+- end: !frame '12708'
+  lines:
+  - He forgot last year completely.
+  start: !frame '12651'
+- end: !frame '12799'
+  lines:
+  - This mission's the only thing
+  - he cares about anymore.
+  start: !frame '12734'
+- end: !frame '12998'
+  lines:
+  - So that's a no to family dinner?
+  start: !frame '12951'
+- end: !frame '13042'
+  lines:
+  - Let's see.
+  start: !frame '12998'
+- end: !frame '13091'
+  lines:
+  - Do I spend my last night
+  - on Earth...
+  start: !frame '13043'
+- end: !frame '13177'
+  lines:
+  - watching Mom and Dad pretend
+  - not to be fighting again...
+  start: !frame '13092'
+- end: !frame '13249'
+  lines:
+  - or blow 10 years worth
+  - of allowance at the mall?
+  start: !frame '13178'
+- end: !frame '13322'
+  lines:
+  - You do the math.
+  start: !frame '13286'
+- end: !frame '13354'
+  lines:
+  - Mom's gonna go thermal.
+  start: !frame '13323'
+- end: !frame '13424'
+  lines:
+  - What's she gonna do,
+  - ground me?
+  start: !frame '13378'
+- end: !frame '13526'
+  lines:
+  - I'm nervous about jamming in
+  - a new pilot the last second.
+  start: !frame '13456'
+- end: !frame '13577'
+  lines:
+  - The Global Sedition
+  - is getting brave.
+  start: !frame '13527'
+- end: !frame '13629'
+  lines:
+  - First the hypergate,
+  - then Daniels.
+  start: !frame '13578'
+- end: !frame '13686'
+  lines:
+  - Next time, they may attack
+  - the launch dome.
+  start: !frame '13630'
+- end: !frame '13722'
+  lines:
+  - We can't afford to wait.
+  start: !frame '13686'
+- end: !frame '13820'
+  lines:
+  - Will's science fair. Reminder.
+  - Apology video for Will.
+  start: !frame '13723'
+- end: !frame '13849'
+  lines:
+  - He'll understand.
+  start: !frame '13821'
+- end: !frame '13886'
+  lines:
+  - Ben, listen.
+  start: !frame '13850'
+- end: !frame '13966'
+  lines:
+  - My family is on this mission.
+  start: !frame '13887'
+- end: !frame '14024'
+  lines:
+  - I need a pilot who's
+  - more than just spit and polish.
+  start: !frame '13966'
+- end: !frame '14068'
+  lines:
+  - I've got your man.
+  start: !frame '14025'
+- end: !frame '14113'
+  lines:
+  - He just doesn't know it yet.
+  start: !frame '14069'
+- end: !frame '14269'
+  lines:
+  - At ease, Major.
+  start: !frame '14242'
+- end: !frame '14316'
+  lines:
+  - Why was I pulled
+  - from active duty?
+  start: !frame '14270'
+- end: !frame '14352'
+  lines:
+  - Those gen-techs
+  - may attack again.
+  start: !frame '14317'
+- end: !frame '14404'
+  lines:
+  - I need to be up there.
+  start: !frame '14376'
+- end: !frame '14446'
+  lines:
+  - Do you know Professor Robinson?
+  start: !frame '14405'
+- end: !frame '14533'
+  lines:
+  - By reputation. Your father's
+  - battle strategies...
+  start: !frame '14447'
+- end: !frame '14583'
+  lines:
+  - were required reading
+  - at the academy.
+  start: !frame '14534'
+- end: !frame '14662'
+  lines:
+  - What can you tell me
+  - about the Jupiter mission?
+  start: !frame '14602'
+- end: !frame '14740'
+  lines:
+  - The Jupiter
+  - is an oversized robot.
+  start: !frame '14698'
+- end: !frame '14794'
+  lines:
+  - Everything's automatic.
+  start: !frame '14760'
+- end: !frame '14869'
+  lines:
+  - Any monkey in a flight suit...
+  start: !frame '14834'
+- end: !frame '14925'
+  lines:
+  - can pilot that ship
+  - out of the solar system...
+  start: !frame '14870'
+- end: !frame '14977'
+  lines:
+  - and set her down on Alpha Prime.
+  start: !frame '14926'
+- end: !frame '15048'
+  lines:
+  - It's a baby-sitting job, sir.
+  start: !frame '14978'
+- end: !frame '15081'
+  lines:
+  - No offense.
+  start: !frame '15049'
+- end: !frame '15183'
+  lines:
+  - Major, are you aware Earth's
+  - resources are severely limited?
+  start: !frame '15082'
+- end: !frame '15215'
+  lines:
+  - Every schoolchild knows...
+  start: !frame '15184'
+- end: !frame '15286'
+  lines:
+  - that our recycling technologies
+  - will cure the environment.
+  start: !frame '15216'
+- end: !frame '15359'
+  lines:
+  - Sending a family
+  - across the galaxy...
+  start: !frame '15314'
+- end: !frame '15445'
+  lines:
+  - is a stunt to sell computers
+  - to people of all ages.
+  start: !frame '15360'
+- end: !frame '15485'
+  lines:
+  - Every schoolchild was lied to.
+  start: !frame '15446'
+- end: !frame '15552'
+  lines:
+  - Recycling technologies
+  - came too late.
+  start: !frame '15486'
+- end: !frame '15625'
+  lines:
+  - All fossil fuels
+  - are virtually exhausted.
+  start: !frame '15553'
+- end: !frame '15689'
+  lines:
+  - The ozone layer is down to 40 % .
+  start: !frame '15626'
+- end: !frame '15836'
+  lines:
+  - In two decades, the earth will
+  - be unable to support human life.
+  start: !frame '15690'
+- end: !frame '15915'
+  lines:
+  - The new Global Sedition knows
+  - the truth as well as we do.
+  start: !frame '15837'
+- end: !frame '15963'
+  lines:
+  - They're building
+  - their own hypergate.
+  start: !frame '15916'
+- end: !frame '16035'
+  lines:
+  - They hope to colonize
+  - Alpha Prime first.
+  start: !frame '15964'
+- end: !frame '16080'
+  lines:
+  - If they're successful...
+  start: !frame '16036'
+- end: !frame '16138'
+  lines:
+  - western demons like you and I,
+  - Major West...
+  start: !frame '16081'
+- end: !frame '16190'
+  lines:
+  - will be left on Earth to die.
+  start: !frame '16139'
+- end: !frame '16249'
+  lines:
+  - Captain Daniels doesn't have
+  - the flu, does he?
+  start: !frame '16191'
+- end: !frame '16335'
+  lines:
+  - Captain Daniels was murdered
+  - in his apartment last night.
+  start: !frame '16250'
+- end: !frame '16387'
+  lines:
+  - The flu story is a cover.
+  start: !frame '16336'
+- end: !frame '16441'
+  lines:
+  - I flew with Mike.
+  start: !frame '16388'
+- end: !frame '16529'
+  lines:
+  - We should blast their bases!
+  - A decisive strike now!
+  start: !frame '16456'
+- end: !frame '16565'
+  lines:
+  - My squadron is alert status--
+  start: !frame '16530'
+- end: !frame '16624'
+  lines:
+  - Your rescue stunt was foolhardy!
+  start: !frame '16566'
+- end: !frame '16666'
+  lines:
+  - I had a friend in trouble.
+  start: !frame '16625'
+- end: !frame '16726'
+  lines:
+  - So you endangered
+  - a $10-billion spacecraft...
+  start: !frame '16667'
+- end: !frame '16789'
+  lines:
+  - disobeyed a direct order
+  - because of a friend?
+  start: !frame '16727'
+- end: !frame '16854'
+  lines:
+  - I did...
+  start: !frame '16826'
+- end: !frame '16910'
+  lines:
+  - sir.
+  start: !frame '16882'
+- end: !frame '16997'
+  lines:
+  - He'll do.
+  start: !frame '16969'
+- end: !frame '17149'
+  lines:
+  - Congratulations.
+  start: !frame '17110'
+- end: !frame '17209'
+  lines:
+  - You're the new pilot
+  - of the Jupiter mission.
+  start: !frame '17150'
+- end: !frame '17343'
+  lines:
+  - Where's my money?
+  start: !frame '17266'
+- end: !frame '17519'
+  lines:
+  - The Sedition hired me
+  - to provide access...
+  start: !frame '17462'
+- end: !frame '17581'
+  lines:
+  - to Daniels' apartment
+  - and no more.
+  start: !frame '17520'
+- end: !frame '17633'
+  lines:
+  - My work is done.
+  start: !frame '17582'
+- end: !frame '17708'
+  lines:
+  - They found a replacement pilot.
+  start: !frame '17659'
+- end: !frame '17762'
+  lines:
+  - Our attack
+  - on the hypergate failed.
+  start: !frame '17709'
+- end: !frame '17810'
+  lines:
+  - How tragic for you.
+  start: !frame '17763'
+- end: !frame '17937'
+  lines:
+  - We require a more direct
+  - intervention on your part.
+  start: !frame '17841'
+- end: !frame '17974'
+  lines:
+  - I see.
+  start: !frame '17938'
+- end: !frame '18083'
+  lines:
+  - It will cost you.
+  start: !frame '18035'
+- end: !frame '18214'
+  lines:
+  - I'm afraid that my price
+  - has just become...
+  start: !frame '18119'
+- end: !frame '18255'
+  lines:
+  - astronomical.
+  start: !frame '18215'
+- end: !frame '18324'
+  lines:
+  - Holograph off.
+  start: !frame '18291'
+- end: !frame '18578'
+  lines:
+  - Come in.
+  start: !frame '18550'
+- end: !frame '18789'
+  lines:
+  - Control hasn't received
+  - results of the preflight exams.
+  start: !frame '18700'
+- end: !frame '18858'
+  lines:
+  - The Robinsons
+  - have checked out 100 % .
+  start: !frame '18790'
+- end: !frame '19008'
+  lines:
+  - They're fit as a fiddle
+  - and ready to fly.
+  start: !frame '18935'
+- end: !frame '19037'
+  lines:
+  - Wish them luck...
+  start: !frame '19009'
+- end: !frame '19097'
+  lines:
+  - for me.
+  start: !frame '19062'
+- end: !frame '19328'
+  lines:
+  - Mission protocols are simple.
+  - Robinson is in command...
+  start: !frame '19243'
+- end: !frame '19365'
+  lines:
+  - unless you encounter
+  - a military emergency.
+  start: !frame '19329'
+- end: !frame '19419'
+  lines:
+  - In that case, Major West,
+  - you are in charge.
+  start: !frame '19366'
+- end: !frame '19490'
+  lines:
+  - I'm a fighter pilot.
+  - There must be better candidates.
+  start: !frame '19420'
+- end: !frame '19550'
+  lines:
+  - Hell, even my own family
+  - can't stand me.
+  start: !frame '19490'
+- end: !frame '19586'
+  lines:
+  - Shut up.
+  start: !frame '19551'
+- end: !frame '19719'
+  lines:
+  - Jeb Walker.
+  - He's an excellent flyer.
+  start: !frame '19653'
+- end: !frame '19753'
+  lines:
+  - He's perfect for this mission.
+  start: !frame '19720'
+- end: !frame '19789'
+  lines:
+  - Welcome aboard, Major.
+  start: !frame '19754'
+- end: !frame '20278'
+  lines:
+  - Looks like somebody sprung
+  - for the full-extras package...
+  start: !frame '20226'
+- end: !frame '20311'
+  lines:
+  - on this beauty.
+  start: !frame '20279'
+- end: !frame '20413'
+  lines:
+  - If you have to be a baby-sitter,
+  - it's not such a bad nursery.
+  start: !frame '20312'
+- end: !frame '20456'
+  lines:
+  - Wouldn't you agree?
+  start: !frame '20414'
+- end: !frame '20520'
+  lines:
+  - I don't get it.
+  start: !frame '20492'
+- end: !frame '20595'
+  lines:
+  - I can't get the cryo-sleep
+  - systems up over 96 % .
+  start: !frame '20521'
+- end: !frame '20647'
+  lines:
+  - Dr. Smith approved the specs.
+  start: !frame '20596'
+- end: !frame '20739'
+  lines:
+  - Dr. Smith is the base physician.
+  - I am responsible in flight.
+  start: !frame '20648'
+- end: !frame '20798'
+  lines:
+  - These tubes will be perfect,
+  - or the ship will not launch.
+  start: !frame '20740'
+- end: !frame '20825'
+  lines:
+  - Is that clear?
+  start: !frame '20798'
+- end: !frame '20890'
+  lines:
+  - Absolutely, Doctor.
+  start: !frame '20826'
+- end: !frame '20988'
+  lines:
+  - Judy, I want to introduce you
+  - to Major West.
+  start: !frame '20891'
+- end: !frame '21030'
+  lines:
+  - He'll be taking Mike's place.
+  start: !frame '20989'
+- end: !frame '21156'
+  lines:
+  - He's heavier than Mike.
+  - We'll have to recalibrate.
+  start: !frame '21100'
+- end: !frame '21239'
+  lines:
+  - I'd be happy to discuss
+  - my dimensions, Doctor...
+  start: !frame '21173'
+- end: !frame '21276'
+  lines:
+  - say, over dinner?
+  start: !frame '21240'
+- end: !frame '21348'
+  lines:
+  - West.
+  - I've read about you.
+  start: !frame '21300'
+- end: !frame '21392'
+  lines:
+  - You're a war hero, aren't you?
+  start: !frame '21349'
+- end: !frame '21452'
+  lines:
+  - Well, yes, actually.
+  start: !frame '21393'
+- end: !frame '21560'
+  lines:
+  - Who was it who said,
+  - '"Those who can''t think, fight"?'
+  start: !frame '21476'
+- end: !frame '21642'
+  lines:
+  - I think that it was me.
+  start: !frame '21584'
+- end: !frame '21686'
+  lines:
+  - It was nice to have met you.
+  start: !frame '21642'
+- end: !frame '21876'
+  lines:
+  - That's one cold fish
+  - I'd love to thaw.
+  start: !frame '21798'
+- end: !frame '21979'
+  lines:
+  - I'm not gonna make it over
+  - for dinner tonight, Dad.
+  start: !frame '21904'
+- end: !frame '22262'
+  lines:
+  - It's gonna be a long flight.
+  start: !frame '22225'
+- end: !frame '22365'
+  lines:
+  - Maureen, pick up the phone,
+  - honey.
+  start: !frame '22315'
+- end: !frame '22405'
+  lines:
+  - I know you're there.
+  - Are you still packing?
+  start: !frame '22366'
+- end: !frame '22441'
+  lines:
+  - I'm just leaving.
+  - Go to bed.
+  start: !frame '22406'
+- end: !frame '22770'
+  lines:
+  - Sweetie?
+  start: !frame '22742'
+- end: !frame '23006'
+  lines:
+  - He won first prize again.
+  start: !frame '22962'
+- end: !frame '23064'
+  lines:
+  - Is this the new model
+  - he's been working on?
+  start: !frame '23007'
+- end: !frame '23236'
+  lines:
+  - Crazy idea he's got about a...
+  start: !frame '23185'
+- end: !frame '23309'
+  lines:
+  - time machine?
+  start: !frame '23262'
+- end: !frame '23425'
+  lines:
+  - Pretty sharp stuff for a midget.
+  start: !frame '23365'
+- end: !frame '23512'
+  lines:
+  - Sorry about dinner.
+  - That new pilot--
+  start: !frame '23461'
+- end: !frame '23548'
+  lines:
+  - John, the family needs you here.
+  start: !frame '23513'
+- end: !frame '23614'
+  lines:
+  - This whole thing
+  - is about family.
+  start: !frame '23549'
+- end: !frame '23680'
+  lines:
+  - My only condition
+  - for accepting this mission...
+  start: !frame '23632'
+- end: !frame '23754'
+  lines:
+  - was that we could bring
+  - the children with us...
+  start: !frame '23681'
+- end: !frame '23785'
+  lines:
+  - not leave them behind...
+  start: !frame '23755'
+- end: !frame '23850'
+  lines:
+  - so future generations
+  - would have a new home.
+  start: !frame '23786'
+- end: !frame '23922'
+  lines:
+  - You're off saving humanity,
+  - so what does it matter...
+  start: !frame '23851'
+- end: !frame '23976'
+  lines:
+  - that Will
+  - has to blackout his school...
+  start: !frame '23922'
+- end: !frame '24028'
+  lines:
+  - to get his father's attention...
+  start: !frame '23977'
+- end: !frame '24127'
+  lines:
+  - Penny's been dragged home
+  - by security 3 nights in a row...
+  start: !frame '24029'
+- end: !frame '24180'
+  lines:
+  - Judy's become a ghost,
+  - like her father?
+  start: !frame '24128'
+- end: !frame '24230'
+  lines:
+  - I have to compensate
+  - for the new launch time.
+  start: !frame '24181'
+- end: !frame '24275'
+  lines:
+  - What do you think I'm doing?
+  start: !frame '24231'
+- end: !frame '24309'
+  lines:
+  - Revising life-science protocols.
+  start: !frame '24276'
+- end: !frame '24357'
+  lines:
+  - I'm also dealing
+  - with two kids...
+  start: !frame '24310'
+- end: !frame '24420'
+  lines:
+  - who are leaving
+  - an entire planet behind.
+  start: !frame '24358'
+- end: !frame '24511'
+  lines:
+  - Sorry, but there's no manuals
+  - on how to deal with this.
+  start: !frame '24421'
+- end: !frame '24643'
+  lines:
+  - Maybe it doesn't do any good...
+  start: !frame '24594'
+- end: !frame '24811'
+  lines:
+  - saving a world of families
+  - if we can't save our own.
+  start: !frame '24723'
+- end: !frame '24923'
+  lines:
+  - Is that it, Professor?
+  start: !frame '24888'
+- end: !frame '25066'
+  lines:
+  - John.
+  start: !frame '25039'
+- end: !frame '25119'
+  lines:
+  - I know, baby.
+  - I'm scared, too.
+  start: !frame '25067'
+- end: !frame '25874'
+  lines:
+  - Med supplies for the Jupiter 2?
+  start: !frame '25830'
+- end: !frame '25909'
+  lines:
+  - That's what it looks like.
+  start: !frame '25875'
+- end: !frame '25973'
+  lines:
+  - They're not taking any chances.
+  start: !frame '25938'
+- end: !frame '27242'
+  lines:
+  - Forgive me if I forego the kiss,
+  - my sleeping behemoth...
+  start: !frame '27150'
+- end: !frame '27309'
+  lines:
+  - but the time has come to awake.
+  start: !frame '27243'
+- end: !frame '27354'
+  lines:
+  - Robot is on-line.
+  start: !frame '27310'
+- end: !frame '27405'
+  lines:
+  - Reviewing primary directives.
+  start: !frame '27355'
+- end: !frame '27492'
+  lines:
+  - One--
+  - preserve the Robinson family.
+  start: !frame '27406'
+- end: !frame '27545'
+  lines:
+  - Two--
+  - maintain the ship's systems.
+  start: !frame '27493'
+- end: !frame '27645'
+  lines:
+  - Spare me the chatter,
+  - my steely centurion.
+  start: !frame '27546'
+- end: !frame '27757'
+  lines:
+  - Sadly, I fear I have far more
+  - dire deeds in store for you.
+  start: !frame '27646'
+- end: !frame '27829'
+  lines:
+  - Robot is on-line.
+  start: !frame '27782'
+- end: !frame '27876'
+  lines:
+  - Reviewing primary directives.
+  start: !frame '27830'
+- end: !frame '27961'
+  lines:
+  - Sixteen hours into mission,
+  - destroy Robinson family.
+  start: !frame '27877'
+- end: !frame '28022'
+  lines:
+  - Destroy all systems.
+  start: !frame '27962'
+- end: !frame '28082'
+  lines:
+  - That's more like it.
+  start: !frame '28023'
+- end: !frame '28138'
+  lines:
+  - Farewell,
+  - my platinum-plated pal.
+  start: !frame '28082'
+- end: !frame '28257'
+  lines:
+  - Give my regards to oblivion.
+  start: !frame '28204'
+- end: !frame '28570'
+  lines:
+  - Apparently you have completed
+  - your mission on schedule.
+  start: !frame '28460'
+- end: !frame '28663'
+  lines:
+  - I do so admire a spot
+  - of timely terrorism.
+  start: !frame '28571'
+- end: !frame '28735'
+  lines:
+  - I thought I told you
+  - never to call me here.
+  start: !frame '28664'
+- end: !frame '28806'
+  lines:
+  - The transmission signal
+  - will be traced.
+  start: !frame '28736'
+- end: !frame '28903'
+  lines:
+  - I just wanted to express
+  - my most sincere gratitude...
+  start: !frame '28807'
+- end: !frame '28993'
+  lines:
+  - for your unflagging loyalty.
+  start: !frame '28904'
+- end: !frame '29051'
+  lines:
+  - Good work, good doctor...
+  start: !frame '28994'
+- end: !frame '29096'
+  lines:
+  - and good-bye.
+  start: !frame '29052'
+- end: !frame '29569'
+  lines:
+  - Jupiter 1 launch
+  - in three minutes.
+  start: !frame '29478'
+- end: !frame '29608'
+  lines:
+  - Mom, just--
+  start: !frame '29570'
+- end: !frame '29636'
+  lines:
+  - Shoot.
+  start: !frame '29609'
+- end: !frame '29664'
+  lines:
+  - Mom, I'm fine.
+  start: !frame '29637'
+- end: !frame '29700'
+  lines:
+  - That's supposed to be there.
+  start: !frame '29665'
+- end: !frame '29779'
+  lines:
+  - This is almost acceptable.
+  start: !frame '29724'
+- end: !frame '29852'
+  lines:
+  - -Mom, don't.
+  - -What?
+  start: !frame '29803'
+- end: !frame '29913'
+  lines:
+  - Vogue says this will be
+  - the style in 10 years.
+  start: !frame '29853'
+- end: !frame '29951'
+  lines:
+  - Can we cut back on her oxygen...
+  start: !frame '29914'
+- end: !frame '30017'
+  lines:
+  - so she's not so annoying
+  - when she wakes up?
+  start: !frame '29952'
+- end: !frame '30052'
+  lines:
+  - Does he have to wake up at all?
+  start: !frame '30018'
+- end: !frame '30121'
+  lines:
+  - That's it. I'm gonna turn
+  - this spaceship around.
+  start: !frame '30053'
+- end: !frame '30205'
+  lines:
+  - Satellite defense net locked
+  - and a-ok.
+  start: !frame '30122'
+- end: !frame '30885'
+  lines:
+  - -Everything's gonna be fine.
+  - -30 seconds. Mark.
+  start: !frame '30810'
+- end: !frame '30946'
+  lines:
+  - -Hey, there, buddy.
+  - -Com-links encoded and secure.
+  start: !frame '30886'
+- end: !frame '30997'
+  lines:
+  - -Good night, guys.
+  - -Good night.
+  start: !frame '30946'
+- end: !frame '31037'
+  lines:
+  - Here we go.
+  start: !frame '30998'
+- end: !frame '31100'
+  lines:
+  - Artificial gravity at 100 % .
+  start: !frame '31038'
+- end: !frame '31152'
+  lines:
+  - You get a "C"
+  - in paternal expression...
+  start: !frame '31101'
+- end: !frame '31209'
+  lines:
+  - but an "A" for effort.
+  start: !frame '31153'
+- end: !frame '31266'
+  lines:
+  - -I'm doing the best I can.
+  - -Come here.
+  start: !frame '31210'
+- end: !frame '31422'
+  lines:
+  - You always get an "A" in this.
+  start: !frame '31374'
+- end: !frame '31481'
+  lines:
+  - Main drive systems on-line.
+  start: !frame '31422'
+- end: !frame '31526'
+  lines:
+  - Sweet dreams.
+  start: !frame '31482'
+- end: !frame '31558'
+  lines:
+  - See you there.
+  start: !frame '31527'
+- end: !frame '31685'
+  lines:
+  - You are at "T" minus one minute
+  - and counting, Major West.
+  start: !frame '31591'
+- end: !frame '31940'
+  lines:
+  - Houston, the bird is hot.
+  start: !frame '31899'
+- end: !frame '32041'
+  lines:
+  - She's all yours.
+  start: !frame '32012'
+- end: !frame '32143'
+  lines:
+  - I'll try to give you
+  - a smooth ride.
+  start: !frame '32077'
+- end: !frame '32341'
+  lines:
+  - Mission control,
+  - this is Dr. Robinson.
+  start: !frame '32285'
+- end: !frame '32376'
+  lines:
+  - We are in the green.
+  start: !frame '32342'
+- end: !frame '32461'
+  lines:
+  - Roger, Doctor. You are go
+  - to initiate cryo-stasis.
+  start: !frame '32377'
+- end: !frame '32577'
+  lines:
+  - One question.
+  start: !frame '32546'
+- end: !frame '32677'
+  lines:
+  - Is there room
+  - in these tubes for two?
+  start: !frame '32613'
+- end: !frame '32769'
+  lines:
+  - There's barely enough
+  - for you and your ego.
+  start: !frame '32705'
+- end: !frame '32848'
+  lines:
+  - Don't sweat it, doc.
+  start: !frame '32809'
+- end: !frame '32896'
+  lines:
+  - I do this all the time.
+  start: !frame '32849'
+- end: !frame '32937'
+  lines:
+  - Just drive carefully.
+  start: !frame '32897'
+- end: !frame '33061'
+  lines:
+  - You are at "T" minus 40 seconds
+  - and counting.
+  start: !frame '32990'
+- end: !frame '33090'
+  lines:
+  - Ready.
+  start: !frame '33062'
+- end: !frame '33408'
+  lines:
+  - You are at "T" minus
+  - 30 seconds and counting.
+  start: !frame '33323'
+- end: !frame '33798'
+  lines:
+  - You are at "T" minus
+  - 20 seconds and counting.
+  start: !frame '33728'
+- end: !frame '33842'
+  lines:
+  - Control, this is Jupiter 1.
+  start: !frame '33799'
+- end: !frame '33886'
+  lines:
+  - The Robinsons are all tucked in.
+  start: !frame '33843'
+- end: !frame '33917'
+  lines:
+  - We are ready to fly.
+  start: !frame '33887'
+- end: !frame '34014'
+  lines:
+  - Major West, your escape vector
+  - is clear of all traffic.
+  start: !frame '33918'
+- end: !frame '34073'
+  lines:
+  - Op is go on your command.
+  start: !frame '34015'
+- end: !frame '34114'
+  lines:
+  - Roger, Houston.
+  start: !frame '34074'
+- end: !frame '34176'
+  lines:
+  - And the monkey flips the switch.
+  start: !frame '34115'
+- end: !frame '35057'
+  lines:
+  - Jupiter 1 boosters disengaged.
+  start: !frame '34986'
+- end: !frame '35286'
+  lines:
+  - This is Jupiter 2.
+  start: !frame '35242'
+- end: !frame '35369'
+  lines:
+  - Diverting all spacecraft control
+  - to the main computer.
+  start: !frame '35286'
+- end: !frame '35464'
+  lines:
+  - Eight years of flight training.
+  start: !frame '35420'
+- end: !frame '35597'
+  lines:
+  - Navigational holographics
+  - on-line.
+  start: !frame '35526'
+- end: !frame '35637'
+  lines:
+  - Fifty combat missions.
+  start: !frame '35598'
+- end: !frame '35765'
+  lines:
+  - Course confirmed for slingshot
+  - exit of the solar system.
+  start: !frame '35693'
+- end: !frame '35922'
+  lines:
+  - So I can take the family camper
+  - on an interstellar picnic.
+  start: !frame '35826'
+- end: !frame '36052'
+  lines:
+  - Ten years is a lifetime.
+  start: !frame '35992'
+- end: !frame '36126'
+  lines:
+  - Sleep well, old friend.
+  start: !frame '36088'
+- end: !frame '36237'
+  lines:
+  - I never liked
+  - these freezing tubes.
+  start: !frame '36172'
+- end: !frame '36352'
+  lines:
+  - Bad dreams.
+  start: !frame '36320'
+- end: !frame '36635'
+  lines:
+  - Navigational interface
+  - confirmed.
+  start: !frame '36548'
+- end: !frame '36708'
+  lines:
+  - Cryo-sleep systems are 100 % .
+  start: !frame '36636'
+- end: !frame '37701'
+  lines:
+  - Shit!
+  start: !frame '37673'
+- end: !frame '37878'
+  lines:
+  - Robot is on-line.
+  start: !frame '37826'
+- end: !frame '37962'
+  lines:
+  - Sixteen hours into mission,
+  - destroy Robinson family.
+  start: !frame '37879'
+- end: !frame '38011'
+  lines:
+  - Destroy all systems.
+  start: !frame '37962'
+- end: !frame '38075'
+  lines:
+  - Disable program !
+  start: !frame '38012'
+- end: !frame '38147'
+  lines:
+  - Sixteen hours into mission,
+  - destroy Robinson family.
+  start: !frame '38076'
+- end: !frame '38194'
+  lines:
+  - Destroy all systems.
+  start: !frame '38148'
+- end: !frame '38265'
+  lines:
+  - Robot is on-line.
+  start: !frame '38209'
+- end: !frame '38294'
+  lines:
+  - Destroy.
+  start: !frame '38266'
+- end: !frame '38478'
+  lines:
+  - Destroy all operating systems.
+  start: !frame '38404'
+- end: !frame '38532'
+  lines:
+  - Destroy Jupiter 2.
+  start: !frame '38479'
+- end: !frame '38702'
+  lines:
+  - Destroy all operating systems.
+  start: !frame '38630'
+- end: !frame '38751'
+  lines:
+  - Destroy Jupiter 2.
+  start: !frame '38703'
+- end: !frame '38822'
+  lines:
+  - Destroy cryo-sleep systems.
+  start: !frame '38752'
+- end: !frame '38974'
+  lines:
+  - Destroy.
+  start: !frame '38939'
+- end: !frame '39216'
+  lines:
+  - Destroy navigational systems.
+  start: !frame '39170'
+- end: !frame '39339'
+  lines:
+  - Come on!
+  - Wake up, damn you!
+  start: !frame '39279'
+- end: !frame '39474'
+  lines:
+  - I can't stop this infernal
+  - contraption on my own.
+  start: !frame '39395'
+- end: !frame '39688'
+  lines:
+  - Emergency cryo-stasis
+  - desequencing in process.
+  start: !frame '39590'
+- end: !frame '39753'
+  lines:
+  - Destroy all systems.
+  start: !frame '39689'
+- end: !frame '39789'
+  lines:
+  - Destroy Robinson family.
+  start: !frame '39754'
+- end: !frame '39839'
+  lines:
+  - Maureen, the children!
+  start: !frame '39790'
+- end: !frame '39868'
+  lines:
+  - Destroy.
+  start: !frame '39840'
+- end: !frame '39925'
+  lines:
+  - Run!
+  start: !frame '39894'
+- end: !frame '40003'
+  lines:
+  - -Destroy.
+  - -Deactivate safety.
+  start: !frame '39944'
+- end: !frame '40178'
+  lines:
+  - That was a mistake.
+  start: !frame '40115'
+- end: !frame '40442'
+  lines:
+  - Dad!
+  start: !frame '40402'
+- end: !frame '40560'
+  lines:
+  - Mom, let's go!
+  start: !frame '40524'
+- end: !frame '40665'
+  lines:
+  - -Will, stop!
+  - -Destroy.
+  start: !frame '40578'
+- end: !frame '41134'
+  lines:
+  - Destroy Jupiter 2.
+  start: !frame '41095'
+- end: !frame '41282'
+  lines:
+  - Destroy Robinson family.
+  start: !frame '41222'
+- end: !frame '41659'
+  lines:
+  - Look away, baby.
+  start: !frame '41614'
+- end: !frame '41755'
+  lines:
+  - Robot, disable pulse blaster.
+  start: !frame '41693'
+- end: !frame '41783'
+  lines:
+  - Command accepted.
+  start: !frame '41756'
+- end: !frame '41835'
+  lines:
+  - Cancel attack sequence
+  - and stand by.
+  start: !frame '41784'
+- end: !frame '41982'
+  lines:
+  - If the family won't come
+  - to the science fair...
+  start: !frame '41913'
+- end: !frame '42045'
+  lines:
+  - bring the science fair
+  - to the family.
+  start: !frame '41983'
+- end: !frame '42117'
+  lines:
+  - Showoff.
+  start: !frame '42089'
+- end: !frame '42176'
+  lines:
+  - Robot.
+  start: !frame '42142'
+- end: !frame '42227'
+  lines:
+  - On-line. Standing by.
+  start: !frame '42177'
+- end: !frame '42295'
+  lines:
+  - Return to docking bay
+  - and power down.
+  start: !frame '42228'
+- end: !frame '42339'
+  lines:
+  - Major, you all right?
+  start: !frame '42296'
+- end: !frame '42410'
+  lines:
+  - Next picnic, no robots.
+  start: !frame '42340'
+- end: !frame '42475'
+  lines:
+  - Where's Judy?
+  start: !frame '42443'
+- end: !frame '42634'
+  lines:
+  - Stabilize the operating systems.
+  start: !frame '42564'
+- end: !frame '42665'
+  lines:
+  - Fire control.
+  start: !frame '42634'
+- end: !frame '42725'
+  lines:
+  - Attempting
+  - containment protocols.
+  start: !frame '42666'
+- end: !frame '42799'
+  lines:
+  - I want to go home now.
+  start: !frame '42758'
+- end: !frame '42872'
+  lines:
+  - Navigation's down.
+  - System shorts everywhere.
+  start: !frame '42815'
+- end: !frame '42936'
+  lines:
+  - Damn.
+  - Communications are out.
+  start: !frame '42873'
+- end: !frame '42987'
+  lines:
+  - Link up the secondary system.
+  start: !frame '42937'
+- end: !frame '43051'
+  lines:
+  - -Shunting power from reserve.
+  - -Come on.
+  start: !frame '42988'
+- end: !frame '43080'
+  lines:
+  - Try it now.
+  start: !frame '43052'
+- end: !frame '43118'
+  lines:
+  - Navigational boards are lit.
+  start: !frame '43081'
+- end: !frame '43189'
+  lines:
+  - Can we reroute?
+  start: !frame '43144'
+- end: !frame '43239'
+  lines:
+  - I'm locked out of the helm.
+  start: !frame '43190'
+- end: !frame '43285'
+  lines:
+  - Nothing in computer control.
+  start: !frame '43240'
+- end: !frame '43321'
+  lines:
+  - Main com to manual.
+  start: !frame '43286'
+- end: !frame '43374'
+  lines:
+  - See if she'll respond.
+  start: !frame '43322'
+- end: !frame '43453'
+  lines:
+  - The main subroutine won't open.
+  - I'm gonna try remote ops.
+  start: !frame '43375'
+- end: !frame '43545'
+  lines:
+  - Smith!
+  start: !frame '43518'
+- end: !frame '43604'
+  lines:
+  - Get back!
+  - Get away from me!
+  start: !frame '43546'
+- end: !frame '43675'
+  lines:
+  - What the hell
+  - are you doing here?
+  start: !frame '43605'
+- end: !frame '43758'
+  lines:
+  - Major West,
+  - thank God it's you.
+  start: !frame '43676'
+- end: !frame '43821'
+  lines:
+  - I was in here
+  - to do some last minute checks...
+  start: !frame '43759'
+- end: !frame '43849'
+  lines:
+  - and somebody hit me from behind.
+  start: !frame '43822'
+- end: !frame '43894'
+  lines:
+  - That's Sedition technology.
+  start: !frame '43850'
+- end: !frame '43950'
+  lines:
+  - You're the damn spy.
+  start: !frame '43918'
+- end: !frame '43982'
+  lines:
+  - You did this.
+  start: !frame '43951'
+- end: !frame '44073'
+  lines:
+  - What are you doing?
+  start: !frame '44038'
+- end: !frame '44098'
+  lines:
+  - Throwing out the trash!
+  start: !frame '44074'
+- end: !frame '44135'
+  lines:
+  - I need help!
+  start: !frame '44099'
+- end: !frame '44219'
+  lines:
+  - I can't get Judy out!
+  - She's dying!
+  start: !frame '44156'
+- end: !frame '44374'
+  lines:
+  - Touch me,
+  - and the girl dies!
+  start: !frame '44323'
+- end: !frame '44425'
+  lines:
+  - I don't deal with dead men.
+  start: !frame '44375'
+- end: !frame '44465'
+  lines:
+  - Kill me, kill the girl.
+  start: !frame '44426'
+- end: !frame '44545'
+  lines:
+  - How much is your revenge worth?
+  start: !frame '44502'
+- end: !frame '44594'
+  lines:
+  - I can save her life...
+  start: !frame '44546'
+- end: !frame '44681'
+  lines:
+  - only if you give me your word
+  - as an officer you'll spare mine.
+  start: !frame '44595'
+- end: !frame '44826'
+  lines:
+  - -Help her.
+  - -I've got helm control.
+  start: !frame '44743'
+- end: !frame '45109'
+  lines:
+  - We're way off course.
+  start: !frame '45058'
+- end: !frame '45241'
+  lines:
+  - We're caught in the sun's
+  - gravitational pull.
+  start: !frame '45183'
+- end: !frame '45284'
+  lines:
+  - Is that what that big ball is?
+  start: !frame '45242'
+- end: !frame '45466'
+  lines:
+  - We've got four minutes before
+  - the outer hull begins to melt.
+  start: !frame '45384'
+- end: !frame '45539'
+  lines:
+  - I need you to check
+  - on the thruster alignments.
+  start: !frame '45467'
+- end: !frame '45585'
+  lines:
+  - Professor!
+  start: !frame '45540'
+- end: !frame '45631'
+  lines:
+  - I'll try for the Mercury mines.
+  start: !frame '45586'
+- end: !frame '45716'
+  lines:
+  - I'll need Dr. Robinson's
+  - portable gurney.
+  start: !frame '45666'
+- end: !frame '45751'
+  lines:
+  - You'll find it below.
+  start: !frame '45717'
+- end: !frame '45801'
+  lines:
+  - Smith, come on!
+  start: !frame '45752'
+- end: !frame '45926'
+  lines:
+  - You tried to kill my family.
+  start: !frame '45870'
+- end: !frame '45957'
+  lines:
+  - We trusted you.
+  start: !frame '45927'
+- end: !frame '46020'
+  lines:
+  - It's the world behind the world,
+  - Professor Robinson.
+  start: !frame '45958'
+- end: !frame '46111'
+  lines:
+  - Lie once, cheat twice,
+  - and everything becomes clear.
+  start: !frame '46021'
+- end: !frame '46224'
+  lines:
+  - Do not mistake my deception
+  - for a character flaw.
+  start: !frame '46112'
+- end: !frame '46259'
+  lines:
+  - It is a philosophical choice...
+  start: !frame '46225'
+- end: !frame '46330'
+  lines:
+  - that I've found
+  - in a study of the universe.
+  start: !frame '46260'
+- end: !frame '46365'
+  lines:
+  - It is a way of life.
+  start: !frame '46331'
+- end: !frame '46402'
+  lines:
+  - You're a monster.
+  start: !frame '46366'
+- end: !frame '46465'
+  lines:
+  - Perhaps,
+  - but I'm also the only one...
+  start: !frame '46403'
+- end: !frame '46513'
+  lines:
+  - that can save Judy's life.
+  start: !frame '46466'
+- end: !frame '46621'
+  lines:
+  - Penny, precious, I want you to
+  - short the power on my command.
+  start: !frame '46550'
+- end: !frame '46666'
+  lines:
+  - Does he have to call me
+  - precious?
+  start: !frame '46622'
+- end: !frame '46755'
+  lines:
+  - Penny, precious.
+  start: !frame '46722'
+- end: !frame '46824'
+  lines:
+  - Now!
+  start: !frame '46788'
+- end: !frame '46996'
+  lines:
+  - She's not breathing.
+  start: !frame '46950'
+- end: !frame '47047'
+  lines:
+  - Sick bay, move!
+  start: !frame '46997'
+- end: !frame '47080'
+  lines:
+  - The sun won't let us go.
+  start: !frame '47048'
+- end: !frame '47126'
+  lines:
+  - Heat shield breach,
+  - 60 seconds.
+  start: !frame '47081'
+- end: !frame '47154'
+  lines:
+  - I need options, Professor.
+  start: !frame '47127'
+- end: !frame '47205'
+  lines:
+  - We have to divert all power
+  - to the engines.
+  start: !frame '47155'
+- end: !frame '47270'
+  lines:
+  - I'm rerouting life sciences.
+  start: !frame '47222'
+- end: !frame '47324'
+  lines:
+  - Rerouting life support.
+  start: !frame '47271'
+- end: !frame '47373'
+  lines:
+  - Engines at 80 % .
+  start: !frame '47325'
+- end: !frame '47485'
+  lines:
+  - There's no cardiopulmonary
+  - or respiratory functions.
+  start: !frame '47416'
+- end: !frame '47746'
+  lines:
+  - Clear.
+  start: !frame '47713'
+- end: !frame '47821'
+  lines:
+  - Again. Clear.
+  start: !frame '47779'
+- end: !frame '48024'
+  lines:
+  - Alert.
+  start: !frame '47993'
+- end: !frame '48054'
+  lines:
+  - Medical.
+  start: !frame '48025'
+- end: !frame '48116'
+  lines:
+  - Rerouting error.
+  start: !frame '48088'
+- end: !frame '48155'
+  lines:
+  - Systems are crashing.
+  start: !frame '48117'
+- end: !frame '48294'
+  lines:
+  - We're losing her. Do something.
+  start: !frame '48244'
+- end: !frame '48581'
+  lines:
+  - Come on, child.
+  start: !frame '48552'
+- end: !frame '48682'
+  lines:
+  - Put a little heart into it.
+  start: !frame '48628'
+- end: !frame '48744'
+  lines:
+  - The other life I save...
+  start: !frame '48710'
+- end: !frame '48821'
+  lines:
+  - will be my own.
+  start: !frame '48772'
+- end: !frame '48925'
+  lines:
+  - Wake up, baby, please.
+  start: !frame '48849'
+- end: !frame '49037'
+  lines:
+  - That's all the power we've got.
+  start: !frame '48977'
+- end: !frame '49084'
+  lines:
+  - I'm putting the pedal
+  - to the metal. Here goes.
+  start: !frame '49038'
+- end: !frame '49536'
+  lines:
+  - She can't break free.
+  - She doesn't have enough thrust.
+  start: !frame '49453'
+- end: !frame '49606'
+  lines:
+  - There's got to be a way
+  - to get through this.
+  start: !frame '49537'
+- end: !frame '49660'
+  lines:
+  - That's it.
+  start: !frame '49632'
+- end: !frame '49800'
+  lines:
+  - It's working!
+  start: !frame '49773'
+- end: !frame '49842'
+  lines:
+  - What is?
+  start: !frame '49801'
+- end: !frame '49911'
+  lines:
+  - If we can't go around the sun,
+  - we go straight through it...
+  start: !frame '49843'
+- end: !frame '49941'
+  lines:
+  - using your hyperdrive.
+  start: !frame '49912'
+- end: !frame '49999'
+  lines:
+  - Engage the hyperdrive
+  - without a gate?
+  start: !frame '49942'
+- end: !frame '50057'
+  lines:
+  - We could be thrown
+  - anywhere in the galaxy.
+  start: !frame '50000'
+- end: !frame '50086'
+  lines:
+  - Anywhere but here.
+  start: !frame '50058'
+- end: !frame '50282'
+  lines:
+  - On my mark.
+  start: !frame '50229'
+- end: !frame '50464'
+  lines:
+  - Three, two, one, initiate.
+  start: !frame '50395'
+- end: !frame '51096'
+  lines:
+  - Hyperdrive at 100 % .
+  start: !frame '51038'
+- end: !frame '51201'
+  lines:
+  - Major, you have the com.
+  start: !frame '51128'
+- end: !frame '51262'
+  lines:
+  - Dad?
+  start: !frame '51234'
+- end: !frame '51293'
+  lines:
+  - Dad!
+  start: !frame '51263'
+- end: !frame '51391'
+  lines:
+  - Let's see what this baby can do.
+  start: !frame '51343'
+- end: !frame '52290'
+  lines:
+  - Maureen, everyone?
+  start: !frame '52232'
+- end: !frame '52388'
+  lines:
+  - -Where is Judy?
+  - -She's OK.
+  start: !frame '52354'
+- end: !frame '52459'
+  lines:
+  - She is, thanks to me.
+  start: !frame '52389'
+- end: !frame '52512'
+  lines:
+  - Here I am.
+  start: !frame '52484'
+- end: !frame '52580'
+  lines:
+  - Either I should cut down
+  - on the liquids...
+  start: !frame '52535'
+- end: !frame '52646'
+  lines:
+  - or I should sew in a new flap
+  - because it was really hell...
+  start: !frame '52581'
+- end: !frame '52683'
+  lines:
+  - getting out of that thing.
+  start: !frame '52647'
+- end: !frame '52712'
+  lines:
+  - You're...
+  start: !frame '52684'
+- end: !frame '52777'
+  lines:
+  - Vitals are normal. Pulse
+  - and respiration seem to be.
+  start: !frame '52713'
+- end: !frame '52825'
+  lines:
+  - -Are you OK?
+  - -I'm fine, really.
+  start: !frame '52778'
+- end: !frame '52854'
+  lines:
+  - Come here.
+  start: !frame '52826'
+- end: !frame '52972'
+  lines:
+  - Will every little problem be an
+  - excuse for familial sentiment?
+  start: !frame '52882'
+- end: !frame '53100'
+  lines:
+  - How much, Smith?
+  start: !frame '53072'
+- end: !frame '53229'
+  lines:
+  - What was the price tag
+  - that you put on our future?
+  start: !frame '53132'
+- end: !frame '53671'
+  lines:
+  - You can't do it, can you, John?
+  start: !frame '53604'
+- end: !frame '53774'
+  lines:
+  - You can't kill the man
+  - without becoming the monster.
+  start: !frame '53672'
+- end: !frame '54031'
+  lines:
+  - Coward.
+  start: !frame '54001'
+- end: !frame '54293'
+  lines:
+  - What's happened, John?
+  - Where are we?
+  start: !frame '54230'
+- end: !frame '54525'
+  lines:
+  - I bypassed
+  - most of the damaged systems.
+  start: !frame '54454'
+- end: !frame '54557'
+  lines:
+  - We'll have to repair the rest
+  - manually.
+  start: !frame '54526'
+- end: !frame '54650'
+  lines:
+  - You had me worried, doc.
+  start: !frame '54615'
+- end: !frame '54696'
+  lines:
+  - Nice to see you thawed.
+  start: !frame '54651'
+- end: !frame '54769'
+  lines:
+  - You have a puzzling definition
+  - of a smooth ride.
+  start: !frame '54697'
+- end: !frame '54869'
+  lines:
+  - Computer,
+  - map our current position.
+  start: !frame '54770'
+- end: !frame '54989'
+  lines:
+  - Searching
+  - for recognizable constellations.
+  start: !frame '54903'
+- end: !frame '55165'
+  lines:
+  - This database has star maps
+  - of all the known galaxy.
+  start: !frame '55075'
+- end: !frame '55229'
+  lines:
+  - I don't recognize
+  - a single system.
+  start: !frame '55166'
+- end: !frame '55332'
+  lines:
+  - We're lost....
+  start: !frame '55291'
+- end: !frame '55395'
+  lines:
+  - aren't we?
+  start: !frame '55360'
+- end: !frame '55818'
+  lines:
+  - Easy, doc. God.
+  start: !frame '55783'
+- end: !frame '55846'
+  lines:
+  - Please.
+  start: !frame '55818'
+- end: !frame '55923'
+  lines:
+  - The cryosuit absorbed
+  - most of the electrical charge.
+  start: !frame '55847'
+- end: !frame '55987'
+  lines:
+  - You're lucky
+  - this wasn't your hide.
+  start: !frame '55924'
+- end: !frame '56081'
+  lines:
+  - Doctor, is that concern
+  - I detect in your voice?
+  start: !frame '55988'
+- end: !frame '56187'
+  lines:
+  - Great bedside manner.
+  start: !frame '56133'
+- end: !frame '56290'
+  lines:
+  - What's that?
+  start: !frame '56250'
+- end: !frame '56332'
+  lines:
+  - A battle scar?
+  start: !frame '56291'
+- end: !frame '56389'
+  lines:
+  - Sort of.
+  start: !frame '56361'
+- end: !frame '56469'
+  lines:
+  - It was a tattoo.
+  start: !frame '56413'
+- end: !frame '56569'
+  lines:
+  - An ex-girlfriend's name,
+  - but I had it removed.
+  start: !frame '56470'
+- end: !frame '56611'
+  lines:
+  - Wouldn't it be easier
+  - to use a magic marker?
+  start: !frame '56570'
+- end: !frame '56710'
+  lines:
+  - Yeah, well, that's me.
+  start: !frame '56654'
+- end: !frame '56769'
+  lines:
+  - A girl in every port.
+  start: !frame '56710'
+- end: !frame '56810'
+  lines:
+  - So, Major, no family?
+  start: !frame '56770'
+- end: !frame '56882'
+  lines:
+  - Nothing to tie you down,
+  - no one to miss?
+  start: !frame '56811'
+- end: !frame '56962'
+  lines:
+  - I've never been
+  - the fit-in and play-nice type.
+  start: !frame '56883'
+- end: !frame '57059'
+  lines:
+  - You think that's romantic?
+  start: !frame '57022'
+- end: !frame '57154'
+  lines:
+  - I don't.
+  start: !frame '57126'
+- end: !frame '57244'
+  lines:
+  - But what about you, doc?
+  start: !frame '57185'
+- end: !frame '57311'
+  lines:
+  - Is there some lucky little nerd
+  - you left behind?
+  start: !frame '57245'
+- end: !frame '57397'
+  lines:
+  - I spent three years working
+  - on this mission.
+  start: !frame '57342'
+- end: !frame '57452'
+  lines:
+  - We're trying to save the planet.
+  start: !frame '57398'
+- end: !frame '57505'
+  lines:
+  - I haven't had time for fun.
+  start: !frame '57453'
+- end: !frame '57582'
+  lines:
+  - If there's no time for fun...
+  start: !frame '57506'
+- end: !frame '57640'
+  lines:
+  - then what are we saving
+  - the planet for?
+  start: !frame '57583'
+- end: !frame '57948'
+  lines:
+  - Here.
+  start: !frame '57919'
+- end: !frame '57978'
+  lines:
+  - Thanks.
+  start: !frame '57949'
+- end: !frame '58016'
+  lines:
+  - I hate being little.
+  start: !frame '57979'
+- end: !frame '58224'
+  lines:
+  - I think it broke.
+  start: !frame '58174'
+- end: !frame '58316'
+  lines:
+  - I'll try and fix it.
+  start: !frame '58281'
+- end: !frame '58377'
+  lines:
+  - Why aren't you up on deck
+  - with Mom and Dad?
+  start: !frame '58317'
+- end: !frame '58413'
+  lines:
+  - Have you met our parents?
+  start: !frame '58378'
+- end: !frame '58443'
+  lines:
+  - Good point.
+  start: !frame '58414'
+- end: !frame '58529'
+  lines:
+  - Popcorn, orchids...
+  start: !frame '58491'
+- end: !frame '58605'
+  lines:
+  - waves, Billy...
+  start: !frame '58530'
+- end: !frame '58644'
+  lines:
+  - kissing.
+  start: !frame '58606'
+- end: !frame '58720'
+  lines:
+  - Chocolate.
+  start: !frame '58691'
+- end: !frame '58785'
+  lines:
+  - It's a list...
+  start: !frame '58748'
+- end: !frame '58875'
+  lines:
+  - of everything we left behind.
+  start: !frame '58836'
+- end: !frame '59030'
+  lines:
+  - Never love anything, kiddo...
+  start: !frame '58996'
+- end: !frame '59114'
+  lines:
+  - '''cause you just end up'
+  - losing it.
+  start: !frame '59064'
+- end: !frame '59418'
+  lines:
+  - Smith could still hurt us.
+  start: !frame '59360'
+- end: !frame '59517'
+  lines:
+  - Maybe I shouldn't let him live.
+  start: !frame '59463'
+- end: !frame '59692'
+  lines:
+  - But...
+  start: !frame '59665'
+- end: !frame '59752'
+  lines:
+  - How can we bring
+  - civilization to the stars...
+  start: !frame '59693'
+- end: !frame '59812'
+  lines:
+  - if we can't remain civilized?
+  - Right, Professor?
+  start: !frame '59753'
+- end: !frame '59898'
+  lines:
+  - Have you noticed that you
+  - take the opposite position...
+  start: !frame '59813'
+- end: !frame '59945'
+  lines:
+  - to whatever I say?
+  start: !frame '59899'
+- end: !frame '59980'
+  lines:
+  - Of course I do.
+  start: !frame '59946'
+- end: !frame '60024'
+  lines:
+  - We're married.
+  start: !frame '59981'
+- end: !frame '60108'
+  lines:
+  - Alert.
+  start: !frame '60081'
+- end: !frame '60180'
+  lines:
+  - Spatial anomaly in progress.
+  start: !frame '60109'
+- end: !frame '60231'
+  lines:
+  - What the hell?
+  start: !frame '60181'
+- end: !frame '60502'
+  lines:
+  - I must be dreaming.
+  - That looks like a ship.
+  start: !frame '60421'
+- end: !frame '60584'
+  lines:
+  - It appears to be some sort
+  - of hole in space.
+  start: !frame '60502'
+- end: !frame '60635'
+  lines:
+  - Where does it lead?
+  start: !frame '60585'
+- end: !frame '60680'
+  lines:
+  - A reasonable question.
+  start: !frame '60636'
+- end: !frame '60823'
+  lines:
+  - Major, wait.
+  start: !frame '60776'
+- end: !frame '60858'
+  lines:
+  - I'll wait later.
+  start: !frame '60824'
+- end: !frame '61054'
+  lines:
+  - Pull back.
+  start: !frame '61021'
+- end: !frame '61093'
+  lines:
+  - Let there be light.
+  start: !frame '61054'
+- end: !frame '61812'
+  lines:
+  - Proteus?
+  start: !frame '61784'
+- end: !frame '61897'
+  lines:
+  - She's one of ours, all right.
+  start: !frame '61850'
+- end: !frame '62010'
+  lines:
+  - All right.
+  start: !frame '61981'
+- end: !frame '62096'
+  lines:
+  - I've never seen a ship
+  - like this.
+  start: !frame '62048'
+- end: !frame '62246'
+  lines:
+  - No response to hails.
+  start: !frame '62180'
+- end: !frame '62334'
+  lines:
+  - Scanning all military
+  - and civilian frequencies.
+  start: !frame '62247'
+- end: !frame '62362'
+  lines:
+  - Nothing.
+  start: !frame '62335'
+- end: !frame '62438'
+  lines:
+  - I'm getting
+  - inconsistent life signs...
+  start: !frame '62363'
+- end: !frame '62494'
+  lines:
+  - but they may be sensor ghosts.
+  start: !frame '62439'
+- end: !frame '62589'
+  lines:
+  - Computer is still on.
+  start: !frame '62561'
+- end: !frame '62687'
+  lines:
+  - I'll try the standard
+  - docking codes.
+  start: !frame '62629'
+- end: !frame '62738'
+  lines:
+  - Control codes confirmed.
+  start: !frame '62688'
+- end: !frame '62780'
+  lines:
+  - Initiating docking sequence.
+  start: !frame '62739'
+- end: !frame '62966'
+  lines:
+  - Weird.
+  - What kind of ship is that?
+  start: !frame '62896'
+- end: !frame '63014'
+  lines:
+  - That's not one of ours.
+  start: !frame '62967'
+- end: !frame '63369'
+  lines:
+  - Boys, that's not even human.
+  start: !frame '63288'
+- end: !frame '63451'
+  lines:
+  - If this is all a dream...
+  start: !frame '63410'
+- end: !frame '63504'
+  lines:
+  - why can't there be more girls?
+  start: !frame '63452'
+- end: !frame '63705'
+  lines:
+  - As part of her enslavement...
+  start: !frame '63653'
+- end: !frame '63788'
+  lines:
+  - the brave young space captive
+  - Penny Robinson...
+  start: !frame '63706'
+- end: !frame '63947'
+  lines:
+  - is forced to utilize her
+  - dazzling technical expertise.
+  start: !frame '63789'
+- end: !frame '64191'
+  lines:
+  - Identify yourself, soldier.
+  start: !frame '64162'
+- end: !frame '64280'
+  lines:
+  - West, Major,
+  - United Global Space Force...
+  start: !frame '64192'
+- end: !frame '64341'
+  lines:
+  - requesting permission
+  - to see the prisoner.
+  start: !frame '64281'
+- end: !frame '64546'
+  lines:
+  - Proceed, Major West.
+  start: !frame '64438'
+- end: !frame '64862'
+  lines:
+  - Could he be cuter?
+  start: !frame '64804'
+- end: !frame '64949'
+  lines:
+  - I don't think so.
+  start: !frame '64910'
+- end: !frame '64997'
+  lines:
+  - Breathe, Penny.
+  start: !frame '64950'
+- end: !frame '65130'
+  lines:
+  - Unlock.
+  start: !frame '65102'
+- end: !frame '65401'
+  lines:
+  - These quarters are unacceptable.
+  start: !frame '65358'
+- end: !frame '65472'
+  lines:
+  - We're going to check out
+  - the probe ship.
+  start: !frame '65402'
+- end: !frame '65544'
+  lines:
+  - Maybe we can figure out how they
+  - got here and how to get home.
+  start: !frame '65473'
+- end: !frame '65585'
+  lines:
+  - Have a wonderful trip.
+  start: !frame '65545'
+- end: !frame '65663'
+  lines:
+  - Put this on.
+  start: !frame '65635'
+- end: !frame '65812'
+  lines:
+  - You're coming with us.
+  start: !frame '65770'
+- end: !frame '65898'
+  lines:
+  - Out of the question. I am
+  - a doctor, not a space explorer.
+  start: !frame '65813'
+- end: !frame '65961'
+  lines:
+  - What you are
+  - is a murderous saboteur.
+  start: !frame '65899'
+- end: !frame '65995'
+  lines:
+  - I am not leaving you here...
+  start: !frame '65962'
+- end: !frame '66063'
+  lines:
+  - so you can do more harm
+  - than you've already caused.
+  start: !frame '65996'
+- end: !frame '66094'
+  lines:
+  - I absolutely refuse.
+  start: !frame '66064'
+- end: !frame '66191'
+  lines:
+  - Give me an excuse to kill you.
+  start: !frame '66142'
+- end: !frame '66258'
+  lines:
+  - Please?
+  start: !frame '66226'
+- end: !frame '66510'
+  lines:
+  - Black was always my color.
+  start: !frame '66444'
+- end: !frame '66633'
+  lines:
+  - Lock.
+  start: !frame '66606'
+- end: !frame '66976'
+  lines:
+  - Activate standby.
+  start: !frame '66916'
+- end: !frame '67039'
+  lines:
+  - Crush, kill, destroy.
+  start: !frame '66977'
+- end: !frame '67158'
+  lines:
+  - Surprise.
+  start: !frame '67115'
+- end: !frame '67192'
+  lines:
+  - Safety on.
+  start: !frame '67159'
+- end: !frame '67271'
+  lines:
+  - Dad, chill.
+  - It's OK.
+  start: !frame '67222'
+- end: !frame '67336'
+  lines:
+  - I hacked into his CPU,
+  - and then...
+  start: !frame '67272'
+- end: !frame '67413'
+  lines:
+  - I bypassed
+  - his main operating systems...
+  start: !frame '67337'
+- end: !frame '67482'
+  lines:
+  - and accessed his subroutines.
+  start: !frame '67414'
+- end: !frame '67555'
+  lines:
+  - He's basically just running
+  - on remote control.
+  start: !frame '67483'
+- end: !frame '67670'
+  lines:
+  - I know I haven't been around--
+  start: !frame '67614'
+- end: !frame '67699'
+  lines:
+  - Professor.
+  start: !frame '67671'
+- end: !frame '67772'
+  lines:
+  - We're ready to go.
+  start: !frame '67739'
+- end: !frame '67871'
+  lines:
+  - We'll talk later, son.
+  start: !frame '67826'
+- end: !frame '68028'
+  lines:
+  - Take care of my dad.
+  start: !frame '67980'
+- end: !frame '68066'
+  lines:
+  - OK, Robot?
+  start: !frame '68029'
+- end: !frame '68358'
+  lines:
+  - Vacuum check complete.
+  start: !frame '68298'
+- end: !frame '68942'
+  lines:
+  - Oxygen levels are normal.
+  start: !frame '68903'
+- end: !frame '68978'
+  lines:
+  - Microbe scans are negative.
+  start: !frame '68943'
+- end: !frame '69017'
+  lines:
+  - Clear.
+  start: !frame '68979'
+- end: !frame '69161'
+  lines:
+  - The air is stale, old.
+  start: !frame '69108'
+- end: !frame '69224'
+  lines:
+  - That's the smell of ghosts.
+  start: !frame '69162'
+- end: !frame '69355'
+  lines:
+  - I've got
+  - her on-board computer up.
+  start: !frame '69284'
+- end: !frame '69417'
+  lines:
+  - Not working?
+  start: !frame '69381'
+- end: !frame '69451'
+  lines:
+  - She's working, all right.
+  start: !frame '69418'
+- end: !frame '69489'
+  lines:
+  - Just--I don't know.
+  start: !frame '69452'
+- end: !frame '69543'
+  lines:
+  - Too damn fast.
+  start: !frame '69490'
+- end: !frame '70635'
+  lines:
+  - Dad, do you hear something?
+  start: !frame '70573'
+- end: !frame '70686'
+  lines:
+  - Like the drip, drip of blood.
+  start: !frame '70636'
+- end: !frame '70744'
+  lines:
+  - You really need to shut up.
+  start: !frame '70687'
+- end: !frame '70813'
+  lines:
+  - Here.
+  start: !frame '70786'
+- end: !frame '71131'
+  lines:
+  - This matter appears biological.
+  start: !frame '71082'
+- end: !frame '71199'
+  lines:
+  - Nothing good will come of this.
+  start: !frame '71155'
+- end: !frame '71272'
+  lines:
+  - You, of course, being the expert
+  - on space exploration.
+  start: !frame '71200'
+- end: !frame '71361'
+  lines:
+  - Let's go.
+  start: !frame '71334'
+- end: !frame '71440'
+  lines:
+  - Trust me, Major.
+  start: !frame '71398'
+- end: !frame '71541'
+  lines:
+  - Evil knows evil.
+  start: !frame '71470'
+- end: !frame '72242'
+  lines:
+  - Motion sensors
+  - are still working.
+  start: !frame '72192'
+- end: !frame '72273'
+  lines:
+  - This way.
+  start: !frame '72243'
+- end: !frame '72770'
+  lines:
+  - Rambler-crane series robots.
+  start: !frame '72699'
+- end: !frame '72838'
+  lines:
+  - But like no design
+  - I've ever seen.
+  start: !frame '72771'
+- end: !frame '72879'
+  lines:
+  - Well, well.
+  start: !frame '72839'
+- end: !frame '72957'
+  lines:
+  - Aren't we the poor cousin?
+  start: !frame '72905'
+- end: !frame '72997'
+  lines:
+  - Down here.
+  start: !frame '72958'
+- end: !frame '73254'
+  lines:
+  - It's a remote op station.
+  start: !frame '73207'
+- end: !frame '73315'
+  lines:
+  - Come on, Dr. Smith.
+  start: !frame '73278'
+- end: !frame '73428'
+  lines:
+  - Could this ship be a prototype?
+  start: !frame '73381'
+- end: !frame '73505'
+  lines:
+  - Looks like some kind
+  - of fire fight.
+  start: !frame '73454'
+- end: !frame '73614'
+  lines:
+  - Captain's log is degraded.
+  start: !frame '73563'
+- end: !frame '73724'
+  lines:
+  - Maybe I can gather
+  - some fragments.
+  start: !frame '73639'
+- end: !frame '73870'
+  lines:
+  - Sorry.
+  start: !frame '73820'
+- end: !frame '73983'
+  lines:
+  - The hyperspace tracker seems
+  - to be functioning normally...
+  start: !frame '73914'
+- end: !frame '74065'
+  lines:
+  - but we cannot process
+  - all the data.
+  start: !frame '73984'
+- end: !frame '74175'
+  lines:
+  - There is no sign
+  - of the Jupiter 2.
+  start: !frame '74098'
+- end: !frame '74246'
+  lines:
+  - I have exceeded my timetable.
+  start: !frame '74176'
+- end: !frame '74366'
+  lines:
+  - When did he make Major?
+  start: !frame '74326'
+- end: !frame '74419'
+  lines:
+  - I want this on the record.
+  start: !frame '74367'
+- end: !frame '74519'
+  lines:
+  - I am not willing to give up.
+  start: !frame '74420'
+- end: !frame '74561'
+  lines:
+  - Don would come looking for me.
+  start: !frame '74520'
+- end: !frame '74814'
+  lines:
+  - That's it. The rest
+  - of the data's totally corrupted.
+  start: !frame '74743'
+- end: !frame '74880'
+  lines:
+  - How could they launch
+  - a rescue mission for us...
+  start: !frame '74814'
+- end: !frame '74938'
+  lines:
+  - when we've only been lost a day?
+  start: !frame '74881'
+- end: !frame '75016'
+  lines:
+  - There's no data
+  - on the alien ship...
+  start: !frame '74939'
+- end: !frame '75089'
+  lines:
+  - but they brought in something
+  - that was attached to its hull.
+  start: !frame '75017'
+- end: !frame '75165'
+  lines:
+  - Got it.
+  start: !frame '75137'
+- end: !frame '75337'
+  lines:
+  - Some sort of egg sack?
+  start: !frame '75295'
+- end: !frame '75652'
+  lines:
+  - Get back here!
+  start: !frame '75625'
+- end: !frame '75733'
+  lines:
+  - Be happy to oblige...
+  start: !frame '75653'
+- end: !frame '75792'
+  lines:
+  - although I don't think it's me
+  - you should be worrying about...
+  start: !frame '75734'
+- end: !frame '75832'
+  lines:
+  - but rather these.
+  start: !frame '75793'
+- end: !frame '76029'
+  lines:
+  - I'm detecting motion.
+  start: !frame '75990'
+- end: !frame '76069'
+  lines:
+  - Behind you.
+  start: !frame '76030'
+- end: !frame '76153'
+  lines:
+  - After it. Move!
+  start: !frame '76125'
+- end: !frame '76297'
+  lines:
+  - Bring Smith.
+  start: !frame '76266'
+- end: !frame '76370'
+  lines:
+  - Don't even think about it.
+  start: !frame '76298'
+- end: !frame '76877'
+  lines:
+  - Hydroponics.
+  start: !frame '76842'
+- end: !frame '76950'
+  lines:
+  - Growth like this
+  - would take decades.
+  start: !frame '76878'
+- end: !frame '77048'
+  lines:
+  - Unhand me, you mechanical moron.
+  start: !frame '76988'
+- end: !frame '77178'
+  lines:
+  - Don't move.
+  start: !frame '77128'
+- end: !frame '77435'
+  lines:
+  - Easy.
+  start: !frame '77400'
+- end: !frame '77491'
+  lines:
+  - Easy there, buddy.
+  start: !frame '77436'
+- end: !frame '77538'
+  lines:
+  - No one's gonna hurt you.
+  start: !frame '77492'
+- end: !frame '77641'
+  lines:
+  - Easy.
+  start: !frame '77588'
+- end: !frame '77734'
+  lines:
+  - Relax.
+  start: !frame '77693'
+- end: !frame '77931'
+  lines:
+  - Excellent.
+  start: !frame '77887'
+- end: !frame '77993'
+  lines:
+  - Looks like you made a friend.
+  start: !frame '77932'
+- end: !frame '78024'
+  lines:
+  - Still, I'd wait a few weeks...
+  start: !frame '77994'
+- end: !frame '78074'
+  lines:
+  - before tattooing
+  - her name on your arm.
+  start: !frame '78025'
+- end: !frame '78170'
+  lines:
+  - Do yourself a favor.
+  start: !frame '78130'
+- end: !frame '78200'
+  lines:
+  - Don't evolve.
+  start: !frame '78171'
+- end: !frame '78289'
+  lines:
+  - Charming.
+  start: !frame '78229'
+- end: !frame '78334'
+  lines:
+  - The Dr. Dolittle of outer space.
+  start: !frame '78290'
+- end: !frame '78421'
+  lines:
+  - This could be a creature
+  - from that alien ship.
+  start: !frame '78335'
+- end: !frame '78465'
+  lines:
+  - But this guy's no pilot.
+  start: !frame '78422'
+- end: !frame '78519'
+  lines:
+  - He looks like a child.
+  start: !frame '78466'
+- end: !frame '78963'
+  lines:
+  - Try it now.
+  start: !frame '78894'
+- end: !frame '79121'
+  lines:
+  - Strange.
+  start: !frame '79070'
+- end: !frame '79185'
+  lines:
+  - The scales are giving off heat.
+  start: !frame '79122'
+- end: !frame '79250'
+  lines:
+  - I've tapped into
+  - the internal sensor array.
+  start: !frame '79186'
+- end: !frame '79363'
+  lines:
+  - There's no other
+  - animate life present.
+  start: !frame '79297'
+- end: !frame '79440'
+  lines:
+  - Besides us,
+  - this ship is totally deserted.
+  start: !frame '79364'
+- end: !frame '79496'
+  lines:
+  - A ghost ship.
+  start: !frame '79441'
+- end: !frame '79596'
+  lines:
+  - The flavor of the day
+  - is banana beef.
+  start: !frame '79497'
+- end: !frame '79707'
+  lines:
+  - Who thinks up
+  - these combinations?
+  start: !frame '79646'
+- end: !frame '79933'
+  lines:
+  - Good.
+  start: !frame '79905'
+- end: !frame '80001'
+  lines:
+  - Major West, I highly
+  - recommend you never breed.
+  start: !frame '79934'
+- end: !frame '80111'
+  lines:
+  - That, by the way,
+  - is my medical opinion.
+  start: !frame '80033'
+- end: !frame '80634'
+  lines:
+  - Little thing was hungry.
+  start: !frame '80595'
+- end: !frame '80685'
+  lines:
+  - I got their star maps on-line.
+  start: !frame '80635'
+- end: !frame '80733'
+  lines:
+  - Here we go.
+  start: !frame '80686'
+- end: !frame '80801'
+  lines:
+  - More systems
+  - than I've ever seen.
+  start: !frame '80734'
+- end: !frame '80880'
+  lines:
+  - Finding a route to Alpha Prime.
+  start: !frame '80802'
+- end: !frame '80941'
+  lines:
+  - Downloading to Jupiter.
+  start: !frame '80881'
+- end: !frame '81359'
+  lines:
+  - I don't like the sound
+  - of that sound.
+  start: !frame '81301'
+- end: !frame '81600'
+  lines:
+  - They're moving.
+  start: !frame '81565'
+- end: !frame '81897'
+  lines:
+  - Get this infernal...
+  start: !frame '81835'
+- end: !frame '81946'
+  lines:
+  - ape thing off me!
+  start: !frame '81898'
+- end: !frame '81979'
+  lines:
+  - Come here.
+  start: !frame '81947'
+- end: !frame '82048'
+  lines:
+  - John, get the hell out of there.
+  start: !frame '81980'
+- end: !frame '82116'
+  lines:
+  - Mom says,
+  - '"Get the hell out of there."'
+  start: !frame '82049'
+- end: !frame '82844'
+  lines:
+  - Evacuate.
+  start: !frame '82812'
+- end: !frame '82880'
+  lines:
+  - Now!
+  start: !frame '82845'
+- end: !frame '83200'
+  lines:
+  - The controls are too slow.
+  start: !frame '83159'
+- end: !frame '83242'
+  lines:
+  - Activate holographic interface.
+  start: !frame '83201'
+- end: !frame '83314'
+  lines:
+  - Holographic interface, on-line.
+  start: !frame '83243'
+- end: !frame '83919'
+  lines:
+  - They eat their wounded.
+  start: !frame '83857'
+- end: !frame '84206'
+  lines:
+  - Seal the bulkhead.
+  start: !frame '84171'
+- end: !frame '84277'
+  lines:
+  - Codes are locked.
+  start: !frame '84249'
+- end: !frame '84446'
+  lines:
+  - Duck.
+  start: !frame '84407'
+- end: !frame '84586'
+  lines:
+  - Closing bulkhead.
+  start: !frame '84515'
+- end: !frame '84853'
+  lines:
+  - Fire sensor activated.
+  start: !frame '84792'
+- end: !frame '84895'
+  lines:
+  - Emergency bulkhead closing.
+  start: !frame '84854'
+- end: !frame '84993'
+  lines:
+  - Stop!
+  start: !frame '84956'
+- end: !frame '85045'
+  lines:
+  - We have to get that door open.
+  start: !frame '84994'
+- end: !frame '85224'
+  lines:
+  - Open, damn you!
+  start: !frame '85197'
+- end: !frame '85281'
+  lines:
+  - Get out of here.
+  start: !frame '85225'
+- end: !frame '85371'
+  lines:
+  - What is with me
+  - and these damn doors?
+  start: !frame '85282'
+- end: !frame '85442'
+  lines:
+  - I can't override
+  - the fire protocol!
+  start: !frame '85372'
+- end: !frame '85550'
+  lines:
+  - A million bucks
+  - worth of weaponry...
+  start: !frame '85502'
+- end: !frame '85626'
+  lines:
+  - and I'd trade it all back...
+  start: !frame '85579'
+- end: !frame '85681'
+  lines:
+  - for a lousy...
+  start: !frame '85652'
+- end: !frame '85748'
+  lines:
+  - can of Raid.
+  start: !frame '85718'
+- end: !frame '86175'
+  lines:
+  - Stand clear.
+  start: !frame '86131'
+- end: !frame '86561'
+  lines:
+  - Get moving! Go!
+  start: !frame '86508'
+- end: !frame '86753'
+  lines:
+  - Come on!
+  start: !frame '86711'
+- end: !frame '86821'
+  lines:
+  - Maureen...
+  - can you get me anything?
+  start: !frame '86754'
+- end: !frame '86876'
+  lines:
+  - Cycling through a vacuum check.
+  - I'm overriding.
+  start: !frame '86822'
+- end: !frame '87157'
+  lines:
+  - No way it's that easy.
+  start: !frame '87113'
+- end: !frame '87923'
+  lines:
+  - Run!
+  start: !frame '87886'
+- end: !frame '88040'
+  lines:
+  - Run! Get back!
+  - Get back to the ship!
+  start: !frame '87975'
+- end: !frame '88082'
+  lines:
+  - Move it!
+  start: !frame '88041'
+- end: !frame '88433'
+  lines:
+  - Got it. Try it now.
+  start: !frame '88390'
+- end: !frame '88489'
+  lines:
+  - Mom says, "Try it now."
+  start: !frame '88434'
+- end: !frame '88860'
+  lines:
+  - Can we save it?
+  start: !frame '88826'
+- end: !frame '88940'
+  lines:
+  - Can't without letting
+  - the spiders into the ship.
+  start: !frame '88861'
+- end: !frame '88983'
+  lines:
+  - Leave him behind!
+  start: !frame '88941'
+- end: !frame '89255'
+  lines:
+  - That spider scratched me!
+  start: !frame '89170'
+- end: !frame '89326'
+  lines:
+  - Stop laughing, you little worm.
+  start: !frame '89279'
+- end: !frame '89644'
+  lines:
+  - Good-bye, Robot.
+  start: !frame '89616'
+- end: !frame '89726'
+  lines:
+  - You couldn't save him, kid.
+  start: !frame '89690'
+- end: !frame '89765'
+  lines:
+  - Save him? Of course.
+  start: !frame '89726'
+- end: !frame '89944'
+  lines:
+  - What are you trying to do?
+  start: !frame '89916'
+- end: !frame '90063'
+  lines:
+  - Hurry! Disengage!
+  start: !frame '90026'
+- end: !frame '90337'
+  lines:
+  - This is a fun picnic.
+  start: !frame '90284'
+- end: !frame '90414'
+  lines:
+  - First yellow aliens,
+  - now giant spiders.
+  start: !frame '90338'
+- end: !frame '90691'
+  lines:
+  - The crowd goes wild.
+  start: !frame '90648'
+- end: !frame '90743'
+  lines:
+  - Recall your childhood
+  - nightmares, Major.
+  start: !frame '90692'
+- end: !frame '90786'
+  lines:
+  - Monsters are rarely
+  - so easily dissuaded.
+  start: !frame '90744'
+- end: !frame '90860'
+  lines:
+  - Why don't you talk to them,
+  - bug to bug?
+  start: !frame '90787'
+- end: !frame '90911'
+  lines:
+  - I think
+  - they'd rather come inside.
+  start: !frame '90861'
+- end: !frame '91176'
+  lines:
+  - Arming torpedoes.
+  start: !frame '91132'
+- end: !frame '91251'
+  lines:
+  - Fire in the hole.
+  start: !frame '91223'
+- end: !frame '91469'
+  lines:
+  - Alert. Detonation failure.
+  start: !frame '91407'
+- end: !frame '91581'
+  lines:
+  - The robot must have damaged
+  - the detonator cores.
+  start: !frame '91527'
+- end: !frame '91626'
+  lines:
+  - They won't blow.
+  start: !frame '91582'
+- end: !frame '91722'
+  lines:
+  - Alert.
+  - Outer hub has been compromised.
+  start: !frame '91627'
+- end: !frame '91812'
+  lines:
+  - DNA extrapolation coming up.
+  start: !frame '91750'
+- end: !frame '91901'
+  lines:
+  - Silicone-based, mantium shell,
+  - lack of respiratory system.
+  start: !frame '91813'
+- end: !frame '91956'
+  lines:
+  - Means they do live
+  - in deep space.
+  start: !frame '91902'
+- end: !frame '92072'
+  lines:
+  - Tiny front brain implies
+  - communal relationships.
+  start: !frame '92007'
+- end: !frame '92101'
+  lines:
+  - Like beetles.
+  start: !frame '92073'
+- end: !frame '92164'
+  lines:
+  - The biology lesson is over.
+  - I could use some help.
+  start: !frame '92102'
+- end: !frame '92231'
+  lines:
+  - They may be attracted
+  - to heat and light.
+  start: !frame '92165'
+- end: !frame '92364'
+  lines:
+  - Inner hull breach in 15 seconds.
+  start: !frame '92278'
+- end: !frame '92417'
+  lines:
+  - I'm bringing the Proteus
+  - fusion drives on-line.
+  start: !frame '92365'
+- end: !frame '92758'
+  lines:
+  - It's working.
+  start: !frame '92731'
+- end: !frame '92806'
+  lines:
+  - Let's turn up the heat.
+  start: !frame '92759'
+- end: !frame '92835'
+  lines:
+  - What are you doing?
+  start: !frame '92807'
+- end: !frame '92887'
+  lines:
+  - Never leave an enemy stronghold
+  - intact.
+  start: !frame '92836'
+- end: !frame '92916'
+  lines:
+  - Stop!
+  start: !frame '92888'
+- end: !frame '92966'
+  lines:
+  - That's one of your father's
+  - first rules of the game.
+  start: !frame '92917'
+- end: !frame '92995'
+  lines:
+  - That is a direct order.
+  start: !frame '92967'
+- end: !frame '93025'
+  lines:
+  - I hate spiders.
+  start: !frame '92996'
+- end: !frame '93712'
+  lines:
+  - That's coming fast.
+  start: !frame '93684'
+- end: !frame '93766'
+  lines:
+  - Get into the harnesses now.
+  start: !frame '93713'
+- end: !frame '93823'
+  lines:
+  - Manual helm, engage.
+  start: !frame '93767'
+- end: !frame '93912'
+  lines:
+  - -Children, secure?
+  - -Secure.
+  start: !frame '93862'
+- end: !frame '93941'
+  lines:
+  - I'm in.
+  start: !frame '93913'
+- end: !frame '94454'
+  lines:
+  - Pull up.
+  start: !frame '94407'
+- end: !frame '94496'
+  lines:
+  - Really? No kidding.
+  - Thanks.
+  start: !frame '94455'
+- end: !frame '94663'
+  lines:
+  - Coming in too hot.
+  - I'll try and slow us down.
+  start: !frame '94611'
+- end: !frame '95430'
+  lines:
+  - Hang on!
+  start: !frame '95398'
+- end: !frame '95999'
+  lines:
+  - Everybody by the numbers.
+  start: !frame '95964'
+- end: !frame '96040'
+  lines:
+  - Life sciences,
+  - still breathing.
+  start: !frame '96000'
+- end: !frame '96163'
+  lines:
+  - Video mechanics...
+  - OK.
+  start: !frame '96093'
+- end: !frame '96215'
+  lines:
+  - Mission medical, I'm alive.
+  start: !frame '96164'
+- end: !frame '96262'
+  lines:
+  - Me, too.
+  - Robotics, I mean.
+  start: !frame '96216'
+- end: !frame '96302'
+  lines:
+  - I'm alive...
+  start: !frame '96263'
+- end: !frame '96393'
+  lines:
+  - Major West's poor excuse for
+  - piloting skills notwithstanding.
+  start: !frame '96303'
+- end: !frame '96469'
+  lines:
+  - Oh, Dorothy.
+  start: !frame '96394'
+- end: !frame '96512'
+  lines:
+  - Back in Kansas at last.
+  start: !frame '96470'
+- end: !frame '97269'
+  lines:
+  - You violated a direct order.
+  start: !frame '97216'
+- end: !frame '97359'
+  lines:
+  - About half the core
+  - material's burned out.
+  start: !frame '97301'
+- end: !frame '97403'
+  lines:
+  - We'll never generate
+  - enough power to break orbit.
+  start: !frame '97360'
+- end: !frame '97436'
+  lines:
+  - We can get off the ground...
+  start: !frame '97404'
+- end: !frame '97497'
+  lines:
+  - but getting back into space
+  - is another story.
+  start: !frame '97437'
+- end: !frame '97594'
+  lines:
+  - I ordered you not to blow
+  - that ship's reactors.
+  start: !frame '97498'
+- end: !frame '97670'
+  lines:
+  - Life support is marginal.
+  start: !frame '97595'
+- end: !frame '97703'
+  lines:
+  - It's gonna get cold in here
+  - tonight.
+  start: !frame '97671'
+- end: !frame '97812'
+  lines:
+  - Also, the pod and the chariot
+  - are pretty much scrap metal.
+  start: !frame '97704'
+- end: !frame '97858'
+  lines:
+  - Don't you walk away from me
+  - when I'm talking to you.
+  start: !frame '97813'
+- end: !frame '97906'
+  lines:
+  - Give it a rest, Professor.
+  start: !frame '97859'
+- end: !frame '97952'
+  lines:
+  - I was technically
+  - still in command.
+  start: !frame '97907'
+- end: !frame '98017'
+  lines:
+  - I am commander of this mission.
+  start: !frame '97953'
+- end: !frame '98053'
+  lines:
+  - Look, no offense...
+  start: !frame '98018'
+- end: !frame '98117'
+  lines:
+  - but you're an egghead
+  - with an honorary rank.
+  start: !frame '98054'
+- end: !frame '98192'
+  lines:
+  - No one ever intended for you
+  - to handle combat situations.
+  start: !frame '98118'
+- end: !frame '98276'
+  lines:
+  - You handled it brilliantly,
+  - sending us crashing down here.
+  start: !frame '98193'
+- end: !frame '98357'
+  lines:
+  - Those aliens posed
+  - a continuing threat.
+  start: !frame '98277'
+- end: !frame '98394'
+  lines:
+  - I made a judgment call...
+  start: !frame '98358'
+- end: !frame '98460'
+  lines:
+  - and, if I have to,
+  - I'll make it again.
+  start: !frame '98395'
+- end: !frame '98505'
+  lines:
+  - You of all people
+  - should understand that.
+  start: !frame '98461'
+- end: !frame '98539'
+  lines:
+  - Your father would back me up.
+  start: !frame '98506'
+- end: !frame '98571'
+  lines:
+  - My father is dead...
+  start: !frame '98540'
+- end: !frame '98681'
+  lines:
+  - killed in one of those combat
+  - missions you admire so much.
+  start: !frame '98572'
+- end: !frame '98743'
+  lines:
+  - My family is on this ship,
+  - and you will follow my orders...
+  start: !frame '98682'
+- end: !frame '98801'
+  lines:
+  - whether you agree with them
+  - or not. Is that clear?
+  start: !frame '98744'
+- end: !frame '98830'
+  lines:
+  - Save your speeches.
+  start: !frame '98802'
+- end: !frame '98883'
+  lines:
+  - I like you, but I'm gonna
+  - do whatever it takes...
+  start: !frame '98831'
+- end: !frame '98923'
+  lines:
+  - to ensure the success
+  - of this mission...
+  start: !frame '98884'
+- end: !frame '98992'
+  lines:
+  - with or without your help.
+  - Is that clear?
+  start: !frame '98924'
+- end: !frame '99038'
+  lines:
+  - Am I interrupting something?
+  start: !frame '98993'
+- end: !frame '99095'
+  lines:
+  - No, really.
+  start: !frame '99039'
+- end: !frame '99152'
+  lines:
+  - I think you two
+  - should slug it out.
+  start: !frame '99096'
+- end: !frame '99269'
+  lines:
+  - Here we are,
+  - stranded on an alien world...
+  start: !frame '99202'
+- end: !frame '99321'
+  lines:
+  - and you want
+  - to get into a pissing contest?
+  start: !frame '99270'
+- end: !frame '99385'
+  lines:
+  - Please, go for it.
+  start: !frame '99322'
+- end: !frame '99459'
+  lines:
+  - I'll have Judy down here
+  - to declare you both unfit...
+  start: !frame '99386'
+- end: !frame '99487'
+  lines:
+  - and I'll take over this mission.
+  start: !frame '99460'
+- end: !frame '99569'
+  lines:
+  - I don't want to hear another
+  - word from you. Is that clear?
+  start: !frame '99488'
+- end: !frame '99667'
+  lines:
+  - Not...another word.
+  start: !frame '99593'
+- end: !frame '99696'
+  lines:
+  - Better.
+  start: !frame '99668'
+- end: !frame '99794'
+  lines:
+  - If you've finished hosing down
+  - the decks with testosterone...
+  start: !frame '99725'
+- end: !frame '99844'
+  lines:
+  - I suggest you come with me.
+  start: !frame '99795'
+- end: !frame '99891'
+  lines:
+  - I may have found a way
+  - off this planet.
+  start: !frame '99845'
+- end: !frame '100057'
+  lines:
+  - Tell me about it.
+  start: !frame '100013'
+- end: !frame '101028'
+  lines:
+  - Damn bug bite.
+  start: !frame '100989'
+- end: !frame '101493'
+  lines:
+  - She...
+  start: !frame '101438'
+- end: !frame '101588'
+  lines:
+  - She really is an interesting
+  - specimen. Huh, doc?
+  start: !frame '101494'
+- end: !frame '101624'
+  lines:
+  - She's fascinating.
+  start: !frame '101590'
+- end: !frame '101707'
+  lines:
+  - The retinal aperture dilation...
+  start: !frame '101662'
+- end: !frame '101773'
+  lines:
+  - seems directly linked
+  - to the skin pigmentation.
+  start: !frame '101708'
+- end: !frame '101874'
+  lines:
+  - What?
+  start: !frame '101846'
+- end: !frame '101952'
+  lines:
+  - Can I keep her?
+  start: !frame '101922'
+- end: !frame '102115'
+  lines:
+  - She's not just another fad
+  - you can pick up and throw away.
+  start: !frame '102034'
+- end: !frame '102176'
+  lines:
+  - Oh, please.
+  start: !frame '102116'
+- end: !frame '102256'
+  lines:
+  - She's all alone here, and
+  - I promise I'll look out for her.
+  start: !frame '102177'
+- end: !frame '102299'
+  lines:
+  - I promise.
+  start: !frame '102257'
+- end: !frame '102424'
+  lines:
+  - She kind of needs me.
+  start: !frame '102382'
+- end: !frame '102584'
+  lines:
+  - The minute you misplace her,
+  - you forget to feed her--
+  start: !frame '102532'
+- end: !frame '102634'
+  lines:
+  - Don't smile. I mean it, Pen.
+  start: !frame '102585'
+- end: !frame '102710'
+  lines:
+  - Thanks...doc.
+  start: !frame '102666'
+- end: !frame '102885'
+  lines:
+  - We're both a long way from home,
+  - aren't we, little one?
+  start: !frame '102787'
+- end: !frame '103012'
+  lines:
+  - Blarp?
+  start: !frame '102984'
+- end: !frame '103197'
+  lines:
+  - That's what we'll call you--
+  - Blarp.
+  start: !frame '103136'
+- end: !frame '103380'
+  lines:
+  - Nice girl.
+  start: !frame '103346'
+- end: !frame '103421'
+  lines:
+  - Pretty girl.
+  start: !frame '103381'
+- end: !frame '103646'
+  lines:
+  - Nice.
+  start: !frame '103618'
+- end: !frame '103833'
+  lines:
+  - The atmosphere here
+  - can sustain human life.
+  start: !frame '103742'
+- end: !frame '103916'
+  lines:
+  - I've located 500 rads
+  - of radioactive material...
+  start: !frame '103834'
+- end: !frame '103964'
+  lines:
+  - five miles west.
+  start: !frame '103918'
+- end: !frame '104033'
+  lines:
+  - We'll need at least that much to
+  - get the core functioning again.
+  start: !frame '103965'
+- end: !frame '104095'
+  lines:
+  - We start out at daybreak.
+  start: !frame '104062'
+- end: !frame '104216'
+  lines:
+  - Be safer that way.
+  start: !frame '104184'
+- end: !frame '104335'
+  lines:
+  - Those are my orders.
+  start: !frame '104289'
+- end: !frame '104586'
+  lines:
+  - I agree
+  - with your recommendation.
+  start: !frame '104530'
+- end: !frame '104661'
+  lines:
+  - Detente's a beautiful thing.
+  start: !frame '104621'
+- end: !frame '104910'
+  lines:
+  - It's nice to see you found
+  - a corner to suit your talents.
+  start: !frame '104846'
+- end: !frame '104961'
+  lines:
+  - Turn down the bed
+  - before you leave.
+  start: !frame '104911'
+- end: !frame '105016'
+  lines:
+  - I gave my word I'd let you live.
+  start: !frame '104962'
+- end: !frame '105085'
+  lines:
+  - I never said for how long.
+  start: !frame '105054'
+- end: !frame '105162'
+  lines:
+  - Family hour is over.
+  start: !frame '105086'
+- end: !frame '105211'
+  lines:
+  - We're dying here.
+  start: !frame '105163'
+- end: !frame '105291'
+  lines:
+  - Robinson is out of his league.
+  start: !frame '105212'
+- end: !frame '105401'
+  lines:
+  - Look into his eyes and tell me
+  - you can't see his fear.
+  start: !frame '105292'
+- end: !frame '105534'
+  lines:
+  - I fought in the millennial wars.
+  start: !frame '105464'
+- end: !frame '105574'
+  lines:
+  - Survival is a soldier's game.
+  start: !frame '105534'
+- end: !frame '105668'
+  lines:
+  - We both know this civilian fool
+  - will lead us straight to hell.
+  start: !frame '105575'
+- end: !frame '105795'
+  lines:
+  - Robinson needs our help,
+  - if he wants it or not.
+  start: !frame '105669'
+- end: !frame '105856'
+  lines:
+  - With minimal force,
+  - we could take this ship...
+  start: !frame '105796'
+- end: !frame '105925'
+  lines:
+  - and assure them we shall
+  - continue at your command.
+  start: !frame '105858'
+- end: !frame '105994'
+  lines:
+  - Of course.
+  start: !frame '105954'
+- end: !frame '106054'
+  lines:
+  - My God...
+  start: !frame '105995'
+- end: !frame '106103'
+  lines:
+  - you're right.
+  start: !frame '106055'
+- end: !frame '106165'
+  lines:
+  - How could I have been so blind?
+  start: !frame '106104'
+- end: !frame '106297'
+  lines:
+  - I'll just run and get you a gun
+  - so we can hijack the ship, OK?
+  start: !frame '106166'
+- end: !frame '106416'
+  lines:
+  - Sarcasm is the recourse
+  - of the weak mind.
+  start: !frame '106346'
+- end: !frame '106506'
+  lines:
+  - I'm hiding the pain.
+  start: !frame '106453'
+- end: !frame '106535'
+  lines:
+  - Really.
+  start: !frame '106507'
+- end: !frame '106645'
+  lines:
+  - Lock.
+  start: !frame '106616'
+- end: !frame '106829'
+  lines:
+  - Your pain...
+  start: !frame '106742'
+- end: !frame '106863'
+  lines:
+  - has just begun.
+  start: !frame '106830'
+- end: !frame '107031'
+  lines:
+  - Starlight, star bright.
+  start: !frame '106992'
+- end: !frame '107203'
+  lines:
+  - A million strange stars,
+  - and only one wish.
+  start: !frame '107126'
+- end: !frame '107239'
+  lines:
+  - I wish we were home.
+  start: !frame '107204'
+- end: !frame '107371'
+  lines:
+  - Never seen a sky look so alien.
+  start: !frame '107306'
+- end: !frame '107429'
+  lines:
+  - We really are lost,
+  - aren't we?
+  start: !frame '107372'
+- end: !frame '107652'
+  lines:
+  - When the first sailors
+  - circled the globe...
+  start: !frame '107570'
+- end: !frame '107727'
+  lines:
+  - saw a brand-new sky...
+  start: !frame '107653'
+- end: !frame '107809'
+  lines:
+  - they thought they'd sailed
+  - off the edge of the earth...
+  start: !frame '107728'
+- end: !frame '107850'
+  lines:
+  - but they were really
+  - just around the corner.
+  start: !frame '107810'
+- end: !frame '107962'
+  lines:
+  - You're saying we should
+  - just billow our sails...
+  start: !frame '107910'
+- end: !frame '108002'
+  lines:
+  - and let the wind take us home?
+  start: !frame '107963'
+- end: !frame '108035'
+  lines:
+  - Is that it?
+  start: !frame '108003'
+- end: !frame '108121'
+  lines:
+  - Those sailors...
+  start: !frame '108082'
+- end: !frame '108253'
+  lines:
+  - found familiar shapes...
+  start: !frame '108165'
+- end: !frame '108312'
+  lines:
+  - in the stars...
+  start: !frame '108254'
+- end: !frame '108391'
+  lines:
+  - to make the sky seem
+  - more friendly...
+  start: !frame '108313'
+- end: !frame '108426'
+  lines:
+  - and to help them
+  - find their way home.
+  start: !frame '108392'
+- end: !frame '108496'
+  lines:
+  - That's how the constellations
+  - were born.
+  start: !frame '108427'
+- end: !frame '108604'
+  lines:
+  - Porky, the wise and mighty pig.
+  start: !frame '108550'
+- end: !frame '109131'
+  lines:
+  - The great...
+  - big-eared bunny Bugs.
+  start: !frame '109030'
+- end: !frame '109452'
+  lines:
+  - The way you got us down here,
+  - that was pretty flying.
+  start: !frame '109380'
+- end: !frame '109679'
+  lines:
+  - My quarters or yours?
+  start: !frame '109630'
+- end: !frame '109729'
+  lines:
+  - Excuse me?
+  start: !frame '109700'
+- end: !frame '109794'
+  lines:
+  - Don't play coy.
+  start: !frame '109730'
+- end: !frame '109878'
+  lines:
+  - We're the only single people
+  - of consenting age in the galaxy.
+  start: !frame '109795'
+- end: !frame '109933'
+  lines:
+  - How much more of a setup
+  - do you need?
+  start: !frame '109879'
+- end: !frame '110056'
+  lines:
+  - So you figure, why not dispense
+  - with the pleasantries...
+  start: !frame '109974'
+- end: !frame '110093'
+  lines:
+  - and get down to business?
+  start: !frame '110058'
+- end: !frame '110169'
+  lines:
+  - You have a way with words.
+  start: !frame '110094'
+- end: !frame '110259'
+  lines:
+  - Do you want to show me
+  - how you handle the helm?
+  start: !frame '110214'
+- end: !frame '110433'
+  lines:
+  - Right here on this console?
+  start: !frame '110376'
+- end: !frame '110600'
+  lines:
+  - Right here would be fine.
+  start: !frame '110540'
+- end: !frame '110901'
+  lines:
+  - Why don't you just hang on
+  - to your joystick?
+  start: !frame '110837'
+- end: !frame '111182'
+  lines:
+  - Excellent technique, Major.
+  start: !frame '111135'
+- end: !frame '111251'
+  lines:
+  - Really.
+  start: !frame '111222'
+- end: !frame '111403'
+  lines:
+  - Hi.
+  start: !frame '111365'
+- end: !frame '111445'
+  lines:
+  - Will was looking for you.
+  start: !frame '111404'
+- end: !frame '111551'
+  lines:
+  - I sent him back to his room.
+  start: !frame '111510'
+- end: !frame '111636'
+  lines:
+  - He's decided
+  - he can rebuild the robot.
+  start: !frame '111552'
+- end: !frame '111742'
+  lines:
+  - He wants to stay up all night
+  - and show me his designs.
+  start: !frame '111686'
+- end: !frame '111833'
+  lines:
+  - Funny creatures, men.
+  start: !frame '111775'
+- end: !frame '111910'
+  lines:
+  - Try so hard not to be
+  - their fathers...
+  start: !frame '111834'
+- end: !frame '111977'
+  lines:
+  - end up making the same mistakes.
+  start: !frame '111911'
+- end: !frame '112098'
+  lines:
+  - We can't get off this planet,
+  - let alone get back on course.
+  start: !frame '111978'
+- end: !frame '112134'
+  lines:
+  - I don't have time.
+  start: !frame '112099'
+- end: !frame '112182'
+  lines:
+  - Just listen to him.
+  start: !frame '112135'
+- end: !frame '112258'
+  lines:
+  - It doesn't matter what he says.
+  - Just listen.
+  start: !frame '112182'
+- end: !frame '112344'
+  lines:
+  - Sometimes--especially
+  - in the eyes of their fathers--
+  start: !frame '112259'
+- end: !frame '112411'
+  lines:
+  - Iittle boys have to come first.
+  start: !frame '112345'
+- end: !frame '112485'
+  lines:
+  - As soon as
+  - we get back up into space...
+  start: !frame '112412'
+- end: !frame '112574'
+  lines:
+  - we'll spend a lot of time
+  - together, I promise.
+  start: !frame '112486'
+- end: !frame '113119'
+  lines:
+  - It's nice having your
+  - whole family under one roof.
+  start: !frame '113051'
+- end: !frame '113234'
+  lines:
+  - Even if we did have to go...
+  start: !frame '113175'
+- end: !frame '113301'
+  lines:
+  - halfway across the galaxy
+  - to manage it.
+  start: !frame '113235'
+- end: !frame '113650'
+  lines:
+  - Good night, John.
+  start: !frame '113616'
+- end: !frame '113685'
+  lines:
+  - Good night, Maureen.
+  start: !frame '113651'
+- end: !frame '113740'
+  lines:
+  - Good night, Judy.
+  start: !frame '113686'
+- end: !frame '113773'
+  lines:
+  - Good night, Will.
+  start: !frame '113741'
+- end: !frame '113827'
+  lines:
+  - Good night, Penny.
+  start: !frame '113795'
+- end: !frame '113945'
+  lines:
+  - You guys have got to be kidding.
+  start: !frame '113886'
+- end: !frame '114149'
+  lines:
+  - Good morning, Will Robinson.
+  start: !frame '114093'
+- end: !frame '114225'
+  lines:
+  - Solar panels are charged.
+  start: !frame '114150'
+- end: !frame '114705'
+  lines:
+  - The radioactive material
+  - we need for the core...
+  start: !frame '114642'
+- end: !frame '114748'
+  lines:
+  - is in the center of that bubble.
+  start: !frame '114706'
+- end: !frame '114784'
+  lines:
+  - I was afraid of this.
+  start: !frame '114749'
+- end: !frame '114881'
+  lines:
+  - OK, everybody,
+  - let's get settled now.
+  start: !frame '114818'
+- end: !frame '115016'
+  lines:
+  - I think this "bubble"
+  - out there...
+  start: !frame '114952'
+- end: !frame '115099'
+  lines:
+  - is exactly the same thing
+  - we passed through in space.
+  start: !frame '115017'
+- end: !frame '115208'
+  lines:
+  - Both of them are opening
+  - and closing doorways.
+  start: !frame '115100'
+- end: !frame '115254'
+  lines:
+  - Doorways to where?
+  start: !frame '115210'
+- end: !frame '115345'
+  lines:
+  - Doorways in...time.
+  start: !frame '115255'
+- end: !frame '115379'
+  lines:
+  - You can't be serious.
+  start: !frame '115346'
+- end: !frame '115431'
+  lines:
+  - Time travel is impossible.
+  start: !frame '115380'
+- end: !frame '115487'
+  lines:
+  - It's not.
+  - Just improbable.
+  start: !frame '115432'
+- end: !frame '115581'
+  lines:
+  - What if we crossed
+  - into a time...
+  start: !frame '115488'
+- end: !frame '115652'
+  lines:
+  - years after Earth
+  - sent a rescue mission?
+  start: !frame '115582'
+- end: !frame '115709'
+  lines:
+  - Perhaps the professor
+  - hit his head when we landed.
+  start: !frame '115653'
+- end: !frame '115740'
+  lines:
+  - Think about it.
+  start: !frame '115710'
+- end: !frame '115815'
+  lines:
+  - The way the Proteus
+  - seemed deserted for so long.
+  start: !frame '115741'
+- end: !frame '115888'
+  lines:
+  - Your friend looking so old.
+  start: !frame '115816'
+- end: !frame '115944'
+  lines:
+  - So if we walk
+  - inside that bubble...
+  start: !frame '115889'
+- end: !frame '116007'
+  lines:
+  - we could be walking
+  - further into the future.
+  start: !frame '115945'
+- end: !frame '116099'
+  lines:
+  - Dad, what if the doorways
+  - aren't natural?
+  start: !frame '116008'
+- end: !frame '116181'
+  lines:
+  - This kind of phenomenon could
+  - only be produced naturally.
+  start: !frame '116100'
+- end: !frame '116237'
+  lines:
+  - That bubble's
+  - the kind of side effect...
+  start: !frame '116182'
+- end: !frame '116305'
+  lines:
+  - I predicted my time machine
+  - would do.
+  start: !frame '116238'
+- end: !frame '116348'
+  lines:
+  - What if someone built a device--
+  start: !frame '116306'
+- end: !frame '116429'
+  lines:
+  - Son...
+  - I appreciate your input...
+  start: !frame '116349'
+- end: !frame '116474'
+  lines:
+  - but now is not the time
+  - for flights of fancy.
+  start: !frame '116430'
+- end: !frame '116545'
+  lines:
+  - You never listen to me.
+  start: !frame '116475'
+- end: !frame '116617'
+  lines:
+  - Not ever.
+  start: !frame '116578'
+- end: !frame '116918'
+  lines:
+  - This time bubble could be
+  - causing these earthquakes.
+  start: !frame '116826'
+- end: !frame '117023'
+  lines:
+  - No telling how long before
+  - this planet breaks up entirely.
+  start: !frame '116919'
+- end: !frame '117077'
+  lines:
+  - The major and I
+  - are going to locate...
+  start: !frame '117024'
+- end: !frame '117123'
+  lines:
+  - the radioactive material
+  - for the core.
+  start: !frame '117078'
+- end: !frame '117207'
+  lines:
+  - We may have very little time.
+  start: !frame '117155'
+- end: !frame '117519'
+  lines:
+  - I'm leaving now.
+  start: !frame '117479'
+- end: !frame '117562'
+  lines:
+  - That's a surprise.
+  start: !frame '117520'
+- end: !frame '117789'
+  lines:
+  - You're the most important thing
+  - in the world to me.
+  start: !frame '117689'
+- end: !frame '117873'
+  lines:
+  - One day, I hope you'll
+  - be able to understand that.
+  start: !frame '117790'
+- end: !frame '117982'
+  lines:
+  - What if...
+  - one time you don't come home?
+  start: !frame '117874'
+- end: !frame '118132'
+  lines:
+  - Whenever your grandfather
+  - went on a mission...
+  start: !frame '118074'
+- end: !frame '118414'
+  lines:
+  - he'd leave these with me
+  - for safekeeping.
+  start: !frame '118333'
+- end: !frame '118526'
+  lines:
+  - When he came home,
+  - I would always be there...
+  start: !frame '118443'
+- end: !frame '118598'
+  lines:
+  - waiting to give them back.
+  start: !frame '118527'
+- end: !frame '118705'
+  lines:
+  - I'm coming back.
+  start: !frame '118665'
+- end: !frame '118783'
+  lines:
+  - I promise.
+  start: !frame '118752'
+- end: !frame '119398'
+  lines:
+  - Listen...
+  start: !frame '119367'
+- end: !frame '119478'
+  lines:
+  - about last night...
+  start: !frame '119446'
+- end: !frame '119572'
+  lines:
+  - Go on. You can do it.
+  start: !frame '119512'
+- end: !frame '119638'
+  lines:
+  - I'm sorry.
+  start: !frame '119611'
+- end: !frame '119717'
+  lines:
+  - See, that wasn't so difficult.
+  start: !frame '119639'
+- end: !frame '119796'
+  lines:
+  - Like pulling steel needles
+  - through my cheeks.
+  start: !frame '119718'
+- end: !frame '119930'
+  lines:
+  - Then you understand
+  - what saying this feels like.
+  start: !frame '119797'
+- end: !frame '119985'
+  lines:
+  - Try to come back in one piece.
+  start: !frame '119931'
+- end: !frame '120144'
+  lines:
+  - Listen, doc, I'm...
+  start: !frame '120092'
+- end: !frame '120252'
+  lines:
+  - I'm thinking this is your basic
+  - '"kiss for luck" occasion.'
+  start: !frame '120182'
+- end: !frame '120291'
+  lines:
+  - Wouldn't you agree?
+  start: !frame '120253'
+- end: !frame '120337'
+  lines:
+  - Thinking.
+  start: !frame '120292'
+- end: !frame '120391'
+  lines:
+  - It's not really
+  - your strong suit, is it?
+  start: !frame '120338'
+- end: !frame '120563'
+  lines:
+  - I've got a fix
+  - on the radioactive material.
+  start: !frame '120503'
+- end: !frame '120941'
+  lines:
+  - That was scientific.
+  start: !frame '120891'
+- end: !frame '121002'
+  lines:
+  - Scared?
+  start: !frame '120971'
+- end: !frame '121087'
+  lines:
+  - There's an alloy
+  - in this crater wall...
+  start: !frame '121040'
+- end: !frame '121123'
+  lines:
+  - that's disabling the com-links.
+  start: !frame '121088'
+- end: !frame '121177'
+  lines:
+  - You're not going to be able
+  - to communicate with the ship.
+  start: !frame '121124'
+- end: !frame '121350'
+  lines:
+  - Come home to me, professor.
+  start: !frame '121298'
+- end: !frame '121445'
+  lines:
+  - I love you, wife.
+  start: !frame '121400'
+- end: !frame '121615'
+  lines:
+  - Come here, squirt.
+  start: !frame '121580'
+- end: !frame '121980'
+  lines:
+  - Nice girl.
+  - Pretty girl. Nice.
+  start: !frame '121908'
+- end: !frame '122773'
+  lines:
+  - It's OK.
+  - You're still in one piece.
+  start: !frame '122718'
+- end: !frame '122932'
+  lines:
+  - Come on.
+  start: !frame '122904'
+- end: !frame '123123'
+  lines:
+  - Can you hear me, Robot?
+  - Hello?
+  start: !frame '123034'
+- end: !frame '123179'
+  lines:
+  - Systems error!
+  start: !frame '123152'
+- end: !frame '123233'
+  lines:
+  - Robot unable to locate
+  - motor controls!
+  start: !frame '123180'
+- end: !frame '123265'
+  lines:
+  - Unable to--
+  start: !frame '123234'
+- end: !frame '123293'
+  lines:
+  - Calm down.
+  start: !frame '123266'
+- end: !frame '123362'
+  lines:
+  - What is happening to me?
+  start: !frame '123294'
+- end: !frame '123460'
+  lines:
+  - I didn't have enough time
+  - to finish the download.
+  start: !frame '123363'
+- end: !frame '123508'
+  lines:
+  - Warning!
+  - Penny, give it back!
+  start: !frame '123461'
+- end: !frame '123563'
+  lines:
+  - My circuits are unbalanced.
+  start: !frame '123509'
+- end: !frame '123627'
+  lines:
+  - So I had to finish you off
+  - with another personality.
+  start: !frame '123564'
+- end: !frame '123673'
+  lines:
+  - I put my mind inside of yours.
+  start: !frame '123628'
+- end: !frame '123875'
+  lines:
+  - That explains
+  - this warm fuzzy feeling...
+  start: !frame '123804'
+- end: !frame '123931'
+  lines:
+  - when I think about baseball.
+  start: !frame '123876'
+- end: !frame '123979'
+  lines:
+  - Strike! You're out!
+  start: !frame '123932'
+- end: !frame '124021'
+  lines:
+  - But this does not compute.
+  start: !frame '123980'
+- end: !frame '124051'
+  lines:
+  - What?
+  start: !frame '124022'
+- end: !frame '124128'
+  lines:
+  - Robot tried to destroy
+  - the Robinson family.
+  start: !frame '124052'
+- end: !frame '124198'
+  lines:
+  - Why did Will Robinson
+  - save Robot's personality?
+  start: !frame '124129'
+- end: !frame '124294'
+  lines:
+  - I guess sometimes friendship
+  - means listening to your heart...
+  start: !frame '124199'
+- end: !frame '124325'
+  lines:
+  - not your head.
+  start: !frame '124294'
+- end: !frame '124378'
+  lines:
+  - Put that in your memory bank.
+  start: !frame '124326'
+- end: !frame '124471'
+  lines:
+  - Don't worry.
+  start: !frame '124422'
+- end: !frame '124563'
+  lines:
+  - I'm going to build you
+  - a new body.
+  start: !frame '124523'
+- end: !frame '124664'
+  lines:
+  - Mom always said I should
+  - try to make new friends.
+  start: !frame '124605'
+- end: !frame '124923'
+  lines:
+  - I need a microsealer.
+  start: !frame '124865'
+- end: !frame '124957'
+  lines:
+  - I got it.
+  start: !frame '124924'
+- end: !frame '125168'
+  lines:
+  - After much deliberation...
+  start: !frame '125123'
+- end: !frame '125224'
+  lines:
+  - the space captive
+  - has finally decided...
+  start: !frame '125169'
+- end: !frame '125313'
+  lines:
+  - to accept her new role
+  - as a member of the crew.
+  start: !frame '125225'
+- end: !frame '125389'
+  lines:
+  - The Robinsons, after all,
+  - can obviously use her help.
+  start: !frame '125314'
+- end: !frame '125495'
+  lines:
+  - Blarp, come back here.
+  start: !frame '125453'
+- end: !frame '125565'
+  lines:
+  - Theoretically,
+  - this future would be fixed...
+  start: !frame '125496'
+- end: !frame '125627'
+  lines:
+  - unchanged by what we do
+  - or did in the past--
+  start: !frame '125566'
+- end: !frame '125684'
+  lines:
+  - Professor?
+  start: !frame '125628'
+- end: !frame '125741'
+  lines:
+  - Why don't you give
+  - the old egghead a rest?
+  start: !frame '125685'
+- end: !frame '125850'
+  lines:
+  - Out here we got two moons,
+  - a crater the size of Miami...
+  start: !frame '125742'
+- end: !frame '125933'
+  lines:
+  - and that would be
+  - one great climb.
+  start: !frame '125851'
+- end: !frame '125981'
+  lines:
+  - My father would have liked you.
+  start: !frame '125934'
+- end: !frame '126137'
+  lines:
+  - What's that?
+  start: !frame '126109'
+- end: !frame '126443'
+  lines:
+  - This metal's decades old.
+  start: !frame '126398'
+- end: !frame '126499'
+  lines:
+  - What kind of a nightmare
+  - is this?
+  start: !frame '126444'
+- end: !frame '126570'
+  lines:
+  - Where the hell are we?
+  start: !frame '126542'
+- end: !frame '126625'
+  lines:
+  - The question is,
+  - when the hell are we?
+  start: !frame '126571'
+- end: !frame '127235'
+  lines:
+  - I will tell you a joke.
+  start: !frame '127141'
+- end: !frame '127300'
+  lines:
+  - Why did the robot
+  - cross the road?
+  start: !frame '127236'
+- end: !frame '127377'
+  lines:
+  - Because he was carbon-bonded
+  - to the chicken.
+  start: !frame '127301'
+- end: !frame '127421'
+  lines:
+  - We have a lot of work to do.
+  start: !frame '127378'
+- end: !frame '127566'
+  lines:
+  - That sounds like old Morse code.
+  start: !frame '127507'
+- end: !frame '127602'
+  lines:
+  - What does it say?
+  start: !frame '127567'
+- end: !frame '127661'
+  lines:
+  - '"Danger,'
+  - Will Robinson, danger."
+  start: !frame '127603'
+- end: !frame '128306'
+  lines:
+  - William. Come in.
+  start: !frame '128257'
+- end: !frame '128377'
+  lines:
+  - Unlock.
+  start: !frame '128344'
+- end: !frame '128509'
+  lines:
+  - You said someone was in danger.
+  start: !frame '128468'
+- end: !frame '128555'
+  lines:
+  - We all are.
+  start: !frame '128510'
+- end: !frame '128606'
+  lines:
+  - You are wise to arm yourself.
+  start: !frame '128556'
+- end: !frame '128678'
+  lines:
+  - This gun is set to fire
+  - for me only...
+  start: !frame '128607'
+- end: !frame '128752'
+  lines:
+  - so don't try anything funny.
+  - Lock.
+  start: !frame '128679'
+- end: !frame '128937'
+  lines:
+  - You misjudge me.
+  - I only want to help you.
+  start: !frame '128834'
+- end: !frame '129003'
+  lines:
+  - Help us?
+  - You tried to kill us.
+  start: !frame '128938'
+- end: !frame '129063'
+  lines:
+  - But now our fates
+  - are intertwined.
+  start: !frame '129004'
+- end: !frame '129153'
+  lines:
+  - If your father
+  - and that idiot West fail...
+  start: !frame '129064'
+- end: !frame '129222'
+  lines:
+  - I have no chance
+  - of getting home.
+  start: !frame '129154'
+- end: !frame '129331'
+  lines:
+  - It's in my best interests
+  - that they succeed...
+  start: !frame '129223'
+- end: !frame '129416'
+  lines:
+  - and I always follow
+  - my best interests.
+  start: !frame '129332'
+- end: !frame '129666'
+  lines:
+  - What monsters roam
+  - these alien wilds?
+  start: !frame '129481'
+- end: !frame '129727'
+  lines:
+  - They're fools!
+  start: !frame '129667'
+- end: !frame '129821'
+  lines:
+  - To set off blindly
+  - across this savage land.
+  start: !frame '129728'
+- end: !frame '129915'
+  lines:
+  - Much as I hate to admit it...
+  start: !frame '129873'
+- end: !frame '130030'
+  lines:
+  - it will be much harder
+  - without them.
+  start: !frame '129953'
+- end: !frame '130083'
+  lines:
+  - What are you talking about?
+  start: !frame '130031'
+- end: !frame '130161'
+  lines:
+  - They'll be back.
+  - They'll be OK.
+  start: !frame '130084'
+- end: !frame '130245'
+  lines:
+  - Will they?
+  start: !frame '130218'
+- end: !frame '130372'
+  lines:
+  - Someone should go after them.
+  start: !frame '130325'
+- end: !frame '130400'
+  lines:
+  - Unlock.
+  start: !frame '130373'
+- end: !frame '130444'
+  lines:
+  - I forbid it. You're a boy.
+  start: !frame '130401'
+- end: !frame '130486'
+  lines:
+  - A clever one,
+  - but a child nonetheless.
+  start: !frame '130445'
+- end: !frame '130551'
+  lines:
+  - This planet
+  - is likely full of predators.
+  start: !frame '130487'
+- end: !frame '130655'
+  lines:
+  - Even if you found them,
+  - what if they're hurt? Ravaged?
+  start: !frame '130552'
+- end: !frame '130789'
+  lines:
+  - Dying?
+  start: !frame '130762'
+- end: !frame '130906'
+  lines:
+  - What good could you do?
+  start: !frame '130869'
+- end: !frame '131078'
+  lines:
+  - You can help them.
+  - You're a doctor.
+  start: !frame '131002'
+- end: !frame '131301'
+  lines:
+  - I'm a doctor.
+  start: !frame '131254'
+- end: !frame '131388'
+  lines:
+  - We made it.
+  start: !frame '131346'
+- end: !frame '131451'
+  lines:
+  - Mom didn't see us.
+  start: !frame '131389'
+- end: !frame '131505'
+  lines:
+  - That's fantastic.
+  start: !frame '131452'
+- end: !frame '131619'
+  lines:
+  - I told them we could get
+  - into the bubble this way.
+  start: !frame '131565'
+- end: !frame '131803'
+  lines:
+  - The bubble's growing!
+  start: !frame '131774'
+- end: !frame '131984'
+  lines:
+  - Run, child!
+  start: !frame '131906'
+- end: !frame '132425'
+  lines:
+  - Cool.
+  start: !frame '132370'
+- end: !frame '132467'
+  lines:
+  - Wait!
+  start: !frame '132426'
+- end: !frame '132709'
+  lines:
+  - Come on.
+  - We can always go back.
+  start: !frame '132618'
+- end: !frame '132770'
+  lines:
+  - It's just like stepping
+  - between two rooms.
+  start: !frame '132710'
+- end: !frame '132818'
+  lines:
+  - I can barely contain my glee.
+  start: !frame '132771'
+- end: !frame '132927'
+  lines:
+  - Dad's signal is...
+  - this way.
+  start: !frame '132847'
+- end: !frame '133060'
+  lines:
+  - I loathe children.
+  start: !frame '133015'
+- end: !frame '133623'
+  lines:
+  - Billy...kissing...
+  start: !frame '133550'
+- end: !frame '133749'
+  lines:
+  - hot wings, orchids, corn.
+  start: !frame '133624'
+- end: !frame '133958'
+  lines:
+  - Waves...Billy...
+  - popcorn with...kissing...
+  start: !frame '133781'
+- end: !frame '134049'
+  lines:
+  - What did you find?
+  start: !frame '133959'
+- end: !frame '134127'
+  lines:
+  - Come on.
+  - No time to dawdle.
+  start: !frame '134050'
+- end: !frame '134197'
+  lines:
+  - Let's move along.
+  start: !frame '134128'
+- end: !frame '134304'
+  lines:
+  - Follow your father's signal.
+  - There's a good boy.
+  start: !frame '134245'
+- end: !frame '134366'
+  lines:
+  - Come on.
+  start: !frame '134336'
+- end: !frame '135181'
+  lines:
+  - All things really do come
+  - to he who waits.
+  start: !frame '135062'
+- end: !frame '135446'
+  lines:
+  - What is this place?
+  start: !frame '135415'
+- end: !frame '135511'
+  lines:
+  - The shock must have
+  - scrambled your brain.
+  start: !frame '135447'
+- end: !frame '135565'
+  lines:
+  - Take a look around.
+  start: !frame '135512'
+- end: !frame '135727'
+  lines:
+  - Don't you recognize this spot?
+  start: !frame '135677'
+- end: !frame '135885'
+  lines:
+  - You're home.
+  start: !frame '135833'
+- end: !frame '136055'
+  lines:
+  - This can't be.
+  start: !frame '136023'
+- end: !frame '136118'
+  lines:
+  - What have you done to the ship?
+  start: !frame '136056'
+- end: !frame '136196'
+  lines:
+  - Where is my family?
+  start: !frame '136153'
+- end: !frame '136317'
+  lines:
+  - What chance do you think
+  - your family had without you?
+  start: !frame '136226'
+- end: !frame '136411'
+  lines:
+  - A few spiders survived
+  - the destruction of the Proteus.
+  start: !frame '136318'
+- end: !frame '136481'
+  lines:
+  - They reached this planet and...
+  start: !frame '136412'
+- end: !frame '136665'
+  lines:
+  - I can still hear
+  - the women scream.
+  start: !frame '136600'
+- end: !frame '136794'
+  lines:
+  - Who are you?
+  start: !frame '136766'
+- end: !frame '136829'
+  lines:
+  - You don't recognize me?
+  start: !frame '136795'
+- end: !frame '137085'
+  lines:
+  - I'm your son Will.
+  start: !frame '137020'
+- end: !frame '137248'
+  lines:
+  - Dad's signal
+  - is just over this ridge.
+  start: !frame '137194'
+- end: !frame '137329'
+  lines:
+  - Be still, my foolish heart.
+  start: !frame '137249'
+- end: !frame '137379'
+  lines:
+  - Shit.
+  start: !frame '137330'
+- end: !frame '137459'
+  lines:
+  - A boy of your intelligence
+  - should never swear.
+  start: !frame '137380'
+- end: !frame '137573'
+  lines:
+  - Shit.
+  start: !frame '137534'
+- end: !frame '137699'
+  lines:
+  - Indeed.
+  start: !frame '137661'
+- end: !frame '137847'
+  lines:
+  - Look, Father...
+  start: !frame '137802'
+- end: !frame '137973'
+  lines:
+  - what my flights of fancy
+  - have wrought.
+  start: !frame '137848'
+- end: !frame '138110'
+  lines:
+  - I used your hyper engine
+  - to build my time machine.
+  start: !frame '138010'
+- end: !frame '138210'
+  lines:
+  - OK, Robot, put him down.
+  start: !frame '138162'
+- end: !frame '138251'
+  lines:
+  - Affirmative.
+  start: !frame '138211'
+- end: !frame '138429'
+  lines:
+  - Where are we?
+  start: !frame '138396'
+- end: !frame '138501'
+  lines:
+  - I think the Jupiter 2,
+  - but in a different future.
+  start: !frame '138430'
+- end: !frame '138548'
+  lines:
+  - Father?
+  start: !frame '138502'
+- end: !frame '138579'
+  lines:
+  - Once this core material...
+  start: !frame '138549'
+- end: !frame '138659'
+  lines:
+  - is fully introduced
+  - into the control console...
+  start: !frame '138580'
+- end: !frame '138715'
+  lines:
+  - Core material.
+  start: !frame '138660'
+- end: !frame '138785'
+  lines:
+  - If we could get that
+  - back to our Jupiter...
+  start: !frame '138716'
+- end: !frame '138920'
+  lines:
+  - I will open a doorway
+  - stable enough...
+  start: !frame '138786'
+- end: !frame '139045'
+  lines:
+  - for one person to take
+  - one trip through time...
+  start: !frame '138921'
+- end: !frame '139101'
+  lines:
+  - and space as well.
+  start: !frame '139046'
+- end: !frame '139176'
+  lines:
+  - Commence proto-generation.
+  start: !frame '139102'
+- end: !frame '139262'
+  lines:
+  - Cool, huh?
+  start: !frame '139208'
+- end: !frame '139350'
+  lines:
+  - Today, I will change history.
+  start: !frame '139263'
+- end: !frame '139475'
+  lines:
+  - I'm gonna go back to that day
+  - you dragged us into space.
+  start: !frame '139402'
+- end: !frame '139569'
+  lines:
+  - I'll stop the ship
+  - from taking off.
+  start: !frame '139511'
+- end: !frame '139699'
+  lines:
+  - I'll save the family.
+  start: !frame '139649'
+- end: !frame '139777'
+  lines:
+  - Earth, October 1, 2058.
+  start: !frame '139700'
+- end: !frame '139820'
+  lines:
+  - Target lock confirmed.
+  start: !frame '139778'
+- end: !frame '139848'
+  lines:
+  - Excellent.
+  start: !frame '139821'
+- end: !frame '139884'
+  lines:
+  - Son...
+  start: !frame '139849'
+- end: !frame '139971'
+  lines:
+  - Look around.
+  start: !frame '139914'
+- end: !frame '140064'
+  lines:
+  - The force of your time machine
+  - is ripping this planet apart.
+  start: !frame '139972'
+- end: !frame '140124'
+  lines:
+  - These violent distortions
+  - in time...
+  start: !frame '140065'
+- end: !frame '140176'
+  lines:
+  - are being caused
+  - by your experiment.
+  start: !frame '140126'
+- end: !frame '140260'
+  lines:
+  - What if it has the same effect
+  - on Earth?
+  start: !frame '140177'
+- end: !frame '140309'
+  lines:
+  - What if, in getting home...
+  start: !frame '140262'
+- end: !frame '140362'
+  lines:
+  - you destroy Earth
+  - in the process?
+  start: !frame '140310'
+- end: !frame '140578'
+  lines:
+  - I know you mean well.
+  start: !frame '140538'
+- end: !frame '140663'
+  lines:
+  - I'm going home.
+  start: !frame '140579'
+- end: !frame '140708'
+  lines:
+  - I'm going to save the family.
+  start: !frame '140664'
+- end: !frame '140785'
+  lines:
+  - You've got to listen to me.
+  - I'm your father!
+  start: !frame '140709'
+- end: !frame '140855'
+  lines:
+  - My father?
+  start: !frame '140817'
+- end: !frame '140970'
+  lines:
+  - Let me tell you about my father.
+  start: !frame '140904'
+- end: !frame '141048'
+  lines:
+  - I'll never forget
+  - that morning 20 years ago.
+  start: !frame '140971'
+- end: !frame '141109'
+  lines:
+  - What was it you said?
+  start: !frame '141049'
+- end: !frame '141174'
+  lines:
+  - '"l''m coming back.'
+  - I promise."
+  start: !frame '141110'
+- end: !frame '141235'
+  lines:
+  - You promised...
+  - and you never came home.
+  start: !frame '141175'
+- end: !frame '141329'
+  lines:
+  - My father's not
+  - coming to the rescue.
+  start: !frame '141236'
+- end: !frame '141968'
+  lines:
+  - What do you think you're doing,
+  - young man?
+  start: !frame '141918'
+- end: !frame '142021'
+  lines:
+  - Let me tell you about life.
+  start: !frame '141969'
+- end: !frame '142069'
+  lines:
+  - Around every corner,
+  - monsters wait.
+  start: !frame '142022'
+- end: !frame '142106'
+  lines:
+  - I know. I am one.
+  start: !frame '142070'
+- end: !frame '142190'
+  lines:
+  - We monsters have no fear
+  - in devouring little boys.
+  start: !frame '142107'
+- end: !frame '142251'
+  lines:
+  - To survive, you must be
+  - fully prepared to kill.
+  start: !frame '142191'
+- end: !frame '142297'
+  lines:
+  - I can do it.
+  start: !frame '142252'
+- end: !frame '142326'
+  lines:
+  - Can you?
+  start: !frame '142298'
+- end: !frame '142452'
+  lines:
+  - Listen to me, my child...
+  start: !frame '142394'
+- end: !frame '142504'
+  lines:
+  - I've crossed this world
+  - with you...
+  start: !frame '142453'
+- end: !frame '142605'
+  lines:
+  - risked my life,
+  - but I would not throw it away.
+  start: !frame '142505'
+- end: !frame '142676'
+  lines:
+  - Who knows what dangers
+  - lie ahead?
+  start: !frame '142606'
+- end: !frame '142742'
+  lines:
+  - You can't protect us.
+  start: !frame '142711'
+- end: !frame '142808'
+  lines:
+  - I can.
+  start: !frame '142780'
+- end: !frame '142876'
+  lines:
+  - I will.
+  start: !frame '142848'
+- end: !frame '142985'
+  lines:
+  - Gimme the gun.
+  start: !frame '142928'
+- end: !frame '143034'
+  lines:
+  - Enable gun for all users.
+  start: !frame '142986'
+- end: !frame '143076'
+  lines:
+  - Voiceprint confirmed.
+  start: !frame '143035'
+- end: !frame '143207'
+  lines:
+  - A brief lesson in survival
+  - on this world or any other--
+  start: !frame '143118'
+- end: !frame '143297'
+  lines:
+  - never trust anyone.
+  - Especially me.
+  start: !frame '143208'
+- end: !frame '143477'
+  lines:
+  - It's almost time.
+  - I hope it works.
+  start: !frame '143401'
+- end: !frame '143505'
+  lines:
+  - Never fear...
+  start: !frame '143478'
+- end: !frame '143561'
+  lines:
+  - Smith is here.
+  start: !frame '143533'
+- end: !frame '143645'
+  lines:
+  - Don't move,
+  - Professor Robinson...
+  start: !frame '143587'
+- end: !frame '143740'
+  lines:
+  - or this peculiar family reunion
+  - will be tragically brief.
+  start: !frame '143646'
+- end: !frame '143785'
+  lines:
+  - I'll ask you
+  - to step away from that.
+  start: !frame '143742'
+- end: !frame '143835'
+  lines:
+  - It's a time machine,
+  - you idiot.
+  start: !frame '143786'
+- end: !frame '143911'
+  lines:
+  - I had hoped to take over
+  - the ship with this.
+  start: !frame '143836'
+- end: !frame '143989'
+  lines:
+  - One of life's little ironies.
+  start: !frame '143912'
+- end: !frame '144070'
+  lines:
+  - Let's try this dance again.
+  start: !frame '143990'
+- end: !frame '144132'
+  lines:
+  - You are the puppet,
+  - I am the puppeteer.
+  start: !frame '144071'
+- end: !frame '144226'
+  lines:
+  - Do try to get it right
+  - this time.
+  start: !frame '144134'
+- end: !frame '144309'
+  lines:
+  - Robot, you will respond
+  - to my voice alone.
+  start: !frame '144227'
+- end: !frame '144342'
+  lines:
+  - Affirmative.
+  start: !frame '144310'
+- end: !frame '144394'
+  lines:
+  - We need electric disrupters.
+  start: !frame '144343'
+- end: !frame '144526'
+  lines:
+  - That's good I met you.
+  start: !frame '144476'
+- end: !frame '144659'
+  lines:
+  - You did it.
+  - Just like I imagined.
+  start: !frame '144579'
+- end: !frame '144707'
+  lines:
+  - You linked
+  - the dimensional sifter...
+  start: !frame '144660'
+- end: !frame '144744'
+  lines:
+  - to the navigational array.
+  start: !frame '144708'
+- end: !frame '144816'
+  lines:
+  - That's how it can be in
+  - the same place at the same time.
+  start: !frame '144745'
+- end: !frame '144938'
+  lines:
+  - But the spatial delivery system,
+  - the targeting laser...
+  start: !frame '144818'
+- end: !frame '144976'
+  lines:
+  - I never thought of those.
+  start: !frame '144939'
+- end: !frame '145080'
+  lines:
+  - The future is never what
+  - it seems like when you're 10.
+  start: !frame '144978'
+- end: !frame '145160'
+  lines:
+  - Say good-bye to your past!
+  start: !frame '145081'
+- end: !frame '145223'
+  lines:
+  - Your future lies with me.
+  start: !frame '145161'
+- end: !frame '145272'
+  lines:
+  - I'm going home in your place.
+  start: !frame '145224'
+- end: !frame '145387'
+  lines:
+  - What are you grinning at?
+  start: !frame '145342'
+- end: !frame '145563'
+  lines:
+  - Look around you...
+  - at this hostile world.
+  start: !frame '145438'
+- end: !frame '145645'
+  lines:
+  - Do you think a boy
+  - could have survived all alone?
+  start: !frame '145564'
+- end: !frame '145736'
+  lines:
+  - Never fear...
+  - Smith is here.
+  start: !frame '145671'
+- end: !frame '145815'
+  lines:
+  - It's Dr. Smith.
+  start: !frame '145774'
+- end: !frame '145858'
+  lines:
+  - Hello.
+  start: !frame '145816'
+- end: !frame '145952'
+  lines:
+  - How nice to see me again
+  - after all these years.
+  start: !frame '145859'
+- end: !frame '146008'
+  lines:
+  - Confused?
+  - Have I changed?
+  start: !frame '145953'
+- end: !frame '146103'
+  lines:
+  - The spider's sting had some
+  - unexpected side effects.
+  start: !frame '146009'
+- end: !frame '146175'
+  lines:
+  - My unique gifts
+  - gave me an advantage...
+  start: !frame '146104'
+- end: !frame '146236'
+  lines:
+  - in this quarrelsome world.
+  start: !frame '146176'
+- end: !frame '146298'
+  lines:
+  - After the women were savaged...
+  start: !frame '146237'
+- end: !frame '146421'
+  lines:
+  - I became the father
+  - Will never had.
+  start: !frame '146299'
+- end: !frame '146573'
+  lines:
+  - Two decades of agony taught me
+  - the error of my ways.
+  start: !frame '146422'
+- end: !frame '146704'
+  lines:
+  - But you, your crude ambition
+  - fills me with self-loathing.
+  start: !frame '146574'
+- end: !frame '146788'
+  lines:
+  - You see,
+  - I have looked within me...
+  start: !frame '146706'
+- end: !frame '146843'
+  lines:
+  - and what I see is you!
+  start: !frame '146789'
+- end: !frame '147121'
+  lines:
+  - I never liked me anyway.
+  start: !frame '147041'
+- end: !frame '147176'
+  lines:
+  - Robot, kill them all.
+  start: !frame '147122'
+- end: !frame '147232'
+  lines:
+  - Wait.
+  start: !frame '147200'
+- end: !frame '147287'
+  lines:
+  - Dr. Smith, please.
+  start: !frame '147233'
+- end: !frame '147397'
+  lines:
+  - Don't.
+  start: !frame '147350'
+- end: !frame '147599'
+  lines:
+  - Very well.
+  start: !frame '147546'
+- end: !frame '147676'
+  lines:
+  - Robot, take them inside
+  - and keep them there.
+  start: !frame '147600'
+- end: !frame '147762'
+  lines:
+  - If they move...
+  - then kill them.
+  start: !frame '147677'
+- end: !frame '147837'
+  lines:
+  - Proceed or be destroyed.
+  start: !frame '147763'
+- end: !frame '148415'
+  lines:
+  - Nothing works.
+  start: !frame '148386'
+- end: !frame '148533'
+  lines:
+  - I'll draw his fire,
+  - you grab Will and get out.
+  start: !frame '148473'
+- end: !frame '148561'
+  lines:
+  - Halt!
+  start: !frame '148534'
+- end: !frame '148626'
+  lines:
+  - Stop!
+  start: !frame '148590'
+- end: !frame '148717'
+  lines:
+  - Do you remember me?
+  start: !frame '148663'
+- end: !frame '148797'
+  lines:
+  - Do you remember what I
+  - taught you about friendship?
+  start: !frame '148717'
+- end: !frame '148963'
+  lines:
+  - I need you to help us now,
+  - because we're friends.
+  start: !frame '148882'
+- end: !frame '149033'
+  lines:
+  - Logic error.
+  - Friendship does not compute.
+  start: !frame '148964'
+- end: !frame '149114'
+  lines:
+  - Forget logic.
+  - Act with your heart.
+  start: !frame '149034'
+- end: !frame '149188'
+  lines:
+  - Robot has no heart.
+  start: !frame '149115'
+- end: !frame '149250'
+  lines:
+  - Robot is powered by
+  - a fusion pulse generator.
+  start: !frame '149190'
+- end: !frame '149292'
+  lines:
+  - Every living thing has a heart.
+  start: !frame '149251'
+- end: !frame '149373'
+  lines:
+  - My programming has been modified
+  - to remove all emotion.
+  start: !frame '149293'
+- end: !frame '149429'
+  lines:
+  - Any attempts to override
+  - command protocols...
+  start: !frame '149374'
+- end: !frame '149478'
+  lines:
+  - may result in fusing
+  - my neural net.
+  start: !frame '149430'
+- end: !frame '149608'
+  lines:
+  - Please, Robot?
+  start: !frame '149577'
+- end: !frame '149665'
+  lines:
+  - If you don't let us go,
+  - we're all gonna die.
+  start: !frame '149609'
+- end: !frame '149735'
+  lines:
+  - I'm asking you now,
+  - will you help us?
+  start: !frame '149666'
+- end: !frame '149808'
+  lines:
+  - Will you be my friend?
+  start: !frame '149773'
+- end: !frame '149977'
+  lines:
+  - Robot attempting
+  - to deactivate control bolt.
+  start: !frame '149909'
+- end: !frame '150040'
+  lines:
+  - -Commands overridden!
+  - -Do it!
+  start: !frame '149978'
+- end: !frame '150100'
+  lines:
+  - Destroy Robinson family!
+  start: !frame '150041'
+- end: !frame '150145'
+  lines:
+  - Destroy!
+  start: !frame '150102'
+- end: !frame '150424'
+  lines:
+  - You did it.
+  start: !frame '150393'
+- end: !frame '150534'
+  lines:
+  - Robot will save Will Robinson.
+  start: !frame '150482'
+- end: !frame '150593'
+  lines:
+  - Robot will save his friend.
+  start: !frame '150535'
+- end: !frame '150745'
+  lines:
+  - Where are they?
+  start: !frame '150686'
+- end: !frame '151090'
+  lines:
+  - Wait here.
+  start: !frame '151063'
+- end: !frame '151163'
+  lines:
+  - Without that core...
+  start: !frame '151128'
+- end: !frame '151217'
+  lines:
+  - I can't promise
+  - we'll get off this rock.
+  start: !frame '151164'
+- end: !frame '151283'
+  lines:
+  - See if you can make it
+  - back to our Jupiter.
+  start: !frame '151218'
+- end: !frame '151321'
+  lines:
+  - I'll get the core material
+  - and meet you there.
+  start: !frame '151284'
+- end: !frame '151372'
+  lines:
+  - We don't have the trackers
+  - to find our way back.
+  start: !frame '151322'
+- end: !frame '151432'
+  lines:
+  - The family needs their father.
+  start: !frame '151373'
+- end: !frame '151482'
+  lines:
+  - The crew needs their pilot.
+  start: !frame '151433'
+- end: !frame '151568'
+  lines:
+  - I can't fly the ship
+  - as well as you can.
+  start: !frame '151483'
+- end: !frame '151635'
+  lines:
+  - You're their best chance
+  - to survive.
+  start: !frame '151569'
+- end: !frame '151685'
+  lines:
+  - Listen to me.
+  start: !frame '151636'
+- end: !frame '151748'
+  lines:
+  - I know you never wanted
+  - to take this job.
+  start: !frame '151686'
+- end: !frame '151841'
+  lines:
+  - I think you're going to turn out
+  - to be a grade-A baby-sitter.
+  start: !frame '151750'
+- end: !frame '151943'
+  lines:
+  - So...
+  - the camper's all yours now.
+  start: !frame '151842'
+- end: !frame '151974'
+  lines:
+  - Take care of them.
+  start: !frame '151944'
+- end: !frame '152039'
+  lines:
+  - Good luck.
+  start: !frame '152001'
+- end: !frame '152070'
+  lines:
+  - -Dad!
+  - -Professor!
+  start: !frame '152040'
+- end: !frame '152229'
+  lines:
+  - Remember the space spiders
+  - in the Proteus?
+  start: !frame '152148'
+- end: !frame '152349'
+  lines:
+  - They're not going to be able
+  - to get back.
+  start: !frame '152318'
+- end: !frame '152476'
+  lines:
+  - Enable all missiles.
+  start: !frame '152440'
+- end: !frame '152560'
+  lines:
+  - But the warheads don't work.
+  start: !frame '152522'
+- end: !frame '152589'
+  lines:
+  - Just do it.
+  start: !frame '152561'
+- end: !frame '152681'
+  lines:
+  - Look!
+  start: !frame '152646'
+- end: !frame '152865'
+  lines:
+  - Damn, he's still breathing.
+  start: !frame '152802'
+- end: !frame '152974'
+  lines:
+  - Fire in the hole.
+  start: !frame '152944'
+- end: !frame '153213'
+  lines:
+  - So these sailors,
+  - they drew shapes in the sky...
+  start: !frame '153130'
+- end: !frame '153328'
+  lines:
+  - Look! It's a flare!
+  start: !frame '153270'
+- end: !frame '153420'
+  lines:
+  - '...to help them'
+  - find their way home.
+  start: !frame '153374'
+- end: !frame '153460'
+  lines:
+  - Danger, Will Robinson!
+  start: !frame '153421'
+- end: !frame '153913'
+  lines:
+  - Climb on! Hurry!
+  start: !frame '153838'
+- end: !frame '154210'
+  lines:
+  - Field dampeners on-line.
+  start: !frame '154137'
+- end: !frame '154269'
+  lines:
+  - Portal compression commenced.
+  start: !frame '154211'
+- end: !frame '154604'
+  lines:
+  - Tell me again, old monster,
+  - how did the girls die?
+  start: !frame '154492'
+- end: !frame '154684'
+  lines:
+  - We've been over this before,
+  - son.
+  start: !frame '154605'
+- end: !frame '154805'
+  lines:
+  - In all the years since...
+  start: !frame '154764'
+- end: !frame '154929'
+  lines:
+  - the spiders
+  - have never resurfaced.
+  start: !frame '154869'
+- end: !frame '155035'
+  lines:
+  - Why?
+  start: !frame '154998'
+- end: !frame '155153'
+  lines:
+  - Let's forget the past.
+  start: !frame '155036'
+- end: !frame '155335'
+  lines:
+  - Portal aperture reduction, 50 % .
+  start: !frame '155243'
+- end: !frame '155529'
+  lines:
+  - Careful, child!
+  - The plasma around the portal...
+  start: !frame '155457'
+- end: !frame '155582'
+  lines:
+  - will rip a man into pieces!
+  start: !frame '155529'
+- end: !frame '155827'
+  lines:
+  - Haven't you made the doorway...
+  - too small?
+  start: !frame '155718'
+- end: !frame '155859'
+  lines:
+  - Not for me.
+  start: !frame '155828'
+- end: !frame '155967'
+  lines:
+  - But then I'm not going, am I?
+  start: !frame '155893'
+- end: !frame '156028'
+  lines:
+  - Spiders didn't kill the girls.
+  start: !frame '155968'
+- end: !frame '156101'
+  lines:
+  - It was you.
+  start: !frame '156070'
+- end: !frame '156183'
+  lines:
+  - I just never let myself see it.
+  start: !frame '156102'
+- end: !frame '156262'
+  lines:
+  - You kept me alive
+  - because you needed me.
+  start: !frame '156184'
+- end: !frame '156329'
+  lines:
+  - Because I could
+  - build this for you.
+  start: !frame '156263'
+- end: !frame '156412'
+  lines:
+  - Poor boy.
+  start: !frame '156357'
+- end: !frame '156524'
+  lines:
+  - Did you really think
+  - I would let you go?
+  start: !frame '156413'
+- end: !frame '156652'
+  lines:
+  - Let all that I have become
+  - vanish?
+  start: !frame '156525'
+- end: !frame '156724'
+  lines:
+  - Look at me!
+  - I am no mere man!
+  start: !frame '156653'
+- end: !frame '156843'
+  lines:
+  - I...am...a...god!
+  start: !frame '156726'
+- end: !frame '156909'
+  lines:
+  - Within these egg sacs
+  - grow the seeds...
+  start: !frame '156844'
+- end: !frame '156975'
+  lines:
+  - of a master race of spiders.
+  start: !frame '156909'
+- end: !frame '157045'
+  lines:
+  - We shall descend upon
+  - helpless Earth...
+  start: !frame '156976'
+- end: !frame '157093'
+  lines:
+  - an entire planet to rule!
+  start: !frame '157045'
+- end: !frame '157169'
+  lines:
+  - An entire planet
+  - on which to feed!
+  start: !frame '157094'
+- end: !frame '157287'
+  lines:
+  - Time to die...son.
+  start: !frame '157213'
+- end: !frame '157335'
+  lines:
+  - I'm not your son.
+  start: !frame '157288'
+- end: !frame '157394'
+  lines:
+  - Good-bye.
+  start: !frame '157336'
+- end: !frame '157713'
+  lines:
+  - My father once said...
+  start: !frame '157689'
+- end: !frame '157815'
+  lines:
+  - Evil always finds its true form.
+  start: !frame '157764'
+- end: !frame '157903'
+  lines:
+  - You should have killed me
+  - when you had the chance.
+  start: !frame '157843'
+- end: !frame '157967'
+  lines:
+  - You were right.
+  - I couldn't kill the man...
+  start: !frame '157904'
+- end: !frame '158037'
+  lines:
+  - but I can kill the monster!
+  start: !frame '157998'
+- end: !frame '158212'
+  lines:
+  - Spare me
+  - the fuming of the righteous.
+  start: !frame '158133'
+- end: !frame '158352'
+  lines:
+  - I think there's time for a snack
+  - before my trip.
+  start: !frame '158245'
+- end: !frame '158554'
+  lines:
+  - The pain.
+  start: !frame '158518'
+- end: !frame '158649'
+  lines:
+  - You ain't seen nothing yet.
+  start: !frame '158601'
+- end: !frame '158894'
+  lines:
+  - Remember the Proteus?
+  start: !frame '158842'
+- end: !frame '158944'
+  lines:
+  - These monsters
+  - eat their wounded.
+  start: !frame '158895'
+- end: !frame '159345'
+  lines:
+  - Take all the time you want
+  - to die!
+  start: !frame '159267'
+- end: !frame '160207'
+  lines:
+  - Wake up, son!
+  start: !frame '160122'
+- end: !frame '160236'
+  lines:
+  - Dad?
+  start: !frame '160208'
+- end: !frame '160479'
+  lines:
+  - Core material insertion
+  - complete.
+  start: !frame '160403'
+- end: !frame '160617'
+  lines:
+  - All table run--2058.
+  start: !frame '160525'
+- end: !frame '160646'
+  lines:
+  - Mission control.
+  start: !frame '160617'
+- end: !frame '160730'
+  lines:
+  - You could've taken the core
+  - and left before it was too late.
+  start: !frame '160647'
+- end: !frame '160801'
+  lines:
+  - I couldn't let you fall.
+  start: !frame '160731'
+- end: !frame '160833'
+  lines:
+  - You're my boy.
+  start: !frame '160802'
+- end: !frame '161077'
+  lines:
+  - Mom ! It's them.
+  start: !frame '161027'
+- end: !frame '161260'
+  lines:
+  - Oh, Mom !
+  start: !frame '161225'
+- end: !frame '161336'
+  lines:
+  - You all right?
+  start: !frame '161310'
+- end: !frame '161370'
+  lines:
+  - You're not as dumb as you look.
+  start: !frame '161337'
+- end: !frame '161413'
+  lines:
+  - I'm going to get your name
+  - tattooed right here.
+  start: !frame '161371'
+- end: !frame '161504'
+  lines:
+  - Greetings.
+  start: !frame '161454'
+- end: !frame '161541'
+  lines:
+  - Where's John?
+  start: !frame '161505'
+- end: !frame '161649'
+  lines:
+  - The bubble closed behind us.
+  start: !frame '161615'
+- end: !frame '161732'
+  lines:
+  - It was his only way back.
+  start: !frame '161649'
+- end: !frame '161780'
+  lines:
+  - I'm sorry.
+  start: !frame '161733'
+- end: !frame '161908'
+  lines:
+  - We've already begun
+  - the preflight countdown.
+  start: !frame '161835'
+- end: !frame '161960'
+  lines:
+  - I'm going to save
+  - as many lives as I can.
+  start: !frame '161909'
+- end: !frame '162302'
+  lines:
+  - I kept hoping somehow
+  - he'd make it back.
+  start: !frame '162249'
+- end: !frame '162493'
+  lines:
+  - Let's go, Major.
+  start: !frame '162458'
+- end: !frame '162569'
+  lines:
+  - Good-bye, my love.
+  start: !frame '162525'
+- end: !frame '162629'
+  lines:
+  - Engaging primary thrusters now.
+  start: !frame '162569'
+- end: !frame '163584'
+  lines:
+  - Look. He made it.
+  start: !frame '163521'
+- end: !frame '163945'
+  lines:
+  - Go.
+  start: !frame '163887'
+- end: !frame '164160'
+  lines:
+  - We're not getting any altitude.
+  start: !frame '164124'
+- end: !frame '164226'
+  lines:
+  - We don't have enough power.
+  start: !frame '164161'
+- end: !frame '164477'
+  lines:
+  - I'm sorry.
+  start: !frame '164448'
+- end: !frame '164955'
+  lines:
+  - I couldn't save them.
+  start: !frame '164907'
+- end: !frame '165152'
+  lines:
+  - So many years ago.
+  start: !frame '165074'
+- end: !frame '165200'
+  lines:
+  - I can still feel it--
+  start: !frame '165153'
+- end: !frame '165241'
+  lines:
+  - our sun...
+  start: !frame '165201'
+- end: !frame '165306'
+  lines:
+  - our Earth.
+  start: !frame '165269'
+- end: !frame '165451'
+  lines:
+  - It's all I've thought about--
+  - going home.
+  start: !frame '165358'
+- end: !frame '165593'
+  lines:
+  - A long time ago,
+  - you told a small boy...
+  start: !frame '165550'
+- end: !frame '165690'
+  lines:
+  - that one day he'd understand
+  - how much his father loved him.
+  start: !frame '165594'
+- end: !frame '165829'
+  lines:
+  - I could never see
+  - how much you cared...
+  start: !frame '165749'
+- end: !frame '165941'
+  lines:
+  - until now.
+  start: !frame '165897'
+- end: !frame '165969'
+  lines:
+  - Come.
+  start: !frame '165942'
+- end: !frame '166022'
+  lines:
+  - Let's go.
+  start: !frame '165970'
+- end: !frame '166159'
+  lines:
+  - I kept hoping he'd make it back.
+  start: !frame '166089'
+- end: !frame '166201'
+  lines:
+  - Good-bye, my love.
+  start: !frame '166160'
+- end: !frame '166310'
+  lines:
+  - Look!
+  start: !frame '166282'
+- end: !frame '166420'
+  lines:
+  - Don't make me wait another
+  - lifetime to know how you feel.
+  start: !frame '166348'
+- end: !frame '166703'
+  lines:
+  - Dad!
+  start: !frame '166652'
+- end: !frame '166915'
+  lines:
+  - Dad, it worked!
+  start: !frame '166818'
+- end: !frame '166976'
+  lines:
+  - Come with us!
+  start: !frame '166944'
+- end: !frame '167036'
+  lines:
+  - I can't.
+  start: !frame '166977'
+- end: !frame '167126'
+  lines:
+  - Only enough power for
+  - one person, one trip, remember?
+  start: !frame '167037'
+- end: !frame '167313'
+  lines:
+  - It's good to see you again, Mom.
+  start: !frame '167258'
+- end: !frame '167375'
+  lines:
+  - It's good to see you all.
+  start: !frame '167314'
+- end: !frame '167425'
+  lines:
+  - Take care of them, Will.
+  start: !frame '167376'
+- end: !frame '167656'
+  lines:
+  - Don't forget me.
+  start: !frame '167601'
+- end: !frame '167734'
+  lines:
+  - He sacrificed everything
+  - for his family.
+  start: !frame '167684'
+- end: !frame '167953'
+  lines:
+  - I'm glad you came back.
+  start: !frame '167918'
+- end: !frame '168060'
+  lines:
+  - I just want you to know
+  - I love you.
+  start: !frame '167994'
+- end: !frame '168159'
+  lines:
+  - I love you very much.
+  start: !frame '168099'
+- end: !frame '168407'
+  lines:
+  - The planet
+  - is breaking up around us.
+  start: !frame '168333'
+- end: !frame '168625'
+  lines:
+  - We're doomed!
+  start: !frame '168561'
+- end: !frame '168775'
+  lines:
+  - Boy, that felt good.
+  start: !frame '168737'
+- end: !frame '168819'
+  lines:
+  - Get us airborne.
+  start: !frame '168776'
+- end: !frame '168943'
+  lines:
+  - I'm going to try
+  - to reach escape velocity.
+  start: !frame '168861'
+- end: !frame '168983'
+  lines:
+  - We don't have the core material.
+  start: !frame '168944'
+- end: !frame '169025'
+  lines:
+  - The gravity wells
+  - will pull us back down.
+  start: !frame '168984'
+- end: !frame '169064'
+  lines:
+  - We might be able to--
+  start: !frame '169025'
+- end: !frame '169129'
+  lines:
+  - We won't make it. I know.
+  start: !frame '169065'
+- end: !frame '169194'
+  lines:
+  - We have to go...
+  start: !frame '169163'
+- end: !frame '169290'
+  lines:
+  - down--
+  start: !frame '169245'
+- end: !frame '169356'
+  lines:
+  - through the planet
+  - as she's breaking up.
+  start: !frame '169291'
+- end: !frame '169443'
+  lines:
+  - We can use
+  - the planet's gravity...
+  start: !frame '169357'
+- end: !frame '169471'
+  lines:
+  - What?
+  start: !frame '169444'
+- end: !frame '169552'
+  lines:
+  - to throw us out the other side
+  - and back into space.
+  start: !frame '169472'
+- end: !frame '169583'
+  lines:
+  - That's insane.
+  start: !frame '169553'
+- end: !frame '169635'
+  lines:
+  - I don't have time to argue.
+  start: !frame '169584'
+- end: !frame '169782'
+  lines:
+  - That's a direct order.
+  start: !frame '169741'
+- end: !frame '169880'
+  lines:
+  - Yes, sir, commander.
+  start: !frame '169841'
+- end: !frame '169976'
+  lines:
+  - This should be interesting.
+  start: !frame '169913'
+- end: !frame '170770'
+  lines:
+  - I see it.
+  start: !frame '170741'
+- end: !frame '170799'
+  lines:
+  - Full burn.
+  start: !frame '170771'
+- end: !frame '171075'
+  lines:
+  - Stop!
+  start: !frame '171048'
+- end: !frame '171105'
+  lines:
+  - -Right!
+  - -Left!
+  start: !frame '171076'
+- end: !frame '171133'
+  lines:
+  - Let me drive.
+  start: !frame '171105'
+- end: !frame '171395'
+  lines:
+  - All right, everybody,
+  - hold your noses.
+  start: !frame '171325'
+- end: !frame '171970'
+  lines:
+  - Rock and roll.
+  start: !frame '171915'
+- end: !frame '172740'
+  lines:
+  - Amazing.
+  start: !frame '172683'
+- end: !frame '172964'
+  lines:
+  - Nice work, flyboy.
+  start: !frame '172911'
+- end: !frame '173028'
+  lines:
+  - I earn that kiss yet?
+  start: !frame '172965'
+- end: !frame '173064'
+  lines:
+  - You earn this.
+  start: !frame '173029'
+- end: !frame '173276'
+  lines:
+  - This one's on credit.
+  start: !frame '173228'
+- end: !frame '173532'
+  lines:
+  - Cold fish, huh?
+  start: !frame '173497'
+- end: !frame '174053'
+  lines:
+  - There you are. Come here.
+  start: !frame '173993'
+- end: !frame '174169'
+  lines:
+  - Where have you been,
+  - you little creep?
+  start: !frame '174077'
+- end: !frame '174218'
+  lines:
+  - -Little creep?
+  - -Oh, great.
+  start: !frame '174170'
+- end: !frame '174254'
+  lines:
+  - Warning, Major West.
+  start: !frame '174219'
+- end: !frame '174326'
+  lines:
+  - My sensors indicate
+  - we have a problem.
+  start: !frame '174255'
+- end: !frame '174499'
+  lines:
+  - The planet's gravity field
+  - is collapsing.
+  start: !frame '174431'
+- end: !frame '174530'
+  lines:
+  - We'll be sucked in.
+  start: !frame '174500'
+- end: !frame '174568'
+  lines:
+  - No way to get clear in time.
+  start: !frame '174531'
+- end: !frame '174615'
+  lines:
+  - The hyperdrive.
+  start: !frame '174569'
+- end: !frame '174676'
+  lines:
+  - I'm accessing
+  - the Proteus star maps.
+  start: !frame '174616'
+- end: !frame '174712'
+  lines:
+  - Here we go again.
+  start: !frame '174677'
+- end: !frame '174772'
+  lines:
+  - Targeting Alpha Prime...
+  - I hope.
+  start: !frame '174713'
+- end: !frame '174872'
+  lines:
+  - Initiate...now.
+  start: !frame '174816'
+- end: !frame '174900'
+  lines:
+  - Cool.
+  start: !frame '174873'
+- end: !frame '175000'
+  lines:
+  - ''
+  start: !frame '174925'
