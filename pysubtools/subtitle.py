@@ -196,6 +196,13 @@ class SubtitleLine(UnicodeMixin, object):
   def __len__(self):
     return len(self.text)
 
+  @property
+  def meta(self):
+    d = dict(self.__dict__)
+    # Remove important part of metadata
+    d.pop('text')
+    return d
+
 class SubtitleLines(list):
   """Modified list class for special tratment of lines."""
   __slots__ = ()
