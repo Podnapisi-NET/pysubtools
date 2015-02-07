@@ -183,6 +183,12 @@ class MicroDVDParser(Parser):
       if not m:
         raise ParseError(self._current_line_num + 1, 1, self._current_line, "Could not parse line")
       else:
+        if not m.group('text'):
+          self.add_warning(ParseWarning(self._current_line_num + 1,
+                                        1,
+                                        self._fetch_line(self._current_line_num),
+                                        "Empty unit."))
+
         start, end = int(m.group('start')), int(m.group('end'))
         if fps:
           start /= fps
