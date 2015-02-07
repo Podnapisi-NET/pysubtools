@@ -22,14 +22,24 @@ class TestCase(unittest.TestCase):
     subtitle.add_unit(SubtitleUnit(
       start = 15,
       end   = 30,
-      lines = [u'First line with \u0161']
+      lines = ['First line with \u0161']
     ))
     subtitle.add_unit(SubtitleUnit(
-      start = 65,
-      end   = 89,
-      lines = [u'Another, but a two liner \u010d',
-               u'Yes, I  said two liner! \u017e']
+      start    = 65,
+      end      = 89,
+      position = {
+        'x': 50,
+        'y': 30,
+      },
+      lines = ['Another, but a two liner \u010d',
+               'Yes, I  said two liner! \u017e']
     ))
+    subtitle[0][0].special = True
+    subtitle[0][0].complex = {
+      'a': {'4': 2},
+      'b': [1,2,3]
+    }
+    subtitle[1][1].test = 'test'
 
     # Write it
     tmpfd, tmp = tempfile.mkstemp()
@@ -44,6 +54,14 @@ class TestCase(unittest.TestCase):
     # Remove temp files
     os.unlink(tmp)
     os.unlink(tmp2)
+
+    # And some minor things
+    # repr - just checking for exceptions
+    repr(subtitle)
+    for u in subtitle:
+      repr(u)
+      for l in u:
+        repr(l)
 
   def test_sif_gz(self):
     """Test gzipped 'Subtitle Intermediate Format' loaders and dumpers (just wrapped around GzipFile)."""

@@ -4,6 +4,7 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 import io
+import sys
 import yaml
 from .utils import UnicodeMixin
 
@@ -160,7 +161,7 @@ class SubtitleLine(UnicodeMixin, object):
   def export(self):
     """Returns line in format for export."""
     output = dict(self.__dict__)
-    text = output.pop('text', '').encode('utf8')
+    text = output.pop('text', '')
     if not output:
       output = text
     else:
@@ -169,23 +170,23 @@ class SubtitleLine(UnicodeMixin, object):
 
   @classmethod
   def from_export(cls, obj):
-    text = obj.get('text', b'')
-    if hasattr(text, 'decode'):
-      # Python3 compat
-      text = text.decode('utf-8')
-    obj['text'] = text
     return cls(**obj)
 
   def __unicode__(self):
     return self.text
 
-  def __repr__(self):
-    d = dict(self.__dict__)
-    text = d.pop('text', '').encode('utf8')
-    return "SubtitleLine({}{})".format(
-      text,
-      (', ' + ', '.join([' = '.join([k, unicode(v).encode('utf-8')]) for k, v in d.items()])) if d else ''
-    )
+  if sys.version_info[0] >= 3: # Python 3
+    def __repr__(self):
+      return "SubtitleLine({}{})".format(
+        self.text,
+        (', ' + ', '.join([' = '.join([k, str(v)]) for k, v in self.meta.items()])) if self.meta else ''
+      )
+  else:  # Python 2
+    def __repr__(self):
+      return "SubtitleLine({}{})".format(
+        self.text,
+        (', ' + ', '.join([' = '.join([k, unicode(v)]) for k, v in self.meta.items()])) if self.meta else ''
+      ).encode('utf8')
 
   def __eq__(self, other):
     if not isinstance(other, SubtitleLine):
@@ -353,13 +354,22 @@ class SubtitleUnit(object):
 
     return self.__dict__ == other.__dict__
 
-  def __repr__(self):
-    d = dict(self.__dict__)
-    # Get known attributes
-    start = d.pop('start')
-    end = d.pop('end')
-    lines = d.pop('_lines')
-    return "SubtitleUnit({}, {}, {}, {})".format(start, end, lines, d)
+  if sys.version_info[0] >= 3: # Python 3
+    def __repr__(self):
+      d = dict(self.__dict__)
+      # Get known attributes
+      start = d.pop('start')
+      end = d.pop('end')
+      lines = d.pop('_lines')
+      return "SubtitleUnit({}, {}, {}, {})".format(start, end, lines, d)
+  else: # Python2
+    def __repr__(self):
+      d = dict(self.__dict__)
+      # Get known attributes
+      start = d.pop('start')
+      end = d.pop('end')
+      lines = d.pop('_lines')
+      return b"SubtitleUnit({}, {}, {}, {})".format(start, end, repr(lines), d)
 
   def to_dict(self, human_time = True):
     """Returns subtitle unit as a dict (with some human readable things)."""
