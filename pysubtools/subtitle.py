@@ -361,6 +361,9 @@ class SubtitleUnit(object):
 
     return self.__dict__ == other.__dict__
 
+  def __len__(self):
+    return len(self._lines)
+
   if sys.version_info[0] >= 3: # Python 3
     def __repr__(self):
       d = dict(self.__dict__)
