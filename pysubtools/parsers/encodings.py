@@ -98,6 +98,8 @@ def detect(data, encoding = None, language = None):
   if not encodings:
     raise EncodingError("Have no clue where to start.")
 
+  # Reverse order
+  encodings.reverse()
   while True:
     encoding = encodings.pop()
     if can_decode(data, encoding if not isinstance(encoding, tuple) else encoding[0]):
