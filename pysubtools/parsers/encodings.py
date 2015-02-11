@@ -85,10 +85,10 @@ def detect(data, encoding = None, language = None):
     return 'utf16', None
 
   encodings = []
-  if language:
-    encodings += guess_from_lang(language)
   if encoding:
     encodings.append(encoding)
+  if language:
+    encodings += guess_from_lang(language)
 
   # Autodetect encoding
   detected = chardet.detect(data.read())
