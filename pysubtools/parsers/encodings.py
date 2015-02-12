@@ -41,6 +41,7 @@ def guess_from_lang(lang):
     'vi': ['windows-1258'],
     'fa': ['windows-1256'],
     'fi': ['iso8859-15'],
+    'es': ['iso8859-15'],
   }
 
   # Revert to chardet
