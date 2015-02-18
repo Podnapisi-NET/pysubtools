@@ -522,7 +522,7 @@ class Subtitle(object):
   def meta(self):
     # Remove non-metadata from dict
     d = dict(self.__dict__)
-    d.pop('_unit', None)
+    d.pop('_units', None)
     return d
 
   @classmethod
