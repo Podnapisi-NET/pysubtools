@@ -141,19 +141,23 @@ class MicroDVDParser(Parser):
 
     return output
 
-  @staticmethod
-  def _to_header_dict(h):
+  def _to_header_dict(self, h):
     if not h:
       return {}
 
-    h = h[1:-1]
-    # Take pair out, and strip them
-    d = dict([(j.strip() for j in i.split(':')) for i in h.split('}{')])
-    # Take only local ones
-    return {(k, v) for k, v in d.items() if k.islower()}
+    try:
+      h = h[1:-1]
+      # Take pair out, and strip them
+      d = dict([(j.strip() for j in i.split(':')) for i in h.split('}{')])
+      # Take only local ones
+      return {(k, v) for k, v in d.items() if k.islower()}
+    except ValueError:
+      # Cannot parse this header, probably it is wrong
+      line = self._fetch_line(self._current_line_num)
+      self.add_warning(self._current_line_num + 1, line.index(h), line, "It looks like a line header but it's not.")
+      return {}
 
-  @staticmethod
-  def _from_header_dict(h):
+  def _from_header_dict(self, h):
     if not h:
       return ''
     return '{' + '}{'.join([':'.join([k, v]) for k, v in h.items()]) + '}'
