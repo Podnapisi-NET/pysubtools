@@ -50,10 +50,11 @@ class Parser(object):
   encoding = None
   encoding_confidence = None
 
-  def __init__(self):
+  def __init__(self, stop_level = 'error'):
     self.warnings = []
     self.errors = []
     self._data = None
+    self._stop_level = stop_level
 
     # Part of the parser internals
     self._read_lines = []
@@ -150,7 +151,7 @@ class Parser(object):
     return sub
 
   @staticmethod
-  def from_data(data, encoding = None, language = None):
+  def from_data(data, encoding = None, language = None, **kwargs):
     """Returns a parser that can parse 'data' in raw string."""
     data = Parser._normalize_data(data)
     encoding, encoding_confidence = encodings.detect(data, encoding, language)
@@ -159,7 +160,7 @@ class Parser(object):
     for parser in Parser.__subclasses__():
       if not parser.can_parse(data):
         continue
-      parser = parser()
+      parser = parser(**kwargs)
       parser._data = io.TextIOWrapper(data, encoding, newline = '', errors = 'replace')
       parser.encoding = encoding
       parser.encoding_confidence = encoding_confidence
@@ -167,11 +168,11 @@ class Parser(object):
     raise NoParserError("Could not find parser.")
 
   @staticmethod
-  def from_format(format):
+  def from_format(format, **kwargs):
     """Returns a parser with 'name'."""
     for parser in Parser.__subclasses__():
       if parser.FORMAT == format:
-        return parser()
+        return parser(**kwargs)
     raise NoParserError("Could not find parser.")
 
   def __del__(self):
