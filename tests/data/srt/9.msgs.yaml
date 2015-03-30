@@ -1,10 +1,11 @@
-!!python/tuple
-- windows-1255
-- - col: 1
-    description: !!python/unicode 'Duplicated time information, ignoring.'
-    line: !!python/unicode '00:00:04,000 --> 00:00:08,000'
-    line_number: 6
-  - col: 1
-    description: !!python/unicode 'Duplicated time information, ignoring.'
-    line: !!python/unicode '00:03:41,080 --> 00:03:42,000'
-    line_number: 51
+encoding: windows-1255
+errors: []
+warnings:
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Duplicated time information, ignoring.'
+  !!python/unicode 'line': !!python/unicode '00:00:04,000 --> 00:00:08,000'
+  !!python/unicode 'line_number': 6
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Duplicated time information, ignoring.'
+  !!python/unicode 'line': !!python/unicode '00:03:41,080 --> 00:03:42,000'
+  !!python/unicode 'line_number': 51

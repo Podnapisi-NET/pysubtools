@@ -1,0 +1,816 @@
+---
+units:
+- end: !frame '1'
+  lines:
+  - '}25'
+  start: !frame '1'
+- end: !frame '100'
+  lines:
+  - "St\xE1hn\u011Bte v\u0161echny zp\xE1tky."
+  start: !frame '25'
+- end: !frame '175'
+  lines:
+  - "St\xE1hn\u011Bte je!"
+  start: !frame '100'
+- end: !frame '274'
+  lines:
+  - "Zp\xE1tky!"
+  - "Zp\xE1tky!"
+  start: !frame '175'
+- end: !frame '374'
+  lines:
+  - Kryjte se!
+  - "St\xE1hn\u011Bte se!"
+  start: !frame '274'
+- end: !frame '424'
+  lines:
+  - "Zp\xE1tky!"
+  start: !frame '374'
+- end: !frame '474'
+  lines:
+  - "-Zp\xE1tky!"
+  - "-Posp\u011B\u0161te si!"
+  start: !frame '424'
+- end: !frame '524'
+  lines:
+  - "Dovnit\u0159!"
+  - "Dosta\u0148te je dovnit\u0159!"
+  start: !frame '474'
+- end: !frame '873'
+  lines:
+  - Do hradu!
+  start: !frame '524'
+- end: !frame '998'
+  lines:
+  - "Nech\xE1m v\xE1s na z\xE1padn\xED hranici lesa."
+  start: !frame '873'
+- end: !frame '1247'
+  lines:
+  - "Odtamtud m\u016F\u017Eete j\xEDt na sever"
+  - "do va\u0161ich domov\u016F."
+  start: !frame '998'
+- end: !frame '1297'
+  lines:
+  - "Po\u010Dkej!"
+  - Zastav se!
+  start: !frame '1247'
+- end: !frame '1422'
+  lines:
+  - Zastav se!
+  start: !frame '1297'
+- end: !frame '1497'
+  lines:
+  - "Oto\u010D se!"
+  start: !frame '1422'
+- end: !frame '1547'
+  lines:
+  - "Oto\u010D se!"
+  - "Vezmi n\xE1s na jih!"
+  start: !frame '1497'
+- end: !frame '1696'
+  lines:
+  - Na jih...
+  - "Ale to v\xE1s dovede k \u017Delezn\xE9mu pasu."
+  start: !frame '1547'
+- end: !frame '1771'
+  lines:
+  - Ano.
+  - "P\u0159esn\u011B."
+  start: !frame '1696'
+- end: !frame '1846'
+  lines:
+  - "Kdy\u017E p\u016Fjdeme na jih,"
+  - "m\u016F\u017Eeme proj\xEDt okolo Sarumana ani\u017E by si n\xE1s v\u0161iml."
+  start: !frame '1771'
+- end: !frame '1921'
+  lines:
+  - "\u010C\xEDm bl\xED\u017Ee jsme k nebezpe\u010D\xED,"
+  - "t\xEDm d\xE1l jsme od zran\u011Bn\xED."
+  start: !frame '1846'
+- end: !frame '2045'
+  lines:
+  - "To je to posledn\xED,"
+  - "co oe\u010Dk\xE1v\xE1."
+  start: !frame '1921'
+- end: !frame '2220'
+  lines:
+  - "To mi ned\xE1v\xE1 smysl..."
+  - "Ale konec konc\u016F jste velmi mal\xED."
+  start: !frame '2045'
+- end: !frame '2320'
+  lines:
+  - "Mo\u017En\xE1 m\xE1te pravdu."
+  start: !frame '2220'
+- end: !frame '2420'
+  lines:
+  - Na jih tedy.
+  start: !frame '2320'
+- end: !frame '2544'
+  lines:
+  - "Poj\u010Fme mal\xED krajan\xE9."
+  start: !frame '2420'
+- end: !frame '2644'
+  lines:
+  - "V\u017Edycky chod\xEDm r\xE1d na jih."
+  start: !frame '2544'
+- end: !frame '2719'
+  lines:
+  - "N\u011Bjak mi to p\u0159ipom\xEDn\xE1 chozen\xED dol\u016F z hor."
+  start: !frame '2644'
+- end: !frame '2794'
+  lines:
+  - "Ze\u0161\xEDlel jsi!"
+  - "Chyt\xED n\xE1s!"
+  start: !frame '2719'
+- end: !frame '2869'
+  lines:
+  - "Nechyt\xED."
+  start: !frame '2794'
+- end: !frame '3093'
+  lines:
+  - "Tentokr\xE1t ne."
+  start: !frame '2869'
+- end: !frame '3143'
+  lines:
+  - "Pod\xEDvejte!"
+  start: !frame '3093'
+- end: !frame '3218'
+  lines:
+  - "Osgiliath ho\u0159\xED!"
+  start: !frame '3143'
+- end: !frame '3293'
+  lines:
+  - "Mordor p\u0159i\u0161el."
+  start: !frame '3218'
+- end: !frame '3368'
+  lines:
+  - "Prsten nezachr\xE1n\xED Gondor!"
+  start: !frame '3293'
+- end: !frame '3442'
+  lines:
+  - "M\xE1 jen s\xEDlu ni\u010Dit."
+  start: !frame '3368'
+- end: !frame '3542'
+  lines:
+  - "Pros\xEDm!"
+  - "Nechte m\u011B j\xEDt!"
+  start: !frame '3442'
+- end: !frame '3692'
+  lines:
+  - "Posp\u011B\u0161te si!"
+  start: !frame '3542'
+- end: !frame '3817'
+  lines:
+  - Faramire!
+  - "Mus\xED\u0161 m\u011B nechat j\xEDt!"
+  start: !frame '3692'
+- end: !frame '4340'
+  lines:
+  - "Kdo v\xED,"
+  - "mo\u017En\xE1 si na n\xE1s je\u0161t\u011B vzpomene."
+  start: !frame '3817'
+- end: !frame '4440'
+  lines:
+  - "Mnoho z t\u011Bchto strom\u016F bylo m\xFDmi p\u0159\xE1teli."
+  start: !frame '4340'
+- end: !frame '4615'
+  lines:
+  - "-Stvo\u0159en\xED, kter\xE1 zn\xE1m jako o\u0159ech a l\xEDska."
+  - "-Je mi l\xEDto Stromovousi."
+  start: !frame '4440'
+- end: !frame '4739'
+  lines:
+  - "M\u011Bli sv\xE9 vlastn\xED hlasy."
+  start: !frame '4615'
+- end: !frame '4839'
+  lines:
+  - Saruman...
+  start: !frame '4739'
+- end: !frame '5263'
+  lines:
+  - "\u010Carod\u011Bj by si to m\u011Bl l\xEDp rozmyslet."
+  start: !frame '4839'
+- end: !frame '5488'
+  lines:
+  - "Nen\xED \u017E\xE1dn\xE1 kletba v jazyce lid\xED, ent\u016F ani elf\u016F,"
+  - "kter\xE1 by mohla pomst\xEDt takovou zradu."
+  start: !frame '5263'
+- end: !frame '5613'
+  lines:
+  - "J\xE1 si to mus\xEDm vy\u0159\xEDdit se \u017Delezn\xFDm pasem."
+  start: !frame '5488'
+- end: !frame '6236'
+  lines:
+  - "Se sk\xE1lou a kamenem."
+  start: !frame '5613'
+- end: !frame '6311'
+  lines:
+  - Ano.
+  start: !frame '6236'
+- end: !frame '6386'
+  lines:
+  - "Poj\u010Fte moji p\u0159\xE1tel\xE9."
+  start: !frame '6311'
+- end: !frame '6660'
+  lines:
+  - "Entov\xE9 jdou do v\xE1lky."
+  - "Je mo\u017En\xE9, \u017Ee jdeme do sv\xE9 z\xE1huby."
+  start: !frame '6386'
+- end: !frame '7957'
+  lines:
+  - "Posledn\xED pochod ent\u016F."
+  start: !frame '6660'
+- end: !frame '8032'
+  lines:
+  - Faramire!
+  - "Orkov\xE9 maj\xEDv\xFDchodn\xED b\u0159eh."
+  start: !frame '7957'
+- end: !frame '8082'
+  lines:
+  - "Je jich p\u0159\xEDli\u0161 mnoho."
+  start: !frame '8032'
+- end: !frame '8182'
+  lines:
+  - "Do soumraku n\xE1s poraz\xED."
+  start: !frame '8082'
+- end: !frame '8257'
+  lines:
+  - Pane Frodo!
+  start: !frame '8182'
+- end: !frame '8357'
+  lines:
+  - "Vol\xE1 ho Same."
+  - "Jeho o\u010Di jsou skoro na m\u011B."
+  start: !frame '8257'
+- end: !frame '8756'
+  lines:
+  - "Budete v po\u0159\xE1dku pane Frodo."
+  - "V\u0161echno bude v po\u0159\xE1dku."
+  start: !frame '8357'
+- end: !frame '8830'
+  lines:
+  - "Vezm\u011Bte je do m\xE9ho stanu."
+  start: !frame '8756'
+- end: !frame '8980'
+  lines:
+  - "\u0158ekn\u011Bte mu, \u017Ee Faramir pos\xEDl\xE1 mocn\xFD dar."
+  start: !frame '8830'
+- end: !frame '9080'
+  lines:
+  - "Zbra\u0148, kter\xE1 obr\xE1t\xED \u0161t\u011Bst\xED v t\xE9to v\xE1lce."
+  start: !frame '8980'
+- end: !frame '9155'
+  lines:
+  - "Chce\u0161 v\u011Bd\u011Bt co se stalo Boromirovi?!"
+  start: !frame '9080'
+- end: !frame '9230'
+  lines:
+  - "Chce\u0161 v\u011Bd\u011Bt pro\u010D tv\u016Fj bratr zem\u0159el?!"
+  start: !frame '9155'
+- end: !frame '9329'
+  lines:
+  - "Cht\u011Bl vz\xEDt prsten Frodovi!"
+  - "Pot\xE9 co p\u0159\xEDsahal, \u017Ee ho bude chr\xE1nit!"
+  start: !frame '9230'
+- end: !frame '9404'
+  lines:
+  - "Proto zem\u0159el!"
+  start: !frame '9329'
+- end: !frame '9479'
+  lines:
+  - "Kv\u016Fli prstenu tv\u016Fj bratr ze\u0161\xEDlel!"
+  start: !frame '9404'
+- end: !frame '9778'
+  lines:
+  - "D\xE1vejte pozor!"
+  start: !frame '9479'
+- end: !frame '9878'
+  lines:
+  - Pane Frodo?
+  start: !frame '9778'
+- end: !frame '10003'
+  lines:
+  - Jsou tu...
+  start: !frame '9878'
+- end: !frame '10128'
+  lines:
+  - "P\u0159ich\xE1zej\xED..."
+  start: !frame '10003'
+- end: !frame '10602'
+  lines:
+  - -Nazgul!
+  - -Schovejte se!
+  start: !frame '10128'
+- end: !frame '10726'
+  lines:
+  - Ne!
+  start: !frame '10602'
+- end: !frame '10826'
+  lines:
+  - "Z\u016Fsta\u0148 tu, neukazuj se."
+  start: !frame '10726'
+- end: !frame '11325'
+  lines:
+  - Skryjte se!
+  start: !frame '10826'
+- end: !frame '11425'
+  lines:
+  - Hrad je dobyt.
+  - To je konec.
+  start: !frame '11325'
+- end: !frame '11525'
+  lines:
+  - "\u0158ekl jsi, \u017Ee tato pevnost nikdy nepadne,"
+  - "dokud ji budou tv\xED lid\xE9 chr\xE1nit!"
+  start: !frame '11425'
+- end: !frame '11649'
+  lines:
+  - "St\xE1le j\xED br\xE1n\xED!"
+  - "Um\xEDraj\xED p\u0159i tom!"
+  start: !frame '11525'
+- end: !frame '11899'
+  lines:
+  - "Dost\xE1vaj\xED se dovnit\u0159!"
+  start: !frame '11649'
+- end: !frame '12073'
+  lines:
+  - "Copak nen\xED jin\xE1 cesta,"
+  - "kudy by se \u017Eeny a d\u011Bti dostaly z jeskyn\u011B?"
+  start: !frame '11899'
+- end: !frame '12148'
+  lines:
+  - "Nen\xED jin\xE1 cesta?"
+  start: !frame '12073'
+- end: !frame '12248'
+  lines:
+  - "Je jeden pr\u016Fchod."
+  - Vede do hot.
+  start: !frame '12148'
+- end: !frame '12423'
+  lines:
+  - Ale en daleko.
+  - "Skurut-hai je p\u0159\xEDli\u0161 mnoho."
+  start: !frame '12248'
+- end: !frame '12497'
+  lines:
+  - "Po\u0161li vzkaz \u017Een\xE1m a d\u011Btem aby ode\u0161ly"
+  - "druh\xFDm pr\u016Fchodem do hor!"
+  start: !frame '12423'
+- end: !frame '12622'
+  lines:
+  - "-A zabarik\xE1duj vstup!"
+  - -Tolik smrti...
+  start: !frame '12497'
+- end: !frame '12822'
+  lines:
+  - "Co m\u016F\u017Ee \u010Dlov\u011Bk ud\u011Blat proti"
+  - "tak ni\u010D\xEDc\xED nen\xE1visti?"
+  start: !frame '12622'
+- end: !frame '12946'
+  lines:
+  - "Vyje\u010F se mnou."
+  start: !frame '12822'
+- end: !frame '13071'
+  lines:
+  - "-Vyje\u010F jim na proti."
+  - "-Pro smrt a chv\xE1lu."
+  start: !frame '12946'
+- end: !frame '13146'
+  lines:
+  - Za Rohan.
+  start: !frame '13071'
+- end: !frame '13196'
+  lines:
+  - "Za tv\u016Fj lid."
+  start: !frame '13146'
+- end: !frame '13370'
+  lines:
+  - "Slunce vych\xE1z\xED."
+  start: !frame '13196'
+- end: !frame '13445'
+  lines:
+  - "\"O\u010Dek\xE1vej m\u016Fj n\xE1vrat,"
+  - "za prvn\xEDho sv\u011Btla p\xE1t\xE9ho dne.\""
+  start: !frame '13370'
+- end: !frame '13620'
+  lines:
+  - "\"Za \xFAsvitu, hle\u010F na v\xFDchod.\""
+  start: !frame '13445'
+- end: !frame '13720'
+  lines:
+  - Ano.
+  start: !frame '13620'
+- end: !frame '13795'
+  lines:
+  - Ano.
+  start: !frame '13720'
+- end: !frame '13944'
+  lines:
+  - "Roh Helma \u017Eelezn\xE9ho kladiva,"
+  - "zazn\xED v hlubin\xE1ch!"
+  start: !frame '13795'
+- end: !frame '13994'
+  lines:
+  - Naposledy!
+  start: !frame '13944'
+- end: !frame '14119'
+  lines:
+  - Ano!
+  start: !frame '13994'
+- end: !frame '14767'
+  lines:
+  - "Nech\u0165 toto je hodina,"
+  - "ve kter\xE9 spole\u010Dn\u011B tas\xEDme me\u010De."
+  start: !frame '14119'
+- end: !frame '15990'
+  lines:
+  - Za lid Eorla!
+  start: !frame '14767'
+- end: !frame '16214'
+  lines:
+  - Gandalf...
+  start: !frame '15990'
+- end: !frame '16339'
+  lines:
+  - "Kr\xE1l Theoden v\xE1l\u010D\xED s\xE1m."
+  start: !frame '16214'
+- end: !frame '16563'
+  lines:
+  - "Nen\xED s\xE1m."
+  - Rohirrim!
+  start: !frame '16339'
+- end: !frame '16613'
+  lines:
+  - Eomer...
+  start: !frame '16563'
+- end: !frame '16688'
+  lines:
+  - "Za kr\xE1le!"
+  start: !frame '16613'
+- end: !frame '18858'
+  lines:
+  - Ano!
+  start: !frame '16688'
+- end: !frame '19582'
+  lines:
+  - "Z\xE1sah!"
+  - "P\u011Bkn\xFD z\xE1sah!"
+  start: !frame '18858'
+- end: !frame '19632'
+  lines:
+  - "Mocn\u011B zat\xE1hn\u011Bte!"
+  start: !frame '19582'
+- end: !frame '20405'
+  lines:
+  - "Uvoln\u011Bte sk\xE1ly!"
+  start: !frame '19632'
+- end: !frame '20604'
+  lines:
+  - Pipinie!
+  - "Dr\u017E se!"
+  start: !frame '20405'
+- end: !frame '21702'
+  lines:
+  - "\xD3 ano, dr\u017Ete se hobiti!"
+  start: !frame '20604'
+- end: !frame '21952'
+  lines:
+  - "Co to d\u011Bl\xE1te?"
+  start: !frame '21702'
+- end: !frame '23448'
+  lines:
+  - Kam jdete?!
+  start: !frame '21952'
+- end: !frame '23548'
+  lines:
+  - "To jsem j\xE1..."
+  start: !frame '23448'
+- end: !frame '23723'
+  lines:
+  - "V\xE1\u0161 Sam."
+  start: !frame '23548'
+- end: !frame '24222'
+  lines:
+  - "Nepozn\xE1te sv\xE9ho Sama?!"
+  start: !frame '23723'
+- end: !frame '24321'
+  lines:
+  - "Nedok\xE1\u017Eu to Same."
+  start: !frame '24222'
+- end: !frame '24396'
+  lines:
+  - "J\xE1 v\xEDm."
+  start: !frame '24321'
+- end: !frame '24471'
+  lines:
+  - "Nic nen\xED takov\xE9, jak\xE9 by m\u011Blo b\xFDt."
+  start: !frame '24396'
+- end: !frame '24720'
+  lines:
+  - "Vlastn\u011B bychom tu v\u016Fbec nem\u011Bli b\xFDt!"
+  start: !frame '24471'
+- end: !frame '24920'
+  lines:
+  - Ale jsme.
+  start: !frame '24720'
+- end: !frame '24995'
+  lines:
+  - "Je to jako ve velk\xFDch p\u0159\xEDb\u011Bz\xEDch, pane Frodo."
+  start: !frame '24920'
+- end: !frame '25169'
+  lines:
+  - "Ty, kter\xE9 byly skute\u010Dn\u011B d\u016Fle\u017Eit\xE9,"
+  - "byly pln\xE9 temnoty a nebezpe\u010D\xED."
+  start: !frame '24995'
+- end: !frame '25394'
+  lines:
+  - "A n\u011Bkdy jste ani necht\u011Bl zn\xE1t konec,"
+  - "proto\u017Ee jak by mohl b\xFDt \u0161\u0165astn\xFD?!."
+  start: !frame '25169'
+- end: !frame '25494'
+  lines:
+  - "Jak se mohl sv\u011Bt znovu st\xE1t takov\xFDm, jak\xFD byl,"
+  - "kdy\u017E se da\u0159ilo zlu?"
+  start: !frame '25394'
+- end: !frame '25668'
+  lines:
+  - "V\xEDt\u011Bzstv\xED!"
+  - "V\xEDt\u011Bzstv\xED!"
+  start: !frame '25494'
+- end: !frame '25768'
+  lines:
+  - Ale nakonec,
+  - "jen to jen pom\xEDjiv\xE9..."
+  start: !frame '25668'
+- end: !frame '25893'
+  lines:
+  - "St\xEDn, i temnota mus\xED oedj\xEDt..."
+  start: !frame '25768'
+- end: !frame '25968'
+  lines:
+  - "Nov\xFD den p\u0159ijde..."
+  start: !frame '25893'
+- end: !frame '26117'
+  lines:
+  - "A kdy\u017E slunce za\u010Dne sv\xEDtit,"
+  - "bude sv\xEDtit jasn\u011Bji..."
+  start: !frame '25968'
+- end: !frame '26192'
+  lines:
+  - "To byly p\u0159\xEDb\u011Bhy,"
+  - "kter\xE9 s v\xE1mi z\u016Fst\xE1valy..."
+  start: !frame '26117'
+- end: !frame '26242'
+  lines:
+  - "Kter\xE9 n\u011Bco znamenaly..."
+  start: !frame '26192'
+- end: !frame '26317'
+  lines:
+  - "I kdy\u017E jste byl p\u0159\xEDli\u0161 mal\xFD na to,"
+  - "abyste rozumn\u011Bl pro\u010D..."
+  start: !frame '26242'
+- end: !frame '26417'
+  lines:
+  - "Ale mysl\xEDm si, pane Frodo,"
+  - "\u017Ee rozum\xEDm..."
+  start: !frame '26317'
+- end: !frame '26492'
+  lines:
+  - "Te\u010F v\xEDm..."
+  start: !frame '26417'
+- end: !frame '26666'
+  lines:
+  - "Lid\xE9 z t\u011Bch p\u0159\xEDb\u011Bh\u016F m\u011Bli mnoho p\u0159\xEDle\u017E\
+    itost\xED se vr\xE1tit,"
+  - "ale neud\u011Blali to..."
+  start: !frame '26492'
+- end: !frame '26741'
+  lines:
+  - "\u0160li d\xE1l..."
+  start: !frame '26666'
+- end: !frame '26866'
+  lines:
+  - "Proto\u017Ee se m\u011Bli \u010Deho dr\u017Eet..."
+  start: !frame '26741'
+- end: !frame '27215'
+  lines:
+  - "\u010Ceho se m\u016F\u017Eeme dr\u017Eet my, Same?"
+  start: !frame '26866'
+- end: !frame '27315'
+  lines:
+  - "\u017De na tomto sv\u011Bt\u011B je n\u011Bjak\xE9 donro, pane Frodo..."
+  start: !frame '27215'
+- end: !frame '28063'
+  lines:
+  - "A stoj\xED za to o n\u011Bj bojovat."
+  start: !frame '27315'
+- end: !frame '28238'
+  lines:
+  - "-Mysl\xEDm \u017Ee si kone\u010Dn\u011B vz\xE1jemn\u011B rozum\xEDme, Frodo Pytl\xED\
+    ku."
+  - "-Zn\xE1\u0161 z\xE1kony na\u0161ich zem\xED..."
+  start: !frame '28063'
+- end: !frame '28437'
+  lines:
+  - "Z\xE1kony tv\xE9ho otce."
+  - "Jestli je nech\xE1\u0161 j\xEDt, tv\u016Fj \u017Eivot bude ztracen."
+  start: !frame '28238'
+- end: !frame '28537'
+  lines:
+  - Potom je ztracen.
+  start: !frame '28437'
+- end: !frame '28861'
+  lines:
+  - "Pus\u0165te je!"
+  start: !frame '28537'
+- end: !frame '29161'
+  lines:
+  - "Sauronova ztr\xE1ta bude hroziv\xE1."
+  - "Jeho pomsta rychl\xE1."
+  start: !frame '28861'
+- end: !frame '29260'
+  lines:
+  - "Bitva o Helm\u016Fv \u017Eleb skon\u010Dila."
+  start: !frame '29161'
+- end: !frame '29460'
+  lines:
+  - "Bitva o St\u0159edozem pr\xE1v\u011B za\u010Dala."
+  start: !frame '29260'
+- end: !frame '29585'
+  lines:
+  - "V\u0161echna na\u0161e nad\u011Bje"
+  - "nyn\xED le\u017E\xED na dvou mal\xFDch hobitech..."
+  start: !frame '29460'
+- end: !frame '29734'
+  lines:
+  - "Kdesi v divo\u010Din\u011B."
+  start: !frame '29585'
+- end: !frame '29834'
+  lines:
+  - "Zaj\xEDmalo by m\u011B,"
+  - "jestli n\u011Bkdy budeme v p\xEDsn\xEDch, nebo p\u0159\xEDb\u011Bz\xEDch."
+  start: !frame '29734'
+- end: !frame '29884'
+  lines:
+  - "Co\u017Ee?"
+  start: !frame '29834'
+- end: !frame '29984'
+  lines:
+  - "Zaj\xEDmalo by m\u011B, jestli budou lid\xE9 n\u011Bkdy \u0159\xEDkat:"
+  - "\"Poslechn\u011Bte si o Frodovi a prstenu.\""
+  start: !frame '29884'
+- end: !frame '30059'
+  lines:
+  - "A oni \u0159eknou:"
+  - "\"Ano to je jeden z m\xFDch nejobl\xEDben\u011Bj\u0161\xEDch p\u0159\xEDb\u011B\
+    h\u016F.\""
+  start: !frame '29984'
+- end: !frame '30183'
+  lines:
+  - "\"Frodo byl opravdu odv\xE1\u017En\xFD, \u017Ee ano tati?\""
+  - "\"Ano, m\u016Fj synu.\""
+  start: !frame '30059'
+- end: !frame '30283'
+  lines:
+  - "\"Nejslavn\u011Bj\u0161\xED z hobit\u016F"
+  - "a to \u0159\xEDk\xE1 mnoho.\""
+  start: !frame '30183'
+- end: !frame '30408'
+  lines:
+  - "Zapomn\u011Bli jste na jednu z nejd\u016Fle\u017Eit\u011Bj\u0161\xEDch postav\
+    \ - Samv\u011Bda state\u010Dn\xE9ho."
+  start: !frame '30283'
+- end: !frame '30582'
+  lines:
+  - "\"J\xE1 chci sly\u0161et v\xEDc o Samovi!\""
+  start: !frame '30408'
+- end: !frame '30682'
+  lines:
+  - '"Frodo by se bez Sama daleko nedostal."'
+  start: !frame '30582'
+- end: !frame '30757'
+  lines:
+  - Pane Frodo.
+  - "Nem\u011Bl byste \u017Eertovat,"
+  start: !frame '30682'
+- end: !frame '31056'
+  lines:
+  - "-j\xE1 jsem mluvil v\xE1\u017En\u011B."
+  - "-J\xE1 tak\xE9."
+  start: !frame '30757'
+- end: !frame '31231'
+  lines:
+  - "Samv\u011Bd state\u010Dn\xFD."
+  start: !frame '31056'
+- end: !frame '31306'
+  lines:
+  - "Sm\xE9agole!"
+  - "Nebudeme na tebe \u010Dekat!"
+  start: !frame '31231'
+- end: !frame '31356'
+  lines:
+  - "Poj\u010F!"
+  start: !frame '31306'
+- end: !frame '31505'
+  lines:
+  - "P\xE1n..."
+  - "P\xE1n se o n\xE1s star\xE1..."
+  start: !frame '31356'
+- end: !frame '31580'
+  lines:
+  - "P\xE1n by n\xE1m neubl\xED\u017Eil..."
+  start: !frame '31505'
+- end: !frame '31655'
+  lines:
+  - "P\xE1n poru\u0161il sv\u016Fj slib!"
+  start: !frame '31580'
+- end: !frame '31780'
+  lines:
+  - "Nepros Sm\xE9agola..."
+  - "Chud\xE1k, chud\xE1k Sm\xE9agol..."
+  start: !frame '31655'
+- end: !frame '31880'
+  lines:
+  - "P\xE1n n\xE1s zradil!"
+  start: !frame '31780'
+- end: !frame '32029'
+  lines:
+  - "Podl\xFD, vychytral\xFD, fale\u0161n\xFD!"
+  - "Zlom\xEDme jeho \u0161pinav\xFD mal\xFD krk!"
+  start: !frame '31880'
+- end: !frame '32104'
+  lines:
+  - Zabij ho!
+  - Zabij ho!
+  start: !frame '32029'
+- end: !frame '32154'
+  lines:
+  - Zabij je oba!
+  start: !frame '32104'
+- end: !frame '32354'
+  lines:
+  - "A potom si vezmeme mil\xE1\u0161ka"
+  - "a my budeme p\xE1nem!"
+  start: !frame '32154'
+- end: !frame '32503'
+  lines:
+  - "Ale tlust\xFD hobit, kdo v\xED,"
+  - "jeho o\u010Di jsou st\xE1le ve st\u0159ehu."
+  start: !frame '32354'
+- end: !frame '32703'
+  lines:
+  - Potom je vybodneme,
+  - "jeho o\u010Di, tak\u017Ee on se bude plazit."
+  start: !frame '32503'
+- end: !frame '32828'
+  lines:
+  - Ano, ano, ano!
+  start: !frame '32703'
+- end: !frame '32927'
+  lines:
+  - -Zabij je oba!
+  - -Ano! -Ne, ne!
+  start: !frame '32828'
+- end: !frame '33052'
+  lines:
+  - "Je to p\u0159\xEDli\u0161 riskantn\xED, p\u0159\xEDli\u0161 riskantn\xED!"
+  start: !frame '32927'
+- end: !frame '33102'
+  lines:
+  - Kde je?
+  - Kam zmizel?
+  start: !frame '33052'
+- end: !frame '33152'
+  lines:
+  - Hej Glume?
+  - Kde jsi?
+  start: !frame '33102'
+- end: !frame '33351'
+  lines:
+  - "-Sm\xE9gole?"
+  - "-Mohli bychom ji nechat aby to ud\u011Blala..."
+  start: !frame '33152'
+- end: !frame '33576'
+  lines:
+  - "Ano! Ona by to mohla ud\u011Blat."
+  - "Ano mil\xE1\u0161ku... Mohla by..."
+  start: !frame '33351'
+- end: !frame '33726'
+  lines:
+  - A potom si ho vezmeme,
+  - "a\u017E budou mrtv\xED..."
+  start: !frame '33576'
+- end: !frame '33925'
+  lines:
+  - "A\u017E budou mrtv\xED."
+  start: !frame '33726'
+- end: !frame '34025'
+  lines:
+  - "Poj\u010Fte hobiti!"
+  - "Je\u0161t\u011B p\u0159ed sebou m\xE1me velk\xFD kus cesty."
+  start: !frame '33925'
+- end: !frame '34125'
+  lines:
+  - "Sm\xE9agol v\xE1m uk\xE1\u017Ee cestu."
+  - "Poj\u010Fte za mnou."
+  start: !frame '34025'

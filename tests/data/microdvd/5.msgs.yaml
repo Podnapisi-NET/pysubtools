@@ -1,0 +1,8 @@
+encoding: !!python/unicode 'windows-1250'
+errors: []
+warnings:
+- !!python/unicode 'col': 34
+  !!python/unicode 'description': !!python/unicode 'It looks like a line header but
+    it''s not.'
+  !!python/unicode 'line': "{0}{0}Vy\u0161lete jezdce na worz\xEDch.|{worgov\xE9}"
+  !!python/unicode 'line_number': 2

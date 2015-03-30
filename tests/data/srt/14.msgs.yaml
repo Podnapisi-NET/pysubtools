@@ -1,9 +1,10 @@
-!!python/tuple
-- utf-8
-- - col: 129
-    description: !!python/unicode 'Missing empty line after unit.'
-    line: "<b><i><font color=\"#71df6a\">\u0D8B\u0DB4\u0DC3\u0DD2\u0DBB\u0DD0\u0DC3\
-      \u0DD2 \u0DB1\u0DD2\u0DB4\u0DD0\u0DBA\u0DD4\u0DB8 -<font color=\"#408080\" face=\"\
-      Snap ITC\"> \xD1 . K . \xC4\xD1\xDCR\xDCDDH\xC4  DISS\xC4\xD1\xC4Y\xC4K\xC9\
-      </font></font>"
-    line_number: 8096
+encoding: utf-8
+errors: []
+warnings:
+- !!python/unicode 'col': 129
+  !!python/unicode 'description': !!python/unicode 'Missing empty line after unit.'
+  !!python/unicode 'line': "<b><i><font color=\"#71df6a\">\u0D8B\u0DB4\u0DC3\u0DD2\
+    \u0DBB\u0DD0\u0DC3\u0DD2 \u0DB1\u0DD2\u0DB4\u0DD0\u0DBA\u0DD4\u0DB8 -<font color=\"\
+    #408080\" face=\"Snap ITC\"> \xD1 . K . \xC4\xD1\xDCR\xDCDDH\xC4  DISS\xC4\xD1\
+    \xC4Y\xC4K\xC9</font></font>"
+  !!python/unicode 'line_number': 8096

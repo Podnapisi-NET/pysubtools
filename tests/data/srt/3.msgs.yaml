@@ -1,6 +1,7 @@
-!!python/tuple
-- ISO-8859-2
-- - col: 29
-    description: !!python/unicode 'Missing empty line after unit.'
-    line: !!python/unicode '00:22:35,322 --> 00:22:39,326'
-    line_number: 1647
+encoding: ISO-8859-2
+errors: []
+warnings:
+- !!python/unicode 'col': 29
+  !!python/unicode 'description': !!python/unicode 'Missing empty line after unit.'
+  !!python/unicode 'line': !!python/unicode '00:22:35,322 --> 00:22:39,326'
+  !!python/unicode 'line_number': 1647

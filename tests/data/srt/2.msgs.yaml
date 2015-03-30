@@ -1,6 +1,7 @@
-!!python/tuple
-- windows-1250
-- - col: 32
-    description: !!python/unicode 'Missing empty line after unit.'
-    line: "Z angli\u010Dtiny p\u0159elo\u017Eil LUKE SNAKE"
-    line_number: 4069
+encoding: !!python/unicode 'windows-1250'
+errors: []
+warnings:
+- !!python/unicode 'col': 32
+  !!python/unicode 'description': !!python/unicode 'Missing empty line after unit.'
+  !!python/unicode 'line': "Z angli\u010Dtiny p\u0159elo\u017Eil LUKE SNAKE"
+  !!python/unicode 'line_number': 4069

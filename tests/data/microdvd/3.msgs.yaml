@@ -1,6 +1,7 @@
-!!python/tuple
-- ascii
-- - !!python/unicode 'col': 1
-    !!python/unicode 'description': !!python/unicode 'Empty unit.'
-    !!python/unicode 'line': !!python/unicode '{174925}{175000}'
-    !!python/unicode 'line_number': 1562
+encoding: ascii
+errors: []
+warnings:
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Empty unit.'
+  !!python/unicode 'line': !!python/unicode '{174925}{175000}'
+  !!python/unicode 'line_number': 1562

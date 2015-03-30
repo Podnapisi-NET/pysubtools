@@ -1,6 +1,7 @@
-!!python/tuple
-- ascii
-- - col: 15
-    description: !!python/unicode 'Missing empty line after unit.'
-    line: !!python/unicode 'I will take it.'
-    line_number: 5689
+encoding: ascii
+errors: []
+warnings:
+- !!python/unicode 'col': 15
+  !!python/unicode 'description': !!python/unicode 'Missing empty line after unit.'
+  !!python/unicode 'line': !!python/unicode 'I will take it.'
+  !!python/unicode 'line_number': 5689

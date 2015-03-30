@@ -1,103 +1,110 @@
-!!python/tuple
-- GB18030
-- - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17\\an5}\u5927 \u7269"
-    line_number: 3
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17\\an4}\u9AD8"
-    line_number: 7
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17\\an6}\u6743"
-    line_number: 13
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17\\an4}\u8F66"
-    line_number: 19
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17\\an4}\u674E"
-    line_number: 25
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17\\an5}\u674E\u987A\u8F7D     \u6734\u6839\u6EE2"
-    line_number: 31
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\an5}\u5927 \u7269"
-    line_number: 35
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an5}-=\u7B2C7\u96C6=-"
-    line_number: 44
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u6211\u7231\u4F60 \u6211\u7231\u4F60"
-    line_number: 4342
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u6211\u7684\u8BDD\u4F60\u542C\u4E0D\u5230\u5417"
-    line_number: 4346
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u7231\u4F60\u7231\u5230\u54ED\u6CE3"
-    line_number: 4350
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u6211\u7684\u5FC3\u4F60\u770B\u4E0D\u89C1\u5417"
-    line_number: 4354
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u5373\u4F7F\u4E00\u5207\u6709\u547C\u5438\u7684\u4E1C\u897F"
-    line_number: 4358
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u5168\u90E8\u6B7B\u6389\u4E5F\u4E0D\u5728\u610F \u6211\u53EA\
-      \u7231\u4F60\u4E00\u4E2A"
-    line_number: 4362
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u62C5\u5FC3\u8FD9\u5E78\u798F\u662F\u5426\u4F1A\u50CF\u7070\
-      \u5C18\u4E00\u6837\u98DE\u6563"
-    line_number: 4366
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an7}\u8BF7\u62B1\u7D27\u72EC\u81EA\u4E0D\u5B89\u7684\u6211"
-    line_number: 4370
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17}-=\u521D\u9009\u8BAE\u5458:\u521A\u521A\u5F53\u9009\u7684\u8BAE\
-      \u5458;\u518D\u9009\u8BAE\u5458:\u4EFB\u4E24\u5C4A\u7684\u8BAE\u5458=-"
-    line_number: 4374
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17}-=\u4E09\u9009\u8BAE\u5458:\u4EFB\u4E09\u5C4A\u7684\u8BAE\u5458\
-      =-"
-    line_number: 4378
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17}-=\u56DB\u9009\u8BAE\u5458:\u4EFB\u56DB\u5C4A\u7684\u8BAE\u5458\
-      =-"
-    line_number: 4382
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17}-=\u515A\u8BBA:\u4EE3\u8868\u515A\u6D3E\u7ACB\u573A\u7684\u8A00\
-      \u8BBA\u53CA\u8BBA\u8C03=-"
-    line_number: 4386
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs17}-=\u4E3E\u624B\u673A:\u8D2C\u4F4E\u5F00\u4F1A\u65F6\u6CA1\u6709\
-      \u4E3B\u89C1\u6309\u7167\u522B\u4EBA\u5429\u5490\u4E3E\u624B\u7684\u4EBA=-"
-    line_number: 4390
-  - col: 1
-    description: !!python/unicode 'Tagged header not fully parsed.'
-    line: "{\\fs16\\an5}-=\u6C11\u53CB\u515A\u56FD\u5BB6\u8D22\u653F\u6CD5\u4FEE\u6B63\
-      \u6848:\u5077\u6765\u7684\u901A\u8FC7=-"
-    line_number: 4394
-  - col: 20
-    description: !!python/unicode 'Missing empty line after unit.'
-    line: "-=\u5F90\u6167\u7433\u8BAE\u5458:\u6267\u653F\u515A\u5185\u552F\u4E001\u7968\
-      \u53CD\u5BF9=-"
-    line_number: 4395
+encoding: !!python/unicode 'GB18030'
+errors: []
+warnings:
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17\\an5}\u5927 \u7269"
+  !!python/unicode 'line_number': 3
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17\\an4}\u9AD8"
+  !!python/unicode 'line_number': 7
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17\\an6}\u6743"
+  !!python/unicode 'line_number': 13
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17\\an4}\u8F66"
+  !!python/unicode 'line_number': 19
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17\\an4}\u674E"
+  !!python/unicode 'line_number': 25
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17\\an5}\u674E\u987A\u8F7D     \u6734\u6839\u6EE2"
+  !!python/unicode 'line_number': 31
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\an5}\u5927 \u7269"
+  !!python/unicode 'line_number': 35
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an5}-=\u7B2C7\u96C6=-"
+  !!python/unicode 'line_number': 44
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u6211\u7231\u4F60 \u6211\u7231\u4F60"
+  !!python/unicode 'line_number': 4342
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u6211\u7684\u8BDD\u4F60\u542C\u4E0D\u5230\
+    \u5417"
+  !!python/unicode 'line_number': 4346
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u7231\u4F60\u7231\u5230\u54ED\u6CE3"
+  !!python/unicode 'line_number': 4350
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u6211\u7684\u5FC3\u4F60\u770B\u4E0D\u89C1\
+    \u5417"
+  !!python/unicode 'line_number': 4354
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u5373\u4F7F\u4E00\u5207\u6709\u547C\u5438\
+    \u7684\u4E1C\u897F"
+  !!python/unicode 'line_number': 4358
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u5168\u90E8\u6B7B\u6389\u4E5F\u4E0D\u5728\
+    \u610F \u6211\u53EA\u7231\u4F60\u4E00\u4E2A"
+  !!python/unicode 'line_number': 4362
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u62C5\u5FC3\u8FD9\u5E78\u798F\u662F\u5426\
+    \u4F1A\u50CF\u7070\u5C18\u4E00\u6837\u98DE\u6563"
+  !!python/unicode 'line_number': 4366
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an7}\u8BF7\u62B1\u7D27\u72EC\u81EA\u4E0D\u5B89\
+    \u7684\u6211"
+  !!python/unicode 'line_number': 4370
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17}-=\u521D\u9009\u8BAE\u5458:\u521A\u521A\u5F53\u9009\
+    \u7684\u8BAE\u5458;\u518D\u9009\u8BAE\u5458:\u4EFB\u4E24\u5C4A\u7684\u8BAE\u5458\
+    =-"
+  !!python/unicode 'line_number': 4374
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17}-=\u4E09\u9009\u8BAE\u5458:\u4EFB\u4E09\u5C4A\u7684\
+    \u8BAE\u5458=-"
+  !!python/unicode 'line_number': 4378
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17}-=\u56DB\u9009\u8BAE\u5458:\u4EFB\u56DB\u5C4A\u7684\
+    \u8BAE\u5458=-"
+  !!python/unicode 'line_number': 4382
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17}-=\u515A\u8BBA:\u4EE3\u8868\u515A\u6D3E\u7ACB\u573A\
+    \u7684\u8A00\u8BBA\u53CA\u8BBA\u8C03=-"
+  !!python/unicode 'line_number': 4386
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs17}-=\u4E3E\u624B\u673A:\u8D2C\u4F4E\u5F00\u4F1A\u65F6\
+    \u6CA1\u6709\u4E3B\u89C1\u6309\u7167\u522B\u4EBA\u5429\u5490\u4E3E\u624B\u7684\
+    \u4EBA=-"
+  !!python/unicode 'line_number': 4390
+- !!python/unicode 'col': 1
+  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
+  !!python/unicode 'line': "{\\fs16\\an5}-=\u6C11\u53CB\u515A\u56FD\u5BB6\u8D22\u653F\
+    \u6CD5\u4FEE\u6B63\u6848:\u5077\u6765\u7684\u901A\u8FC7=-"
+  !!python/unicode 'line_number': 4394
+- !!python/unicode 'col': 20
+  !!python/unicode 'description': !!python/unicode 'Missing empty line after unit.'
+  !!python/unicode 'line': "-=\u5F90\u6167\u7433\u8BAE\u5458:\u6267\u653F\u515A\u5185\
+    \u552F\u4E001\u7968\u53CD\u5BF9=-"
+  !!python/unicode 'line_number': 4395
