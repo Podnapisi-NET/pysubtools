@@ -52,7 +52,7 @@ class SubRipExporter(Exporter):
     output.append("{} --> {}".format(self._convert_time(unit.start),
                                      self._convert_time(unit.end)).encode(self._encoding))
     # Text
-    output.append(self._line_ending.join([i.encode(self._encoding) for i in unit.lines]))
+    output.append(self._line_ending.join([i.encode(self._encoding, 'ignore') for i in unit.lines]))
 
     # End of line
     output.append(b'')
