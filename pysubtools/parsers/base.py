@@ -40,13 +40,19 @@ class ParseWarning(ParseError):
 class Parser(object):
   """Abstract class for all parsers.
   """
+  LEVELS = (
+    'warning',
+    'error'
+  )
   _subtitle = None
+  _stop_level = 'error'
   parsed = None
   encoding = None
   encoding_confidence = None
 
   def __init__(self):
     self.warnings = []
+    self.errors = []
     self._data = None
 
     # Part of the parser internals
@@ -54,21 +60,38 @@ class Parser(object):
     self._current_line_num = -1
     self._current_line = None
 
-  def add_warning(self, e):
+  def _add_msg(self, level, line_number, column, line, description):
+    if self._stop_level and self.LEVELS.index(level) >= self.LEVELS.index(self._stop_level):
+      if level == 'warning':
+        raise ParseWarning(line_number, column, line, description)
+      elif level == 'error':
+        raise ParseError(line_number, column, line, description)
+
     try:
-      line = unicode(e.line)
-      description = unicode(e.description)
+      line = unicode(line)
+      description = unicode(description)
     except NameError:
       # Python3 compat
-      line = str(e.line)
-      description = str(e.description)
+      line = str(line)
+      description = str(description)
 
-    self.warnings.append({
-      'line_number': int(e.line_number),
-      'col': int(e.column),
+    msg = {
+      'line_number': int(line_number),
+      'col': int(column),
       'line': line,
       'description': description
-    })
+    }
+
+    if level == 'warning':
+      self.warnings.append(msg)
+    elif level == 'error':
+      self.errors.append(msg)
+
+  def add_warning(self, *args, **kwargs):
+    self._add_msg('warning', *args, **kwargs)
+
+  def add_error(self, *args, **kwargs):
+    self._add_msg('error', *args, **kwargs)
 
   @staticmethod
   def _normalize_data(data):

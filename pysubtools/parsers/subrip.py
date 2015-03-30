@@ -8,11 +8,14 @@ import io
 from state_machine import acts_as_state_machine, before, after,\
                           State, Event, InvalidStateTransition
 
-from .base import Parser, ParseError, ParseWarning
+from .base import Parser
 
 @acts_as_state_machine
 class SubRipStateMachine(object):
   name = 'SubRip State machine'
+
+  class Skip(Exception):
+    pass
 
   # Let us define some states
   start = State(initial = True)
@@ -109,7 +112,8 @@ class SubRipStateMachine(object):
     if sequence - previous_seq != 1:
       self.pause()
       self.current_line = str(previous_seq + 1)
-      raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Sequence number out of sync")
+      self.parser.add_warning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Sequence number out of sync")
+      raise self.Skip
 
     if self.current_state == self.unit_text:
       # We need to remove last empty line
@@ -128,10 +132,12 @@ class SubRipStateMachine(object):
   @before('found_header')
   def validate_header(self):
     if self.is_unit_text:
-      raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "Duplicated time information, ignoring.")
+      self.parser.add_warning(self.current_line_num + 1, 1, self.current_line, "Duplicated time information, ignoring.")
+      raise self.Skip
     if self.is_start:
       self.skip_sequence()
-      raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "New unit starts without a sequence.")
+      self.parser.add_warning(self.current_line_num + 1, 1, self.current_line, "New unit starts without a sequence.")
+      raise self.Skip
 
     if '.' in self.current_line:
       # Stay on same line
@@ -139,7 +145,8 @@ class SubRipStateMachine(object):
       original = self.fetch_line(self.current_line_num)
       col = self.current_line.index('.')
       self.current_line = self.current_line.replace('.', ',', 1)
-      raise ParseWarning(self.current_line_num + 1, col + 1, original, 'Used dot as decimal separator instead of comma.')
+      self.parser.add_warning(self.current_line_num + 1, col + 1, original, 'Used dot as decimal separator instead of comma.')
+      raise self.Skip
     # Re-check header
     m = self._header.match(self.current_line)
     if m.group(2):
@@ -149,7 +156,8 @@ class SubRipStateMachine(object):
       self.current_line = m.group(1)
       # Re-try
       self.pause()
-      raise ParseWarning(self.current_line_num + 1, column, original, 'Header has unrecognized content at the end.')
+      self.parser.add_warning(self.current_line_num + 1, column, original, 'Header has unrecognized content at the end.')
+      raise self.Skip
 
     return True
 
@@ -160,7 +168,8 @@ class SubRipStateMachine(object):
     end = self._time.match(end.strip())
 
     if not start or not end:
-      raise ParseError(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Could not parse timings.")
+      self.parser.add_error(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Could not parse timings.")
+      raise self.Skip
 
     start, end = start.group(0).split(':'), end.group(0).split(':')
 
@@ -188,7 +197,8 @@ class SubRipStateMachine(object):
         # Add empty line
         self.temp['data']['lines'] += [u'']
       else:
-        raise ParseWarning(self.current_line_num + 1, 1, self.current_line, "Junk before first unit.")
+        self.parser.add_warning(self.current_line_num + 1, 1, self.current_line, "Junk before first unit.")
+        raise self.Skip
 
   @after('found_text')
   def insert_text(self):
@@ -211,7 +221,8 @@ class SubRipStateMachine(object):
 
     # Unknown TAG headers
     if tagged:
-      raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), 'Tagged header not fully parsed.')
+      self.parser.add_warning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), 'Tagged header not fully parsed.')
+      raise self.Skip
 
   @before('found_empty')
   def validate_empty(self):
@@ -220,9 +231,11 @@ class SubRipStateMachine(object):
         # Add empty line to text (since previous line was a text)
         self.temp['data']['lines'] += [u'']
       else:
-        raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line before first unit.")
+        self.parser.add_warning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line before first unit.")
+        raise self.Skip
     elif self.is_unit:
-      raise ParseWarning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line between sequence number and timings.")
+      self.parser.add_warning(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Have empty line between sequence number and timings.")
+      raise self.Skip
 
   @after('found_empty')
   def insert_empty(self):
@@ -238,7 +251,8 @@ class SubRipStateMachine(object):
     self.temp = None
     if self._missing_line:
       original = self.fetch_line(self.current_line_num)
-      raise ParseWarning(self.current_line_num + 1, len(self.current_line), original, 'Missing empty line after unit.')
+      self.parser.add_warning(self.current_line_num + 1, len(self.current_line), original, 'Missing empty line after unit.')
+      raise self.Skip
 
   def parsed(self):
     if not self._parsed:
@@ -281,8 +295,9 @@ class SubRipParser(Parser):
           yield parsed
         if machine.current_state == machine.finished:
           break
-      except ParseWarning as e:
-        self.add_warning(e)
+      except SubRipStateMachine.Skip:
+        # Just skip
+        pass
       except InvalidStateTransition:
-        raise ParseError(machine.current_line_num, 1, machine.current_line, "Got invalid state transition in {},"
-                         " report as bug to developers!".format(machine.current_state))
+        self.add_error(machine.current_line_num, 1, machine.current_line, "Got invalid state transition in {},"
+                       " report as bug to developers!".format(machine.current_state))

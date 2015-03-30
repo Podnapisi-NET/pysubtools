@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 
 import re
 
-from .base import Parser, ParseError, ParseWarning
+from .base import Parser
 from ..subtitle import Frame, SubtitleLine
 
 def update_dict(d, s):
@@ -85,10 +85,10 @@ class MicroDVDParser(Parser):
           elif i == 's':
             t['styles']['*']['text-decoration'].append('line-through')
           else:
-            self.add_warning(ParseWarning(self._current_line_num + 1,
-                                          1,
-                                          self._fetch_line(self._current_line_num),
-                                          u"Unknown style tag {}.".format(i)))
+            self.add_warning(self._current_line_num + 1,
+                             1,
+                             self._fetch_line(self._current_line_num),
+                             u"Unknown style tag {}.".format(i))
         t['styles']['*']['text-decoration'] = ' '.join(t['styles']['*']['text-decoration'])
       elif k.lower() == 'f':
         # Font family
@@ -102,18 +102,18 @@ class MicroDVDParser(Parser):
         if re.match('^\$[0-9a-fA-F]{6}$', v):
           t['styles']['*']['color'] = '#' + v[5:] + v[3:5] + v[1:3]
         else:
-          self.add_warning(ParseWarning(self._current_line_num + 1,
-                                        1,
-                                        self._fetch_line(self._current_line_num),
-                                        u"Wrong color format {}.".format(v)))
+          self.add_warning(self._current_line_num + 1,
+                           1,
+                           self._fetch_line(self._current_line_num),
+                           u"Wrong color format {}.".format(v))
       elif k == 'P':
         # Position
         m = re.match('^\s*(\d+)\s*,\s*(\d+)\s*$', v)
         if not m:
-          self.add_warning(ParseWarning(self._current_line_num + 1,
-                                        1,
-                                        self._fetch_line(self._current_line_num),
-                                        u"Malformed position {}.".format(v)))
+          self.add_warning(self._current_line_num + 1,
+                           1,
+                           self._fetch_line(self._current_line_num),
+                           u"Malformed position {}.".format(v))
         else:
           t['position'] = {
             'x': int(m.group(1)),
@@ -123,10 +123,10 @@ class MicroDVDParser(Parser):
         # Silently ignore since it is charset setting
         pass
       else:
-        self.add_warning(ParseWarning(self._current_line_num + 1,
-                                      1,
-                                      self._fetch_line(self._current_line_num),
-                                      u"Unknwon header {}.".format(k)))
+        self.add_warning(self._current_line_num + 1,
+                         1,
+                         self._fetch_line(self._current_line_num),
+                         u"Unknwon header {}.".format(k))
 
       if not t['styles']['*']['text-decoration']:
         del t['styles']['*']['text-decoration']
@@ -181,13 +181,13 @@ class MicroDVDParser(Parser):
 
       m = self.FORMAT_RE.match(self._current_line.strip())
       if not m:
-        raise ParseError(self._current_line_num + 1, 1, self._current_line, "Could not parse line")
+        self.add_error(self._current_line_num + 1, 1, self._current_line, "Could not parse line")
       else:
         if not m.group('text'):
-          self.add_warning(ParseWarning(self._current_line_num + 1,
-                                        1,
-                                        self._fetch_line(self._current_line_num),
-                                        "Empty unit."))
+          self.add_warning(self._current_line_num + 1,
+                           1,
+                           self._fetch_line(self._current_line_num),
+                           "Empty unit.")
 
         start, end = int(m.group('start')), int(m.group('end'))
         if fps:
