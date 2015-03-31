@@ -146,21 +146,8 @@ class Parser(object):
     # Create subtitle
     from .. import Subtitle, SubtitleUnit
     sub = Subtitle(**self._parse_metadata())
-    while True:
-      # We are looping to continue parsing
-      try:
-        for unit in self._parse(**kwargs):
-          sub.append(SubtitleUnit(**unit['data']))
-      except Exception as e:
-        self.add_error(self._current_line_num + 1,
-                       1,
-                       self._fetch_line(self._current_line_num),
-                       "Uncaught exception: {}".format(e))
-        # Advance to next line
-        self._next_line()
-        continue
-      # We are done :)
-      break
+    for unit in self._parse(**kwargs):
+      sub.append(SubtitleUnit(**unit['data']))
     return sub
 
   @staticmethod
