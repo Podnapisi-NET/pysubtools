@@ -11,7 +11,7 @@ class SubRipExporter(Exporter):
   """Exported for SubRip format."""
   FORMAT = 'SubRip'
 
-  def _init(self, encoding = 'utf-8', line_ending = b'\n'):
+  def _init(self, encoding = 'utf-8', line_ending = b'\r\n'):
     self._encoding = encoding
     self._line_ending = line_ending
 
