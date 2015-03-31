@@ -33,6 +33,7 @@ def guess_from_lang(lang):
     'he': ['windows-1255'],
     'ru': ['koi8-r'],
     'es': ['windows-1252'],
+    'fr': ['windows-1252'],
     'bg': ['windows-1251'],
     'mk': ['windows-1251'],
     'th': ['windows-874'],
