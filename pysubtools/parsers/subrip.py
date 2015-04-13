@@ -305,5 +305,4 @@ class SubRipParser(Parser):
         # Just skip
         pass
       except InvalidStateTransition:
-        self.add_error(machine.current_line_num, 1, machine.current_line, "Got invalid state transition in {},"
-                       " report as bug to developers!".format(machine.current_state))
+        self.add_error(machine.current_line_num + 1, 1, machine.current_line, "Unparsable line")
