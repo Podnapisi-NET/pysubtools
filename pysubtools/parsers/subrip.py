@@ -159,10 +159,7 @@ class SubRipStateMachine(object):
       self.parser.add_warning(self.current_line_num + 1, column, original, 'Header has unrecognized content at the end.')
       raise self.Skip
 
-    return True
-
-  @after('found_header')
-  def parse_time(self):
+    # Check it
     start, end = self.current_line.split('-->')
     start = self._time.match(start.strip())
     end = self._time.match(end.strip())
@@ -170,6 +167,15 @@ class SubRipStateMachine(object):
     if not start or not end:
       self.parser.add_error(self.current_line_num + 1, 1, self.fetch_line(self.current_line_num), "Could not parse timings.")
       raise self.Skip
+
+    return True
+
+  @after('found_header')
+  def parse_time(self):
+    # It is safe to do it now
+    start, end = self.current_line.split('-->')
+    start = self._time.match(start.strip())
+    end = self._time.match(end.strip())
 
     start, end = start.group(0).split(':'), end.group(0).split(':')
 
