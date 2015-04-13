@@ -244,19 +244,19 @@ class TestCase(unittest.TestCase):
     exporter.export(buf, subtitle)
 
     # Now, check the outputted subtitle
-    assert buf.getvalue() == b"""1
-00:00:15,000 --> 00:00:30,000
-First line with \xc5\xa1
-
-2
-00:01:05,000 --> 00:01:29,000
-Another, but a two liner \xc4\x8d
-Yes, I  said two liner! \xc5\xbe
-
-3
-01:01:05,000 --> 01:01:29,000
-Another, but a two liner \xc4\x8d
-Yes, I  said two liner! \xc5\xbe
+    assert buf.getvalue() == b"""1\r
+00:00:15,000 --> 00:00:30,000\r
+First line with \xc5\xa1\r
+\r
+2\r
+00:01:05,000 --> 00:01:29,000\r
+Another, but a two liner \xc4\x8d\r
+Yes, I  said two liner! \xc5\xbe\r
+\r
+3\r
+01:01:05,000 --> 01:01:29,000\r
+Another, but a two liner \xc4\x8d\r
+Yes, I  said two liner! \xc5\xbe\r
 """
 
     # Now we try with different encoding
@@ -264,19 +264,19 @@ Yes, I  said two liner! \xc5\xbe
     exporter = Exporter.from_format('SubRip', encoding = 'cp1250')
     exporter.export(buf, subtitle)
 
-    assert buf.getvalue() == b"""1
-00:00:15,000 --> 00:00:30,000
-First line with \x9a
-
-2
-00:01:05,000 --> 00:01:29,000
-Another, but a two liner \xe8
-Yes, I  said two liner! \x9e
-
-3
-01:01:05,000 --> 01:01:29,000
-Another, but a two liner \xe8
-Yes, I  said two liner! \x9e
+    assert buf.getvalue() == b"""1\r
+00:00:15,000 --> 00:00:30,000\r
+First line with \x9a\r
+\r
+2\r
+00:01:05,000 --> 00:01:29,000\r
+Another, but a two liner \xe8\r
+Yes, I  said two liner! \x9e\r
+\r
+3\r
+01:01:05,000 --> 01:01:29,000\r
+Another, but a two liner \xe8\r
+Yes, I  said two liner! \x9e\r
 """
 
   def test_subtitle_lines(self):
