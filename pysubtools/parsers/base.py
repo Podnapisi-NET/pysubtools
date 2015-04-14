@@ -147,7 +147,16 @@ class Parser(object):
     from .. import Subtitle, SubtitleUnit
     sub = Subtitle(**self._parse_metadata())
     for unit in self._parse(**kwargs):
-      sub.append(SubtitleUnit(**unit['data']))
+      try:
+        sub.append(SubtitleUnit(**unit['data']))
+      except TypeError:
+        # We may have malformed units
+        self.add_error(
+          self._current_line_num + 1,
+          1,
+          self._current_line,
+          'Wrongly parsed unit, might be a result of a previous error.'
+        )
     return sub
 
   @staticmethod
