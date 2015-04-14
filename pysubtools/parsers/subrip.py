@@ -29,7 +29,7 @@ class SubRipStateMachine(object):
   found_text       = Event(from_states = [unit_text, start], to_state = unit_text)
   skip_sequence    = Event(from_states = [unit_text, start], to_state = unit_text)
   found_empty      = Event(from_states = [unit_text, start, unit], to_state = start)
-  done             = Event(from_states = [unit_text, start], to_state = finished)
+  done             = Event(from_states = [unit, unit_text, start], to_state = finished)
 
   # Regular expressions
   # Components
