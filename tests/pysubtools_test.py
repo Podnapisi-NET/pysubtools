@@ -328,3 +328,11 @@ Yes, I  said two liner! \x9e\r
 
     # This should work now (also, this subtitle has some special chars that without EUC-TW => BIG5-TW would not work)
     sub = parser.parse(f, encoding = 'bullshit')
+
+  def test_high_mem_srt(self):
+    """Tests a issue of high memory usage on subRip parser."""
+    f = open('./tests/data/corner/high_mem.srt', 'rb')
+    parser = Parser.from_format('SubRip', stop_level = None)
+
+    # This line should not break the parser
+    sub = parser.parse(f)
