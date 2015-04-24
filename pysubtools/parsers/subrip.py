@@ -271,7 +271,7 @@ class SubRipParser(Parser):
   """Parser for SubRip.
   """
   FORMAT = 'SubRip'
-  FORMAT_RE = re.compile(r'^\s*\d+:\d+:\d+[.,]\d+\s+-->\s+\d+:\d+:\d+[.,]\d+\s*$', re.M)
+  FORMAT_RE = re.compile(r'^(?:[^:]+:){2}[^- ]+\s+-->\s+(?:[^:]+:){2}.*$')
 
   @classmethod
   def _can_parse(cls, data):
@@ -280,7 +280,7 @@ class SubRipParser(Parser):
     for i in range(0, 10):
       line = data.readline()
       if isinstance(line, bytes):
-        line = line.decode(errors = 'replace')
+        line = line.decode('latin').replace('\x00', '')
 
       can = bool(cls.FORMAT_RE.search(line))
       if can:
