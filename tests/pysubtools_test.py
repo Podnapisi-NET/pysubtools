@@ -336,3 +336,11 @@ Yes, I  said two liner! \x9e\r
 
     # This line should not break the parser
     sub = parser.parse(f)
+
+  def test_srt_autodetect(self):
+    """Found a example of srt not detected by autodetection feature."""
+    f = open('./tests/data/corner/autodetect.srt', 'rb')
+    parser = Parser.from_data(f)
+
+    # Will it parse?
+    sub = parser.parse(f)
