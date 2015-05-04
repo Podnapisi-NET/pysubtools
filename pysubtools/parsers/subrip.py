@@ -27,7 +27,6 @@ class SubRipStateMachine(object):
   found_sequence   = Event(from_states = [start], to_state = unit)
   found_header     = Event(from_states = [unit, unit_text, start], to_state = unit_text)
   found_text       = Event(from_states = [unit_text, start], to_state = unit_text)
-  skip_sequence    = Event(from_states = [unit_text, start], to_state = unit_text)
   found_empty      = Event(from_states = [unit_text, start, unit], to_state = start)
   done             = Event(from_states = [unit, unit_text, start], to_state = finished)
 
@@ -135,9 +134,8 @@ class SubRipStateMachine(object):
       self.parser.add_warning(self.current_line_num + 1, 1, self.current_line, "Duplicated time information, ignoring.")
       raise self.Skip
     if self.is_start:
-      self.skip_sequence()
+      self.fix_sequence_skip()
       self.parser.add_warning(self.current_line_num + 1, 1, self.current_line, "New unit starts without a sequence.")
-      raise self.Skip
 
     if '.' in self.current_line:
       # Stay on same line
@@ -185,7 +183,6 @@ class SubRipStateMachine(object):
       end = convert(end)
     ))
 
-  @after('skip_sequence')
   def fix_sequence_skip(self):
     self._parsed = self.temp
     self.temp = {
@@ -194,7 +191,6 @@ class SubRipStateMachine(object):
         'lines': []
       },
     }
-    self.parse_time()
 
   @before('found_text')
   def validate_text(self):
