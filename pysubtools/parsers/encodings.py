@@ -25,6 +25,7 @@ def guess_from_lang(lang):
   """Specify ISO-639-1 language to guess probable encoding."""
   guesses = {
     'sl': ['windows-1250'],
+    'pl': ['windows-1250'],
     'ko': ['euckr'],
     'ja': ['sjis'],
     'ar': ['windows-1256'],
