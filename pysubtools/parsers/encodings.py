@@ -45,6 +45,7 @@ def guess_from_lang(lang):
     'fi': ['iso8859-15'],
     'es': ['iso8859-15'],
     'pt': ['iso8859-15'],
+    'da': ['iso8859-15'],
     'pt-br': ['iso8859-15'],
   }
 
