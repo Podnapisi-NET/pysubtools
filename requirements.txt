@@ -1,4 +1,4 @@
-chardet<4
+chardet>=3
 setuptools>=41.0.0
 state_machine>=0.2.10
 PyYAML>=5.1
