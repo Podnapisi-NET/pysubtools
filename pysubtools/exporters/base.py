@@ -22,7 +22,8 @@ class Exporter(object):
             if exporter.FORMAT == format:
                 return exporter(**options)
         raise NoExporterFound(
-            "Could not find exporter with name '{}'.".format(format))
+            "Could not find exporter with name '{}'.".format(format)
+        )
 
     def __init__(self, **options):
         self._init(**options)
@@ -60,7 +61,7 @@ class Exporter(object):
             raise TypeError("Can export only Subtitle objects.")
 
         try:
-            basestring
+            global basestring
         except NameError:
             # Python3 compat
             basestring = str
@@ -71,8 +72,11 @@ class Exporter(object):
         try:
             if isinstance(output, file):
                 output = io.BufferedWriter(
-                    io.FileIO(output.fileno(), closefd=False,
-                              mode=output.mode))
+                    io.FileIO(
+                        output.fileno(),
+                        closefd=False,
+                        mode=output.mode)
+                    )
         except NameError:
             # Python3 does not need this
             pass

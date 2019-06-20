@@ -52,7 +52,8 @@ class SubRipExporter(Exporter):
         # TODO 3D positions
         output.append("{} --> {}".format(
             self._convert_time(unit.start),
-            self._convert_time(unit.end)).encode(self._encoding))
+            self._convert_time(unit.end)
+            ).encode(self._encoding))
         # Text
         output.append(self._line_ending.join(
             [i.encode(self._encoding, 'ignore') for i in unit.lines]))

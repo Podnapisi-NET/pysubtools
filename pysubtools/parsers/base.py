@@ -4,7 +4,6 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 import io
-# import functools
 
 from . import encodings
 
@@ -68,8 +67,8 @@ class Parser(object):
         self._current_line = None
 
     def _add_msg(self, level, line_number, column, line, description):
-        if (self._stop_level and self.LEVELS.index(level) >=
-                self.LEVELS.index(self._stop_level)):
+        if (self._stop_level and self.LEVELS.index(level)
+           >= self.LEVELS.index(self._stop_level)):
             if level == 'warning':
                 raise ParseWarning(line_number, column, line, description)
             elif level == 'error':

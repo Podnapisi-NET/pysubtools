@@ -216,7 +216,7 @@ class TestCase(unittest.TestCase):
 
         f = open('./tests/data/corner/encoding_error.srt', 'rb')
         try:
-            sub = parser.parse(f)
+            sub1 = parser.parse(f)
         except encodings.EncodingError as e:
             assert e.tried_encodings == []
 

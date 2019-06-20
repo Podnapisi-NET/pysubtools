@@ -101,12 +101,12 @@ class MicroDVDParser(Parser):
                 t['styles']['*']['font-family'] = v.strip()
             elif k.lower() == 's':
                 # Font size
-                t['styles']['*']['font-size'] = v.strip() + \
-                    ('px' if v.strip().isdigit() else '')
+                t['styles']['*']['font-size'] = v.strip()
+                + ('px' if v.strip().isdigit() else '')
             elif k.lower() == 'c':
                 # Text color
                 v = v.strip()
-                if re.match('^\$[0-9a-fA-F]{6}$', v):
+                if re.match(r'^\$[0-9a-fA-F]{6}$', v):
                     t['styles']['*']['color'] = '#' + v[5:] + v[3:5] + v[1:3]
                 else:
                     self.add_warning(self._current_line_num + 1,
@@ -115,7 +115,7 @@ class MicroDVDParser(Parser):
                                      u"Wrong color format {}.".format(v))
             elif k == 'P':
                 # Position
-                m = re.match('^\s*(\d+)\s*,\s*(\d+)\s*$', v)
+                m = re.match(r'^\s*(\d+)\s*,\s*(\d+)\s*$', v)
                 if not m:
                     self.add_warning(self._current_line_num + 1,
                                      1,

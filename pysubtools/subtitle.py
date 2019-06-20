@@ -216,9 +216,9 @@ class SubtitleLines(list):
     """Modified list class for special tratment of lines."""
     __slots__ = ()
 
-    def __new__(cls, ls=[]):
+    def __new__(cls, lines_=[]):
         obj = super(SubtitleLines, cls).__new__(cls)
-        for i in ls:
+        for i in lines_:
             obj.append(i)
         return obj
 
@@ -234,8 +234,8 @@ class SubtitleLines(list):
 
         if not isinstance(value, SubtitleLine):
             raise TypeError(
-                "Subtitle line needs to be unicode instead of '{}'".
-                format(type(value)))
+                "Subtitle line needs to be unicode instead of '{}'"
+                .format(type(value)))
         return value
 
     def append(self, value):
@@ -270,9 +270,8 @@ class SubtitleUnit(object):
         """Calculates signed distance with other subtitle unit."""
         if not isinstance(other, SubtitleUnit):
             raise TypeError(
-                "Can calculate distance only with SubtitleUnit and not '{}'".
-                format(type(other)))
-
+                "Can calculate distance only with SubtitleUnit and not '{}'"
+                .format(type(other)))
         return other.start - self.start
 
     def __iter__(self):
@@ -309,8 +308,8 @@ class SubtitleUnit(object):
         """Moves subtitle unit by 'distance' seconds."""
         if not isinstance(distance, (int, long, float)):
             raise TypeError(
-                "Need type of int, long or float instead of '{}'".
-                format(type(distance)))
+                "Need type of int, long or float instead of '{}'"
+                .format(type(distance)))
         self.start += distance
         self.end += distance
 
@@ -326,8 +325,8 @@ class SubtitleUnit(object):
         """
         if not isinstance(factor, (int, long, float)):
             raise TypeError(
-                "Need type of int, long or float instead of '{}'".
-                format(type(factor)))
+                "Need type of int, long or float instead of '{}'"
+                .format(type(factor)))
         self.start *= factor
         self.end *= factor
 
@@ -351,8 +350,8 @@ class SubtitleUnit(object):
         """See SubtitleUnit.get_moved."""
         if not isinstance(other, (int, long, float)):
             raise TypeError(
-                "Need type of int, long or float instead of '{}'".
-                format(type(other)))
+                "Need type of int, long or float instead of '{}'"
+                .format(type(other)))
         return self.get_moved(-1 * other)
 
     def __add__(self, other):
@@ -363,8 +362,8 @@ class SubtitleUnit(object):
         """Same as SubtitleUnit.move."""
         if not isinstance(other, (int, long, float)):
             raise TypeError(
-                "Need type of int, long or float instead of '{}'".
-                format(type(other)))
+                "Need type of int, long or float instead of '{}'"
+                .format(type(other)))
         self.move(-1 * other)
 
     def __iadd__(self, other):
@@ -382,8 +381,8 @@ class SubtitleUnit(object):
     def __eq__(self, other):
         if not isinstance(other, SubtitleUnit):
             raise TypeError(
-                "Can compare only with other SubtitleUnit, provided with '{}'".
-                format(type(other)))
+                "Can compare only with other SubtitleUnit, provided with '{}'"
+                .format(type(other)))
 
         return self.__dict__ == other.__dict__
 
@@ -415,11 +414,10 @@ class SubtitleUnit(object):
         output.update(self.__dict__)
         # Overide custom attributes
         output['start'] = HumanTime.from_seconds(
-            self.start) if (human_time and not
-                            isinstance(self.start, Frame)) else self.start
-        output['end'] = HumanTime.from_seconds(
-            self.end) if (human_time and not
-                          isinstance(self.end, Frame)) else self.end
+            self.start) if (human_time and not isinstance(self.start, Frame)) \
+            else self.start
+        output['end'] = HumanTime.from_seconds(self.end) if \
+            (human_time and not isinstance(self.end, Frame)) else self.end
         # And lines
         output['lines'] = [i.export() for i in self._lines]
 

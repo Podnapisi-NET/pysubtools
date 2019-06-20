@@ -112,16 +112,16 @@ def detect(data, encoding=None, language=None):
     # Reverse order
     encodings.reverse()
     while True:
-        encoding = encodings.pop()
-        if can_decode(data, encoding if not isinstance(encoding, tuple) else
-                      encoding[0]):
+        encoding = encoding_to_use = encodings.pop()
+        if isinstance(encoding, tuple) is not True:
+            encoding_to_use = encoding[0]
+
+        if can_decode(data, encoding_to_use):
             # We've found it!
             break
-        tried_encodings.add(encoding if not isinstance(
-            encoding, tuple) else encoding[0])
+        tried_encodings.add(encoding_to_use)
 
-        similar = similar_encodings.get(
-            encoding if not isinstance(encoding, tuple) else encoding[0])
+        similar = similar_encodings.get(encoding_to_use)
         if similar:
             encodings += list(set(similar).difference(tried_encodings))
         if not encodings:
