@@ -11,9 +11,9 @@ from . import subrip
 from . import microdvd
 
 __all__ = [
-  'Parser',
-  'EncodingError',
-  'NoParserError',
-  'ParseError',
-  'encodings',
+    "Parser",
+    "EncodingError",
+    "NoParserError",
+    "ParseError",
+    "encodings",
 ]
