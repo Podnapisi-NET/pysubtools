@@ -5,8 +5,9 @@ description = "A set of parsers and exports for subtitles in various formats"
 readme = "README"
 requires-python = ">=3.8"
 dependencies = [
-    "black>=24.8.0",
-    "ruff>=0.14.11",
+    "chardet>=5.2.0",
+    "pyyaml>=6.0.3",
+    "state-machine>=0.2.10",
 ]
 authors = [
     { name="Gregor Kališnik", email="gregor@kalisnik.si" },
@@ -14,3 +15,10 @@ authors = [
 ]
 license = { file = "LICENSE" }
 keywords = ["parsing", "exporting", "subtitles", "srt"]
+
+[dependency-groups]
+dev = [
+    "black>=24.8.0",
+    "mypy>=1.14.1",
+    "ruff>=0.14.11",
+]
