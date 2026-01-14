@@ -4,7 +4,10 @@ version = "0.1.5"
 description = "A set of parsers and exports for subtitles in various formats"
 readme = "README"
 requires-python = ">=3.8"
-dependencies = []
+dependencies = [
+    "black>=24.8.0",
+    "ruff>=0.14.11",
+]
 authors = [
     { name="Gregor Kališnik", email="gregor@kalisnik.si" },
     { name="Unimatrix", email="info@unimatrix.si" }
