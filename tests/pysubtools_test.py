@@ -166,7 +166,7 @@ class TestCase(unittest.TestCase):
 
           result = os.path.join(root, filename[:-4])
           if os.path.isfile(result + '.msgs.yaml'):
-            loaded_d = yaml.load(open(result + '.msgs.yaml', 'r'))
+            loaded_d = yaml.load(open(result + '.msgs.yaml', 'r'), yaml.SafeLoader)
             sub = Subtitle.from_file(result + '.sif')
           else:
             # Write it
