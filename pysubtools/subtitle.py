@@ -619,13 +619,9 @@ class Subtitle(object):
         set 'multi' to True. Do note, when multi is set to True, this method
         returns a generator object.
         """
-        input = prepare_reader(input)
-
+        with prepare_reader(input) as input:
         # Read
-        obj = cls.from_yaml(input)
-
-        # Detach wrapper
-        input.detach()
+            obj = cls.from_yaml(input)
 
         # Done
         if obj:

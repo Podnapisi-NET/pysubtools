@@ -128,6 +128,10 @@ class Parser(object):
         """Parses the file and returns the subtitle. Check warnings after the parse."""
         if data:
             # We have new data, discard old and set up for new
+            try:
+                self._data.detach()
+            except Exception:
+                pass
             self._data = self._normalize_data(data)
             # Check encoding
             self.encoding, self.encoding_confidence = encodings.detect(
