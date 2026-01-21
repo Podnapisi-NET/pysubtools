@@ -1,57 +1,47 @@
-encoding: ISO-8859-2
+encoding: windows-1250
 errors: []
 warnings:
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 116
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 234
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 632
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 1815
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 2103
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 2118
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'New unit starts without a sequence.'
-  !!python/unicode 'line': !!python/unicode '00:46:19,900 --> 00:46:22,500'
-  !!python/unicode 'line_number': 2310
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 2720
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 2769
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 2865
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Have empty line between sequence
-    number and timings.'
-  !!python/unicode 'line': !!python/unicode ''
-  !!python/unicode 'line_number': 2930
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 116
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 234
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 632
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 1815
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 2103
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 2118
+- col: 1
+  description: New unit starts without a sequence.
+  line: 00:46:19,900 --> 00:46:22,500
+  line_number: 2310
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 2720
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 2769
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 2865
+- col: 1
+  description: Have empty line between sequence number and timings.
+  line: ''
+  line_number: 2930

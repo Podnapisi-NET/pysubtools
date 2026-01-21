@@ -1,6 +1,6 @@
 import io
 import codecs
-import chardet
+import charset_normalizer
 
 invalid_chars = "\x9e"
 similar_encodings = {
@@ -97,7 +97,7 @@ def detect(data, encoding=None, language=None):
         encodings += guess_from_lang(language)
 
     # Autodetect encoding
-    detected = chardet.detect(data.read())
+    detected = charset_normalizer.detect(data.read())
     data.seek(0)
     if detected and detected["encoding"]:
         encodings.append((detected["encoding"], detected["confidence"]))

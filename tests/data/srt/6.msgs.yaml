@@ -1,7 +1,7 @@
-encoding: ISO-8859-2
+encoding: windows-1250
 errors: []
 warnings:
-- !!python/unicode 'col': 21
-  !!python/unicode 'description': !!python/unicode 'Missing empty line after unit.'
-  !!python/unicode 'line': !!python/unicode 'www.nlondertitels.com'
-  !!python/unicode 'line_number': 4987
+- col: 21
+  description: Missing empty line after unit.
+  line: www.nlondertitels.com
+  line_number: 4987

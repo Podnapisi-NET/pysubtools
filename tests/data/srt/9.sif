@@ -5,16 +5,16 @@ units:
   start: !human_time '00:00:00.000'
 - end: !human_time '00:00:00.000'
   lines:
-  - "TRADU\u05B7\u05B3O E SINCRONIZA\u05B7\u05B3O:"
+  - "TRADU\xC7\u0102O E SINCRONIZA\xC7\u0102O:"
   - FRANCISCO ROCHA
   start: !human_time '02:00:00.000'
 - end: !human_time '00:02:42.800'
   lines:
-  - "Ele est\u05D1 morto."
+  - "Ele est\xE1 morto."
   start: !human_time '00:02:39.000'
 - end: !human_time '00:02:48.200'
   lines:
-  - "E agora \u05D9 a minha vez."
+  - "E agora \xE9 a minha vez."
   start: !human_time '00:02:43.680'
 - end: !human_time '00:02:54.320'
   lines:
@@ -26,7 +26,7 @@ units:
   start: !human_time '00:02:55.200'
 - end: !human_time '00:03:01.280'
   lines:
-  - "...as minhas mem\u05E3rias."
+  - "...as minhas mem\xF3rias."
   start: !human_time '00:02:58.800'
 - end: !human_time '00:03:05.920'
   lines:
@@ -49,17 +49,17 @@ units:
   start: !human_time '00:03:40.000'
 - end: !human_time '00:00:00.000'
   lines:
-  - "O que voc\u05DA"
-  - "est\u05D1 fazendo aqui fora?"
+  - "O que voc\u0119"
+  - "est\xE1 fazendo aqui fora?"
   start: !human_time '13:00:00.000'
 - end: !human_time '00:03:45.520'
   lines:
   - Oh, fui contratado pra escoltar
-  - "esse aqui at\u05D9 o tio dele."
+  - "esse aqui at\xE9 o tio dele."
   start: !human_time '00:03:42.080'
 - end: !human_time '00:03:47.600'
   lines:
-  - "Os pais n\u05D3o conseguem"
+  - "Os pais n\u0103o conseguem"
   - mais lidar com ele.
   start: !human_time '00:03:45.600'
 - end: !human_time '00:03:51.080'
@@ -80,22 +80,22 @@ units:
 - end: !human_time '00:04:53.520'
   lines:
   - Eu sou o tio.
-  - "Me d\u05DA o dinheiro, senhor."
+  - "Me d\u0119 o dinheiro, senhor."
   start: !human_time '00:04:50.320'
 - end: !human_time '00:04:55.400'
   lines:
   - O dinheiro.
-  - "Aqui est\u05D1 seu maldito dinheiro!"
+  - "Aqui est\xE1 seu maldito dinheiro!"
   start: !human_time '00:04:53.400'
 - end: !human_time '00:04:58.000'
   lines:
-  - "-\u05B9 todo seu."
-  - "-N\u05D3o \u05D9 dinheiro maldito."
+  - "-\xC9 todo seu."
+  - "-N\u0103o \xE9 dinheiro maldito."
   start: !human_time '00:04:55.520'
 - end: !human_time '00:05:00.720'
   lines:
-  - "-\u05B9 dinheiro aben\u05D7oado por Deus!"
-  - "-V\u05D1 pro inferno!"
+  - "-\xC9 dinheiro aben\xE7oado por Deus!"
+  - "-V\xE1 pro inferno!"
   start: !human_time '00:04:58.000'
 - end: !human_time '00:05:01.920'
   lines:
@@ -117,7 +117,7 @@ units:
   start: !human_time '00:05:06.320'
 - end: !human_time '00:05:12.480'
   lines:
-  - "O que est\u05D1 olhando?"
+  - "O que est\xE1 olhando?"
   - Venha comigo.
   start: !human_time '00:05:10.480'
 - end: !human_time '00:05:15.000'
@@ -127,12 +127,12 @@ units:
   start: !human_time '00:05:12.480'
 - end: !human_time '00:05:17.000'
   lines:
-  - "Voc\u05DA veio"
+  - "Voc\u0119 veio"
   - para trabalhar!
   start: !human_time '00:05:15.200'
 - end: !human_time '00:05:19.400'
   lines:
-  - "N\u05D3o pra ficar procurando"
+  - "N\u0103o pra ficar procurando"
   - garotas belas assim.
   start: !human_time '00:05:17.000'
 - end: !human_time '00:05:22.720'
@@ -141,17 +141,17 @@ units:
   start: !human_time '00:05:20.400'
 - end: !human_time '00:05:25.000'
   lines:
-  - "Mas n\u05D3o foi uma sobrinha"
+  - "Mas n\u0103o foi uma sobrinha"
   - que eu pedi, meu filho!
   start: !human_time '00:05:22.720'
 - end: !human_time '00:05:26.800'
   lines:
-  - "N\u05D3o encha o meu saco!"
-  - "Fa\u05D7a voc\u05DA!"
+  - "N\u0103o encha o meu saco!"
+  - "Fa\xE7a voc\u0119!"
   start: !human_time '00:05:24.880'
 - end: !human_time '00:05:27.680'
   lines:
-  - "O qu\u05DA?"
+  - "O qu\u0119?"
   start: !human_time '00:05:26.720'
 - end: !human_time '00:05:31.280'
   lines:
@@ -160,7 +160,7 @@ units:
   start: !human_time '00:05:27.680'
 - end: !human_time '00:05:32.000'
   lines:
-  - "Pregui\u05D7oso!"
+  - "Pregui\xE7oso!"
   start: !human_time '00:05:31.200'
 - end: !human_time '00:05:34.200'
   lines:
@@ -174,17 +174,17 @@ units:
   start: !human_time '00:05:34.080'
 - end: !human_time '00:05:44.480'
   lines:
-  - "Vamos l\u05D1, moleque!"
+  - "Vamos l\xE1, moleque!"
   - Enterre o mastro! Vamos!
   start: !human_time '00:05:38.400'
 - end: !human_time '00:07:05.120'
   lines:
-  - "Porque voc\u05DA demorou tanto?"
+  - "Porque voc\u0119 demorou tanto?"
   start: !human_time '00:07:02.880'
 - end: !human_time '00:07:09.120'
   lines:
-  - "Bem, estou respons\u05D1vel pelo rancho"
-  - "do meu tio. \u05B9 isso."
+  - "Bem, estou respons\xE1vel pelo rancho"
+  - "do meu tio. \xC9 isso."
   start: !human_time '00:07:06.200'
 - end: !human_time '00:07:10.400'
   lines:
@@ -192,15 +192,15 @@ units:
   start: !human_time '00:07:09.000'
 - end: !human_time '00:07:12.400'
   lines:
-  - "Que? Meu nome \u05D9 Mike."
+  - "Que? Meu nome \xE9 Mike."
   start: !human_time '00:07:10.720'
 - end: !human_time '00:07:15.800'
   lines:
-  - "De onde voc\u05DA \u05D9?"
+  - "De onde voc\u0119 \xE9?"
   start: !human_time '00:07:14.400'
 - end: !human_time '00:07:18.400'
   lines:
-  - "Eu sou franc\u05DAs,"
+  - "Eu sou franc\u0119s,"
   - de Louisiane
   start: !human_time '00:07:15.800'
 - end: !human_time '00:07:20.800'
@@ -209,32 +209,32 @@ units:
   start: !human_time '00:07:18.400'
 - end: !human_time '00:07:27.200'
   lines:
-  - "Essa \u05D9 a sua primeira vez."
+  - "Essa \xE9 a sua primeira vez."
   start: !human_time '00:07:24.880'
 - end: !human_time '00:07:28.800'
   lines:
-  - "N\u05D3o."
+  - "N\u0103o."
   start: !human_time '00:07:27.400'
 - end: !human_time '00:07:34.880'
   lines:
-  - "Sim, \u05D9 sim!"
+  - "Sim, \xE9 sim!"
   start: !human_time '00:07:33.200'
 - end: !human_time '00:07:38.880'
   lines:
-  - "Sim, \u05D9 sim!"
+  - "Sim, \xE9 sim!"
   start: !human_time '00:07:36.880'
 - end: !human_time '00:07:41.280'
   lines:
-  - "N\u05D3o."
+  - "N\u0103o."
   start: !human_time '00:07:40.000'
 - end: !human_time '00:08:28.080'
   lines:
-  - "Voc\u05DA acredita em Deus?"
+  - "Voc\u0119 acredita em Deus?"
   start: !human_time '00:08:26.320'
 - end: !human_time '00:08:31.800'
   lines:
-  - "Eu n\u05D3o sei."
-  - "Voc\u05DA acredita?"
+  - "Eu n\u0103o sei."
+  - "Voc\u0119 acredita?"
   start: !human_time '00:08:28.480'
 - end: !human_time '00:08:40.400'
   lines:
@@ -242,7 +242,7 @@ units:
   start: !human_time '00:08:38.600'
 - end: !human_time '00:08:45.920'
   lines:
-  - "Minha m\u05D3e deu isso pra mim."
+  - "Minha m\u0103e deu isso pra mim."
   start: !human_time '00:08:43.280'
 - end: !human_time '00:08:53.200'
   lines:
@@ -250,13 +250,13 @@ units:
   start: !human_time '00:08:51.400'
 - end: !human_time '00:09:01.680'
   lines:
-  - "Venha c\u05D1."
-  - "Venha c\u05D1."
+  - "Venha c\xE1."
+  - "Venha c\xE1."
   start: !human_time '00:08:59.600'
 - end: !human_time '00:09:07.000'
   lines:
-  - "Podemos ir apenas n\u05E3s dois."
-  - "Voc\u05DA e eu. Ir pras montanhas."
+  - "Podemos ir apenas n\xF3s dois."
+  - "Voc\u0119 e eu. Ir pras montanhas."
   start: !human_time '00:09:02.600'
 - end: !human_time '00:09:20.880'
   lines:
@@ -266,16 +266,16 @@ units:
 - end: !human_time '00:09:28.320'
   lines:
   - Deixe-me em paz, Wally
-  - "N\u05D3o estou trabalhando essa noite."
+  - "N\u0103o estou trabalhando essa noite."
   start: !human_time '00:09:24.600'
 - end: !human_time '00:09:32.320'
   lines:
   - Transando com virgens
-  - "agora, n\u05D3o \u05D9?"
+  - "agora, n\u0103o \xE9?"
   start: !human_time '00:09:29.680'
 - end: !human_time '00:09:40.880'
   lines:
-  - "N\u05D3o fa\u05D7a isso."
+  - "N\u0103o fa\xE7a isso."
   start: !human_time '00:09:39.280'
 - end: !human_time '00:09:44.320'
   lines:
@@ -284,8 +284,8 @@ units:
   start: !human_time '00:09:41.600'
 - end: !human_time '00:09:46.880'
   lines:
-  - "...s\u05E3 pra chegar aqui e"
-  - "me encontrar com voc\u05DA."
+  - "...s\xF3 pra chegar aqui e"
+  - "me encontrar com voc\u0119."
   start: !human_time '00:09:44.320'
 - end: !human_time '00:09:49.600'
   lines:
@@ -293,7 +293,7 @@ units:
   start: !human_time '00:09:47.920'
 - end: !human_time '00:09:53.680'
   lines:
-  - "V\u05D1! V\u05D1 embora!"
+  - "V\xE1! V\xE1 embora!"
   start: !human_time '00:09:51.280'
 - end: !human_time '00:10:00.400'
   lines:
@@ -302,12 +302,12 @@ units:
   start: !human_time '00:09:58.880'
 - end: !human_time '00:10:03.000'
   lines:
-  - "V\u05D1! V\u05D1, Mike!"
-  - "Ele vai mat\u05D1-lo."
+  - "V\xE1! V\xE1, Mike!"
+  - "Ele vai mat\xE1-lo."
   start: !human_time '00:10:00.320'
 - end: !human_time '00:10:06.400'
   lines:
-  - "Voc\u05DA n\u05D3o quer morrer"
+  - "Voc\u0119 n\u0103o quer morrer"
   - por nenhuma puta, Mike?
   start: !human_time '00:10:03.120'
 - end: !human_time '00:10:09.000'
@@ -317,17 +317,17 @@ units:
   start: !human_time '00:10:06.400'
 - end: !human_time '00:10:13.200'
   lines:
-  - "-Por favor, n\u05D3o, pare!"
-  - "-\u05B9 hora de ir."
+  - "-Por favor, n\u0103o, pare!"
+  - "-\xC9 hora de ir."
   start: !human_time '00:10:10.600'
 - end: !human_time '00:13:40.800'
   lines:
-  - "Voc\u05DA acredita em Deus?"
+  - "Voc\u0119 acredita em Deus?"
   start: !human_time '00:13:39.120'
 - end: !human_time '00:13:43.520'
   lines:
   - Madeleine
-  - "voc\u05DA viria comigo?"
+  - "voc\u0119 viria comigo?"
   start: !human_time '00:13:40.880'
 - end: !human_time '00:13:48.320'
   lines:
@@ -335,29 +335,29 @@ units:
   start: !human_time '00:13:46.080'
 - end: !human_time '00:13:57.120'
   lines:
-  - "Voc\u05DA estava certo."
+  - "Voc\u0119 estava certo."
   start: !human_time '00:13:54.480'
 - end: !human_time '00:14:01.400'
   lines:
-  - "Eu n\u05D3o acho que ele entenda"
+  - "Eu n\u0103o acho que ele entenda"
   - o que aconteceu com ele.
   start: !human_time '00:13:57.120'
 - end: !human_time '00:14:04.320'
   lines:
-  - "Ele est\u05D1 lutando com for\u05D7a"
+  - "Ele est\xE1 lutando com for\xE7a"
   - contra isso.
   start: !human_time '00:14:01.280'
 - end: !human_time '00:14:16.480'
   lines:
-  - "Ele n\u05D3o est\u05D1 pronto ainda."
+  - "Ele n\u0103o est\xE1 pronto ainda."
   start: !human_time '00:14:13.920'
 - end: !human_time '00:17:12.720'
   lines:
-  - "O esp\u05DDrito das plantas..."
+  - "O esp\xEDrito das plantas..."
   start: !human_time '00:17:09.920'
 - end: !human_time '00:17:15.400'
   lines:
-  - "...pode ensin\u05D1-lo..."
+  - "...pode ensin\xE1-lo..."
   start: !human_time '00:17:12.720'
 - end: !human_time '00:17:19.120'
   lines:
@@ -373,27 +373,27 @@ units:
   start: !human_time '00:19:21.000'
 - end: !human_time '00:19:35.120'
   lines:
-  - "...se um dia voc\u05DA"
+  - "...se um dia voc\u0119"
   - decidir conhecer a si mesmo...
   start: !human_time '00:19:32.000'
 - end: !human_time '00:19:39.400'
   lines:
-  - "...ter\u05D1 que escolher"
+  - "...ter\xE1 que escolher"
   - o caminho dos guerreiros.
   start: !human_time '00:19:35.280'
 - end: !human_time '00:19:45.280'
   lines:
-  - "Voc\u05DA alcan\u05D7ar\u05D1"
-  - "a escurid\u05D3o do seu esp\u05DDrito."
+  - "Voc\u0119 alcan\xE7ar\xE1"
+  - "a escurid\u0103o do seu esp\xEDrito."
   start: !human_time '00:19:40.880'
 - end: !human_time '00:19:55.680'
   lines:
-  - "E ent\u05D3o voc\u05DA vai"
+  - "E ent\u0103o voc\u0119 vai"
   - superar os seus medos.
   start: !human_time '00:19:51.120'
 - end: !human_time '00:19:57.600'
   lines:
-  - "Voc\u05DA vai saber quem \u05D9."
+  - "Voc\u0119 vai saber quem \xE9."
   start: !human_time '00:19:55.600'
 - end: !human_time '00:22:03.200'
   lines:
@@ -405,18 +405,18 @@ units:
   start: !human_time '00:22:03.600'
 - end: !human_time '00:22:09.120'
   lines:
-  - "\u05B9 melhor voc\u05DA aliment\u05D1-lo"
+  - "\xC9 melhor voc\u0119 aliment\xE1-lo"
   - de alguma maneira.
   start: !human_time '00:22:06.720'
 - end: !human_time '00:22:15.800'
   lines:
   - -Tem tempo pra um drink?
-  - "-Sim, voc\u05DA me conhece."
+  - "-Sim, voc\u0119 me conhece."
   start: !human_time '00:22:12.480'
 - end: !human_time '00:22:18.320'
   lines:
   - -Billy!
-  - "-N\u05D3o se preocupe, Billy."
+  - "-N\u0103o se preocupe, Billy."
   start: !human_time '00:22:15.800'
 - end: !human_time '00:22:20.600'
   lines:
@@ -424,7 +424,7 @@ units:
   start: !human_time '00:22:19.200'
 - end: !human_time '00:22:24.480'
   lines:
-  - "Voc\u05DA se importa de preparar"
+  - "Voc\u0119 se importa de preparar"
   - um pra mim?
   start: !human_time '00:22:22.800'
 - end: !human_time '00:22:29.000'
@@ -438,17 +438,17 @@ units:
   start: !human_time '00:22:29.040'
 - end: !human_time '00:22:32.000'
   lines:
-  - "Voc\u05DA sabe, a cidade"
-  - "come\u05D7ou a murmurar."
+  - "Voc\u0119 sabe, a cidade"
+  - "come\xE7ou a murmurar."
   start: !human_time '00:22:30.600'
 - end: !human_time '00:22:36.480'
   lines:
-  - "Dizem que h\u05D1 mais ouro naquelas"
-  - "montanhas do que em toda Calif\u05E3rnia."
+  - "Dizem que h\xE1 mais ouro naquelas"
+  - "montanhas do que em toda Calif\xF3rnia."
   start: !human_time '00:22:32.000'
 - end: !human_time '00:22:38.480'
   lines:
-  - "Sim, \u05D9 disso que tenho medo."
+  - "Sim, \xE9 disso que tenho medo."
   start: !human_time '00:22:36.520'
 - end: !human_time '00:22:48.800'
   lines:
@@ -456,17 +456,17 @@ units:
   start: !human_time '00:22:47.920'
 - end: !human_time '00:22:51.120'
   lines:
-  - "-Maldito a\u05D7ougueiro!"
+  - "-Maldito a\xE7ougueiro!"
   - -Socorro!
   start: !human_time '00:22:48.880'
 - end: !human_time '00:22:53.400'
   lines:
   - Merda, Jimmy, o que diabos
-  - "pensa que est\u05D1 fazendo?"
+  - "pensa que est\xE1 fazendo?"
   start: !human_time '00:22:51.120'
 - end: !human_time '00:22:54.880'
   lines:
-  - "Voc\u05DA \u05D9 uma"
+  - "Voc\u0119 \xE9 uma"
   - autoridade agora.
   start: !human_time '00:22:53.400'
 - end: !human_time '00:22:56.880'
@@ -490,16 +490,16 @@ units:
 - end: !human_time '00:23:06.080'
   lines:
   - O que acha
-  - "que est\u05D1 fazendo?"
+  - "que est\xE1 fazendo?"
   start: !human_time '00:23:04.880'
 - end: !human_time '00:23:08.880'
   lines:
-  - "Voc\u05DA n\u05D3o pode ficar jogando"
-  - "as pessoas atrav\u05D9s das janelas."
+  - "Voc\u0119 n\u0103o pode ficar jogando"
+  - "as pessoas atrav\xE9s das janelas."
   start: !human_time '00:23:06.080'
 - end: !human_time '00:23:10.400'
   lines:
-  - "Voc\u05DA \u05D9 a maldita lei."
+  - "Voc\u0119 \xE9 a maldita lei."
   start: !human_time '00:23:08.880'
 - end: !human_time '00:23:13.000'
   lines:
@@ -508,21 +508,21 @@ units:
   start: !human_time '00:23:10.400'
 - end: !human_time '00:23:15.200'
   lines:
-  - "\u05B9 melhor come\u05D7ar a controlar"
+  - "\xC9 melhor come\xE7ar a controlar"
   - esse seu temperamento.
   start: !human_time '00:23:13.000'
 - end: !human_time '00:23:16.480'
   lines:
-  - "Onde est\u05D1 o meu dente?"
+  - "Onde est\xE1 o meu dente?"
   start: !human_time '00:23:15.240'
 - end: !human_time '00:23:20.200'
   lines:
-  - "-Senhor, voc\u05DA est\u05D1 bem, senhor?"
-  - "-Estou bem, \u05D9 um milagre."
+  - "-Senhor, voc\u0119 est\xE1 bem, senhor?"
+  - "-Estou bem, \xE9 um milagre."
   start: !human_time '00:23:17.200'
 - end: !human_time '00:23:22.320'
   lines:
-  - "N\u05D3o se preocupe, voc\u05DA vai ser"
+  - "N\u0103o se preocupe, voc\u0119 vai ser"
   - compensado pela janela quebrada.
   start: !human_time '00:23:20.240'
 - end: !human_time '00:23:23.680'
@@ -532,7 +532,7 @@ units:
 - end: !human_time '00:23:27.680'
   lines:
   - Porque vou descontar
-  - "isso do seu sal\u05D1rio."
+  - "isso do seu sal\xE1rio."
   start: !human_time '00:23:25.200'
 - end: !human_time '00:23:31.520'
   lines:
@@ -541,11 +541,11 @@ units:
   start: !human_time '00:23:28.400'
 - end: !human_time '00:23:32.480'
   lines:
-  - "Parece uma boa id\u05D9ia."
+  - "Parece uma boa id\xE9ia."
   start: !human_time '00:23:31.560'
 - end: !human_time '00:23:34.800'
   lines:
-  - "N\u05D3o, senhor, voc\u05DA vai"
+  - "N\u0103o, senhor, voc\u0119 vai"
   - acalmar-se...
   start: !human_time '00:23:32.600'
 - end: !human_time '00:23:37.680'
@@ -555,12 +555,12 @@ units:
   start: !human_time '00:23:34.840'
 - end: !human_time '00:23:41.680'
   lines:
-  - "-Voc\u05DA pode colocar isso de volta?"
+  - "-Voc\u0119 pode colocar isso de volta?"
   - -Sim.
   start: !human_time '00:23:39.280'
 - end: !human_time '00:23:43.600'
   lines:
-  - "E voc\u05DA n\u05D3o conseguiu"
+  - "E voc\u0119 n\u0103o conseguiu"
   - extrair esse?
   start: !human_time '00:23:41.720'
 - end: !human_time '00:24:03.000'
@@ -570,12 +570,12 @@ units:
   start: !human_time '00:24:00.080'
 - end: !human_time '00:24:09.800'
   lines:
-  - "Voc\u05DA v\u05D1 em frente."
-  - "N\u05D3o vou esperar pra sempre."
+  - "Voc\u0119 v\xE1 em frente."
+  - "N\u0103o vou esperar pra sempre."
   start: !human_time '00:24:06.600'
 - end: !human_time '00:24:31.400'
   lines:
-  - "Prazer em conhec\u05DA-lo."
+  - "Prazer em conhec\u0119-lo."
   start: !human_time '00:24:29.120'
 - end: !human_time '00:24:37.200'
   lines:
@@ -584,12 +584,12 @@ units:
   start: !human_time '00:24:33.280'
 - end: !human_time '00:24:54.400'
   lines:
-  - "Pai Del Rio, que voc\u05DA seja"
-  - "aben\u05D7oado por Deus!"
+  - "Pai Del Rio, que voc\u0119 seja"
+  - "aben\xE7oado por Deus!"
   start: !human_time '00:24:49.680'
 - end: !human_time '00:25:00.200'
   lines:
-  - "O que voc\u05DA disse?"
+  - "O que voc\u0119 disse?"
   start: !human_time '00:24:58.200'
 - end: !human_time '00:25:03.120'
   lines:
@@ -597,22 +597,22 @@ units:
   start: !human_time '00:25:01.200'
 - end: !human_time '00:25:09.520'
   lines:
-  - "O que voc\u05DA disse mesmo?"
+  - "O que voc\u0119 disse mesmo?"
   start: !human_time '00:25:07.520'
 - end: !human_time '00:25:16.200'
   lines:
   - Woodhead, eu disse que
-  - "voc\u05DA \u05D9 um pessimista e eu um otimista."
+  - "voc\u0119 \xE9 um pessimista e eu um otimista."
   start: !human_time '00:25:10.600'
 - end: !human_time '00:25:19.400'
   lines:
-  - "Voc\u05DA precisa ter f\u05D9,"
+  - "Voc\u0119 precisa ter f\xE9,"
   - meu amigo.
   start: !human_time '00:25:16.720'
 - end: !human_time '00:25:22.720'
   lines:
-  - "N\u05D3o tenho f\u05D9"
-  - "em ningu\u05D9m al\u05D9m de mim..."
+  - "N\u0103o tenho f\xE9"
+  - "em ningu\xE9m al\xE9m de mim..."
   start: !human_time '00:25:19.680'
 - end: !human_time '00:25:25.200'
   lines:
@@ -621,12 +621,12 @@ units:
   start: !human_time '00:25:23.280'
 - end: !human_time '00:25:28.880'
   lines:
-  - "Eu prometo a voc\u05DA ouro."
+  - "Eu prometo a voc\u0119 ouro."
   - Vou te dar montanhas de ouro.
   start: !human_time '00:25:25.680'
 - end: !human_time '00:25:31.680'
   lines:
-  - "Elas est\u05D3o t\u05D3o perto."
+  - "Elas est\u0103o t\u0103o perto."
   - Quase posso sentir o cheiro delas.
   start: !human_time '00:25:29.200'
 - end: !human_time '00:25:35.400'
@@ -636,22 +636,22 @@ units:
 - end: !human_time '00:25:38.880'
   lines:
   - Sim, bem, talvez
-  - "hoje n\u05D3o seja um bom dia."
+  - "hoje n\u0103o seja um bom dia."
   start: !human_time '00:25:35.920'
 - end: !human_time '00:25:40.720'
   lines:
-  - "O que voc\u05DA quer dizer"
-  - "com n\u05D3o ser um bom dia?"
+  - "O que voc\u0119 quer dizer"
+  - "com n\u0103o ser um bom dia?"
   start: !human_time '00:25:38.920'
 - end: !human_time '00:25:43.600'
   lines:
-  - "Bem, voc\u05DA sabe,"
-  - "amanh\u05D3 talvez possamos voltar."
+  - "Bem, voc\u0119 sabe,"
+  - "amanh\u0103 talvez possamos voltar."
   start: !human_time '00:25:40.760'
 - end: !human_time '00:25:46.000'
   lines:
-  - "O que voc\u05DA quer dizer"
-  - "com amanh\u05D3?"
+  - "O que voc\u0119 quer dizer"
+  - "com amanh\u0103?"
   start: !human_time '00:25:43.920'
 - end: !human_time '00:25:49.000'
   lines:
@@ -660,7 +660,7 @@ units:
 - end: !human_time '00:25:58.200'
   lines:
   - De qualquer modo,
-  - "um de n\u05E3s dois precisa sobreviver."
+  - "um de n\xF3s dois precisa sobreviver."
   start: !human_time '00:25:55.120'
 - end: !human_time '00:26:09.120'
   lines:
@@ -672,8 +672,8 @@ units:
   start: !human_time '00:26:12.400'
 - end: !human_time '00:26:20.200'
   lines:
-  - "N\u05D3o disse que aquele cavalo"
-  - "n\u05D3o ouviria ningu\u05D9m al\u05D9m de mim?"
+  - "N\u0103o disse que aquele cavalo"
+  - "n\u0103o ouviria ningu\xE9m al\xE9m de mim?"
   start: !human_time '00:26:16.720'
 - end: !human_time '00:26:22.080'
   lines:
@@ -689,26 +689,26 @@ units:
   start: !human_time '00:26:31.040'
 - end: !human_time '00:26:42.600'
   lines:
-  - "Ei! Voc\u05DA n\u05D3o vai doma-lo"
+  - "Ei! Voc\u0119 n\u0103o vai doma-lo"
   - dessa maneira.
   start: !human_time '00:26:39.920'
 - end: !human_time '00:26:56.880'
   lines:
-  - "- Espere, voc\u05DA est\u05D1 preso."
-  - "- O qu\u05DA?"
+  - "- Espere, voc\u0119 est\xE1 preso."
+  - "- O qu\u0119?"
   start: !human_time '00:26:54.080'
 - end: !human_time '00:26:59.120'
   lines:
-  - "Voc\u05DA est\u05D1 preso em mim."
+  - "Voc\u0119 est\xE1 preso em mim."
   start: !human_time '00:26:56.920'
 - end: !human_time '00:27:17.600'
   lines:
-  - "Pensei que voc\u05DA faria"
+  - "Pensei que voc\u0119 faria"
   - melhor do que isso.
   start: !human_time '00:27:14.720'
 - end: !human_time '00:27:23.920'
   lines:
-  - "Rapazes, fechem aqueles port\u05E5es!"
+  - "Rapazes, fechem aqueles port\u0151es!"
   - Delegado
   start: !human_time '00:27:20.400'
 - end: !human_time '00:27:26.080'
@@ -717,11 +717,11 @@ units:
   start: !human_time '00:27:24.600'
 - end: !human_time '00:27:29.400'
   lines:
-  - "\u05B9 uma dura cavalgada."
+  - "\xC9 uma dura cavalgada."
   start: !human_time '00:27:27.800'
 - end: !human_time '00:27:33.000'
   lines:
-  - "O que est\u05D1"
+  - "O que est\xE1"
   - fazendo por aqui, Delegado?
   start: !human_time '00:27:30.200'
 - end: !human_time '00:27:35.000'
@@ -740,12 +740,12 @@ units:
   start: !human_time '00:27:37.960'
 - end: !human_time '00:27:42.720'
   lines:
-  - "...est\u05D3o atravessando a fronteira"
-  - "do territ\u05E3rio Chiricahua."
+  - "...est\u0103o atravessando a fronteira"
+  - "do territ\xF3rio Chiricahua."
   start: !human_time '00:27:39.400'
 - end: !human_time '00:27:47.400'
   lines:
-  - "Eu n\u05D3o sei nada sobre isso."
+  - "Eu n\u0103o sei nada sobre isso."
   start: !human_time '00:27:45.200'
 - end: !human_time '00:27:51.600'
   lines:
@@ -764,7 +764,7 @@ units:
   start: !human_time '00:27:53.320'
 - end: !human_time '00:28:00.080'
   lines:
-  - "Est\u05D1 me acusando"
+  - "Est\xE1 me acusando"
   - de alguma coisa, Delegado?
   start: !human_time '00:27:57.400'
 - end: !human_time '00:28:04.720'
@@ -775,36 +775,36 @@ units:
 - end: !human_time '00:28:09.400'
   lines:
   - E acredite em mim,
-  - "n\u05D3o \u05D9 nada al\u05D9m de besteiras."
+  - "n\u0103o \xE9 nada al\xE9m de besteiras."
   start: !human_time '00:28:04.800'
 - end: !human_time '00:28:14.200'
   lines:
   - Bem, as pessoas daqui
-  - "dizem que voc\u05DA sabe disso."
+  - "dizem que voc\u0119 sabe disso."
   start: !human_time '00:28:10.400'
 - end: !human_time '00:28:18.400'
   lines:
   - Eu sei disso.
-  - "Mas o que voc\u05DA devia saber..."
+  - "Mas o que voc\u0119 devia saber..."
   start: !human_time '00:28:14.320'
 - end: !human_time '00:28:21.120'
   lines:
-  - "...\u05D9 que qualquer um que cruzar a"
-  - "fronteira, est\u05D1 violando a lei."
+  - "...\xE9 que qualquer um que cruzar a"
+  - "fronteira, est\xE1 violando a lei."
   start: !human_time '00:28:18.440'
 - end: !human_time '00:28:23.280'
   lines:
-  - "N\u05D3o me digas!"
+  - "N\u0103o me digas!"
   start: !human_time '00:28:21.160'
 - end: !human_time '00:28:30.400'
   lines:
-  - "Voc\u05DA n\u05D3o deveria ser pego"
+  - "Voc\u0119 n\u0103o deveria ser pego"
   - nessa loucura, Greg.
   start: !human_time '00:28:27.200'
 - end: !human_time '00:28:32.000'
   lines:
-  - "Voc\u05DA n\u05D3o quer perder"
-  - "o que voc\u05DA tem."
+  - "Voc\u0119 n\u0103o quer perder"
+  - "o que voc\u0119 tem."
   start: !human_time '00:28:30.440'
 - end: !human_time '00:28:35.120'
   lines:
@@ -812,7 +812,7 @@ units:
   start: !human_time '00:28:32.040'
 - end: !human_time '00:29:11.600'
   lines:
-  - "O que voc\u05DA quer?"
+  - "O que voc\u0119 quer?"
   start: !human_time '00:29:10.200'
 - end: !human_time '00:29:15.680'
   lines:
@@ -821,11 +821,11 @@ units:
   start: !human_time '00:29:12.720'
 - end: !human_time '00:29:17.600'
   lines:
-  - "...\u05D9 algo pra comer."
+  - "...\xE9 algo pra comer."
   start: !human_time '00:29:15.720'
 - end: !human_time '00:30:22.800'
   lines:
-  - "Onde est\u05D1 o manuscrito?"
+  - "Onde est\xE1 o manuscrito?"
   start: !human_time '00:30:20.600'
 - end: !human_time '00:30:28.080'
   lines:
@@ -833,16 +833,16 @@ units:
   start: !human_time '00:30:25.680'
 - end: !human_time '00:30:28.880'
   lines:
-  - "N\u05D3o o tenho."
+  - "N\u0103o o tenho."
   start: !human_time '00:30:28.120'
 - end: !human_time '00:30:32.080'
   lines:
-  - "N\u05D3o se fa\u05D7a de besta comigo,"
-  - "porque conhe\u05D7o a sua m\u05D1gica..."
+  - "N\u0103o se fa\xE7a de besta comigo,"
+  - "porque conhe\xE7o a sua m\xE1gica..."
   start: !human_time '00:30:29.000'
 - end: !human_time '00:30:33.000'
   lines:
-  - "...bruxa \u05DDndia."
+  - "...bruxa \xEDndia."
   start: !human_time '00:30:32.120'
 - end: !human_time '00:30:36.400'
   lines:
@@ -854,19 +854,19 @@ units:
   start: !human_time '00:30:38.000'
 - end: !human_time '00:30:41.280'
   lines:
-  - "N\u05D3o tenha medo."
+  - "N\u0103o tenha medo."
   start: !human_time '00:30:39.560'
 - end: !human_time '00:30:44.080'
   lines:
-  - "Eu n\u05D3o mato animais."
+  - "Eu n\u0103o mato animais."
   start: !human_time '00:30:41.680'
 - end: !human_time '00:31:20.480'
   lines:
-  - "Onde voc\u05DA pegou isso?"
+  - "Onde voc\u0119 pegou isso?"
   start: !human_time '00:31:18.800'
 - end: !human_time '00:31:24.720'
   lines:
-  - "Minha m\u05D3e deu pra mim."
+  - "Minha m\u0103e deu pra mim."
   start: !human_time '00:31:22.200'
 - end: !human_time '00:31:31.600'
   lines:
@@ -875,7 +875,7 @@ units:
 - end: !human_time '00:31:34.800'
   lines:
   - Aposto que uma bela garota
-  - "\u05DDndia deu ele pra voc\u05DA."
+  - "\xEDndia deu ele pra voc\u0119."
   start: !human_time '00:31:31.640'
 - end: !human_time '00:31:41.680'
   lines:
@@ -883,7 +883,7 @@ units:
   start: !human_time '00:31:39.120'
 - end: !human_time '00:31:44.880'
   lines:
-  - "Por que motivo voc\u05DA ficaria tanto"
+  - "Por que motivo voc\u0119 ficaria tanto"
   - tempo nas montanhas?
   start: !human_time '00:31:41.680'
 - end: !human_time '00:32:33.120'
@@ -892,7 +892,7 @@ units:
   start: !human_time '00:32:32.000'
 - end: !human_time '00:32:35.800'
   lines:
-  - "Onde est\u05D1 Runi?"
+  - "Onde est\xE1 Runi?"
   start: !human_time '00:32:33.520'
 - end: !human_time '00:32:37.120'
   lines:
@@ -904,7 +904,7 @@ units:
   start: !human_time '00:32:37.120'
 - end: !human_time '00:32:41.200'
   lines:
-  - "Vejo voc\u05DAs mais tarde."
+  - "Vejo voc\u0119s mais tarde."
   start: !human_time '00:32:39.400'
 - end: !human_time '00:33:07.120'
   lines:
@@ -912,7 +912,7 @@ units:
   start: !human_time '00:33:05.400'
 - end: !human_time '00:33:10.080'
   lines:
-  - "Vai se juntar a n\u05E3s?"
+  - "Vai se juntar a n\xF3s?"
   start: !human_time '00:33:07.920'
 - end: !human_time '00:33:27.200'
   lines:
@@ -926,46 +926,46 @@ units:
   start: !human_time '00:33:27.240'
 - end: !human_time '00:33:31.280'
   lines:
-  - "Eu preciso cur\u05D1-la,"
-  - "preciso fazer isso r\u05D1pido."
+  - "Eu preciso cur\xE1-la,"
+  - "preciso fazer isso r\xE1pido."
   start: !human_time '00:33:29.120'
 - end: !human_time '00:33:33.920'
   lines:
-  - "Ent\u05D3o ela vai"
+  - "Ent\u0103o ela vai"
   - estar livre.
   start: !human_time '00:33:31.320'
 - end: !human_time '00:33:38.080'
   lines:
-  - "Voc\u05DA nos deixaria agora?"
+  - "Voc\u0119 nos deixaria agora?"
   start: !human_time '00:33:34.600'
 - end: !human_time '00:33:45.920'
   lines:
-  - "N\u05E3s nos falamos mais tarde."
+  - "N\xF3s nos falamos mais tarde."
   start: !human_time '00:33:41.920'
 - end: !human_time '00:35:31.680'
   lines:
-  - "Seus dem\u05E4nios est\u05D3o mais"
+  - "Seus dem\xF4nios est\u0103o mais"
   - fortes do que nunca.
   start: !human_time '00:35:27.400'
 - end: !human_time '00:35:35.680'
   lines:
-  - "Eles v\u05D3o logo reaparecer."
+  - "Eles v\u0103o logo reaparecer."
   start: !human_time '00:35:31.720'
 - end: !human_time '00:35:39.280'
   lines:
-  - "Agora n\u05D3o \u05D9 a hora."
+  - "Agora n\u0103o \xE9 a hora."
   start: !human_time '00:35:37.520'
 - end: !human_time '00:35:40.880'
   lines:
-  - "Eu n\u05D3o vim at\u05D9 aqui..."
+  - "Eu n\u0103o vim at\xE9 aqui..."
   start: !human_time '00:35:39.280'
 - end: !human_time '00:35:43.400'
   lines:
-  - "...pra ouvir os seus serm\u05E5es."
+  - "...pra ouvir os seus serm\u0151es."
   start: !human_time '00:35:40.880'
 - end: !human_time '00:35:47.800'
   lines:
-  - "Eu sei o que voc\u05DA quer."
+  - "Eu sei o que voc\u0119 quer."
   start: !human_time '00:35:45.800'
 - end: !human_time '00:35:50.080'
   lines:
@@ -977,8 +977,8 @@ units:
   start: !human_time '00:35:50.080'
 - end: !human_time '00:35:56.600'
   lines:
-  - "H\u05D1 uma expedi\u05D7\u05D3o."
-  - "Est\u05D3o procurando por ouro..."
+  - "H\xE1 uma expedi\xE7\u0103o."
+  - "Est\u0103o procurando por ouro..."
   start: !human_time '00:35:53.400'
 - end: !human_time '00:35:58.320'
   lines:
@@ -986,15 +986,15 @@ units:
   start: !human_time '00:35:56.600'
 - end: !human_time '00:36:00.200'
   lines:
-  - "Eles t\u05DAm um mapa."
+  - "Eles t\u0119m um mapa."
   start: !human_time '00:35:58.600'
 - end: !human_time '00:36:04.880'
   lines:
-  - "N\u05D3o."
+  - "N\u0103o."
   start: !human_time '00:36:03.520'
 - end: !human_time '00:36:07.280'
   lines:
-  - "H\u05D1 um outro homem."
+  - "H\xE1 um outro homem."
   start: !human_time '00:36:04.880'
 - end: !human_time '00:36:09.200'
   lines:
@@ -1002,17 +1002,17 @@ units:
   start: !human_time '00:36:07.280'
 - end: !human_time '00:36:11.800'
   lines:
-  - "Ele n\u05D3o es\u05D1"
+  - "Ele n\u0103o es\xE1"
   - procurando por ouro.
   start: !human_time '00:36:09.200'
 - end: !human_time '00:36:13.800'
   lines:
-  - "Com o que voc\u05DA est\u05D1"
+  - "Com o que voc\u0119 est\xE1"
   - preocupado?
   start: !human_time '00:36:11.800'
 - end: !human_time '00:36:16.320'
   lines:
-  - "O que ele est\u05D1 procurando?"
+  - "O que ele est\xE1 procurando?"
   start: !human_time '00:36:14.200'
 - end: !human_time '00:36:19.800'
   lines:
@@ -1020,7 +1020,7 @@ units:
   start: !human_time '00:36:16.800'
 - end: !human_time '00:36:40.800'
   lines:
-  - "Nosso segredo est\u05D1 amea\u05D7ado."
+  - "Nosso segredo est\xE1 amea\xE7ado."
   start: !human_time '00:36:38.600'
 - end: !human_time '00:36:43.680'
   lines:
@@ -1036,7 +1036,7 @@ units:
   start: !human_time '00:37:19.800'
 - end: !human_time '00:38:30.200'
   lines:
-  - "O que est\u05D1 fazendo aqui?"
+  - "O que est\xE1 fazendo aqui?"
   start: !human_time '00:38:28.720'
 - end: !human_time '00:38:34.200'
   lines:
@@ -1045,7 +1045,7 @@ units:
   start: !human_time '00:38:32.000'
 - end: !human_time '00:38:39.120'
   lines:
-  - "Agora voc\u05DAs dois est\u05D3o come\u05D7ando"
+  - "Agora voc\u0119s dois est\u0103o come\xE7ando"
   - a parecer marido e mulher.
   start: !human_time '00:38:36.720'
 - end: !human_time '00:38:40.880'
@@ -1054,12 +1054,12 @@ units:
   start: !human_time '00:38:39.160'
 - end: !human_time '00:38:44.800'
   lines:
-  - "Por que eu n\u05D3o te levo l\u05D1 pra cima"
+  - "Por que eu n\u0103o te levo l\xE1 pra cima"
   - e mostro que tipo de mulher eu sou?
   start: !human_time '00:38:40.800'
 - end: !human_time '00:38:47.600'
   lines:
-  - "\u05B9 mulher demais pra mim."
+  - "\xC9 mulher demais pra mim."
   start: !human_time '00:38:45.400'
 - end: !human_time '00:38:50.200'
   lines:
@@ -1067,12 +1067,12 @@ units:
   start: !human_time '00:38:48.600'
 - end: !human_time '00:39:09.000'
   lines:
-  - "Est\u05D3o tocando bem essa"
+  - "Est\u0103o tocando bem essa"
   - noite, rapazes?
   start: !human_time '00:39:06.480'
 - end: !human_time '00:39:11.680'
   lines:
-  - "Que tal uma m\u05EAsica?"
+  - "Que tal uma m\xFAsica?"
   start: !human_time '00:39:09.520'
 - end: !human_time '00:40:45.680'
   lines:
@@ -1084,12 +1084,12 @@ units:
   start: !human_time '00:40:52.880'
 - end: !human_time '00:40:57.120'
   lines:
-  - "Onde est\u05D1 o Woodhead?"
+  - "Onde est\xE1 o Woodhead?"
   start: !human_time '00:40:55.800'
 - end: !human_time '00:40:59.200'
   lines:
-  - "Est\u05D1 morto."
-  - "Ele est\u05D1 morto!"
+  - "Est\xE1 morto."
+  - "Ele est\xE1 morto!"
   start: !human_time '00:40:57.160'
 - end: !human_time '00:41:01.280'
   lines:
@@ -1097,12 +1097,12 @@ units:
   start: !human_time '00:40:59.200'
 - end: !human_time '00:41:05.280'
   lines:
-  - "Voc\u05DA foi avisado"
-  - "pra n\u05D3o ir no territ\u05E3rio deles."
+  - "Voc\u0119 foi avisado"
+  - "pra n\u0103o ir no territ\xF3rio deles."
   start: !human_time '00:41:02.400'
 - end: !human_time '00:41:07.400'
   lines:
-  - "Est\u05D1vamos na estrada"
+  - "Est\xE1vamos na estrada"
   - para Riata.
   start: !human_time '00:41:05.400'
 - end: !human_time '00:41:09.600'
@@ -1116,12 +1116,12 @@ units:
   start: !human_time '00:41:09.600'
 - end: !human_time '00:41:15.200'
   lines:
-  - "O que voc\u05DA vai"
+  - "O que voc\u0119 vai"
   - fazer sobre isso, Delegado?
   start: !human_time '00:41:13.000'
 - end: !human_time '00:41:17.920'
   lines:
-  - "N\u05D3o podemos apenas nos sentar aqui"
+  - "N\u0103o podemos apenas nos sentar aqui"
   - e colocar o rabo entre as pernas...
   start: !human_time '00:41:15.280'
 - end: !human_time '00:41:21.600'
@@ -1131,19 +1131,19 @@ units:
   start: !human_time '00:41:17.960'
 - end: !human_time '00:41:32.400'
   lines:
-  - "Voc\u05DA \u05D9 esquerdo, n\u05D3o \u05D9?"
+  - "Voc\u0119 \xE9 esquerdo, n\u0103o \xE9?"
   start: !human_time '00:41:30.200'
 - end: !human_time '00:41:33.600'
   lines:
-  - "O qu\u05DA?"
+  - "O qu\u0119?"
   start: !human_time '00:41:32.400'
 - end: !human_time '00:41:37.200'
   lines:
-  - "Voc\u05DA n\u05D3o \u05D9 canhoto?"
+  - "Voc\u0119 n\u0103o \xE9 canhoto?"
   start: !human_time '00:41:35.000'
 - end: !human_time '00:41:40.480'
   lines:
-  - "Est\u05D1 dizendo"
+  - "Est\xE1 dizendo"
   - que estou mentindo?
   start: !human_time '00:41:38.720'
 - end: !human_time '00:41:44.080'
@@ -1153,7 +1153,7 @@ units:
   start: !human_time '00:41:41.120'
 - end: !human_time '00:41:45.200'
   lines:
-  - "E deve ter do\u05DDdo."
+  - "E deve ter do\xEDdo."
   start: !human_time '00:41:44.120'
 - end: !human_time '00:41:47.800'
   lines:
@@ -1161,17 +1161,17 @@ units:
   start: !human_time '00:41:45.280'
 - end: !human_time '00:41:52.000'
   lines:
-  - "A fam\u05DDlia Von Luckner \u05D9 bem"
+  - "A fam\xEDlia Von Luckner \xE9 bem"
   - respeitada na Alemanha por muitos anos!
   start: !human_time '00:41:48.000'
 - end: !human_time '00:41:54.720'
   lines:
-  - "Sou um homem da ci\u05DAncia,"
+  - "Sou um homem da ci\u0119ncia,"
   - um geologista.
   start: !human_time '00:41:52.040'
 - end: !human_time '00:41:56.600'
   lines:
-  - "Eu fa\u05D7o mapas."
+  - "Eu fa\xE7o mapas."
   start: !human_time '00:41:54.720'
 - end: !human_time '00:41:59.120'
   lines:
@@ -1185,7 +1185,7 @@ units:
   start: !human_time '00:41:59.200'
 - end: !human_time '00:42:02.880'
   lines:
-  - "\u05B9 possivel!"
+  - "\xC9 possivel!"
   start: !human_time '00:42:01.520'
 - end: !human_time '00:42:04.880'
   lines:
@@ -1198,32 +1198,32 @@ units:
   start: !human_time '00:42:05.120'
 - end: !human_time '00:42:11.800'
   lines:
-  - "Talvez voc\u05DA n\u05D3o seja o homem"
-  - "certo pra esse servi\u05D7o, Delegado."
+  - "Talvez voc\u0119 n\u0103o seja o homem"
+  - "certo pra esse servi\xE7o, Delegado."
   start: !human_time '00:42:08.800'
 - end: !human_time '00:42:13.400'
   lines:
-  - "\u05B9 a nossa terra!"
+  - "\xC9 a nossa terra!"
   start: !human_time '00:42:11.840'
 - end: !human_time '00:42:23.520'
   lines:
-  - "Voc\u05DA arruinou"
-  - "a minha m\u05EAsica."
+  - "Voc\u0119 arruinou"
+  - "a minha m\xFAsica."
   start: !human_time '00:42:21.120'
 - end: !human_time '00:42:29.120'
   lines:
   - Uma rodada de drinks por conta da casa
-  - "em mem\u05E3ria do Woodhead!"
+  - "em mem\xF3ria do Woodhead!"
   start: !human_time '00:42:25.520'
 - end: !human_time '00:42:44.600'
   lines:
-  - "Ela tem culh\u05E5es t\u05D3o grandes"
+  - "Ela tem culh\u0151es t\u0103o grandes"
   - quanto um touro.
   start: !human_time '00:42:41.800'
 - end: !human_time '00:42:52.080'
   lines:
   - Para Woodhead!
-  - "Que Deus garanta a sua vingan\u05D7a!"
+  - "Que Deus garanta a sua vingan\xE7a!"
   start: !human_time '00:42:48.480'
 - end: !human_time '00:42:57.600'
   lines:
@@ -1232,16 +1232,16 @@ units:
   start: !human_time '00:42:54.880'
 - end: !human_time '00:43:00.320'
   lines:
-  - "Sullivan, voc\u05DA"
+  - "Sullivan, voc\u0119"
   - ainda precisa de mim!
   start: !human_time '00:42:58.200'
 - end: !human_time '00:43:02.200'
   lines:
-  - "Talvez n\u05D3o."
+  - "Talvez n\u0103o."
   start: !human_time '00:43:00.600'
 - end: !human_time '00:43:25.800'
   lines:
-  - "O que voc\u05DA est\u05D1 olhando?"
+  - "O que voc\u0119 est\xE1 olhando?"
   start: !human_time '00:43:23.800'
 - end: !human_time '00:43:37.920'
   lines:
@@ -1253,7 +1253,7 @@ units:
   start: !human_time '00:44:03.680'
 - end: !human_time '00:44:08.480'
   lines:
-  - "Voc\u05DA, me diga."
+  - "Voc\u0119, me diga."
   - O que aconteceu?
   start: !human_time '00:44:05.200'
 - end: !human_time '00:44:12.720'
@@ -1263,27 +1263,27 @@ units:
   start: !human_time '00:44:08.880'
 - end: !human_time '00:44:17.120'
   lines:
-  - "...de que lado voc\u05DA est\u05D1?"
+  - "...de que lado voc\u0119 est\xE1?"
   start: !human_time '00:44:15.280'
 - end: !human_time '00:44:23.400'
   lines:
-  - "Tem certeza de que n\u05D3o quer"
-  - "que eu v\u05D1 com voc\u05DA?"
+  - "Tem certeza de que n\u0103o quer"
+  - "que eu v\xE1 com voc\u0119?"
   start: !human_time '00:44:20.800'
 - end: !human_time '00:44:26.720'
   lines:
-  - "N\u05D3o."
-  - "Preciso de voc\u05DA aqui."
+  - "N\u0103o."
+  - "Preciso de voc\u0119 aqui."
   start: !human_time '00:44:23.680'
 - end: !human_time '00:44:30.880'
   lines:
   - Sabe que se Woodhead e aquele prussiano
-  - "entraram no territ\u05E3rio deles..."
+  - "entraram no territ\xF3rio deles..."
   start: !human_time '00:44:27.280'
 - end: !human_time '00:44:33.520'
   lines:
-  - "...voc\u05DA pode n\u05D3o ter as boas-vindas"
-  - "que est\u05D1 acostumado."
+  - "...voc\u0119 pode n\u0103o ter as boas-vindas"
+  - "que est\xE1 acostumado."
   start: !human_time '00:44:30.880'
 - end: !human_time '00:44:36.800'
   lines:
@@ -1296,8 +1296,8 @@ units:
   start: !human_time '00:44:38.600'
 - end: !human_time '00:44:45.400'
   lines:
-  - "...\u05D9 melhor manter seus olhos abertos"
-  - "at\u05D9 o Rolling Star te render."
+  - "...\xE9 melhor manter seus olhos abertos"
+  - "at\xE9 o Rolling Star te render."
   start: !human_time '00:44:41.600'
 - end: !human_time '00:44:50.080'
   lines:
@@ -1305,24 +1305,24 @@ units:
   start: !human_time '00:44:46.720'
 - end: !human_time '00:44:56.320'
   lines:
-  - "Maldito franc\u05DAs!"
+  - "Maldito franc\u0119s!"
   start: !human_time '00:44:54.480'
 - end: !human_time '00:44:59.600'
   lines:
-  - "Volte pros seus \u05DDndios, garoto!"
+  - "Volte pros seus \xEDndios, garoto!"
   start: !human_time '00:44:57.400'
 - end: !human_time '00:45:08.000'
   lines:
-  - "Saia daqui, \u05DDndio!"
+  - "Saia daqui, \xEDndio!"
   start: !human_time '00:45:05.600'
 - end: !human_time '00:45:16.480'
   lines:
-  - "Adeus, amante de \u05DDndia!"
+  - "Adeus, amante de \xEDndia!"
   start: !human_time '00:45:13.920'
 - end: !human_time '00:45:50.600'
   lines:
-  - "Eu n\u05D3o o matei."
-  - "Ele foi v\u05DDtima de vingan\u05D7a."
+  - "Eu n\u0103o o matei."
+  - "Ele foi v\xEDtima de vingan\xE7a."
   start: !human_time '00:45:47.120'
 - end: !human_time '00:45:54.720'
   lines:
@@ -1335,7 +1335,7 @@ units:
   start: !human_time '00:45:54.760'
 - end: !human_time '00:46:05.600'
   lines:
-  - "Esse \u05D9 o escalpo do"
+  - "Esse \xE9 o escalpo do"
   - homem negro.
   start: !human_time '00:46:03.120'
 - end: !human_time '00:46:08.800'
@@ -1345,28 +1345,28 @@ units:
   start: !human_time '00:46:05.600'
 - end: !human_time '00:46:11.120'
   lines:
-  - "Vou lev\u05D1-lo para Runi."
+  - "Vou lev\xE1-lo para Runi."
   start: !human_time '00:46:08.800'
 - end: !human_time '00:46:14.720'
   lines:
-  - "Runi n\u05D3o \u05D9 um de n\u05E3s."
-  - "O corpo pertence a n\u05E3s."
+  - "Runi n\u0103o \xE9 um de n\xF3s."
+  - "O corpo pertence a n\xF3s."
   start: !human_time '00:46:11.120'
 - end: !human_time '00:46:17.920'
   lines:
-  - "Vou lev\u05D1-lo para Runi."
+  - "Vou lev\xE1-lo para Runi."
   start: !human_time '00:46:14.760'
 - end: !human_time '00:46:35.200'
   lines:
-  - "N\u05D3o sou seu inimigo."
+  - "N\u0103o sou seu inimigo."
   start: !human_time '00:46:33.400'
 - end: !human_time '00:46:37.600'
   lines:
-  - "N\u05D3o sou seu inimigo."
+  - "N\u0103o sou seu inimigo."
   start: !human_time '00:46:35.800'
 - end: !human_time '00:46:46.480'
   lines:
-  - "V\u05D1 em frente."
+  - "V\xE1 em frente."
   start: !human_time '00:46:45.520'
 - end: !human_time '00:46:48.200'
   lines:
@@ -1374,12 +1374,12 @@ units:
   start: !human_time '00:46:46.600'
 - end: !human_time '00:46:50.400'
   lines:
-  - "V\u05D1 em frente!"
+  - "V\xE1 em frente!"
   start: !human_time '00:46:48.200'
 - end: !human_time '00:47:59.000'
   lines:
-  - "Est\u05D1 um dia quente,"
-  - "n\u05D3o \u05D9, Xerife?"
+  - "Est\xE1 um dia quente,"
+  - "n\u0103o \xE9, Xerife?"
   start: !human_time '00:47:57.000'
 - end: !human_time '00:48:00.480'
   lines:
@@ -1392,11 +1392,11 @@ units:
   start: !human_time '00:48:06.320'
 - end: !human_time '00:48:11.400'
   lines:
-  - "O nome dele \u05D9 Prosit."
+  - "O nome dele \xE9 Prosit."
   start: !human_time '00:48:09.680'
 - end: !human_time '00:48:15.200'
   lines:
-  - "Imagino que v\u05D1 encontr\u05D1-lo"
+  - "Imagino que v\xE1 encontr\xE1-lo"
   - no Venus Hotel.
   start: !human_time '00:48:11.400'
 - end: !human_time '00:48:23.280'
@@ -1411,7 +1411,7 @@ units:
 - end: !human_time '00:48:35.920'
   lines:
   - Vamos, Billy
-  - "leve-me pro saloon, r\u05D1pido!"
+  - "leve-me pro saloon, r\xE1pido!"
   start: !human_time '00:48:33.600'
 - end: !human_time '00:48:38.600'
   lines:
@@ -1420,7 +1420,7 @@ units:
   start: !human_time '00:48:35.920'
 - end: !human_time '00:48:47.000'
   lines:
-  - "Com todos os dem\u05E4nios!"
+  - "Com todos os dem\xF4nios!"
   - Woodhead?
   start: !human_time '00:48:41.520'
 - end: !human_time '00:48:48.480'
@@ -1429,21 +1429,21 @@ units:
   start: !human_time '00:48:47.040'
 - end: !human_time '00:48:52.320'
   lines:
-  - "Onde est\u05D1 o Prosit?"
+  - "Onde est\xE1 o Prosit?"
   start: !human_time '00:48:50.320'
 - end: !human_time '00:48:54.880'
   lines:
-  - "-O que voc\u05DA disse?"
+  - "-O que voc\u0119 disse?"
   - -Prosit
   start: !human_time '00:48:52.320'
 - end: !human_time '00:49:02.400'
   lines:
   - Eu vi as montanhas.
-  - "Voc\u05DA est\u05D1 com o manuscrito."
+  - "Voc\u0119 est\xE1 com o manuscrito."
   start: !human_time '00:48:59.600'
 - end: !human_time '00:49:04.400'
   lines:
-  - "Sullivan est\u05D1 com ele."
+  - "Sullivan est\xE1 com ele."
   start: !human_time '00:49:02.400'
 - end: !human_time '00:49:08.000'
   lines:
@@ -1452,12 +1452,12 @@ units:
 - end: !human_time '00:49:12.800'
   lines:
   - Agora Woody, veja, vamos!
-  - "N\u05D3o va fazer nada que possa arrepender-se!"
+  - "N\u0103o va fazer nada que possa arrepender-se!"
   start: !human_time '00:49:08.080'
 - end: !human_time '00:49:17.600'
   lines:
   - Vamos, leve-me de volta
-  - "\u05D0 delegacia."
+  - "\u0155 delegacia."
   start: !human_time '00:49:15.400'
 - end: !human_time '00:49:21.920'
   lines:
@@ -1466,16 +1466,16 @@ units:
   start: !human_time '00:49:19.520'
 - end: !human_time '00:49:23.280'
   lines:
-  - "E v\u05D1 direto!"
+  - "E v\xE1 direto!"
   start: !human_time '00:49:21.960'
 - end: !human_time '00:49:29.120'
   lines:
-  - "Eu estava l\u05D1."
+  - "Eu estava l\xE1."
   - Ele era o meu parceiro.
   start: !human_time '00:49:25.920'
 - end: !human_time '00:49:30.320'
   lines:
-  - "\u05B9ramos como irm\u05D3os"
+  - "\xC9ramos como irm\u0103os"
   - de sangue.
   start: !human_time '00:49:29.120'
 - end: !human_time '00:49:31.680'
@@ -1498,15 +1498,15 @@ units:
 - end: !human_time '00:49:45.280'
   lines:
   - Woodhead!
-  - "\u05B9 um milagre!"
+  - "\xC9 um milagre!"
   start: !human_time '00:49:42.000'
 - end: !human_time '00:49:47.520'
   lines:
-  - "Ent\u05D3o ambos sobrevivemos!"
+  - "Ent\u0103o ambos sobrevivemos!"
   start: !human_time '00:49:45.280'
 - end: !human_time '00:49:52.200'
   lines:
-  - "Sei o que voc\u05DA vai dizer"
+  - "Sei o que voc\u0119 vai dizer"
   - mas veja o que fizeram comigo!
   start: !human_time '00:49:48.800'
 - end: !human_time '00:50:04.320'
@@ -1520,13 +1520,13 @@ units:
   start: !human_time '00:50:06.400'
 - end: !human_time '00:50:13.400'
   lines:
-  - "Rezei a Deus pra me dar for\u05D7as"
+  - "Rezei a Deus pra me dar for\xE7as"
   - pra conseguir retornar...
   start: !human_time '00:50:08.720'
 - end: !human_time '00:50:17.680'
   lines:
   - '...pra que eu'
-  - "pudesse mat\u05D1-lo."
+  - "pudesse mat\xE1-lo."
   start: !human_time '00:50:15.120'
 - end: !human_time '00:50:47.520'
   lines:
@@ -1538,25 +1538,25 @@ units:
   start: !human_time '00:50:52.600'
 - end: !human_time '00:51:01.600'
   lines:
-  - "Voc\u05DA ouviu o homem."
+  - "Voc\u0119 ouviu o homem."
   start: !human_time '00:50:59.680'
 - end: !human_time '00:51:20.400'
   lines:
-  - "Voc\u05DA n\u05D3o pode me deixar"
+  - "Voc\u0119 n\u0103o pode me deixar"
   - na mesma cela.
   start: !human_time '00:51:18.320'
 - end: !human_time '00:51:22.200'
   lines:
-  - "Ele \u05D9 um assassino."
+  - "Ele \xE9 um assassino."
   start: !human_time '00:51:20.400'
 - end: !human_time '00:51:26.880'
   lines:
-  - "Voc\u05DA parte o meu cora\u05D7\u05D3o!"
+  - "Voc\u0119 parte o meu cora\xE7\u0103o!"
   start: !human_time '00:51:25.000'
 - end: !human_time '00:51:32.800'
   lines:
   - Pensei que
-  - "f\u05E4ssemos parceiros."
+  - "f\xF4ssemos parceiros."
   start: !human_time '00:51:30.200'
 - end: !human_time '00:51:39.120'
   lines:
@@ -1565,17 +1565,17 @@ units:
   start: !human_time '00:51:34.400'
 - end: !human_time '00:51:45.280'
   lines:
-  - "Parece que voc\u05DA"
+  - "Parece que voc\u0119"
   - esteve muito ocupado, Prosit.
   start: !human_time '00:51:40.800'
 - end: !human_time '00:51:48.400'
   lines:
-  - "O que importa \u05D9 que voc\u05DA"
-  - "est\u05D1 vivo, parceiro."
+  - "O que importa \xE9 que voc\u0119"
+  - "est\xE1 vivo, parceiro."
   start: !human_time '00:51:45.320'
 - end: !human_time '00:51:52.200'
   lines:
-  - "Onde est\u05D1 o manuscrito?"
+  - "Onde est\xE1 o manuscrito?"
   start: !human_time '00:51:50.320'
 - end: !human_time '00:51:55.200'
   lines:
@@ -1589,17 +1589,17 @@ units:
   start: !human_time '00:51:55.200'
 - end: !human_time '00:52:04.600'
   lines:
-  - "N\u05D3o estou com ele."
-  - "Mas eu sei com quem est\u05D1."
+  - "N\u0103o estou com ele."
+  - "Mas eu sei com quem est\xE1."
   start: !human_time '00:52:00.480'
 - end: !human_time '00:52:08.000'
   lines:
-  - "Sim, posso lev\u05D1-lo at\u05D9 ele."
+  - "Sim, posso lev\xE1-lo at\xE9 ele."
   start: !human_time '00:52:04.640'
 - end: !human_time '00:52:12.600'
   lines:
-  - "Podemos encontr\u05D1-lo agora mesmo."
-  - "Bem, n\u05D3o podemos sair, mas..."
+  - "Podemos encontr\xE1-lo agora mesmo."
+  - "Bem, n\u0103o podemos sair, mas..."
   start: !human_time '00:52:09.000'
 - end: !human_time '00:52:16.480'
   lines:
@@ -1612,7 +1612,7 @@ units:
   start: !human_time '00:52:17.200'
 - end: !human_time '00:52:23.920'
   lines:
-  - "\u05B9 bom v\u05DA-lo, Wally"
+  - "\xC9 bom v\u0119-lo, Wally"
   start: !human_time '00:52:22.000'
 - end: !human_time '00:52:25.920'
   lines:
@@ -1620,7 +1620,7 @@ units:
   start: !human_time '00:52:24.200'
 - end: !human_time '00:53:01.680'
   lines:
-  - "O Delegado est\u05D1 aqui."
+  - "O Delegado est\xE1 aqui."
   start: !human_time '00:53:00.080'
 - end: !human_time '00:53:12.480'
   lines:
@@ -1628,39 +1628,39 @@ units:
   start: !human_time '00:53:11.200'
 - end: !human_time '00:53:15.280'
   lines:
-  - "Riata, n\u05D3o foi?"
+  - "Riata, n\u0103o foi?"
   start: !human_time '00:53:13.200'
 - end: !human_time '00:53:23.920'
   lines:
-  - "Sim, Woodhead est\u05D1 morto."
+  - "Sim, Woodhead est\xE1 morto."
   start: !human_time '00:53:21.920'
 - end: !human_time '00:53:26.320'
   lines:
-  - "Mas n\u05D3o foram os Chiricahua"
+  - "Mas n\u0103o foram os Chiricahua"
   - que o mataram.
   start: !human_time '00:53:24.200'
 - end: !human_time '00:53:29.280'
   lines:
-  - "Um pistoleiro veio \u05D0 cidade hoje"
-  - "e terminou o servi\u05D7o."
+  - "Um pistoleiro veio \u0155 cidade hoje"
+  - "e terminou o servi\xE7o."
   start: !human_time '00:53:26.360'
 - end: !human_time '00:53:32.000'
   lines:
-  - "Ele est\u05D1 sentado l\u05D1,"
-  - "na sua pris\u05D3o."
+  - "Ele est\xE1 sentado l\xE1,"
+  - "na sua pris\u0103o."
   start: !human_time '00:53:29.200'
 - end: !human_time '00:53:46.080'
   lines:
   - Esse homem
-  - "est\u05D1 arrastando os p\u05D9s."
+  - "est\xE1 arrastando os p\xE9s."
   start: !human_time '00:53:43.520'
 - end: !human_time '00:54:06.880'
   lines:
-  - "O que h\u05D1 de errado?"
+  - "O que h\xE1 de errado?"
   start: !human_time '00:54:05.600'
 - end: !human_time '00:54:11.000'
   lines:
-  - "Bem, n\u05D3o h\u05D1 nada errado,"
+  - "Bem, n\u0103o h\xE1 nada errado,"
   - querida. Nada.
   start: !human_time '00:54:07.520'
 - end: !human_time '00:54:15.920'
@@ -1674,31 +1674,31 @@ units:
   start: !human_time '00:54:23.680'
 - end: !human_time '00:54:29.280'
   lines:
-  - "Apenas uma conversa amig\u05D1vel"
+  - "Apenas uma conversa amig\xE1vel"
   - entre dois homens.
   start: !human_time '00:54:25.440'
 - end: !human_time '00:54:33.000'
   lines:
-  - "\u05B9 mesmo?"
+  - "\xC9 mesmo?"
   start: !human_time '00:54:31.200'
 - end: !human_time '00:54:38.880'
   lines:
   - Bem, certamente ele saiu apressado
-  - "para estar sendo t\u05D3o amig\u05D1vel."
+  - "para estar sendo t\u0103o amig\xE1vel."
   start: !human_time '00:54:35.000'
 - end: !human_time '00:54:42.000'
   lines:
-  - "Voc\u05DA est\u05D1 apaixonada por ele,"
-  - "n\u05D3o est\u05D1?"
+  - "Voc\u0119 est\xE1 apaixonada por ele,"
+  - "n\u0103o est\xE1?"
   start: !human_time '00:54:39.600'
 - end: !human_time '00:54:47.680'
   lines:
   - De que lado
-  - "voc\u05DA est\u05D1, querida?"
+  - "voc\u0119 est\xE1, querida?"
   start: !human_time '00:54:45.920'
 - end: !human_time '00:54:50.320'
   lines:
-  - "Eu n\u05D3o sabia que tinha"
+  - "Eu n\u0103o sabia que tinha"
   - que escolher.
   start: !human_time '00:54:47.680'
 - end: !human_time '00:54:54.400'
@@ -1725,7 +1725,7 @@ units:
   start: !human_time '00:55:37.800'
 - end: !human_time '00:55:58.400'
   lines:
-  - "Voc\u05DA vai pintar o"
+  - "Voc\u0119 vai pintar o"
   - meu retrato?
   start: !human_time '00:55:55.920'
 - end: !human_time '00:56:01.920'
@@ -1742,7 +1742,7 @@ units:
   start: !human_time '00:56:15.000'
 - end: !human_time '00:56:20.000'
   lines:
-  - "Voc\u05DA tem fogo?"
+  - "Voc\u0119 tem fogo?"
   start: !human_time '00:56:18.320'
 - end: !human_time '00:56:35.200'
   lines:
@@ -1755,7 +1755,7 @@ units:
   start: !human_time '00:56:38.080'
 - end: !human_time '00:56:50.080'
   lines:
-  - "N\u05D3o, Wally!"
+  - "N\u0103o, Wally!"
   - Por favor, pare!
   start: !human_time '00:56:46.600'
 - end: !human_time '00:57:14.880'
@@ -1768,20 +1768,20 @@ units:
   start: !human_time '00:57:22.720'
 - end: !human_time '00:57:39.920'
   lines:
-  - "N\u05D3o ser\u05D1 como da \u05EAltima vez."
+  - "N\u0103o ser\xE1 como da \xFAltima vez."
   start: !human_time '00:57:37.520'
 - end: !human_time '00:57:45.600'
   lines:
-  - "Voc\u05DA quer ver"
+  - "Voc\u0119 quer ver"
   - como um homem faz?
   start: !human_time '00:57:44.080'
 - end: !human_time '00:57:47.520'
   lines:
-  - "V\u05D1! V\u05D1 embora, Mike!"
+  - "V\xE1! V\xE1 embora, Mike!"
   start: !human_time '00:57:45.640'
 - end: !human_time '00:58:15.800'
   lines:
-  - "Voc\u05DA n\u05D3o quer morrer por causa"
+  - "Voc\u0119 n\u0103o quer morrer por causa"
   - de um puta, Mike?
   start: !human_time '00:58:12.320'
 - end: !human_time '00:59:09.280'
@@ -1791,20 +1791,20 @@ units:
   start: !human_time '00:59:06.200'
 - end: !human_time '00:59:15.000'
   lines:
-  - "Vou ser amaldi\u05D7oado."
+  - "Vou ser amaldi\xE7oado."
   start: !human_time '00:59:13.600'
 - end: !human_time '00:59:17.920'
   lines:
-  - "Est\u05D1 tentando me matar"
-  - "com a minha pr\u05E3pria arma!"
+  - "Est\xE1 tentando me matar"
+  - "com a minha pr\xF3pria arma!"
   start: !human_time '00:59:15.000'
 - end: !human_time '00:59:22.400'
   lines:
-  - "Isso n\u05D3o est\u05D1 certo."
+  - "Isso n\u0103o est\xE1 certo."
   start: !human_time '00:59:20.880'
 - end: !human_time '00:59:24.880'
   lines:
-  - "Voc\u05DA \u05D9 um filho da puta, Mike."
+  - "Voc\u0119 \xE9 um filho da puta, Mike."
   start: !human_time '00:59:22.800'
 - end: !human_time '00:59:26.880'
   lines:
@@ -1812,7 +1812,7 @@ units:
   start: !human_time '00:59:24.880'
 - end: !human_time '00:59:29.400'
   lines:
-  - "...voc\u05DA nunca tenha superado..."
+  - "...voc\u0119 nunca tenha superado..."
   start: !human_time '00:59:27.400'
 - end: !human_time '00:59:37.120'
   lines:
@@ -1822,7 +1822,7 @@ units:
 - end: !human_time '00:59:42.600'
   lines:
   - Na verdade,
-  - "voc\u05DA me fez um favor."
+  - "voc\u0119 me fez um favor."
   start: !human_time '00:59:39.000'
 - end: !human_time '00:59:45.680'
   lines:
@@ -1844,7 +1844,7 @@ units:
 - end: !human_time '01:00:02.000'
   lines:
   - Da mesma forma
-  - "que voc\u05DA foi comigo."
+  - "que voc\u0119 foi comigo."
   start: !human_time '00:59:59.000'
 - end: !human_time '01:00:17.000'
   lines:
@@ -1852,11 +1852,11 @@ units:
   start: !human_time '01:00:15.400'
 - end: !human_time '01:00:25.280'
   lines:
-  - "Voc\u05DA quer a verdade?"
+  - "Voc\u0119 quer a verdade?"
   start: !human_time '01:00:23.280'
 - end: !human_time '01:00:28.200'
   lines:
-  - "Eu n\u05D3o vou decepcion\u05D1-lo."
+  - "Eu n\u0103o vou decepcion\xE1-lo."
   start: !human_time '01:00:25.600'
 - end: !human_time '01:00:47.600'
   lines:
@@ -1873,7 +1873,7 @@ units:
   start: !human_time '01:00:59.120'
 - end: !human_time '01:01:09.200'
   lines:
-  - "Estranhas l\u05DDnguas"
+  - "Estranhas l\xEDnguas"
   - negras...
   start: !human_time '01:01:06.400'
 - end: !human_time '01:01:11.520'
@@ -1887,11 +1887,11 @@ units:
 - end: !human_time '01:01:33.200'
   lines:
   - A matar...
-  - "com o meu esp\u05DDrito."
+  - "com o meu esp\xEDrito."
   start: !human_time '01:01:29.000'
 - end: !human_time '01:01:36.880'
   lines:
-  - "Que bom v\u05DA-lo de novo."
+  - "Que bom v\u0119-lo de novo."
   start: !human_time '01:01:34.600'
 - end: !human_time '01:01:45.120'
   lines:
@@ -1900,8 +1900,8 @@ units:
   start: !human_time '01:01:41.520'
 - end: !human_time '01:02:09.600'
   lines:
-  - "Acho que \u05D9 melhor voc\u05DA"
-  - "correr e encontrar a sua m\u05D3e. Certo?"
+  - "Acho que \xE9 melhor voc\u0119"
+  - "correr e encontrar a sua m\u0103e. Certo?"
   start: !human_time '01:02:06.080'
 - end: !human_time '01:02:22.600'
   lines:
@@ -1909,12 +1909,12 @@ units:
   start: !human_time '01:02:21.600'
 - end: !human_time '01:02:24.880'
   lines:
-  - "Leve-me at\u05D9 o Runi."
+  - "Leve-me at\xE9 o Runi."
   start: !human_time '01:02:23.200'
 - end: !human_time '01:02:29.200'
   lines:
   - Se sairmos dessa, te levo
-  - "a qualquer lugar que voc\u05DA quiser."
+  - "a qualquer lugar que voc\u0119 quiser."
   start: !human_time '01:02:25.600'
 - end: !human_time '01:02:30.480'
   lines:
@@ -1926,8 +1926,8 @@ units:
   start: !human_time '01:02:31.520'
 - end: !human_time '01:02:38.880'
   lines:
-  - "N\u05D3o! N\u05D3o, Billy!"
-  - "Billy, n\u05D3o!"
+  - "N\u0103o! N\u0103o, Billy!"
+  - "Billy, n\u0103o!"
   start: !human_time '01:02:33.680'
 - end: !human_time '01:02:40.080'
   lines:
@@ -1935,11 +1935,11 @@ units:
   start: !human_time '01:02:38.920'
 - end: !human_time '01:02:43.280'
   lines:
-  - "N\u05D3o, Billy!"
+  - "N\u0103o, Billy!"
   start: !human_time '01:02:41.280'
 - end: !human_time '01:02:46.880'
   lines:
-  - "Billy! N\u05D3o!"
+  - "Billy! N\u0103o!"
   start: !human_time '01:02:43.800'
 - end: !human_time '01:02:53.800'
   lines:
@@ -1947,17 +1947,17 @@ units:
   start: !human_time '01:02:52.320'
 - end: !human_time '01:03:18.000'
   lines:
-  - "N\u05D3o fa\u05D7a isso."
+  - "N\u0103o fa\xE7a isso."
   start: !human_time '01:03:16.320'
 - end: !human_time '01:03:37.600'
   lines:
-  - "Voc\u05DA n\u05D3o pode atirar em mim!"
+  - "Voc\u0119 n\u0103o pode atirar em mim!"
   - Veja o manuscrito.
   start: !human_time '01:03:35.000'
 - end: !human_time '01:03:40.200'
   lines:
-  - "-Pra qu\u05DA?"
-  - "-As \u05EAltimas p\u05D1ginas."
+  - "-Pra qu\u0119?"
+  - "-As \xFAltimas p\xE1ginas."
   start: !human_time '01:03:37.680'
 - end: !human_time '01:03:49.800'
   lines:
@@ -1966,30 +1966,30 @@ units:
 - end: !human_time '01:04:08.800'
   lines:
   - Acho que vou ter que
-  - "tir\u05D1-lo de voc\u05DA."
+  - "tir\xE1-lo de voc\u0119."
   start: !human_time '01:04:06.800'
 - end: !human_time '01:04:11.680'
   lines:
   - Espere, Wally!
-  - "N\u05E3s somos parceiros."
+  - "N\xF3s somos parceiros."
   start: !human_time '01:04:08.840'
 - end: !human_time '01:04:13.280'
   lines:
-  - "Ei, isso \u05D9 loucura!"
+  - "Ei, isso \xE9 loucura!"
   start: !human_time '01:04:11.680'
 - end: !human_time '01:04:15.280'
   lines:
-  - "J\u05D1 se desintegrou agora."
+  - "J\xE1 se desintegrou agora."
   start: !human_time '01:04:13.280'
 - end: !human_time '01:04:18.600'
   lines:
-  - "Est\u05D1 no meu est\u05E4mago"
-  - "desde ter\u05D7a-feira."
+  - "Est\xE1 no meu est\xF4mago"
+  - "desde ter\xE7a-feira."
   start: !human_time '01:04:16.800'
 - end: !human_time '01:04:24.000'
   lines:
   - Pense! Wally!
-  - "N\u05E3s somos parceiros, Wally"
+  - "N\xF3s somos parceiros, Wally"
   start: !human_time '01:04:18.600'
 - end: !human_time '01:04:29.680'
   lines:
@@ -2005,13 +2005,13 @@ units:
   start: !human_time '01:04:35.120'
 - end: !human_time '01:04:39.800'
   lines:
-  - "Voc\u05DA tentou me matar"
-  - "mas o mapa est\u05D1 na minha cabe\u05D7a."
+  - "Voc\u0119 tentou me matar"
+  - "mas o mapa est\xE1 na minha cabe\xE7a."
   start: !human_time '01:04:37.000'
 - end: !human_time '01:04:42.600'
   lines:
   - Bem, espero que sim,
-  - "pela sua seguran\u05D7a, parceiro."
+  - "pela sua seguran\xE7a, parceiro."
   start: !human_time '01:04:39.840'
 - end: !human_time '01:04:53.200'
   lines:
@@ -2019,15 +2019,15 @@ units:
   start: !human_time '01:04:49.600'
 - end: !human_time '01:05:10.880'
   lines:
-  - "N\u05D3o, n\u05D3o, n\u05D3o."
+  - "N\u0103o, n\u0103o, n\u0103o."
   start: !human_time '01:05:06.000'
 - end: !human_time '01:05:16.800'
   lines:
-  - "N\u05D3o, n\u05D3o, n\u05D3o!"
+  - "N\u0103o, n\u0103o, n\u0103o!"
   start: !human_time '01:05:13.400'
 - end: !human_time '01:05:40.880'
   lines:
-  - "N\u05D3o!"
+  - "N\u0103o!"
   start: !human_time '01:05:37.120'
 - end: !human_time '01:05:44.880'
   lines:
@@ -2036,7 +2036,7 @@ units:
 - end: !human_time '01:05:56.200'
   lines:
   - Vamos, rapazes!
-  - "Joguem \u05D1gua nessa coisa!"
+  - "Joguem \xE1gua nessa coisa!"
   start: !human_time '01:05:53.400'
 - end: !human_time '01:06:01.280'
   lines:
@@ -2045,7 +2045,7 @@ units:
   start: !human_time '01:05:56.480'
 - end: !human_time '01:06:03.120'
   lines:
-  - "Vamos, for\u05D7a, rapazes!"
+  - "Vamos, for\xE7a, rapazes!"
   start: !human_time '01:06:01.280'
 - end: !human_time '01:06:05.280'
   lines:
@@ -2061,8 +2061,8 @@ units:
   start: !human_time '01:06:07.120'
 - end: !human_time '01:06:10.480'
   lines:
-  - "Tem certeza de que voc\u05DAs"
-  - "n\u05D3o querem esperar o sol subir?"
+  - "Tem certeza de que voc\u0119s"
+  - "n\u0103o querem esperar o sol subir?"
   start: !human_time '01:06:08.240'
 - end: !human_time '01:06:11.800'
   lines:
@@ -2072,20 +2072,20 @@ units:
 - end: !human_time '01:06:14.480'
   lines:
   - Quer dizer a ele que
-  - "vamos esperar at\u05D9 de manh\u05D3?"
+  - "vamos esperar at\xE9 de manh\u0103?"
   start: !human_time '01:06:11.800'
 - end: !human_time '01:06:16.800'
   lines:
-  - "Eu j\u05D1 estou um trapo."
+  - "Eu j\xE1 estou um trapo."
   start: !human_time '01:06:14.720'
 - end: !human_time '01:06:20.320'
   lines:
   - Certamente eu gostaria
-  - "de poder cavalgar com voc\u05DAs."
+  - "de poder cavalgar com voc\u0119s."
   start: !human_time '01:06:17.800'
 - end: !human_time '01:06:24.800'
   lines:
-  - "-Voc\u05DA vai ficar bem?"
+  - "-Voc\u0119 vai ficar bem?"
   - -Vamos ficar bem, o Billy e eu.
   start: !human_time '01:06:20.880'
 - end: !human_time '01:06:28.320'
@@ -2094,13 +2094,13 @@ units:
   start: !human_time '01:06:26.200'
 - end: !human_time '01:06:31.280'
   lines:
-  - "Vejo voc\u05DA na estrada"
+  - "Vejo voc\u0119 na estrada"
   - daqui a pouco.
   start: !human_time '01:06:29.400'
 - end: !human_time '01:06:33.600'
   lines:
   - Vamos, rapazes!
-  - "Bombeiem com for\u05D7a!"
+  - "Bombeiem com for\xE7a!"
   start: !human_time '01:06:31.320'
 - end: !human_time '01:06:34.720'
   lines:
@@ -2113,7 +2113,7 @@ units:
 - end: !human_time '01:06:52.000'
   lines:
   - Os cavalos
-  - "est\u05D3o prontos, madame."
+  - "est\u0103o prontos, madame."
   start: !human_time '01:06:50.080'
 - end: !human_time '01:06:54.400'
   lines:
@@ -2131,12 +2131,12 @@ units:
   start: !human_time '01:07:36.000'
 - end: !human_time '01:07:42.400'
   lines:
-  - "...\u05D9 dif\u05DDcil de interpretar."
+  - "...\xE9 dif\xEDcil de interpretar."
   start: !human_time '01:07:39.840'
 - end: !human_time '01:07:46.880'
   lines:
-  - "\u05B0s vezes somos capazes."
-  - "\u05B9 o que voc\u05DA me ensinou."
+  - "\u0154s vezes somos capazes."
+  - "\xC9 o que voc\u0119 me ensinou."
   start: !human_time '01:07:42.800'
 - end: !human_time '01:07:54.880'
   lines:
@@ -2148,7 +2148,7 @@ units:
   start: !human_time '01:07:55.520'
 - end: !human_time '01:07:59.920'
   lines:
-  - "Preciso enfrent\u05D1-lo."
+  - "Preciso enfrent\xE1-lo."
   start: !human_time '01:07:57.520'
 - end: !human_time '01:08:04.480'
   lines:
@@ -2157,23 +2157,23 @@ units:
   start: !human_time '01:08:00.400'
 - end: !human_time '01:08:13.280'
   lines:
-  - "Ele n\u05D3o \u05D9 \u05DDndio!"
+  - "Ele n\u0103o \xE9 \xEDndio!"
   start: !human_time '01:08:11.520'
 - end: !human_time '01:08:43.280'
   lines:
-  - "\u05B9 forte."
+  - "\xC9 forte."
   start: !human_time '01:08:41.000'
 - end: !human_time '01:09:00.400'
   lines:
-  - "Voc\u05DA vai sofrer."
+  - "Voc\u0119 vai sofrer."
   start: !human_time '01:08:59.000'
 - end: !human_time '01:09:03.000'
   lines:
-  - "Voc\u05DA vai conhecer o medo."
+  - "Voc\u0119 vai conhecer o medo."
   start: !human_time '01:09:00.480'
 - end: !human_time '01:09:09.800'
   lines:
-  - "Voc\u05DA n\u05D3o vai beber"
+  - "Voc\u0119 n\u0103o vai beber"
   - isso, vai?
   start: !human_time '01:09:06.800'
 - end: !human_time '01:09:26.080'
@@ -2183,26 +2183,26 @@ units:
   start: !human_time '01:09:23.000'
 - end: !human_time '01:09:28.600'
   lines:
-  - "N\u05D3o se preocupe."
-  - "Voc\u05DA passou por isso."
+  - "N\u0103o se preocupe."
+  - "Voc\u0119 passou por isso."
   start: !human_time '01:09:26.120'
 - end: !human_time '01:09:35.280'
   lines:
-  - "Ele vai conseguir tamb\u05D9m."
+  - "Ele vai conseguir tamb\xE9m."
   start: !human_time '01:09:29.680'
 - end: !human_time '01:10:06.400'
   lines:
-  - "Voc\u05DA precisa ficar sozinho..."
+  - "Voc\u0119 precisa ficar sozinho..."
   start: !human_time '01:10:04.600'
 - end: !human_time '01:10:08.320'
   lines:
   - '...pra ver o que'
-  - "h\u05D1 dentro de voc\u05DA."
+  - "h\xE1 dentro de voc\u0119."
   start: !human_time '01:10:06.400'
 - end: !human_time '01:10:10.400'
   lines:
   - E o que habita a
-  - "todos n\u05E3s."
+  - "todos n\xF3s."
   start: !human_time '01:10:08.320'
 - end: !human_time '01:10:29.600'
   lines:
@@ -2210,7 +2210,7 @@ units:
   start: !human_time '01:10:25.120'
 - end: !human_time '01:11:05.520'
   lines:
-  - "\u05B9 a bebida."
+  - "\xC9 a bebida."
   start: !human_time '01:11:03.680'
 - end: !human_time '01:11:10.720'
   lines:
@@ -2218,20 +2218,20 @@ units:
   start: !human_time '01:11:09.120'
 - end: !human_time '01:12:08.600'
   lines:
-  - "Voc\u05DA est\u05D1 com medo."
+  - "Voc\u0119 est\xE1 com medo."
   start: !human_time '01:12:06.080'
 - end: !human_time '01:12:11.800'
   lines:
-  - "Est\u05D1 deixando"
-  - "essas for\u05D7as te possu\u05DDrem."
+  - "Est\xE1 deixando"
+  - "essas for\xE7as te possu\xEDrem."
   start: !human_time '01:12:08.880'
 - end: !human_time '01:12:14.880'
   lines:
-  - "Voc\u05DA pode ir al\u05D9m..."
+  - "Voc\u0119 pode ir al\xE9m..."
   start: !human_time '01:12:12.320'
 - end: !human_time '01:12:18.000'
   lines:
-  - "...e deixar os esp\u05DDritos..."
+  - "...e deixar os esp\xEDritos..."
   start: !human_time '01:12:15.800'
 - end: !human_time '01:12:20.320'
   lines:
@@ -2239,37 +2239,37 @@ units:
   start: !human_time '01:12:18.000'
 - end: !human_time '01:16:01.000'
   lines:
-  - "Agora voc\u05DA conhece"
+  - "Agora voc\u0119 conhece"
   - o tesouro do meu povo.
   start: !human_time '01:15:56.600'
 - end: !human_time '01:16:03.200'
   lines:
   - Esse homem
-  - "est\u05D1 tentando roub\u05D1-lo."
+  - "est\xE1 tentando roub\xE1-lo."
   start: !human_time '01:16:01.040'
 - end: !human_time '01:16:06.480'
   lines:
   - Vai depender
-  - "de voc\u05DA confront\u05D1-lo."
+  - "de voc\u0119 confront\xE1-lo."
   start: !human_time '01:16:03.200'
 - end: !human_time '01:17:47.800'
   lines:
-  - "Eu n\u05D3o sei porque voc\u05DA"
-  - "est\u05D1 voltando para mat\u05D1-los."
+  - "Eu n\u0103o sei porque voc\u0119"
+  - "est\xE1 voltando para mat\xE1-los."
   start: !human_time '01:17:45.680'
 - end: !human_time '01:17:49.800'
   lines:
-  - "Dev\u05DDamos deix\u05D1-los para"
+  - "Dev\xEDamos deix\xE1-los para"
   - os Chiricahua.
   start: !human_time '01:17:47.800'
 - end: !human_time '01:17:54.200'
   lines:
-  - "N\u05D3o pode ver como ela"
+  - "N\u0103o pode ver como ela"
   - luta para sobreviver aqui?
   start: !human_time '01:17:50.480'
 - end: !human_time '01:17:58.200'
   lines:
-  - "Voc\u05DA n\u05D3o tem respeito"
+  - "Voc\u0119 n\u0103o tem respeito"
   - pela vida.
   start: !human_time '01:17:55.600'
 - end: !human_time '01:18:28.600'
@@ -2282,41 +2282,41 @@ units:
   start: !human_time '01:18:29.520'
 - end: !human_time '01:18:33.120'
   lines:
-  - "N\u05E3s nunca vamos"
-  - "alcan\u05D7\u05D1-los."
+  - "N\xF3s nunca vamos"
+  - "alcan\xE7\xE1-los."
   start: !human_time '01:18:31.280'
 - end: !human_time '01:18:35.120'
   lines:
-  - "N\u05E3s nem sabemos"
+  - "N\xF3s nem sabemos"
   - onde estamos.
   start: !human_time '01:18:33.120'
 - end: !human_time '01:18:37.800'
   lines:
-  - "Bem, voc\u05DA pode voltar"
+  - "Bem, voc\u0119 pode voltar"
   - se quiser.
   start: !human_time '01:18:35.400'
 - end: !human_time '01:18:40.320'
   lines:
-  - "Eles s\u05E3"
+  - "Eles s\xF3"
   - mataram o seu tio.
   start: !human_time '01:18:37.840'
 - end: !human_time '01:18:43.600'
   lines:
-  - "Ent\u05D3o, mais algu\u05D9m"
+  - "Ent\u0103o, mais algu\xE9m"
   - quer voltar?
   start: !human_time '01:18:40.480'
 - end: !human_time '01:18:46.720'
   lines:
-  - "Voc\u05DAs est\u05D3o livres pra ir."
+  - "Voc\u0119s est\u0103o livres pra ir."
   start: !human_time '01:18:44.600'
 - end: !human_time '01:18:51.400'
   lines:
-  - "Voc\u05DA e o Charlie"
+  - "Voc\u0119 e o Charlie"
   - cuidam da primeira guarda.
   start: !human_time '01:18:48.880'
 - end: !human_time '01:19:28.320'
   lines:
-  - "Eu n\u05D3o estou com medo."
+  - "Eu n\u0103o estou com medo."
   start: !human_time '01:19:26.080'
 - end: !human_time '01:19:30.400'
   lines:
@@ -2324,13 +2324,13 @@ units:
   start: !human_time '01:19:28.320'
 - end: !human_time '01:19:38.000'
   lines:
-  - "Voc\u05DA est\u05D1 vulner\u05D1vel,"
+  - "Voc\u0119 est\xE1 vulner\xE1vel,"
   - meu amigo.
   start: !human_time '01:19:34.400'
 - end: !human_time '01:19:41.680'
   lines:
-  - "Voc\u05DA acordou"
-  - "os seus dem\u05E4nios."
+  - "Voc\u0119 acordou"
+  - "os seus dem\xF4nios."
   start: !human_time '01:19:38.000'
 - end: !human_time '01:20:58.200'
   lines:
@@ -2350,7 +2350,7 @@ units:
   start: !human_time '01:21:09.280'
 - end: !human_time '01:21:17.200'
   lines:
-  - "Eu vou matar o respons\u05D1vel."
+  - "Eu vou matar o respons\xE1vel."
   start: !human_time '01:21:15.400'
 - end: !human_time '01:21:19.920'
   lines:
@@ -2359,12 +2359,12 @@ units:
 - end: !human_time '01:21:26.400'
   lines:
   - Tudo bem.
-  - "N\u05D3o se preocupe."
+  - "N\u0103o se preocupe."
   start: !human_time '01:21:23.120'
 - end: !human_time '01:21:29.520'
   lines:
-  - "Ele \u05D9 um amigo."
-  - "Est\u05D1 tudo bem. Tudo bem."
+  - "Ele \xE9 um amigo."
+  - "Est\xE1 tudo bem. Tudo bem."
   start: !human_time '01:21:26.400'
 - end: !human_time '01:21:34.000'
   lines:
@@ -2377,22 +2377,22 @@ units:
   start: !human_time '01:21:42.080'
 - end: !human_time '01:21:47.680'
   lines:
-  - "Vou dar a voc\u05DA"
+  - "Vou dar a voc\u0119"
   - montanhas de ouro.
   start: !human_time '01:21:46.000'
 - end: !human_time '01:21:50.400'
   lines:
   - Nem pense em tentar algo
-  - "engra\u05D7ado, Prosit!"
+  - "engra\xE7ado, Prosit!"
   start: !human_time '01:21:47.680'
 - end: !human_time '01:21:52.880'
   lines:
-  - "Sabe qual a diferen\u05D7a"
-  - "entre voc\u05DA e eu?"
+  - "Sabe qual a diferen\xE7a"
+  - "entre voc\u0119 e eu?"
   start: !human_time '01:21:50.440'
 - end: !human_time '01:21:56.480'
   lines:
-  - "Voc\u05DA \u05D9 um pessimista."
+  - "Voc\u0119 \xE9 um pessimista."
   - Eu sou um otimista.
   start: !human_time '01:21:52.880'
 - end: !human_time '01:22:00.320'
@@ -2403,12 +2403,12 @@ units:
 - end: !human_time '01:22:06.320'
   lines:
   - Precisamos ir para o desfiladeiro!
-  - "N\u05D3o v\u05D3o nos seguir por l\u05D1."
+  - "N\u0103o v\u0103o nos seguir por l\xE1."
   start: !human_time '01:22:03.520'
 - end: !human_time '01:22:08.800'
   lines:
-  - "-Em que dire\u05D7\u05D3o est\u05D1?"
-  - "-\u05B9 naquela dire\u05D7\u05D3o!"
+  - "-Em que dire\xE7\u0103o est\xE1?"
+  - "-\xC9 naquela dire\xE7\u0103o!"
   start: !human_time '01:22:06.320'
 - end: !human_time '01:23:20.080'
   lines:
@@ -2417,11 +2417,11 @@ units:
 - end: !human_time '01:23:25.200'
   lines:
   - Agora eles precisam enfrentar
-  - "os esp\u05DDritos das montanhas."
+  - "os esp\xEDritos das montanhas."
   start: !human_time '01:23:22.400'
 - end: !human_time '01:24:07.400'
   lines:
-  - "Voc\u05DA vai ficar bem."
+  - "Voc\u0119 vai ficar bem."
   start: !human_time '01:24:05.600'
 - end: !human_time '01:25:09.120'
   lines:
@@ -2434,12 +2434,12 @@ units:
   start: !human_time '01:25:11.000'
 - end: !human_time '01:25:16.600'
   lines:
-  - "...\u05D9 apenas"
+  - "...\xE9 apenas"
   - cheia de minas de ouro.
   start: !human_time '01:25:13.920'
 - end: !human_time '01:25:18.400'
   lines:
-  - "Mas eu sei a diferen\u05D7a."
+  - "Mas eu sei a diferen\xE7a."
   start: !human_time '01:25:16.720'
 - end: !human_time '01:25:20.800'
   lines:
@@ -2455,36 +2455,36 @@ units:
   start: !human_time '01:25:25.120'
 - end: !human_time '01:25:32.880'
   lines:
-  - "Sim, deve ser \u05E3timo"
+  - "Sim, deve ser \xF3timo"
   - ser uma aranha.
   start: !human_time '01:25:30.080'
 - end: !human_time '01:25:48.880'
   lines:
   - Se eu fosse uma aranha
-  - "voc\u05DA esmagaria a minha cabe\u05D7a."
+  - "voc\u0119 esmagaria a minha cabe\xE7a."
   start: !human_time '01:25:44.800'
 - end: !human_time '01:25:50.720'
   lines:
-  - "N\u05D3o \u05D9 o que eu..."
+  - "N\u0103o \xE9 o que eu..."
   start: !human_time '01:25:48.920'
 - end: !human_time '01:25:57.520'
   lines:
-  - "Sim, voc\u05DA esmagaria a"
-  - "minha pequena cabe\u05D7a preta, n\u05D3o \u05D9?"
+  - "Sim, voc\u0119 esmagaria a"
+  - "minha pequena cabe\xE7a preta, n\u0103o \xE9?"
   start: !human_time '01:25:51.280'
 - end: !human_time '01:26:09.000'
   lines:
   - Animais
-  - "s\u05D3o feras, mas..."
+  - "s\u0103o feras, mas..."
   start: !human_time '01:26:04.600'
 - end: !human_time '01:26:12.080'
   lines:
-  - "...os homens s\u05D3o monstros."
+  - "...os homens s\u0103o monstros."
   start: !human_time '01:26:09.280'
 - end: !human_time '01:26:20.600'
   lines:
-  - "Voc\u05DA est\u05D1 certo."
-  - "Os homens s\u05D3o..."
+  - "Voc\u0119 est\xE1 certo."
+  - "Os homens s\u0103o..."
   start: !human_time '01:26:16.600'
 - end: !human_time '01:26:27.120'
   lines:
@@ -2496,18 +2496,18 @@ units:
   start: !human_time '01:26:33.200'
 - end: !human_time '01:26:37.800'
   lines:
-  - "...voc\u05DA \u05D9 um santo"
+  - "...voc\u0119 \xE9 um santo"
   - no meio dos pecadores.
   start: !human_time '01:26:35.000'
 - end: !human_time '01:26:49.920'
   lines:
   - Estou tentando salvar o
-  - "meu esp\u05DDrito animal."
+  - "meu esp\xEDrito animal."
   start: !human_time '01:26:46.000'
 - end: !human_time '01:26:55.520'
   lines:
   - Porque tenho que estar preso aqui
-  - "com um humano pat\u05D9tico como voc\u05DA?"
+  - "com um humano pat\xE9tico como voc\u0119?"
   start: !human_time '01:26:51.520'
 - end: !human_time '01:28:14.800'
   lines:
@@ -2516,7 +2516,7 @@ units:
 - end: !human_time '01:28:17.920'
   lines:
   - '...estiveram esperando'
-  - "por voc\u05DA..."
+  - "por voc\u0119..."
   start: !human_time '01:28:15.680'
 - end: !human_time '01:28:21.520'
   lines:
@@ -2524,16 +2524,16 @@ units:
   start: !human_time '01:28:19.200'
 - end: !human_time '01:28:26.600'
   lines:
-  - "Mas voc\u05DA precisa encontrar"
+  - "Mas voc\u0119 precisa encontrar"
   - a entrada sozinho.
   start: !human_time '01:28:21.920'
 - end: !human_time '01:28:39.400'
   lines:
-  - "Eu devo deix\u05D1-lo agora."
+  - "Eu devo deix\xE1-lo agora."
   start: !human_time '01:28:36.720'
 - end: !human_time '01:29:26.320'
   lines:
-  - "Voc\u05DA sabe, aquele dente ia sair"
+  - "Voc\u0119 sabe, aquele dente ia sair"
   - de uma maneira ou de outra.
   start: !human_time '01:29:23.000'
 - end: !human_time '01:29:30.320'
@@ -2542,18 +2542,18 @@ units:
   start: !human_time '01:29:27.000'
 - end: !human_time '01:29:35.400'
   lines:
-  - "Voc\u05DA devia ter deixado"
+  - "Voc\u0119 devia ter deixado"
   - o Runi dar uma olhada nisso.
   start: !human_time '01:29:32.480'
 - end: !human_time '01:29:40.000'
   lines:
   - Sem chances no inferno.
-  - "N\u05D3o quero nada dessa m\u05D1gica ind\u05DDgena."
+  - "N\u0103o quero nada dessa m\xE1gica ind\xEDgena."
   start: !human_time '01:29:35.400'
 - end: !human_time '01:29:46.000'
   lines:
   - Vou acabar
-  - "t\u05D3o maluco quanto o Mike."
+  - "t\u0103o maluco quanto o Mike."
   start: !human_time '01:29:43.520'
 - end: !human_time '01:32:33.800'
   lines:
@@ -2573,66 +2573,66 @@ units:
   start: !human_time '01:33:41.400'
 - end: !human_time '01:33:47.000'
   lines:
-  - "Ele n\u05D3o est\u05D1 mais conosco."
+  - "Ele n\u0103o est\xE1 mais conosco."
   start: !human_time '01:33:43.680'
 - end: !human_time '01:33:49.280'
   lines:
-  - "N\u05D3o pode mat\u05D1-lo"
+  - "N\u0103o pode mat\xE1-lo"
   - dessa maneira.
   start: !human_time '01:33:47.040'
 - end: !human_time '01:33:50.600'
   lines:
-  - "Por que n\u05D3o?"
+  - "Por que n\u0103o?"
   start: !human_time '01:33:49.200'
 - end: !human_time '01:33:52.720'
   lines:
-  - "Voc\u05DA n\u05D3o vai resolver nada."
+  - "Voc\u0119 n\u0103o vai resolver nada."
   start: !human_time '01:33:50.720'
 - end: !human_time '01:34:01.200'
   lines:
-  - "Posso lev\u05D1-lo at\u05D9 ele."
+  - "Posso lev\xE1-lo at\xE9 ele."
   start: !human_time '01:33:56.720'
 - end: !human_time '01:34:27.000'
   lines:
-  - "Voc\u05DA ainda pode se"
+  - "Voc\u0119 ainda pode se"
   - recusar a ir.
   start: !human_time '01:34:24.480'
 - end: !human_time '01:34:29.680'
   lines:
-  - "Se voc\u05DA aceitar..."
+  - "Se voc\u0119 aceitar..."
   start: !human_time '01:34:27.600'
 - end: !human_time '01:34:35.000'
   lines:
-  - "...vou deix\u05D1-lo sozinho com ele,"
+  - "...vou deix\xE1-lo sozinho com ele,"
   - '"Nariz Quebrado".'
   start: !human_time '01:34:29.680'
 - end: !human_time '01:34:43.200'
   lines:
   - Ambas os seus verdadeiros
-  - "\u05DDntimos v\u05D3o se libertar."
+  - "\xEDntimos v\u0103o se libertar."
   start: !human_time '01:34:40.800'
 - end: !human_time '01:34:46.480'
   lines:
-  - "N\u05D3o deixe o medo"
-  - "ou a raiva violarem voc\u05DA."
+  - "N\u0103o deixe o medo"
+  - "ou a raiva violarem voc\u0119."
   start: !human_time '01:34:43.120'
 - end: !human_time '01:36:06.800'
   lines:
-  - "Voc\u05DA est\u05D1 onde"
+  - "Voc\u0119 est\xE1 onde"
   - queria estar.
   start: !human_time '01:36:03.120'
 - end: !human_time '01:36:10.200'
   lines:
-  - "Eu estou com voc\u05DA."
+  - "Eu estou com voc\u0119."
   start: !human_time '01:36:07.800'
 - end: !human_time '01:36:16.200'
   lines:
   - Agora vou deixar
-  - "voc\u05DA com ele."
+  - "voc\u0119 com ele."
   start: !human_time '01:36:13.680'
 - end: !human_time '01:36:41.680'
   lines:
-  - "N\u05E3s nos conhecemos"
+  - "N\xF3s nos conhecemos"
   - a muito tempo...
   start: !human_time '01:36:38.320'
 - end: !human_time '01:36:43.280'
@@ -2641,7 +2641,7 @@ units:
   start: !human_time '01:36:41.720'
 - end: !human_time '01:37:00.720'
   lines:
-  - "\u05B9 hora de ir!"
+  - "\xC9 hora de ir!"
   start: !human_time '01:36:58.800'
 - end: !human_time '01:37:09.920'
   lines:
@@ -2649,25 +2649,25 @@ units:
   start: !human_time '01:37:07.800'
 - end: !human_time '01:37:30.000'
   lines:
-  - "Voc\u05DA \u05D9 uma alma morta."
+  - "Voc\u0119 \xE9 uma alma morta."
   start: !human_time '01:37:27.520'
 - end: !human_time '01:37:34.000'
   lines:
-  - "Voc\u05DA n\u05D3o \u05D9"
+  - "Voc\u0119 n\u0103o \xE9"
   - bem-vindo aqui.
   start: !human_time '01:37:30.880'
 - end: !human_time '01:37:36.800'
   lines:
-  - "Por que voc\u05DA diz isso?"
+  - "Por que voc\u0119 diz isso?"
   start: !human_time '01:37:34.800'
 - end: !human_time '01:37:42.720'
   lines:
-  - "Voc\u05DA \u05D9 t\u05D3o sortudo..."
+  - "Voc\u0119 \xE9 t\u0103o sortudo..."
   start: !human_time '01:37:40.880'
 - end: !human_time '01:37:47.400'
   lines:
   - '...por eu dever'
-  - "tanto a voc\u05DA, rapazinho."
+  - "tanto a voc\u0119, rapazinho."
   start: !human_time '01:37:43.400'
 - end: !human_time '01:38:05.680'
   lines:
@@ -2689,7 +2689,7 @@ units:
   start: !human_time '01:38:10.400'
 - end: !human_time '01:38:15.800'
   lines:
-  - "Pra trazer voc\u05DA comigo."
+  - "Pra trazer voc\u0119 comigo."
   start: !human_time '01:38:13.600'
 - end: !human_time '01:38:21.000'
   lines:
@@ -2731,36 +2731,36 @@ units:
   start: !human_time '01:39:15.000'
 - end: !human_time '01:39:23.400'
   lines:
-  - "\u05B9 hora de ver a verdade."
+  - "\xC9 hora de ver a verdade."
   start: !human_time '01:39:21.280'
 - end: !human_time '01:39:29.800'
   lines:
-  - "Venha comigo, irm\u05D3o."
-  - "Pegue a minha m\u05D3o."
+  - "Venha comigo, irm\u0103o."
+  - "Pegue a minha m\u0103o."
   start: !human_time '01:39:25.680'
 - end: !human_time '01:39:32.480'
   lines:
   - Fale comigo
-  - "em l\u05DDnguas profundas."
+  - "em l\xEDnguas profundas."
   start: !human_time '01:39:29.840'
 - end: !human_time '01:39:34.720'
   lines:
-  - "A l\u05DDngua dos mortos."
+  - "A l\xEDngua dos mortos."
   start: !human_time '01:39:32.520'
 - end: !human_time '01:39:57.000'
   lines:
-  - "Foi voc\u05DA, Mike,"
+  - "Foi voc\u0119, Mike,"
   - quem matou aquela garota.
   start: !human_time '01:39:54.000'
 - end: !human_time '01:40:02.480'
   lines:
   - A doce pequena Madeleine.
-  - "Foi voc\u05DA, Mike."
+  - "Foi voc\u0119, Mike."
   start: !human_time '01:39:58.200'
 - end: !human_time '01:40:12.600'
   lines:
   - Que os Deuses
-  - "estejam com voc\u05DA..."
+  - "estejam com voc\u0119..."
   start: !human_time '01:40:09.000'
 - end: !human_time '01:40:14.800'
   lines:
@@ -2768,7 +2768,7 @@ units:
   start: !human_time '01:40:12.600'
 - end: !human_time '01:40:43.920'
   lines:
-  - "\u05B9 voc\u05DA quem precisa ir..."
+  - "\xC9 voc\u0119 quem precisa ir..."
   start: !human_time '01:40:38.800'
 - end: !human_time '01:40:46.480'
   lines:
@@ -2776,7 +2776,7 @@ units:
   start: !human_time '01:40:43.960'
 - end: !human_time '01:41:36.720'
   lines:
-  - "Voc\u05DA est\u05D1 livre agora."
+  - "Voc\u0119 est\xE1 livre agora."
   start: !human_time '01:41:34.200'
 - end: !human_time '01:41:43.920'
   lines:
@@ -2800,7 +2800,7 @@ units:
   start: !human_time '01:42:11.400'
 - end: !human_time '01:42:28.320'
   lines:
-  - "E voc\u05DA vai se curvar"
+  - "E voc\u0119 vai se curvar"
   - e me dizer...
   start: !human_time '01:42:23.400'
 - end: !human_time '01:42:32.080'
@@ -2809,11 +2809,11 @@ units:
   start: !human_time '01:42:29.200'
 - end: !human_time '01:43:02.800'
   lines:
-  - "Ele est\u05D1 morto."
+  - "Ele est\xE1 morto."
   start: !human_time '01:43:01.200'
 - end: !human_time '01:43:08.400'
   lines:
-  - "E agora \u05D9 a minha vez."
+  - "E agora \xE9 a minha vez."
   start: !human_time '01:43:05.200'
 - end: !human_time '01:43:12.480'
   lines:
@@ -2825,20 +2825,20 @@ units:
   start: !human_time '01:43:13.280'
 - end: !human_time '01:43:22.000'
   lines:
-  - "...minhas lembran\u05D7as..."
+  - "...minhas lembran\xE7as..."
   start: !human_time '01:43:18.200'
 - end: !human_time '01:43:45.280'
   lines:
-  - "Mas eu n\u05D3o quero morrer."
+  - "Mas eu n\u0103o quero morrer."
   - Runi! Me ajude! Runi!
   start: !human_time '01:43:40.320'
 - end: !human_time '01:46:15.200'
   lines:
-  - "Permane\u05D7a em seu corpo."
+  - "Permane\xE7a em seu corpo."
   start: !human_time '01:46:12.480'
 - end: !human_time '01:46:33.200'
   lines:
-  - "Est\u05D1 tudo bem."
+  - "Est\xE1 tudo bem."
   start: !human_time '01:46:30.720'
 - end: !human_time '01:46:36.480'
   lines:
@@ -2850,17 +2850,17 @@ units:
   start: !human_time '01:46:37.120'
 - end: !human_time '01:46:52.080'
   lines:
-  - "Eu te amo tamb\u05D9m,"
+  - "Eu te amo tamb\xE9m,"
   - querido.
   start: !human_time '01:46:49.680'
 - end: !human_time '01:46:56.320'
   lines:
-  - "Voc\u05DA foi um pouco"
+  - "Voc\u0119 foi um pouco"
   - duro comigo ultimamente.
   start: !human_time '01:46:53.200'
 - end: !human_time '01:47:02.720'
   lines:
-  - "Voc\u05DA retornou."
+  - "Voc\u0119 retornou."
   start: !human_time '01:46:57.680'
 - end: !human_time '01:47:06.200'
   lines:
@@ -2869,17 +2869,17 @@ units:
 - end: !human_time '01:47:10.600'
   lines:
   - '...em todo o universo pra'
-  - "encontrar voc\u05DA."
+  - "encontrar voc\u0119."
   start: !human_time '01:47:06.200'
 - end: !human_time '01:47:15.800'
   lines:
-  - "Voc\u05DA viu, finalmente"
-  - "que n\u05D3o tinha nada a temer."
+  - "Voc\u0119 viu, finalmente"
+  - "que n\u0103o tinha nada a temer."
   start: !human_time '01:47:12.600'
 - end: !human_time '01:47:33.200'
   lines:
-  - "Ela est\u05D1 esperando"
-  - "por voc\u05DA."
+  - "Ela est\xE1 esperando"
+  - "por voc\u0119."
   start: !human_time '01:47:31.200'
 - end: !human_time '01:47:50.000'
   lines:
@@ -2888,8 +2888,8 @@ units:
   start: !human_time '01:47:47.280'
 - end: !human_time '01:47:54.800'
   lines:
-  - "Agora voc\u05DA sabe"
-  - "o que s\u05D3o, basicamente."
+  - "Agora voc\u0119 sabe"
+  - "o que s\u0103o, basicamente."
   start: !human_time '01:47:50.000'
 - end: !human_time '01:48:04.720'
   lines:
@@ -2898,12 +2898,12 @@ units:
   start: !human_time '01:47:59.600'
 - end: !human_time '01:48:10.600'
   lines:
-  - "Minha boca est\u05D1"
+  - "Minha boca est\xE1"
   - muito melhor.
   start: !human_time '01:48:08.320'
 - end: !human_time '01:48:15.520'
   lines:
-  - "\u05B9 um tabaco muito bom esse."
+  - "\xC9 um tabaco muito bom esse."
   start: !human_time '01:48:12.000'
 - end: !human_time '01:50:44.880'
   lines:

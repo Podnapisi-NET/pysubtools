@@ -5,7 +5,7 @@ description = "A set of parsers and exports for subtitles in various formats"
 readme = "README"
 requires-python = ">=3.8"
 dependencies = [
-    "chardet>=5.2.0",
+    "charset-normalizer>=3.4.4",
     "pyyaml>=6.0.3",
     "state-machine>=0.2.10",
 ]

@@ -595,7 +595,7 @@ units:
   start: !human_time '00:16:12.908'
 - end: !human_time '00:16:22.703'
   lines:
-  - "Si cu fermierul din Dordo\xF1a"
+  - "Si cu fermierul din Dordo\u0144a"
   - ce s-a intamplat ?
   start: !human_time '00:16:19.905'
 - end: !human_time '00:16:26.702'
@@ -629,7 +629,7 @@ units:
 - end: !human_time '00:17:54.167'
   lines:
   - Apoi am vazut cum e omorat
-  - "fermierul din Dordo\xF1a."
+  - "fermierul din Dordo\u0144a."
   start: !human_time '00:17:50.969'
 - end: !human_time '00:18:03.064'
   lines:
@@ -1866,7 +1866,7 @@ units:
   start: !human_time '00:43:43.044'
 - end: !human_time '00:43:49.241'
   lines:
-  - "Fermierul din Dordo\xF1a unde e ?"
+  - "Fermierul din Dordo\u0144a unde e ?"
   start: !human_time '00:43:46.243'
 - end: !human_time '00:44:49.217'
   lines:
