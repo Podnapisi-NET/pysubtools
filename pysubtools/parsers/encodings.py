@@ -30,7 +30,7 @@ def guess_from_lang(lang):
         "zh": ["big5"],
         "he": ["windows-1255"],
         "ru": ["koi8-r"],
-        "es": ["windows-1252"],
+        "es": ["windows-1252"],  # TODO: This is a repeat?
         "fr": ["windows-1252"],
         "bg": ["windows-1251"],
         "mk": ["windows-1251"],
@@ -40,7 +40,7 @@ def guess_from_lang(lang):
         "vi": ["windows-1258"],
         "fa": ["windows-1256"],
         "fi": ["iso8859-15"],
-        "es": ["iso8859-15"],
+        "es": ["iso8859-15"],  # TODO: This is a repeat?
         "pt": ["iso8859-15"],
         "da": ["iso8859-15"],
         "pt-br": ["iso8859-15"],
