@@ -1,5 +1,3 @@
-from zipfile import ZipExtFile
-
 from . import parsers
 from . import exporters
 from .subtitle import Subtitle, SubtitleUnit, SubtitleLine
