@@ -16,7 +16,7 @@ class ParseError(Exception):
         super(ParseError, self).__init__(self.description)
 
     def __str__(self):
-        return str(unicode(self))
+        return str(self)
 
     def __unicode__(self):
         return "Parse error on line {} at column {} error occurred '{}'".format(
@@ -35,6 +35,7 @@ class Parser(object):
     """Abstract class for all parsers."""
 
     LEVELS = ("warning", "error")
+    FORMAT = ""
     _subtitle = None
     _stop_level = "error"
     parsed = None
@@ -61,13 +62,8 @@ class Parser(object):
             elif level == "error":
                 raise ParseError(line_number, column, line, description)
 
-        try:
-            line = unicode(line)
-            description = unicode(description)
-        except NameError:
-            # Python3 compat
-            line = str(line)
-            description = str(description)
+        line = str(line)
+        description = str(description)
 
         msg = {
             "line_number": int(line_number),
@@ -89,13 +85,6 @@ class Parser(object):
 
     @staticmethod
     def _normalize_data(data):
-        try:
-            if isinstance(data, file):
-                data = io.BufferedReader(io.FileIO(data.fileno(), closefd=False))
-        except NameError:
-            # Not needed in Python3
-            pass
-
         if isinstance(data, bytes):
             data = io.BytesIO(data)
         elif not isinstance(data, (io.BytesIO, io.BufferedReader)):
@@ -128,10 +117,11 @@ class Parser(object):
         """Parses the file and returns the subtitle. Check warnings after the parse."""
         if data:
             # We have new data, discard old and set up for new
-            try:
-                self._data.detach()
-            except Exception:
-                pass
+            if self._data is not None:
+                try:
+                    self._data.detach()
+                except Exception:
+                    pass
             self._data = self._normalize_data(data)
             # Check encoding
             self.encoding, self.encoding_confidence = encodings.detect(
@@ -198,7 +188,7 @@ class Parser(object):
 
     # Iteration methods
     def _next_line(self):
-        line = self._data.readline()
+        line = self._data.readline() if self._data else None
         if not line:
             return False
         self._current_line_num += 1
@@ -218,4 +208,5 @@ class Parser(object):
         self._current_line_num = -1
         self._read_lines = []
         self._current_line = None
-        self._data.seek(0)
+        if self._data:
+            self._data.seek(0)
