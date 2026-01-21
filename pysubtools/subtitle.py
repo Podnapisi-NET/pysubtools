@@ -1,25 +1,13 @@
 import io
 import sys
+import typing
 import yaml
 from .utils import UnicodeMixin
 
 
-def prepare_reader(f):
-    try:
-        is_str = isinstance(f, basestring)
-    except NameError:
-        # Python3 compat
-        is_str = isinstance(f, str)
-
-    if is_str:
+def prepare_reader(f: typing.Union[str, io.BufferedIOBase]) -> io.TextIOWrapper:
+    if isinstance(f, str):
         f = io.BufferedReader(io.open(f, "rb"))
-
-    try:
-        if isinstance(f, file):
-            f = io.BufferedReader(io.FileIO(f.fileno(), closefd=False))
-    except NameError:
-        # No need in Python3
-        pass
 
     if not isinstance(f, io.BufferedIOBase):
         raise TypeError("Load method accepts filename or file object.")
