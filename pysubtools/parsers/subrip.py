@@ -206,9 +206,8 @@ class SubRipStateMachine(object):
 
         start, end = start.group(0).split(":"), end.group(0).split(":")
 
-        convert = (
-            lambda x: int(x[0]) * 3600 + int(x[1]) * 60 + float(x[2].replace(",", "."))
-        )
+        def convert(x):
+            return (int(x[0]) * 3600 + int(x[1]) * 60 + float(x[2].replace(",", ".")))
         self.temp["data"].update(dict(start=convert(start), end=convert(end)))
 
     def fix_sequence_skip(self):
@@ -294,7 +293,7 @@ class SubRipStateMachine(object):
         self._missing_line = self.current_state != self.start
 
     @after("done")
-    def final_unit(self):
+    def final_unit(self):  # noqa: F811
         self._parsed = self.temp
         self.temp = None
         if self._missing_line:
