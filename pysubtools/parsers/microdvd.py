@@ -108,7 +108,7 @@ class MicroDVDParser(Parser):
                     )
             elif k == "P":
                 # Position
-                m = re.match("^\s*(\d+)\s*,\s*(\d+)\s*$", v)
+                m = re.match(r"^\s*(\d+)\s*,\s*(\d+)\s*$", v)
                 if not m:
                     self.add_warning(
                         self._current_line_num + 1,
@@ -217,11 +217,11 @@ class MicroDVDParser(Parser):
                 h_inherit = [self._to_header_dict(m.groupdict().get("header", ""))]
                 # Go through lines and parse out headers
                 lines = []
-                for l in m.group("text").split("|"):
-                    if l.startswith("{"):
-                        h_i = l.index("}") + 1
+                for line in m.group("text").split("|"):
+                    if line.startswith("{"):
+                        h_i = line.index("}") + 1
                         # We have a local header
-                        h = self._to_header_dict(l[:h_i])
+                        h = self._to_header_dict(line[:h_i])
                     else:
                         h_i = 0
                         h = {}
@@ -233,7 +233,7 @@ class MicroDVDParser(Parser):
                     h = self._parse_header(self._from_header_dict(h))["local"]
 
                     # Construct line
-                    lines.append(SubtitleLine(l[h_i:], **h))
+                    lines.append(SubtitleLine(line[h_i:], **h))
                 # Parse unit
                 data = {
                     "start": start,
