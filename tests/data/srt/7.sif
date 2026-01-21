@@ -462,7 +462,7 @@ units:
   start: !human_time '00:14:01.361'
 - end: !human_time '00:14:09.358'
   lines:
-  - "Saracu\x92."
+  - "Saracu\u2019."
   start: !human_time '00:14:07.659'
 - end: !human_time '00:14:12.457'
   lines:
@@ -595,7 +595,7 @@ units:
   start: !human_time '00:16:12.908'
 - end: !human_time '00:16:22.703'
   lines:
-  - "Si cu fermierul din Dordo\u0144a"
+  - "Si cu fermierul din Dordo\xF1a"
   - ce s-a intamplat ?
   start: !human_time '00:16:19.905'
 - end: !human_time '00:16:26.702'
@@ -629,7 +629,7 @@ units:
 - end: !human_time '00:17:54.167'
   lines:
   - Apoi am vazut cum e omorat
-  - "fermierul din Dordo\u0144a."
+  - "fermierul din Dordo\xF1a."
   start: !human_time '00:17:50.969'
 - end: !human_time '00:18:03.064'
   lines:
@@ -654,7 +654,7 @@ units:
   start: !human_time '00:18:19.257'
 - end: !human_time '00:18:29.452'
   lines:
-  - "Pentru Franta\NLa atac !"
+  - "Pentru Franta\u2026La atac !"
   start: !human_time '00:18:24.455'
 - end: !human_time '00:18:52.243'
   lines:
@@ -778,7 +778,7 @@ units:
   start: !human_time '00:21:19.985'
 - end: !human_time '00:21:27.181'
   lines:
-  - dar bicicleta
+  - "dar bicicleta\u2026"
   - -Voi avea eu grija de ea, ma pricep, doar am fost in razboi.
   start: !human_time '00:21:23.183'
 - end: !human_time '00:21:29.081'
@@ -897,7 +897,7 @@ units:
   start: !human_time '00:22:46.951'
 - end: !human_time '00:22:52.647'
   lines:
-  - "Esti de la \x93bingo\N\x94?"
+  - "Esti de la \u201Cbingo\u2026\u201D?"
   start: !human_time '00:22:50.648'
 - end: !human_time '00:22:54.746'
   lines:
@@ -969,7 +969,7 @@ units:
   start: !human_time '00:23:52.223'
 - end: !human_time '00:23:57.520'
   lines:
-  - "Du-ma la \x93Bingo crepuscular\x94."
+  - "Du-ma la \u201CBingo crepuscular\u201D."
   start: !human_time '00:23:54.622'
 - end: !human_time '00:24:12.815'
   lines:
@@ -1274,7 +1274,7 @@ units:
   start: !human_time '00:29:58.077'
 - end: !human_time '00:30:08.072'
   lines:
-  - "O sa arat ca Ioana d\x92Arc cand ma voi"
+  - "O sa arat ca Ioana d\u2019Arc cand ma voi"
   - intalni cu Angel al meu.
   start: !human_time '00:30:03.374'
 - end: !human_time '00:30:10.771'
@@ -1329,7 +1329,7 @@ units:
   start: !human_time '00:31:21.043'
 - end: !human_time '00:31:27.140'
   lines:
-  - "Cautand un veteran de la \x93bingo...\x94"
+  - "Cautand un veteran de la \u201Cbingo...\u201D"
   start: !human_time '00:31:25.141'
 - end: !human_time '00:31:31.339'
   lines:
@@ -1374,7 +1374,7 @@ units:
 - end: !human_time '00:31:59.826'
   lines:
   - Tu, mai mult decat oricine poti
-  - sa intelegi ce am simtit
+  - "sa intelegi ce am simtit\u2026"
   start: !human_time '00:31:56.628'
 - end: !human_time '00:32:04.824'
   lines:
@@ -1479,7 +1479,7 @@ units:
   start: !human_time '00:33:48.883'
 - end: !human_time '00:33:53.981'
   lines:
-  - "Presupun ca are legatura cu \x93bingo...\x94"
+  - "Presupun ca are legatura cu \u201Cbingo...\u201D"
   start: !human_time '00:33:51.582'
 - end: !human_time '00:33:57.279'
   lines:
@@ -1515,11 +1515,11 @@ units:
 - end: !human_time '00:34:23.769'
   lines:
   - Daca lucrurile merg prost,
-  - detectivul dispare
+  - "detectivul dispare\u2026"
   start: !human_time '00:34:21.571'
 - end: !human_time '00:34:26.268'
   lines:
-  - "Nu\Nacela care spioneaza"
+  - "Nu\u2026acela care spioneaza"
   - incearca sa nu fie vazut
   start: !human_time '00:34:23.869'
 - end: !human_time '00:34:28.867'
@@ -1573,7 +1573,7 @@ units:
 - end: !human_time '00:35:02.053'
   lines:
   - trebuiau sa treaca din
-  - "nou prin \x93tara nimanui\x94."
+  - "nou prin \u201Ctara nimanui\u201D."
   start: !human_time '00:34:59.255'
 - end: !human_time '00:35:06.752'
   lines:
@@ -1595,7 +1595,7 @@ units:
   start: !human_time '00:35:15.048'
 - end: !human_time '00:35:23.744'
   lines:
-  - "\Nspune-i lui Berney ca vreau sa lichidez"
+  - "\u2026spune-i lui Berney ca vreau sa lichidez"
   - totul pana la inceputul lui martie
   start: !human_time '00:35:20.846'
 - end: !human_time '00:35:25.844'
@@ -1788,7 +1788,7 @@ units:
   start: !human_time '00:41:39.794'
 - end: !human_time '00:42:01.184'
   lines:
-  - "... Pentru Franta\Nla atac."
+  - "... Pentru Franta\u2026la atac."
   start: !human_time '00:41:58.086'
 - end: !human_time '00:42:15.479'
   lines:
@@ -1866,7 +1866,7 @@ units:
   start: !human_time '00:43:43.044'
 - end: !human_time '00:43:49.241'
   lines:
-  - "Fermierul din Dordo\u0144a unde e ?"
+  - "Fermierul din Dordo\xF1a unde e ?"
   start: !human_time '00:43:46.243'
 - end: !human_time '00:44:49.217'
   lines:
@@ -1918,7 +1918,7 @@ units:
 - end: !human_time '00:46:16.482'
   lines:
   - Nu.
-  - "Daca dai de vreun subofiter de la \x93bingo\N\x94"
+  - "Daca dai de vreun subofiter de la \u201Cbingo\u2026\u201D"
   start: !human_time '00:46:12.984'
 - end: !human_time '00:46:20.280'
   lines:
@@ -2004,7 +2004,7 @@ units:
   start: !human_time '00:49:09.213'
 - end: !human_time '00:49:14.311'
   lines:
-  - "Am numit-o \x93Capatul lumii\x94."
+  - "Am numit-o \u201CCapatul lumii\u201D."
   start: !human_time '00:49:11.713'
 - end: !human_time '00:49:28.005'
   lines:
@@ -2020,7 +2020,7 @@ units:
   start: !human_time '00:49:36.103'
 - end: !human_time '00:49:42.399'
   lines:
-  - "Am murit \Nla \x93bingo crepuscular\x94,"
+  - "Am murit \u2026la \u201Cbingo crepuscular\u201D,"
   - ca si prietenul tau.
   start: !human_time '00:49:38.001'
 - end: !human_time '00:49:51.695'
