@@ -875,7 +875,7 @@ units:
   start: !human_time '00:20:02.697'
 - end: !human_time '00:20:12.631'
   lines:
-  - "Lalu aku akan kehilangan \u0141 30..."
+  - "Lalu aku akan kehilangan £ 30..."
   start: !human_time '00:20:10.572'
 - end: !human_time '00:20:14.503'
   lines:
