@@ -118,21 +118,18 @@ class Frame(yaml.YAMLObject, UnicodeMixin):
         return "Frame({})".format(self._frame)
 
 
-class SubtitleLine(UnicodeMixin, object):
+class SubtitleLine(UnicodeMixin):
     """
     Class representing a line inside SubtitleUnit. It acts as an ordinary
     unicode objects, but has an ability to store additional metadata.
     """
 
-    # Unhashable
-    __hash__ = None
-
-    def __init__(self, text, **kwargs):
+    def __init__(self, text: str, **kwargs):
         self.text = text
         # Update with additional metadata
         self.__dict__.update(kwargs)
 
-    def export(self):
+    def export(self) -> typing.Union[str, typing.Dict[str, typing.Any]]:
         """Returns line in format for export."""
         output = dict(self.__dict__)
         text = output.pop("text", "")
@@ -143,56 +140,37 @@ class SubtitleLine(UnicodeMixin, object):
         return output
 
     @classmethod
-    def from_export(cls, obj):
+    def from_export(cls, obj: typing.Dict[str, typing.Any]) -> 'SubtitleLine':
         return cls(**obj)
 
-    def __unicode__(self):
+    def __unicode__(self) -> str:
         return self.text
 
-    if sys.version_info[0] >= 3:  # Python 3
-
-        def __repr__(self):
-            return "SubtitleLine({}{})".format(
-                self.text,
+    def __repr__(self) -> str:
+        return "SubtitleLine({}{})".format(
+            self.text,
+            (
                 (
-                    (
-                        ", "
-                        + ", ".join(
-                            [" = ".join([k, str(v)]) for k, v in self.meta.items()]
-                        )
+                    ", "
+                    + ", ".join(
+                        [" = ".join([k, str(v)]) for k, v in self.meta.items()]
                     )
-                    if self.meta
-                    else ""
-                ),
-            )
-
-    else:  # Python 2
-
-        def __repr__(self):
-            return "SubtitleLine({}{})".format(
-                self.text,
-                (
-                    (
-                        ", "
-                        + ", ".join(
-                            [" = ".join([k, unicode(v)]) for k, v in self.meta.items()]
-                        )
-                    )
-                    if self.meta
-                    else ""
-                ),
-            ).encode("utf8")
-
-    def __eq__(self, other):
+                )
+                if self.meta
+                else ""
+            ),
+        )
+    
+    def __eq__(self, other: typing.Any) -> bool:
         if not isinstance(other, SubtitleLine):
             return False
         return self.__dict__ == other.__dict__
 
-    def __len__(self):
+    def __len__(self) -> int:
         return len(self.text)
 
     @property
-    def meta(self):
+    def meta(self) -> typing.Dict[str, typing.Any]:
         d = dict(self.__dict__)
         # Remove important part of metadata
         d.pop("text")
