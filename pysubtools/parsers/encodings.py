@@ -1,5 +1,6 @@
 import io
 import codecs
+import typing
 import charset_normalizer
 
 invalid_chars = "\x9e"
@@ -13,12 +14,12 @@ similar_encodings = {
 
 
 class EncodingError(Exception):
-    def __init__(self, message, tried_encodings=[], *args, **kwargs):
+    def __init__(self, message: str, tried_encodings: typing.List[str] = [], *args, **kwargs):
         self.tried_encodings = tried_encodings
         super(EncodingError, self).__init__(message, *args, **kwargs)
 
 
-def guess_from_lang(lang):
+def guess_from_lang(lang: str) -> typing.List[str]:
     """Specify ISO-639-1 language to guess probable encoding."""
     guesses = {
         "sl": ["windows-1250"],
@@ -50,7 +51,7 @@ def guess_from_lang(lang):
     return guesses.get(lang, [])
 
 
-def can_decode(data, encoding):
+def can_decode(data, encoding: typing.Optional[str]) -> bool:
     reader = None
     proper = False
     try:
@@ -71,7 +72,7 @@ def can_decode(data, encoding):
     return proper
 
 
-def detect(data, encoding=None, language=None):
+def detect(data: typing.Union[io.BytesIO, io.BufferedReader], encoding: typing.Optional[str] = None, language: typing.Optional[str] = None) -> typing.Tuple[str, typing.Optional[float]]:
     """
     Tries to detect encoding for specified 'data'. Will return a tuple (encoding, confidence).
     Confidence may be None, which means the encoding was detected from provided language or
@@ -80,7 +81,7 @@ def detect(data, encoding=None, language=None):
     if not isinstance(data, (io.BytesIO, io.BufferedReader)):
         raise TypeError("Needs to be a buffered file object.")
 
-    tried_encodings = set()
+    tried_encodings: typing.Set[str] = set()
 
     # Check for BOM (100% confidence)
     test_data = data.read(8)
@@ -107,7 +108,7 @@ def detect(data, encoding=None, language=None):
     # Reverse order
     encodings.reverse()
     while True:
-        encoding = encodings.pop()
+        encoding: typing.Union[typing.Tuple[str, typing.Optional[float]], str] = encodings.pop()
         if can_decode(
             data, encoding if not isinstance(encoding, tuple) else encoding[0]
         ):
