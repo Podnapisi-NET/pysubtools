@@ -177,26 +177,21 @@ class SubtitleLine(UnicodeMixin):
         return d
 
 
-class SubtitleLines(list):
+class SubtitleLines(typing.List[SubtitleLine]):
     """Modified list class for special tratment of lines."""
 
     __slots__ = ()
 
-    def __new__(cls, l=[]):
+    def __new__(cls, lines: typing.List[SubtitleLine] = []) -> 'SubtitleLines':
         obj = super(SubtitleLines, cls).__new__(cls)
-        for i in l:
-            obj.append(i)
+        for line in lines:
+            obj.append(line)
         return obj
 
     @staticmethod
-    def _validate(value):
-        try:
-            if isinstance(value, unicode):
-                value = SubtitleLine(value)
-        except NameError:
-            # Python3 compat
-            if isinstance(value, str):
-                value = SubtitleLine(value)
+    def _validate(value: typing.Union[str, SubtitleLine]) -> 'SubtitleLine':
+        if isinstance(value, str):
+            value = SubtitleLine(value)
 
         if not isinstance(value, SubtitleLine):
             raise TypeError(
@@ -204,11 +199,11 @@ class SubtitleLines(list):
             )
         return value
 
-    def append(self, value):
+    def append(self, value: typing.Union[str, SubtitleLine]) -> None:
         value = self._validate(value)
         super(SubtitleLines, self).append(value)
 
-    def __setitem__(self, index, value):
+    def __setitem__(self, index: typing.Any, value: typing.Any) -> None:
         value = self._validate(value)
         super(SubtitleLines, self).__setattr__(index, value)
 
