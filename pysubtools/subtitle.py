@@ -1,5 +1,4 @@
 import io
-import sys
 import typing
 import yaml
 from .utils import UnicodeMixin
