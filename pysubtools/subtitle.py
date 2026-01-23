@@ -208,13 +208,10 @@ class SubtitleLines(typing.List[SubtitleLine]):
         super(SubtitleLines, self).__setattr__(index, value)
 
 
-class SubtitleUnit(object):
+class SubtitleUnit:
     """Class for holding time and text data of a subtitle unit."""
 
-    # Unhashable
-    __hash__ = None
-
-    def __init__(self, start, end, lines=None, **meta):
+    def __init__(self, start: typing.Union[float, Frame], end: typing.Union[float, Frame], lines: typing.Any = None, **meta):
         self.start = float(start) if not isinstance(start, Frame) else start
         self.end = float(end) if not isinstance(end, Frame) else end
         self._lines = SubtitleLines()
@@ -228,7 +225,7 @@ class SubtitleUnit(object):
             for line in lines:
                 self._lines.append(line)
 
-    def distance(self, other):
+    def distance(self, other: 'SubtitleUnit'):
         """Calculates signed distance with other subtitle unit."""
         if not isinstance(other, SubtitleUnit):
             raise TypeError(
@@ -237,70 +234,70 @@ class SubtitleUnit(object):
                 )
             )
 
+        # TODO: This may not work for Frames?
         return other.start - self.start
 
-    def __iter__(self):
+    def __iter__(self) -> typing.Iterator[SubtitleLine]:
         return self._lines.__iter__()
 
-    def __setitem__(self, index, value):
+    def __setitem__(self, index, value) -> None:
         self._lines[index] = value
 
-    def __getitem__(self, index):
+    def __getitem__(self, index) -> SubtitleLine:
         return self._lines[index]
 
-    def append(self, value):
+    def append(self, value: typing.Union[str, SubtitleLine]) -> None:
         self._lines.append(value)
 
     @property
-    def lines(self):
-        try:
-            return map(unicode, self._lines)
-        except NameError:
-            # Python3 compat
-            return map(str, self._lines)
+    def lines(self) -> typing.Iterator[str]:
+        return map(str, self._lines)
 
     @property
-    def duration(self):
+    def duration(self) -> float:
         """Returns duration of subtitle unit in seconds."""
+        # TODO: It may not work for Frames?
         return self.end - self.start
 
     @property
-    def length(self):
+    def length(self) -> int:
         """Returns length of the SubtitleUnit (in characters)."""
-        return sum((len(i) for i in self._lines))
+        return sum((len(line) for line in self._lines))
 
-    def move(self, distance):
+    def move(self, distance: typing.Union[int, float]) -> None:
         """Moves subtitle unit by 'distance' seconds."""
-        if not isinstance(distance, (int, long, float)):
+        if not isinstance(distance, (int, float)):
             raise TypeError(
                 "Need type of int, long or float instead of '{}'".format(type(distance))
             )
+        # TODO: Does this really work for Frames?
         self.start += distance
         self.end += distance
 
-    def get_moved(self, distance):
+    def get_moved(self, distance: typing.Union[int, float]) -> 'SubtitleUnit':
         """Same as SubtitleUnit.move, just returns a copy while itself is unchanged."""
         clone = SubtitleUnit(**self.__dict__)
         clone.move(distance)
         return clone
 
-    def stretch(self, factor):
+    def stretch(self, factor: typing.Union[int, float]) -> None:
         """Stretches the unit for 'factor'."""
-        if not isinstance(factor, (int, long, float)):
+        if not isinstance(factor, (int, float)):
             raise TypeError(
                 "Need type of int, long or float instead of '{}'".format(type(factor))
             )
+        # TODO: Does this really work for Frames?
         self.start *= factor
         self.end *= factor
 
-    def get_stretched(self, factor):
+    def get_stretched(self, factor: typing.Union[int, float]) -> 'SubtitleUnit':
         """Same as SubtitleUnit.stretch, just returns a copy while itself is unchanged."""
         clone = SubtitleUnit(**self.__dict__)
         clone.stretch(factor)
         return clone
 
     @property
-    def meta(self):
+    def meta(self) -> typing.Dict[str, typing.Any]:
         d = dict(self.__dict__)
         # Remove important part of metadata and lines
         d.pop("start")
@@ -308,39 +305,39 @@ class SubtitleUnit(object):
         d.pop("_lines")
         return d
 
-    def __sub__(self, other):
+    def __sub__(self, other) -> 'SubtitleUnit':
         """See SubtitleUnit.get_moved."""
-        if not isinstance(other, (int, long, float)):
+        if not isinstance(other, (int, float)):
             raise TypeError(
                 "Need type of int, long or float instead of '{}'".format(type(other))
             )
         return self.get_moved(-1 * other)
 
-    def __add__(self, other):
+    def __add__(self, other) -> 'SubtitleUnit':
         """See SubtitleUnit.get_moved."""
         return self.get_moved(other)
 
-    def __isub__(self, other):
+    def __isub__(self, other) -> None:
         """Same as SubtitleUnit.move."""
-        if not isinstance(other, (int, long, float)):
+        if not isinstance(other, (int, float)):
             raise TypeError(
                 "Need type of int, long or float instead of '{}'".format(type(other))
             )
         self.move(-1 * other)
 
-    def __iadd__(self, other):
+    def __iadd__(self, other) -> None:
         """Same as SubtitleUnit.move"""
         self.move(other)
 
-    def __mul__(self, other):
+    def __mul__(self, other) -> 'SubtitleUnit':
         """See SubtitleUnit.get_stretched."""
         return self.get_stretched(other)
 
-    def __imul__(self, other):
+    def __imul__(self, other) -> None:
         """See SubtitleUnit.stretch."""
         self.stretch(other)
 
-    def __eq__(self, other):
+    def __eq__(self, other) -> bool:
         if not isinstance(other, SubtitleUnit):
             raise TypeError(
                 "Can compare only with other SubtitleUnit, provided with '{}'".format(
@@ -350,30 +347,18 @@ class SubtitleUnit(object):
 
         return self.__dict__ == other.__dict__
 
-    def __len__(self):
+    def __len__(self) -> int:
         return len(self._lines)
 
-    if sys.version_info[0] >= 3:  # Python 3
+    def __repr__(self) -> str:
+        d = dict(self.__dict__)
+        # Get known attributes
+        start = d.pop("start")
+        end = d.pop("end")
+        lines = d.pop("_lines")
+        return "SubtitleUnit({}, {}, {}, {})".format(start, end, lines, d)
 
-        def __repr__(self):
-            d = dict(self.__dict__)
-            # Get known attributes
-            start = d.pop("start")
-            end = d.pop("end")
-            lines = d.pop("_lines")
-            return "SubtitleUnit({}, {}, {}, {})".format(start, end, lines, d)
-
-    else:  # Python2
-
-        def __repr__(self):
-            d = dict(self.__dict__)
-            # Get known attributes
-            start = d.pop("start")
-            end = d.pop("end")
-            lines = d.pop("_lines")
-            return b"SubtitleUnit({}, {}, {}, {})".format(start, end, repr(lines), d)
-
-    def to_dict(self, human_time=True):
+    def to_dict(self, human_time=True) -> typing.Dict[str, typing.Any]:
         """Returns subtitle unit as a dict (with some human readable things)."""
         output = {}
         output.update(self.__dict__)
@@ -396,37 +381,23 @@ class SubtitleUnit(object):
         return output
 
     @classmethod
-    def from_dict(cls, input):
+    def from_dict(cls, input: typing.Dict[str, typing.Any]) -> 'SubtitleUnit':
         """Creates SubtitleUnit from specified 'input' dict."""
         input = dict(input)
         lines = input.pop("lines", [])
-        try:
-            lines = [
-                (
-                    i
-                    if isinstance(i, unicode)
-                    else (
-                        i.decode("utf-8")
-                        if isinstance(i, bytes)
-                        else SubtitleLine.from_export(i)
-                    )
+        # TODO: Why do we allow strings instead of only SubtitleLine instances?
+        lines = [
+            (
+                i
+                if isinstance(i, str)
+                else (
+                    i.decode("utf-8")
+                    if isinstance(i, bytes)
+                    else SubtitleLine.from_export(i)
                 )
-                for i in lines
-            ]
-        except NameError:
-            # Python3 compat
-            lines = [
-                (
-                    i
-                    if isinstance(i, str)
-                    else (
-                        i.decode("utf-8")
-                        if isinstance(i, bytes)
-                        else SubtitleLine.from_export(i)
-                    )
-                )
-                for i in lines
-            ]
+            )
+            for i in lines
+        ]
 
         return cls(lines=SubtitleLines(lines), **input)
 
