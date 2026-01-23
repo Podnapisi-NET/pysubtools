@@ -53,10 +53,10 @@ class TestCase(unittest.TestCase):
         # And some minor things
         # repr - just checking for exceptions
         repr(subtitle)
-        for u in subtitle:
-            repr(u)
-            for l in u:
-                repr(l)
+        for unit in subtitle:
+            repr(unit)
+            for line in unit:
+                repr(line)
 
     def test_sif_gz(self):
         """Test gzipped 'Subtitle Intermediate Format' loaders and dumpers (just wrapped around GzipFile)."""
@@ -198,17 +198,17 @@ class TestCase(unittest.TestCase):
             parser = Parser.from_format("SubRip")
 
             # As fileobj
-            sub1 = parser.parse(f)
+            parser.parse(f)
 
             # As from_data with fileobj
             f.seek(0)
             parser = parser.from_data(f)
-            sub3 = parser.parse()
+            parser.parse()
 
             # As string
             f.seek(0)
             d = f.read()
-            sub2 = parser.parse(d)
+            parser.parse(d)
 
             # As from_data with string
             """parser = parser.from_data(d)
@@ -219,7 +219,7 @@ class TestCase(unittest.TestCase):
 
         with open("./tests/data/corner/encoding_error.srt", "rb") as f:
             try:
-                sub = parser.parse(f)
+                parser.parse(f)
             except encodings.EncodingError as e:
                 assert e.tried_encodings == ['TIS-620']
 
@@ -333,7 +333,7 @@ Yes, I  said two liner! \x9e\r
             parser = Parser.from_format("SubRip")
 
             # This should work now (also, this subtitle has some special chars that without EUC-TW => BIG5-TW would not work)
-            sub = parser.parse(f, encoding="bullshit")
+            parser.parse(f, encoding="bullshit")
 
     def test_high_mem_srt(self):
         """Tests a issue of high memory usage on subRip parser."""
@@ -341,7 +341,7 @@ Yes, I  said two liner! \x9e\r
             parser = Parser.from_format("SubRip", stop_level=None)
 
             # This line should not break the parser
-            sub = parser.parse(f)
+            parser.parse(f)
 
     def test_srt_autodetect(self):
         """Found a example of srt not detected by autodetection feature."""
@@ -349,4 +349,4 @@ Yes, I  said two liner! \x9e\r
             parser = Parser.from_data(f)
 
             # Will it parse?
-            sub = parser.parse(f)
+            parser.parse(f)
