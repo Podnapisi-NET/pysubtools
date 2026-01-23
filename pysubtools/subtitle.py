@@ -402,34 +402,31 @@ class SubtitleUnit:
         return cls(lines=SubtitleLines(lines), **input)
 
 
-class Subtitle(object):
+class Subtitle:
     """
     The whole subtitle.
 
     To load a subtitle in non-native format, use parsers.Parser.from_data.
     """
 
-    # Unhashable
-    __hash__ = None
-
-    def __init__(self, units=[], **meta):
-        self._units = []
+    def __init__(self, units: typing.Iterable[SubtitleUnit] = [], **meta):
+        self._units: typing.List[SubtitleUnit] = []
         self.__dict__.update(meta)
         for unit in units:
             self.append(unit)
 
-    def add_unit(self, unit):
+    def add_unit(self, unit: SubtitleUnit):
         """Adds a new 'unit' and sorts the units. If adding many units, use append instead."""
         self.append(unit)
         self.order()
 
-    def order(self):
+    def order(self) -> None:
         """Maintains order of subtitles."""
         self._units.sort(key=lambda x: x.start)
 
-    def check_overlaps(self):
+    def check_overlaps(self) -> typing.List[typing.Tuple[int, int]]:
         """Checks for overlaps and returns them in list."""
-        overlaps = []
+        overlaps: typing.List[typing.Tuple[int, int]] = []
         for current_unit in self._units[:-1]:
             i = self._units.index(current_unit)
             for next_unit in self._units[i + 1 :]:
@@ -440,7 +437,7 @@ class Subtitle(object):
 
         return overlaps
 
-    def remove(self, unit):
+    def remove(self, unit: SubtitleUnit) -> None:
         """Proxy for internal storage."""
         if not isinstance(unit, SubtitleUnit):
             raise TypeError(
@@ -449,7 +446,7 @@ class Subtitle(object):
 
         self._units.remove(unit)
 
-    def index(self, unit):
+    def index(self, unit: SubtitleUnit) -> int:
         """Proxy for internal storage."""
         if not isinstance(unit, SubtitleUnit):
             raise TypeError(
@@ -458,7 +455,7 @@ class Subtitle(object):
 
         return self._units.index(unit)
 
-    def insert(self, index, unit):
+    def insert(self, index: int, unit: SubtitleUnit) -> None:
         """Proxy for internal storage."""
         if not isinstance(unit, SubtitleUnit):
             raise TypeError(
@@ -467,7 +464,7 @@ class Subtitle(object):
 
         return self._units.insert(index, unit)
 
-    def append(self, unit):
+    def append(self, unit: SubtitleUnit):
         """Proxy for internal storage."""
         if not isinstance(unit, SubtitleUnit):
             raise TypeError(
@@ -476,11 +473,11 @@ class Subtitle(object):
 
         return self._units.append(unit)
 
-    def __getitem__(self, index):
+    def __getitem__(self, index: int) -> SubtitleUnit:
         """Proxy for internal storage."""
         return self._units[index]
 
-    def __setitem__(self, index, unit):
+    def __setitem__(self, index: int, unit: SubtitleUnit) -> None:
         """Proxy for internal storage."""
         if not isinstance(unit, SubtitleUnit):
             raise TypeError(
@@ -489,42 +486,42 @@ class Subtitle(object):
 
         self._units[index] = unit
 
-    def __delitem__(self, index):
+    def __delitem__(self, index: int) -> None:
         """Proxy for internal storage."""
         del self._units[index]
 
-    def __len__(self):
+    def __len__(self) -> int:
         """Proxy for internal storage."""
         return len(self._units)
 
-    def __iter__(self):
+    def __iter__(self) -> typing.Iterator[SubtitleUnit]:
         """Proxy for internal storage."""
         return iter(self._units)
 
-    def __reversed__(self):
+    def __reversed__(self) -> typing.Iterator[SubtitleUnit]:
         """Proxy for internal storage."""
         return reversed(self._units)
 
-    def __eq__(self, other):
+    def __eq__(self, other) -> bool:
         """Proxy for internal storage."""
         if self.__dict__ != other.__dict__:
             print(self.__dict__, other.__dict__)
         return self.__dict__ == other.__dict__
 
-    def __contains__(self, unit):
+    def __contains__(self, unit) -> bool:
         """Proxy for internal storage."""
         # TODO make possible to test with string?
         return unit in self._units
 
     @property
-    def meta(self):
+    def meta(self) -> typing.Dict[str, typing.Any]:
         # Remove non-metadata from dict
         d = dict(self.__dict__)
         d.pop("_units", None)
         return d
 
     @classmethod
-    def from_dict(cls, data):
+    def from_dict(cls, data: typing.Optional[typing.Dict[str, typing.Any]]) -> 'Subtitle':
         """Creates Subtitle object from dict, parsed from YAML."""
         if data is None:
             data = {}
@@ -533,36 +530,36 @@ class Subtitle(object):
         return cls(**data)
 
     @classmethod
-    def from_file(cls, input):
+    def from_file(cls, input: typing.Union[str, io.BufferedIOBase]) -> typing.Optional['Subtitle']:
         """
         Loads a subtitle from file in YAML format. If have multiple documents,
         set 'multi' to True. Do note, when multi is set to True, this method
         returns a generator object.
         """
-        with prepare_reader(input) as input:
+        with prepare_reader(input) as reader:
         # Read
-            obj = cls.from_yaml(input)
+            obj = cls.from_yaml(reader)
 
         # Done
         if obj:
             return obj
 
     @classmethod
-    def from_file_multi(cls, input):
+    def from_file_multi(cls, input: typing.Union[str, io.BufferedIOBase]) -> typing.Generator['Subtitle', typing.Any, None]:
         """Loads multiple subtitles from file 'input'. It returns a generator object."""
-        input = prepare_reader(input)
+        reader = prepare_reader(input)
 
-        for i in cls.from_multi_yaml(input):
+        for i in cls.from_multi_yaml(reader):
             # Needed to prevent input from closing
             yield i
 
         # Detach wrapper
-        input.detach()
+        reader.detach()
 
         # Done
 
     @classmethod
-    def from_yaml(cls, input):
+    def from_yaml(cls, input: typing.Any) -> 'Subtitle':
         """Loads a subtitle from YAML format, uses safe loader."""
         # Construct a python dict
         data = yaml.safe_load(input)
@@ -571,12 +568,12 @@ class Subtitle(object):
         return cls.from_dict(data)
 
     @classmethod
-    def from_multi_yaml(cls, input):
+    def from_multi_yaml(cls, input: typing.Any) -> typing.Generator['Subtitle', typing.Any, None]:
         """Loads multiple subtitles from YAML format, uses safe loader."""
         for data in yaml.safe_load_all(input):
             yield cls.from_dict(data)
 
-    def dump(self, output=None, human_time=True, allow_unicode=True):
+    def dump(self, output: typing.Any = None, human_time: bool = True, allow_unicode: bool = True) -> bytes:
         """Dumps this subtitle in YAML format with safe dumper."""
         # Construct a python dict
         obj = dict(self.__dict__)
@@ -592,38 +589,26 @@ class Subtitle(object):
             default_flow_style=False,
         )
 
-    def save(self, output, human_time=True, close=True, allow_unicode=True):
+    def save(self, output: typing.Union[str, io.BufferedIOBase], human_time: bool = True, close: bool = True, allow_unicode: bool = True) -> None:
         """
         Saves the subtitle in native (YAML) format. If 'output' is file object, it will
         be closed if 'close' set to True after save is done.
         """
-        try:
-            is_str = isinstance(output, basestring)
-        except NameError:
-            # Python3 compat
-            is_str = isinstance(output, str)
-
-        if is_str:
+        if isinstance(output, str):
             try:
                 output = io.BufferedWriter(io.open(output, "wb"))
             except IOError:
                 # TODO Custom exception
                 raise
-        try:
-            if isinstance(output, file):
-                output = io.BufferedWriter(io.FileIO(output.fileno()), closefd=close)
-        except NameError:
-            # No need in Python3
-            pass
 
         if not isinstance(output, io.BufferedIOBase):
             raise TypeError("Save method accepts filename or file object.")
         # Put a text wrapper around it
-        output = io.TextIOWrapper(output, encoding="utf-8")
+        text_output = io.TextIOWrapper(output, encoding="utf-8")
 
-        self.dump(output, human_time=human_time, allow_unicode=allow_unicode)
+        self.dump(text_output, human_time=human_time, allow_unicode=allow_unicode)
 
         if close:
-            output.close()
+            text_output.close()
         else:
-            output.detach()
+            text_output.detach()
