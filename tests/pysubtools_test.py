@@ -40,7 +40,9 @@ class TestCase(unittest.TestCase):
         tmpfd, tmp = tempfile.mkstemp()
         tmpfd2, tmp2 = tempfile.mkstemp()
         subtitle.save(io.BufferedWriter(io.FileIO(tmpfd, mode="w")), close=True)
-        subtitle.save(io.BufferedWriter(io.FileIO(tmpfd2, mode="w")), human_time=False, close=True)
+        subtitle.save(
+            io.BufferedWriter(io.FileIO(tmpfd2, mode="w")), human_time=False, close=True
+        )
 
         # Load it and test
         assert Subtitle.from_file(tmp) == subtitle
@@ -169,9 +171,7 @@ class TestCase(unittest.TestCase):
                     result = os.path.join(root, filename[:-4])
                     if os.path.isfile(result + ".msgs.yaml"):
                         with open(result + ".msgs.yaml", "r") as f:
-                            loaded_d = yaml.load(
-                                f, yaml.SafeLoader
-                            )
+                            loaded_d = yaml.load(f, yaml.SafeLoader)
                         sub = Subtitle.from_file(result + ".sif")
                     else:
                         # Write it
@@ -221,7 +221,7 @@ class TestCase(unittest.TestCase):
             try:
                 parser.parse(f)
             except encodings.EncodingError as e:
-                assert e.tried_encodings == ['TIS-620']
+                assert e.tried_encodings == ["TIS-620"]
 
     def test_subrip_export(self):
         """Tests SubRip exporter on a simple subtitle."""

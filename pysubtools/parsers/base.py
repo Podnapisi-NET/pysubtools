@@ -61,7 +61,9 @@ class Parser(object):
         self._current_line_num: int = -1
         self._current_line: typing.Optional[typing.Union[str, bytes]] = None
 
-    def _add_msg(self, level: str, line_number: int, column: int, line: str, description: str):
+    def _add_msg(
+        self, level: str, line_number: int, column: int, line: str, description: str
+    ):
         if self._stop_level and self.LEVELS.index(level) >= self.LEVELS.index(
             self._stop_level
         ):
@@ -92,7 +94,9 @@ class Parser(object):
         self._add_msg("error", *args, **kwargs)
 
     @staticmethod
-    def _normalize_data(data: typing.Union[bytes, io.BytesIO, io.BufferedReader]) -> typing.Union[io.BytesIO, io.BufferedReader]:
+    def _normalize_data(
+        data: typing.Union[bytes, io.BytesIO, io.BufferedReader]
+    ) -> typing.Union[io.BytesIO, io.BufferedReader]:
         if isinstance(data, bytes):
             data = io.BytesIO(data)
         elif not isinstance(data, (io.BytesIO, io.BufferedReader)):
@@ -101,12 +105,16 @@ class Parser(object):
         return data
 
     @classmethod
-    def can_parse(cls, data: typing.Union[bytes, io.BytesIO, io.BufferedReader]) -> bool:
+    def can_parse(
+        cls, data: typing.Union[bytes, io.BytesIO, io.BufferedReader]
+    ) -> bool:
         data = cls._normalize_data(data)
         return cls._can_parse(data)
 
     @classmethod
-    def _can_parse(cls, data: typing.Union[bytes, io.BytesIO, io.BufferedReader]) -> bool:
+    def _can_parse(
+        cls, data: typing.Union[bytes, io.BytesIO, io.BufferedReader]
+    ) -> bool:
         """Needs to be reimplemented to quickly check if file seems the proper format."""
         raise NotImplementedError
 
@@ -121,7 +129,13 @@ class Parser(object):
         """Parses the subtitle metadata (if format has a header at all)."""
         return {}
 
-    def parse(self, data: typing.Optional[typing.Union[io.BytesIO, io.BufferedReader]] = None, encoding: typing.Optional[str] = None, language: typing.Optional[str] = None, **kwargs) -> typing.Any:
+    def parse(
+        self,
+        data: typing.Optional[typing.Union[io.BytesIO, io.BufferedReader]] = None,
+        encoding: typing.Optional[str] = None,
+        language: typing.Optional[str] = None,
+        **kwargs,
+    ) -> typing.Any:
         """Parses the file and returns the subtitle. Check warnings after the parse."""
         if data:
             # We have new data, discard old and set up for new
@@ -142,7 +156,7 @@ class Parser(object):
             )
 
         from .. import Subtitle, SubtitleUnit
-        
+
         sub = Subtitle(**self._parse_metadata())
         for unit in self._parse(**kwargs):
             try:
@@ -158,7 +172,12 @@ class Parser(object):
         return sub
 
     @staticmethod
-    def from_data(data: typing.Union[bytes, io.BytesIO, io.BufferedReader], encoding: typing.Optional[str] = None, language: typing.Optional[str] = None, **kwargs) -> 'Parser':
+    def from_data(
+        data: typing.Union[bytes, io.BytesIO, io.BufferedReader],
+        encoding: typing.Optional[str] = None,
+        language: typing.Optional[str] = None,
+        **kwargs,
+    ) -> "Parser":
         """Returns a parser that can parse 'data' in raw string."""
         data = Parser._normalize_data(data)
         encoding, encoding_confidence = encodings.detect(data, encoding, language)
@@ -177,7 +196,7 @@ class Parser(object):
         raise NoParserError("Could not find parser.")
 
     @staticmethod
-    def from_format(format: str, **kwargs) -> 'Parser':
+    def from_format(format: str, **kwargs) -> "Parser":
         """Returns a parser with 'name'."""
         for parser in Parser.__subclasses__():
             if parser.FORMAT == format:

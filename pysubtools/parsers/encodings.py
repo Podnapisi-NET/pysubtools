@@ -14,7 +14,9 @@ similar_encodings = {
 
 
 class EncodingError(Exception):
-    def __init__(self, message: str, tried_encodings: typing.List[str] = [], *args, **kwargs):
+    def __init__(
+        self, message: str, tried_encodings: typing.List[str] = [], *args, **kwargs
+    ):
         self.tried_encodings = tried_encodings
         super(EncodingError, self).__init__(message, *args, **kwargs)
 
@@ -72,7 +74,11 @@ def can_decode(data, encoding: typing.Optional[str]) -> bool:
     return proper
 
 
-def detect(data: typing.Union[io.BytesIO, io.BufferedReader], encoding: typing.Optional[str] = None, language: typing.Optional[str] = None) -> typing.Tuple[str, typing.Optional[float]]:
+def detect(
+    data: typing.Union[io.BytesIO, io.BufferedReader],
+    encoding: typing.Optional[str] = None,
+    language: typing.Optional[str] = None,
+) -> typing.Tuple[str, typing.Optional[float]]:
     """
     Tries to detect encoding for specified 'data'. Will return a tuple (encoding, confidence).
     Confidence may be None, which means the encoding was detected from provided language or
@@ -108,7 +114,9 @@ def detect(data: typing.Union[io.BytesIO, io.BufferedReader], encoding: typing.O
     # Reverse order
     encodings.reverse()
     while True:
-        encoding: typing.Union[typing.Tuple[str, typing.Optional[float]], str] = encodings.pop()
+        encoding: typing.Union[typing.Tuple[str, typing.Optional[float]], str] = (
+            encodings.pop()
+        )
         if can_decode(
             data, encoding if not isinstance(encoding, tuple) else encoding[0]
         ):

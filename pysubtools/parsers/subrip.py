@@ -207,7 +207,8 @@ class SubRipStateMachine(object):
         start, end = start.group(0).split(":"), end.group(0).split(":")
 
         def convert(x):
-            return (int(x[0]) * 3600 + int(x[1]) * 60 + float(x[2].replace(",", ".")))
+            return int(x[0]) * 3600 + int(x[1]) * 60 + float(x[2].replace(",", "."))
+
         self.temp["data"].update(dict(start=convert(start), end=convert(end)))
 
     def fix_sequence_skip(self):

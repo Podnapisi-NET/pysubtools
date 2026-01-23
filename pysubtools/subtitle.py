@@ -25,19 +25,23 @@ class HumanTime(yaml.YAMLObject, UnicodeMixin):
         self.seconds = float(seconds)
 
     @classmethod
-    def from_yaml(cls, loader: yaml.Loader, node: typing.Union[yaml.ScalarNode, yaml.MappingNode]) -> float:
+    def from_yaml(
+        cls, loader: yaml.Loader, node: typing.Union[yaml.ScalarNode, yaml.MappingNode]
+    ) -> float:
         value = loader.construct_scalar(node)
         return float(cls.from_string(value))
 
     @classmethod
-    def to_yaml(cls, dumper: yaml.Dumper, data: typing.Union[int, float, 'HumanTime']) -> yaml.ScalarNode:
+    def to_yaml(
+        cls, dumper: yaml.Dumper, data: typing.Union[int, float, "HumanTime"]
+    ) -> yaml.ScalarNode:
         if isinstance(data, (int, float)):
             data = cls.from_seconds(data)
 
         return dumper.represent_scalar("!human_time", str(data))
 
     @classmethod
-    def from_seconds(cls, time: float) -> 'HumanTime':
+    def from_seconds(cls, time: float) -> "HumanTime":
         obj = cls()
         time = float(time)
         obj.hours = int(time // 3600)
@@ -48,7 +52,7 @@ class HumanTime(yaml.YAMLObject, UnicodeMixin):
         return obj
 
     @classmethod
-    def from_string(cls, time: str) -> 'HumanTime':
+    def from_string(cls, time: str) -> "HumanTime":
         obj = cls()
 
         if isinstance(time, str):
@@ -84,12 +88,16 @@ class Frame(yaml.YAMLObject, UnicodeMixin):
         self._frame = frame
 
     @classmethod
-    def from_yaml(cls, loader: yaml.Loader, node: typing.Union[yaml.ScalarNode, yaml.MappingNode]) -> 'Frame':
+    def from_yaml(
+        cls, loader: yaml.Loader, node: typing.Union[yaml.ScalarNode, yaml.MappingNode]
+    ) -> "Frame":
         value = loader.construct_scalar(node)
         return cls(int(value))
 
     @classmethod
-    def to_yaml(cls, dumper: yaml.Dumper, data: typing.Union[int, 'Frame']) -> yaml.ScalarNode:
+    def to_yaml(
+        cls, dumper: yaml.Dumper, data: typing.Union[int, "Frame"]
+    ) -> yaml.ScalarNode:
         if isinstance(data, int):
             data = cls(data)
 
@@ -139,7 +147,7 @@ class SubtitleLine(UnicodeMixin):
         return output
 
     @classmethod
-    def from_export(cls, obj: typing.Dict[str, typing.Any]) -> 'SubtitleLine':
+    def from_export(cls, obj: typing.Dict[str, typing.Any]) -> "SubtitleLine":
         return cls(**obj)
 
     def __unicode__(self) -> str:
@@ -151,15 +159,13 @@ class SubtitleLine(UnicodeMixin):
             (
                 (
                     ", "
-                    + ", ".join(
-                        [" = ".join([k, str(v)]) for k, v in self.meta.items()]
-                    )
+                    + ", ".join([" = ".join([k, str(v)]) for k, v in self.meta.items()])
                 )
                 if self.meta
                 else ""
             ),
         )
-    
+
     def __eq__(self, other: typing.Any) -> bool:
         if not isinstance(other, SubtitleLine):
             return False
@@ -181,14 +187,14 @@ class SubtitleLines(typing.List[SubtitleLine]):
 
     __slots__ = ()
 
-    def __new__(cls, lines: typing.List[SubtitleLine] = []) -> 'SubtitleLines':
+    def __new__(cls, lines: typing.List[SubtitleLine] = []) -> "SubtitleLines":
         obj = super(SubtitleLines, cls).__new__(cls)
         for line in lines:
             obj.append(line)
         return obj
 
     @staticmethod
-    def _validate(value: typing.Union[str, SubtitleLine]) -> 'SubtitleLine':
+    def _validate(value: typing.Union[str, SubtitleLine]) -> "SubtitleLine":
         if isinstance(value, str):
             value = SubtitleLine(value)
 
@@ -210,7 +216,13 @@ class SubtitleLines(typing.List[SubtitleLine]):
 class SubtitleUnit:
     """Class for holding time and text data of a subtitle unit."""
 
-    def __init__(self, start: typing.Union[float, Frame], end: typing.Union[float, Frame], lines: typing.Any = None, **meta):
+    def __init__(
+        self,
+        start: typing.Union[float, Frame],
+        end: typing.Union[float, Frame],
+        lines: typing.Any = None,
+        **meta,
+    ):
         self.start = float(start) if not isinstance(start, Frame) else start
         self.end = float(end) if not isinstance(end, Frame) else end
         self._lines = SubtitleLines()
@@ -224,7 +236,7 @@ class SubtitleUnit:
             for line in lines:
                 self._lines.append(line)
 
-    def distance(self, other: 'SubtitleUnit'):
+    def distance(self, other: "SubtitleUnit"):
         """Calculates signed distance with other subtitle unit."""
         if not isinstance(other, SubtitleUnit):
             raise TypeError(
@@ -273,7 +285,7 @@ class SubtitleUnit:
         self.start += distance
         self.end += distance
 
-    def get_moved(self, distance: typing.Union[int, float]) -> 'SubtitleUnit':
+    def get_moved(self, distance: typing.Union[int, float]) -> "SubtitleUnit":
         """Same as SubtitleUnit.move, just returns a copy while itself is unchanged."""
         clone = SubtitleUnit(**self.__dict__)
         clone.move(distance)
@@ -289,7 +301,7 @@ class SubtitleUnit:
         self.start *= factor
         self.end *= factor
 
-    def get_stretched(self, factor: typing.Union[int, float]) -> 'SubtitleUnit':
+    def get_stretched(self, factor: typing.Union[int, float]) -> "SubtitleUnit":
         """Same as SubtitleUnit.stretch, just returns a copy while itself is unchanged."""
         clone = SubtitleUnit(**self.__dict__)
         clone.stretch(factor)
@@ -304,7 +316,7 @@ class SubtitleUnit:
         d.pop("_lines")
         return d
 
-    def __sub__(self, other) -> 'SubtitleUnit':
+    def __sub__(self, other) -> "SubtitleUnit":
         """See SubtitleUnit.get_moved."""
         if not isinstance(other, (int, float)):
             raise TypeError(
@@ -312,7 +324,7 @@ class SubtitleUnit:
             )
         return self.get_moved(-1 * other)
 
-    def __add__(self, other) -> 'SubtitleUnit':
+    def __add__(self, other) -> "SubtitleUnit":
         """See SubtitleUnit.get_moved."""
         return self.get_moved(other)
 
@@ -328,7 +340,7 @@ class SubtitleUnit:
         """Same as SubtitleUnit.move"""
         self.move(other)
 
-    def __mul__(self, other) -> 'SubtitleUnit':
+    def __mul__(self, other) -> "SubtitleUnit":
         """See SubtitleUnit.get_stretched."""
         return self.get_stretched(other)
 
@@ -380,7 +392,7 @@ class SubtitleUnit:
         return output
 
     @classmethod
-    def from_dict(cls, input: typing.Dict[str, typing.Any]) -> 'SubtitleUnit':
+    def from_dict(cls, input: typing.Dict[str, typing.Any]) -> "SubtitleUnit":
         """Creates SubtitleUnit from specified 'input' dict."""
         input = dict(input)
         lines = input.pop("lines", [])
@@ -520,7 +532,9 @@ class Subtitle:
         return d
 
     @classmethod
-    def from_dict(cls, data: typing.Optional[typing.Dict[str, typing.Any]]) -> 'Subtitle':
+    def from_dict(
+        cls, data: typing.Optional[typing.Dict[str, typing.Any]]
+    ) -> "Subtitle":
         """Creates Subtitle object from dict, parsed from YAML."""
         if data is None:
             data = {}
@@ -529,14 +543,16 @@ class Subtitle:
         return cls(**data)
 
     @classmethod
-    def from_file(cls, input: typing.Union[str, io.BufferedIOBase]) -> typing.Optional['Subtitle']:
+    def from_file(
+        cls, input: typing.Union[str, io.BufferedIOBase]
+    ) -> typing.Optional["Subtitle"]:
         """
         Loads a subtitle from file in YAML format. If have multiple documents,
         set 'multi' to True. Do note, when multi is set to True, this method
         returns a generator object.
         """
         with prepare_reader(input) as reader:
-        # Read
+            # Read
             obj = cls.from_yaml(reader)
 
         # Done
@@ -544,7 +560,9 @@ class Subtitle:
             return obj
 
     @classmethod
-    def from_file_multi(cls, input: typing.Union[str, io.BufferedIOBase]) -> typing.Generator['Subtitle', typing.Any, None]:
+    def from_file_multi(
+        cls, input: typing.Union[str, io.BufferedIOBase]
+    ) -> typing.Generator["Subtitle", typing.Any, None]:
         """Loads multiple subtitles from file 'input'. It returns a generator object."""
         reader = prepare_reader(input)
 
@@ -558,7 +576,7 @@ class Subtitle:
         # Done
 
     @classmethod
-    def from_yaml(cls, input: typing.Any) -> 'Subtitle':
+    def from_yaml(cls, input: typing.Any) -> "Subtitle":
         """Loads a subtitle from YAML format, uses safe loader."""
         # Construct a python dict
         data = yaml.safe_load(input)
@@ -567,12 +585,19 @@ class Subtitle:
         return cls.from_dict(data)
 
     @classmethod
-    def from_multi_yaml(cls, input: typing.Any) -> typing.Generator['Subtitle', typing.Any, None]:
+    def from_multi_yaml(
+        cls, input: typing.Any
+    ) -> typing.Generator["Subtitle", typing.Any, None]:
         """Loads multiple subtitles from YAML format, uses safe loader."""
         for data in yaml.safe_load_all(input):
             yield cls.from_dict(data)
 
-    def dump(self, output: typing.Any = None, human_time: bool = True, allow_unicode: bool = True) -> bytes:
+    def dump(
+        self,
+        output: typing.Any = None,
+        human_time: bool = True,
+        allow_unicode: bool = True,
+    ) -> bytes:
         """Dumps this subtitle in YAML format with safe dumper."""
         # Construct a python dict
         obj = dict(self.__dict__)
@@ -588,7 +613,13 @@ class Subtitle:
             default_flow_style=False,
         )
 
-    def save(self, output: typing.Union[str, io.BufferedIOBase], human_time: bool = True, close: bool = True, allow_unicode: bool = True) -> None:
+    def save(
+        self,
+        output: typing.Union[str, io.BufferedIOBase],
+        human_time: bool = True,
+        close: bool = True,
+        allow_unicode: bool = True,
+    ) -> None:
         """
         Saves the subtitle in native (YAML) format. If 'output' is file object, it will
         be closed if 'close' set to True after save is done.
