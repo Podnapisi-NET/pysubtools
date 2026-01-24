@@ -1,14 +1,11 @@
-A set of parsers and exporters for handling with subtitle files in various
-subtitles. All data is imported into unicode, it uses chardet and some
-guessing table (language to encoding) to identify proper encoding of the
-file. The Subtitle object also supports save and from_file. It uses it's
-own SIF (Subtitle Intermediate Format) which is just a plain YAML predefined
-structure with some additional constructors.
+# PySubTools
 
-Currently only SubRip parser and exporter is implemented, other parts are
-yet to come.
+A set of parsers and exporters for handling with subtitle files in various subtitles. All data is imported into unicode, it uses `charset_normalizer` and some guessing table (language to encoding) to identify proper encoding of the file. The `Subtitle` object also supports `save` and `from_file`. It uses it's own SIF (Subtitle Intermediate Format) which is just a plain YAML predefined structure with some additional constructors.
+
+Currently only SubRip parser and exporter is implemented, other parts are yet to come.
 
 A quick example of parsing:
+```python
 import pysubtools
 # Let's detect parser from data
 parser = pysubtools.parser.Parser.from_data(open('sub.srt', 'rb'),
@@ -33,9 +30,11 @@ parser = pysubtools.parser.Parser.from_format('SubRip')
 fileobj = open('sub.srt', 'rb')
 # Can use guess table for specific language
 sub = parser.parse(GzipFile(fileobj = fileobj), language = 'sl')
+```
 
-And an example of export (let's say we have the 'sub' from previous example):
+And an example of export (let's say we have the `sub` from previous example):
 
+```python
 exporter = pysubtools.exporters.Exporter.from_format('SubRip')
 
 # Let us export it into io.BytesIO
@@ -51,3 +50,4 @@ new_exporter.export('test.srt', sub)
 
 # And we have a cp-1250 encoded subtitle :). You may also use GzipFile to
 # produce compressed subtitles.
+```
