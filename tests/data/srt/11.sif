@@ -54,7 +54,7 @@ units:
   start: !human_time '00:03:00.000'
 - end: !human_time '00:03:08.200'
   lines:
-  - "Era tamplar la \x93La Bastille\x94"
+  - "Era tamplar la \u201CLa Bastille\u201D"
   start: !human_time '00:03:05.600'
 - end: !human_time '00:03:18.300'
   lines:
@@ -184,11 +184,11 @@ units:
 - end: !human_time '00:07:16.400'
   lines:
   - Chiar daca era singurul care
-  - nu isi pierduse inca toata speranta
+  - "nu isi pierduse inca toata speranta\u2026"
   start: !human_time '00:07:13.100'
 - end: !human_time '00:07:20.401'
   lines:
-  - "\Nnumarul 7328 fusese recrutat din Corsica."
+  - "\u2026numarul 7328 fusese recrutat din Corsica."
   start: !human_time '00:07:16.501'
 - end: !human_time '00:07:23.100'
   lines:
@@ -201,7 +201,7 @@ units:
   start: !human_time '00:07:24.100'
 - end: !human_time '00:07:33.800'
   lines:
-  - "\x93Ingerul\x94"
+  - "\u201CIngerul\u201D"
   - era mincinos, sarlatan, laudaros
   start: !human_time '00:07:29.200'
 - end: !human_time '00:07:35.900'
@@ -394,7 +394,7 @@ units:
   start: !human_time '00:12:33.800'
 - end: !human_time '00:12:42.300'
   lines:
-  - "Un pacient de la \x93Le Reim\x94"
+  - "Un pacient de la \u201CLe Reim\u201D"
   - dorea sa o vada.
   start: !human_time '00:12:38.400'
 - end: !human_time '00:12:47.600'
@@ -454,7 +454,7 @@ units:
 - end: !human_time '00:13:50.600'
   lines:
   - Ce? Gratierea lui Poincare?
-  - Visezi, baiete
+  - "Visezi, baiete\u2026"
   start: !human_time '00:13:45.900'
 - end: !human_time '00:13:53.800'
   lines:
@@ -696,7 +696,7 @@ units:
 - end: !human_time '00:18:14.300'
   lines:
   - '- Nenorocitilor.'
-  - "- Rahat\Ntaci."
+  - "- Rahat\u2026taci."
   start: !human_time '00:18:12.200'
 - end: !human_time '00:18:25.400'
   lines:
@@ -766,7 +766,7 @@ units:
   start: !human_time '00:19:19.300'
 - end: !human_time '00:19:25.001'
   lines:
-  - "Si cei din \x93bingo\N\x94?"
+  - "Si cei din \u201Cbingo\u2026\u201D?"
   start: !human_time '00:19:23.001'
 - end: !human_time '00:19:26.200'
   lines:
@@ -818,7 +818,7 @@ units:
   start: !human_time '00:20:03.200'
 - end: !human_time '00:20:10.000'
   lines:
-  - "unul din sefii de la \x93bingo crepuscular\x94."
+  - "unul din sefii de la \u201Cbingo crepuscular\u201D."
   start: !human_time '00:20:07.100'
 - end: !human_time '00:20:12.600'
   lines:
@@ -826,11 +826,11 @@ units:
   start: !human_time '00:20:10.300'
 - end: !human_time '00:20:18.300'
   lines:
-  - "Sunt eu\N Hope..."
+  - "Sunt eu\u2026 Hope..."
   start: !human_time '00:20:14.900'
 - end: !human_time '00:20:21.700'
   lines:
-  - "Iti amintesti de \x93Bingo crepuscular\x94?"
+  - "Iti amintesti de \u201CBingo crepuscular\u201D?"
   start: !human_time '00:20:19.300'
 - end: !human_time '00:20:24.600'
   lines:
@@ -858,11 +858,11 @@ units:
   start: !human_time '00:20:33.601'
 - end: !human_time '00:20:39.001'
   lines:
-  - "Ar fi trebuit sa ramani cu noi la \x93Bingo\N\x94"
+  - "Ar fi trebuit sa ramani cu noi la \u201CBingo\u2026\u201D"
   start: !human_time '00:20:36.901'
 - end: !human_time '00:20:44.000'
   lines:
-  - Am vazut majusculele MM scrise si
+  - "Am vazut majusculele MM scrise si\u2026"
   start: !human_time '00:20:40.400'
 - end: !human_time '00:20:46.400'
   lines:
@@ -900,7 +900,7 @@ units:
 - end: !human_time '00:21:17.500'
   lines:
   - Iata domnisoara, toate lucrurile care au
-  - "apartinut celor condamnati la \x93bingo crepuscular\x94"
+  - "apartinut celor condamnati la \u201Cbingo crepuscular\u201D"
   start: !human_time '00:21:13.900'
 - end: !human_time '00:21:20.500'
   lines:
@@ -918,7 +918,7 @@ units:
 - end: !human_time '00:21:31.700'
   lines:
   - I-am trimis originalul cand am
-  - "plecat de la \x93Bingo\N\x94"
+  - "plecat de la \u201CBingo\u2026\u201D"
   start: !human_time '00:21:29.100'
 - end: !human_time '00:21:35.200'
   lines:
@@ -927,7 +927,7 @@ units:
   start: !human_time '00:21:32.700'
 - end: !human_time '00:21:39.200'
   lines:
-  - "Nu, nu e din asta\Neste din"
+  - "Nu, nu e din asta\u2026este din"
   - cauza gripei spaniole!
   start: !human_time '00:21:36.000'
 - end: !human_time '00:21:42.800'
@@ -1201,7 +1201,7 @@ units:
 - end: !human_time '00:27:00.300'
   lines:
   - Un francez sa manance paine sarata,
-  - in fiecare zi, este imposibil
+  - "in fiecare zi, este imposibil\u2026"
   start: !human_time '00:26:56.002'
 - end: !human_time '00:27:02.000'
   lines:
@@ -1235,7 +1235,7 @@ units:
 - end: !human_time '00:27:15.500'
   lines:
   - Manech nu poate fi prizonier
-  - "la \x93Bingo\N\x94,"
+  - "la \u201CBingo\u2026\u201D,"
   start: !human_time '00:27:13.300'
 - end: !human_time '00:27:17.600'
   lines:
@@ -1259,7 +1259,7 @@ units:
 - end: !human_time '00:27:34.400'
   lines:
   - Esti tanara si frumoasa.
-  - "Ai putea sa-ti gasesti usor un sot in ciuda\N."
+  - "Ai putea sa-ti gasesti usor un sot in ciuda\u2026."
   start: !human_time '00:27:31.500'
 - end: !human_time '00:27:41.000'
   lines:
@@ -1294,7 +1294,7 @@ units:
 - end: !human_time '00:27:58.600'
   lines:
   - Sa caut un supravietuitor de
-  - "la \x93Bingo crepuscular\x94."
+  - "la \u201CBingo crepuscular\u201D."
   start: !human_time '00:27:54.700'
 - end: !human_time '00:28:16.500'
   lines:
@@ -1307,7 +1307,7 @@ units:
   start: !human_time '00:28:16.501'
 - end: !human_time '00:28:21.299'
   lines:
-  - "daca Germain Pire nu intervenea\N.."
+  - "daca Germain Pire nu intervenea\u2026.."
   start: !human_time '00:28:19.499'
 - end: !human_time '00:28:24.500'
   lines:
@@ -1463,7 +1463,7 @@ units:
   start: !human_time '00:30:16.400'
 - end: !human_time '00:30:22.200'
   lines:
-  - "\x93Bingo crepuscular\x94."
+  - "\u201CBingo crepuscular\u201D."
   start: !human_time '00:30:20.400'
 - end: !human_time '00:30:25.000'
   lines:
@@ -1490,7 +1490,7 @@ units:
   start: !human_time '00:30:33.800'
 - end: !human_time '00:30:41.800'
   lines:
-  - "\x93Bingo crespuscular\x94, de ce nu Yupi Tralala ?"
+  - "\u201CBingo crespuscular\u201D, de ce nu Yupi Tralala ?"
   start: !human_time '00:30:38.000'
 - end: !human_time '00:30:44.100'
   lines:
@@ -1536,7 +1536,7 @@ units:
   start: !human_time '00:31:11.100'
 - end: !human_time '00:31:23.000'
   lines:
-  - Draga Mathilde, nu fii asa
+  - "Draga Mathilde, nu fii asa\u2026"
   - ''
   start: !human_time '00:31:19.400'
 - end: !human_time '00:31:29.700'
@@ -1963,7 +1963,7 @@ units:
   start: !human_time '00:40:07.599'
 - end: !human_time '00:40:12.600'
   lines:
-  - "si a fost botezat \x93Bingo Crepuscular\x94."
+  - "si a fost botezat \u201CBingo Crepuscular\u201D."
   start: !human_time '00:40:10.200'
 - end: !human_time '00:40:15.100'
   lines:
@@ -2140,7 +2140,7 @@ units:
 - end: !human_time '00:43:18.800'
   lines:
   - Compenseaza informatiile referitoare
-  - "la \x93Bingo Crepuscular\x94. E bine asa?"
+  - "la \u201CBingo Crepuscular\u201D. E bine asa?"
   start: !human_time '00:43:14.600'
 - end: !human_time '00:43:21.800'
   lines:
@@ -2387,7 +2387,7 @@ units:
   start: !human_time '00:47:27.501'
 - end: !human_time '00:47:32.000'
   lines:
-  - "de la \x93Bingo crepuscular\x94."
+  - "de la \u201CBingo crepuscular\u201D."
   start: !human_time '00:47:30.001'
 - end: !human_time '00:47:35.100'
   lines:
@@ -2578,11 +2578,11 @@ units:
 - end: !human_time '00:50:19.101'
   lines:
   - Si nu s-au mai vazut pana
-  - "la \x93Bingo Crepuscular\x94 ?"
+  - "la \u201CBingo Crepuscular\u201D ?"
   start: !human_time '00:50:16.601'
 - end: !human_time '00:50:21.600'
   lines:
-  - "\x93Bingo crepuscular\x94 este locul"
+  - "\u201CBingo crepuscular\u201D este locul"
   - in care se sfarsesc toate.
   start: !human_time '00:50:19.200'
 - end: !human_time '00:50:23.500'
@@ -2603,7 +2603,7 @@ units:
 - end: !human_time '00:50:33.500'
   lines:
   - Ce-l deosebea pe Bastoche de ceilalti
-  - "din \x93Bingo crepuscular\x94 ?"
+  - "din \u201CBingo crepuscular\u201D ?"
   start: !human_time '00:50:29.300'
 - end: !human_time '00:50:36.800'
   lines:
@@ -2654,7 +2654,7 @@ units:
   start: !human_time '00:50:59.501'
 - end: !human_time '00:51:03.600'
   lines:
-  - "\Nin plus, stim ca Bastoche se impacase."
+  - "\u2026in plus, stim ca Bastoche se impacase."
   start: !human_time '00:51:01.601'
 - end: !human_time '00:51:10.100'
   lines:
@@ -2678,7 +2678,7 @@ units:
 - end: !human_time '00:51:29.500'
   lines:
   - In ritmul asta n-o sa pun prajitura
-  - "in cuptor nici la anu\x92."
+  - "in cuptor nici la anu\u2019."
   start: !human_time '00:51:26.700'
 - end: !human_time '00:51:31.600'
   lines:
@@ -2750,11 +2750,11 @@ units:
 - end: !human_time '00:52:56.700'
   lines:
   - S-au intalnit pentru ultima data
-  - "in \x93Bingo crepuscular\x94."
+  - "in \u201CBingo crepuscular\u201D."
   start: !human_time '00:52:53.700'
 - end: !human_time '00:53:01.001'
   lines:
-  - Logodnicul meu era si el acolo
+  - "Logodnicul meu era si el acolo\u2026"
   - cu Bastoche
   start: !human_time '00:52:57.101'
 - end: !human_time '00:53:03.300'
@@ -2816,7 +2816,7 @@ units:
 - end: !human_time '00:54:11.101'
   lines:
   - Presedintele a deschis o investigatie
-  - "asupra condamnatilor de la \x93Bingo crepuscular\x94 ?"
+  - "asupra condamnatilor de la \u201CBingo crepuscular\u201D ?"
   start: !human_time '00:54:07.201'
 - end: !human_time '00:54:18.000'
   lines:
@@ -2859,7 +2859,7 @@ units:
 - end: !human_time '00:55:17.800'
   lines:
   - macar o data nu trebuie sa dreg cararea,
-  - "ci postasul\N."
+  - "ci postasul\u2026."
   start: !human_time '00:55:14.081'
 - end: !human_time '00:55:22.800'
   lines:

@@ -1,16 +1,15 @@
 encoding: CP932
 errors: []
 warnings:
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Junk before first unit.'
-  !!python/unicode 'line': !!python/unicode 'Frodo1'
-  !!python/unicode 'line_number': 1
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'New unit starts without a sequence.'
-  !!python/unicode 'line': !!python/unicode '00:01:00,889 --> 00:01:15,889'
-  !!python/unicode 'line_number': 2
-- !!python/unicode 'col': 46
-  !!python/unicode 'description': !!python/unicode 'Missing empty line after unit.'
-  !!python/unicode 'line': "<font color=\"#ec14bd\">\u65E5\u672C\u8A9E\u5B57\u5E55\
-    \ Pink_Tomato</font>"
-  !!python/unicode 'line_number': 9533
+- col: 1
+  description: Junk before first unit.
+  line: Frodo1
+  line_number: 1
+- col: 1
+  description: New unit starts without a sequence.
+  line: 00:01:00,889 --> 00:01:15,889
+  line_number: 2
+- col: 46
+  description: Missing empty line after unit.
+  line: "<font color=\"#ec14bd\">\u65E5\u672C\u8A9E\u5B57\u5E55 Pink_Tomato</font>"
+  line_number: 9533

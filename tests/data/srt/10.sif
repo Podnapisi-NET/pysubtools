@@ -2,20 +2,20 @@
 units:
 - end: !human_time '00:00:43.520'
   lines:
-  - "<i>Cu mul\u0163i ani \xEEn urm\u0103,"
+  - "<i>Cu mul\u021Bi ani \xEEn urm\u0103,"
   - "\xEEn ajunul Cr\u0103ciunului,</i>"
   start: !human_time '00:00:41.000'
 - end: !human_time '00:00:46.080'
   lines:
-  - "<i>st\u0103team lini\u015Ftit \xEEn patul meu.</i>"
+  - "<i>st\u0103team lini\u0219tit \xEEn patul meu.</i>"
   start: !human_time '00:00:43.600'
 - end: !human_time '00:00:48.840'
   lines:
-  - "<i>A\u015Fternuturile erau netede.</i>"
+  - "<i>A\u0219ternuturile erau netede.</i>"
   start: !human_time '00:00:46.120'
 - end: !human_time '00:00:51.120'
   lines:
-  - "<i>Respiram calm \u015Fi \xEEn lini\u015Fte.</i>"
+  - "<i>Respiram calm \u0219i \xEEn lini\u0219te.</i>"
   start: !human_time '00:00:48.880'
 - end: !human_time '00:00:55.080'
   lines:
@@ -28,7 +28,7 @@ units:
   start: !human_time '00:00:55.360'
 - end: !human_time '00:01:00.920'
   lines:
-  - "<i>Clopo\u0163eii saniei lui Mo\u015F Cr\u0103ciun.</i>"
+  - "<i>Clopo\u021Beii saniei lui Mo\u0219 Cr\u0103ciun.</i>"
   start: !human_time '00:00:57.920'
 - end: !human_time '00:02:30.000'
   lines:
@@ -44,7 +44,7 @@ units:
   start: !human_time '00:02:33.160'
 - end: !human_time '00:02:41.160'
   lines:
-  - "A spus c\u0103 Mo\u015Ful ar trebui s\u0103 zboare"
+  - "A spus c\u0103 Mo\u0219ul ar trebui s\u0103 zboare"
   - cu viteza luminii
   start: !human_time '00:02:38.160'
 - end: !human_time '00:02:42.680'
@@ -54,7 +54,7 @@ units:
   start: !human_time '00:02:41.200'
 - end: !human_time '00:02:43.159'
   lines:
-  - "\u015Ei?"
+  - "\u0218i?"
   start: !human_time '00:02:42.681'
 - end: !human_time '00:02:45.300'
   lines:
@@ -67,25 +67,25 @@ units:
   start: !human_time '00:02:45.301'
 - end: !human_time '00:02:48.640'
   lines:
-  - "Chiar a\u015Fa a zis?"
+  - "Chiar a\u0219a a zis?"
   start: !human_time '00:02:47.480'
 - end: !human_time '00:02:51.000'
   lines:
-  - "Probabil glumea, \u015Ftie c\u0103 Mo\u015Ful exist\u0103."
+  - "Probabil glumea, \u0219tie c\u0103 Mo\u0219ul exist\u0103."
   start: !human_time '00:02:48.641'
 - end: !human_time '00:02:54.040'
   lines:
   - "A spus c\u0103 nu e sigur."
-  - "Nu e sigur c\u0103 Mo\u015Ful exist\u0103."
+  - "Nu e sigur c\u0103 Mo\u0219ul exist\u0103."
   start: !human_time '00:02:51.040'
 - end: !human_time '00:02:57.560'
   lines:
   - "Sigur c\u0103 exist\u0103."
-  - "E la fel de real ca \u015Fi Cr\u0103ciunul."
+  - "E la fel de real ca \u0219i Cr\u0103ciunul."
   start: !human_time '00:02:54.560'
 - end: !human_time '00:03:01.000'
   lines:
-  - "\xCEns\u0103 nu va veni p\xE2n\u0103 nu dormi, domni\u015Foar\u0103."
+  - "\xCEns\u0103 nu va veni p\xE2n\u0103 nu dormi, domni\u0219oar\u0103."
   start: !human_time '00:02:58.040'
 - end: !human_time '00:03:04.080'
   lines:
@@ -93,16 +93,16 @@ units:
   start: !human_time '00:03:02.520'
 - end: !human_time '00:03:07.320'
   lines:
-  - "Mo\u015F Cr\u0103ciun va veni"
-  - "\xEEnainte s\u0103-\u0163i dai seama."
+  - "Mo\u0219 Cr\u0103ciun va veni"
+  - "\xEEnainte s\u0103-\u021Bi dai seama."
   start: !human_time '00:03:05.320'
 - end: !human_time '00:03:08.680'
   lines:
-  - "A\u015Fa c\u0103 ai face bine s\u0103 te culci."
+  - "A\u0219a c\u0103 ai face bine s\u0103 te culci."
   start: !human_time '00:03:07.360'
 - end: !human_time '00:03:34.700'
   lines:
-  - "<i>Mo\u015F Cr\u0103ciun \xEEn grev\u0103!</i>"
+  - "<i>Mo\u0219 Cr\u0103ciun \xEEn grev\u0103!</i>"
   start: !human_time '00:03:32.300'
 - end: !human_time '00:03:41.500'
   lines:
@@ -114,7 +114,7 @@ units:
   start: !human_time '00:03:51.150'
 - end: !human_time '00:03:59.100'
   lines:
-  - "Lipsit de via\u0163\u0103."
+  - "Lipsit de via\u021B\u0103."
   start: !human_time '00:03:57.300'
 - end: !human_time '00:04:12.440'
   lines:
@@ -122,12 +122,12 @@ units:
   start: !human_time '00:04:10.160'
 - end: !human_time '00:04:16.080'
   lines:
-  - "Obi\u015Fnuia s\u0103 stea treaz toat\u0103 noaptea"
-  - "a\u015Ftept\xE2ndu-l pe Mo\u015F Cr\u0103ciun."
+  - "Obi\u0219nuia s\u0103 stea treaz toat\u0103 noaptea"
+  - "a\u0219tept\xE2ndu-l pe Mo\u0219 Cr\u0103ciun."
   start: !human_time '00:04:13.080'
 - end: !human_time '00:04:19.250'
   lines:
-  - "Acele zile sunt pe sf\xE2r\u015Fite."
+  - "Acele zile sunt pe sf\xE2r\u0219ite."
   start: !human_time '00:04:16.760'
 - end: !human_time '00:04:22.280'
   lines:
@@ -135,7 +135,7 @@ units:
   start: !human_time '00:04:20.240'
 - end: !human_time '00:04:24.650'
   lines:
-  - "Da, sf\xE2r\u015Fitul magiei."
+  - "Da, sf\xE2r\u0219itul magiei."
   start: !human_time '00:04:22.320'
 - end: !human_time '00:04:28.559'
   lines:
@@ -143,7 +143,7 @@ units:
   start: !human_time '00:04:27.110'
 - end: !human_time '00:04:38.060'
   lines:
-  - "Vezi, doarme bu\u015Ftean."
+  - "Vezi, doarme bu\u0219tean."
   start: !human_time '00:04:36.850'
 - end: !human_time '00:04:41.640'
   lines:
@@ -151,7 +151,7 @@ units:
   start: !human_time '00:04:38.640'
 - end: !human_time '00:04:46.960'
   lines:
-  - "<i>Sf\xE2r\u015Fitul magiei?</i>"
+  - "<i>Sf\xE2r\u0219itul magiei?</i>"
   start: !human_time '00:04:44.640'
 - end: !human_time '00:06:55.400'
   lines:
@@ -183,11 +183,11 @@ units:
   start: !human_time '00:07:41.680'
 - end: !human_time '00:07:46.680'
   lines:
-  - "\xCEn\u0163eleg."
+  - "\xCEn\u021Beleg."
   start: !human_time '00:07:44.760'
 - end: !human_time '00:07:48.520'
   lines:
-  - "\u0162ine asta te rog."
+  - "\u021Aine asta te rog."
   start: !human_time '00:07:47.040'
 - end: !human_time '00:07:50.320'
   lines:
@@ -195,7 +195,7 @@ units:
   start: !human_time '00:07:48.560'
 - end: !human_time '00:07:52.880'
   lines:
-  - "\u0102sta e\u015Fti tu?"
+  - "\u0102sta e\u0219ti tu?"
   start: !human_time '00:07:50.960'
 - end: !human_time '00:07:55.240'
   lines:
@@ -204,12 +204,12 @@ units:
 - end: !human_time '00:07:58.280'
   lines:
   - "Scrie aici c\u0103 n-ai f\u0103cut nici o poz\u0103 cu"
-  - "Mo\u015F Craciun anul \u0103sta \u015Fi nici nu i-ai scris."
+  - "Mo\u0219 Craciun anul \u0103sta \u0219i nici nu i-ai scris."
   start: !human_time '00:07:55.280'
 - end: !human_time '00:08:04.601'
   lines:
   - "Plus c\u0103 ai l\u0103sat-o pe surioara ta"
-  - "s\u0103 preg\u0103teasc\u0103 laptele \u015Fi pr\u0103jiturile."
+  - "s\u0103 preg\u0103teasc\u0103 laptele \u0219i pr\u0103jiturile."
   start: !human_time '00:08:01.601'
 - end: !human_time '00:08:07.160'
   lines:
@@ -217,8 +217,8 @@ units:
   start: !human_time '00:08:05.360'
 - end: !human_time '00:08:10.200'
   lines:
-  - "Dac\u0103 a\u015F fi \xEEn locul t\u0103u,"
-  - "m-a\u015F urca la bord imediat."
+  - "Dac\u0103 a\u0219 fi \xEEn locul t\u0103u,"
+  - "m-a\u0219 urca la bord imediat."
   start: !human_time '00:08:07.200'
 - end: !human_time '00:08:17.280'
   lines:
@@ -239,7 +239,7 @@ units:
   start: !human_time '00:10:04.560'
 - end: !human_time '00:10:11.040'
   lines:
-  - "\u015Etii ce fel de tren e \u0103sta?"
+  - "\u0218tii ce fel de tren e \u0103sta?"
   start: !human_time '00:10:08.040'
 - end: !human_time '00:10:15.760'
   lines:
@@ -248,7 +248,7 @@ units:
 - end: !human_time '00:10:19.720'
   lines:
   - '- Mergem la Polul Nord.'
-  - "- \u015Etiu c\u0103 este un tren magic."
+  - "- \u0218tiu c\u0103 este un tren magic."
   start: !human_time '00:10:16.720'
 - end: !human_time '00:10:22.215'
   lines:
@@ -262,7 +262,7 @@ units:
   start: !human_time '00:10:22.216'
 - end: !human_time '00:10:26.461'
   lines:
-  - "C\xE2nt\u0103re\u015Fte 228 de tone."
+  - "C\xE2nt\u0103re\u0219te 228 de tone."
   start: !human_time '00:10:24.391'
 - end: !human_time '00:10:30.360'
   lines:
@@ -278,13 +278,13 @@ units:
   start: !human_time '00:10:31.760'
 - end: !human_time '00:10:42.700'
   lines:
-  - "Uita\u0163i-v\u0103 c\xE2te cadouri."
+  - "Uita\u021Bi-v\u0103 c\xE2te cadouri."
   - Le vreau pe toate.
   start: !human_time '00:10:40.240'
 - end: !human_time '00:10:46.440'
   lines:
-  - "Po\u0163i s\u0103 sim\u0163i spiritul Cr\u0103ciunului."
-  - "Totul e tihnit \u015Fi frumos!"
+  - "Po\u021Bi s\u0103 sim\u021Bi spiritul Cr\u0103ciunului."
+  - "Totul e tihnit \u0219i frumos!"
   start: !human_time '00:10:43.440'
 - end: !human_time '00:10:55.640'
   lines:
@@ -304,15 +304,15 @@ units:
   start: !human_time '00:11:02.871'
 - end: !human_time '00:11:13.160'
   lines:
-  - "\xCEncearc\u0103 \u015Fi \xEEn cel\u0103lalt buzunar."
+  - "\xCEncearc\u0103 \u0219i \xEEn cel\u0103lalt buzunar."
   start: !human_time '00:11:10.840'
 - end: !human_time '00:11:31.840'
   lines:
-  - "V\u0103 mul\u0163umesc, domnule."
+  - "V\u0103 mul\u021Bumesc, domnule."
   start: !human_time '00:11:29.440'
 - end: !human_time '00:11:45.240'
   lines:
-  - "Mul\u0163umesc, domnule."
+  - "Mul\u021Bumesc, domnule."
   start: !human_time '00:11:42.960'
 - end: !human_time '00:11:48.280'
   lines:
@@ -325,7 +325,7 @@ units:
   start: !human_time '00:11:48.960'
 - end: !human_time '00:11:53.800'
   lines:
-  - "Uite ce mi-a scris iste\u0163ul."
+  - "Uite ce mi-a scris iste\u021Bul."
   start: !human_time '00:11:50.800'
 - end: !human_time '00:11:55.800'
   lines:
@@ -351,7 +351,7 @@ units:
 - end: !human_time '00:12:25.720'
   lines:
   - "Ciudat, credeam c\u0103"
-  - "tu e\u015Fti ultimul pe list\u0103."
+  - "tu e\u0219ti ultimul pe list\u0103."
   start: !human_time '00:12:22.720'
 - end: !human_time '00:12:28.920'
   lines:
@@ -360,7 +360,7 @@ units:
   start: !human_time '00:12:25.920'
 - end: !human_time '00:12:36.200'
   lines:
-  - "Cum dore\u015Fti."
+  - "Cum dore\u0219ti."
   start: !human_time '00:12:34.080'
 - end: !human_time '00:13:06.880'
   lines:
@@ -372,20 +372,20 @@ units:
   start: !human_time '00:13:07.680'
 - end: !human_time '00:13:14.160'
   lines:
-  - "Gr\u0103be\u015Fte-te!"
+  - "Gr\u0103be\u0219te-te!"
   start: !human_time '00:13:12.040'
 - end: !human_time '00:13:22.240'
   lines:
   - "- Trebuie s\u0103 oprim trenul!"
-  - "- Nu \u015Ftiu cum s\u0103 fac asta!"
+  - "- Nu \u0219tiu cum s\u0103 fac asta!"
   start: !human_time '00:13:20.160'
 - end: !human_time '00:13:24.320'
   lines:
-  - "Trage fr\xE2na de urgen\u0163\u0103!"
+  - "Trage fr\xE2na de urgen\u021B\u0103!"
   start: !human_time '00:13:22.280'
 - end: !human_time '00:13:55.120'
   lines:
-  - "Cine a tras fr\xE2na de urgen\u0163\u0103?"
+  - "Cine a tras fr\xE2na de urgen\u021B\u0103?"
   start: !human_time '00:13:52.680'
 - end: !human_time '00:13:56.100'
   lines:
@@ -397,16 +397,16 @@ units:
   start: !human_time '00:13:57.101'
 - end: !human_time '00:14:01.240'
   lines:
-  - "\xCEn caz c\u0103 nu \u015Ftiai,"
+  - "\xCEn caz c\u0103 nu \u0219tiai,"
   start: !human_time '00:13:59.240'
 - end: !human_time '00:14:03.240'
   lines:
   - maneta aia e doar pentru
-  - "situa\u0163ii de urgen\u0163\u0103!"
+  - "situa\u021Bii de urgen\u021B\u0103!"
   start: !human_time '00:14:01.280'
 - end: !human_time '00:14:05.840'
   lines:
-  - "\u015Ei, \xEEn caz c\u0103 nu \u015Ftiai,"
+  - "\u0218i, \xEEn caz c\u0103 nu \u0219tiai,"
   start: !human_time '00:14:04.040'
 - end: !human_time '00:14:08.080'
   lines:
@@ -414,7 +414,7 @@ units:
   start: !human_time '00:14:05.880'
 - end: !human_time '00:14:10.200'
   lines:
-  - "\u015Ei, \xEEn caz c\u0103 n-ai observat,"
+  - "\u0218i, \xEEn caz c\u0103 n-ai observat,"
   start: !human_time '00:14:08.120'
 - end: !human_time '00:14:12.840'
   lines:
@@ -428,7 +428,7 @@ units:
 - end: !human_time '00:14:19.680'
   lines:
   - "\xEEns\u0103 e foarte important"
-  - "pentru ceilal\u0163i dintre noi!"
+  - "pentru ceilal\u021Bi dintre noi!"
   start: !human_time '00:14:16.680'
 - end: !human_time '00:14:21.840'
   lines:
@@ -441,15 +441,15 @@ units:
   start: !human_time '00:14:21.880'
 - end: !human_time '00:14:29.186'
   lines:
-  - "\xCEn\u0163eleg."
+  - "\xCEn\u021Beleg."
   start: !human_time '00:14:27.600'
 - end: !human_time '00:14:32.187'
   lines:
-  - "Tinere, a\u015Fa s-a \xEEnt\xE2mplat?"
+  - "Tinere, a\u0219a s-a \xEEnt\xE2mplat?"
   start: !human_time '00:14:29.187'
 - end: !human_time '00:14:38.920'
   lines:
-  - "Trebuie s\u0103-\u0163i reamintesc..."
+  - "Trebuie s\u0103-\u021Bi reamintesc..."
   start: !human_time '00:14:36.920'
 - end: !human_time '00:14:40.960'
   lines:
@@ -461,24 +461,24 @@ units:
   start: !human_time '00:14:41.000'
 - end: !human_time '00:14:45.880'
   lines:
-  - "\u015Fi nu voi \xEEnt\xE2rzia nici \xEEn seara asta!"
+  - "\u0219i nu voi \xEEnt\xE2rzia nici \xEEn seara asta!"
   start: !human_time '00:14:42.920'
 - end: !human_time '00:14:48.920'
   lines:
-  - "Toat\u0103 lumea s\u0103-\u015Fi ocupe locurile, v\u0103 rog!"
+  - "Toat\u0103 lumea s\u0103-\u0219i ocupe locurile, v\u0103 rog!"
   start: !human_time '00:14:45.920'
 - end: !human_time '00:14:54.360'
   lines:
-  - "Mul\u0163umesc."
+  - "Mul\u021Bumesc."
   start: !human_time '00:14:52.360'
 - end: !human_time '00:15:00.120'
   lines:
-  - "Aten\u0163ie, v\u0103 rog."
+  - "Aten\u021Bie, v\u0103 rog."
   start: !human_time '00:14:58.520'
 - end: !human_time '00:15:03.160'
   lines:
   - Avem vreun pasager care
-  - "dore\u015Fte ceva de b\u0103ut?"
+  - "dore\u0219te ceva de b\u0103ut?"
   start: !human_time '00:15:00.160'
 - end: !human_time '00:15:07.280'
   lines:
@@ -491,13 +491,13 @@ units:
   start: !human_time '00:16:39.400'
 - end: !human_time '00:16:45.440'
   lines:
-  - "obi\u015Fnuia s\u0103 bea 50 de ce\u015Fti"
+  - "obi\u0219nuia s\u0103 bea 50 de ce\u0219ti"
   - "de ciocolat\u0103 cald\u0103 zilnic."
   start: !human_time '00:16:42.680'
 - end: !human_time '00:16:47.440'
   lines:
   - "Era la fel de consistent\u0103"
-  - "ca noroiul \u015Fi ro\u015Fie."
+  - "ca noroiul \u0219i ro\u0219ie."
   start: !human_time '00:16:45.920'
 - end: !human_time '00:16:49.280'
   lines:
@@ -506,11 +506,11 @@ units:
   start: !human_time '00:16:47.480'
 - end: !human_time '00:16:51.080'
   lines:
-  - "V-a\u0163i prins? Ciocolat\u0103 \"cald\u0103\"."
+  - "V-a\u021Bi prins? Ciocolat\u0103 \"cald\u0103\"."
   start: !human_time '00:16:49.281'
 - end: !human_time '00:16:53.080'
   lines:
-  - "De unde \u015Ftii?"
+  - "De unde \u0219tii?"
   - "Nu e adev\u0103rat."
   start: !human_time '00:16:52.200'
 - end: !human_time '00:16:55.360'
@@ -526,11 +526,11 @@ units:
 - end: !human_time '00:17:00.000'
   lines:
   - "E o \xEEnc\u0103lcare a regulilor de"
-  - "circula\u0163ie"
+  - "circula\u021Bie"
   start: !human_time '00:16:57.680'
 - end: !human_time '00:17:03.040'
   lines:
-  - "ca un copil s\u0103 umble ne\xEEnso\u0163it"
+  - "ca un copil s\u0103 umble ne\xEEnso\u021Bit"
   - "\xEEntr-un mijloc de transport."
   start: !human_time '00:17:00.040'
 - end: !human_time '00:17:04.680'
@@ -539,7 +539,7 @@ units:
   start: !human_time '00:17:03.160'
 - end: !human_time '00:17:06.200'
   lines:
-  - "E\u015Fti sigur\u0103?"
+  - "E\u0219ti sigur\u0103?"
   start: !human_time '00:17:04.681'
 - end: !human_time '00:17:18.920'
   lines:
@@ -548,7 +548,7 @@ units:
   start: !human_time '00:17:15.920'
 - end: !human_time '00:17:24.320'
   lines:
-  - "Atunci hai s\u0103-i ducem ceva \u015Fi lui."
+  - "Atunci hai s\u0103-i ducem ceva \u0219i lui."
   start: !human_time '00:17:21.680'
 - end: !human_time '00:17:30.040'
   lines:
@@ -556,7 +556,7 @@ units:
   start: !human_time '00:17:27.040'
 - end: !human_time '00:17:36.360'
   lines:
-  - "\u015Ei-a uitat biletul."
+  - "\u0218i-a uitat biletul."
   - "\xCEnc\u0103 n-a fost perforat."
   start: !human_time '00:17:33.360'
 - end: !human_time '00:17:39.200'
@@ -565,11 +565,11 @@ units:
   start: !human_time '00:17:38.200'
 - end: !human_time '00:17:41.200'
   lines:
-  - "O s\u0103 ne bagi pe to\u0163i \xEEn belele!"
+  - "O s\u0103 ne bagi pe to\u021Bi \xEEn belele!"
   start: !human_time '00:17:39.201'
 - end: !human_time '00:20:09.240'
   lines:
-  - "Scuza\u0163i-m\u0103, domni\u015Foar\u0103."
+  - "Scuza\u021Bi-m\u0103, domni\u0219oar\u0103."
   start: !human_time '00:20:06.680'
 - end: !human_time '00:20:12.320'
   lines:
@@ -578,7 +578,7 @@ units:
   start: !human_time '00:20:09.320'
 - end: !human_time '00:20:14.240'
   lines:
-  - "\xCEmi permite\u0163i?"
+  - "\xCEmi permite\u021Bi?"
   start: !human_time '00:20:12.680'
 - end: !human_time '00:20:19.360'
   lines:
@@ -590,11 +590,11 @@ units:
   start: !human_time '00:20:20.000'
 - end: !human_time '00:20:24.320'
   lines:
-  - "Vrei s\u0103 spui c\u0103 \u0163i-ai piedut biletul?"
+  - "Vrei s\u0103 spui c\u0103 \u021Bi-ai piedut biletul?"
   start: !human_time '00:20:21.440'
 - end: !human_time '00:20:27.360'
   lines:
-  - "Nu \u015Fi-a pierdut biletul, eu am f\u0103cut-o."
+  - "Nu \u0219i-a pierdut biletul, eu am f\u0103cut-o."
   start: !human_time '00:20:24.360'
 - end: !human_time '00:20:32.600'
   lines:
@@ -606,7 +606,7 @@ units:
   start: !human_time '00:20:32.680'
 - end: !human_time '00:20:41.080'
   lines:
-  - "Po\u0163i avea biletul meu."
+  - "Po\u021Bi avea biletul meu."
   start: !human_time '00:20:39.080'
 - end: !human_time '00:20:44.160'
   lines:
@@ -618,15 +618,15 @@ units:
   start: !human_time '00:20:44.200'
 - end: !human_time '00:20:50.120'
   lines:
-  - "Domni\u015Foar\u0103,"
+  - "Domni\u0219oar\u0103,"
   start: !human_time '00:20:48.760'
 - end: !human_time '00:20:52.340'
   lines:
-  - "trebuie s\u0103 veni\u0163i cu mine."
+  - "trebuie s\u0103 veni\u021Bi cu mine."
   start: !human_time '00:20:50.160'
 - end: !human_time '00:21:03.760'
   lines:
-  - "\u015Etii ce se va \xEEnt\xE2mpla acum, nu?"
+  - "\u0218tii ce se va \xEEnt\xE2mpla acum, nu?"
   start: !human_time '00:21:02.560'
 - end: !human_time '00:21:06.080'
   lines:
@@ -643,11 +643,11 @@ units:
   start: !human_time '00:21:09.160'
 - end: !human_time '00:21:12.200'
   lines:
-  - "\xCEn felul \u0103sta nu va ajunge sub ro\u0163i."
+  - "\xCEn felul \u0103sta nu va ajunge sub ro\u021Bi."
   start: !human_time '00:21:10.160'
 - end: !human_time '00:21:15.240'
   lines:
-  - "S-ar putea s\u0103 \xEEncetineasc\u0103 pu\u0163in trenul,"
+  - "S-ar putea s\u0103 \xEEncetineasc\u0103 pu\u021Bin trenul,"
   - "\xEEns\u0103 nu-l vor opri niciodat\u0103."
   start: !human_time '00:21:12.240'
 - end: !human_time '00:21:17.220'
@@ -677,20 +677,20 @@ units:
 - end: !human_time '00:21:59.600'
   lines:
   - Te rog, are probleme mari!
-  - "Trebuie s\u0103 m\u0103 aju\u0163i!"
+  - "Trebuie s\u0103 m\u0103 aju\u021Bi!"
   start: !human_time '00:21:56.600'
 - end: !human_time '00:22:41.960'
   lines:
-  - "\u0162i-am g\u0103sit biletul!"
+  - "\u021Ai-am g\u0103sit biletul!"
   start: !human_time '00:22:39.440'
 - end: !human_time '00:22:46.320'
   lines:
-  - "A\u015Fteapt\u0103!"
+  - "A\u0219teapt\u0103!"
   start: !human_time '00:22:44.400'
 - end: !human_time '00:22:53.200'
   lines:
-  - "A\u015Fteapt\u0103!"
-  - "\u0162i-am g\u0103sit biletul!"
+  - "A\u0219teapt\u0103!"
+  - "\u021Ai-am g\u0103sit biletul!"
   start: !human_time '00:22:50.440'
 - end: !human_time '00:23:30.560'
   lines:
@@ -702,7 +702,7 @@ units:
   start: !human_time '00:23:30.600'
 - end: !human_time '00:23:42.240'
   lines:
-  - "Cu to\u0163i o c\u0103ut\u0103m!"
+  - "Cu to\u021Bi o c\u0103ut\u0103m!"
   start: !human_time '00:23:39.680'
 - end: !human_time '00:23:44.800'
   lines:
@@ -727,7 +727,7 @@ units:
   start: !human_time '00:23:56.600'
 - end: !human_time '00:24:00.560'
   lines:
-  - "mi-a\u015F \u0163ine toate"
+  - "mi-a\u0219 \u021Bine toate"
   - lucrurile de valoare aici!
   start: !human_time '00:23:58.640'
 - end: !human_time '00:24:03.000'
@@ -736,12 +736,12 @@ units:
   start: !human_time '00:24:00.960'
 - end: !human_time '00:24:06.040'
   lines:
-  - "Din experien\u0163\u0103 \xEE\u0163i spun c\u0103"
+  - "Din experien\u021B\u0103 \xEE\u021Bi spun c\u0103"
   - asta e cel mai sigur loc.
   start: !human_time '00:24:03.040'
 - end: !human_time '00:24:09.440'
   lines:
-  - "Nu c\u0103 a\u015F avea ce face cu un bilet."
+  - "Nu c\u0103 a\u0219 avea ce face cu un bilet."
   start: !human_time '00:24:06.440'
 - end: !human_time '00:24:11.913'
   lines:
@@ -779,24 +779,24 @@ units:
   start: !human_time '00:24:32.640'
 - end: !human_time '00:24:36.080'
   lines:
-  - "Vrei ni\u0163ic\u0103 t\u0103rie?"
+  - "Vrei ni\u021Bic\u0103 t\u0103rie?"
   start: !human_time '00:24:34.361'
 - end: !human_time '00:24:39.800'
   lines:
-  - "Bun\u0103 \u015Fi cald\u0103, perfect\u0103 pentru"
+  - "Bun\u0103 \u0219i cald\u0103, perfect\u0103 pentru"
   - "o noapte friguroas\u0103 de iarn\u0103."
   start: !human_time '00:24:36.800'
 - end: !human_time '00:24:54.400'
   lines:
-  - "S\u0103-\u0163i fie de bine."
+  - "S\u0103-\u021Bi fie de bine."
   start: !human_time '00:24:52.000'
 - end: !human_time '00:24:56.560'
   lines:
-  - "Dar Mo\u015F Cr\u0103ciun?"
+  - "Dar Mo\u0219 Cr\u0103ciun?"
   start: !human_time '00:24:55.000'
 - end: !human_time '00:24:58.120'
   lines:
-  - "Mo\u015F Cr\u0103ciun?"
+  - "Mo\u0219 Cr\u0103ciun?"
   start: !human_time '00:24:56.561'
 - end: !human_time '00:25:01.440'
   lines:
@@ -828,15 +828,15 @@ units:
   start: !human_time '00:25:32.787'
 - end: !human_time '00:25:37.520'
   lines:
-  - "Nu vrei s\u0103 te la\u015Fi dus de nas!"
+  - "Nu vrei s\u0103 te la\u0219i dus de nas!"
   start: !human_time '00:25:35.040'
 - end: !human_time '00:25:39.520'
   lines:
-  - "Nu vrei s\u0103 fi min\u0163it,"
+  - "Nu vrei s\u0103 fi min\u021Bit,"
   start: !human_time '00:25:37.840'
 - end: !human_time '00:25:42.480'
   lines:
-  - "sau s\u0103 stai cu ochelarii de cal pe fa\u0163\u0103."
+  - "sau s\u0103 stai cu ochelarii de cal pe fa\u021B\u0103."
   start: !human_time '00:25:39.560'
 - end: !human_time '00:25:45.400'
   lines:
@@ -876,7 +876,7 @@ units:
   start: !human_time '00:26:08.440'
 - end: !human_time '00:26:16.600'
   lines:
-  - "Tu ai spus-o, pu\u015Ftiule, nu eu."
+  - "Tu ai spus-o, pu\u0219tiule, nu eu."
   start: !human_time '00:26:13.600'
 - end: !human_time '00:26:23.400'
   lines:
@@ -896,15 +896,15 @@ units:
   start: !human_time '00:26:39.080'
 - end: !human_time '00:26:45.640'
   lines:
-  - "A\u015Fteapt\u0103."
+  - "A\u0219teapt\u0103."
   start: !human_time '00:26:43.680'
 - end: !human_time '00:26:48.960'
   lines:
-  - "A\u015Fteapt\u0103!"
+  - "A\u0219teapt\u0103!"
   start: !human_time '00:26:47.040'
 - end: !human_time '00:26:56.880'
   lines:
-  - "A\u015Fteapt\u0103!"
+  - "A\u0219teapt\u0103!"
   start: !human_time '00:26:54.960'
 - end: !human_time '00:27:03.480'
   lines:
@@ -916,24 +916,24 @@ units:
   start: !human_time '00:27:03.560'
 - end: !human_time '00:27:08.160'
   lines:
-  - "Treze\u015Fte-te!"
+  - "Treze\u0219te-te!"
   start: !human_time '00:27:05.920'
 - end: !human_time '00:27:10.840'
   lines:
-  - "Treze\u015Fte-te!"
+  - "Treze\u0219te-te!"
   start: !human_time '00:27:08.760'
 - end: !human_time '00:27:15.080'
   lines:
-  - "Treze\u015Fte-te!"
+  - "Treze\u0219te-te!"
   start: !human_time '00:27:12.960'
 - end: !human_time '00:27:31.080'
   lines:
-  - "Pu\u015Ftiule,"
-  - "nu mai visa cu ochii deschi\u015Fi!"
+  - "Pu\u0219tiule,"
+  - "nu mai visa cu ochii deschi\u0219i!"
   start: !human_time '00:27:29.280'
 - end: !human_time '00:27:33.120'
   lines:
-  - "Treze\u015Fte-te!"
+  - "Treze\u0219te-te!"
   start: !human_time '00:27:31.120'
 - end: !human_time '00:27:36.200'
   lines:
@@ -946,7 +946,7 @@ units:
   start: !human_time '00:27:37.200'
 - end: !human_time '00:27:43.680'
   lines:
-  - "Hai, pu\u015Ftiule."
+  - "Hai, pu\u0219tiule."
   - "Urc\u0103-te pe umerii mei."
   start: !human_time '00:27:42.080'
 - end: !human_time '00:27:45.960'
@@ -955,7 +955,7 @@ units:
   start: !human_time '00:27:43.720'
 - end: !human_time '00:27:50.800'
   lines:
-  - "Fata pe care o cau\u0163i"
+  - "Fata pe care o cau\u021Bi"
   - "probabil a luat-o \xEEnainte."
   start: !human_time '00:27:47.800'
 - end: !human_time '00:27:54.000'
@@ -990,19 +990,19 @@ units:
 - end: !human_time '00:28:10.000'
   lines:
   - "Sunt doar 3 cm \xEEntre"
-  - "acoperi\u015Ful acestui tren..."
+  - "acoperi\u0219ul acestui tren..."
   start: !human_time '00:28:07.000'
 - end: !human_time '00:28:14.020'
   lines:
-  - "...\u015Fi tavanul tunelului."
+  - "...\u0219i tavanul tunelului."
   start: !human_time '00:28:11.681'
 - end: !human_time '00:28:16.440'
   lines:
-  - "Ai \xEEn\u0163eles?"
+  - "Ai \xEEn\u021Beles?"
   start: !human_time '00:28:14.440'
 - end: !human_time '00:28:22.000'
   lines:
-  - "Nu mai avem mult, pu\u015Ftiule."
+  - "Nu mai avem mult, pu\u0219tiule."
   start: !human_time '00:28:19.400'
 - end: !human_time '00:28:25.280'
   lines:
@@ -1010,19 +1010,19 @@ units:
   start: !human_time '00:28:22.920'
 - end: !human_time '00:28:48.200'
   lines:
-  - "\xCEnapoi, pu\u015Ftiule, gr\u0103be\u015Fte-te!"
+  - "\xCEnapoi, pu\u0219tiule, gr\u0103be\u0219te-te!"
   start: !human_time '00:28:47.040'
 - end: !human_time '00:28:50.760'
   lines:
-  - "Aga\u0163\u0103-te de b\u0103\u0163."
+  - "Aga\u021B\u0103-te de b\u0103\u021B."
   start: !human_time '00:28:48.240'
 - end: !human_time '00:29:28.160'
   lines:
-  - "Situa\u0163ia e simpl\u0103, pu\u015Ftiule."
+  - "Situa\u021Bia e simpl\u0103, pu\u0219tiule."
   start: !human_time '00:29:25.440'
 - end: !human_time '00:29:30.880'
   lines:
-  - "C\xE2nd \xEE\u0163i spun s\u0103 sari!"
+  - "C\xE2nd \xEE\u021Bi spun s\u0103 sari!"
   start: !human_time '00:29:28.480'
 - end: !human_time '00:29:33.640'
   lines:
@@ -1055,12 +1055,12 @@ units:
   start: !human_time '00:30:11.280'
 - end: !human_time '00:30:18.560'
   lines:
-  - "- De unde \u015Ftii s\u0103 conduci?"
-  - "- Vino s\u0103-\u0163i ar\u0103t, e u\u015For."
+  - "- De unde \u0219tii s\u0103 conduci?"
+  - "- Vino s\u0103-\u021Bi ar\u0103t, e u\u0219or."
   start: !human_time '00:30:15.560'
 - end: !human_time '00:30:21.320'
   lines:
-  - "Maneta asta mare e accelera\u0163ia."
+  - "Maneta asta mare e accelera\u021Bia."
   start: !human_time '00:30:18.800'
 - end: !human_time '00:30:23.760'
   lines:
@@ -1085,15 +1085,15 @@ units:
   start: !human_time '00:30:31.960'
 - end: !human_time '00:30:39.040'
   lines:
-  - "Toat\u0103 via\u0163a mi-am dorit s\u0103 fac asta."
+  - "Toat\u0103 via\u021Ba mi-am dorit s\u0103 fac asta."
   start: !human_time '00:30:36.040'
 - end: !human_time '00:31:02.920'
   lines:
-  - "Opre\u015Fte trenul!"
+  - "Opre\u0219te trenul!"
   start: !human_time '00:30:59.920'
 - end: !human_time '00:31:06.560'
   lines:
-  - "Opre\u015Fte trenul!"
+  - "Opre\u0219te trenul!"
   start: !human_time '00:31:04.320'
 - end: !human_time '00:31:13.080'
   lines:
@@ -1116,21 +1116,21 @@ units:
   start: !human_time '00:31:17.320'
 - end: !human_time '00:31:21.400'
   lines:
-  - "- Dar asta ro\u015Fie care pare s\u0103 fie fr\xE2na?!"
+  - "- Dar asta ro\u0219ie care pare s\u0103 fie fr\xE2na?!"
   - "- Nu, a spus c\u0103 asta e fr\xE2na."
   start: !human_time '00:31:18.400'
 - end: !human_time '00:31:23.700'
   lines:
-  - "E\u015Fti sigur\u0103?"
+  - "E\u0219ti sigur\u0103?"
   start: !human_time '00:31:22.120'
 - end: !human_time '00:31:26.200'
   lines:
-  - "E\u015Fti sigur\u0103?"
+  - "E\u0219ti sigur\u0103?"
   start: !human_time '00:31:24.560'
 - end: !human_time '00:31:34.919'
   lines:
-  - "Trage\u0163i fr\xE2na!"
-  - "Opri\u0163i trenul!"
+  - "Trage\u021Bi fr\xE2na!"
+  - "Opri\u021Bi trenul!"
   start: !human_time '00:31:33.019'
 - end: !human_time '00:31:55.840'
   lines:
@@ -1143,7 +1143,7 @@ units:
   start: !human_time '00:31:58.360'
 - end: !human_time '00:32:04.540'
   lines:
-  - "Sunt singurul care \xEEn\u0163elege asta?"
+  - "Sunt singurul care \xEEn\u021Belege asta?"
   start: !human_time '00:32:02.080'
 - end: !human_time '00:32:06.640'
   lines:
@@ -1151,16 +1151,16 @@ units:
   start: !human_time '00:32:05.080'
 - end: !human_time '00:32:08.240'
   lines:
-  - "Ar fi trebuit s\u0103 \u015Ftiu."
+  - "Ar fi trebuit s\u0103 \u0219tiu."
   start: !human_time '00:32:06.880'
 - end: !human_time '00:32:11.280'
   lines:
-  - "Tinere, tu chiar e\u015Fti hot\u0103r\xE2t ca"
+  - "Tinere, tu chiar e\u0219ti hot\u0103r\xE2t ca"
   - "acest tren s\u0103 nu ajung\u0103 la Polul Nord?"
   start: !human_time '00:32:08.280'
 - end: !human_time '00:32:13.320'
   lines:
-  - "Uita\u0163i-v\u0103!"
+  - "Uita\u021Bi-v\u0103!"
   start: !human_time '00:32:11.720'
 - end: !human_time '00:32:17.120'
   lines:
@@ -1168,13 +1168,13 @@ units:
   start: !human_time '00:32:14.880'
 - end: !human_time '00:32:20.400'
   lines:
-  - "Sunt cel pu\u0163in 100.000 de exemplare aici,"
+  - "Sunt cel pu\u021Bin 100.000 de exemplare aici,"
   - poate chiar un milion.
   start: !human_time '00:32:17.400'
 - end: !human_time '00:32:23.960'
   lines:
   - "Va dura c\xE2teva ore p\xE2n\u0103"
-  - "c\xE2nd vor elibera \u015Fina."
+  - "c\xE2nd vor elibera \u0219ina."
   start: !human_time '00:32:20.960'
 - end: !human_time '00:32:25.761'
   lines:
@@ -1187,11 +1187,11 @@ units:
 - end: !human_time '00:32:30.240'
   lines:
   - '- E un blocaj.'
-  - "- O pozi\u0163ie delicat\u0103."
+  - "- O pozi\u021Bie delicat\u0103."
   start: !human_time '00:32:28.240'
 - end: !human_time '00:32:33.241'
   lines:
-  - "Suntem r\u0103t\u0103ci\u0163i."
+  - "Suntem r\u0103t\u0103ci\u021Bi."
   start: !human_time '00:32:32.041'
 - end: !human_time '00:33:17.440'
   lines:
@@ -1211,17 +1211,17 @@ units:
   start: !human_time '00:34:06.200'
 - end: !human_time '00:34:16.440'
   lines:
-  - "\xCEncetine\u015Fte!"
+  - "\xCEncetine\u0219te!"
   start: !human_time '00:34:14.360'
 - end: !human_time '00:34:27.879'
   lines:
   - Sfinte Sisoe!
-  - "A s\u0103rit siguran\u0163a!"
+  - "A s\u0103rit siguran\u021Ba!"
   start: !human_time '00:34:24.929'
 - end: !human_time '00:34:29.380'
   lines:
   - '- Ce?'
-  - "- Siguran\u0163a!"
+  - "- Siguran\u021Ba!"
   start: !human_time '00:34:27.950'
 - end: !human_time '00:34:34.040'
   lines:
@@ -1235,11 +1235,11 @@ units:
   start: !human_time '00:34:34.080'
 - end: !human_time '00:34:41.640'
   lines:
-  - "Nu-mi prea place situa\u0163ia."
+  - "Nu-mi prea place situa\u021Bia."
   start: !human_time '00:34:40.080'
 - end: !human_time '00:34:43.200'
   lines:
-  - "Repede, \xEEn spatele barei de siguran\u0163\u0103."
+  - "Repede, \xEEn spatele barei de siguran\u021B\u0103."
   start: !human_time '00:34:41.641'
 - end: !human_time '00:34:45.800'
   lines:
@@ -1253,13 +1253,13 @@ units:
   start: !human_time '00:34:45.840'
 - end: !human_time '00:34:53.480'
   lines:
-  - "c\u0103 suntem total expu\u015Fi \xEEn"
-  - "fa\u0163a locomotivei,"
+  - "c\u0103 suntem total expu\u0219i \xEEn"
+  - "fa\u021Ba locomotivei,"
   start: !human_time '00:34:50.480'
 - end: !human_time '00:34:56.920'
   lines:
   - "iar trenul pare s\u0103 accelereze"
-  - "cu repeziciune spre Valea \xCEnghe\u0163at\u0103,"
+  - "cu repeziciune spre Valea \xCEnghe\u021Bat\u0103,"
   start: !human_time '00:34:53.920'
 - end: !human_time '00:35:04.120'
   lines:
@@ -1267,7 +1267,7 @@ units:
   start: !human_time '00:35:01.120'
 - end: !human_time '00:35:07.800'
   lines:
-  - "Propun s\u0103 ne \u0163inem cu to\u0163i c\xE2t mai..."
+  - "Propun s\u0103 ne \u021Binem cu to\u021Bi c\xE2t mai..."
   start: !human_time '00:35:04.840'
 - end: !human_time '00:35:09.801'
   lines:
@@ -1275,11 +1275,11 @@ units:
   start: !human_time '00:35:08.501'
 - end: !human_time '00:35:32.320'
   lines:
-  - "Acul de siguran\u0163\u0103!"
+  - "Acul de siguran\u021B\u0103!"
   start: !human_time '00:35:29.920'
 - end: !human_time '00:35:53.880'
   lines:
-  - "Iisuse, ghea\u0163a a acoperit \u015Finele!"
+  - "Iisuse, ghea\u021Ba a acoperit \u0219inele!"
   start: !human_time '00:35:50.880'
 - end: !human_time '00:36:20.280'
   lines:
@@ -1288,7 +1288,7 @@ units:
   start: !human_time '00:36:19.240'
 - end: !human_time '00:36:22.960'
   lines:
-  - "Sus, dr\u0103gu\u0163\u0103."
+  - "Sus, dr\u0103gu\u021B\u0103."
   start: !human_time '00:36:20.320'
 - end: !human_time '00:36:27.679'
   lines:
@@ -1296,7 +1296,7 @@ units:
   start: !human_time '00:36:26.009'
 - end: !human_time '00:36:35.680'
   lines:
-  - "Ai ac\u0163ionat rapid, tinere."
+  - "Ai ac\u021Bionat rapid, tinere."
   start: !human_time '00:36:32.680'
 - end: !human_time '00:36:57.159'
   lines:
@@ -1304,11 +1304,11 @@ units:
   start: !human_time '00:36:55.859'
 - end: !human_time '00:37:03.400'
   lines:
-  - "Parc\u0103 e mai bine a\u015Fa."
+  - "Parc\u0103 e mai bine a\u0219a."
   start: !human_time '00:37:01.160'
 - end: !human_time '00:37:09.920'
   lines:
-  - "Pentru numele lui Dumnezeu, ce face\u0163i?"
+  - "Pentru numele lui Dumnezeu, ce face\u021Bi?"
   start: !human_time '00:37:07.240'
 - end: !human_time '00:37:14.520'
   lines:
@@ -1316,19 +1316,19 @@ units:
   start: !human_time '00:37:12.760'
 - end: !human_time '00:37:19.520'
   lines:
-  - "Scote\u0163i-ne c\xE2t mai repede de aici!"
+  - "Scote\u021Bi-ne c\xE2t mai repede de aici!"
   start: !human_time '00:37:16.520'
 - end: !human_time '00:37:29.760'
   lines:
-  - "\xCEntoarce\u0163i sania asta!"
+  - "\xCEntoarce\u021Bi sania asta!"
   start: !human_time '00:37:27.360'
 - end: !human_time '00:37:48.060'
   lines:
-  - "Uita\u0163i-v\u0103 acolo!"
+  - "Uita\u021Bi-v\u0103 acolo!"
   start: !human_time '00:37:46.480'
 - end: !human_time '00:37:52.760'
   lines:
-  - "\u015Einele sunt chiar \xEEn fa\u0163\u0103!"
+  - "\u0218inele sunt chiar \xEEn fa\u021B\u0103!"
   start: !human_time '00:37:50.480'
 - end: !human_time '00:38:00.640'
   lines:
@@ -1344,11 +1344,11 @@ units:
   start: !human_time '00:38:11.480'
 - end: !human_time '00:38:18.880'
   lines:
-  - "Pu\u0163in mai la st\xE2nga!"
+  - "Pu\u021Bin mai la st\xE2nga!"
   start: !human_time '00:38:16.720'
 - end: !human_time '00:38:23.520'
   lines:
-  - "\u015Ei acum mai la dreapta!"
+  - "\u0218i acum mai la dreapta!"
   start: !human_time '00:38:20.600'
 - end: !human_time '00:38:27.200'
   lines:
@@ -1364,7 +1364,7 @@ units:
   start: !human_time '00:38:31.320'
 - end: !human_time '00:38:36.200'
   lines:
-  - "- \xCE\u0163i vei pierde biletul!"
+  - "- \xCE\u021Bi vei pierde biletul!"
   - "- Nu e biletul meu, e al t\u0103u!"
   start: !human_time '00:38:33.320'
 - end: !human_time '00:38:38.120'
@@ -1374,7 +1374,7 @@ units:
   start: !human_time '00:38:36.240'
 - end: !human_time '00:38:40.600'
   lines:
-  - "\xCEncearc\u0103 s\u0103 men\u0163ii ritmul cu mine."
+  - "\xCEncearc\u0103 s\u0103 men\u021Bii ritmul cu mine."
   - "La st\xE2nga!"
   start: !human_time '00:38:38.160'
 - end: !human_time '00:38:43.080'
@@ -1396,15 +1396,15 @@ units:
   start: !human_time '00:38:56.920'
 - end: !human_time '00:39:02.600'
   lines:
-  - "\u0162ine\u0163i-v\u0103 bine!"
+  - "\u021Aine\u021Bi-v\u0103 bine!"
   start: !human_time '00:39:00.440'
 - end: !human_time '00:39:14.880'
   lines:
-  - "A\u015Fa mai merge."
+  - "A\u0219a mai merge."
   start: !human_time '00:39:12.640'
 - end: !human_time '00:39:19.020'
   lines:
-  - "Mul\u0163umesc."
+  - "Mul\u021Bumesc."
   start: !human_time '00:39:16.800'
 - end: !human_time '00:39:22.200'
   lines:
@@ -1424,7 +1424,7 @@ units:
   start: !human_time '00:39:28.000'
 - end: !human_time '00:39:40.200'
   lines:
-  - "Mul\u0163umesc."
+  - "Mul\u021Bumesc."
   start: !human_time '00:39:38.200'
 - end: !human_time '00:39:42.546'
   lines:
@@ -1432,12 +1432,12 @@ units:
   start: !human_time '00:39:41.520'
 - end: !human_time '00:39:44.600'
   lines:
-  - "La fel ca \u015Fi copilul \u0103la atot\u015Ftiutor."
+  - "La fel ca \u0219i copilul \u0103la atot\u0219tiutor."
   start: !human_time '00:39:42.547'
 - end: !human_time '00:40:02.000'
   lines:
-  - "Ave\u0163i grij\u0103 pe unde merge\u0163i,"
-  - "e bucluca\u015F drumul \u0103sta."
+  - "Ave\u021Bi grij\u0103 pe unde merge\u021Bi,"
+  - "e bucluca\u0219 drumul \u0103sta."
   start: !human_time '00:39:59.680'
 - end: !human_time '00:40:04.320'
   lines:
@@ -1454,21 +1454,21 @@ units:
   start: !human_time '00:40:07.840'
 - end: !human_time '00:40:12.880'
   lines:
-  - "eram pe acoperi\u015F,"
+  - "eram pe acoperi\u0219,"
   - "f\u0103c\xE2ndu-mi turele,"
   start: !human_time '00:40:11.080'
 - end: !human_time '00:40:15.080'
   lines:
-  - "c\xE2nd am alunecat \u015Fi eu pe ghea\u0163\u0103."
+  - "c\xE2nd am alunecat \u0219i eu pe ghea\u021B\u0103."
   start: !human_time '00:40:12.920'
 - end: !human_time '00:40:18.120'
   lines:
   - "Am \xEEncercat s\u0103 m\u0103 prind de o bar\u0103,"
-  - "\xEEns\u0103 s-a rupt \u015Fi-am c\u0103zut."
+  - "\xEEns\u0103 s-a rupt \u0219i-am c\u0103zut."
   start: !human_time '00:40:15.120'
 - end: !human_time '00:40:21.080'
   lines:
-  - "Totu\u015Fi n-am c\u0103zut din tren."
+  - "Totu\u0219i n-am c\u0103zut din tren."
   start: !human_time '00:40:18.260'
 - end: !human_time '00:40:24.680'
   lines:
@@ -1488,7 +1488,7 @@ units:
   start: !human_time '00:40:31.400'
 - end: !human_time '00:40:35.160'
   lines:
-  - "A\u015Fteapt\u0103."
+  - "A\u0219teapt\u0103."
   start: !human_time '00:40:33.820'
 - end: !human_time '00:40:39.320'
   lines:
@@ -1514,7 +1514,7 @@ units:
   start: !human_time '00:40:55.520'
 - end: !human_time '00:40:59.880'
   lines:
-  - "Ave\u0163i grij\u0103 pe unde p\u0103\u015Fi\u0163i."
+  - "Ave\u021Bi grij\u0103 pe unde p\u0103\u0219i\u021Bi."
   start: !human_time '00:40:58.680'
 - end: !human_time '00:41:02.840'
   lines:
@@ -1523,20 +1523,20 @@ units:
 - end: !human_time '00:41:05.880'
   lines:
   - "Au fost l\u0103sate s\u0103 putrezeasc\u0103 pe str\u0103zi"
-  - "l\u0103turalnice \u015Fi \xEEn alte col\u0163uri ale lumii."
+  - "l\u0103turalnice \u0219i \xEEn alte col\u021Buri ale lumii."
   start: !human_time '00:41:02.880'
 - end: !human_time '00:41:08.400'
   lines:
-  - "\u015Ei ce caut\u0103 aici?"
+  - "\u0218i ce caut\u0103 aici?"
   start: !human_time '00:41:07.400'
 - end: !human_time '00:41:11.040'
   lines:
-  - "E o nou\u0103 idee de-a \u015Fefului."
+  - "E o nou\u0103 idee de-a \u0219efului."
   start: !human_time '00:41:08.440'
 - end: !human_time '00:41:14.080'
   lines:
   - "\xCEn loc s\u0103 fie aruncate,"
-  - "sunt adunate \u015Fi ref\u0103cute."
+  - "sunt adunate \u0219i ref\u0103cute."
   start: !human_time '00:41:11.080'
 - end: !human_time '00:41:18.640'
   lines:
@@ -1554,7 +1554,7 @@ units:
   start: !human_time '00:41:25.280'
 - end: !human_time '00:41:31.880'
   lines:
-  - "Aceste p\u0103pu\u015Fi \u015Fi marionete..."
+  - "Aceste p\u0103pu\u0219i \u0219i marionete..."
   start: !human_time '00:41:28.880'
 - end: !human_time '00:41:35.320'
   lines:
@@ -1567,7 +1567,7 @@ units:
   start: !human_time '00:41:35.680'
 - end: !human_time '00:41:58.120'
   lines:
-  - "E\u015Fti exact ca mine, prietene."
+  - "E\u0219ti exact ca mine, prietene."
   start: !human_time '00:41:55.120'
 - end: !human_time '00:42:00.240'
   lines:
@@ -1575,11 +1575,11 @@ units:
   start: !human_time '00:41:58.320'
 - end: !human_time '00:42:05.760'
   lines:
-  - "Polul Nord, Mo\u015F Cr\u0103ciun, acest tren,"
+  - "Polul Nord, Mo\u0219 Cr\u0103ciun, acest tren,"
   start: !human_time '00:42:02.760'
 - end: !human_time '00:42:08.280'
   lines:
-  - "sunt ni\u015Fte porc\u0103rii."
+  - "sunt ni\u0219te porc\u0103rii."
   start: !human_time '00:42:06.280'
 - end: !human_time '00:42:10.300'
   lines:
@@ -1587,15 +1587,15 @@ units:
   start: !human_time '00:42:08.320'
 - end: !human_time '00:42:12.860'
   lines:
-  - "\u015Etiu ce e\u015Fti..."
+  - "\u0218tiu ce e\u0219ti..."
   start: !human_time '00:42:10.800'
 - end: !human_time '00:42:14.920'
   lines:
-  - "...e\u015Fti un ne\xEEncrez\u0103tor."
+  - "...e\u0219ti un ne\xEEncrez\u0103tor."
   start: !human_time '00:42:12.861'
 - end: !human_time '00:42:17.659'
   lines:
-  - "Te \xEEndoie\u015Fti. Nu crezi."
+  - "Te \xEEndoie\u0219ti. Nu crezi."
   start: !human_time '00:42:15.800'
 - end: !human_time '00:42:38.920'
   lines:
@@ -1603,26 +1603,26 @@ units:
   start: !human_time '00:42:37.960'
 - end: !human_time '00:42:40.320'
   lines:
-  - "Am trecut peste ni\u015Fte"
+  - "Am trecut peste ni\u0219te"
   - dealuri foarte abrupte.
   start: !human_time '00:42:38.960'
 - end: !human_time '00:42:42.200'
   lines:
   - "Iar apoi cred c\u0103 am trecut"
-  - "peste un lac \xEEnghe\u0163at."
+  - "peste un lac \xEEnghe\u021Bat."
   start: !human_time '00:42:40.360'
 - end: !human_time '00:42:44.800'
   lines:
-  - "\xCEns\u0103 \u015Ftiu c\u0103 a fost doar o iluzie optic\u0103."
+  - "\xCEns\u0103 \u0219tiu c\u0103 a fost doar o iluzie optic\u0103."
   start: !human_time '00:42:42.240'
 - end: !human_time '00:42:47.360'
   lines:
-  - "El a spus c\u0103 trenul era pe ghea\u0163\u0103,"
+  - "El a spus c\u0103 trenul era pe ghea\u021B\u0103,"
   - "\xEEns\u0103 eu i-am zis c\u0103 e imposibil."
   start: !human_time '00:42:44.840'
 - end: !human_time '00:42:49.240'
   lines:
-  - "Pentru c\u0103 nu po\u0163i pune \u015Finele de tren..."
+  - "Pentru c\u0103 nu po\u021Bi pune \u0219inele de tren..."
   start: !human_time '00:42:47.400'
 - end: !human_time '00:42:51.300'
   lines:
@@ -1646,7 +1646,7 @@ units:
   start: !human_time '00:45:19.160'
 - end: !human_time '00:45:23.706'
   lines:
-  - "Latitudine 66 de grade \u015Fi 33 de minute."
+  - "Latitudine 66 de grade \u0219i 33 de minute."
   start: !human_time '00:45:20.880'
 - end: !human_time '00:45:25.120'
   lines:
@@ -1654,12 +1654,12 @@ units:
   start: !human_time '00:45:23.707'
 - end: !human_time '00:45:29.200'
   lines:
-  - "Vede\u0163i acele lumini din zare?"
+  - "Vede\u021Bi acele lumini din zare?"
   start: !human_time '00:45:26.200'
 - end: !human_time '00:45:33.160'
   lines:
   - Par a fi luminile unui vas ce
-  - "navigheaz\u0103 prin marea \xEEnghe\u0163at\u0103."
+  - "navigheaz\u0103 prin marea \xEEnghe\u021Bat\u0103."
   start: !human_time '00:45:30.160'
 - end: !human_time '00:45:37.360'
   lines:
@@ -1671,7 +1671,7 @@ units:
   start: !human_time '00:45:38.980'
 - end: !human_time '00:46:24.526'
   lines:
-  - "Am reu\u015Fit."
+  - "Am reu\u0219it."
   start: !human_time '00:46:23.560'
 - end: !human_time '00:46:26.460'
   lines:
@@ -1679,7 +1679,7 @@ units:
   start: !human_time '00:46:24.527'
 - end: !human_time '00:46:28.280'
   lines:
-  - "Am reu\u015Fit!"
+  - "Am reu\u0219it!"
   start: !human_time '00:46:26.465'
 - end: !human_time '00:46:53.640'
   lines:
@@ -1691,16 +1691,16 @@ units:
   start: !human_time '00:46:53.680'
 - end: !human_time '00:46:59.000'
   lines:
-  - "S-au str\xE2ns \xEEn centrul ora\u015Fului."
+  - "S-au str\xE2ns \xEEn centrul ora\u0219ului."
   start: !human_time '00:46:57.080'
 - end: !human_time '00:47:02.200'
   lines:
-  - "Acolo, Mo\u015Ful va d\u0103rui"
+  - "Acolo, Mo\u0219ul va d\u0103rui"
   - "primul cadou al Cr\u0103ciunului."
   start: !human_time '00:46:59.200'
 - end: !human_time '00:47:05.640'
   lines:
-  - "\u015Ei cine va primi primul"
+  - "\u0218i cine va primi primul"
   - "cadou al Cr\u0103ciunului?"
   start: !human_time '00:47:03.680'
 - end: !human_time '00:47:08.680'
@@ -1709,7 +1709,7 @@ units:
   start: !human_time '00:47:05.680'
 - end: !human_time '00:47:14.040'
   lines:
-  - "Uita\u0163i!"
+  - "Uita\u021Bi!"
   start: !human_time '00:47:12.920'
 - end: !human_time '00:47:15.160'
   lines:
@@ -1717,25 +1717,25 @@ units:
   start: !human_time '00:47:14.041'
 - end: !human_time '00:47:47.680'
   lines:
-  - "\xCEn regul\u0103, doamnelor \u015Fi domnilor,"
+  - "\xCEn regul\u0103, doamnelor \u0219i domnilor,"
   start: !human_time '00:47:45.480'
 - end: !human_time '00:47:49.880'
   lines:
-  - "\xEEmp\u0103r\u0163i\u0163i-v\u0103 pe dou\u0103 coloane, v\u0103 rog."
+  - "\xEEmp\u0103r\u021Bi\u021Bi-v\u0103 pe dou\u0103 coloane, v\u0103 rog."
   start: !human_time '00:47:47.720'
 - end: !human_time '00:47:53.360'
   lines:
-  - "Cei mai scunzi \xEEn fa\u0163\u0103,"
-  - "iar cei mai \xEEnal\u0163i \xEEn spate."
+  - "Cei mai scunzi \xEEn fa\u021B\u0103,"
+  - "iar cei mai \xEEnal\u021Bi \xEEn spate."
   start: !human_time '00:47:50.360'
 - end: !human_time '00:47:56.640'
   lines:
-  - "Cei n\u0103scu\u0163i \xEEn zile cu so\u0163 \xEEn dreapta,"
-  - "iar cei n\u0103scu\u0163i \xEEn zile f\u0103r\u0103 so\u0163 \xEEn st\xE2nga."
+  - "Cei n\u0103scu\u021Bi \xEEn zile cu so\u021B \xEEn dreapta,"
+  - "iar cei n\u0103scu\u021Bi \xEEn zile f\u0103r\u0103 so\u021B \xEEn st\xE2nga."
   start: !human_time '00:47:53.640'
 - end: !human_time '00:47:58.700'
   lines:
-  - "Nu v\u0103 \xEEmpinge\u0163i,"
+  - "Nu v\u0103 \xEEmpinge\u021Bi,"
   start: !human_time '00:47:57.240'
 - end: !human_time '00:48:00.160'
   lines:
@@ -1744,12 +1744,12 @@ units:
 - end: !human_time '00:48:02.160'
   lines:
   - mai sunt doar 5 minute
-  - "p\xE2n\u0103 la miezul nop\u0163ii."
+  - "p\xE2n\u0103 la miezul nop\u021Bii."
   start: !human_time '00:48:00.200'
 - end: !human_time '00:48:05.200'
   lines:
   - "Cum adic\u0103? Mai erau 5 minute p\xE2n\u0103 la"
-  - "miezul nop\u0163ii \xEEn urm\u0103 cu 4 minute."
+  - "miezul nop\u021Bii \xEEn urm\u0103 cu 4 minute."
   start: !human_time '00:48:02.200'
 - end: !human_time '00:48:09.120'
   lines:
@@ -1758,8 +1758,8 @@ units:
   start: !human_time '00:48:06.200'
 - end: !human_time '00:48:11.440'
   lines:
-  - "- M\u0103 scuza\u0163i?"
-  - "- Care \u0163i-e nedumerirea."
+  - "- M\u0103 scuza\u021Bi?"
+  - "- Care \u021Bi-e nedumerirea."
   start: !human_time '00:48:09.680'
 - end: !human_time '00:48:13.440'
   lines:
@@ -1767,21 +1767,21 @@ units:
   start: !human_time '00:48:11.480'
 - end: !human_time '00:48:18.880'
   lines:
-  - "Nimeni nu e obligat s\u0103-l vad\u0103 pe Mo\u015Ful."
+  - "Nimeni nu e obligat s\u0103-l vad\u0103 pe Mo\u0219ul."
   start: !human_time '00:48:15.880'
 - end: !human_time '00:48:22.680'
   lines:
-  - "Doamnelor \u015Fi domnilor, nu trebuie"
-  - "s\u0103 v\u0103 \u0163ine\u0163i neap\u0103rat de m\xE2ini,"
+  - "Doamnelor \u0219i domnilor, nu trebuie"
+  - "s\u0103 v\u0103 \u021Bine\u021Bi neap\u0103rat de m\xE2ini,"
   start: !human_time '00:48:19.680'
 - end: !human_time '00:48:26.360'
   lines:
-  - "\xEEns\u0103 v\u0103 rog s\u0103 v\u0103 men\u0163ine\u0163i"
-  - "pozi\u0163ia \xEEn coloan\u0103..."
+  - "\xEEns\u0103 v\u0103 rog s\u0103 v\u0103 men\u021Bine\u021Bi"
+  - "pozi\u021Bia \xEEn coloan\u0103..."
   start: !human_time '00:48:23.880'
 - end: !human_time '00:48:28.800'
   lines:
-  - "...at\xE2ta timp c\xE2t suntem \xEEn mi\u015Fcare."
+  - "...at\xE2ta timp c\xE2t suntem \xEEn mi\u0219care."
   start: !human_time '00:48:26.400'
 - end: !human_time '00:48:40.480'
   lines:
@@ -1803,37 +1803,37 @@ units:
 - end: !human_time '00:48:51.480'
   lines:
   - E un moment al darurilor
-  - "\u015Fi-al recuno\u015Ftin\u0163ei,"
+  - "\u0219i-al recuno\u0219tin\u021Bei,"
   start: !human_time '00:48:49.760'
 - end: !human_time '00:48:53.200'
   lines:
-  - "petrecut al\u0103turi de prieteni \u015Fi familie."
+  - "petrecut al\u0103turi de prieteni \u0219i familie."
   start: !human_time '00:48:51.481'
 - end: !human_time '00:48:55.040'
   lines:
-  - "Oamenii \xEE\u015Fi orneaz\u0103 casele."
+  - "Oamenii \xEE\u0219i orneaz\u0103 casele."
   start: !human_time '00:48:53.240'
 - end: !human_time '00:48:58.080'
   lines:
-  - "Iar Mo\u015Ful ne las\u0103 daruri"
+  - "Iar Mo\u0219ul ne las\u0103 daruri"
   - "sub pomul de Cr\u0103ciun."
   start: !human_time '00:48:55.080'
 - end: !human_time '00:49:01.880'
   lines:
-  - "Pur \u015Fi simplu Cr\u0103ciunul..."
+  - "Pur \u0219i simplu Cr\u0103ciunul..."
   start: !human_time '00:48:59.920'
 - end: !human_time '00:49:04.880'
   lines:
-  - "...nu mi se potrive\u015Fte."
+  - "...nu mi se potrive\u0219te."
   start: !human_time '00:49:02.400'
 - end: !human_time '00:49:09.080'
   lines:
-  - "Nu \u015Ftiu dac\u0103-\u0163i place sau nu Cr\u0103ciunul,"
+  - "Nu \u0219tiu dac\u0103-\u021Bi place sau nu Cr\u0103ciunul,"
   start: !human_time '00:49:06.080'
 - end: !human_time '00:49:12.120'
   lines:
   - dar asta-i seara de Ajun,
-  - "nu po\u0163i s\u0103 stai aici singur."
+  - "nu po\u021Bi s\u0103 stai aici singur."
   start: !human_time '00:49:09.120'
 - end: !human_time '00:49:17.200'
   lines:
@@ -1854,11 +1854,11 @@ units:
   start: !human_time '00:49:42.560'
 - end: !human_time '00:49:48.880'
   lines:
-  - "Fr\xE2na de urgen\u0163\u0103!"
+  - "Fr\xE2na de urgen\u021B\u0103!"
   start: !human_time '00:49:46.880'
 - end: !human_time '00:49:50.880'
   lines:
-  - "Fr\xE2na de urgen\u0163\u0103!"
+  - "Fr\xE2na de urgen\u021B\u0103!"
   start: !human_time '00:49:48.920'
 - end: !human_time '00:49:57.480'
   lines:
@@ -1867,16 +1867,16 @@ units:
   start: !human_time '00:49:54.480'
 - end: !human_time '00:50:06.640'
   lines:
-  - "Odihne\u015Fte-te pu\u0163in, pu\u015Ftiule."
+  - "Odihne\u0219te-te pu\u021Bin, pu\u0219tiule."
   start: !human_time '00:50:04.080'
 - end: !human_time '00:50:09.960'
   lines:
-  - "Ce zici de o cea\u015Fc\u0103 fierbinte"
+  - "Ce zici de o cea\u0219c\u0103 fierbinte"
   - "de t\u0103rie?"
   start: !human_time '00:50:06.960'
 - end: !human_time '00:50:40.120'
   lines:
-  - "Ne vom pr\u0103bu\u015Fi!"
+  - "Ne vom pr\u0103bu\u0219i!"
   start: !human_time '00:50:37.880'
 - end: !human_time '00:50:46.759'
   lines:
@@ -1888,11 +1888,11 @@ units:
   start: !human_time '00:51:11.960'
 - end: !human_time '00:51:16.440'
   lines:
-  - "Clopo\u0163elul."
+  - "Clopo\u021Belul."
   start: !human_time '00:51:14.360'
 - end: !human_time '00:51:18.180'
   lines:
-  - "Ce clopo\u0163el?"
+  - "Ce clopo\u021Bel?"
   start: !human_time '00:51:16.800'
 - end: !human_time '00:51:19.560'
   lines:
@@ -1913,7 +1913,7 @@ units:
   start: !human_time '00:51:30.960'
 - end: !human_time '00:51:42.760'
   lines:
-  - "Haide\u0163i."
+  - "Haide\u021Bi."
   start: !human_time '00:51:41.040'
 - end: !human_time '00:52:14.680'
   lines:
@@ -1922,11 +1922,11 @@ units:
 - end: !human_time '00:52:17.440'
   lines:
   - '- Ce e?'
-  - "- Haide\u0163i."
+  - "- Haide\u021Bi."
   start: !human_time '00:52:15.440'
 - end: !human_time '00:52:30.880'
   lines:
-  - "Haide\u0163i."
+  - "Haide\u021Bi."
   start: !human_time '00:52:29.200'
 - end: !human_time '00:52:42.200'
   lines:
@@ -1942,7 +1942,7 @@ units:
   start: !human_time '00:52:53.480'
 - end: !human_time '00:52:56.800'
   lines:
-  - "\u015Ei eu o aud."
+  - "\u0218i eu o aud."
   start: !human_time '00:52:55.520'
 - end: !human_time '00:52:58.080'
   lines:
@@ -1954,7 +1954,7 @@ units:
   start: !human_time '00:52:58.120'
 - end: !human_time '00:53:02.360'
   lines:
-  - "E\u015Fti sigur\u0103?"
+  - "E\u0219ti sigur\u0103?"
   start: !human_time '00:53:00.320'
 - end: !human_time '00:53:08.120'
   lines:
@@ -1966,7 +1966,7 @@ units:
   start: !human_time '00:53:13.120'
 - end: !human_time '00:53:20.160'
   lines:
-  - "Tiptil \u015Fi \xEEn lini\u015Fte."
+  - "Tiptil \u0219i \xEEn lini\u0219te."
   start: !human_time '00:53:18.040'
 - end: !human_time '00:53:37.120'
   lines:
@@ -1978,21 +1978,21 @@ units:
   start: !human_time '00:53:37.160'
 - end: !human_time '00:53:40.840'
   lines:
-  - "Cum l-a\u0163i \xEEmpachetat?"
+  - "Cum l-a\u021Bi \xEEmpachetat?"
   start: !human_time '00:53:39.001'
 - end: !human_time '00:53:43.880'
   lines:
-  - "\xCEntr-un ambalaj alb-ro\u015Fu"
-  - "cu fund\u0103 verde de tipul \u015Fapte."
+  - "\xCEntr-un ambalaj alb-ro\u0219u"
+  - "cu fund\u0103 verde de tipul \u0219apte."
   start: !human_time '00:53:40.880'
 - end: !human_time '00:53:45.860'
   lines:
-  - "Fund\u0103 verde de tipul \u015Fapte?"
+  - "Fund\u0103 verde de tipul \u0219apte?"
   start: !human_time '00:53:44.560'
 - end: !human_time '00:53:47.900'
   lines:
   - "C\xE2nd mai avem at\xE2t de"
-  - "pu\u0163in p\xE2n\u0103 la momentul zero."
+  - "pu\u021Bin p\xE2n\u0103 la momentul zero."
   start: !human_time '00:53:45.861'
 - end: !human_time '00:53:49.160'
   lines:
@@ -2000,11 +2000,11 @@ units:
   start: !human_time '00:53:47.901'
 - end: !human_time '00:53:50.761'
   lines:
-  - "Sunt incon\u015Ftien\u0163i?!"
+  - "Sunt incon\u0219tien\u021Bi?!"
   start: !human_time '00:53:49.461'
 - end: !human_time '00:53:53.420'
   lines:
-  - "Care-i destina\u0163ia?"
+  - "Care-i destina\u021Bia?"
   start: !human_time '00:53:51.400'
 - end: !human_time '00:53:55.440'
   lines:
@@ -2012,7 +2012,7 @@ units:
   start: !human_time '00:53:53.421'
 - end: !human_time '00:53:57.800'
   lines:
-  - "\u0102la-i ora\u015Ful meu."
+  - "\u0102la-i ora\u0219ul meu."
   start: !human_time '00:53:55.800'
 - end: !human_time '00:54:00.640'
   lines:
@@ -2020,7 +2020,7 @@ units:
   start: !human_time '00:53:57.840'
 - end: !human_time '00:54:04.320'
   lines:
-  - "<i>Neast\xE2mp\u0103ra\u0163i</i>"
+  - "<i>Neast\xE2mp\u0103ra\u021Bi</i>"
   start: !human_time '00:54:02.400'
 - end: !human_time '00:54:07.400'
   lines:
@@ -2042,7 +2042,7 @@ units:
   start: !human_time '00:54:10.120'
 - end: !human_time '00:54:16.280'
   lines:
-  - "i-a pus ni\u015Fte gum\u0103 \xEEn cap surorii sale."
+  - "i-a pus ni\u0219te gum\u0103 \xEEn cap surorii sale."
   start: !human_time '00:54:13.280'
 - end: !human_time '00:54:18.270'
   lines:
@@ -2050,7 +2050,7 @@ units:
   start: !human_time '00:54:16.680'
 - end: !human_time '00:54:21.271'
   lines:
-  - "E cumva acela\u015Fi copil care a f\u0103cut glume"
+  - "E cumva acela\u0219i copil care a f\u0103cut glume"
   - pe seama profesoarei sale anul trecut?
   start: !human_time '00:54:18.271'
 - end: !human_time '00:54:24.480'
@@ -2064,7 +2064,7 @@ units:
   start: !human_time '00:54:25.440'
 - end: !human_time '00:54:29.140'
   lines:
-  - "Vorbim cu \u015Feful cel mare?"
+  - "Vorbim cu \u0219eful cel mare?"
   start: !human_time '00:54:26.840'
 - end: !human_time '00:54:31.440'
   lines:
@@ -2081,7 +2081,7 @@ units:
   start: !human_time '00:54:46.120'
 - end: !human_time '00:54:50.800'
   lines:
-  - "\xCEl iert\u0103m de data asta pe pu\u015Fti."
+  - "\xCEl iert\u0103m de data asta pe pu\u0219ti."
   start: !human_time '00:54:48.840'
 - end: !human_time '00:54:53.240'
   lines:
@@ -2090,7 +2090,7 @@ units:
   start: !human_time '00:54:50.840'
 - end: !human_time '00:54:55.280'
   lines:
-  - "Bine, b\u0103ie\u0163i."
+  - "Bine, b\u0103ie\u021Bi."
   start: !human_time '00:54:53.280'
 - end: !human_time '00:54:58.600'
   lines:
@@ -2099,13 +2099,13 @@ units:
   start: !human_time '00:54:55.600'
 - end: !human_time '00:55:01.720'
   lines:
-  - "- \u015Eefule, lu\u0103m expresul?"
-  - "- Bine\xEEn\u0163eles c\u0103-l lu\u0103m."
+  - "- \u0218efule, lu\u0103m expresul?"
+  - "- Bine\xEEn\u021Beles c\u0103-l lu\u0103m."
   start: !human_time '00:54:58.720'
 - end: !human_time '00:55:06.240'
   lines:
   - E singura modalitate prin care
-  - "putem ajunge \xEEn pia\u0163\u0103 la timp."
+  - "putem ajunge \xEEn pia\u021B\u0103 la timp."
   start: !human_time '00:55:03.240'
 - end: !human_time '00:55:09.560'
   lines:
@@ -2113,7 +2113,7 @@ units:
   start: !human_time '00:55:07.160'
 - end: !human_time '00:55:11.960'
   lines:
-  - "Pe locuri... urca\u0163i!"
+  - "Pe locuri... urca\u021Bi!"
   start: !human_time '00:55:09.760'
 - end: !human_time '00:55:17.440'
   lines:
@@ -2125,7 +2125,7 @@ units:
   start: !human_time '00:55:30.880'
 - end: !human_time '00:55:36.560'
   lines:
-  - "Nu \u015Ftiu dac\u0103 e o idee prea bun\u0103."
+  - "Nu \u0219tiu dac\u0103 e o idee prea bun\u0103."
   start: !human_time '00:55:34.040'
 - end: !human_time '00:56:12.320'
   lines:
@@ -2143,7 +2143,7 @@ units:
   start: !human_time '00:56:16.760'
 - end: !human_time '00:56:35.600'
   lines:
-  - "Credeam c-o s\u0103 g\u0103sim o ie\u015Fire."
+  - "Credeam c-o s\u0103 g\u0103sim o ie\u0219ire."
   start: !human_time '00:56:33.080'
 - end: !human_time '00:56:37.840'
   lines:
@@ -2151,7 +2151,7 @@ units:
   start: !human_time '00:56:35.640'
 - end: !human_time '00:56:49.080'
   lines:
-  - "Uita\u0163i."
+  - "Uita\u021Bi."
   start: !human_time '00:56:47.320'
 - end: !human_time '00:56:51.960'
   lines:
@@ -2159,7 +2159,7 @@ units:
   start: !human_time '00:56:50.040'
 - end: !human_time '00:56:58.840'
   lines:
-  - "Se duce \xEEn ora\u015Ful meu."
+  - "Se duce \xEEn ora\u0219ul meu."
   - La cineva pe nume Billy.
   start: !human_time '00:56:55.840'
 - end: !human_time '00:57:00.680'
@@ -2180,7 +2180,7 @@ units:
   start: !human_time '00:57:13.760'
 - end: !human_time '00:58:13.040'
   lines:
-  - "Uita\u0163i."
+  - "Uita\u021Bi."
   start: !human_time '00:58:11.280'
 - end: !human_time '00:58:17.920'
   lines:
@@ -2192,15 +2192,15 @@ units:
   start: !human_time '00:58:17.960'
 - end: !human_time '00:58:22.000'
   lines:
-  - "Cred c\u0103 \u015Ftiu ce e."
+  - "Cred c\u0103 \u0219tiu ce e."
   start: !human_time '00:58:20.200'
 - end: !human_time '00:58:24.600'
   lines:
-  - "Toat\u0103 via\u0163a mi-am dorit a\u015Fa ceva."
+  - "Toat\u0103 via\u021Ba mi-am dorit a\u0219a ceva."
   start: !human_time '00:58:22.040'
 - end: !human_time '00:58:26.800'
   lines:
-  - "A\u015Fteapt\u0103."
+  - "A\u0219teapt\u0103."
   start: !human_time '00:58:25.200'
 - end: !human_time '00:58:28.120'
   lines:
@@ -2221,11 +2221,11 @@ units:
   start: !human_time '00:58:30.901'
 - end: !human_time '01:00:32.200'
   lines:
-  - "Ceva m\u0103 \u0163ine de picioare!"
+  - "Ceva m\u0103 \u021Bine de picioare!"
   start: !human_time '01:00:29.200'
 - end: !human_time '01:00:34.680'
   lines:
-  - "Nu pot s\u0103-l mai \u0163in."
+  - "Nu pot s\u0103-l mai \u021Bin."
   start: !human_time '01:00:32.720'
 - end: !human_time '01:00:37.640'
   lines:
@@ -2246,7 +2246,7 @@ units:
 - end: !human_time '01:00:46.520'
   lines:
   - '- Uite!'
-  - "- Tot m\u0103 mai \u0163ine!"
+  - "- Tot m\u0103 mai \u021Bine!"
   start: !human_time '01:00:44.240'
 - end: !human_time '01:00:48.800'
   lines:
@@ -2259,11 +2259,11 @@ units:
   start: !human_time '01:00:52.520'
 - end: !human_time '01:00:55.320'
   lines:
-  - "Ce cau\u0163i aici?"
+  - "Ce cau\u021Bi aici?"
   start: !human_time '01:00:54.000'
 - end: !human_time '01:00:57.640'
   lines:
-  - "La fel ca \u015Fi voi,"
+  - "La fel ca \u0219i voi,"
   - "\xEEmi c\u0103utam cadoul de Cr\u0103ciun."
   start: !human_time '01:00:55.360'
 - end: !human_time '01:00:59.840'
@@ -2273,19 +2273,19 @@ units:
   start: !human_time '01:00:57.680'
 - end: !human_time '01:01:02.880'
   lines:
-  - "N-am g\u0103sit dec\xE2t ni\u015Fte chilo\u0163i!"
+  - "N-am g\u0103sit dec\xE2t ni\u0219te chilo\u021Bi!"
   start: !human_time '01:00:59.880'
 - end: !human_time '01:01:04.800'
   lines:
-  - "Uita\u0163i."
+  - "Uita\u021Bi."
   start: !human_time '01:01:03.240'
 - end: !human_time '01:01:15.320'
   lines:
-  - "<i>Pute\u0163i \xEEncepe s\u0103 cobor\xE2\u0163i.</i>"
+  - "<i>Pute\u021Bi \xEEncepe s\u0103 cobor\xE2\u021Bi.</i>"
   start: !human_time '01:01:12.880'
 - end: !human_time '01:01:17.800'
   lines:
-  - "<i>C\xE2nd dori\u0163i, desigur.</i>"
+  - "<i>C\xE2nd dori\u021Bi, desigur.</i>"
   start: !human_time '01:01:15.400'
 - end: !human_time '01:01:30.800'
   lines:
@@ -2293,11 +2293,11 @@ units:
   start: !human_time '01:01:29.000'
 - end: !human_time '01:01:31.840'
   lines:
-  - "Cred c\u0103 vom reu\u015Fi."
+  - "Cred c\u0103 vom reu\u0219i."
   start: !human_time '01:01:30.840'
 - end: !human_time '01:01:34.640'
   lines:
-  - "Bine\xEEn\u0163eles c\u0103 vom ajunge, mai"
+  - "Bine\xEEn\u021Beles c\u0103 vom ajunge, mai"
   - "sunt 5 minute de mai bine de o or\u0103."
   start: !human_time '01:01:31.880'
 - end: !human_time '01:01:37.400'
@@ -2310,11 +2310,11 @@ units:
   start: !human_time '01:01:37.440'
 - end: !human_time '01:01:39.880'
   lines:
-  - "\u015Etii ceva?"
+  - "\u0218tii ceva?"
   start: !human_time '01:01:38.661'
 - end: !human_time '01:01:42.320'
   lines:
-  - "Nu cred c\u0103 vom reu\u015Fi."
+  - "Nu cred c\u0103 vom reu\u0219i."
   start: !human_time '01:01:39.920'
 - end: !human_time '01:01:47.640'
   lines:
@@ -2330,15 +2330,15 @@ units:
   start: !human_time '01:01:50.680'
 - end: !human_time '01:01:55.720'
   lines:
-  - "ave\u0163i nevoie de mai mult\u0103 altitudine."
+  - "ave\u021Bi nevoie de mai mult\u0103 altitudine."
   start: !human_time '01:01:52.720'
 - end: !human_time '01:01:58.191'
   lines:
-  - "M\u0103ri\u0163i altitudinea!"
+  - "M\u0103ri\u021Bi altitudinea!"
   start: !human_time '01:01:56.200'
 - end: !human_time '01:02:01.680'
   lines:
-  - "<i>M\u0103ri\u0163i altitudinea, v\u0103 rug\u0103m.</i>"
+  - "<i>M\u0103ri\u021Bi altitudinea, v\u0103 rug\u0103m.</i>"
   start: !human_time '01:01:59.160'
 - end: !human_time '01:02:04.880'
   lines:
@@ -2346,23 +2346,23 @@ units:
   start: !human_time '01:02:03.120'
 - end: !human_time '01:02:22.520'
   lines:
-  - "Elfii zbur\u0103tori sunt ni\u015Fte speciali\u015Fti."
+  - "Elfii zbur\u0103tori sunt ni\u0219te speciali\u0219ti."
   start: !human_time '01:02:19.800'
 - end: !human_time '01:02:25.560'
   lines:
-  - "S\u0103 nu \xEEncerca\u0163i asta acas\u0103, copii."
+  - "S\u0103 nu \xEEncerca\u021Bi asta acas\u0103, copii."
   start: !human_time '01:02:22.560'
 - end: !human_time '01:02:28.600'
   lines:
-  - "N-o s\u0103 reu\u015Fim."
+  - "N-o s\u0103 reu\u0219im."
   start: !human_time '01:02:26.600'
 - end: !human_time '01:03:08.160'
   lines:
-  - "O ma\u015Fin\u0103rie perfect pus\u0103 la punct."
+  - "O ma\u0219in\u0103rie perfect pus\u0103 la punct."
   start: !human_time '01:03:05.680'
 - end: !human_time '01:03:19.600'
   lines:
-  - "Haide\u0163i, blati\u015Ftilor."
+  - "Haide\u021Bi, blati\u0219tilor."
   start: !human_time '01:03:17.600'
 - end: !human_time '01:03:21.440'
   lines:
@@ -2374,17 +2374,17 @@ units:
   start: !human_time '01:03:21.441'
 - end: !human_time '01:03:24.800'
   lines:
-  - "Am c\u0103zut aici din gre\u015Feal\u0103."
+  - "Am c\u0103zut aici din gre\u0219eal\u0103."
   start: !human_time '01:03:23.280'
 - end: !human_time '01:03:27.840'
   lines:
-  - "L\u0103sa\u0163i-o balt\u0103, am \u015Ftiut"
-  - "c\u0103 sunte\u0163i aici tot timpul."
+  - "L\u0103sa\u021Bi-o balt\u0103, am \u0219tiut"
+  - "c\u0103 sunte\u021Bi aici tot timpul."
   start: !human_time '01:03:24.840'
 - end: !human_time '01:03:33.320'
   lines:
-  - "- Haide\u0163i, s\u0103 mergem."
-  - "- Hai, ie\u015Fi\u0163i."
+  - "- Haide\u021Bi, s\u0103 mergem."
+  - "- Hai, ie\u0219i\u021Bi."
   start: !human_time '01:03:30.760'
 - end: !human_time '01:03:35.160'
   lines:
@@ -2403,15 +2403,15 @@ units:
 - end: !human_time '01:03:49.560'
   lines:
   - E simplu.
-  - "\u015Etiu..."
+  - "\u0218tiu..."
   start: !human_time '01:03:47.880'
 - end: !human_time '01:03:51.240'
   lines:
-  - "Ce \u015Ftii?"
+  - "Ce \u0219tii?"
   start: !human_time '01:03:49.561'
 - end: !human_time '01:03:54.240'
   lines:
-  - "Nici m\u0103car n-aveai ce s\u0103 cau\u0163i aici."
+  - "Nici m\u0103car n-aveai ce s\u0103 cau\u021Bi aici."
   start: !human_time '01:03:51.280'
 - end: !human_time '01:03:57.720'
   lines:
@@ -2436,7 +2436,7 @@ units:
   start: !human_time '01:04:14.000'
 - end: !human_time '01:04:20.480'
   lines:
-  - "Ne \u0163inem de n\u0103zb\xE2tii, nu-i a\u015Fa?"
+  - "Ne \u021Binem de n\u0103zb\xE2tii, nu-i a\u0219a?"
   start: !human_time '01:04:18.120'
 - end: !human_time '01:04:23.720'
   lines:
@@ -2453,7 +2453,7 @@ units:
 - end: !human_time '01:05:59.840'
   lines:
   - Nu e minunat acel sunet
-  - "al clopo\u0163eilor?"
+  - "al clopo\u021Beilor?"
   start: !human_time '01:05:57.080'
 - end: !human_time '01:07:14.440'
   lines:
@@ -2517,11 +2517,11 @@ units:
   start: !human_time '01:09:50.800'
 - end: !human_time '01:09:58.000'
   lines:
-  - "Mul\u0163umesc."
+  - "Mul\u021Bumesc."
   start: !human_time '01:09:57.000'
 - end: !human_time '01:10:00.360'
   lines:
-  - "Alege-m\u0103 pe mine, Mo\u015Fule."
+  - "Alege-m\u0103 pe mine, Mo\u0219ule."
   start: !human_time '01:09:58.840'
 - end: !human_time '01:10:01.880'
   lines:
@@ -2546,7 +2546,7 @@ units:
   start: !human_time '01:10:07.000'
 - end: !human_time '01:10:11.921'
   lines:
-  - "Nu \u0163i-ar strica \u015Fi pu\u0163in\u0103 modestie."
+  - "Nu \u021Bi-ar strica \u0219i pu\u021Bin\u0103 modestie."
   start: !human_time '01:10:08.921'
 - end: !human_time '01:10:15.760'
   lines:
@@ -2554,12 +2554,12 @@ units:
   start: !human_time '01:10:13.720'
 - end: !human_time '01:10:18.520'
   lines:
-  - "Iar tu, t\xE2n\u0103r\u0103 domni\u015Foar\u0103,"
+  - "Iar tu, t\xE2n\u0103r\u0103 domni\u0219oar\u0103,"
   start: !human_time '01:10:16.160'
 - end: !human_time '01:10:21.560'
   lines:
   - cea care ia decizii,
-  - "plin\u0103 de \xEEncredere \u015Fi cu spirit."
+  - "plin\u0103 de \xEEncredere \u0219i cu spirit."
   start: !human_time '01:10:18.560'
 - end: !human_time '01:10:27.320'
   lines:
@@ -2567,11 +2567,11 @@ units:
   start: !human_time '01:10:24.760'
 - end: !human_time '01:10:31.920'
   lines:
-  - "\u0162ine-te de treab\u0103 \u015Fi \xEEn continuare."
+  - "\u021Aine-te de treab\u0103 \u0219i \xEEn continuare."
   start: !human_time '01:10:29.480'
 - end: !human_time '01:10:33.840'
   lines:
-  - "Mul\u0163umesc."
+  - "Mul\u021Bumesc."
   start: !human_time '01:10:31.960'
 - end: !human_time '01:10:36.760'
   lines:
@@ -2583,7 +2583,7 @@ units:
   start: !human_time '01:10:37.880'
 - end: !human_time '01:10:44.280'
   lines:
-  - "V\u0103d c\u0103 \u0163i-ai f\u0103cut ni\u015Fte prieteni noi?"
+  - "V\u0103d c\u0103 \u021Bi-ai f\u0103cut ni\u0219te prieteni noi?"
   start: !human_time '01:10:41.280'
 - end: !human_time '01:10:47.960'
   lines:
@@ -2595,12 +2595,12 @@ units:
   start: !human_time '01:10:47.961'
 - end: !human_time '01:10:53.280'
   lines:
-  - "Nu exist\u0103 dar mai de pre\u0163"
+  - "Nu exist\u0103 dar mai de pre\u021B"
   - ca prietenia.
   start: !human_time '01:10:50.280'
 - end: !human_time '01:10:57.520'
   lines:
-  - "\u015Ei c\u0103 tot veni vorba de cadouri..."
+  - "\u0218i c\u0103 tot veni vorba de cadouri..."
   start: !human_time '01:10:54.920'
 - end: !human_time '01:11:05.560'
   lines:
@@ -2628,12 +2628,12 @@ units:
   start: !human_time '01:12:17.320'
 - end: !human_time '01:12:38.000'
   lines:
-  - "Acest clopo\u0163el e un minunat simbol"
+  - "Acest clopo\u021Bel e un minunat simbol"
   - "al spiritului Cr\u0103ciunului..."
   start: !human_time '01:12:35.000'
 - end: !human_time '01:12:40.721'
   lines:
-  - "...ca \u015Fi mine."
+  - "...ca \u0219i mine."
   start: !human_time '01:12:39.721'
 - end: !human_time '01:12:44.400'
   lines:
@@ -2650,11 +2650,11 @@ units:
   start: !human_time '01:13:00.560'
 - end: !human_time '01:13:07.040'
   lines:
-  - "Mai bine l-ai \u0163ine \xEEntr-un loc sigur."
+  - "Mai bine l-ai \u021Bine \xEEntr-un loc sigur."
   start: !human_time '01:13:04.240'
 - end: !human_time '01:13:29.880'
   lines:
-  - "E\u015Fti cel mai norocos!"
+  - "E\u0219ti cel mai norocos!"
   start: !human_time '01:13:27.240'
 - end: !human_time '01:13:53.319'
   lines:
@@ -2663,7 +2663,7 @@ units:
   start: !human_time '01:13:51.500'
 - end: !human_time '01:13:58.620'
   lines:
-  - "Prancer, a\u015Fa te vreau, fata mea."
+  - "Prancer, a\u0219a te vreau, fata mea."
   start: !human_time '01:13:57.000'
 - end: !human_time '01:14:05.519'
   lines:
@@ -2672,11 +2672,11 @@ units:
 - end: !human_time '01:14:39.320'
   lines:
   - Acum, Dasher.
-  - "Acum, Prancer \u015Fi Vixen."
+  - "Acum, Prancer \u0219i Vixen."
   start: !human_time '01:14:36.320'
 - end: !human_time '01:14:50.919'
   lines:
-  - "E exact a\u015Fa cum visam c-o s\u0103 fie."
+  - "E exact a\u0219a cum visam c-o s\u0103 fie."
   start: !human_time '01:14:49.009'
 - end: !human_time '01:14:53.920'
   lines:
@@ -2696,7 +2696,7 @@ units:
   start: !human_time '01:15:49.000'
 - end: !human_time '01:16:23.800'
   lines:
-  - "S\u0103 ave\u0163i biletele preg\u0103tite."
+  - "S\u0103 ave\u021Bi biletele preg\u0103tite."
   start: !human_time '01:16:20.800'
 - end: !human_time '01:16:39.160'
   lines:
@@ -2716,23 +2716,23 @@ units:
   start: !human_time '01:16:50.641'
 - end: !human_time '01:16:54.799'
   lines:
-  - "<i>Lean (\xCEnva\u0163\u0103).</i>"
+  - "<i>Lean (\xCEnva\u021B\u0103).</i>"
   start: !human_time '01:16:53.205'
 - end: !human_time '01:16:57.720'
   lines:
-  - "Vrei s\u0103 spui c\u0103 nu \u015Ftiu s\u0103..."
+  - "Vrei s\u0103 spui c\u0103 nu \u0219tiu s\u0103..."
   start: !human_time '01:16:54.800'
 - end: !human_time '01:16:59.480'
   lines:
-  - "\xCEmi pare r\u0103u, scria \"\xEEnva\u0163\u0103\"."
+  - "\xCEmi pare r\u0103u, scria \"\xEEnva\u021B\u0103\"."
   start: !human_time '01:16:57.760'
 - end: !human_time '01:17:01.200'
   lines:
-  - "Gre\u015Feala mea."
+  - "Gre\u0219eala mea."
   start: !human_time '01:16:59.481'
 - end: !human_time '01:17:03.400'
   lines:
-  - "Lec\u0163ie \xEEnv\u0103\u0163at\u0103."
+  - "Lec\u021Bie \xEEnv\u0103\u021Bat\u0103."
   start: !human_time '01:17:01.240'
 - end: !human_time '01:17:05.320'
   lines:
@@ -2756,12 +2756,12 @@ units:
   start: !human_time '01:17:20.920'
 - end: !human_time '01:17:24.000'
   lines:
-  - "Cu siguran\u0163\u0103."
+  - "Cu siguran\u021B\u0103."
   start: !human_time '01:17:22.461'
 - end: !human_time '01:17:27.040'
   lines:
-  - "Te po\u0163i baza pe noi s\u0103 te ducem"
-  - "\xEEn siguran\u0163\u0103 acas\u0103?"
+  - "Te po\u021Bi baza pe noi s\u0103 te ducem"
+  - "\xEEn siguran\u021B\u0103 acas\u0103?"
   start: !human_time '01:17:24.040'
 - end: !human_time '01:17:31.440'
   lines:
@@ -2773,7 +2773,7 @@ units:
   start: !human_time '01:17:32.080'
 - end: !human_time '01:17:35.600'
   lines:
-  - "...c\xE2t \u015Fi cu prietenii mei."
+  - "...c\xE2t \u0219i cu prietenii mei."
   start: !human_time '01:17:34.600'
 - end: !human_time '01:17:41.200'
   lines:
@@ -2789,7 +2789,7 @@ units:
   start: !human_time '01:17:48.600'
 - end: !human_time '01:17:54.000'
   lines:
-  - "Nu mai \xEEnseamn\u0103 \u015Fi \"condu\"?"
+  - "Nu mai \xEEnseamn\u0103 \u0219i \"condu\"?"
   start: !human_time '01:17:51.520'
 - end: !human_time '01:17:57.200'
   lines:
@@ -2818,11 +2818,11 @@ units:
   start: !human_time '01:18:19.320'
 - end: !human_time '01:18:38.680'
   lines:
-  - "Haide, arat\u0103-ne clopo\u0163elul."
+  - "Haide, arat\u0103-ne clopo\u021Belul."
   start: !human_time '01:18:35.840'
 - end: !human_time '01:18:40.980'
   lines:
-  - "Da, vrem s\u0103 vedem clopo\u0163elul."
+  - "Da, vrem s\u0103 vedem clopo\u021Belul."
   start: !human_time '01:18:38.960'
 - end: !human_time '01:18:49.920'
   lines:
@@ -2834,12 +2834,12 @@ units:
   start: !human_time '01:18:51.200'
 - end: !human_time '01:18:55.320'
   lines:
-  - "Am pierdut clopo\u0163elul de"
-  - "pe sania lui Mo\u015F Cr\u0103ciun."
+  - "Am pierdut clopo\u021Belul de"
+  - "pe sania lui Mo\u0219 Cr\u0103ciun."
   start: !human_time '01:18:52.574'
 - end: !human_time '01:19:01.320'
   lines:
-  - "Nu-\u0163i face griji."
+  - "Nu-\u021Bi face griji."
   start: !human_time '01:18:59.240'
 - end: !human_time '01:19:03.320'
   lines:
@@ -2847,7 +2847,7 @@ units:
   start: !human_time '01:19:01.360'
 - end: !human_time '01:19:05.720'
   lines:
-  - "Te vom ajuta cu to\u0163i."
+  - "Te vom ajuta cu to\u021Bi."
   start: !human_time '01:19:03.360'
 - end: !human_time '01:19:07.780'
   lines:
@@ -2895,7 +2895,7 @@ units:
   start: !human_time '01:20:32.800'
 - end: !human_time '01:20:42.560'
   lines:
-  - "\xCE\u0163i mul\u0163umesc c-ai oprit"
+  - "\xCE\u021Bi mul\u021Bumesc c-ai oprit"
   - trenul pentru mine.
   start: !human_time '01:20:39.560'
 - end: !human_time '01:20:50.440'
@@ -2904,7 +2904,7 @@ units:
   start: !human_time '01:20:48.000'
 - end: !human_time '01:20:54.520'
   lines:
-  - "Ai grij\u0103 unde p\u0103\u015Fe\u015Fti, te rog."
+  - "Ai grij\u0103 unde p\u0103\u0219e\u0219ti, te rog."
   start: !human_time '01:20:51.520'
 - end: !human_time '01:20:57.760'
   lines:
@@ -2916,12 +2916,12 @@ units:
   start: !human_time '01:21:13.600'
 - end: !human_time '01:21:20.480'
   lines:
-  - "Mo\u015Ful a ajuns deja la Billy."
+  - "Mo\u0219ul a ajuns deja la Billy."
   start: !human_time '01:21:17.480'
 - end: !human_time '01:21:25.400'
   lines:
-  - "Uita\u0163i!"
-  - "Mo\u015Ful a fost aici!"
+  - "Uita\u021Bi!"
+  - "Mo\u0219ul a fost aici!"
   start: !human_time '01:21:22.920'
 - end: !human_time '01:21:27.520'
   lines:
@@ -2937,7 +2937,7 @@ units:
   start: !human_time '01:21:35.960'
 - end: !human_time '01:22:24.480'
   lines:
-  - "\xCEmi pare r\u0103u pentru clopo\u0163el."
+  - "\xCEmi pare r\u0103u pentru clopo\u021Bel."
   start: !human_time '01:22:22.480'
 - end: !human_time '01:22:27.280'
   lines:
@@ -2945,7 +2945,7 @@ units:
   start: !human_time '01:22:25.280'
 - end: !human_time '01:22:29.680'
   lines:
-  - "\u015Etii cum se spune,"
+  - "\u0218tii cum se spune,"
   start: !human_time '01:22:28.040'
 - end: !human_time '01:22:32.400'
   lines:
@@ -2969,15 +2969,15 @@ units:
   start: !human_time '01:22:44.160'
 - end: !human_time '01:23:01.920'
   lines:
-  - "Ai grij\u0103 unde p\u0103\u015Fe\u015Fti, te rog."
+  - "Ai grij\u0103 unde p\u0103\u0219e\u0219ti, te rog."
   start: !human_time '01:22:59.480'
 - end: !human_time '01:23:04.080'
   lines:
-  - "Mul\u0163umesc."
+  - "Mul\u021Bumesc."
   start: !human_time '01:23:02.640'
 - end: !human_time '01:23:05.520'
   lines:
-  - "Nu, eu \xEE\u0163i mul\u0163umesc."
+  - "Nu, eu \xEE\u021Bi mul\u021Bumesc."
   start: !human_time '01:23:04.081'
 - end: !human_time '01:23:10.480'
   lines:
@@ -3002,23 +3002,23 @@ units:
   start: !human_time '01:23:39.920'
 - end: !human_time '01:24:52.280'
   lines:
-  - "Treze\u015Fte-te!"
+  - "Treze\u0219te-te!"
   start: !human_time '01:24:50.160'
 - end: !human_time '01:24:54.400'
   lines:
-  - "Mo\u015Ful a fost pe aici."
+  - "Mo\u0219ul a fost pe aici."
   start: !human_time '01:24:52.281'
 - end: !human_time '01:24:57.000'
   lines:
-  - "Gr\u0103be\u015Fte-te."
+  - "Gr\u0103be\u0219te-te."
   start: !human_time '01:24:54.440'
 - end: !human_time '01:24:59.640'
   lines:
-  - "Mam\u0103, tat\u0103, trezi\u0163i-v\u0103!"
+  - "Mam\u0103, tat\u0103, trezi\u021Bi-v\u0103!"
   start: !human_time '01:24:57.040'
 - end: !human_time '01:25:02.680'
   lines:
-  - "Mo\u015Ful a fost aici!"
+  - "Mo\u0219ul a fost aici!"
   start: !human_time '01:24:59.680'
 - end: !human_time '01:25:05.961'
   lines:
@@ -3050,7 +3050,7 @@ units:
   start: !human_time '01:26:06.520'
 - end: !human_time '01:26:11.520'
   lines:
-  - "<i>Mai bine \u0163i-ai coase gaura"
+  - "<i>Mai bine \u021Bi-ai coase gaura"
   - de la buzunar.</i>
   start: !human_time '01:26:09.000'
 - end: !human_time '01:26:13.440'
@@ -3059,7 +3059,7 @@ units:
   start: !human_time '01:26:11.560'
 - end: !human_time '01:26:24.200'
   lines:
-  - "Ce clopo\u0163el frumos."
+  - "Ce clopo\u021Bel frumos."
   start: !human_time '01:26:22.360'
 - end: !human_time '01:26:25.280'
   lines:
@@ -3067,11 +3067,11 @@ units:
   start: !human_time '01:26:24.240'
 - end: !human_time '01:26:26.320'
   lines:
-  - "De la Mo\u015Ful."
+  - "De la Mo\u0219ul."
   start: !human_time '01:26:25.281'
 - end: !human_time '01:26:28.760'
   lines:
-  - "De la Mo\u015Ful?"
+  - "De la Mo\u0219ul?"
   start: !human_time '01:26:26.360'
 - end: !human_time '01:26:31.660'
   lines:
@@ -3091,12 +3091,12 @@ units:
   start: !human_time '01:26:35.680'
 - end: !human_time '01:26:45.080'
   lines:
-  - "Haide\u0163i, copii, nu trebuie s\u0103 \xEEnt\xE2rziem."
+  - "Haide\u021Bi, copii, nu trebuie s\u0103 \xEEnt\xE2rziem."
   start: !human_time '01:26:42.080'
 - end: !human_time '01:26:56.480'
   lines:
-  - "<i>La un moment dat, to\u0163i prietenii"
-  - "mei puteau auzi clopo\u0163elul.</i>"
+  - "<i>La un moment dat, to\u021Bi prietenii"
+  - "mei puteau auzi clopo\u021Belul.</i>"
   start: !human_time '01:26:53.480'
 - end: !human_time '01:26:58.920'
   lines:
@@ -3109,7 +3109,7 @@ units:
   start: !human_time '01:26:58.921'
 - end: !human_time '01:27:02.726'
   lines:
-  - "<i>Chiar \u015Fi Sarah a realizat,"
+  - "<i>Chiar \u0219i Sarah a realizat,"
   - "odat\u0103 de Cr\u0103ciun,</i>"
   start: !human_time '01:27:00.920'
 - end: !human_time '01:27:05.735'
@@ -3119,15 +3119,15 @@ units:
   start: !human_time '01:27:02.735'
 - end: !human_time '01:27:07.840'
   lines:
-  - "<i>De\u015Fi am \xEEmb\u0103tr\u0103nit,</i>"
+  - "<i>De\u0219i am \xEEmb\u0103tr\u0103nit,</i>"
   start: !human_time '01:27:05.920'
 - end: !human_time '01:27:10.280'
   lines:
-  - "<i>clopo\u0163elul sun\u0103 \xEEn continuare"
+  - "<i>clopo\u021Belul sun\u0103 \xEEn continuare"
   - pentru mine.</i>
   start: !human_time '01:27:07.880'
 - end: !human_time '01:27:13.320'
   lines:
-  - "<i>La fel cum sun\u0103 \u015Fi pentru"
-  - "to\u0163i aceia care cred cu adev\u0103rat.</i>"
+  - "<i>La fel cum sun\u0103 \u0219i pentru"
+  - "to\u021Bi aceia care cred cu adev\u0103rat.</i>"
   start: !human_time '01:27:10.320'

@@ -2,15 +2,15 @@
 units:
 - end: !human_time '00:00:06.473'
   lines:
-  - "\u0104Monica!"
+  - "\xA1Monica!"
   start: !human_time '00:00:05.672'
 - end: !human_time '00:00:07.774'
   lines:
-  - "\u017CMe prestas el Porsche?"
+  - "\xBFMe prestas el Porsche?"
   start: !human_time '00:00:06.473'
 - end: !human_time '00:00:12.980'
   lines:
-  - "\u017CQu\xE9 es lo que est\xE1 prohibido?"
+  - "\xBFQu\xE9 es lo que est\xE1 prohibido?"
   start: !human_time '00:00:11.979'
 - end: !human_time '00:00:15.582'
   lines:
@@ -18,7 +18,7 @@ units:
   start: !human_time '00:00:13.881'
 - end: !human_time '00:00:19.052'
   lines:
-  - "\u017CY qu\xE9 m\xE1s?"
+  - "\xBFY qu\xE9 m\xE1s?"
   start: !human_time '00:00:17.351'
 - end: !human_time '00:00:21.255'
   lines:
@@ -31,7 +31,7 @@ units:
   start: !human_time '00:00:22.556'
 - end: !human_time '00:00:24.558'
   lines:
-  - "\u017CY para qu\xE9 lo quieres?"
+  - "\xBFY para qu\xE9 lo quieres?"
   start: !human_time '00:00:23.557'
 - end: !human_time '00:00:27.461'
   lines:
@@ -44,7 +44,7 @@ units:
   start: !human_time '00:00:27.461'
 - end: !human_time '00:00:30.864'
   lines:
-  - "\u017CEntonces ir\xE1s a Connecticut?"
+  - "\xBFEntonces ir\xE1s a Connecticut?"
   start: !human_time '00:00:29.263'
 - end: !human_time '00:00:34.568'
   lines:
@@ -68,11 +68,11 @@ units:
   start: !human_time '00:00:44.878'
 - end: !human_time '00:00:51.552'
   lines:
-  - "\u017C300 millones? \u0104No, gracias!"
+  - "\xBF300 millones? \xA1No, gracias!"
   start: !human_time '00:00:48.182'
 - end: !human_time '00:00:52.953'
   lines:
-  - "-\u017CComprar\xEDan billetes para m\xED?"
+  - "-\xBFComprar\xEDan billetes para m\xED?"
   start: !human_time '00:00:51.552'
 - end: !human_time '00:00:54.054'
   lines:
@@ -81,7 +81,7 @@ units:
   start: !human_time '00:00:52.953'
 - end: !human_time '00:00:57.057'
   lines:
-  - "\u0104Oh! Tengo una idea."
+  - "\xA1Oh! Tengo una idea."
   - "Por qu\xE9 no ponemos 50 d\xF3lares cada uno,"
   start: !human_time '00:00:54.054'
 - end: !human_time '00:01:00.861'
@@ -91,8 +91,8 @@ units:
   start: !human_time '00:00:57.057'
 - end: !human_time '00:01:03.263'
   lines:
-  - "-\u0104Buena idea!"
-  - "-\u0104Genial!"
+  - "-\xA1Buena idea!"
+  - "-\xA1Genial!"
   start: !human_time '00:01:00.861'
 - end: !human_time '00:01:04.565'
   lines:
@@ -100,7 +100,7 @@ units:
   start: !human_time '00:01:03.564'
 - end: !human_time '00:01:07.968'
   lines:
-  - "\u017CNo quieres ganar la loter\xEDa?"
+  - "\xBFNo quieres ganar la loter\xEDa?"
   start: !human_time '00:01:06.266'
 - end: !human_time '00:01:10.671'
   lines:
@@ -113,19 +113,19 @@ units:
   start: !human_time '00:01:10.671'
 - end: !human_time '00:01:15.676'
   lines:
-  - "-\u017CSigues con Emilia Earhart?"
+  - "-\xBFSigues con Emilia Earhart?"
   start: !human_time '00:01:14.575'
 - end: !human_time '00:01:17.377'
   lines:
-  - "-\u0104La mujer desapareci\xF3!"
+  - "-\xA1La mujer desapareci\xF3!"
   start: !human_time '00:01:16.276'
 - end: !human_time '00:01:20.981'
   lines:
-  - "Perdona, Ross, \u017Cno te nos unes?"
+  - "Perdona, Ross, \xBFno te nos unes?"
   start: !human_time '00:01:19.379'
 - end: !human_time '00:01:24.952'
   lines:
-  - "\u0104No! \u017CSabes qu\xE9 probabilidades"
+  - "\xA1No! \xBFSabes qu\xE9 probabilidades"
   - "tienes de ganar la loter\xEDa?"
   start: !human_time '00:01:20.981'
 - end: !human_time '00:01:28.255'
@@ -140,7 +140,7 @@ units:
   start: !human_time '00:01:28.255'
 - end: !human_time '00:01:32.960'
   lines:
-  - "\u0104Me gustan esas probabilidades!"
+  - "\xA1Me gustan esas probabilidades!"
   start: !human_time '00:01:31.358'
 - end: !human_time '00:01:39.266'
   lines:
@@ -157,7 +157,7 @@ units:
   start: !human_time '00:01:45.072'
 - end: !human_time '00:01:48.976'
   lines:
-  - "\u017C\"Chorrada\"?"
+  - "\xBF\"Chorrada\"?"
   start: !human_time '00:01:48.175'
 - end: !human_time '00:01:52.779'
   lines:
@@ -176,7 +176,7 @@ units:
   start: !human_time '00:01:56.250'
 - end: !human_time '00:02:05.158'
   lines:
-  - "\u017CC\xF3mo saben que va a empezar a hablar?"
+  - "\xBFC\xF3mo saben que va a empezar a hablar?"
   start: !human_time '00:02:03.257'
 - end: !human_time '00:02:08.562'
   lines:
@@ -189,7 +189,7 @@ units:
   start: !human_time '00:02:08.862'
 - end: !human_time '00:02:13.267'
   lines:
-  - "\u017CQu\xE9 pasa ahora?"
+  - "\xBFQu\xE9 pasa ahora?"
   start: !human_time '00:02:12.666'
 - end: !human_time '00:02:19.673'
   lines:
@@ -209,8 +209,8 @@ units:
   start: !human_time '00:02:29.349'
 - end: !human_time '00:03:09.256'
   lines:
-  - "\u0104Miren todos estos billetes!"
-  - "\u0104Es tan emocionante!"
+  - "\xA1Miren todos estos billetes!"
+  - "\xA1Es tan emocionante!"
   start: !human_time '00:03:05.853'
 - end: !human_time '00:03:11.859'
   lines:
@@ -218,11 +218,11 @@ units:
   start: !human_time '00:03:09.256'
 - end: !human_time '00:03:14.461'
   lines:
-  - "\u017CUn concurso de comer tortas?"
+  - "\xBFUn concurso de comer tortas?"
   start: !human_time '00:03:11.859'
 - end: !human_time '00:03:19.466'
   lines:
-  - "\u017CSupones que s\xF3lo as\xED pod\xEDa ganar"
+  - "\xBFSupones que s\xF3lo as\xED pod\xEDa ganar"
   - ' algo porque era gorda?'
   start: !human_time '00:03:15.262'
 - end: !human_time '00:03:23.170'
@@ -236,8 +236,8 @@ units:
   start: !human_time '00:03:23.170'
 - end: !human_time '00:03:28.876'
   lines:
-  - "\u0104Se llevan tu coche!"
-  - "\u0104Se llevan tu coche!"
+  - "\xA1Se llevan tu coche!"
+  - "\xA1Se llevan tu coche!"
   start: !human_time '00:03:26.573'
 - end: !human_time '00:03:30.377'
   lines:
@@ -257,25 +257,25 @@ units:
   start: !human_time '00:03:35.249'
 - end: !human_time '00:03:39.553'
   lines:
-  - "\u0104Ross, no tienes a Emma!"
+  - "\xA1Ross, no tienes a Emma!"
   start: !human_time '00:03:37.551'
 - end: !human_time '00:03:41.855'
   lines:
-  - "\u0104Rach, t\xFA tampoco! \u0104\u017CD\xF3nde est\xE1 Emma?!"
-  - "\u0104\u017CQui\xE9n tiene a Emma?!"
+  - "\xA1Rach, t\xFA tampoco! \xA1\xBFD\xF3nde est\xE1 Emma?!"
+  - "\xA1\xBFQui\xE9n tiene a Emma?!"
   start: !human_time '00:03:39.553'
 - end: !human_time '00:03:45.158'
   lines:
-  - "\u0104Joey, tranquilo!"
-  - "\u0104Mi madre la recogi\xF3 hace dos horas!"
+  - "\xA1Joey, tranquilo!"
+  - "\xA1Mi madre la recogi\xF3 hace dos horas!"
   start: !human_time '00:03:41.855'
 - end: !human_time '00:03:46.360'
   lines:
-  - "\u0104T\xFA estabas ah\xED!"
+  - "\xA1T\xFA estabas ah\xED!"
   start: !human_time '00:03:45.158'
 - end: !human_time '00:03:49.062'
   lines:
-  - "\u017CDe veras?"
+  - "\xBFDe veras?"
   start: !human_time '00:03:48.362'
 - end: !human_time '00:03:51.665'
   lines:
@@ -283,7 +283,7 @@ units:
   start: !human_time '00:03:49.563'
 - end: !human_time '00:03:52.566'
   lines:
-  - "\u017CEn serio?"
+  - "\xBFEn serio?"
   start: !human_time '00:03:51.865'
 - end: !human_time '00:03:55.169'
   lines:
@@ -291,11 +291,11 @@ units:
   start: !human_time '00:03:53.166'
 - end: !human_time '00:03:57.371'
   lines:
-  - "\u0104Ah, s\xED! \"La se\u0144ora de la cazuela\""
+  - "\xA1Ah, s\xED! \"La se\xF1ora de la cazuela\""
   start: !human_time '00:03:55.169'
 - end: !human_time '00:04:00.774'
   lines:
-  - "\u017CViniste a ver c\xF3mo nos llenamos"
+  - "\xBFViniste a ver c\xF3mo nos llenamos"
   - de dinero?
   start: !human_time '00:03:58.572'
 - end: !human_time '00:04:04.378'
@@ -310,20 +310,20 @@ units:
   start: !human_time '00:04:04.378'
 - end: !human_time '00:04:12.452'
   lines:
-  - "\u0104No toquen el tel\xE9fono!"
-  - "\u0104Yo atiendo! \u0104Yo atiendo!"
+  - "\xA1No toquen el tel\xE9fono!"
+  - "\xA1Yo atiendo! \xA1Yo atiendo!"
   start: !human_time '00:04:10.250'
 - end: !human_time '00:04:14.555'
   lines:
-  - "\u017CCrees que se lav\xF3 las manos?"
+  - "\xBFCrees que se lav\xF3 las manos?"
   start: !human_time '00:04:12.953'
 - end: !human_time '00:04:16.857'
   lines:
-  - "\u017CHola? Charlie, \u017Cc\xF3mo va?"
+  - "\xBFHola? Charlie, \xBFc\xF3mo va?"
   start: !human_time '00:04:15.756'
 - end: !human_time '00:04:17.558'
   lines:
-  - "\u017CQu\xE9 pasa?"
+  - "\xBFQu\xE9 pasa?"
   start: !human_time '00:04:16.857'
 - end: !human_time '00:04:21.361'
   lines:
@@ -337,7 +337,7 @@ units:
   start: !human_time '00:04:21.361'
 - end: !human_time '00:04:25.766'
   lines:
-  - "\u0104Oh! Qu\xE9 pocas probabilidades."
+  - "\xA1Oh! Qu\xE9 pocas probabilidades."
   start: !human_time '00:04:24.264'
 - end: !human_time '00:04:29.469'
   lines:
@@ -346,11 +346,11 @@ units:
   start: !human_time '00:04:25.766'
 - end: !human_time '00:04:33.774'
   lines:
-  - "\u0104Miren qui\xE9n se est\xE1 arrepintiendo!"
+  - "\xA1Miren qui\xE9n se est\xE1 arrepintiendo!"
   start: !human_time '00:04:31.371'
 - end: !human_time '00:04:35.876'
   lines:
-  - "\u0104Maldici\xF3n!"
+  - "\xA1Maldici\xF3n!"
   start: !human_time '00:04:35.275'
 - end: !human_time '00:04:37.978'
   lines:
@@ -358,7 +358,7 @@ units:
   start: !human_time '00:04:36.276'
 - end: !human_time '00:04:41.148'
   lines:
-  - "\u017CLo conseguiste?"
+  - "\xBFLo conseguiste?"
   start: !human_time '00:04:40.080'
 - end: !human_time '00:04:43.550'
   lines:
@@ -366,11 +366,11 @@ units:
   start: !human_time '00:04:41.648'
 - end: !human_time '00:04:44.251'
   lines:
-  - "\u017CContigo?"
+  - "\xBFContigo?"
   start: !human_time '00:04:43.550'
 - end: !human_time '00:04:47.754'
   lines:
-  - "\u0104Siente el tono de voz!"
+  - "\xA1Siente el tono de voz!"
   start: !human_time '00:04:46.053'
 - end: !human_time '00:04:51.458'
   lines:
@@ -378,16 +378,16 @@ units:
   start: !human_time '00:04:49.056'
 - end: !human_time '00:04:55.262'
   lines:
-  - "\u0104Odio a ese tipo!"
-  - "\u0104Vamos, chico, s\xFAbete los pantalones!"
+  - "\xA1Odio a ese tipo!"
+  - "\xA1Vamos, chico, s\xFAbete los pantalones!"
   start: !human_time '00:04:51.458'
 - end: !human_time '00:04:57.764'
   lines:
-  - "Todav\xEDa quedan dos lugares, \u017Cno?"
+  - "Todav\xEDa quedan dos lugares, \xBFno?"
   start: !human_time '00:04:55.762'
 - end: !human_time '00:05:02.769'
   lines:
-  - "S\xED, \u0104lo deseo tanto! ... Lo quiero yo,"
+  - "S\xED, \xA1lo deseo tanto! ... Lo quiero yo,"
   - quiero que Charlie lo tenga...
   start: !human_time '00:04:57.764'
 - end: !human_time '00:05:05.172'
@@ -401,7 +401,7 @@ units:
   start: !human_time '00:05:08.775'
 - end: !human_time '00:05:15.148'
   lines:
-  - "\u0104y dijo que esta noche iba a ganar"
+  - "\xA1y dijo que esta noche iba a ganar"
   - "la loter\xEDa!"
   start: !human_time '00:05:11.879'
 - end: !human_time '00:05:19.653'
@@ -416,16 +416,16 @@ units:
   start: !human_time '00:05:19.653'
 - end: !human_time '00:05:24.258'
   lines:
-  - "\u0104Una vidente y un hueso de la suerte!"
+  - "\xA1Una vidente y un hueso de la suerte!"
   start: !human_time '00:05:21.555'
 - end: !human_time '00:05:26.960'
   lines:
-  - "\u0104Denle una oportunidad a los dem\xE1s!"
+  - "\xA1Denle una oportunidad a los dem\xE1s!"
   start: !human_time '00:05:24.258'
 - end: !human_time '00:05:30.464'
   lines:
-  - "-\u017CQui\xE9n quiere hacerlo?"
-  - "-\u017CPuedo?"
+  - "-\xBFQui\xE9n quiere hacerlo?"
+  - "-\xBFPuedo?"
   start: !human_time '00:05:28.862'
 - end: !human_time '00:05:32.966'
   lines:
@@ -434,7 +434,7 @@ units:
   start: !human_time '00:05:30.864'
 - end: !human_time '00:05:35.769'
   lines:
-  - "\u0104Es muy injusto!"
+  - "\xA1Es muy injusto!"
   start: !human_time '00:05:33.967'
 - end: !human_time '00:05:37.571'
   lines:
@@ -443,7 +443,7 @@ units:
   start: !human_time '00:05:35.769'
 - end: !human_time '00:05:39.273'
   lines:
-  - "\u0104Rach!"
+  - "\xA1Rach!"
   start: !human_time '00:05:37.571'
 - end: !human_time '00:05:45.379'
   lines:
@@ -452,17 +452,17 @@ units:
   start: !human_time '00:05:42.276'
 - end: !human_time '00:05:47.848'
   lines:
-  - "\u0104Yo lo har\xE9! As\xED se me ir\xE1"
+  - "\xA1Yo lo har\xE9! As\xED se me ir\xE1"
   - el olor de la cazuela.
   start: !human_time '00:05:45.379'
 - end: !human_time '00:05:52.252'
   lines:
-  - "\u0104Ojal\xE1 gane yo!"
+  - "\xA1Ojal\xE1 gane yo!"
   start: !human_time '00:05:51.351'
 - end: !human_time '00:05:55.956'
   lines:
   - En realidad, no importa, si ambos
-  - "desean lo mismo, \u017Cno?"
+  - "desean lo mismo, \xBFno?"
   start: !human_time '00:05:52.653'
 - end: !human_time '00:06:00.460'
   lines:
@@ -480,25 +480,25 @@ units:
 - end: !human_time '00:06:09.970'
   lines:
   - Te entiendo, pero deseas lo que
-  - "creemos que deseas, \u017Cverdad?"
+  - "creemos que deseas, \xBFverdad?"
   start: !human_time '00:06:06.867'
 - end: !human_time '00:06:12.673'
   lines:
-  - "\u0104No me siento bien con estas"
+  - "\xA1No me siento bien con estas"
   - preguntas!
   start: !human_time '00:06:10.370'
 - end: !human_time '00:06:15.075'
   lines:
-  - "-\u0104Por favor!"
-  - "-\u0104S\xF3lo hazlo!"
+  - "-\xA1Por favor!"
+  - "-\xA1S\xF3lo hazlo!"
   start: !human_time '00:06:13.774'
 - end: !human_time '00:06:17.678'
   lines:
-  - "Uno, dos... \u0104tres!"
+  - "Uno, dos... \xA1tres!"
   start: !human_time '00:06:15.075'
 - end: !human_time '00:06:19.880'
   lines:
-  - "\u0104Gan\xE9!"
+  - "\xA1Gan\xE9!"
   start: !human_time '00:06:17.678'
 - end: !human_time '00:06:22.649'
   lines:
@@ -512,11 +512,11 @@ units:
   start: !human_time '00:06:22.649'
 - end: !human_time '00:06:30.357'
   lines:
-  - "\u0104Est\xE1 caliente!"
+  - "\xA1Est\xE1 caliente!"
   start: !human_time '00:06:28.956'
 - end: !human_time '00:06:35.562'
   lines:
-  - "Sigue con tus bromas. \u017CPero c\xF3mo"
+  - "Sigue con tus bromas. \xBFPero c\xF3mo"
   - "te sentir\xE1s si de veras ganamos?"
   start: !human_time '00:06:31.558'
 - end: !human_time '00:06:37.064'
@@ -525,7 +525,7 @@ units:
   start: !human_time '00:06:35.562'
 - end: !human_time '00:06:39.066'
   lines:
-  - "\u0104Oh! Ya s\xE9:"
+  - "\xA1Oh! Ya s\xE9:"
   - no tenemos probabilidades.
   start: !human_time '00:06:37.064'
 - end: !human_time '00:06:41.668'
@@ -535,7 +535,7 @@ units:
   start: !human_time '00:06:39.066'
 - end: !human_time '00:06:42.870'
   lines:
-  - "\u017CY t\xFA c\xF3mo te sentir\xE1s?"
+  - "\xBFY t\xFA c\xF3mo te sentir\xE1s?"
   start: !human_time '00:06:41.668'
 - end: !human_time '00:06:46.874'
   lines:
@@ -563,7 +563,7 @@ units:
   start: !human_time '00:07:03.257'
 - end: !human_time '00:07:09.263'
   lines:
-  - "\u017CPor qu\xE9 me comer\xEDa el brazo?"
+  - "\xBFPor qu\xE9 me comer\xEDa el brazo?"
   start: !human_time '00:07:07.761'
 - end: !human_time '00:07:11.765'
   lines:
@@ -572,12 +572,12 @@ units:
   start: !human_time '00:07:09.263'
 - end: !human_time '00:07:15.869'
   lines:
-  - "\u017CSabes, Ross?"
+  - "\xBFSabes, Ross?"
   - "Pondr\xE9 50 d\xF3lares por ti."
   start: !human_time '00:07:13.467'
 - end: !human_time '00:07:17.471'
   lines:
-  - "\u017CPor qu\xE9?"
+  - "\xBFPor qu\xE9?"
   start: !human_time '00:07:16.670'
 - end: !human_time '00:07:19.673'
   lines:
@@ -614,11 +614,11 @@ units:
   start: !human_time '00:07:37.558'
 - end: !human_time '00:07:42.362'
   lines:
-  - "\u0104Vayan a una habitaci\xF3n!"
+  - "\xA1Vayan a una habitaci\xF3n!"
   start: !human_time '00:07:40.961'
 - end: !human_time '00:07:49.570'
   lines:
-  - "Bien, \u017Centonces ahora"
+  - "Bien, \xBFentonces ahora"
   - "qu\xE9 har\xE1s si ganamos?"
   start: !human_time '00:07:47.167'
 - end: !human_time '00:07:51.872'
@@ -631,21 +631,21 @@ units:
   start: !human_time '00:07:51.872'
 - end: !human_time '00:07:57.477'
   lines:
-  - "\u017CDe veras esa es tu fantas\xEDa?"
-  - "\u017CInvertir?"
+  - "\xBFDe veras esa es tu fantas\xEDa?"
+  - "\xBFInvertir?"
   start: !human_time '00:07:54.775'
 - end: !human_time '00:08:01.348'
   lines:
-  - "\u017CDije \"invertir\"? Quise decir"
+  - "\xBFDije \"invertir\"? Quise decir"
   - '"divertirme y malgastarlo todo"'
   start: !human_time '00:07:57.477'
 - end: !human_time '00:08:05.252'
   lines:
-  - "\u0104Oh! \u0104Ya s\xE9!"
+  - "\xA1Oh! \xA1Ya s\xE9!"
   start: !human_time '00:08:03.650'
 - end: !human_time '00:08:07.955'
   lines:
-  - "\u0104Deber\xEDamos juntar todo el dinero"
+  - "\xA1Deber\xEDamos juntar todo el dinero"
   - y comprar el equipo de los Knicks!
   start: !human_time '00:08:05.252'
 - end: !human_time '00:08:10.457'
@@ -658,8 +658,8 @@ units:
   start: !human_time '00:08:10.457'
 - end: !human_time '00:08:17.764'
   lines:
-  - "\u017CHar\xEDas eso?"
-  - "\u0104A m\xED nunca me eligen!"
+  - "\xBFHar\xEDas eso?"
+  - "\xA1A m\xED nunca me eligen!"
   start: !human_time '00:08:14.061'
 - end: !human_time '00:08:20.767'
   lines:
@@ -668,20 +668,20 @@ units:
   start: !human_time '00:08:18.565'
 - end: !human_time '00:08:21.869'
   lines:
-  - "\u017CNo me vas a dejar comprar a los Kincks?"
+  - "\xBFNo me vas a dejar comprar a los Kincks?"
   start: !human_time '00:08:20.767'
 - end: !human_time '00:08:23.971'
   lines:
-  - "\u0104No puedo creer que me lo impidas!"
+  - "\xA1No puedo creer que me lo impidas!"
   start: !human_time '00:08:22.269'
 - end: !human_time '00:08:27.374'
   lines:
-  - "Tienes raz\xF3n. Ha sido tu sue\u0144o por m\xE1s"
+  - "Tienes raz\xF3n. Ha sido tu sue\xF1o por m\xE1s"
   - de 15 segundos.
   start: !human_time '00:08:24.271'
 - end: !human_time '00:08:31.378'
   lines:
-  - "\u017CCu\xE1nto falta para que digan"
+  - "\xBFCu\xE1nto falta para que digan"
   - "los n\xFAmeros, mami?"
   start: !human_time '00:08:29.076'
 - end: !human_time '00:08:34.548'
@@ -690,7 +690,7 @@ units:
   start: !human_time '00:08:33.080'
 - end: !human_time '00:08:36.350'
   lines:
-  - "Eh... \u017C\"mami\"?"
+  - "Eh... \xBF\"mami\"?"
   start: !human_time '00:08:34.848'
 - end: !human_time '00:08:41.655'
   lines:
@@ -721,11 +721,11 @@ units:
   start: !human_time '00:09:02.476'
 - end: !human_time '00:09:07.047'
   lines:
-  - "\u0104Oooh! \u017CPapi se est\xE1 enojando?"
+  - "\xA1Oooh! \xBFPapi se est\xE1 enojando?"
   start: !human_time '00:09:05.379'
 - end: !human_time '00:09:11.652'
   lines:
-  - "\u017CPapi me dar\xE1 una nalgada?"
+  - "\xBFPapi me dar\xE1 una nalgada?"
   start: !human_time '00:09:10.250'
 - end: !human_time '00:09:16.557'
   lines:
@@ -733,24 +733,24 @@ units:
   start: !human_time '00:09:14.755'
 - end: !human_time '00:09:19.059'
   lines:
-  - "Te has portado muuy ma... \u0104No puedo!"
+  - "Te has portado muuy ma... \xA1No puedo!"
   start: !human_time '00:09:17.457'
 - end: !human_time '00:09:19.860'
   lines:
-  - "Te has portado muuy ma... \u0104No puedo!"
+  - "Te has portado muuy ma... \xA1No puedo!"
   start: !human_time '00:09:19.059'
 - end: !human_time '00:09:26.767'
   lines:
-  - "Hola, Charlie \u017CAlguien m\xE1s?"
+  - "Hola, Charlie \xBFAlguien m\xE1s?"
   start: !human_time '00:09:23.964'
 - end: !human_time '00:09:30.871'
   lines:
-  - "\u017CQu\xE9? \u017CSusan Gaddet?"
-  - "\u017CC\xF3mo?"
+  - "\xBFQu\xE9? \xBFSusan Gaddet?"
+  - "\xBFC\xF3mo?"
   start: !human_time '00:09:28.168'
 - end: !human_time '00:09:33.273'
   lines:
-  - "\u0104Yo quiero acostarme con \xE9l!"
+  - "\xA1Yo quiero acostarme con \xE9l!"
   start: !human_time '00:09:31.371'
 - end: !human_time '00:09:36.276'
   lines:
@@ -762,7 +762,7 @@ units:
   start: !human_time '00:09:37.878'
 - end: !human_time '00:09:40.747'
   lines:
-  - "Pero queda un lugar m\xE1s, \u017Cno?"
+  - "Pero queda un lugar m\xE1s, \xBFno?"
   start: !human_time '00:09:38.979'
 - end: !human_time '00:09:42.049'
   lines:
@@ -775,11 +775,11 @@ units:
   start: !human_time '00:09:42.049'
 - end: !human_time '00:09:48.255'
   lines:
-  - "\xC9l es el hijo del due\u0144o."
+  - "\xC9l es el hijo del due\xF1o."
   start: !human_time '00:09:46.353'
 - end: !human_time '00:09:50.257'
   lines:
-  - "\u0104Vamos con la loter\xEDa!"
+  - "\xA1Vamos con la loter\xEDa!"
   start: !human_time '00:09:48.255'
 - end: !human_time '00:09:53.160'
   lines:
@@ -792,11 +792,11 @@ units:
   start: !human_time '00:09:53.160'
 - end: !human_time '00:10:00.167'
   lines:
-  - "\u017CA alguien se le ocurre algo?"
+  - "\xBFA alguien se le ocurre algo?"
   start: !human_time '00:09:57.664'
 - end: !human_time '00:10:01.869'
   lines:
-  - "\u017CQu\xE9 tal esto?:"
+  - "\xBFQu\xE9 tal esto?:"
   start: !human_time '00:10:00.667'
 - end: !human_time '00:10:05.772'
   lines:
@@ -815,12 +815,12 @@ units:
   start: !human_time '00:10:08.876'
 - end: !human_time '00:10:15.849'
   lines:
-  - "-\u017CEst\xE1n todos los billetes en el bol?"
+  - "-\xBFEst\xE1n todos los billetes en el bol?"
   - "-S\xED."
   start: !human_time '00:10:13.847'
 - end: !human_time '00:10:18.452'
   lines:
-  - "\u017CY los que est\xE1n en la mesa de noche?"
+  - "\xBFY los que est\xE1n en la mesa de noche?"
   start: !human_time '00:10:16.450'
 - end: !human_time '00:10:20.053'
   lines:
@@ -836,12 +836,12 @@ units:
   start: !human_time '00:10:23.257'
 - end: !human_time '00:10:28.161'
   lines:
-  - "Cari\u0144o, hay como veinte billetes"
+  - "Cari\xF1o, hay como veinte billetes"
   - sobre la mesa de noche.
   start: !human_time '00:10:26.560'
 - end: !human_time '00:10:29.963'
   lines:
-  - "Chandler, \u0104siente el tono de voz!"
+  - "Chandler, \xA1siente el tono de voz!"
   start: !human_time '00:10:28.161'
 - end: !human_time '00:10:35.269'
   lines:
@@ -865,20 +865,20 @@ units:
   start: !human_time '00:10:46.380'
 - end: !human_time '00:10:51.251'
   lines:
-  - "\u0104T\xFA te uniste hace cinco minutos!"
+  - "\xA1T\xFA te uniste hace cinco minutos!"
   start: !human_time '00:10:49.149'
 - end: !human_time '00:10:52.953'
   lines:
-  - "\u0104Tres minutos!"
+  - "\xA1Tres minutos!"
   start: !human_time '00:10:51.251'
 - end: !human_time '00:10:55.055'
   lines:
-  - "\u0104No s\xE9 por qu\xE9 eso es importante!"
+  - "\xA1No s\xE9 por qu\xE9 eso es importante!"
   start: !human_time '00:10:52.953'
 - end: !human_time '00:10:59.560'
   lines:
   - Estuvimos juntos todo el tiempo en
-  - "Connecticut.\u017CCu\xE1ndo los compraste?"
+  - "Connecticut.\xBFCu\xE1ndo los compraste?"
   start: !human_time '00:10:55.556'
 - end: !human_time '00:11:03.363'
   lines:
@@ -892,7 +892,7 @@ units:
 - end: !human_time '00:11:11.972'
   lines:
   - Supongamos que uno de tus billetes
-  - "especiales gane,\u017Cc\xF3mo te sentir\xE1s"
+  - "especiales gane,\xBFc\xF3mo te sentir\xE1s"
   start: !human_time '00:11:07.968'
 - end: !human_time '00:11:13.473'
   lines:
@@ -901,17 +901,17 @@ units:
   start: !human_time '00:11:11.972'
 - end: !human_time '00:11:17.678'
   lines:
-  - "\u0104Por favor! Si gano la loter\xEDa,"
+  - "\xA1Por favor! Si gano la loter\xEDa,"
   - ustedes no van a dejarme.
   start: !human_time '00:11:14.074'
 - end: !human_time '00:11:21.949'
   lines:
-  - "\u0104Me dieron una canasta de muffins la semana"
+  - "\xA1Me dieron una canasta de muffins la semana"
   - "pasada y ustedes no me dejaron por tres d\xEDas!"
   start: !human_time '00:11:18.178'
 - end: !human_time '00:11:25.752'
   lines:
-  - "Chandler, \u017Cpuedes decirle que"
+  - "Chandler, \xBFpuedes decirle que"
   - lo que hizo estuvo mal?
   start: !human_time '00:11:23.350'
 - end: !human_time '00:11:28.856'
@@ -934,12 +934,12 @@ units:
   start: !human_time '00:11:32.559'
 - end: !human_time '00:11:37.564'
   lines:
-  - "As\xED que: \u0104J\xF3danse!"
+  - "As\xED que: \xA1J\xF3danse!"
   - Los billetes son nuestros.
   start: !human_time '00:11:35.662'
 - end: !human_time '00:11:41.368'
   lines:
-  - "\u0104Ese es el hombre con el que me cas\xE9!"
+  - "\xA1Ese es el hombre con el que me cas\xE9!"
   start: !human_time '00:11:39.366'
 - end: !human_time '00:11:46.874'
   lines:
@@ -948,7 +948,7 @@ units:
   start: !human_time '00:11:43.170'
 - end: !human_time '00:11:50.878'
   lines:
-  - "\u0104Bien! No sean mis amigos."
+  - "\xA1Bien! No sean mis amigos."
   - "Comprar\xE9 nuevos amigos."
   start: !human_time '00:11:46.874'
 - end: !human_time '00:11:55.549'
@@ -964,11 +964,11 @@ units:
 - end: !human_time '00:12:02.556'
   lines:
   - "Yo tambi\xE9n quiero mis billetes."
-  - "\u0104Y me comprar\xE9 a los Knicks!"
+  - "\xA1Y me comprar\xE9 a los Knicks!"
   start: !human_time '00:11:59.753'
 - end: !human_time '00:12:04.358'
   lines:
-  - "\u0104Y a Steffi Graf!"
+  - "\xA1Y a Steffi Graf!"
   start: !human_time '00:12:02.556'
 - end: !human_time '00:12:07.861'
   lines:
@@ -987,7 +987,7 @@ units:
   start: !human_time '00:12:12.866'
 - end: !human_time '00:12:18.272'
   lines:
-  - "\u0104No! Tenemos que dividirlos,"
+  - "\xA1No! Tenemos que dividirlos,"
   - "y yo tengo que tener m\xE1s"
   start: !human_time '00:12:15.669'
 - end: !human_time '00:12:20.874'
@@ -1001,7 +1001,7 @@ units:
   start: !human_time '00:12:20.874'
 - end: !human_time '00:12:27.748'
   lines:
-  - "\u0104Oh s\xED! \u0104Gracias por inventar la loter\xEDa!"
+  - "\xA1Oh s\xED! \xA1Gracias por inventar la loter\xEDa!"
   start: !human_time '00:12:25.078'
 - end: !human_time '00:12:31.351'
   lines:
@@ -1026,30 +1026,30 @@ units:
   start: !human_time '00:12:48.468'
 - end: !human_time '00:12:53.073'
   lines:
-  - "\u0104No se acerquen m\xE1s!"
+  - "\xA1No se acerquen m\xE1s!"
   start: !human_time '00:12:50.170'
 - end: !human_time '00:12:56.276'
   lines:
-  - "\u017CPuedo acercarme un poco?"
+  - "\xBFPuedo acercarme un poco?"
   - "Se me est\xE1n aplastando cosas valiosas."
   start: !human_time '00:12:53.574'
 - end: !human_time '00:12:59.980'
   lines:
-  - "\u017CQu\xE9 es m\xE1s importante?"
-  - "\u017CLos amigos o el dinero?"
+  - "\xBFQu\xE9 es m\xE1s importante?"
+  - "\xBFLos amigos o el dinero?"
   start: !human_time '00:12:57.578'
 - end: !human_time '00:13:01.548'
   lines:
-  - "-\u0104Los amigos!"
-  - "-\u0104El dinero!"
+  - "-\xA1Los amigos!"
+  - "-\xA1El dinero!"
   start: !human_time '00:13:00.280'
 - end: !human_time '00:13:07.254'
   lines:
-  - "\u0104Los amigos!"
+  - "\xA1Los amigos!"
   start: !human_time '00:13:06.153'
 - end: !human_time '00:13:10.958'
   lines:
-  - "Monica, \u017Cy tus billetes extra?"
+  - "Monica, \xBFy tus billetes extra?"
   start: !human_time '00:13:08.755'
 - end: !human_time '00:13:11.758'
   lines:
@@ -1085,17 +1085,17 @@ units:
   start: !human_time '00:13:55.869'
 - end: !human_time '00:14:00.974'
   lines:
-  - "\u017CY qu\xE9 Monica ?"
-  - "\u0104Tenemos los ganadores!"
+  - "\xBFY qu\xE9 Monica ?"
+  - "\xA1Tenemos los ganadores!"
   start: !human_time '00:13:57.671'
 - end: !human_time '00:14:03.076'
   lines:
   - Mi vidente dijo que iba a ganar,
-  - "\u017Crecuerdas?"
+  - "\xBFrecuerdas?"
   start: !human_time '00:14:00.974'
 - end: !human_time '00:14:07.948'
   lines:
-  - "Es extra\u0144o que no mencionara"
+  - "Es extra\xF1o que no mencionara"
   - nada sobre el palomo asustado.
   start: !human_time '00:14:04.478'
 - end: !human_time '00:14:12.553'
@@ -1124,7 +1124,7 @@ units:
 - end: !human_time '00:14:35.776'
   lines:
   - "\"No deb\xED haber tirado los billetes"
-  - "de las manos de la bella se\u0144orita.\""
+  - "de las manos de la bella se\xF1orita.\""
   start: !human_time '00:14:31.772'
 - end: !human_time '00:14:39.279'
   lines:
@@ -1141,7 +1141,7 @@ units:
 - end: !human_time '00:14:56.864'
   lines:
   - '"-Chandler, habla Charlie."'
-  - "-\u0104Es \xE9l!"
+  - "-\xA1Es \xE9l!"
   start: !human_time '00:14:52.860'
 - end: !human_time '00:15:01.168'
   lines:
@@ -1157,7 +1157,7 @@ units:
   start: !human_time '00:15:04.471'
 - end: !human_time '00:15:12.579'
   lines:
-  - "-Lo siento cari\u0144o."
+  - "-Lo siento cari\xF1o."
   - -Lo siento amigo.
   start: !human_time '00:15:09.276'
 - end: !human_time '00:15:16.550'
@@ -1167,7 +1167,7 @@ units:
   start: !human_time '00:15:12.579'
 - end: !human_time '00:15:18.752'
   lines:
-  - "\u017CEra de la familia de Ralph Lauren ?"
+  - "\xBFEra de la familia de Ralph Lauren ?"
   start: !human_time '00:15:16.850'
 - end: !human_time '00:15:20.854'
   lines:
@@ -1188,7 +1188,7 @@ units:
   start: !human_time '00:15:27.861'
 - end: !human_time '00:15:34.768'
   lines:
-  - "Cari\u0144o, est\xE1s siendo muy fuerte con esto."
+  - "Cari\xF1o, est\xE1s siendo muy fuerte con esto."
   - "S\xE9 cu\xE1nto quer\xEDas ese trabajo."
   start: !human_time '00:15:30.264'
 - end: !human_time '00:15:38.071'
@@ -1197,12 +1197,12 @@ units:
   start: !human_time '00:15:35.969'
 - end: !human_time '00:15:43.177'
   lines:
-  - "Pero... \u0104vamos a ganar la loter\xEDa!"
+  - "Pero... \xA1vamos a ganar la loter\xEDa!"
   - "A\xFAn tenemos ciento treinta chances de ganar."
   start: !human_time '00:15:39.173'
 - end: !human_time '00:15:46.947'
   lines:
-  - "\u0104Ciento treinta y una!"
+  - "\xA1Ciento treinta y una!"
   start: !human_time '00:15:46.046'
 - end: !human_time '00:15:52.352'
   lines:
@@ -1211,7 +1211,7 @@ units:
   start: !human_time '00:15:49.750'
 - end: !human_time '00:15:56.056'
   lines:
-  - "Y recuerda, eres la peque\u0144a de papi."
+  - "Y recuerda, eres la peque\xF1a de papi."
   start: !human_time '00:15:52.352'
 - end: !human_time '00:15:58.759'
   lines:
@@ -1247,11 +1247,11 @@ units:
   start: !human_time '00:16:15.676'
 - end: !human_time '00:16:19.746'
   lines:
-  - "\u0104Estamos en camino chicos!"
+  - "\xA1Estamos en camino chicos!"
   start: !human_time '00:16:17.477'
 - end: !human_time '00:16:23.350'
   lines:
-  - "\u0104Vamos!"
+  - "\xA1Vamos!"
   start: !human_time '00:16:21.849'
 - end: !human_time '00:16:27.354'
   lines:
@@ -1270,8 +1270,8 @@ units:
   start: !human_time '00:16:31.758'
 - end: !human_time '00:16:36.864'
   lines:
-  - "\u0104Verifiquen sus n\xFAmeros!"
-  - "\u0104H\xE1ganme rica!"
+  - "\xA1Verifiquen sus n\xFAmeros!"
+  - "\xA1H\xE1ganme rica!"
   start: !human_time '00:16:34.461'
 - end: !human_time '00:16:43.470'
   lines:
@@ -1280,11 +1280,11 @@ units:
   start: !human_time '00:16:39.867'
 - end: !human_time '00:16:45.172'
   lines:
-  - "y ha dicho \u0104su primera palabra!"
+  - "y ha dicho \xA1su primera palabra!"
   start: !human_time '00:16:43.470'
 - end: !human_time '00:16:47.875'
   lines:
-  - "\u017CQu\xE9 dijo?"
+  - "\xBFQu\xE9 dijo?"
   start: !human_time '00:16:46.073'
 - end: !human_time '00:16:50.277'
   lines:
@@ -1292,11 +1292,11 @@ units:
   start: !human_time '00:16:47.875'
 - end: !human_time '00:16:55.949'
   lines:
-  - "\u0104H\xE1ganme rica!"
+  - "\xA1H\xE1ganme rica!"
   start: !human_time '00:16:54.448'
 - end: !human_time '00:16:58.552'
   lines:
-  - "\u017CNo es asombroso?"
+  - "\xBFNo es asombroso?"
   start: !human_time '00:16:57.451'
 - end: !human_time '00:17:01.154'
   lines:
@@ -1304,7 +1304,7 @@ units:
   start: !human_time '00:16:58.552'
 - end: !human_time '00:17:02.656'
   lines:
-  - "\u017CPor qu\xE9 no est\xE1s emocionado?"
+  - "\xBFPor qu\xE9 no est\xE1s emocionado?"
   start: !human_time '00:17:01.154'
 - end: !human_time '00:17:05.959'
   lines:
@@ -1312,11 +1312,11 @@ units:
   start: !human_time '00:17:03.357'
 - end: !human_time '00:17:09.463'
   lines:
-  - "\u0104Por supuesto que lo es!"
+  - "\xA1Por supuesto que lo es!"
   start: !human_time '00:17:07.561'
 - end: !human_time '00:17:11.565'
   lines:
-  - "Ok, \u017Cqu\xE9 significa?"
+  - "Ok, \xBFqu\xE9 significa?"
   start: !human_time '00:17:09.463'
 - end: !human_time '00:17:14.268'
   lines:
@@ -1354,7 +1354,7 @@ units:
   start: !human_time '00:17:35.255'
 - end: !human_time '00:17:41.061'
   lines:
-  - "\u017CPor qu\xE9 no buscas: \"pffrrtt\"?"
+  - "\xBFPor qu\xE9 no buscas: \"pffrrtt\"?"
   start: !human_time '00:17:38.358'
 - end: !human_time '00:17:54.675'
   lines:
@@ -1363,11 +1363,11 @@ units:
   start: !human_time '00:17:51.271'
 - end: !human_time '00:18:02.850'
   lines:
-  - "\u0104Va a ser cient\xEDfica!"
+  - "\xA1Va a ser cient\xEDfica!"
   start: !human_time '00:17:59.947'
 - end: !human_time '00:18:13.861'
   lines:
-  - "\u017CAlguien tiene algo?"
+  - "\xBFAlguien tiene algo?"
   start: !human_time '00:18:11.658'
 - end: !human_time '00:18:15.863'
   lines:
@@ -1387,7 +1387,7 @@ units:
   start: !human_time '00:18:35.449'
 - end: !human_time '00:18:39.753'
   lines:
-  - "\u0104Ah! La llamada \"lo sentimos, te rechazamos\"."
+  - "\xA1Ah! La llamada \"lo sentimos, te rechazamos\"."
   start: !human_time '00:18:37.050'
 - end: !human_time '00:18:41.555'
   lines:
@@ -1414,7 +1414,7 @@ units:
   start: !human_time '00:18:51.765'
 - end: !human_time '00:18:56.069'
   lines:
-  - "\u0104No, no! Me encantar\xEDa ser"
+  - "\xA1No, no! Me encantar\xEDa ser"
   - el asistente de alguien,
   start: !human_time '00:18:54.067'
 - end: !human_time '00:18:59.173'
@@ -1428,7 +1428,7 @@ units:
   start: !human_time '00:18:59.173'
 - end: !human_time '00:19:03.777'
   lines:
-  - "\u0104\"Pedos\", \"Tetas\", \"Raya del culo\"!"
+  - "\xA1\"Pedos\", \"Tetas\", \"Raya del culo\"!"
   start: !human_time '00:19:00.974'
 - end: !human_time '00:19:09.550'
   lines:
@@ -1441,7 +1441,7 @@ units:
   start: !human_time '00:19:09.550'
 - end: !human_time '00:19:16.657'
   lines:
-  - "\u017CYo? \u017CEl que acaba de decir"
+  - "\xBFYo? \xBFEl que acaba de decir"
   - '"Rayae del culo"?'
   start: !human_time '00:19:14.655'
 - end: !human_time '00:19:19.059'
@@ -1456,11 +1456,11 @@ units:
 - end: !human_time '00:19:28.669'
   lines:
   - "Bien, gracias, no se arrepentir\xE1n."
-  - "Nos vemos ma\u0144ana."
+  - "Nos vemos ma\xF1ana."
   start: !human_time '00:19:25.365'
 - end: !human_time '00:19:42.449'
   lines:
-  - "\u017CQu\xE9?"
+  - "\xBFQu\xE9?"
   start: !human_time '00:19:41.448'
 - end: !human_time '00:19:45.452'
   lines:
@@ -1472,7 +1472,7 @@ units:
   start: !human_time '00:19:49.656'
 - end: !human_time '00:19:53.060'
   lines:
-  - "\u017CEso significa que tendr\xE9"
+  - "\xBFEso significa que tendr\xE9"
   - '"amorcito" esta noche?'
   start: !human_time '00:19:50.757'
 - end: !human_time '00:19:56.163'
@@ -1494,7 +1494,7 @@ units:
   start: !human_time '00:20:01.368'
 - end: !human_time '00:20:04.872'
   lines:
-  - "\u017CEn serio? \u017CQu\xE9?"
+  - "\xBFEn serio? \xBFQu\xE9?"
   start: !human_time '00:20:02.970'
 - end: !human_time '00:20:06.473'
   lines:
@@ -1515,7 +1515,7 @@ units:
   start: !human_time '00:20:15.249'
 - end: !human_time '00:20:26.460'
   lines:
-  - "\u017CSaben qu\xE9? Una peque\u0144a parte"
+  - "\xBFSaben qu\xE9? Una peque\xF1a parte"
   - "de m\xED que pensaba que ganar\xEDamos."
   start: !human_time '00:20:22.656'
 - end: !human_time '00:20:28.161'
@@ -1529,7 +1529,7 @@ units:
   start: !human_time '00:20:28.161'
 - end: !human_time '00:20:37.371'
   lines:
-  - "Chicos, \u017Ccu\xE1l fue el n\xFAmero de la s\xFAper-bola?"
+  - "Chicos, \xBFcu\xE1l fue el n\xFAmero de la s\xFAper-bola?"
   start: !human_time '00:20:34.368'
 - end: !human_time '00:20:39.173'
   lines:
@@ -1537,11 +1537,11 @@ units:
   start: !human_time '00:20:37.971'
 - end: !human_time '00:20:40.774'
   lines:
-  - "\u0104Ganamos!"
+  - "\xA1Ganamos!"
   start: !human_time '00:20:39.773'
 - end: !human_time '00:20:44.778'
   lines:
-  - "\u017CQu\xE9?  \u0104D\xE9jame ver!"
+  - "\xBFQu\xE9?  \xA1D\xE9jame ver!"
   start: !human_time '00:20:40.774'
 - end: !human_time '00:20:48.348'
   lines:
@@ -1555,12 +1555,12 @@ units:
   start: !human_time '00:20:50.651'
 - end: !human_time '00:20:55.856'
   lines:
-  - "\u0104Ganamos tres d\xF3lares!"
+  - "\xA1Ganamos tres d\xF3lares!"
   start: !human_time '00:20:53.954'
 - end: !human_time '00:21:01.562'
   lines:
-  - "Genial, \u017Ccrees que nos los dar\xE1n en"
-  - "veinte a\u0144os? Es un gran desembolso."
+  - "Genial, \xBFcrees que nos los dar\xE1n en"
+  - "veinte a\xF1os? Es un gran desembolso."
   start: !human_time '00:20:57.558'
 - end: !human_time '00:21:05.165'
   lines:
@@ -1569,11 +1569,11 @@ units:
   start: !human_time '00:21:02.162'
 - end: !human_time '00:21:06.767'
   lines:
-  - "\u0104No lo puedo creer!"
+  - "\xA1No lo puedo creer!"
   start: !human_time '00:21:05.165'
 - end: !human_time '00:21:08.769'
   lines:
-  - "Phoebe, \u017CQu\xE9 hacr\xE1s con tus tres d\xF3lares?"
+  - "Phoebe, \xBFQu\xE9 hacr\xE1s con tus tres d\xF3lares?"
   start: !human_time '00:21:06.767'
 - end: !human_time '00:21:12.773'
   lines:
@@ -1582,7 +1582,7 @@ units:
   start: !human_time '00:21:09.970'
 - end: !human_time '00:21:16.276'
   lines:
-  - "\u017CSabes qu\xE9? Puedes quedarte los m\xEDos."
+  - "\xBFSabes qu\xE9? Puedes quedarte los m\xEDos."
   start: !human_time '00:21:14.074'
 - end: !human_time '00:21:17.177'
   lines:
@@ -1606,7 +1606,7 @@ units:
   start: !human_time '00:21:41.301'
 - end: !human_time '00:21:45.939'
   lines:
-  - "\u017CPueden creer que nadie gan\xF3?"
+  - "\xBFPueden creer que nadie gan\xF3?"
   start: !human_time '00:21:44.638'
 - end: !human_time '00:21:48.642'
   lines:
@@ -1631,7 +1631,7 @@ units:
   start: !human_time '00:22:09.530'
 - end: !human_time '00:22:13.333'
   lines:
-  - "\"no culpen a la bella se\u0144orita.\""
+  - "\"no culpen a la bella se\xF1orita.\""
   start: !human_time '00:22:11.431'
 - end: !human_time '00:22:17.738'
   lines:

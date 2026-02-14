@@ -1,19 +1,19 @@
-encoding: !!python/unicode 'windows-1256'
+encoding: windows-1256
 errors: []
 warnings:
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
-  !!python/unicode 'line': "{\\pos(190,60)\\fs50\\fad(300,1500)\\c&H0000FF&\\3c&HF8FC4E&}\u0643\
-    \u0640\u0640\u0627\u0646 \u064A\u0627 \u0645\u0627 \u0643\u0640\u0640\u0627\u0646"
-  !!python/unicode 'line_number': 162
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
-  !!python/unicode 'line': "{\\fad(300,1500)\\c&H38C109&\\3c&H603517&}\u0627\u0644\
-    \u0645\u0648\u0633\u0640\u0640 3 \u0640\u0640\u0645 - \u0627\u0644\u062D\u0644\
-    \u0642\u0640\u0640 14 \u0640\u0640\u0629"
-  !!python/unicode 'line_number': 166
-- !!python/unicode 'col': 1
-  !!python/unicode 'description': !!python/unicode 'Tagged header not fully parsed.'
-  !!python/unicode 'line': "{\\fad(300,1500)\\c&HFF6400&\\3c&H00FFFF&}( The Tower\
-    \ ) \u0627\u0644\u0628\u0631\u062C"
-  !!python/unicode 'line_number': 167
+- col: 1
+  description: Tagged header not fully parsed.
+  line: "{\\pos(190,60)\\fs50\\fad(300,1500)\\c&H0000FF&\\3c&HF8FC4E&}\u0643\u0640\
+    \u0640\u0627\u0646 \u064A\u0627 \u0645\u0627 \u0643\u0640\u0640\u0627\u0646"
+  line_number: 162
+- col: 1
+  description: Tagged header not fully parsed.
+  line: "{\\fad(300,1500)\\c&H38C109&\\3c&H603517&}\u0627\u0644\u0645\u0648\u0633\u0640\
+    \u0640 3 \u0640\u0640\u0645 - \u0627\u0644\u062D\u0644\u0642\u0640\u0640 14 \u0640\
+    \u0640\u0629"
+  line_number: 166
+- col: 1
+  description: Tagged header not fully parsed.
+  line: "{\\fad(300,1500)\\c&HFF6400&\\3c&H00FFFF&}( The Tower ) \u0627\u0644\u0628\
+    \u0631\u062C"
+  line_number: 167

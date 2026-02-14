@@ -1136,7 +1136,7 @@ units:
   start: !human_time '00:22:18.731'
 - end: !human_time '00:22:22.410'
   lines:
-  - "Verdomme! \u0104verdomme! Verdomme!"
+  - "Verdomme! \u02C7verdomme! Verdomme!"
   start: !human_time '00:22:20.646'
 - end: !human_time '00:22:24.652'
   lines:
@@ -4617,7 +4617,7 @@ units:
   start: !human_time '01:26:39.798'
 - end: !human_time '01:26:43.999'
   lines:
-  - "\u0104Tommy, antwoord!"
+  - "\u02C7Tommy, antwoord!"
   start: !human_time '01:26:41.999'
 - end: !human_time '01:26:52.859'
   lines:
